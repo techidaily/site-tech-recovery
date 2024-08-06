@@ -1,7 +1,7 @@
 ---
 title: "How To Enhance iCloud Email Security Using 2FA: A Step-by-Step Guide"
-date: 2024-08-04 11:25:15
-updated: 2024-08-06 11:39:45
+date: 2024-08-05T02:34:37.954Z
+updated: 2024-08-06T02:34:37.954Z
 categories:
   - BestProducts
 description: "This Article Describes How To Enhance iCloud Email Security Using 2FA: A Step-by-Step Guide"
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
  You must[set up an @icloud.com email address](https://www.lifewire.com/how-to-create-an-icloud-email-4584873) before you can use Mail on iCloud.com and set up two-factor authentication.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Set up Two-Factor Authentication for iCloud Mail Using a Mac
 
 1. Go to the**Apple** menu and select**System Settings** .  
@@ -31,6 +34,9 @@ This option might be labeled System Preferences.
 ![Sign-In & Security from Apple ID settings on macOS.](https://www.lifewire.com/thmb/KizCBIJYRDaxwozjguG9IejZ-uM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-secure-icloud-mail-1172270-0a704be39f124dcf8bc8718805cce537.jpg)
 4. Select**Turn on** beside**Two-Factor Authentication** .  
 Add your Apple ID email and password if prompted.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Two-Factor Authentication option from Apple ID Sign-In & Security settings in macOS.](https://www.lifewire.com/thmb/HYUboXf84Ofbntu2tKRF8QnJetU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-secure-icloud-mail-1172270-0712d00f8b0c48b7bbe303072da6bda0.jpg)
 5. Answer security questions and click**Continue** \>**Verify** when you're done.
 6. Enter the phone number you want to use for verification codes and select**Continue** again.
@@ -43,17 +49,29 @@ Add your Apple ID email and password if prompted.
 1. Go to**Settings** \>**Apple ID** \>**Sign-In & Security** .  
  In older iOS versions, tap**Apple ID** \>**Password & Security** .
 2. Tap**Turn on Two-Factor Authentication** \>**Continue** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Two-Factor Authentication from Apple ID Sign-in & Security settings on iPhone.](https://www.lifewire.com/thmb/w6ToZpP0mjCDuwvLOFtDeUE5u5U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_set-up-two-factor-authentication-on-iphone-4799065-baf427a2337145ae8376c379f3f0f6aa.jpg)
 3. Enter the phone numbers you want to use as Trusted Phone Numbers. Choose to receive the two-factor authentication codes by text message or automated phone call.
 4. When you tap**Next** , Apple sends a verification code to the phone number you provided. Enter the verification code to verify your phone number and turn on two-factor authentication.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Turn on Two-Factor Authentication Using a Web Browser
 
  If you don't have access to a Mac or iOS device, use a browser to turn on two-factor authentication.
 
 1. In a browser, go to the[Apple ID page](https://appleid.apple.com/) .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Apple ID website login screen.](https://www.lifewire.com/thmb/aOvqwIDriowUVyMouAFdVf6VvKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-secure-icloud-mail-1172270-21be3907235f4fd49e50303dfec9d3a6.jpg)
 2. Sign in and scroll down to**Sign-In &** **Security** \>**Account Security** .  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Account Security option from Sign-In and Security on the Apple ID website.](https://www.lifewire.com/thmb/q5BADZA-uCQ--WJfqsKL8vaXLKE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-secure-icloud-mail-1172270-166fdec30d724506a935ec6e06bcefc6.jpg)
 3. Follow the prompts to create security questions and trusted phone numbers.
 
@@ -68,6 +86,9 @@ Add your Apple ID email and password if prompted.
 3. From**Sign-In & Security** , select **App-specific Passwords** .  
 ![App-Specific Passwords tile from the Sign-in and Security page on the Apple ID website.](https://www.lifewire.com/thmb/hZiXrBFV7cRxc8J_m7V9Nhp2_m4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-secure-icloud-mail-1172270-e4b8291f13e24a29a3f8dc04db6084f4.jpg)
 4. Select**Generate an app-specific password** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Generate an app-specific password option from the Sign-In and Security section of the Apple ID website.](https://www.lifewire.com/thmb/ZJkeIEa9_oVjRcWPmYgGm3gOiAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-secure-icloud-mail-1172270-7bfbc4e8037945ba9a9f5156f9b4fd51.jpg)
 5. Enter a label for the program or service for which you want to create the password and select**Create** .  
 ![Dialog box to enter a label and create a password for a particular app on the Apple ID website.](https://www.lifewire.com/thmb/rC8XT5lfXdTwb6jTQuxiRzwRFCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_how-to-secure-icloud-mail-1172270-3e092d565ea944ac8b4df1e443ce4d07.jpg)

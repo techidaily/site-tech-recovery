@@ -1,7 +1,7 @@
 ---
 title: Integrating Google Cast on Amazon's Firestick for Enhanced Viewing
-date: 2024-08-03 18:53:35
-updated: 2024-08-05 11:44:13
+date: 2024-08-05T02:34:09.501Z
+updated: 2024-08-06T02:34:09.501Z
 categories:
   - BestProducts
 description: This Article Describes Integrating Google Cast on Amazon's Firestick for Enhanced Viewing
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/E7Vx2go7_C0WGJ18TLgiSMGu8qE=/540x405/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Some Android devices can cast to Fire Sticks using Miracast.
@@ -28,10 +31,16 @@ Close
  Here’s how to cast to Fire Stick like Chromecast (Steps will vary depending on your smartphone.):
 
 1. On your Fire Stick, open**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Fire Stick settings with Settings highlighted](https://www.lifewire.com/thmb/3hEnjoNA2DpgTsM2ct0BWRj1nEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FireStickSettingsannotated-7d9610ef9fd54149b40d083c1399a594.jpg)
 2. Select**Display & Sounds** .  
 ![Display and Sounds highlighted in Fire Stick Settings.](https://www.lifewire.com/thmb/oYgBchK5nQb_5PHZS_b4jLiYVwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayandsoundsannotated-86fc7ed6a6d949638dca907009b4709f.jpg)
 3. Select**Enable Display Mirroring** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Enable Display Mirroring highlighted in Fire Stick settings.](https://www.lifewire.com/thmb/VXn_CNf7YuGGqjVsUT2sFDPcaZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EnableDisplayMirroringannotated-737b93b76fa941bfa50c2c5a32d7f3ed.jpg)
 4. Wait for the screen to display that mirroring is active.  
 ![A Fire Stick ready for casting with mirroring active message highlighted](https://www.lifewire.com/thmb/_Pa2AjhDagoNVcSTLd7otWNEX-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mirroringactiveannotated-339905618a3443b39da11d78c2c32097.jpg)
@@ -43,6 +52,9 @@ Close
  If your phone doesn’t have a**menu icon** on this screen, it doesn’t support native casting to Fire Sticks and other non-Chromecast devices. Devices with stock Android, like Google Pixel, don't have this menu icon.
 9. Tap**Enable wireless display** .
 10. Tap**your Fire Stick** in the list of devices.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Cast settings with the Menu icon, "Enable Wireless Display" and fire stick device highlighted](https://www.lifewire.com/thmb/VJjFufNAC80R-kWzzfsyeKWFmsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Enablewirelessdisplay-cac2c81c8ba0491388121b77e83ea7e2.jpg)
 11. Your phone display is now mirrored to your Fire Stick. Open the app you want to cast, and rotate your phone into horizontal mode.
 
@@ -66,14 +78,29 @@ Close
 3. Open the**Screen Mirroring** app on your phone and tap**your Fire TV** in the list of devices.
 4. On the initial setup, select**OK** to install the Screen Mirroring app on your Fire Stick.
 5. Tap**Start Mirroring** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screen Mirroring app in initial Fire Stick selection.](https://www.lifewire.com/thmb/j8MX6MLhRLKHH8vckBrZh3jfbd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/howtochromecasttoyourfirestick-1copy-fdd8da739fee4c2f81d07c0340269f61.jpg)
 6. Tap**WATCH AD** , and watch the ad.  
  This is a free app, so you have to either watch an ad or purchase the pro version
 7. When you're done watching the ad, tap**Start now** .
 8. Your phone screen is now mirrored to your Fire Stick.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Screen Mirroring app with "Watch Ad," "Start now," and connection message highlighted](https://www.lifewire.com/thmb/ELcU8N5xF7RngnqMKRikmUB9o0I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/StartMirroring-adad2c9345864536a0e7fcf9a8340741.jpg)
 9. Select the app you want to cast, and watch it on your TV.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Can I Chromecast to a Fire Stick? 
 
  Android devices are designed to cast seamlessly to[ Chromecast devices](https://www.lifewire.com/guide-to-chromecast-2438213) with the tap of a button. That functionality isn’t available for Fire Stick. While Fire Sticks do support screen mirroring through[ Miracast](https://www.lifewire.com/miracast-wireless-connectivity-1846853) , Google removed support for Miracast from stock Android starting with Android 6.0.

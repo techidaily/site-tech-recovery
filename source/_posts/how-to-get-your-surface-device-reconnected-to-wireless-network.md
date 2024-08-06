@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Surface Device Reconnected to Wireless Network
-date: 2024-08-03 16:50:11
-updated: 2024-08-06 12:54:34
+date: 2024-08-05T02:35:08.487Z
+updated: 2024-08-06T02:35:08.487Z
 categories:
   - BestProducts
 description: This Article Describes How to Get Your Surface Device Reconnected to Wireless Network
@@ -12,6 +12,9 @@ thumbnail: https://www.lifewire.com/thmb/bNBDYoBX-RsnR8bDJaJ89YVTYl0=/540x405/fi
 ## Wi-Fi Woes? Here’s How You Can Get Your Surface Pro Connected Again
  If your Microsoft Surface won't connect to Wi-Fi, it won't be able to download files or load websites. You might also notice the Wi-Fi signal strength icon in the taskbar disappears, shows low signal strength, or shows an X. In this article, we'll help you fix your Surface Pro's Wi-Fi problem so you can get back online.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Why a Surface Pro Won't Connect to Wi-Fi
 
  A long list of issues can cause Wi-Fi problems.
@@ -23,12 +26,18 @@ thumbnail: https://www.lifewire.com/thmb/bNBDYoBX-RsnR8bDJaJ89YVTYl0=/540x405/fi
 * Malfunctioning VPN
 * Wi-Fi adapter driver or hardware failure
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixes for Surface Pro Not Connecting to Wi-Fi
 
  The long list of potential problems can make Wi-Fi issues intimidating. Fortunately, the fix is often simple. Follow these solutions in the order you see them here, which are ranked from least to most complex:
 
 1. Turn Wi-Fi on. It might seem obvious, but it's easy to accidentally switch it off, and it takes just a few seconds to confirm if this is why the Surface Pro won't connect to the internet.  
  To check, select the**Wi-Fi icon** next to the clock. If the tile is not highlighted, then Wi-Fi is off. Select it once to switch it on.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows Wi-Fi manager open with wireless networks visible.](https://www.lifewire.com/thmb/OGtupdHh609ektjxSxXByPO0yp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-FixSurfaceProNotConnectingtoWi-Fi-annotated-b9aea0142cbe4240a164d03b898f401b.jpg)
 2. [Turn off Airplane Mode](https://www.lifewire.com/windows-10-and-android-airplane-modes-4148142) . This is a useful feature, but only in very specific situations. When it's on, this mode turns_off_ Wi-Fi.  
  Sometimes you can toggle Airplane Mode on and off to fix Wi-Fi problems. For example, if it's already off, go ahead and switch it on for five seconds. Then, turn it back off and see if Wi-Fi works.
@@ -46,6 +55,10 @@ thumbnail: https://www.lifewire.com/thmb/bNBDYoBX-RsnR8bDJaJ89YVTYl0=/540x405/fi
    * Qualcomm Atheros QCA61x4A Wireless Network Adapter  
    * Marvel AVASTAR Network Controller  
 [Disable the adapter](https://www.lifewire.com/how-do-i-disable-a-device-in-device-manager-in-windows-2619212) , wait a few seconds, and then[enable it again](https://www.lifewire.com/how-do-i-enable-a-device-in-device-manager-in-windows-2619215) . Finally,[restart your Surface Pro](https://www.lifewire.com/restart-surface-pro-5112628) .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![A screenshot of Windows Device Manager open with a Wi-Fi adapter selected](https://www.lifewire.com/thmb/oJzAm3YseVTxhCuIR_aYn3ZgLy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how_to_fix_surface_wifi_1-0ca9b10f52a840159d218d1f87895137.jpg)  
 Matthew S. Smith / Lifewire  
  If none of the above Wi-Fi adapters are listed, it likely means your Surface Pro's Wi-Fi adapter has a hardware issue.[Microsoft suggests you contact customer support](https://support.microsoft.com/contactus) for further troubleshooting and repair.

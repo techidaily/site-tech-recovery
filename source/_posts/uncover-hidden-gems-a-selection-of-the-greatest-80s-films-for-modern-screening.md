@@ -1,7 +1,7 @@
 ---
 title: "Uncover Hidden Gems: A Selection of the Greatest '80S Films for Modern Screening"
-date: 2024-08-05 15:12:28
-updated: 2024-08-06 11:53:49
+date: 2024-08-05T02:34:30.442Z
+updated: 2024-08-06T02:34:30.442Z
 categories:
   - BestProducts
 description: "This Article Describes Uncover Hidden Gems: A Selection of the Greatest '80S Films for Modern Screening"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 
  This article explains three easy ways to open a Pages document on your Windows computer. The instructions assumes you have the[Pages file](https://www.lifewire.com/what-is-a-pages-file-2622800) already saved on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Open a Pages File Using iCloud
 
  You don’t have to own an iPhone to have an[iCloud account](https://www.lifewire.com/icloud-faq-1999497) . Apple offers its cloud service for free, giving you a way not only to open a Pages document but edit it online or download it as a Microsoft Word or PDF file. It's is an excellent option if you anticipate receiving additional Pages files.
@@ -26,12 +29,21 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 2. Select **Pages** from the grid of apps.  
 ![iCloud app grid with Pages highlighted](https://www.lifewire.com/thmb/qJ3Ww8oOktjDOgvGuKv0JelG3tA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pages-7110cf31e48e4bae9133fccabacab664.jpg)
 3. In the Recents or Browse section, select**Upload** at the top.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![iCloud upload icon highlighted](https://www.lifewire.com/thmb/FKbGkNO78-UtNwlsIf_DhD_xRos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Upload-30fe94962408447da1e03b18aa74203d.jpg)
 4. Browse for and select the**Pages** file, then choose**Open** .  
 ![File browsing window with the Pages file and "Open" highlighted](https://www.lifewire.com/thmb/Fss9CIM1vsp6Gqm9iTRleQGm-I0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pagesfileopen-3814642addc445e8a86a694d3a6b2d9f.jpg)
 5. You’ll see the Pages file in the Browse section. Double-click to open, view, and edit the document online.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Pages file in iCloud highlighted](https://www.lifewire.com/thmb/6cvAbibnpx257jk0CGVCJ3y2ClI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pagesfile-baf901f85a414454b78cff5aa9e15571.jpg)
 6. If you prefer to download the document, select the**ellipsis** (three dots) on the bottom right corner of the file, then choose**Download a Copy** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pages file in iCloud with "Download a Copy" highlighted](https://www.lifewire.com/thmb/RsiWblXgZnXiOAlWBe0KZyXKCqE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Downloadacopy-891739d3aae64002839b6d9dc2174734.jpg)
 7. Choose **PDF** or **Word** per your preference.  
 ![iCloud download formats with PDF and Word highlighted](https://www.lifewire.com/thmb/87oP7ttJnAsrMpJlTAY3RHKps5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PDForWord-10c7a04cc07f48359e4eb7b145dba808.jpg)
@@ -47,11 +59,17 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 3. Browse for and select the Pages file, then select**Open** .  
 ![File list with Pages file and Open highlighted](https://www.lifewire.com/thmb/bvKyYAehe8Sc1Dfho6IYbeiRlMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PagesfileOpen2-62b4a45a63e94fc493fea3568b4ee115.jpg)
 4. Confirm that the right format is chosen (**DOC** ,**DOCX** , or**PDF** ). Then select**Convert** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Pages to Word Converter with the Pages document and Convert highlighted](https://www.lifewire.com/thmb/zqvETFwmB94hW0UeoIp114f9rig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/convert-ea985d99bb8344a2a09eda548a9946de.jpg)
 5. You’ll see the conversion as it processes and then finishes. Select**Download** to get the converted file.  
 ![Pages to word converter process with Download highlighted](https://www.lifewire.com/thmb/V9UjdETNc8ZjjVmSBcGdksYxHUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DownloadPagesfile-0017cc7494334bf788c62b0300e4af86.jpg)
 6. Follow the subsequent prompt to download the file to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Convert and Send a Pages File Using an iPhone or iPad
 
  If you have an iPhone or iPad, you can quickly convert the Pages document to a Word or PDF file and then send it to your Windows computer.
@@ -61,9 +79,15 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 ![iOS Pages app with Share and Pages highlighted](https://www.lifewire.com/thmb/cuA92Rec-OnHVaUvCQM2bPg9QVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sharetopages-792778085e1c4d22a586fbccdd307b05.jpg)
 3. Tap the**Share** button in Pages, followed by**Export and Send** . Choose a format from the list, like**PDF** or**Word** .  
  If you don't see that on your device, tap the**ellipsis** (three dots) instead, then choose**Export** and pick **PDF** or **Word** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![iOS Pages app with More (three dots), Export, and PDF/Word highlighted](https://www.lifewire.com/thmb/C598CaqMqyVM3NXjacp3EbLTJtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ExporttoPDF-a5114792ff0141ef9c39d731d0d7a633.jpg)
 4. Your share sheet should open automatically, but if it doesn't tap **Export** or**Share** .
 5. Choose the best option to[send or share the file with your Windows computer](https://www.lifewire.com/access-iphone-files-on-pc-5180132) . For instance, you can send it via Mail, Gmail, Slack, or another method to easily obtain it on your PC.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![PDF export in Pages app with Share and share options highlighted](https://www.lifewire.com/thmb/tYJA0O93KMcRuzmcBflBb6CuBQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SharePDF-ae61c6c233af462980fe6e9a7ef87c1f.jpg)
 6. Follow the subsequent prompts, depending on the method you select, and then open the Word or PDF file on your Windows computer.
 

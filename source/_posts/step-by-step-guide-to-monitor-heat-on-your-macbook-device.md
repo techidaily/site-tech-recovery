@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Monitor Heat on Your MacBook Device
-date: 2024-08-03 13:58:24
-updated: 2024-08-06 11:36:51
+date: 2024-08-05T02:34:37.303Z
+updated: 2024-08-06T02:34:37.303Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Monitor Heat on Your MacBook Device
@@ -24,23 +24,42 @@ thumbnail: https://www.lifewire.com/thmb/ymM1wcX9ajBi3tYIzdS2HGWBgBM=/400x300/fi
 
 1. Open Terminal on your MacBook Pro.
 2. Type in sudo powermetrics --samplers smc |grep -i "CPU die temperature"  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![MacOS Terminal with sudo command open on it](https://www.lifewire.com/thmb/jF7hlc1T0UiENKP8XwavK0wAA9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-macbook-temperature-51841461-9f21df1004d74da5b407014e2649e419.jpg)
 3. Enter your Mac's passwordWait for Terminal to display your CPU temperature..
 4. Wait for Terminal to display your CPU temperature.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MacOS Terminal with CPU temperature displayed](https://www.lifewire.com/thmb/i8TSYr_8KPF_5FPJfkO8Zac1ACg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-macbook-temperature-51841462-c1a91325952341359ec6f50fbb9d3af6.jpg)  
  Terminal will continue to update the temperature until you close the app. This command doesn't work with M1-based Macs.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## How Do I Monitor the Temperature on My Mac?  
 
  If you'd prefer to monitor the temperature on your Mac regularly, there's a much simpler way than using Terminal commands, and it looks more stylish too. However, it requires downloading a separate app. Here's how to use Fanny to check the temperature via the Menu Bar.  
  Fanny needs to be downloaded, but you don't need to install it to your Mac to use it.
 5. Download Fanny from the[Fanny Widget site](https://www.fannywidget.com/) .
 6. Open the app, and it's automatically placed in your Menu Bar.  
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MacOS desktop with Fanny app highlighted](https://www.lifewire.com/thmb/apwFPfJdIWzrRJKEjomXGrhJgTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-macbook-temperature-51841463-c96a8e1ffed6443fa7f7349a5a649c75.jpg)
 7. Click the Fanny icon on the Menu Bar to view your CPU and GPU's current temperature.  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MacOS desktop with Fanny app open and displaying temperatures](https://www.lifewire.com/thmb/RcFweE0ZUPFhjtQFjbGDzy7P_fg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-macbook-temperature-51841464-3aa2d26ccbe9448fa74f087e753e4dd0.jpg)  
  Fanny also provides information regarding how well the fans perform on your Mac which can help you troubleshoot any potential issues.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How Do I Know if My Mac Is Overheating?  
 
  If you're worried your Mac is overheating, there are some simple precautions you can take to avoid the issue. Here's a look at some of the key ways to prevent your Mac from overheating.  

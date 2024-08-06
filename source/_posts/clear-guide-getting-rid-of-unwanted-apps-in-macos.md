@@ -1,7 +1,7 @@
 ---
 title: "Clear Guide: Getting Rid of Unwanted Apps in macOS"
-date: 2024-08-02 20:49:36
-updated: 2024-08-05 10:12:28
+date: 2024-08-05T02:34:05.253Z
+updated: 2024-08-06T02:34:05.253Z
 categories:
   - BestProducts
 description: "This Article Describes Clear Guide: Getting Rid of Unwanted Apps in macOS"
@@ -14,18 +14,27 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  Instructions in this article apply to Windows 11, Windows 10, Windows 8.1, and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Clean up Junk Files and Programs
 
  Getting rid of unnecessary files, applications, and other "junk" is an effective way to speed up any computer. Freeing your computer of these unnecessary items opens up storage for your important things and helps with overall performance.
 
 1. [Remove junk files](https://www.lifewire.com/remove-junk-files-from-windows-11-5191868) . You have several options, but one is to use a free system cleaner like[CCleaner](https://www.ccleaner.com/ccleaner) to erase unnecessary files in the Windows OS itself and third-party programs like your web browsers, which like to collect huge, safe-to-delete cache files.  
  If these temporary internet files and other useless items stick around for too long, they can not only cause programs to hang and become unresponsive and sluggish but also take up valuable hard drive space.  
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A list of junk files analyzed by CCleaner](https://www.lifewire.com/thmb/fcJdBbMmX-n1fr28E8-tAXm60bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ccleaner-f6f275a2e09b4fa8821c232149546fd7.png)
 2. [Remove unwanted programs](https://www.lifewire.com/windows-uninstaller-to-remove-unused-programs-3506955) that are just lingering on your computer. These are not only taking up hard drive space but they might [open automatically with Windows](https://www.lifewire.com/change-startup-programs-windows-11-6823499) and be running in the background all the time, sucking away at the processor and memory.  
  There are several[free program uninstaller apps](https://www.lifewire.com/free-uninstaller-programs-2625188) that make doing this really easy.
 3. Also considered junk files are anything you simply don't use or want anymore. So, delete those old video files that you downloaded a year ago and[back up all the data you rarely access](https://www.lifewire.com/ways-to-back-up-your-data-2640426) , like vacation pictures.
 4. [Clean up your desktop](https://www.lifewire.com/cleaning-and-speeding-up-windows-desktop-3506952) if it's cluttered. Making File Explorer load those icons and folders each time the desktop refreshes can put unnecessary load on your hardware, which takes away[system resources](https://www.lifewire.com/what-is-a-system-resource-2626016) that could be used elsewhere.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Defrag Your Hard Drive
 
  Another way you can speed up a computer is by defragging the hard drive. This consolidates all the empty spaces that you create in the[file system](https://www.lifewire.com/what-is-a-file-system-2625880) structure as you add and remove files. These empty spaces make your hard drive take longer to think, which in turn causes files, folders, and programs to open slowly.
@@ -34,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
 [How Often Should You Defrag Your Computer?](https://www.lifewire.com/how-often-should-you-defrag-3976922)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Remove Viruses, Malware, Spyware, Adware, etc
 
  Every Windows computer is vulnerable to malware, but your risk of infection is low if you regularly use anti-malware programs.
@@ -50,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  These errors can cause things to lock up, halt program installs and updates, and generally prevent a smooth computer experience. Speeding up a computer this way is easy; just[repair the system files](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Adjust Visual Effects
 
  Windows provides numerous interesting visual effects including animated windows and fading menus. These extras are usually fine to have turned on, but they're only worth it if you have enough system memory.
@@ -76,6 +91,18 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  Reinstalling Windows is a permanent solution. Back up your files and make note of any programs you will want to reinstall.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Is My Computer So Slow?
 
  Over time, as you download files, browse the internet, remove programs, leave applications open, and do pretty much anything else on your computer, it slowly collects junk and causes behind-the-scenes problems that aren't always so easy to catch at first.

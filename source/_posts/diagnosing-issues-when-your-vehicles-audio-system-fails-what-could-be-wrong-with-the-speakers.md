@@ -1,7 +1,7 @@
 ---
 title: Diagnosing Issues When Your Vehicle's Audio System Fails - What Could Be Wrong with the Speakers?
-date: 2024-08-04 11:34:59
-updated: 2024-08-05 10:37:50
+date: 2024-08-05T02:35:12.818Z
+updated: 2024-08-06T02:35:12.818Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing Issues When Your Vehicle's Audio System Fails - What Could Be Wrong with the Speakers?
@@ -23,6 +23,9 @@ Close
 
  In order to narrow down the exact cause of this type of car audio problem, some basic troubleshooting is in order.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  Ruling Out the Head Unit and Amplifier 
 
  If your head unit turns on just fine, but you don’t get any sound from the speakers, it’s easy to jump to the conclusion that the speakers are the problem.
@@ -48,6 +51,9 @@ Close
 
  In that case, you may need to bypass the amplifier to verify that both the head unit and speakers are working, at which point you can either get by with your head unit’s internal amp or install a new aftermarket amp.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Checking Car Speaker Wiring 
 
  When you checked the fade and pan settings on your head unit, you may have discovered that they were set to a speaker or speakers that had failed and that you were able to get sound by moving to a speaker or speakers that work.
@@ -62,10 +68,16 @@ Close
 
  If your speakers are mounted in doors, then a common point of failure is where the speaker wire passes between the door and the door frame. Although door wiring harnesses are typically protected by hard rubber sheathes, the wires can still end up breaking over time due to the repeated stresses endured in opening and closing the doors. With that in mind, you may also want to check for continuity and shorts with the doors both open and closes. If you find that one speaker is shorted to ground in that manner, that can actually cause all of the speakers to cut out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Close-up of round speaker mounted on a car door](https://www.lifewire.com/thmb/jmwmi4I56vlQh-0-NXRf4XS55iE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1141216579-d778662ca7314d3bbd14812e64dd49ab.jpg) 
 
 Anton Minin / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing Car Speakers 
 
  Another way to test the speakers, and to rule out bad wiring at the same time, is to obtain some speaker wire and to run new, temporary wires to each speaker.
@@ -82,6 +94,9 @@ Anton Minin / Getty Images
 
  This may also be a good time to think about upgrading your car stereo as a whole, although selecting some good aftermarket speakers to replace the blown factory units can actually help a lot by itself.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Can You Tell If Car Speakers Are Blown Out? 
 
  It's pretty easy to tell when car speakers blow out if you're there when it happens because you'll immediately notice that they stop working or no longer sound normal.

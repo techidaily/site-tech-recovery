@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Reversing Videos on Snapchat - Learn How Today!
-date: 2024-08-02 14:52:52
-updated: 2024-08-05 12:57:23
+date: 2024-08-05T02:35:08.893Z
+updated: 2024-08-06T02:35:08.893Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Reversing Videos on Snapchat - Learn How Today!
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/Vg8haOKIRaAUg_-iU1i0KEe9j2c=/540x405/fi
 ---
 
 ## Elevate Email Privacy: Learn How to Safelist Contacts in Gmail Today
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What To Know
 
 * **Gear** \>**Settings** \>**Filters...Addresses** \>**Create...** \> Add the address to**From** \>**Create filter** . Check**Never... Spam** , and press**Create filter.**
@@ -17,11 +20,17 @@ thumbnail: https://www.lifewire.com/thmb/Vg8haOKIRaAUg_-iU1i0KEe9j2c=/540x405/fi
 
  This article explains how to create a filter in Gmail to always allow emails from a certain sender or domain, either from scratch or using an existing message similar to the ones you want to allow.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Start With Filters and Blocked Addresses
 
  The way to mark a specific email address or domain as allowed is to make an email filter.
 
 1. Open Gmail. In the upper-right corner, select the**Settings** (gear) icon. From the menu, choose**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings menu item in Gear icon for Gmail](https://www.lifewire.com/thmb/WlAG3HUR1Wh7gcE0q5RvutAP2pk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faa8246e0fb0001171827.jpg)
 2. Select**Filters and Blocked Addresses** .  
 ![Filters and Blocked Addresses tab in Gmail](https://www.lifewire.com/thmb/_9xw1NUAlMHL7bAlPahggss4cK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faaa046e0fb0001ebdc0d.jpg)
@@ -34,15 +43,30 @@ thumbnail: https://www.lifewire.com/thmb/Vg8haOKIRaAUg_-iU1i0KEe9j2c=/540x405/fi
 ![Create filter button in list of actions for Gmail filtered addresses](https://www.lifewire.com/thmb/VEgNOcD2Fld-QtjqcJqPPJfqPmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2fab2dc9e77c0001125823.jpg)
 7. If you want to allow more than one email address or domain, you need not repeat these steps for each one. Instead, put a vertical bar (and a space before and after it) between the separate accounts, as follows:**<person1@example.com>** |**<person2@anotherexample.com>** |**@example2.com** .
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Start With an Email Message
 
  You can also start the process of making an email filter in Gmail from a message from the person you want to add to the allowed list.
 
 1. Open the message.
 2. In the upper-right corner of the message, select the**three-dot** (menu) icon. Select**Filter messages like this** .  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filter messages like this menu option in Gmail](https://www.lifewire.com/thmb/8uMlTsSswTb_qf_FGt5Ph6hiALg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faa5f46e0fb0001ebcc4f.jpg)
 3. With the email address now auto-filled for you in the**From** field, follow steps 5 and 6 above.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Additional Gmail Filtering Tips
 
  When creating filters in Gmail, keep these additional points in mind.

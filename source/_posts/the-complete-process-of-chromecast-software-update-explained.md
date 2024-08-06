@@ -1,7 +1,7 @@
 ---
 title: The Complete Process of Chromecast Software Update Explained
-date: 2024-08-02 16:26:54
-updated: 2024-08-05 10:49:23
+date: 2024-08-05T02:35:03.941Z
+updated: 2024-08-06T02:35:03.941Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Process of Chromecast Software Update Explained
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/bt-zauEl_roFQ0rnqVx2qjZXl94=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Install the**Google Home** app on an iOS or Android device. Power on the Chromecast device and connect it to the same Wi-Fi network.
@@ -21,6 +24,9 @@ Close
 
  This article explains how to prompt an automatic update of the Chromecast firmware using the iOS and Android Google Home app. It also includes information on forcing an update on Windows, Mac, and Linux computers. These instructions apply to all generations of Chromecast and Chromecast Audio.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Update Your Chromecast Firmware Automatically 
 
  Google automatically pushes out new Chromecast firmware, so in most instances you should have the latest available version. However, such rollouts are often staggered, so the latest firmware version may take time to install. Here's what you can do to try and prompt an automatic update.
@@ -33,12 +39,19 @@ Close
 5. Open the smartphone app and locate your Chromecast device, then tap the device icon to get an overview of it.
 6. Tap the**gear** icon to open device settings.
 7. Scroll to the bottom of the page to reveal the Cast firmware version. This is the current firmware your device is running.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Living Room TV, Settings Gear icon, Firmware info in Google Home for iOS](https://www.lifewire.com/thmb/kKB8RQrShQtNz7sRkUDHR5T30A8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-update-chromecast-4628168-8f681ebf21354b27a25dd209fd25fdab.jpg)
 8. Compare your device’s firmware with the latest available version on Google’s Chromecast support page (step 1). If the firmware version on the Chromecast support page is newer (a greater number) than the build you have on your device, you can try to encourage an automatic update via the Google Home app.  
  If both versions are the same, you have the latest available firmware and don't need to do anything else.
 9. To try and encourage an automatic update, make sure you’re still in the Device settings page (step 5).
 10. Tap the**three horizontal dots** icon.
 11. A pop-up window will launch with additional options. Tap**Reboot** to[ reset your Chromecast device](https://www.lifewire.com/reset-chromecast-4165369) .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Menu dots and Reboot option in Google Home app on iOS](https://www.lifewire.com/thmb/6JkzuC7a6vqCKCMypvLk2zJseHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-update-chromecast-4628168-9ae7970733f04b3fb4a7ec8ca35414a5.jpg)
 12. Your Chromecast dongle will shut itself down and automatically restart. During this process, it will try to download and install the latest available firmware.
 13. If the firmware is available, the installation process will show on your connected TV.  
@@ -48,12 +61,18 @@ Close
  As noted, Google rolls out firmware updates in stages. If the update hasn't yet landed for your device, wait a few days and try the process again.
 16. That's it! Your Chromecast should now be automatically updated.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  How to Force a Chromecast Firmware Update 
 
  If new Chromecast firmware is available, but your device hasn't updated, you can try to force your Chromecast to download it. 
 
  This process is a little more complicated than an automatic update, and it’s not guaranteed to work. However, it’s certainly worth trying if you can see the firmware is available but it hasn’t yet pushed to your Chromecast.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Force a Chromecast Update on Mac and Linux 
 
 1. Check Google’s Chromecast support page to see the latest available firmware version for your Chromecast device.

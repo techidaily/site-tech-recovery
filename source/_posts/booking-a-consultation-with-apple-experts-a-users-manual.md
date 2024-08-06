@@ -1,7 +1,7 @@
 ---
 title: Booking a Consultation with Apple Experts - A User's Manual
-date: 2024-08-02 15:54:22
-updated: 2024-08-05 12:14:19
+date: 2024-08-05T02:34:32.141Z
+updated: 2024-08-06T02:34:32.141Z
 categories:
   - BestProducts
 description: This Article Describes Booking a Consultation with Apple Experts - A User's Manual
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/tkKug-YSnmoNgnxyiMRNEFRF1uw=/400x300/fi
 ---
 
 ## Navigating to Your Personalized Apple Support Session - Booking Tips Inside
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Using the Apple Store App is the easiest way to get in and get your device fixed at the Genius Bar.
@@ -17,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/tkKug-YSnmoNgnxyiMRNEFRF1uw=/400x300/fi
 
  This article explains how to make an appointment using the Apple Store App. You can make an appointment for product demos, workshops, and (in most cases) repairs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Schedule an Appointment From the Apple Support App
 
  The Apple Support app provides troubleshooting and contact information, and it's the fastest way to get a Genius Bar appointment, especially if you own several Apple devices.
@@ -25,14 +31,23 @@ thumbnail: https://www.lifewire.com/thmb/tkKug-YSnmoNgnxyiMRNEFRF1uw=/400x300/fi
 2. Choose the device you're having trouble with under**My Devices** .
 3. Choose the issue you're facing. For this example, we'll act like our screen is broken, which falls under**Repairs & Physical Damage** , but you might also use**Device Performance** if you think you have a software issue.
 4. Select the specific problem from the next screen.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![The "My Devices," "Repairs & Physical Damage," and problem options in the Apple Support app](https://www.lifewire.com/thmb/UlwcbBbGGUKP7TBki_iBvOT4Dgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-01-26333c8d674d49e19071966928058213.jpg)
 5. Select**View Locations** under**Bring in for Repair** .
 6. Select an Apple Store from the map, and then choose**Schedule** .  
 ![The "View Locations" and "Schedule" buttons in the Apple Support app](https://www.lifewire.com/thmb/cB9ItxxAZXnwcwJmMXziGbxmnUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-02-2194ff8238d744b4a17213561151e3b2.jpg)
 7. On the next screen, pick an available date and time.
 8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using the Apple Store App to Make Appointments
 
  Another way to book an appointment is through the Apple Store app, but it has a few more steps.  
@@ -49,6 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/tkKug-YSnmoNgnxyiMRNEFRF1uw=/400x300/fi
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .

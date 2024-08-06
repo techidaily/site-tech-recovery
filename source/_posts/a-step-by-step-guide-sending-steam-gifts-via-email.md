@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide: Sending Steam Gifts via Email"
-date: 2024-08-03 22:20:27
-updated: 2024-08-05 11:34:51
+date: 2024-08-05T02:35:15.812Z
+updated: 2024-08-06T02:35:15.812Z
 categories:
   - BestProducts
 description: "This Article Describes A Step-by-Step Guide: Sending Steam Gifts via Email"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/7aca198401046d15f1204860b0acf905dd286e143
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * You can send gift cards from the Steam Gift Cards web page or the app via**Store** \>**Steam Gift Cards** .
@@ -26,6 +30,9 @@ Close
  You need a Steam account to send someone a digital gift card. Also, the person must be on your friends list for three days before sending the money. Here's how to email a gift card using the Steam website:
 
 1. [ Visit the Steam Gift Cards page](https://store.steampowered.com/digitalgiftcards/) and select**Send a Digital Steam Gift Card** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![The Steam Gift Cards web page](https://www.lifewire.com/thmb/wp1Oin3kTEOyB8wop04PqDvejbc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steam-gift-cards-c0c34c0748fe4bc9b1921b80b642f750.png)
 2. Select an amount for the digital gift card.  
 ![The Steam gift card amount options](https://www.lifewire.com/thmb/0wXDmNSMuX9umpiI9eWKmh6vF9M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steam-gift-card-amount-b69315f562b8400a98e95f54b85bddc1.png)
@@ -39,11 +46,18 @@ Close
 
 1. Select the**Store** tab.
 2. Choose**Steam Gift Cards** from the left panel.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![The Steam Store tab in the Windows 11 client](https://www.lifewire.com/thmb/-5z3_uI-mvifag7HPUoiKk86NUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steam-store-gift-cards-7c59028cdb574d20b97e5397822f696f.png)
 3. Follow the same prompts described above for the web version. The process is the same (select**Send a Digital Steam Gift Card** , etc.).
 
  You can also[ buy gift cards for Steam in stores](https://help.steampowered.com/en/faqs/view/5BB2-E986-A733-CF0E) if you'd rather have a physical card.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ##  What Are Steam Digital Gift Cards? 
 
  In addition to gifting games on Steam, you can send digital gift cards through email. Gift cards come in predetermined amounts from $5 to $100\. You even have the option to send a personalized message to the recipient.
@@ -59,12 +73,23 @@ Close
 [ The 14 Best Free Steam Games ](https://www.lifewire.com/best-free-steam-games-4176308) 
 
 1. Go to the Steam page for the game you want to purchase and select**Add to Cart** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Add to Cart on Steam](https://www.lifewire.com/thmb/_lS7By4qhyaLaDgaS2Ci2962BR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-8dee75830b63431ebafd9ee62e1703ed.jpg)
 2. Select**View My Cart** or scroll to the top of the page and select**Cart** .  
 ![Cart in the Steam Store](https://www.lifewire.com/thmb/-jRBvs-fr_F2l0BVDzOF2TVeS-E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-9ddc417f81d342428fe79277dea85cda.jpg)
 3. Under the game you want to send as a gift, select**Purchase as a gift** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Purchase as a gift on Steam](https://www.lifewire.com/thmb/HgDK96GI6p55vJb7ixx7SagmiPM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-a178e109d3124df4931c223b8e9c69db.jpg)
 4. Log in to Steam if prompted.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Steam log in screen](https://www.lifewire.com/thmb/GwV9E8AUl9ylzlsQ2RW_YWPgBTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-d4e2e89c792041e8a187b01d926e2397.jpg)
 5. Choose a friend to receive to the gift card, then select**Continue** .  
 ![Continue on the send Steam gift card page](https://www.lifewire.com/thmb/H2wETxEVfLfHJcwRWEbTUmDR_nQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-ff7d7d7229824d29b23a8f95c2d0df57.jpg)

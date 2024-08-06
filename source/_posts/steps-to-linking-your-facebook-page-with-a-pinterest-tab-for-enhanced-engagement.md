@@ -1,7 +1,7 @@
 ---
 title: Steps to Linking Your Facebook Page with a Pinterest Tab for Enhanced Engagement
-date: 2024-08-05 12:26:51
-updated: 2024-08-06 12:48:21
+date: 2024-08-05T02:34:29.427Z
+updated: 2024-08-06T02:34:29.427Z
 categories:
   - BestProducts
 description: This Article Describes Steps to Linking Your Facebook Page with a Pinterest Tab for Enhanced Engagement
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/3FkZL3mN8ZdP7Pi5lAmKXjztvAY=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Go to Woobox.com and create an account. Select**Static Tabs** \>**Create a New Tab** \>**Pinterest Tab** .
@@ -20,24 +23,48 @@ Close
 
  This article explains how to add a Pinterest tab to the left column of your Facebook page so fans can click to see your latest Pinterest pins. We'll use a[ third-party app](https://www.lifewire.com/what-is-a-third-party-app-4154068) called Woobox to accomplish this.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Add a Pinterest Tab to Your Facebook Page With Woobox 
 
  Let your Facebook page fans know about your[ Pinterest profile](https://www.lifewire.com/how-to-use-pinterest-3486578) so that they can follow you on Pinterest. The more Facebook fans that follow you on Pinterest, the more likely they'll see your pins and save them to their boards, which could result in more saves, followers, and clickthroughs.
 
 1. Navigate to[ Woobox.com](https://woobox.com/) in a web browser.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Woobox.com](https://www.lifewire.com/thmb/MevuWX8GvPzlY9JjmSPkvnLzgII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pinterest-tab-facebook-fan-page-1240616-1-8c0f5020288441d7b093cdf41c78724d.jpg)
 2. Select**Sign Up** in the upper-right corner and create an account.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![Woobox.com sign up form](https://www.lifewire.com/thmb/SmMVLu20mrFLokvts2hsyjFlk9U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pinterest-tab-facebook-fan-page-1240616-2-c3adc642dab3492aa07a3401709cbce5.jpg)  
  Since you'll need to integrate Woobox with your Facebook account, create your account by selecting**Sign up with Facebook** . If you choose to create a regular Woobox account using your email address, you must integrate your Facebook account later in the process.
 3. Once signed in to your new Woobox account, select**Static Tabs** .  
 ![Woobox.com Create a Compaign page](https://www.lifewire.com/thmb/hHvFInqVZ96kpbzbijdORpmMpRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pinterest-tab-facebook-fan-page-1240616-3-5bac5b9c811c4778b57c32ba912878b1.jpg)
 4. Select**Create a New Tab** and select**Pinterest Tab** from the drop-down list.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Woobox.com Create a New Tab option](https://www.lifewire.com/thmb/bXc_Xh5gOHICPM6FMiludeZLTjM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pinterest-tab-facebook-fan-page-1240616-4-ca4cab264d774d13a486f6a76ac97f35.jpg)
 5. Enter your Pinterest username in the field next to**http:/pinterest.com/** .  
 ![A screenshot of Woobox.com.](https://www.lifewire.com/thmb/g0XuG8IF6LY46TyK6HYISPGzqxA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pinterest-tab-facebook-fan-page-1240616-5-ca1fd1a69eff4dc69749221fb8a75b30.jpg)  
  If you have an upgraded account, select**Mobile Access** to turn it on and allow fans to see your Pinterest tab on mobile. You can also select**Show All Pin Boards** to show your boards versus**Show Pins from Pin Board** to show the pins from a specific board.
 6. Select**Save Settings** .
 7. In a new browser tab or window, navigate to your Facebook page and select the**Pinterest** tab that appears in the left menu.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pinterest tab on Facebook.com.](https://www.lifewire.com/thmb/Y03oS-jllkkMOjPo-ultRjUikck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2019-07-25at12.11.27PM-31443931e17c485180e144635c76a492.jpg)  
  A quicker way to see the Pinterest tab is to select**View Tab on Facebook** beneath the Pinterest title on Woobox.
 8. Your boards or pins from your Pinterest profile display on this tab.  

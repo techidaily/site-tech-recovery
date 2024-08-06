@@ -1,7 +1,7 @@
 ---
 title: Xiaomi's Anticipated Nothing Phone 3 - Unlocking the Secrets of Price, Launch Date, and Cutting-Edge Features!
-date: 2024-08-02 20:15:54
-updated: 2024-08-05 10:49:28
+date: 2024-08-05T02:34:22.325Z
+updated: 2024-08-06T02:34:22.325Z
 categories:
   - BestProducts
 description: This Article Describes Xiaomi's Anticipated Nothing Phone 3 - Unlocking the Secrets of Price, Launch Date, and Cutting-Edge Features!
@@ -27,10 +27,16 @@ thumbnail: https://www.lifewire.com/thmb/tVOQWJT0brLysxt2ZKkyrT-R0qo=/400x300/fi
 
  Given that hint, we suspect a July 2025 reveal based on prior Nothing phone flagship releases: The Nothing Phone 1 arrived in July 2022, followed by the Nothing Phone 2 in July 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 We're betting on a July 2025 release date for the Nothing Phone 3.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Nothing Phone 3 Price Rumors
 
  Since release and ordering details are slim to none, pricing information is still forthcoming as well.
@@ -43,6 +49,9 @@ We're betting on a July 2025 release date for the Nothing Phone 3.
 
  The Phone 3 could see a steeper starting price as the next full flagship model, especially if one of those changes comes in the form of a chip level-up.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Nothing Phone 2 on a glass tabletop](https://www.lifewire.com/thmb/PY8rVS-IBLbcIzX2pej9YWVT6Jg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/NothingPhone2.7-bdc100925d154e10aa175c63ba8cddca.jpg)
 
 Nothing Phone 2.
@@ -53,6 +62,9 @@ Lifewire / Rob LeFebvre
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Nothing Phone 3 Specs and Features
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
@@ -73,6 +85,9 @@ Lifewire / Rob LeFebvre
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Signature Glyph, Improved
 
  While the overall look is likely going to remain untouched, If we had to put our money on one sure thing for the Phone 3, we’d say the signature Nothing Phone Glyph interface will see improvements akin to what we’ve seen from the Phone 1 to Phone 2\. The Phone 2 added six more LED panels, customizable notifications, and a composer for arranging ringtones.  
@@ -83,12 +98,18 @@ Nothing OS 2.0.
 
 Nothing
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### An Action Button
 
  Nothing CEO Carl Pei teased several shots of an updated design on X. Though the below post asks for feedback on Nothing OS user interface updates, many suspect that Pei might have leaked the Nothing Phone 3.
 
  In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Integrated AI
 
  Pei also released a video on X announcing the company's AI prototyping. Pei alluded to a[heavy AI presence on the Nothing Phone 3](https://www.lifewire.com/carl-pei-nothing-ai-phone-3-8658876) .

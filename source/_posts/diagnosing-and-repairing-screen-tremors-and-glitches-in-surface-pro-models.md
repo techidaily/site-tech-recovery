@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Screen Tremors and Glitches in Surface Pro Models
-date: 2024-08-03 17:28:18
-updated: 2024-08-05 11:33:40
+date: 2024-08-05T02:34:11.885Z
+updated: 2024-08-06T02:34:11.885Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Repairing Screen Tremors and Glitches in Surface Pro Models
@@ -10,6 +10,10 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 ---
 
 ## Master the Art of Removing Cache and Cookies in Leading Web Browsers Today
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Clearing cache can fix browsing problems, free up space, and remove saved versions of visited pages.
@@ -29,8 +33,14 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 2. Check the box next to**Cached images and files** . Select**Cookies and other site data** to also wipe the cookies.  
  Also choose**All time** from the**Time range**  option at the top to make sure you get everything.
 3. Choose**Clear data** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The cached images and files checkbox in Chrome's Clear Browsing Data prompt](https://www.lifewire.com/thmb/koYvaD17zNjG2ivlceG6uNqoKBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-clear-cached-images-files-b5adb033e0a94b35bf6e353477d5ebd5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Clear Cache in the Chrome Mobile App
 
  Here's how it works in Chrome's mobile app:
@@ -40,9 +50,15 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 3. Select a time range. Pick**All time** to purge the whole cache.
 4. Ensure that**Cached images and files** is chosen. You'll need to tap**More options** first if you're on Android.
 5. Tap**Clear data** \>**Clear** on Android, or**Delete Browsing Data** \>**Delete Browsing Data** on iOS.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Clear browsing data screen in the Chrome mobile app](https://www.lifewire.com/thmb/PgBnwC8X79xf4XgE7ZcpYBdj_Rc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chrome-app-clear-cache-8431483fb047400cb98ea15cdf52e745.png)  
  Chrome on Android will suggest keeping data from sites you visit often. The choice is yours but to delete_all_ of Chrome's cache, you'll need to keep those items selected.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Clear the Firefox Cache
 
  In Mozilla's Firefox browser, you clear the cache from the**Clear All History** or**Clear Data** area.
@@ -86,6 +102,9 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 
  If you don't see**Develop** on your Safari menu bar, go to**Safari** \>**Preferences** \>**Advanced** , and then select**Show Develop menu in menu bar** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### Clear Cache in the Safari Mobile App
 
  Use the Settings app to clear the browser cache for Safari on your iPhone or iPad.
@@ -93,6 +112,10 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 1. Open the**Settings** app and tap**Safari** .
 2. Scroll down and tap**Clear History and Website Data** .
 3. Pick a timeframe to delete, such as**All history** , then tap**Clear History** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![The Safari Clear History screen on iPhone](https://www.lifewire.com/thmb/u987Oij4-TyOMAjmwZ7rRYWH6R8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-safari-clear-all-history-5691796f4ca448ecb44737cecb5d6c86.png)
 
 ## Purge Cache in Opera
@@ -104,8 +127,14 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
  Otherwise, here's how to clear the browser cache from the menu:
 
 1. From the Opera menu (the**O** at the top left of the browser), choose**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![The Opera menu on Windows 11](https://www.lifewire.com/thmb/Oc61hvDQ0xS2n-gVxRVyGn4Ea0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-menu-f0af04ec9f8b461b9c5dfe3905b6a5df.png)
 2. Select**Privacy & security** on the left, then**Clear browsing data** on the right.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Opera's Privacy and Security settings in Windows 11](https://www.lifewire.com/thmb/c1k91GydJSlUD1kZz3Jsyjq0cD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-privacy-security-settings-cabf372690db4aebb604ad18fef5eb59.png)
 3. Choose**All time** at the top to delete the entire cache.
 4. Opera automatically selects all items you can delete, including**Cached images and files** . Confirm that you want to erase the chosen items.
@@ -119,9 +148,15 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 1. Tap the**profile icon** (Android) or the**three horizontal lines** (iOS) at the bottom of the app.
 2. Select the**settings** icon.
 3. On Android, go to**Privacy & security** \>**Clear data** \>**Advanced** . On iOS, you're looking for the**Clear Browser Data** option.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Opera app settings on Android](https://www.lifewire.com/thmb/k-fGiILPYFuEpQtNKay5z5yoKaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-settings-android-a71130d7b6fe4e449df607988b2dc828.png)
 4. Tap the items you want to clear. To erase just the cache, choose**Cached images and files** .
 5. Select**Clear data** on Android, or**Clear** on iOS.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Opera app Settings, Privacy & Security, and Clear Data screens](https://www.lifewire.com/thmb/R2V9Xdno9Yjf7y80Bd1ca8duVpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-cache-purge-android-app-1b5d8f0113b7474b8d5f92bc5a170a00.png)
 
 ## Clear Browsing Data for Edge
@@ -137,8 +172,20 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 1. Select the**three-dotted menu** at the top right of the program, then select**Settings** .  
 ![A screenshot of Microsoft Edge with the Settings option highlighted](https://www.lifewire.com/thmb/wVGURGBYtVd6ssyHDuyiu6CMC6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-using-cortana-in-microsoft-edge-4059577-8393dcbb21994501ab74592b86eacb2c.jpg)
 2. Select**Privacy, search, and services** on the left followed by**Choose what to clear** on the right.  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Privacy, Search, and Services tab selected in the Edge browser](https://www.lifewire.com/thmb/CW8mbgslkfinSW15SA4Bi0Vez9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-privacy-settings-9658d15cdccf4b46b41eddf5d7d40c5c.png)
 3. To purge the browsing cache in Edge, make sure**Cached images and files** is selected, then click**Clear now** . You can also clear the cookies, browsing history, and more.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![The cached images and files option chosen in the Edge delete browsing data prompt](https://www.lifewire.com/thmb/xxLrSqvF_B_JmonmgYMDBwmToSQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-clear-cache-files-98bb06bbb1354b76b7ebec2211543348.png)
 
 ### Clear Cache in the Edge Mobile Browser
@@ -147,6 +194,9 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 
 1. Tap the**three lines** at the bottom right, then choose**Settings** from the menu that pops up.
 2. Select**Privacy and security** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Settings menu in the Edge app for Android](https://www.lifewire.com/thmb/nuBRJxQM93yj8WccPL0wE_c1dC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-app-settings-27546193cfb3412b90621c649bf4b9ba.png)
 3. Tap**Clear browsing data** .
 4. Make sure**Cached images and files** is selected. This screen is also how you can delete other items like cookies and autofill data.  
@@ -154,22 +204,51 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 5. Tap**Clear data** on Android. For iOS, choose**Clear now** and then confirm by tapping the same button.  
 ![The Clear browsing data screen in the Edge app for Android](https://www.lifewire.com/thmb/mdg7Etrp3a_lQksNf9_Gcxd5eUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-privacy-security-settings-clear-data-e60e864e45314736b2c09e1cba79603c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Delete Vivaldi's Browser Cache
 
  Clear the cache in Vivaldi from the**Delete Browsing Data**  area. As with most browsers, the**Ctrl** +**Shift** +**Del** (Windows) or**Command** +**Shift** +**Delete** (Mac) shortcut is the quickest way there, but the menu works, too:
 
 1. From the menu bar (select the V logo at the top left if you don't see it), go to**Tools** \>**Delete Browsing Data** .  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![The Tools menu in Vivaldi for Windows](https://www.lifewire.com/thmb/wF-2F3XLZXFJy0sBp7ZehDKJDQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vivaldi-tools-menu-3e6c4ad1e34e4ef3855aef71644856c4.png)
 2. Pick a timeframe, such as**All Time** , then choose**Cache** from the list. As you can see, you can also erase cookies, downloads, site settings, and more, if you select those items.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Vivaldi's delete browsing data prompt with Cache chosen](https://www.lifewire.com/thmb/Jjrlk86CVOssGYmvryE3K6CN8As=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2024-06-14071603-4800e7bd1a44431e82ae862d0d118ad4.png)
 3. Choose**Delete** .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### Clear Cache in the Vivaldi Mobile Browser
 
  The Vivaldi app lets you clear the cache, cookies, and other items as well.
 
 1. Tap the V icon at the top right of the app and then tap**Settings** .
 2. Scroll down and select**Privacy and security** .  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Settings menu in the Vivaldi web browser app for Android](https://www.lifewire.com/thmb/TyQJKbu6UZDb-58o-P0iO6XYjbc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vivaldi-privacy-security-settings-android-56fa02e98f3142e8adb0503b03be716b.png)
 3. Tap**Clear browsing data** .
 4. Make sure**Cached images and files** is selected, and optionally adjust the**Time range** setting to clear more or less of the cache.

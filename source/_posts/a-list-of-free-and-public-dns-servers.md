@@ -1,7 +1,7 @@
 ---
 title: A List of Free and Public DNS Servers
-date: 2024-08-04 13:47:31
-updated: 2024-08-06 10:45:28
+date: 2024-08-05T02:34:33.049Z
+updated: 2024-08-06T02:34:33.049Z
 categories:
   - BestProducts
 description: This Article Describes A List of Free and Public DNS Servers
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 
  This article covers Mozilla Thunderbird 52\. Several new versions of Thunderbird have arrived since its publication. Some features may be as described, while others have changed, evolved, or been removed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Thunderbird 52 Features
 
  Mozilla Thunderbird 52 brings privacy, speed, and new tech. Features include:
@@ -31,6 +34,9 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 * **Activity Manager** : Thunderbird's Activity Manager is the place to look for a synopsis of the interactions between your Thunderbird browser and your email provider.
 * **Quick Message Archive** : If you don't need an email message but don't want to throw it away, send it to the archive folder system by pressing the**A** button.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Customize Your Thunderbird Experience
 
  Thunderbird allows you to customize your email experience in several ways:
@@ -40,6 +46,10 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 * **Add-ons Manager** : You don't have to leave Thunderbird and go to an add-ons website. From the Add-ons Manager, view descriptions, ratings, and recommendations of available add-ons that add functionality to Thunderbird.
 * **Filelink Large-File Management** : Set up Filelink to handle the upload of files that are too large to attach to an email. Select from popular large-file attachment sites such as Box, YouSendIt, and Ubuntu One.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Security Features
 
  Here's how Thunderbird keeps your email safe:
@@ -49,6 +59,9 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 * **Automated Updates** : Thunderbird notifies you when a security update is available.
 * **Junk Mail Filters** : Each time you mark an email as spam, Thunderbird learns from your action. The service's popular[junk mail tools](https://www.lifewire.com/auto-spam-to-junk-thunderbird-1173117) have been updated to stay ahead of spam.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## System Requirements
 
  Thunderbird 52 is compatible with the following operating systems:

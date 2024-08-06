@@ -1,7 +1,7 @@
 ---
 title: Complete Walkthrough for Flushing Browser Cache on Different Systems
-date: 2024-08-05 17:29:27
-updated: 2024-08-06 12:21:10
+date: 2024-08-05T02:35:01.746Z
+updated: 2024-08-06T02:35:01.746Z
 categories:
   - BestProducts
 description: This Article Describes Complete Walkthrough for Flushing Browser Cache on Different Systems
@@ -22,14 +22,23 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
 
 [Media streaming devices](https://www.lifewire.com/what-is-a-streaming-device-5208767) that have their own web browser is one workaround. Just plug the streaming stick into the TV and use its built-in browser, or download a different browser through its app store.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Amazon Fire TV
 
  Amazon Fire TV offers both the Firefox and Silk web browsers, which provide more flexibility than the Samsung Smart TV browser. Silk (called**Internet** ) is built-in; select**Apps** from the home screen to find it. You'll need to download Firefox through the search icon in the upper left corner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Fire TV – Firefox and Silk Browser Icons](https://www.lifewire.com/thmb/Ni8beofy0obu65XrYc_Leprw08s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FIRE-TV-FIREFOX-AND-SILK-BROWSER-ICONS-ALT-A-d2e97dc7cfb845d6a578b0022575108a.jpg)
 
  One handy feature included in these browsers, in addition to using the navigation controls on the Fire TV remote, is that you can also use[Alexa commands](https://www.lifewire.com/most-secret-alexa-commands-4783117) to search the web. However, typical browser options, like saving passwords and downloading images, isn't available on the Fire TV version of Firefox. Also, Mozilla has stopped supporting Firefox on Fire TV, although it's still available for download.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fire TV – Firefox Web Browser Example](https://www.lifewire.com/thmb/wHa5WjTbzkEYtJtkBNUEl5S9Yok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fire-tv-firefox-b-1500-8331fddca2344db9826fe1e05dd04263.jpg)
 
 ### Google Chromecast
@@ -42,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
 
  If you open a new tab, or close the existing one, you'll need to cast the new tab in order to see it on the big screen.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Apple TV
 
  Apple TV doesn't offer a web browser that can be installed directly to the device, but you can get[AirWeb](https://apps.apple.com/us/app/airweb-web-browser-for-apple-tv/id770893993) on your iPhone or iPad. Using[AirPlay](https://www.lifewire.com/how-does-airplay-work-and-what-devices-can-use-it-2438219) , you can mirror the AirWeb browser through the Apple TV connected to your Samsung TV. You can also[AirPlay your Mac's screen](https://www.lifewire.com/airplay-from-mac-to-tv-5191732) to a connected Apple TV device.
@@ -54,12 +66,18 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
 
  If you're satisfied with the app selection on your Samsung TV, using another method to get an alternative web browser to work with your TV might be more efficient. One such option is to plug a computer directly into your TV.  
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option Two: Plug a PC Into Your TV
 
  The next best option is to plug your computer into your TV. This will put whatever is on your computer directly onto your TV. This includes any web browser that can run on your PC, plus software programs and even the entire desktop. You'll be able to use your keyboard and mouse and transmit audio over the cable.
 
  To do this, simply use an HDMI cable to attach the computer and TV to each other. Learn more in our guide:[How to Connect a Laptop to a TV via HDMI](https://www.lifewire.com/connect-laptop-to-tv-via-hdmi-5081384) (it's the same for desktops).
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![PC Screen on Samsung TV](https://www.lifewire.com/thmb/nuyRuYFmNgO3el-7tp2JnpPFNG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pc-screen-on-tv-086df77adcd24f46945b52c86aa41228.jpg)
 
 ## Option Three: Use Screen Mirroring

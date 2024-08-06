@@ -1,7 +1,7 @@
 ---
 title: Explore What's New in VR Gaming - Sony PSVR 2 Specs, Launch Date Announcement & Price Guide
-date: 2024-08-03 13:33:21
-updated: 2024-08-06 12:51:44
+date: 2024-08-05T02:34:48.510Z
+updated: 2024-08-06T02:34:48.510Z
 categories:
   - BestProducts
 description: This Article Describes Explore What's New in VR Gaming - Sony PSVR 2 Specs, Launch Date Announcement & Price Guide
@@ -19,18 +19,27 @@ Close
 
 Sony Interactive Entertainment
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PSVR 2 Release Date 
 
  The PSVR 2 launched on February 22, 2023.
 
  You can[ order PlayStation VR2](https://direct.playstation.com/en-us/consoles/console/playstationvr2.1000033579) through PlayStation’s website.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## PSVR 2 Price 
 
  The PlayStation VR2 starts at $549.99\. This includes the headset, PSVR 2 Sense controller, stereo headphones, and USB cable.
 
  The $599.99 option is identical, but includes a PlayStation Store voucher code for_Horizon Call of the Mountain_ .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## PSVR 2 Features 
 
  Sony calls the PlayStation VR2 a "true next-gen experience with high-fidelity visuals, new sensory features, and enhanced tracking – along with a simplified single-cord setup." Their[ PlayStation VR2: The Ultimate FAQ](https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/) is a great source for all things PSVR 2\. Below are some of these notable features.
@@ -49,6 +58,9 @@ Sony Interactive Entertainment
 * Cinematic Mode to let the PSVR 2 display whatever is running on the PS5 via a 1920x1080 HDR virtual screen with 120Hz refresh rate. The other mode is VR Mode, which is a 360-degree view via a 4000x2040 HDR virtual environment with 90Hz/120Hz refresh rate
 * Set up your space and view your surroundings while wearing the headset via the See-Through View feature. This is possible through the headset's function key, or Quick Settings
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PSVR 2 Specs and Hardware 
 
  These are the official specs from Sony:
@@ -69,6 +81,9 @@ Sony Interactive Entertainment
 
  Attaching the headset, and sizing it appropriately for you, is really easy through a knob on the back. The PSVR 2 headset supports IPD (interpupillary distance) adjustment so you can fine-tune it to your face specifically. But what makes this really helpful is you don't need to know your IPD to get the headset set up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Sony PS VR2 headset and controllers](https://www.lifewire.com/thmb/YQOZPsDJRvkR6H16-bJbeNPwiEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-psvr2-headset-controllers-260b6a7a01394b4eb22225694cfa4632.jpg) 
 
 Sony
@@ -96,6 +111,9 @@ Sony
 | **Communication:**                     | Bluetooth 5.1                                                                                                                                                                                                                                |
 | **Battery:**                           | Built-in Lithium-ion rechargeable battery​                                                                                                                                                                                                   |
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Confirmed PSVR 2 Games 
 
 [ Over 40 titles launched the same day as the PSVR 2 release](https://blog.playstation.com/2023/02/21/10-new-ps-vr2-titles-revealed-launch-window-lineup-now-over-40-games/) , with others arriving shortly after or at some time in the future. There are currently[ over 100 games in development](https://www.lifewire.com/psvr-2-games-list-7509088) .

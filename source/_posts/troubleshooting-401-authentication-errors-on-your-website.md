@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 401 Authentication Errors on Your Website
-date: 2024-08-03 11:53:26
-updated: 2024-08-05 11:27:20
+date: 2024-08-05T02:34:36.482Z
+updated: 2024-08-06T02:34:36.482Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting 401 Authentication Errors on Your Website
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/7MpVwScoZxKghkaokr6onIyCwdw=/400x300/fi
 * "(App name) cannot be opened because the developer cannot be verified."
 * "(App name) can't be opened because Apple cannot check it for malicious software."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## What Is the Cause of the ‘Cannot Be Opened Because the Developer Cannot Be Verified' Error on Mac?
 
  While[Macs are less likely to get viruses](https://www.lifewire.com/can-macs-get-viruses-4767114) than Windows PCs, they can still get infected. Apple has a developer ID system and an app review process to reduce the frequency of users exposed to malware on macOS.
@@ -28,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/7MpVwScoZxKghkaokr6onIyCwdw=/400x300/fi
 
  If an app were released before the registration and review processes started, it would trigger the same error. The app may be safe, but there’s no way for Apple to know one way or the other if they haven’t been able to review it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## How Do You Fix ‘App Can’t Be Opened Because It Is From an Unidentified Developer?’
 
  To fix the error where you can’t open an unapproved app on your Mac, you have a few options.
@@ -37,6 +43,15 @@ thumbnail: https://www.lifewire.com/thmb/7MpVwScoZxKghkaokr6onIyCwdw=/400x300/fi
 3. Override your security settings. If you’re sure you trust the app developer, you can allow the app to install and open. From Finder,**Control+Click** the app > click**Open** .  
  The app should be saved as an exception in your security settings, allowing you to open it in the future.
 4. Bypass the block in your Privacy & Security settings. If the previous method didn’t work, you can do it manually from**System Settings** \>**Privacy & Security** \> look for the app > click**Open Anyway.**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![The Open Anyway option from macOS Privacy & Security settings to allow an app from outside the App Store.](https://www.lifewire.com/thmb/Q44hkOY6O8L2Ck_LybCHimjWrBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-developer-cannot-be-verified-error-5183898-889a356e9c644d86962bc4ccc9ad1be9.jpg)  
  In older versions of macOS, open**System Preferences** \>**Security & Privacy** \>**General** \> click the**lock** icon > enter your username and password >**Unlock** \>**App Store and Identified Developers** . You may see the option to click**Anywhere** \>**Allow From Anywhere** .
 5. [Download the app through Safari](https://www.lifewire.com/what-is-safari-4173608) . If the above process didn’t work, make sure you downloaded the app using Safari. Delete the app > restart your Mac > download the app using Safari > and try to run the app. When you get the error message, perform the Privacy & Security fix outlined in the previous step.  

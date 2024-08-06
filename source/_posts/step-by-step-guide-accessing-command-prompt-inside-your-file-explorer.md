@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Command Prompt Inside Your File Explorer"
-date: 2024-08-03 13:56:13
-updated: 2024-08-05 11:40:10
+date: 2024-08-05T02:34:19.933Z
+updated: 2024-08-06T02:34:19.933Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Accessing Command Prompt Inside Your File Explorer"
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
  Make sure you're signed in to your iPad and iPhone with the same Apple ID to enable text forwarding.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Set up Text Forwarding
 
  When you set up text forwarding between your iPad and iPhone, you can text people from your iPad even if they have an Android device or a phone without smart features.
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 1. On the iPhone, go to**Settings** \>**Messages** .
 2. Tap**Text Message Forwarding** .
 3. This screen lists the Apple devices you own that can use the Continuity feature. Tap the toggle switch**On** beside your iPad to enable text message forwarding for it.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Three iOS screens showing Messages icon, Text Message Forwarding, and iPad toggle to ON](https://www.lifewire.com/thmb/Pycxc-rb6i-156HiPxbUAYDRAt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_text-message-on-ipad-1994688-5c30051546e0fb00012bffe8.jpg)
 4. You are prompted to type a code on the iPad to activate the feature. After you type the code, your iPad can send text messages to both iPhone users and non-iPhone users.  
  The iPad uses the same stickers, animations, and drawings that are included with the iPhone text messaging app.[Upgrade to the latest operating system](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) to ensure you have the recent features.
@@ -39,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
  If you don't own an iPhone, there are several ways to use your iPad to send text messages. Use Apple's service, alternatives to text messaging, or one of the apps that provide free SMS messaging on the iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Messages App
 
  The Messages app can send text messages to anyone who owns an iPhone or iPad, even if you don't own an iPhone.
@@ -51,10 +60,16 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
  If you have friends or family that use Android or a Windows Phone, send them messages using the Facebook Messenger app. Anyone who has a Facebook account can be reached via Facebook Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Skype
 
  Skype allows you to use your iPad as a phone. In addition to sending text messages, you can send video messages, place phone calls, and video conference. If you want to stay in touch with someone and can't use Messages because they don't own an iOS device, Skype is a great alternative.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Snapchat
 
  Snapchat works on the iPad. However, you'll jump through a hoop to install it.
@@ -69,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
  You can also place phone calls and video calls and get involved in public chats. Viber also supports[split-view multitasking](https://www.lifewire.com/how-to-use-ipad-split-screen-4687495) .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### More Free Texting Apps
 
  FreeTone (formerly Text Me) and textPlus offer free texting to iPad users. FreeTone offers users a free phone number capable of sending SMS messages to the U.S., Canada, and 40 other countries.

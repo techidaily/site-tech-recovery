@@ -1,7 +1,7 @@
 ---
 title: "Upcoming M4 Mac Mini: Anticipated Launch Details & Pricing Insights"
-date: 2024-08-03 16:29:56
-updated: 2024-08-05 11:45:45
+date: 2024-08-05T02:34:28.360Z
+updated: 2024-08-06T02:34:28.360Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming M4 Mac Mini: Anticipated Launch Details & Pricing Insights"
@@ -21,12 +21,18 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
  Apple's next-generation Mac Mini is expected to be built around the[ Apple M4 chip](https://www.lifewire.com/apple-m4-chip-8640914) , come in two versions, and cost the same as current models. This article collects all of the news and rumors about the Mac Mini M4, including its features, price, release date, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ##  What Is the M4 Mac Mini Release Date? 
 
  We don't know the M4 Mac Mini release date just yet, and Apple doesn't release new Mac Minis on a consistent schedule[ the way it does iPhones](https://www.lifewire.com/iphone-17-8612548) .
 
  That said, Marc Gurman of Bloomberg—the most plugged-in of Apple reporters—[ says that the M4 Mac Mini will debut](https://www.bloomberg.com/news/newsletters/2024-04-14/humane-ai-pin-review-the-device-isn-t-going-to-kill-apple-s-iphone-luziqlew) in late 2024 or early 2025\. Apple often introduces new Macs in the fall (usually in October or November, after the latest iPhone has gone on sale), so this is a safe bet.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  We expect the M4 Mac Mini to become available in late 2024 or, at the latest, early 2025.
@@ -35,18 +41,27 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
  The Mac Mini M4 will go on sale soon after its official announcement. We'll update this article with its on-sale date when that's available.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Mac Mini M4 Price Rumors 
 
  The Mac Mini M4 will likely cost about the same as current models. Apple often keeps the prices of new models of existing products the same year after year, so this makes sense.
 
  If that holds true, expect the Mac Mini M4 to start at $599\. The current entry-level model delivers an[ M2 processor](https://www.lifewire.com/why-the-new-m2-mac-mini-is-the-perfect-second-computer-7098470) , 8GB of RAM, and a 256GB hard drive for that price. At the high end, the current model costs $1,299 for an M2 Pro chip, 16GB of RAM, and a 512GB hard drive. There's also likely to be a model at an in-between price point.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Mac Mini M4 Features 
 
  There aren't a lot of rumors about the Mac Mini M4's features, so we'll update this article as information becomes available. Many features of the Mac Mini are unlikely to change from the current model, however.
 
  Some things to expect from the next-generation Mini are:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### M4 Processor 
 
  As its name suggests, this Mac Mini will be built around Apple's next-generation M4 processor. That means that the Mac Mini will jump from using the M2 to the M4, without ever offering[ a model built using Apple's M3 chip](https://www.lifewire.com/m3-mac-mini-7571458) .
@@ -61,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
  The rumor mill says the Mac Mini M4 will use the same enclosure, and thus have the same size and weight, as[ the current M2 models](https://www.apple.com/mac-mini/specs/) . If that's the case, that means the Mac Mini will continue to be a tiny powerhouse, weighing 2.6-2.8 pounds and being 7.75 inches wide, 7.75 inches deep, and 1.41 inches tall.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Latest News About the Mac Mini M4 
 
  Stay up to date on all the latest news, rumors, and opinions with Lifewire's[ coverage of desktop and laptop computers](https://www.lifewire.com/computer-laptop-tablet-news-4797030) . You might be interested in these articles about other Apple products:

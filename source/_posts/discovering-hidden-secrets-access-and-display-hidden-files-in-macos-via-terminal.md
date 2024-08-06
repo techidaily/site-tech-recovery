@@ -1,7 +1,7 @@
 ---
 title: "Discovering Hidden Secrets: Access and Display Hidden Files in macOS via Terminal"
-date: 2024-08-02 22:21:37
-updated: 2024-08-05 10:54:36
+date: 2024-08-05T02:34:21.550Z
+updated: 2024-08-06T02:34:21.550Z
 categories:
   - BestProducts
 description: "This Article Describes Discovering Hidden Secrets: Access and Display Hidden Files in macOS via Terminal"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 ---
 
 ## Discovering Mobile Tracking Techniques on iOS Devices - Find Out Whereabouts
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * The easiest way to track someone with the iPhone is to use the Find My app that's pre-installed on most recent iPhones.
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 
  The article provides instructions for how to see someone on your iPhone after you've gained their permission so that you can keep track of someone or know when you and your friends are nearby the same locations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Can I Check Someone's Location on iPhone?
 
  The easiest way to check someone's location on iPhone is to use the Find My app. However, in order to use this app, you first need to enable Start Sharing Location, and your friends need to consent to be found using the app. Here's how to go about doing so.
@@ -27,10 +33,17 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 1. Open Find My on your iPhone and tap the**People** tab.
 2. If you've never used Find My for people before, you'll be prompted to**Start Sharing Location** . Tap that option.
 3. Select someone from your contact list to share your location with and then tap**Send** .  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshots showing how to send someone an invitation to connect on Find My.](https://www.lifewire.com/thmb/IVNr_hpQ1kA63vLb9ZxXj0EdoT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Track_People_iPhone-cd53906d4aac4906ae7974ec7772b7a6.jpg)
 4. Once the invitation has been sent, then you can tap that person's name to see details about them. If you're not already following them scroll down and tap**Ask to Follow Location** . An invitation will be sent, and once the contact accepts it, you will be able to see their location (as long as they have locations turned on).  
  You must share your location with the person you want to follow before you can send them a request to follow them.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How Can You See Someone's Location in the Find My App?
 
  Once you've got Find My for people set up on your iPhone, it's easy to see someone's location. Just open the**Find My** app, go to the**People** tab, and tap the name of the person you want to see. If that person has location services turned on, their location should show on a map, and from there, you can tap**Directions** to get directions to their exact location.

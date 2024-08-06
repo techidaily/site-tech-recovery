@@ -1,7 +1,7 @@
 ---
 title: How to Repair Connectivity Problems on Your Xbox Series X/S Audio Device
-date: 2024-08-04 21:40:57
-updated: 2024-08-06 11:47:41
+date: 2024-08-05T02:34:29.521Z
+updated: 2024-08-06T02:34:29.521Z
 categories:
   - BestProducts
 description: This Article Describes How to Repair Connectivity Problems on Your Xbox Series X/S Audio Device
@@ -12,6 +12,9 @@ thumbnail: https://www.lifewire.com/thmb/9aAIrmerqE-lXFve1ScHyZbz_Ps=/540x405/fi
 ## Xbox Series X/S Audio Problems? Here's How to Restore Your Headset Functionality
  Friends in party chat can’t hear you over the[Xbox Network](https://www.lifewire.com/what-is-xbox-live-3563186) , and you can’t hear them either? Maybe you can hear your friends while they can’t hear you (or the other way around). There’s a chance that your headset is just broken, but try these fixes before you completely write it off.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Solutions to Try When Your Xbox Headset Isn't Working
 
  Are you trying to use your wireless Xbox One headset with your Xbox Series X or S? If it stopped working when you switched consoles, it may not be compatible. Check with the manufacturer to see if your headset is fully compatible with the Xbox Series X or S.
@@ -44,6 +47,9 @@ thumbnail: https://www.lifewire.com/thmb/9aAIrmerqE-lXFve1ScHyZbz_Ps=/540x405/fi
 15. If your headset still doesn’t work after trying everything, then you may just have a bad headset. Try contacting the manufacturer for further assistance, or to see if repairs are available.  
  Due to the typical cost of repairs compared to replacement cost, it often makes more sense to just buy a new Xbox headset rather than pay for repairs
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## What Causes an Xbox Series X or S Headset to Stop Working?
 
  This type of problem can be caused by issues with the headset itself, the controller, the adapter if you’re using a wireless headset, and even incorrectly configured privacy settings on your[Xbox Series X or S](https://www.lifewire.com/xbox-series-x-vs-xbox-series-s-5083862) .

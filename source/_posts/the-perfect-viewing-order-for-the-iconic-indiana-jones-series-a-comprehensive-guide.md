@@ -1,7 +1,7 @@
 ---
 title: "The Perfect Viewing Order for the Iconic Indiana Jones Series: A Comprehensive Guide"
-date: 2024-08-04 10:34:32
-updated: 2024-08-05 11:30:18
+date: 2024-08-05T02:34:25.737Z
+updated: 2024-08-06T02:34:25.737Z
 categories:
   - BestProducts
 description: "This Article Describes The Perfect Viewing Order for the Iconic Indiana Jones Series: A Comprehensive Guide"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 ---
 
 ## Perfect Order for Enjoying All the Superman Feature Films
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * In release order:_Superman: The Movie_ \>_Superman II_ \>_Superman III_ \>_Superman IV_ \>_Superman Returns_ \>_Man of Steel_ \>_Batman v. Superman_ \>_Justice League._
@@ -22,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies in Release Order
 
  If you have a healthy chunk of time to spare for a movie marathon, you could easily get through the original four_Superman_ movies in a weekend.
@@ -52,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 | _Justice League_ (2017)                     | Aquaman, Batman, Cyborg, the Flash, Superman, and Wonder Woman join up to save Earth from an alien invasion.                   | Max                |
 | _Zack Snyder's Justice League_ (2021)       | A four-hour version of the 2017 film by original director Zack Snyder. This one contains restored footage and reworked scenes. | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies By Era
 
  You could also break up your viewing with a couple of strategic groupings by series.
@@ -70,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 | _Superman IV: The Quest for Peace_ | Max                |
 | _Superman Returns_                 | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### DC Extended Universe
 
  The DCEU ran from 2013 (_Man of Steel_ ) to 2023 (_Aquaman and the Lost Kingdom_ ). Henry Cavill plays Superman in this franchise, and the character appears in several installments.
@@ -91,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 
  If you’re less concerned about chronological order or release order and more interested in comparing similar storylines, here are a few suggested non-linear pairings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Compare Origin Stories
 
  Origin stories are a quintessential part of superhero anything. Watch the original_Superman: The Movie_ and_Man of Steel_ to see where the two meet and diverge. There’s a considerable time gap between the two, 1978 versus 2013, but all things considered, the special effects from 1978 still hold up in their own (often comical) way.
@@ -103,6 +119,9 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 
  As for the newer options, you have your pick between a few. You could opt for the stand-alone retelling in the mid-aughts or a_Man of Steel_ /_Batman v. Superman_ /_Justice League_ triple-feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## What Is ‘Superman’ (2025)?
 
  The upcoming_Superman_ , directed by_The Suicide Squad_ writer-director James Gunn, is the start of the next franchise of DC movies: the DCU. It was formerly called_Superman: Legacy_ .

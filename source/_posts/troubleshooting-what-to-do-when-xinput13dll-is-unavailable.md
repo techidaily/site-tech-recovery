@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: What To Do When 'xinput1_3.dll' Is Unavailable?"
-date: 2024-08-04 15:18:23
-updated: 2024-08-05 11:50:31
+date: 2024-08-05T02:34:51.334Z
+updated: 2024-08-06T02:34:51.334Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting: What To Do When 'xinput1_3.dll' Is Unavailable?"
@@ -12,6 +12,9 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 ## xinput1_3.dll File Missing? Here's How You Can Resolve It
  Xinput1\_3.dll errors indicate a problem with Microsoft DirectX; the xinput1\_3[DLL](https://www.lifewire.com/what-is-a-dll-file-2625852) file is contained in that software collection. These errors usually show up only when you run Windows-based games and advanced graphics programs. A system restart can often resolve the error. If that doesn't work, there are five other things you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## How to Fix Xinput1\_3.dll Errors
 
  Do not download the xinput1\_3.dll DLL file individually from any "DLL download site."[Downloading DLLs from these sites is never a good idea](https://www.lifewire.com/important-reasons-not-to-download-dll-files-2624455) . If you've already downloaded xinput1\_3.dll from one of those DLL download sites, remove it from wherever you put it and continue with these steps.
@@ -27,12 +30,21 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 5. [Restore the xinput1_3.dll file from the latest DirectX software package](https://www.lifewire.com/how-to-restore-a-missing-directx-dll-file-2624516) . If the above troubleshooting steps haven't worked to solve your xinput1\_3.dll error, try extracting the xinput1\_3.dll individually from the DirectX downloadable package.
 6. [Update the drivers for your video card](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) . While it's not the most common solution, in some situations updating the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) for the[video card](https://www.lifewire.com/what-is-a-video-card-2618161) in your computer could correct this DirectX issue.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Need More Help?
 
  If you don't want to fix this problem yourself, see [How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a whole lot more.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Causes of xinput1\_3.dll Errors
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Xinput1_3.dll Error on Windows 10 desktop](https://www.lifewire.com/thmb/lAXa0AG_5pReGIffvuXNMxCliNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-xinput1-3-dll-not-found-or-missing-errors-2624329-5c760415c9e77c00012f8110-7c3acf51ccdc4386aa95425220198bad.jpg)
 
  Several of the more common xinput1\_3.dll error messages include:

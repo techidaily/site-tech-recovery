@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Efficient Control: Navigating Your Android Quick Settings"
-date: 2024-08-04 20:13:42
-updated: 2024-08-06 10:55:38
+date: 2024-08-05T02:35:15.290Z
+updated: 2024-08-06T02:35:15.290Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking Efficient Control: Navigating Your Android Quick Settings"
@@ -24,18 +24,31 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  The defaults available may vary slightly between phones. In addition, the apps you install on your phone may also have Quick Settings tiles that appear here. If you don't like the order or your options, you can change them. We'll get to that soon.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use Quick Settings From the Lock Screen
 
  You don't need to unlock your phone to reach this menu, but not all the Quick Settings are available from the lock screen. You can turn on the flashlight or put your phone into Airplane Mode, among other things, but if you try to use a toggle that might give a user access to your data, you'll be prompted to unlock your phone before proceeding.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Android lock screen with Quick Settings open](https://www.lifewire.com/thmb/obGd6L9sRNMrdDVHebdfD1X0xtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-quick-settings-b54fe7996f60451388bd899004b045a6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Edit Your Quick Settings Menu
 
  Don't like your options? Edit them. To do this, first unlock your device so you're on the Home screen, then follow these steps:
 
 1. Drag down from the abbreviated menu to the fully expanded tray.
 2. Tap the**pencil** icon to open the menu for editing. It's at the top on some phones and the bottom on others.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Android settings.](https://www.lifewire.com/thmb/DNQXQl8DV9_spK1AJz-9xRDfDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-use-the-quick-settings-menu-on-android-88162a616fe74310a63af73af1cf4d35.jpg)
 3. Long-press a tile and drag it elsewhere to make changes.
 4. Drag tiles into the tray (the top portion of the edit menu) if you want to see them, or out of the tray (the bottom) if you do not.  
@@ -46,10 +59,17 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  Now let's look at some of the Quick Settings tiles and what they do. Different phones and operating systems might use different names for these tiles, but most should be similar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Internet
 
  The**Internet** toggle shows you information about the[Wi-Fi](https://www.lifewire.com/what-is-wi-fi-2377430) network you're using (if any). To see more information about it, or to pick a different network to connect to, just tap the toggle once. In there is also a little bit of detail about the cellular network you're on, which you can toggle off if you want to disconnect from the mobile network.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Internet tile highlighted in Android Quick Settings](https://www.lifewire.com/thmb/gJ39wpp_flLiPuTxeEpURu3gSSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/quick-settings-internet-toggle-f699069d77754912ac9971f0623fa9cf.png)
 
 ### Battery Saver
@@ -60,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  On some devices, if you tap this tile while your phone isn't charging, you'll see an estimate of how much time is remaining on your battery.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Flashlight
 
  The**Flashlight** Quick Settings toggle is the easiest way to[turn on your phone's flashlight](https://www.lifewire.com/turn-on-flashlight-android-phone-7109609) . There's no deeper option here. Just toggle it on or off to get somewhere in the dark. You don't need to unlock your phone to use this.
@@ -80,16 +103,25 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 [How to Fix It When Android Screen Won't Rotate](https://www.lifewire.com/fix-android-screen-that-wont-rotate-5088086)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Bluetooth
 
  Toggle your phone's Bluetooth antenna on or off by tapping this tile. You can long-press to pair more Bluetooth devices.
 
 ![Android quick settings Bluetooth](https://www.lifewire.com/thmb/ALRBVgqlWpEmCtsV7Es_5ITKk18=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-use-the-quick-settings-menu-on-android-d7f976e7bcfd424a90d7d02604f2c54a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Airplane Mode
 
 [Turn Airplane mode on and off](https://www.lifewire.com/turn-airplane-mode-on-or-off-on-android-5212172) with a simple tap of this toggle. When enabled, it turns your phone's Wi-Fi and cellular data off. Long-press to see the Network & Internet settings.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Android quick settings airplane mode](https://www.lifewire.com/thmb/oEVagRx8jxfGR6PTdB4j0bJmuWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-use-the-quick-settings-menu-on-android-38b95341b9fe470b8bf33178e47a2cfd.jpg)
 
 [Airplane mode](https://www.lifewire.com/what-is-airplane-mode-5074988) isn't just for airplanes. Toggle this on for the ultimate do not disturb while saving your battery.
@@ -100,14 +132,23 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 ![Android quick settings do no disturb](https://www.lifewire.com/thmb/N3REqqVKYWgyuDmTzALoDW95Lc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-use-the-quick-settings-menu-on-android-bf2829f15c214e9c88622f418430f0b7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Location
 
 **Location** toggles your phone's GPS on or off. Long-press to see which apps have recently used your location.
 
 [How to Send Your Location on Android](https://www.lifewire.com/send-location-on-android-5509322)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Android quick settings location](https://www.lifewire.com/thmb/l4SlLyASHf0HomtvdtzBKO0tLDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-use-the-quick-settings-menu-on-android-6c98fcf71957409fb720cf6a51f1244a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Hotspot
 
 **Hotspot** allows you to use your phone as a mobile[hotspot](https://www.lifewire.com/wi-fi-hotspot-definition-2377357) to share your phone's data with other devices, such as your laptop or even other phones and tablets. This is also known as tethering. Some carriers charge you for this feature, so use it with care.
@@ -122,10 +163,16 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
 ![Color inversion toggle highlighted on a Pixel phone](https://www.lifewire.com/thmb/d44Uw0vuCluK0QbwsyD0_0orByE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/color-inversion-quick-settings-android-9a9022b2cd2244d6b2482eea398de2eb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Data Saver
 
 **Data Saver** attempts to save on your data usage by turning off a lot of apps that use background data connections. Use this if you have a limited bandwidth cellular data plan. Long-press this toggle if you want to modify which apps should bypass this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Android quick settings data saver](https://www.lifewire.com/thmb/8HDS4Nz_7P2gMzgtp7qOXupFEZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/015-how-to-use-the-quick-settings-menu-on-android-dbdd5ec2d0294e1591082cfb3ddadc05.jpg)
 
 ### NFC

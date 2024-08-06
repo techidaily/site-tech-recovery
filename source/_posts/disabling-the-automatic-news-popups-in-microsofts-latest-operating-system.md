@@ -1,7 +1,7 @@
 ---
 title: Disabling the Automatic News Popups in Microsoft's Latest Operating System
-date: 2024-08-03 19:21:25
-updated: 2024-08-05 11:39:13
+date: 2024-08-05T02:34:15.154Z
+updated: 2024-08-06T02:34:15.154Z
 categories:
   - BestProducts
 description: This Article Describes Disabling the Automatic News Popups in Microsoft's Latest Operating System
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/5E_HZDTg_Qlla6Aymy3eGTBkCvY=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Right-click an empty area of the taskbar and choose**Taskbar settings** , then select the toggle next to**Widgets** .
@@ -21,10 +24,16 @@ Close
 
  This article explains how to remove the widget button from the taskbar in Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Remove the Widget From the Windows 11 Taskbar 
 
  Disabling this button will clean up your taskbar and prevent you from accidentally opening it or getting distracted by weather icons and stock prices. There are two methods you can follow:  
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Use Settings 
 
  The Windows 11 Settings is one way to edit what's visible on the taskbar.
@@ -32,8 +41,14 @@ Close
 1. Right-click the**Start** button and select**Settings** .
 2. Select**Personalization** on the left.
 3. Choose**Taskbar** on the right.  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Windows 11 Personalization settings](https://www.lifewire.com/thmb/l9IR9LrWHAsHvpRdCj7iHGugZJY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-personalization-settings-905d7b8afd6b4bf199e33b239e05e8f6.png)
 4. Select the toggle next to**Widgets** to disable widget access from the taskbar.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Widgets and Widgets toggle highlighted in Windows 11 Settings](https://www.lifewire.com/thmb/7sb_PT1-67WvSJa-NH3dvnlXux8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-disable-the-news-and-interests-taskbar-widget-in-windows-11-5190865-7c491b5467d24c21bafb7ad4ae33cd98.jpg)
 
 ### Use the Registry 
@@ -59,6 +74,9 @@ Close
 2. Select**Show or hide feeds** .  
 ![The Settings screen for the widgets board in Windows 11](https://www.lifewire.com/thmb/_5x4Bth0iWPubYTtvA9bixiKVrM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/widget-settings-windows-11-c61528b90266454f8e681901c3c1b348.png)
 3. Select the toggle next to**My Feed** and then choose**Turn off** to confirm the change.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Turn Off button for the news feed in Windows 11 Widgets](https://www.lifewire.com/thmb/KDqLuIIX5SxYrbwo-YqkvjjYuDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-widgets-board-feed-a39429220c5c4e91a84d4996cb3631f3.png)
 
 ##  How to Open the Widgets Board Without the Taskbar Shortcut 

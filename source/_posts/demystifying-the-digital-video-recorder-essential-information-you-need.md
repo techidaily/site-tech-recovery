@@ -1,12 +1,12 @@
 ---
 title: Demystifying the Digital Video Recorder – Essential Information You Need
-date: 2024-08-03 20:55:22
-updated: 2024-08-06 10:31:31
+date: 2024-08-05T02:34:14.574Z
+updated: 2024-08-06T02:34:14.574Z
 categories:
   - BestProducts
 description: This Article Describes Demystifying the Digital Video Recorder – Essential Information You Need
 excerpt: This Article Describes Demystifying the Digital Video Recorder – Essential Information You Need
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## DIY Fixes for a Quiet Stereo System – Restarting the Audio Experience
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/fi
 
  But don't toss your remote at the wall just yet. Instead, try these troubleshooting tips to get your brand new sound system up and working.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How to Fix a Stereo Receiver That's Not Making Sound
 
  This should take around 30 minutes and can be done by anyone with basic receiver knowledge.
@@ -28,6 +32,9 @@ thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/fi
 5. **Check the source components** . First, test whatever source component (device) you're using—such as a CD player, DVD/Blu-ray player, or turntable—with another working TV or set of speakers. If the device still doesn't play properly, then your problem is most likely with the device.  
  If all source components are good, connect them back into the original receiver and set them to play some input. Toggle through each input source on the stereo receiver one by one. If the receiver works with some input sources but not others, the cables connecting the component to the receiver could be the problem. Replace any suspect cables and try the original component again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Causes of a Stereo Receiver Not Making Sound
 
  Silent stereos are usually caused by low power, a wrong source selection, disconnected or faulty speaker wires, broken speakers, or a malfunctioning source component. However, similar to[diagnosing a defective speaker channel](https://www.lifewire.com/troubleshoot-speaker-channel-3135138) , troubleshooting a stereo system that's not producing sound begins by isolating the problem—a problem that usually isn't revealed until the corresponding fix has been tried. That's why it's important to proceed through these troubleshooting steps in the proper order.

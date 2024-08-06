@@ -1,7 +1,7 @@
 ---
 title: "Guide: Purchasing Digital eBooks via Apple's Books App on Your iOS Device"
-date: 2024-08-03 21:42:11
-updated: 2024-08-06 12:42:59
+date: 2024-08-05T02:34:41.164Z
+updated: 2024-08-06T02:34:41.164Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Purchasing Digital eBooks via Apple's Books App on Your iOS Device"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 ---
 
 ## Access Hidden Notifications in Your iPhone's History - Tutorial Included
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * **Swipe up** from the middle on your iPhone’s Lock Screen to pull up the Notification Center.
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
  This article explains how to find and interact with older notifications on your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do I View Past Notifications on iPhone?
 
  Notifications that have recently popped up on your iPhone’s lock screen should remain visible for some time. However, eventually, they will disappear or be replaced by more recent ones. If you happen to miss any notifications, recalling them is simple.
@@ -27,19 +33,32 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 1. If your iPhone’s screen is turned off, turn it on by tapping it or, depending on which iPhone you have, pressing either the**Power** or**Home** button.
 2. Swipe up from the middle of your iPhone’s Lock Screen to pull up a list of notifications. If there are no notifications, you’ll see**No Older Notifications** appear instead.
 3. Depending on the number of pending notifications, you may see all of them or be organized into groups based on the apps that generated the notifications.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Swiping up to view the Notification Center on the iPhone Lock screen](https://www.lifewire.com/thmb/2ChwjgKfHw6LD0SO3AW-Th9tN2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_view-old-notifications-on-iphone-5212339-4141b55e71b9428ebdaaa0b9896fa5fd.jpg)
 4. Tap a notification, such as a text, to open the connected app.  
  If your iPhone is locked, you must unlock it with Face ID, Touch ID, or your password to continue.
 5. Swipe left on a notification (or grouping of notifications) to pull up the**Options** and**Clear/Clear All** buttons.
 6. Tap**Options** to pull up a small menu to adjust notification settings for the app the notification originated from. If desired, you can use the menu to mute or turn off notifications for the app.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Notification screen with Open, Options, Clear All highlighted and swipe left indicated](https://www.lifewire.com/thmb/n7FbKDAPSdoyav7UQdba-igvm4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swipeleft-959079301a7c4079b70a47f7333c8676.jpg)
 7. Tap**Clear** or**Clear All** (depending on if there's one or several notifications in one category) to delete notifications from an organized group.  
  This action will remove existing notifications from your Lock Screen until new ones appear but will not affect anything from within the app itself. It will also not affect notifications badges appearing on the app’s icon.
 8. If you want to delete all current notifications at once, tap**X** (next to Notification Center), then tap**Clear All Notifications** . As with**Clear All** , this will remove existing notifications from your iPhone’s lock screen.  
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![iPhone Notifications with Clear, X, and Clear all Notifications highlighted](https://www.lifewire.com/thmb/dT2FzzX1qo2wc0Gk4zYO2_dqzVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Clearallnotifications-9ad9e652a6994a3fa1de4b4e0c619980.jpg)
 9. To view notifications when your phone is not on the Lock Screen, swipe down from the top-left corner of the screen. This will reveal your iPhone’s Lock Screen (though it won’t actually lock your phone).
 10. The (unlocked) Lock Screen will display any available notifications, which will be organized by app.
 11. If there are no notifications to view, the screen will display No Older Notifications instead.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Swipe down on screen indicated and No Older Notifications highlighted](https://www.lifewire.com/thmb/sEg6zvpTFl35ttLCCfbt5RA4LHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nonotifications-0fff2883c9f84963a4281cb840be5617.jpg)
 12. You can interact with any available notifications in the same way as above.
 

@@ -1,7 +1,7 @@
 ---
 title: Insider Scoop on PlayStation VR2 – When's It Coming? How Much Does It Cost? Features Inside!
-date: 2024-08-04 14:39:24
-updated: 2024-08-05 11:42:39
+date: 2024-08-05T02:34:32.013Z
+updated: 2024-08-06T02:34:32.013Z
 categories:
   - BestProducts
 description: This Article Describes Insider Scoop on PlayStation VR2 – When's It Coming? How Much Does It Cost? Features Inside!
@@ -15,10 +15,16 @@ Close
 
  The[ PlayStation VR](https://www.lifewire.com/playstation-vr-4157636) system for the[ PS5](https://www.lifewire.com/playstation-5-4778089) , known as the PSVR 2, was released in early 2023\. Here's the price and information on the hardware specs and features. In addition, we have a list of all the games for the PSVR 2.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Sony PlayStation VR2](https://www.lifewire.com/thmb/dDqAhnaebJhS671khyOJD8smvwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/psvr2-39b455c5374f47c5a302fdbfe92011f0.jpg) 
 
 Sony Interactive Entertainment
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## PSVR 2 Release Date 
 
  The PSVR 2 launched on February 22, 2023.
@@ -31,6 +37,9 @@ Sony Interactive Entertainment
 
  The $599.99 option is identical, but includes a PlayStation Store voucher code for_Horizon Call of the Mountain_ .
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PSVR 2 Features 
 
  Sony calls the PlayStation VR2 a "true next-gen experience with high-fidelity visuals, new sensory features, and enhanced tracking – along with a simplified single-cord setup." Their[ PlayStation VR2: The Ultimate FAQ](https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/) is a great source for all things PSVR 2\. Below are some of these notable features.
@@ -49,6 +58,9 @@ Sony Interactive Entertainment
 * Cinematic Mode to let the PSVR 2 display whatever is running on the PS5 via a 1920x1080 HDR virtual screen with 120Hz refresh rate. The other mode is VR Mode, which is a 360-degree view via a 4000x2040 HDR virtual environment with 90Hz/120Hz refresh rate
 * Set up your space and view your surroundings while wearing the headset via the See-Through View feature. This is possible through the headset's function key, or Quick Settings
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PSVR 2 Specs and Hardware 
 
  These are the official specs from Sony:
@@ -69,6 +81,9 @@ Sony Interactive Entertainment
 
  Attaching the headset, and sizing it appropriately for you, is really easy through a knob on the back. The PSVR 2 headset supports IPD (interpupillary distance) adjustment so you can fine-tune it to your face specifically. But what makes this really helpful is you don't need to know your IPD to get the headset set up.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Sony PS VR2 headset and controllers](https://www.lifewire.com/thmb/YQOZPsDJRvkR6H16-bJbeNPwiEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-psvr2-headset-controllers-260b6a7a01394b4eb22225694cfa4632.jpg) 
 
 Sony
@@ -124,6 +139,9 @@ Sony
 
  It's worth noting here that[ there's no backwards compatibility for PSVR games](https://www.playstation.com/en-us/support/hardware/ps-vr2-compatibility/) , so you can't play original PSVR games on the PSVR 2\. The[ PlayStation Store website lists PSVR 2 games](https://store.playstation.com/en-us/category/c0fce398-e580-4d7d-b952-c6594517a8b6/1) that you can filter by price, genre, and more. Sony says games that work with the PSVR 2 have prominent branding elements to indicate compatibility.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  The Latest News About the PSVR 2 
 
  You can [ get more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) on all kinds of topics; here are more stories and some of the early rumors about Sony's PSVR 2.

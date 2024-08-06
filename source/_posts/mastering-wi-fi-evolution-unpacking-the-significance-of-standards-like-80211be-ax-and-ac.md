@@ -1,7 +1,7 @@
 ---
 title: "Mastering Wi-Fi Evolution: Unpacking the Significance of Standards Like 802.11Be, Ax & Ac"
-date: 2024-08-05 17:59:18
-updated: 2024-08-06 12:19:42
+date: 2024-08-05T02:34:05.031Z
+updated: 2024-08-06T02:34:05.031Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Wi-Fi Evolution: Unpacking the Significance of Standards Like 802.11Be, Ax & Ac"
@@ -24,10 +24,16 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
  Below is a brief look at the most recently approved iterations, outlined from newest to oldest. Other iterations, like 802.11bn (Wi-Fi 8), are still being approved.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A comparison chart of the Pros and Cons of the wireless standards 802.11ac, 802.11n, and 802.11g.](https://www.lifewire.com/thmb/nKbWckJ_1AKQ-SoggPXVECQ_pK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553-36294250342e404eabe7dc94bc7a40f9.png)
 
 Lifewire
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 802.11be (Wi-Fi 7)
 
  Released in January 2024, 802.11be (aka Wi-Fi 7) is the latest standard. It's much faster than Wi-Fi 6, reaching speeds up to 46 Gbps. Wi-Fi 7 is designed to use power efficiently and handle crowded Wi-Fi areas better.
@@ -38,6 +44,9 @@ Lifewire
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 802.11aj
 
  Known as the China Millimeter Wave, this standard applies in China and is a rebranding of 802.11ad for use in certain areas of the world. The goal is to maintain backward compatibility with 802.11ad.
@@ -54,6 +63,9 @@ Lifewire
 
  Keep in mind when distances are mentioned that ranges can be greatly impacted by obstacles that block the signal, so the range mentioned refers to situations where there is absolutely no interference.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 802.11ac (Wi-Fi 5)
 
  The generation of Wi-Fi that first signaled popular use,[802.11ac](https://www.lifewire.com/802-11ac-in-wireless-networking-818284) , uses[dual-band wireless](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) technology, supporting simultaneous connections on both 2.4 GHz and 5 GHz Wi-Fi devices. 802.11ac offers backward compatibility to 802.11a/b/g/n and bandwidth rated up to 1300 Mbps on the 5 GHz band plus up to 450 Mbps on 2.4 GHz. Most home wireless routers are compliant with this standard.
@@ -62,6 +74,9 @@ Lifewire
 
  802.11ac is also referred to as Wi-Fi 5.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 802.11n (Wi-Fi 4)
 
  802.11n (also sometimes known as[Wireless N](https://www.lifewire.com/what-is-wireless-n-818280) ) was designed to improve on 802.11g in the bandwidth it supports by using several wireless signals and antennas (called_MIMO_ technology) instead of one. Industry standards groups ratified 802.11n in 2009 with specifications providing up to 600 Mbps of network bandwidth. 802.11n also offers a somewhat better range over earlier Wi-Fi standards due to its increased signal intensity, and it is backward-compatible with 802.11a/b/g gear.
@@ -86,6 +101,9 @@ Lifewire
 
  802.11a is also unofficially referred to as_Wi-Fi 2_ .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 802.11b (Wi-Fi 1)
 
  IEEE expanded on the original 802.11 standard in July 1999, creating the_802.11b_ specification. 802.11b supports a theoretical speed of up to 11 Mbps. A more realistic bandwidth of 2 Mbps (TCP) and 3 Mbps (UDP) should be expected.

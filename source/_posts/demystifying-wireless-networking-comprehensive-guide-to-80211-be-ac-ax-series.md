@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Wireless Networking: Comprehensive Guide to 802.11 Be, Ac, Ax Series"
-date: 2024-08-04 19:48:20
-updated: 2024-08-06 12:19:45
+date: 2024-08-05T02:34:16.983Z
+updated: 2024-08-06T02:34:16.983Z
 categories:
   - BestProducts
 description: "This Article Describes Demystifying Wireless Networking: Comprehensive Guide to 802.11 Be, Ac, Ax Series"
@@ -38,6 +38,9 @@ Lifewire
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## 802.11aj
 
  Known as the China Millimeter Wave, this standard applies in China and is a rebranding of 802.11ad for use in certain areas of the world. The goal is to maintain backward compatibility with 802.11ad.
@@ -48,6 +51,9 @@ Lifewire
 
 [Is 5 GHz Wi-Fi Better Than 2.4 GHz?](https://www.lifewire.com/is-5-ghz-wifi-better-than-2-4-ghz-818293)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## 802.11ad
 
  This standard was approved in December 2012 and is freakishly fast (several Gbits/second). However, the client device must be within 30 feet of the access point.
@@ -62,12 +68,18 @@ Lifewire
 
  802.11ac is also referred to as Wi-Fi 5.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 802.11n (Wi-Fi 4)
 
  802.11n (also sometimes known as[Wireless N](https://www.lifewire.com/what-is-wireless-n-818280) ) was designed to improve on 802.11g in the bandwidth it supports by using several wireless signals and antennas (called_MIMO_ technology) instead of one. Industry standards groups ratified 802.11n in 2009 with specifications providing up to 600 Mbps of network bandwidth. 802.11n also offers a somewhat better range over earlier Wi-Fi standards due to its increased signal intensity, and it is backward-compatible with 802.11a/b/g gear.
 
  While 802.11n offers significant bandwidth improvement from previous standards and is widely supported, the use of multiple signals may interfere with nearby 802.11b/g-based networks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 802.11g (Wi-Fi 3)
 
  In 2002 and 2003, WLAN products supporting a newer standard called 802.11g emerged. 802.11g attempts to combine the best of both 802.11a and 802.11b. 802.11g supports bandwidth up to 54 Mbps and uses the 2.4 GHz frequency for greater range. 802.11g is backward compatible with 802.11b, meaning that 802.11g[access points](https://www.lifewire.com/wireless-access-point-816545) will work with 802.11b wireless[network adapters](https://www.lifewire.com/definition-of-adapter-817585) and vice versa.
@@ -86,6 +98,9 @@ Lifewire
 
  802.11a is also unofficially referred to as_Wi-Fi 2_ .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 802.11b (Wi-Fi 1)
 
  IEEE expanded on the original 802.11 standard in July 1999, creating the_802.11b_ specification. 802.11b supports a theoretical speed of up to 11 Mbps. A more realistic bandwidth of 2 Mbps (TCP) and 3 Mbps (UDP) should be expected.
@@ -94,6 +109,9 @@ Lifewire
 
  802.11b is also unofficially referred to as_Wi-Fi 1_ .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What About Bluetooth and the Rest?
 
  Aside from these five general-purpose Wi-Fi standards, several other related wireless network technologies offer slightly different value propositions.

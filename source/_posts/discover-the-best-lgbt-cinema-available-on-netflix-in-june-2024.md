@@ -1,7 +1,7 @@
 ---
 title: Discover the Best LGBT Cinema Available on Netflix in June 2024
-date: 2024-08-03 18:59:31
-updated: 2024-08-06 12:37:46
+date: 2024-08-05T02:35:14.153Z
+updated: 2024-08-06T02:35:14.153Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Best LGBT Cinema Available on Netflix in June 2024
@@ -18,6 +18,23 @@ thumbnail: https://www.lifewire.com/thmb/s2Q0zL9h6PL7BKPd___eOAKOfzY=/540x405/fi
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## [Project Gutenberg](https://www.gutenberg.org/)
 
 ![Project Gutenberg](https://www.lifewire.com/thmb/4OcH6StH0miYClcfFav0B809yrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/project-gutenberg-c74c7035f2e84229a51ad1d6d0d3c503.png)
@@ -45,6 +62,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ManyBooks](https://manybooks.net/)
 
 ![ManyBooks horror books](https://www.lifewire.com/thmb/VUNvSbfPj4JxsPpoQ-aeLSDRMoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manybooks-horror-66393c2957f74d4e887e11a46e63cbae.png)
@@ -125,6 +145,9 @@ of 17
 
 ## [Google Play Books](https://play.google.com/store/books)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Play's top free ebooks](https://www.lifewire.com/thmb/rWdOx4g3sL9wBs75Gen-8fKmwLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-play-free-books-7805ff6114d3413b981bad07ad9309a9.png)
 
  What We Like
@@ -205,6 +228,9 @@ of 17
 
 ## [Wikisource](https://wikisource.org/wiki/Main%5FPage)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wikisource home page](https://www.lifewire.com/thmb/MBfdbz4twoDq9wAPQBtLc2vgjh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wikisource-a1d3f9ef301e4806b50e61c49375b852.png)
 
  What We Like
@@ -227,8 +253,15 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Wikibooks](https://www.wikibooks.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Wikibooks home page](https://www.lifewire.com/thmb/YF1AE5jQiXAwL2BMn0sqD0bT3hg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wikibooks-db10b097678243d9af53a357b0730389.png)
 
  What We Like
@@ -254,6 +287,9 @@ of 17
 
 ## [Free-eBooks.net](https://www.free-ebooks.net/)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![free-ebooks.net romance books](https://www.lifewire.com/thmb/MFwV8nsWimWGfjT3kr47omFtjzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-ebooks-romance-books-e1de021c14b64c58b4e148e0d206c144.png)
 
  What We Like
@@ -276,8 +312,14 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [The Online Books Page](https://digital.library.upenn.edu/books/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Online Books Page](https://www.lifewire.com/thmb/NtXfFY_H2MOVz3zuO7C0KZ49Fs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/online-books-page-292c14fbd74942d0bb05d4b5241be408.png)
 
  What We Like
@@ -302,8 +344,14 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## [eBooks.com](https://www.ebooks.com/free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Free book downloads at eBooks.com](https://www.lifewire.com/thmb/f64HJTqNV5QI7QMKZTlbQF51FgY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ebooks-com-free-books-8efd93df14464c68b139adde505dec38.png)
 
  What We Like
@@ -328,6 +376,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## [International Children's Digital Library](http://childrenslibrary.org/)
 
 ![International Children's Digital Library](https://www.lifewire.com/thmb/BfmcMPozUonvQpPrd_lOJrsHPRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/international-childrens-digital-library-2bc17e8bfa0c4a8f87f80e695d36b273.png)
@@ -352,8 +403,14 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Everand](https://www.everand.com)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Everand home page](https://www.lifewire.com/thmb/_RKXRhYWjNmhnh4iDOAdnWVgFSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Everand-dc93d107c8644c8c96c22fb35117be3b.jpg)
 
  What We Like
@@ -377,8 +434,15 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## [Free Computer Books](https://freecomputerbooks.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Free Computer Books](https://www.lifewire.com/thmb/kpGWwXVxeczS8A5cNT55XNUrNTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-computer-books-695ea6d8e0b940dbb08d6bd996afb63d.png)
 
  What We Like

@@ -1,7 +1,7 @@
 ---
 title: The Complete How-To for Placing Several Waypoints in Google Maps
-date: 2024-08-04 17:21:51
-updated: 2024-08-06 11:16:42
+date: 2024-08-05T02:34:03.878Z
+updated: 2024-08-06T02:34:03.878Z
 categories:
   - BestProducts
 description: This Article Describes The Complete How-To for Placing Several Waypoints in Google Maps
@@ -79,8 +79,15 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## [Pixlr](https://pixlr.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![An image open for editing on the Pixlr Express website](https://www.lifewire.com/thmb/m2zjpcDwIwyZ_z4tIl8WG340lGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pixlr-ai-photo-editor-f2fd3ca074b941419a4af675fe46fdc0.png)
 
  What We Like
@@ -112,8 +119,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [SumoPaint](https://sumopaint.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Two layers visible in the Sumopaint online image editor](https://www.lifewire.com/thmb/6_H3Jd8mH-zb8zOPkwVRGfJyzXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sumopaint-4cbe441867c5489aa19835730fec4765.png)
 
  What We Like
@@ -142,8 +155,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Krita](https://krita.org/en/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Krita free photoshop alternative](https://www.lifewire.com/thmb/MGp2TLNkYLlp5AB7bPbv3oXO7cY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/user-interface30-592db40f3df78cbe7e66bc22.png)
 
 The Krita Foundation

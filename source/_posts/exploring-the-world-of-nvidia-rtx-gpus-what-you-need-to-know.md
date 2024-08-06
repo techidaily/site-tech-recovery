@@ -1,7 +1,7 @@
 ---
 title: Exploring the World of NVIDIA RTX GPUs - What You Need to Know
-date: 2024-08-05 17:32:41
-updated: 2024-08-06 12:59:24
+date: 2024-08-05T02:34:34.318Z
+updated: 2024-08-06T02:34:34.318Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the World of NVIDIA RTX GPUs - What You Need to Know
@@ -12,6 +12,9 @@ thumbnail: https://www.lifewire.com/thmb/89870A7FoJqVgNT3lbtlg4Q-kx4=/400x300/fi
 ## Subwoofer Dilemma Solved? Get Rid of the Irritating Audio Hum Once and For All
  You cabled up a new speaker to your sound system,[positioned the subwoofer for optimal performance](https://www.lifewire.com/best-performance-for-subwoofer-3135131) , and[tweaked the audio equalizer](https://www.lifewire.com/adjust-frequencies-on-stereo-equalizer-3134898) so that everything sounds perfect to your ears. You sit down to relax and listen but notice something is off. A conspicuous, persistent hum emanates from the subwoofer, and it shows no signs of going away. In this article, we show you how to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## How to Fix Subwoofer Hum
 
  You can take several approaches to get rid of the annoying hum. If the first suggestion doesn't work, try one of the others.
@@ -22,10 +25,16 @@ thumbnail: https://www.lifewire.com/thmb/89870A7FoJqVgNT3lbtlg4Q-kx4=/400x300/fi
 4. **Switch outlets** . Sometimes the subwoofer hum is caused by a ground loop, which happens when it's fighting a second device for possession of the ground. If you have another three-prong piece of equipment sharing the same wall outlet, power strip, or surge protector as the subwoofer, move the subwoofer to another AC circuit in the room. It may be necessary to use an extension cord to reach a wall outlet that is separate from the rest of the stereo system.
 5. **Use an audio isolation transformer** . If the previous grounding techniques haven't worked, consider purchasing and installing an audio isolation transformer. Many are designed for powered subwoofers and connect in line with the cables. They instantly resolve ground loops.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Black sub-woofer and two speakers](https://www.lifewire.com/thmb/ZnIO2ldgiiw1li9LZp7iCogWVS0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/black-sub-woofer-and-two-speakers-1136832987-7043c3fa65864e878d8e287413ae66e7.jpg)
 
  Dario Petrović / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Causes of Subwoofer Hum
 
  Subwoofer hum or buzz is a low-level noise that can be present whenever a[passive or powered subwoofer](https://www.lifewire.com/passive-vs-powered-subwoofers-1847584) is turned on, whether or not it is playing. This 60-hertz hum is a result of being plugged into an AC wall outlet.

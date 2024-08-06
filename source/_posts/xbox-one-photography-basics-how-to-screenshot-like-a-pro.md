@@ -1,7 +1,7 @@
 ---
 title: "Xbox One Photography Basics: How to Screenshot Like a Pro"
-date: 2024-08-05 18:45:19
-updated: 2024-08-06 11:29:35
+date: 2024-08-05T02:34:53.455Z
+updated: 2024-08-06T02:34:53.455Z
 categories:
   - BestProducts
 description: "This Article Describes Xbox One Photography Basics: How to Screenshot Like a Pro"
@@ -17,6 +17,10 @@ Close
 
  Once captured, users can upload images and video to[ OneDrive](https://www.lifewire.com/onedrive-in-windows-10-a-house-divided-4067451) , share them directly to[ X (formerly Twitter)](https://www.lifewire.com/what-exactly-is-twitter-2483331) , or back them up to a computer. Screenshots and videos can also be downloaded through the Xbox app, which makes it easy to archive your favorite moments and share them on other[ social media platforms](https://www.lifewire.com/top-social-networking-sites-people-are-using-3486554) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ##  How to Take a Screenshot on Xbox One 
 
  Taking an Xbox One screenshot only requires you to push two buttons. 
@@ -31,6 +35,14 @@ Close
 
  If you'd like to capture the last 30 seconds of gameplay as a video, press the**X** button instead.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ##  How to Share a Screenshot on Xbox One 
 
  Xbox One lets you share screenshots and videos right from the console. 
@@ -45,6 +57,9 @@ Close
 
  Select**X** to share an image directly to X. Other options allow you to share images and videos to your activity feed, an Xbox club, or in a message to one of your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ##  How to Capture 4K HDR Screenshots and Video Clips on Xbox One 
 
  Xbox One S and Xbox One X allow you to capture screenshots and gameplay footage in 4k. 
@@ -60,6 +75,9 @@ Close
 
  This will dramatically increase the file size of screenshots and video clips. If you want to share your 4K screenshots on social media platforms like X, you may need to download them to your PC and then[ resize the images](https://www.lifewire.com/resize-pictures-before-inserting-1173273) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Access Xbox One Screenshots and Videos From a Computer 
 
  If you don't like Twitter, the Xbox app lets you download your Xbox One screenshots so you can share them wherever you want. 

@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets to Restoring Erased Chats on Any Cellular Device
-date: 2024-08-04 12:28:23
-updated: 2024-08-06 12:15:37
+date: 2024-08-05T02:34:59.649Z
+updated: 2024-08-06T02:34:59.649Z
 categories:
   - BestProducts
 description: This Article Describes Unlock the Secrets to Restoring Erased Chats on Any Cellular Device
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/DP0ES_a3PhOHyxcdJvwbnjSUJ9o=/400x300/fi
 ---
 
 ## Restoring Erased Mobile Numbers on Your Android Device: Proven Methods
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Open the**Contacts** app or visit**contacts.google.com** . Select**Trash** (web) or**Fix & manage** \>**Trash** (app).
@@ -25,14 +28,23 @@ thumbnail: https://www.lifewire.com/thmb/DP0ES_a3PhOHyxcdJvwbnjSUJ9o=/400x300/fi
 1. [Open Google Contacts](https://contacts.google.com/) in your web browser. You'll need to log in with the same Google account used on your phone.  
  If you're on your phone, find and open the**Contacts** app.
 2. Select**Trash** from the menu on the left. If you don't see it, select the**three-line** menu button at the top left.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![The Trash menu item highlighted in Google Contacts.](https://www.lifewire.com/thmb/OMw5rrBEn05YHe01cLmVPj9hf7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FindDeletedPhoneNumbersonAndroid-annotated-a1dd410eec2a44f38b1ddb67b4dc14dd.jpg)  
  To do this from the mobile app, go to**Fix & manage** \>**Trash** .
 3. Select a contact from the list.  
 ![A deleted contact highlighted in Google Contacts.](https://www.lifewire.com/thmb/EEQuRT7rucX1CfF5ZU4cm89v6k8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-FindDeletedPhoneNumbersonAndroid-annotated-4b1f46470012453b893ee092d52f7fb9.jpg)  
  Need help finding what you're after? Contacts sent to the trash are permanently deleted every 30 days so that you might have missed your opportunity. Additionally, if your phone hasn't been backing up your contacts, deleted entries will not appear here.
 4. Select**Recover** to pull the contact out of the trash and put it back into your regular list. If you want to keep the contact deleted, you can still copy the email address, phone number, or any other details from this screen.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![The Recover button highlighted for a deleted contact in Google Contacts.](https://www.lifewire.com/thmb/a97wY8W86SgGdS9pEFTZVRtaU3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-FindDeletedPhoneNumbersonAndroid-annotated-3d74c1e6a99c4fac941e44dfe4c1ccda.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Get Deleted Numbers Back on a Samsung Phone
 
  It's easy to recover deleted contacts on a Samsung phone because there's a handy recycle bin area that stores this information. You have 30 days to get a deleted phone number back before it disappears forever. Here's how:
@@ -44,9 +56,16 @@ thumbnail: https://www.lifewire.com/thmb/DP0ES_a3PhOHyxcdJvwbnjSUJ9o=/400x300/fi
  Although it's not as common, your phone might have contacts stored on the internal memory or a SIM card. This can happen if that's where you've backed up your contacts. If you're lucky, the deleted number might still exist in the backup. Here's how to import those contacts:
 
 1. Go to**Contacts** \>**Menu** \>**Manage Contacts.**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![The Samsung Contacts app with the menu and 'Manage contacts' highlighted](https://www.lifewire.com/thmb/hGdu49Zvk3-BMwVJhDJRUg3hUkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers06-ac12a6b7ae344c169bc47cddcde5b324.jpg)
 2. Tap**Import or export contacts** \>**Import** . If you have any contacts stored on your SIM card or your internal memory, you'll see those sources in the list.
 3. Select the source you want to retrieve the contacts from, then tap**Import** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![A Samsung phone user imports contacts](https://www.lifewire.com/thmb/G98RJqkST9u56OLvOkTB5WJqXOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers07-2de9758e685a4be78eabfa70e20fbcae.jpg)
 
 ## Can I Restore Deleted Numbers on Android Without a Computer?

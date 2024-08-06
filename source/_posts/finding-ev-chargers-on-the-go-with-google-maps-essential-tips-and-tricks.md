@@ -1,7 +1,7 @@
 ---
 title: Finding EV Chargers on the Go with Google Maps – Essential Tips and Tricks
-date: 2024-08-05 12:33:24
-updated: 2024-08-06 10:36:31
+date: 2024-08-05T02:34:15.106Z
+updated: 2024-08-06T02:34:15.106Z
 categories:
   - BestProducts
 description: This Article Describes Finding EV Chargers on the Go with Google Maps – Essential Tips and Tricks
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/epXYyTTlPF7zkY4f81FfYE4uqJA=/400x300/fi
 
  This article will show you how to find compatible charging stations for your vehicle and seamlessly plan your journeys around them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Note
 
  The steps and screenshots below are from Google Maps in iOS. The steps are similar for Android.
@@ -26,6 +29,9 @@ thumbnail: https://www.lifewire.com/thmb/epXYyTTlPF7zkY4f81FfYE4uqJA=/400x300/fi
 
  You must set up Google Maps before you start searching for electric charging stations. If you have it set up, skip the step below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Select the Charger Type for Your Car
 
  Choosing the correct charger plug-in Google Maps settings for your car can help you avoid confusion and reach the right station.
@@ -33,8 +39,15 @@ thumbnail: https://www.lifewire.com/thmb/epXYyTTlPF7zkY4f81FfYE4uqJA=/400x300/fi
 1. Open Google Maps and tap your profile picture.
 2. Select**Settings** \>**Electric vehicle settings** .
 3. Select**Add plugs** and choose the type(s) compatible with your car (e.g., CCS, CHAdeMO) to ensure Google Maps only shows relevant stations.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Settings, Electric vehicle settings, and plug types in the Google Maps app](https://www.lifewire.com/thmb/wMpdBksqOMkGz-2SiabokHxq8DA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Maps-EV-setup-plugs-d2076a4c269b46cba08e894002ab9456.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Search and Find Compatible EV Charging Stations  
 
  You can use keywords like "EV charging stations near me" in the search bar at the top of the Explore screen. For more specific searches, enter your charger type. Alternatively, you can use the Categories menu below the search bar.
@@ -51,8 +64,14 @@ thumbnail: https://www.lifewire.com/thmb/epXYyTTlPF7zkY4f81FfYE4uqJA=/400x300/fi
  On the**Explore** screen, choose the filter icon and set Google Maps to display charging stations by**Relevance** ,**Distance** ,**Rating** , type of**EV plugs** , and**EV charging speed** .  
  You can even change them on the fly to expand your options when the pins are displayed on the map.  
  Tap the icon of an EV charging station for details like charging speeds (kW), real-time availability (if provided by the station), and user photos. If it's an option, check out the Street View to familiarize yourself with the approach.  
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Filter options for EV charging stations in Google Maps](https://www.lifewire.com/thmb/kIqr0_Zyzxw2aMpRgZyvq_WcKpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EV-station-filters-9c5b18a3975d4359a6e533d1ba96624a.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## How to Add EV Charging Stations to Your Route  
 
  Adding an EV station to your route is the same as[adding any other stop on Google Maps](https://www.lifewire.com/add-stops-on-google-maps-5197837) in a route with multiple stops.
@@ -70,6 +89,9 @@ thumbnail: https://www.lifewire.com/thmb/epXYyTTlPF7zkY4f81FfYE4uqJA=/400x300/fi
 14. Select the three dots next to the location box and select**Options** from the bottom sheet menu that appears on the screen.
 15. Enable the toggle for**Prefer fuel-efficient routes** if it's not selected.
 16. Select**Electric** for**Engine type (car)** .  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The "More" menu, Options heading, and "Prefer fuel-efficient routes" & Engine type options in Google Maps](https://www.lifewire.com/thmb/rQO9h7LEvVKQtN8Ic6b5xiJa1-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Efficient-route-options-Google-Maps-627d7d46908d4c65964001452e23f23f.jpg)
 17. Go back to the map.
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive List of Top 15 Free AI Course Resources - The Complete Self-Guided Learning Journey
-date: 2024-08-04 15:26:55
-updated: 2024-08-05 10:46:25
+date: 2024-08-05T02:34:52.471Z
+updated: 2024-08-06T02:34:52.471Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive List of Top 15 Free AI Course Resources - The Complete Self-Guided Learning Journey
@@ -23,8 +23,14 @@ Close
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Introduction to Generative AI Learning Path homepage](https://www.lifewire.com/thmb/dJve4yDxcw-UWWzP9Gi6tL7ZRC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Learning-Path-AI-83ec42d1c1454b2e85d2e36104c2f254.jpg) 
 
  What We Like
@@ -50,8 +56,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Career Essentials in Generative AI](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.lifewire.com/thmb/wcAh4NlQzXVTLzR1ccXNcRKLf_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Career-Essentials-LinkedIn-4d70a6826cee4ce89d30864ecb15d775.jpg) 
 
  What We Like
@@ -71,6 +83,10 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## [ Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) 
 
 ![Intro to Artificial Intelligence](https://www.lifewire.com/thmb/dEieKiGFIbKwnfbVgB1jcJFphxs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IntrotoArtificialIntelligence-6137765665394aff9eee6df8b948a56a.jpg) 
@@ -92,6 +108,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ AI for Everyone: Master the Basics](https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics) 
 
 ![IBM's AI Course on edX](https://www.lifewire.com/thmb/uooc44WrDB8dX8t2voyctEOjzBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IBM-Master-Basics-AI-b65ab798494544f69ec61a444630ebb0.jpg) 
@@ -115,6 +134,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ AI Chatbots without Programming](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) 
 
 ![AI Chatbots without Programming course from IBM](https://www.lifewire.com/thmb/r0IhHWXg8ZSkSCO1vfv_CR8jYYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIChatbotswithoutProgramming-d7b03ca0c0e547da83e2cec9d662b759.jpg) 
@@ -160,6 +182,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) 
 
 ![AI for Everyone](https://www.lifewire.com/thmb/uXdCF2h3mYWdy3XvWHHXBJ3-PL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Everyone-a40263502d1444d2804ccb21deb0d032.jpg) 
@@ -184,6 +209,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## [ ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) 
 
 ![ChatGPT Prompt Engineering for Developers](https://www.lifewire.com/thmb/KLUhWSO4cL9fMo35fVLsesJZDCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChatGPT-Prompt-Engineering-00496292b31c4d80a2bb1fc350a7a296.jpg) 
@@ -228,6 +261,10 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## [ Data Science: Machine Learning](https://pll.harvard.edu/course/data-science-machine-learning/2023-10) 
 
 ![Data Science Course on HarvardX](https://www.lifewire.com/thmb/JPjYF-w_m3VTVTOOfauQ8cufIvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HarvardX-Data-Science-b2acd196a04f441c9251b84cc82536fa.jpg) 
@@ -249,6 +286,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) 
 
 ![Introduction to Artificial Intelligence with Python from Harvard](https://www.lifewire.com/thmb/WuzT3Q6Pq2kMEgvrauc2wNJ9QSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligencewithPython-8726503fd1224ddcae74c036178cd94e.jpg) 
@@ -291,6 +331,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ AI For Business Specialization](https://www.coursera.org/specializations/ai-for-business-wharton#courses) 
 
 ![AI For Business Specialization from Penn University](https://www.lifewire.com/thmb/8bIek6HAlnBX4qgN4C0PCqV_Yw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Business-5f0f14f5ce7344c197fa4b79313eff64.jpg) 
@@ -313,6 +356,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/) 
 
 ![AI for Good from Deeplearning](https://www.lifewire.com/thmb/7jVB69zddjKCFVOuhIAbSTM5PeA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Good-bac696068bf843ab8ddc5e66d112103c.jpg) 
@@ -336,6 +382,9 @@ of 15
 
 ## [ Responsible AI: Applying AI Principles with Google Cloud](https://www.cloudskillsboost.google/course%5Ftemplates/388) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Responsible AI](https://www.lifewire.com/thmb/a9vc7kQgryt3ejJXOopCw09mSbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ResponsibleAI-c73e9beb6d2c44b0b0e1906ad4d8f43f.jpg) 
 
  What We Like

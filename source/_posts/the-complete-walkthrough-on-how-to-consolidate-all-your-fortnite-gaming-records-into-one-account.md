@@ -1,7 +1,7 @@
 ---
 title: The Complete Walkthrough on How to Consolidate All Your Fortnite Gaming Records Into One Account
-date: 2024-08-03 20:56:20
-updated: 2024-08-05 12:54:32
+date: 2024-08-05T02:34:05.131Z
+updated: 2024-08-06T02:34:05.131Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Walkthrough on How to Consolidate All Your Fortnite Gaming Records Into One Account
@@ -21,6 +21,9 @@ Close
 
  While it's not necessary to do this, taking advantage of the feature makes it easier to play the game on multiple devices, sharing progress and purchased items across platforms and eliminating the need for multiple logins. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  Fortnite Account Merging Caveats 
 
  There are some important things to keep in mind when merging your "Fortnite" accounts.
@@ -29,16 +32,28 @@ Close
 * Your accounts can't be merged if one is currently banned or disabled.
 * You need access to all of the email addresses associated with the accounts you want to merge.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Merge Fortnite Accounts 
 
 1. Go to[ Fortnite merge accounts page](https://www.epicgames.com/fortnite/account-merge/accounts/primary) and select a Primary Account. This is the one you'll continue using after the merger is complete.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of the Fortnite account merging process](https://www.lifewire.com/thmb/S4uvPKpHtDCqofo8-8iB6XNG88k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2019-02-2013.39.52-5c6dbf1346e0fb00011fa0c4.png)  
  Stefanie Fogel
 2. Log in to that account. Epic will email you a security code you'll need to enter to continue.
 3. Choose a Secondary Account to merge and disable, and login to that account as well.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Screenshot of the Fortnite account merging process](https://www.lifewire.com/thmb/qzemy5pkKXQVjRXBU7cJ6nV0rUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Fortniteaccountmerging-5c6dc07446e0fb000181fd5d.png)
 4. Follow the on-screen prompts to finish the merger.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Does or Doesn't Transfer After a Fortnite Account Merge? 
 
  Once your accounts are combined, all purchased content is shared across all supported platforms, including all the cosmetic items you've purchased in Fortnite's Battle Royale mode. Fans of the Save the World campaign will keep their Llamas, Defenders, Heroes, Schematics, Survivors, XP, Evolution, and Perk Materials.

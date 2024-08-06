@@ -1,7 +1,7 @@
 ---
 title: Státní Nakladatelství Knih (State Publishing House)
-date: 2024-08-05 10:39:50
-updated: 2024-08-06 10:24:25
+date: 2024-08-05T02:34:14.669Z
+updated: 2024-08-06T02:34:14.669Z
 categories:
   - BestProducts
 description: This Article Describes Státní Nakladatelství Knih (State Publishing House)
@@ -10,6 +10,10 @@ thumbnail: https://www.lifewire.com/thmb/EsTcOm5WCv0IDy-jq1fYfiDU_vk=/400x300/fi
 ---
 
 ## Master Your Reading Experience with a Customized Kindle Paperwhite Display Time
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * From Kindle home screen, tap top of screen >**All Settings** \>**Device Options** \>**Device Time** .
@@ -18,6 +22,9 @@ thumbnail: https://www.lifewire.com/thmb/EsTcOm5WCv0IDy-jq1fYfiDU_vk=/400x300/fi
 
  This article explains how to change the time on a Kindle Paperwhite.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Set the Time on a Kindle Paperwhite
 
  The[Kindle Paperwhite](https://www.lifewire.com/how-to-use-kindle-paperwhite-5224252) is designed to set itself automatically by synchronizing with Amazon’s servers and then adjusting based on your time zone. You can also set the time automatically though, which is helpful if you find that your Kindle Paperwhite displays the wrong time.
@@ -25,8 +32,14 @@ thumbnail: https://www.lifewire.com/thmb/EsTcOm5WCv0IDy-jq1fYfiDU_vk=/400x300/fi
  Here’s how to set the time on a Kindle Paperwhite:  
 
 1. Tap the**v** icon in the top middle of the[Kindle home screen](https://www.lifewire.com/get-to-home-screen-on-kindle-5222568) .  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The V icon highlighted at the top of the Kindle home screen](https://www.lifewire.com/thmb/j8K4PofURQz9tI-zlyWDg4p9rPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-Change-Time-on-a-Paperwhite-1549f53cc4fb42298beb5db1db2a31d2.jpg)
 2. Tap**All Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![All Settings highlighted on Kindle](https://www.lifewire.com/thmb/FVQ4IxFNo_i4Z-FPltzLdZw0sbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-Change-Time-on-a-Paperwhite-0add7d56ede94b9fb98fd6946c950382.jpg)
 3. Tap**Device Options** .  
 ![Device Options highlighted in Kindle settings](https://www.lifewire.com/thmb/e6MlyV_kRs3sZ7KmmbmU_qDoYsw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-Change-Time-on-a-Paperwhite-10b0b32f055a4274a8460885c23e21ff.jpg)
@@ -37,6 +50,9 @@ thumbnail: https://www.lifewire.com/thmb/EsTcOm5WCv0IDy-jq1fYfiDU_vk=/400x300/fi
 6. Tap**OK** .  
 ![OK highlighted in Kindle time settings](https://www.lifewire.com/thmb/7fhpYTv82a-NfNmzVAF1o6ppuDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-Change-Time-on-a-Paperwhite-8f41a6b1efa94995a73e0de6986b73a3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Why Does My Kindle Show the Wrong Time?
 
  If your Kindle Paperwhite is displaying a time that is just a few minutes off, it’s probably due to some type of glitch. Setting the time manually will usually take care of it. If the time is consistently off by one hour, then it’s probably because Amazon’s servers think you’re in a different time zone, or the system isn’t correctly adjusting the time for daylight savings time.
@@ -54,10 +70,20 @@ thumbnail: https://www.lifewire.com/thmb/EsTcOm5WCv0IDy-jq1fYfiDU_vk=/400x300/fi
  Here’s how to switch a Kindle Paperwhite to 12-hour time:  
 
 1. Tap the**v** icon in the top middle of the Kindle home screen.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The V icon highlighted on the Kindle home screen](https://www.lifewire.com/thmb/hoIB8ZzovOgAFwX_a64_ZAujeeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1.-Change-Time-on-a-Paperwhitejpg-0a19439c8f3442e797a1f6f430b91ef4.jpg)
 2. Tap**All Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![All Settings highlighted on Kindle](https://www.lifewire.com/thmb/bRaMB3kZlAcWlvNrYXiOx6fND5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-Change-Time-on-a-Paperwhite-7f48719c517a4ab49560f5b8f51700f4.jpg)
 3. Tap**Language & Dictionaries** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Language and Dictionaries highlighted on Kindle](https://www.lifewire.com/thmb/QR2aYMJTQnQ5tv2ghdXYvpEEKt8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-Change-Time-on-a-Paperwhite-d64e455e000d489ab034179af893261f.jpg)
 4. Tap**Language** .  
 ![Language highlighted on Kindle](https://www.lifewire.com/thmb/agMssSF7l7LaFlu2ySCj9t64Cj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-Change-Time-on-a-Paperwhite-cccb316c6c4342bebab129d7d0b92f1c.jpg)

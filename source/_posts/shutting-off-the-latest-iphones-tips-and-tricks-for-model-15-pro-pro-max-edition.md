@@ -1,7 +1,7 @@
 ---
 title: Shutting Off the Latest iPhones - Tips and Tricks for Model 15 Pro, Pro Max Edition
-date: 2024-08-03 15:46:23
-updated: 2024-08-06 11:21:33
+date: 2024-08-05T02:34:22.993Z
+updated: 2024-08-06T02:34:22.993Z
 categories:
   - BestProducts
 description: This Article Describes Shutting Off the Latest iPhones - Tips and Tricks for Model 15 Pro, Pro Max Edition
@@ -18,10 +18,17 @@ thumbnail: https://www.lifewire.com/thmb/zSL35LXH2yot5Ujz60mMjHmk0KY=/400x300/fi
 
 1. Press the**Side** button on the right side of your iPhone and either**Volume** button on the left side for a couple of seconds.  
  Only hold down one of the**Volume** buttons,**Up** or**Down** . Don’t press both.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The volume (left) buttons and side button on an iPhone 15 Pro Max](https://www.lifewire.com/thmb/TmHUOU_P6SpM3wMTkgaBlQ6knbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Side-and-Volume-buttons-on-iPhone-15-Pro-ce7f29a6f4bb4cf3bb66ea8b0b928ba3.jpg)
 2. A**Power** switch should appear at the top of the screen labeled**slide to power off** .
 3. Drag the**Power** icon from the left all the way to the right. Your iPhone 15 Pro or Pro Max should turn off.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to Power Off an iPhone 15 Pro Using the Settings App
 
  If one or more of the physical buttons on your iPhone 15 Pro or Pro Max aren’t working properly, you can instead turn off your device using a software option in the iOS Settings app. Here’s how to perform an iPhone shutdown using iOS.  
@@ -29,18 +36,30 @@ thumbnail: https://www.lifewire.com/thmb/zSL35LXH2yot5Ujz60mMjHmk0KY=/400x300/fi
 1. Open**Settings** and tap**General** .
 2. Scroll down to the bottom of the menu and select**Shut Down** .
 3. Slide the**Power** button from left to right.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The iPhone Settings app with General, Shut Down, and power switch highlighted.](https://www.lifewire.com/thmb/qkqSasRdubWydWHUBG5CkQeJstI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Turn-Of-iPhone-15-Pro-in-Settings-6be83e8413504c42b9bc2f146153f7da.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use Siri to Turn Off Your iPhone 15 Pro
 
  Arguably, the fastest way to turn off an iPhone is to simply tell[Siri](https://www.lifewire.com/what-is-siri-help-1994303) to do it. All you need to do is say either “**Hey, Siri. Turn off my iPhone** ” or “**Hey, Siri. Shut down my iPhone** ” and respond with “**Yes** ” when asked to confirm your request.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Turn On an iPhone 15 Pro
 
  To turn your iPhone 15 Pro or Pro Max back on again, hold the**Side** button down for several seconds and then release it once the Apple logo appears on the screen.
 
  If you turned off your iPhone 15 Pro to fix some kind of technical issue, wait at least 30 seconds before turning it back on again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Turn Off the iPhone 15 Pro Screen
 
  To leave your iPhone 15 Pro on so that it can receive phone calls, messages, and notifications, and you just want the screen to turn off, press the**Side** button once. Press the**Side** button or tap the screen to wake it up.

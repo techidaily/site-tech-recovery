@@ -1,7 +1,7 @@
 ---
 title: "Boost Engagement with Annotated Visuals: A Guide to Instagram Story Subtitles"
-date: 2024-08-04 23:18:13
-updated: 2024-08-05 11:29:15
+date: 2024-08-05T02:35:14.437Z
+updated: 2024-08-06T02:35:14.437Z
 categories:
   - BestProducts
 description: "This Article Describes Boost Engagement with Annotated Visuals: A Guide to Instagram Story Subtitles"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/253a511a8eebe03ad95bca3519e71144f55137cbd
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Add captions: Create a story, and then press the**Sticker** icon and select**Captions** .
@@ -33,8 +36,14 @@ Close
 4. Use the color picker, located at the top, to change the color. To change the font, choose one of the other font options at the bottom.
 5. Edit the captions. If you see any words that are translated incorrectly, double-tap the transcript, then tap the word to edit it. In this case, the word "I" will be edited to "I'll."
 6. Share your story. When you're finished editing your captions, use the arrow icon to share your story. Anyone who watches it will be able to see captions.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Instagram speech transcript, edit words in caption, transcript corrected.](https://www.lifewire.com/thmb/mH774TATn8g-KPdLQnayq_iBO-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006captions-3fe8e98dd5f84ab9b03f41938aa01417.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Get Captions on Instagram Stories 
 
  You also have the option to turn on automatic captions for the stories and reels that appear on your Instagram feed. Here's how to enable this feature.
@@ -43,13 +52,33 @@ Close
 2. Tap the**Menu** (three horizontal lines) in the upper-right corner to open**Settings and activity** .
 3. Scroll down to**Your app and media** .
 4. Tap**Accessibility** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Navigating to the Accessibility section of Settings and activity in the Instagram app](https://www.lifewire.com/thmb/fRQ5pzJlmuOEnCz1pZMza94YT9M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_add-captions-to-instagram-stories-6503064-00cc56c1f7e94870971aea729c112b50.jpg)
 5. Choose the arrow beside**Captions and translations** .
 6. Move the toggle for**Captions** to the right.
 7. Captions will automatically generate on videos with speech.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Turn on auto captions, will automatically play on stories with speech](https://www.lifewire.com/thmb/fiX2Ckj8Uvo55Kj0jrMTGUKW950=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007stories-3a9a638e662e41359d11ca21ab9d6f58.jpg)  
  Automatic captions will show even when your volume is turned up. Videos that were captioned by their creators may display two sets of captions.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Automatic Captions on Instagram 
 
  Some people don't add captions to their Instagram stories. To see captions on those stories, you will need to enable automatic captions.

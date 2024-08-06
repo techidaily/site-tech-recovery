@@ -1,7 +1,7 @@
 ---
 title: "Beginning with the Meta Headset: How to Set Up an Oculus Quest/Quest 2 Profile"
-date: 2024-08-03 19:54:47
-updated: 2024-08-06 11:55:32
+date: 2024-08-05T02:35:03.846Z
+updated: 2024-08-06T02:35:03.846Z
 categories:
   - BestProducts
 description: "This Article Describes Beginning with the Meta Headset: How to Set Up an Oculus Quest/Quest 2 Profile"
@@ -14,6 +14,18 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  Instructions in this article apply to Bluetooth speakers connected to Android, Amazon Echo, or Google Home devices.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use AmpMe to Connect Multiple Bluetooth Speakers
 
  There are a few apps that connect multiple Bluetooth devices, including AmpMe, Bose Connect, and Ultimate Ears. AmpMe is the most versatile, as it's not brand-specific, while the Bose and Ultimate Ears apps require the respective company's Bluetooth speakers.
@@ -30,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
 1. Tap the**+** (Plus) sign.
 2. Select the service, then tap**Connect**  
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Starting a party in Ampme](https://www.lifewire.com/thmb/0yjBf9mf5GLyg5M0cCg79ixVLa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/startingAmpmeparty-8ebf33c5680d473ca458ff33fe904513.jpg)
 3. Log in to your account.
 4. Choose or create a playlist.  
@@ -44,10 +59,17 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 * **Bose Connect:** This app works with Bose speakers and headphones, and a Party Mode feature streams audio to two headphones or two speakers at once.[Download Bose Connect for iOS](https://apps.apple.com/app/bose-connect/id1046510029) or[get the Android Bose Connect app](https://play.google.com/store/apps/details?id=com.bose.monet) ; the app pages list compatible devices.
 * **Ultimate Ears** : The[Ultimate Ears Boom app](https://www.ultimateears.com/features/apps.html) has a feature called PartyUp that connects and streams music to over 150 speakers—excluding the Wonderboom, Blast, and Megablast models.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Use Samsung's Dual Audio Feature
 
  If you have a Samsung Galaxy S8, S+, or newer model, take advantage of the company's Bluetooth Dual Audio, which works with most Bluetooth speakers and headphones; Bluetooth 5 isn't required.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Samsung Dual Audio menu option in Android Oreo](https://www.lifewire.com/thmb/d75r_x1ppHs_RizFNh3iAdh9UaM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SamsungDualAudio-5babcd3746e0fb002586ac64.jpg)
 
 Samsung
@@ -56,10 +78,16 @@ Samsung
 
 1. Go to**Settings** \>**Connections** \>**Bluetooth** .  
  These steps apply to Samsung devices running Android 8 and higher. The settings options layout may look a little different depending on your version.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings, Connection and Bluetooth on Samsung S8](https://www.lifewire.com/thmb/bhxvKLBxILvwo1OeRPxKI0ByVmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-connect-multiple-bluetooth-speakers-to-one-device-90b94758e2644abd995c5854ac80db73-727127bd1d1b4fbf8a7523f16277fbce.jpg)
 2. Tap**Advanced** .  
  In earlier Android versions, tap the**three-dot menu** in the upper-right corner.
 3. Turn on the**Dual Audio** toggle switch.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Advanced, Dual audio toggle in Samsung Settings > Connections](https://www.lifewire.com/thmb/no44YZZRssjASaEHvzu-K4dnfzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-connect-multiple-bluetooth-speakers-to-one-device-90b94758e2644abd995c5854ac80db73-f369686037ae47bbadee2285129af330.jpg)
 4. To use Dual Audio, pair the phone with two speakers, two headphones, or one of each, and audio will stream to both.  
  If you add a third speaker, the first paired device will be booted off.

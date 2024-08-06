@@ -1,7 +1,7 @@
 ---
 title: What Do Different LED Colors on My PlayStation 4 Controller Indicate?
-date: 2024-08-05 15:46:36
-updated: 2024-08-06 11:39:40
+date: 2024-08-05T02:35:18.132Z
+updated: 2024-08-06T02:35:18.132Z
 categories:
   - BestProducts
 description: This Article Describes What Do Different LED Colors on My PlayStation 4 Controller Indicate?
@@ -17,8 +17,23 @@ Now is an excellent time to upgrade to a new Apple Watch to track your summer wo
 
  Pricing and availability are accurate at the time of publication but subject to change. Some of these deals vary based on your color and band selections. Be sure to double-check prices and snap up deals before they're gone.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Apple Watch Series 9 41mm GPS
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple Watch Series 9 41mm GPS.](https://www.lifewire.com/thmb/149rk6141Fwxu2K0zPzUW75uhiA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch941mm_Amazon-c9119924b74441d799d461cb47110b97.jpg)
 
 Amazon
@@ -29,8 +44,14 @@ Amazon
 
  With built-in heart monitoring, ECG readings, and fitness tracking, the Apple Watch Series 9 is also a comprehensive health tracker.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Apple Watch SE 40mm GPS (2nd generation)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apple Watch SE 40mm GPS (2nd generation).](https://www.lifewire.com/thmb/YV3VdwrrZdcbEAiavg3f5u6XiZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSE2ndgen_Amazon-fac13209ca0a408e8973c1d8a39eab7c.jpg)
 
 Amazon
@@ -41,8 +62,14 @@ Amazon
 
  This smartwatch is also a great option for eco-conscious shoppers as it is carbon neutral when purchased with the sport loop band.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple Watch SE 44mm GPS (2nd generation)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Apple Watch SE 44mm GPS (2nd generation).](https://www.lifewire.com/thmb/XqWcB_pYot6NqQT9bQzA3Wqz21I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSE44mm_Amazon-84b04c826608441da84bcda052f69ce4.jpg)
 
 Amazon

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Getting the Most Out of Your Oculus Quest Microphone
-date: 2024-08-04 16:37:24
-updated: 2024-08-05 10:51:28
+date: 2024-08-05T02:35:14.710Z
+updated: 2024-08-06T02:35:14.710Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Getting the Most Out of Your Oculus Quest Microphone
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/Z0EdRQm57_2Y0IHxfwY6KUQCfYc=/400x300/fi
 ---
 
 ## The Ultimate Guide to Getting the Most Out of Your Oculus Quest Microphone
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * The microphone should pick up your voice and transmit it when you’re in voice chat, as long as you haven't muted it.
@@ -26,6 +29,9 @@ thumbnail: https://www.lifewire.com/thmb/Z0EdRQm57_2Y0IHxfwY6KUQCfYc=/400x300/fi
 
 [How to Use VRChat on Meta (Oculus) Quest and Quest 2](https://www.lifewire.com/use-vrchat-on-oculus-quest-quest-2-5116551)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What to Do When the Quest Microphone Doesn’t Work at All
 
  If you’re having trouble with your Meta (Oculus) Quest microphone, and it doesn’t work in-game or in party chat, then you can typically solve the problem with a headset reboot. Follow this procedure:  
@@ -34,6 +40,9 @@ thumbnail: https://www.lifewire.com/thmb/Z0EdRQm57_2Y0IHxfwY6KUQCfYc=/400x300/fi
 2. Select**Restart** .
 3. Wait for your headset to reboot, and check to see if the microphone works.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Mute and Unmute the System-Wide Meta (Oculus) Quest Microphone
 
  Quest headsets include a mute function, which lets you switch off your microphone. This feature is helpful if you aren’t playing with friends, and you don’t want anybody to hear you when playing multiplayer games or need to mute yourself for a while.
@@ -57,21 +66,39 @@ thumbnail: https://www.lifewire.com/thmb/Z0EdRQm57_2Y0IHxfwY6KUQCfYc=/400x300/fi
 1. Open the universal menu and select**Quick Actions** if it isn't already active.  
 ![The Oculus Quest settings menu with Quick Actions highlighted](https://www.lifewire.com/thmb/2ourpgH_lx0Rz1XBmewAFdCRWqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/QuickActionsannotated-82b15b5cf57a4a06af037eb1f8abbd14.jpg)
 2. Select the**microphone icon** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Quick Actions with the microphone highlighted.](https://www.lifewire.com/thmb/WpKz7yx_8-PpsN0NkQTTEQp-Km0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microphoneiconannotated-b2c7614c12b7434d99d818b7803db9e4.jpg)
 3. When the microphone icon is blue, nobody will be able to hear you.  
 ![Oculus Quest Quick Actions with the microphone muted and the blue icon highlighted](https://www.lifewire.com/thmb/NvTICWj6gwDK5Vc3haRQANbUngs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Bluemicrophoneannotated-4bcf31d64400421091b1382a34e539b1.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## How to Use the Meta (Oculus) Quest Mic in Games  
 
  Some[Quest games](https://www.lifewire.com/best-games-for-oculus-quest-2-5114277) use the system-wide party chat feature, while others have their own built-in voice chat functionality. In some multiplayer games, you get paired with people. In others, you can walk up to people in the virtual environment and start talking. If they can’t hear you, make sure that you didn't mute your Quest, as outlined above, and then check to see that there’s an in-game microphone mute function.  
  For example, here’s how to mute and unmute yourself in VR Chat:
 4. Open the**Shortcut menu** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The VRChat shortcut menu.](https://www.lifewire.com/thmb/GV24VYl346eVe86Er8XKJj81dak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Shortcutmenu-02115860402d47a1b969a652e1a9dea5.jpg)
 5. Select the**microphone icon** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Muting in VRChat on Quest.](https://www.lifewire.com/thmb/_opce0QtBo5AKxaGIeyZb3FYGvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/selectmicrophoneiconannotated-8a8ce4ea2d174cdfab86540b54a19e49.jpg)
 6. If you can see a**red microphone** in the bottom corner of your view, that means nobody will be able to hear you.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![VRChat on Quest with the mute icon showing.](https://www.lifewire.com/thmb/0D4N_PbdJ3ollgBt8-Jk_7B6u1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/redmictophoneannotated-36f0f56465bd43df980c4998f985c05b.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Leave a Quest Party  
 
  Parties are where you can talk with your friends, but nobody will be able to hear you if you’re stuck at a party by yourself. If you accidentally created a party, or you’re the last person left, and you want to be able to communicate with other people in games, here’s how to leave your party:
@@ -90,6 +117,9 @@ thumbnail: https://www.lifewire.com/thmb/Z0EdRQm57_2Y0IHxfwY6KUQCfYc=/400x300/fi
 3. Select**Open** **Sound Settings** .  
 ![Open Sound Settings highlighted in the system tray sound menu.](https://www.lifewire.com/thmb/offdD5N3hEytKOPms2OXX3-Y_R4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Opensoundsettingsannotated-dccc253d7aad4cb393818c5ebb2d50e4.jpg)
 4. In the**Input** section, click the**Choose your input device** drop-down menu.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Choose your input device highlighted in Windows sound settings.](https://www.lifewire.com/thmb/ZHj-R9vOC4-iBuIjrejmJZyuvSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chooseyourinputdeviceannotated-e9176d2a25204d80842a1a8b4fba64d0.jpg)
 5. Select your headset.  
 ![Headset Microphone (Oculus Virtual Audio Device) highlighted in Windows sound settings.](https://www.lifewire.com/thmb/hXzB0p617S3zMMoXm0zZIL_tNEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/selectOculesannotatedjpg-2694cb8a32a64399a0a0c82728c819ca.jpg)  

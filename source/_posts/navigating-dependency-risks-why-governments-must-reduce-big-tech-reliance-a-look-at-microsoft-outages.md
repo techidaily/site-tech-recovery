@@ -1,7 +1,7 @@
 ---
 title: "Navigating Dependency Risks: Why Governments Must Reduce Big Tech Reliance - A Look at Microsoft Outages"
-date: 2024-08-03 14:16:14
-updated: 2024-08-05 11:58:16
+date: 2024-08-05T02:35:04.780Z
+updated: 2024-08-06T02:35:04.780Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating Dependency Risks: Why Governments Must Reduce Big Tech Reliance - A Look at Microsoft Outages"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/14598feaeb4d0e61d08a761998cd6976c067dba5c
 * This kind of outage is going to keep happening.
 * Governments should use—and invest in—open-source software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Windows 11 system crash due to security update from CrowdStrike affected bus stops](https://www.lifewire.com/thmb/-uozjbz5IW2WfZVs2dmBdg4in9o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/shekai-vKla95GgAwg-unsplash-1d46c69f3d5f462faee87878fc1e0a57.jpg)
 
 Oopsy daisy.
@@ -26,12 +29,19 @@ Shekai / Unsplash
 
  "It is significantly easier to manage, monitor, and operate an organization that uses a standardized set of tools," cybersecurity expert and white-hat hacker[Andrew Plato](https://zenaciti.com/founders-user-manual/) told Lifewire via email. "Standardization is a key component in not only efficiency but also in security. Uniform, consistent environments are easier to secure since it becomes easier to identify things that are out of place."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Monoculture
 
  Security is boring, and not just for you and me. A large company is no more inclined to spend time and money on security than anyone else, which is why we keep hearing about[massive privacy breaches at companies](https://www.nytimes.com/2024/05/31/business/ticketmaster-hack-data-breach.html) whose business is to look after user data. Security is often just a checkbox on some compliance form, and so we end up with these companies buying the most obvious off-the-shelf solution so that they can check this box.
 
  The result of these two factors—consolidation and compliance—is that many businesses run on Microsoft, and many of those use security products like Crowdstrike. Standardization makes things easier.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Frown face from blue screen of death](https://www.lifewire.com/thmb/Lqv4aGyuYC6HNd5WDK1DTTPYgvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/joshua-hoehne-3n2uI0quNsA-unsplash-0e8d510435ae4397821e1d01bac2c441.jpg)
 
  This is how I feel every time I have to use Windows.
@@ -48,10 +58,16 @@ Shekai / Unsplash
 
  Now, imagine a similar outage, only it shuts down the water plant, puts hospitals offline, or some other nightmare scenario.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Open Source
 
  For these exact reasons, governments should not rely on proprietary software that is outside of their control. Instead, they should look to another model: open-source, aka "free" software. Open source means that the source code, the part that humans write before a computer crunches it into executable software, is open for anyone to read, use, and modify.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Neon sign that reads 'Open.'](https://www.lifewire.com/thmb/XbRPJ1gFGnBq6454pNxdBi-InMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/viktor-forgacs-LNwIJHUtED4-unsplash-32bb3afaa57e4665ba788b48e805e2a8.jpg)
 
 Open.

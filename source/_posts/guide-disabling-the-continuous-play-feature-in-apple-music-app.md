@@ -1,7 +1,7 @@
 ---
 title: "Guide: Disabling the Continuous Play Feature in Apple Music App"
-date: 2024-08-04 20:25:21
-updated: 2024-08-06 12:12:56
+date: 2024-08-05T02:34:07.614Z
+updated: 2024-08-06T02:34:07.614Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Disabling the Continuous Play Feature in Apple Music App"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 ---
 
 ## Apple Music Continuous Playback? Learn How to Pause It Here
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * To disable autoplay in Apple Music on iPhone, open the current song and tap the**Autoplay** icon until it’s deselected.
@@ -20,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 [How to Stop Spotify From Opening on Startup on a Mac](https://www.lifewire.com/stop-spotify-from-opening-on-startup-on-a-mac-5209503)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Stop Apple Music From Automatically Playing on iPhone
 
  By default, the[iOS Music app](https://www.lifewire.com/apple-music-on-ios-4684678) will continuously play songs from the Apple Music library until told otherwise. It can be frustrating when you want to listen to a single tune or album and then go about your day.
@@ -33,13 +39,22 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 3. Tap the**Up Next** icon in the lower-right corner of the screen.  
  It’s the one that looks like three dots and lines stacked on top of each other.
 4. If Autoplay is activated, you should see an Autoplay playlist in the lower half of the screen and a highlighted Autoplay icon to the right of the song playing. Tap the**Autoplay** icon to disable it.  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/5RZwYhTcpXjS0K1VBHG9SGvcj9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW10-d805952bf4c34b1bbaef6067467b8299.jpg)  
  The**Autoplay** icon is the one that looks like an infinity symbol.
 5. If done correctly, the Autoplay playlist should immediately disappear, and Apple Music will now stop automatically playing.
 6. You can now return to the app's front screen by tapping the**Up Next** icon once again and then swiping down to minimize the player.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/YoFjmsf47ULgcOPG60luN9ht2os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW11-526478ba77314060b7b3b20047261680.jpg)  
  To enable Autoplay in Apple Music, repeat these steps and make sure that the icon is highlighted and the Autoplay playlist is visible.  
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips to Stop Apple Music From Playing Automatically  
 
  Sometimes Apple Music can seem to start up automatically when connecting to a car system, a speaker, or a pair of headphones or earphones. While it’s unlikely that the cause is an official iPhone or Apple Music feature, there are still several things you may want to try to prevent this from happening.  
@@ -49,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 * **Disable Bluetooth on your iPhone** . If Apple Music keeps playing automatically every time you get into your car, the easiest way to stop it is to[turn off your iPhone or iPad’s Bluetooth](https://www.lifewire.com/how-to-turn-off-bluetooth-on-phones-4171879) to prevent a connection from being made. You may also want to turn off your[car's Bluetooth](https://www.lifewire.com/bluetooth-car-stereo-basics-534558) if you don't use it for anything else.  
 * **Is it Apple Music or Spotify?** Many smart cars and speakers have built-in[Spotify](https://www.lifewire.com/what-is-spotify-4685829) functionality. Spotify could be acting up instead of Apple Music. If your device has a display, check to see which app is playing.  
 * **Disable Handoff** . The[iPhone’s Handoff feature](https://www.lifewire.com/everything-you-need-to-know-about-handoff-4079966) continues media playback on devices once they’re detected automatically. You can customize and even disable Handoff by opening**Settings** and going to**General** \>**AirPlay & Handoff** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![iPhone Settings showing path to AirPlay & Handoff](https://www.lifewire.com/thmb/-G0RK2zIvlOyL5-54T1esisg2Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-stop-apple-music-from-automatically-playing-5119158-a00b00cf58384f85a4071b2272798f2c.jpg)  
  FAQ  
 * How do I stop an Apple Music subscription?  

@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Secrets of Official Recognition on Instagram
-date: 2024-08-03 20:35:58
-updated: 2024-08-06 12:11:14
+date: 2024-08-05T02:34:42.221Z
+updated: 2024-08-06T02:34:42.221Z
 categories:
   - BestProducts
 description: This Article Describes Unlocking the Secrets of Official Recognition on Instagram
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/o2dxUYSOon4DiAHREgUI4hC4OA0=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Go to**Settings** \>**Account** \>**Request Verification** \> input the required information > upload an image of your photo ID >**Send** .
@@ -20,6 +23,9 @@ Close
 
  This article explains how to apply for a verified badge on Instagram as well as tips for getting approved.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Apply for a Verified Badge on Instagram 
 
  If you've determined your Instagram account meets all of the eligibility requirements for a verified badge, you can submit an application.
@@ -30,14 +36,23 @@ Close
 2. Tap the**menu** icon in the top right corner of the profile tab.
 3. Select**Settings** .
 4. Select**Account** .  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Steps to take to get verified inside the Instagram app.](https://www.lifewire.com/thmb/GKIixjhBoi51E5GIMz72rs4TzLo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-GetVerifiedonInstagram-annotated-da51dd82a8d7458a90e5a6e368db41e6.jpg)
 5. Select**Request Verification** .
 6. Enter your full name in the**Full Name field** , describe who you are in the**Known As field** and select a category your account falls into from the**Category dropdown list** .
 7. Without closing the app, exit Instagram and use your device to take a photo of a piece of government-issued photo ID that shows your name, birthday or official business documents. Appropriate forms include a driver's license, passport, national identification card, tax return statements, recent utility bill or article of incorporation.  
  Return to Instagram and tap**Choose File** to select the photo of your ID from your device.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![The steps to take to get verified in the Instagram app.](https://www.lifewire.com/thmb/2z_ehvhxsI1scTSGvlVvlnca-V8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-GetVerifiedonInstagram-annotated-791cce167ab74f129aaedc74df43c238.jpg)
 8. Tap**Send** to submit your application for review.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ##  Instagram Verification Eligibility Requirements 
 
  If you're a high-profile individual or you manage an Instagram account on behalf of a public figure, celebrity, business, organization or brand, you can apply for Instagram verification. But before you do, you need to make sure you meet the eligibility requirements, which include:
@@ -72,6 +87,9 @@ Close
 * **Higher ranking in search.** When users search for a well-known individual, business or entity, the best matching verified result will appear at the very top of search results. Any and all impersonated (unverified) accounts will appear below it.
 * **Higher follower and engagement growth.** Instagram users love to follow accounts that are official, authentic and exclusive—which is exactly what that little blue tick represents. This means more followers and engagement will lead to greater organic discoverability of your content on the[ Explore page](https://www.lifewire.com/how-to-get-on-the-instagram-explore-page-4795878) as well as your account in[ Suggestions for You](https://www.lifewire.com/delete-suggestions-for-you-on-instagram-4580440) page.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Tips for Getting Approved for an Instagram Verified Badge 
 
  Instagram is most likely to approve applications for verified badges to accounts representing people, businesses, brands or entities that are at a high risk of being impersonated. Verified badges help users distinguish from the authentic accounts and fake or fan-based ones. This explains why a lot of celebrities are verified, however being famous isn't exactly a requirement.

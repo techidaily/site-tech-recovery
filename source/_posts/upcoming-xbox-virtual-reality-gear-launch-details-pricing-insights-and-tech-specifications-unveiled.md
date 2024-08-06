@@ -1,7 +1,7 @@
 ---
 title: Upcoming Xbox Virtual Reality Gear - Launch Details, Pricing Insights & Tech Specifications Unveiled
-date: 2024-08-03 17:11:27
-updated: 2024-08-05 12:25:24
+date: 2024-08-05T02:35:05.494Z
+updated: 2024-08-06T02:35:05.494Z
 categories:
   - BestProducts
 description: This Article Describes Upcoming Xbox Virtual Reality Gear - Launch Details, Pricing Insights & Tech Specifications Unveiled
@@ -32,6 +32,9 @@ thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/fi
 
  We might know more availability specifics if and when the Meta Quest Gaming Showcase happens (no word yet about dates). Last year’s event was announced in May and held June 1.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  An early October 2024 Xbox VR Headset release date is a fair bet based on past Meta Quest releases.
@@ -40,16 +43,25 @@ thumbnail: https://www.lifewire.com/thmb/N5JaDVaX6Ht6yhfag2SfjJUOUqI=/400x300/fi
 
  Pricing information isn’t yet circulating, but we’ll make sure it lands here as soon as there’s more chatter or official word.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  No pre-order details for the Xbox VR Headset are available at this point, though we know it’s billed as a limited-edition model. As soon as we learn more, we’ll update this story with details.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Xbox VR Headset Features 
 
  Much like everything else related to this forthcoming Xbox VR Headset, we’re still waiting on details about which features this device will offer. 
 
  Here are a few clues about the look and functionality based on Meta’s Horizon OS announcement.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Built with Meta Horizon OS label.](https://www.lifewire.com/thmb/8RsIhPXACIuKmLBSxjTJJGIZO_s=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/meta-horizon-os-announcement-1fea7d89b3e04280872bbe45b2a1afa6.png) 
 
 Meta
@@ -58,6 +70,9 @@ Meta
 * **Access to more content** : Another way Meta Horizon OS is expanding to third parties is by opening its Store to developers with software that meets basic requirements. The ultimate goal is that users will have access to and can play games on any headset built on Horizon OS.
 * **Game Pass and Xbox controller** : In an Instagram stream announcing Meta Horizon OS, Mark Zuckerberg also alluded to the inclusion of[ Game Pass](https://www.lifewire.com/xbox-game-pass-4178809) and an Xbox controller shipped with Xbox Horizon OS headsets.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Xbox VR Headset Specs and Hardware 
 
  There’s some speculation that the[ VR headset for Xbox will take shape mostly as a version of Meta Quest 3](https://www.theverge.com/2024/4/22/24137334/xbox-vr-headset-microsoft-meta-quest-limited-edition) . If that’s the case, we might see the following:
@@ -68,6 +83,9 @@ Meta
 * 3D spatial audio
 * [ Mixed reality](https://www.meta.com/blog/quest/mixed-reality-definition-passthrough-scene-understanding-spatial-anchors/) with RGB cameras.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%273000%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) ![Patent sketches for a Microsoft mixed-reality headset](https://www.lifewire.com/thmb/5-feBQK2PypVrm-2Vb0Dnc5tXUU=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Patent-Sketches-Microsoft-Headset-1fce31ef622f4dda9d9b741cf8446fa3.jpg) 
 
  PHOTO:

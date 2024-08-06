@@ -1,7 +1,7 @@
 ---
 title: Expert Techniques for Resetting Your Computer’s Basic Input Settings
-date: 2024-08-03 17:58:54
-updated: 2024-08-06 12:34:51
+date: 2024-08-05T02:34:55.870Z
+updated: 2024-08-06T02:34:55.870Z
 categories:
   - BestProducts
 description: This Article Describes Expert Techniques for Resetting Your Computer’s Basic Input Settings
@@ -12,12 +12,18 @@ thumbnail: https://www.lifewire.com/thmb/sDEj0vlACkV7Q2sde-7yZLLGpzg=/400x300/fi
 ## Unexpected Black Screen Blues? Here's How To Get Your Computer Showing Again
  The most common way that a computer "won't turn on" is when the PC actually does power on but doesn't display anything on the monitor. You see lights on the computer case, probably hear fans running from inside, and may even hear sounds, but nothing at all shows up on your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why the PC Turns on With No Display
 
  When a computer powers on but shows nothing on the screen, the most likely issue is the monitor. It's either off, disconnected, or broken. However, you should also consider that a peripheral device connected to the PC, or the computer itself, could be to blame. The steps below will help identify the cause.  
 
  If your computer is showing information on the monitor but is still not booting fully, see[How to Fix a Computer That Won't Turn On](https://www.lifewire.com/how-to-fix-a-computer-that-wont-turn-on-2624450) for a better troubleshooting guide. We also have unique solutions for[when a computer turns off right after turning on](https://www.lifewire.com/how-to-fix-a-computer-that-turns-on-and-then-off-2624444) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Fix a Computer That Turns on but Displays Nothing
 
  Try these common fixes in the order we present them:
@@ -35,6 +41,9 @@ thumbnail: https://www.lifewire.com/thmb/sDEj0vlACkV7Q2sde-7yZLLGpzg=/400x300/fi
 5. Verify that the[power supply voltage switch](https://www.lifewire.com/power-supply-voltage-switch-2625973) is set correctly. If the input voltage for the[power supply](https://www.lifewire.com/power-supply-unit-2618158) isn't correct, then your computer might not turn on completely.  
  There's a good possibility that your PC wouldn't power on at all if this switch is wrong, but an incorrect power supply voltage might also prevent your computer from starting properly in this way, too.
 6. [Reseat](https://www.lifewire.com/what-does-reseat-mean-2625987) everything possible inside your PC. Reseating will reestablish the various connections inside your computer and is very often a "magic" fix to problems like this one.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![PC motherboard](https://www.lifewire.com/thmb/ZZzfc8Lt1xAaaZzhSPLA2gT6XMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/technology-1396677_1280-5c4263c2c9e77c0001be18e4.jpg)  
  skeeze/Pixabay  
  Verify that all the cables are connected correctly. For example, if the onboard video card has been disabled, plugging a VGA cable into it will result in nothing on the monitor even if the computer is powered on. In this case, you'd want to plug the VGA cable into the correct video card.  

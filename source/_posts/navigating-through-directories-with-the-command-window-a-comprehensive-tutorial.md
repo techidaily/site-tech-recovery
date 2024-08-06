@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Directories with the Command Window - A Comprehensive Tutorial
-date: 2024-08-04 18:43:22
-updated: 2024-08-05 10:54:35
+date: 2024-08-05T02:34:58.349Z
+updated: 2024-08-06T02:34:58.349Z
 categories:
   - BestProducts
 description: This Article Describes Navigating Through Directories with the Command Window - A Comprehensive Tutorial
@@ -18,10 +18,16 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 
  This article teaches you how to open Command Prompt in a way that lets you start working from a specific folder immediately. Here's how to start CMD from a folder in Windows 11 (it's very similar in older versions).
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## How to Open CMD in a Folder
 
  It's easy to[start Command Prompt the normal way](https://www.lifewire.com/how-to-open-command-prompt-2618089) , but if you know which folder you want to run commands in, you'll save yourself a step or two if you open Command Prompt in the folder from the start. Below are two methods.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Change the Folder Path
 
  Follow these steps for the fastest way to open Command Prompt in a folder. All you have to do is type**cmd** in the right place.
@@ -29,10 +35,19 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 1. [Open File Explorer](https://www.lifewire.com/open-file-explorer-in-windows-11-5192605) to the folder you plan to work in. For example, if it's your Downloads folder, you'd navigate here:  
  `C:\Users\[your username]\Downloads`
 2. Erase the folder path at the top of the window. Pressing**Alt** +**d** is a quick way to highlight the whole path.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![The Downloads folder path highlighted in File Explorer](https://www.lifewire.com/thmb/CaoRnLHzWlrl-JWvqNtwOhxneQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/downloads-folder-path-eeb5675ec0fe49c28bb2a08a0e9e4408.png)
 3. Replace the path with**cmd** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![CMD written in the folder path in File Explorer](https://www.lifewire.com/thmb/rr8ptOhLYrnBgD6w_Hjye9YQuYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-folder-path-file-explorer-300f168551ca419ca508d6d57c6b4eb4.png)
 4. Press**Enter** . This will open Command Prompt directly to that folder.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Command Prompt set to a specific folder](https://www.lifewire.com/thmb/ImWlJT46vdUQ80eKbgJrFAaBcFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/command-prompt-open-to-folder-33b0154a3b924977be06347bb84ef696.png)  
 
 ### Use a Keyboard Shortcut  
@@ -41,6 +56,9 @@ thumbnail: https://www.lifewire.com/thmb/TKmRm1RAMNEYxSxN5NOc2LuQ8YE=/400x300/fi
 5. Go to the folder you want to access from Command Prompt.
 6. While holding the**Shift** key,**right-click** once in an empty area of the folder (don't select any files or subfolders).
 7. Select**Open in Terminal** if you're on Windows 11\. Older versions of Windows have a similar option called**Open PowerShell window here** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![An option in Windows 11 to open Command Prompt or Terminal in a folder](https://www.lifewire.com/thmb/0Hz-YQb0QaLhPipPcv4V41Pjb28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/open-in-cmd-terminal-windows-11-ad01575a49f54f5f9eee7a00c5bdcdad.png)  
 [Terminal](https://www.lifewire.com/windows-terminal-4779951) is the command line tool used in Windows 11\. Follow that link to learn how to access Command Prompt and other tools from Terminal.  
 

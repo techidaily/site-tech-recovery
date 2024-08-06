@@ -1,7 +1,7 @@
 ---
 title: Insider Info on the Upcoming Google Pixel Fold 2 - Anticipated Cost & Launch Timeline
-date: 2024-08-03 11:22:22
-updated: 2024-08-05 12:33:55
+date: 2024-08-05T02:34:55.197Z
+updated: 2024-08-06T02:34:55.197Z
 categories:
   - BestProducts
 description: This Article Describes Insider Info on the Upcoming Google Pixel Fold 2 - Anticipated Cost & Launch Timeline
@@ -29,6 +29,9 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  One piece of news that indicates a 2024 release for the Pixel Fold 2 comes from Display Supply Chain Consultants CEO Ross Young, who says[ screen production started in April](https://twitter.com/DSCCRoss/status/1767687195090161769) . Young also gives us a glimpse at this phone's screen sizes, which we'll cover below.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  The Pixel Fold 2 release date will coincide with the[ Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) launch set for August.
@@ -41,6 +44,9 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  Pre-orders for the first Pixel Fold started the day it was announced. If this is repeated this year, you might be able to pre-order the Pixel Fold 2 on May 14\. We'll drop the link here when it's available.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ##  Google Pixel Fold 2 Specs and Features 
 
  Google won't announce this phone for a bit longer. So, while nothing is technically official yet, here's what we know about the Pixel Fold 2 based on assumptions and reliable leakers:
@@ -56,12 +62,18 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  We've seen conflicting information about the size of these screens. A different source says the cover screen is 6.4 inches and the inner screen measures 7.9 inches. Either way, the displays will likely be bigger this year.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Bigger Battery 
 
  Given the larger screens, it’s reasonable to assume that the battery size will also increase.
 
  While there haven’t been any specific rumors about a battery upgrade for the Pixel Fold 2, consider that the original Pixel Fold boasts a 4,821mAh battery, which already outperforms the batteries in other foldable devices, such as Samsung’s[ Galaxy Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) .
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Google Tensor G4 
 
  A bigger screen and battery don't always accompany yearly phone upgrades like this one, but a newer, more powerful processor_is_ expected. And that's what we're hearing about the 2024 Pixel Fold.
@@ -74,6 +86,9 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  Another interesting changeup we'll see this year is a new camera layout. Compared to the first Pixel Fold's horizontal camera setup, the next Pixel Fold will have a new, boxy camera bar.[ We first heard about this back in February](https://x.com/OnLeaks/status/1760392252751266272) , and now it's confirmed via photos revealed by the National Communications Commission, a Taiwanese regulatory agency.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![Photos of the Pixel Fold 2](https://www.lifewire.com/thmb/zNeBoMC-RN8vTsrPwWu1zdc3rcs=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pixel-9-pro-fold-ca348ad4a08b473bac4eacb8c3c85dd9.png) 
 
 ### Smaller Bezels 
@@ -85,6 +100,10 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 * According to the source of these renders, the top right of the inner screen houses an under-display camera with a new sensor that isn't included in the current Pixel Fold.
 * This Pixel Fold will likely run[ Android 15](https://www.lifewire.com/android-15-7547471) and should get the same seven years of software updates as the Pixel 8.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  The Latest News About Google Pixel Fold 2 
 
  You can [ read more smartphone news from Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Here are some stories about Google's devices specifically:

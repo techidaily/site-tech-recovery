@@ -1,7 +1,7 @@
 ---
 title: Ace Your Video Streams with YouTube Premium's Discounted Rates for College and University Scholars
-date: 2024-08-02 15:52:51
-updated: 2024-08-05 10:31:40
+date: 2024-08-05T02:34:46.190Z
+updated: 2024-08-06T02:34:46.190Z
 categories:
   - BestProducts
 description: This Article Describes Ace Your Video Streams with YouTube Premium's Discounted Rates for College and University Scholars
@@ -17,8 +17,14 @@ thumbnail: https://www.lifewire.com/thmb/GzgHGeyAC_cdWoNKGFb0rR4dC1Q=/400x300/fi
  YouTube uses a service called SheerID to confirm eligibility. You can check if your school is included by going to the student membership landing page for[YouTube Premium](https://www.lifewire.com/is-youtube-premium-worth-it-8584585 ) or[YouTube Music Premium](https://www.lifewire.com/what-is-youtube-music-4799054 ) .
 
 1. On the landing page, click**TRY IT FREE** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount](https://www.lifewire.com/thmb/aPzRGgGmK-m-Aq3jVHeUISd_8aY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent1-4dd5ae1181f143c794fe3fe1d615e74f.jpg)
 2. A message will pop-up warning that you'll be redirected to SheerID for verification. Click**CONTINUE** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount](https://www.lifewire.com/thmb/krc_P8NRwLzkc5h633qem4DYpjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent2-ac9d06f65a8a46d8958e9682d297a560.jpg)
 3. Fill in your country, university (options will populate as you type), first and last name, date of birth, and email address. Check the box to agree to the verification process.  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/RbANARHcGpEqx7ykFJQlw7ekb88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent3-a3e301e3cb8145d0af9590f894384169.jpg)
@@ -33,17 +39,29 @@ thumbnail: https://www.lifewire.com/thmb/GzgHGeyAC_cdWoNKGFb0rR4dC1Q=/400x300/fi
 9. Click**LEARN MORE** .  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/1tWG3IuFBa1j6bGZYup9DK1N9a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent7-38cbeb35f7d9480d81a44d3d8ddc4a18.jpg)
 10. Choose a payment method or add a new one. Click**START 1-MONTH TRIAL** . After the first month, YouTube will start billing you.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/A_h1uMjvVexpll2JqR730jpwQQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent8-4fe99ffd2800473d83a5e2610d0623a0.jpg)  
  This screen is for the regular free trial. You will click 1-MONTH TRIAL.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who Is Eligible for a YouTube Premium Student Discount?
 
  Students can sign up for a YouTube Music Premium or YouTube Premium membership at a discount. Students must be enrolled full-time at an eligible higher education institution in the U.S. and 60-plus other countries to qualify. The discounted subscriptions are valid for up to four years, and students must re-verify their eligibility each year. A company called SheerID does the verification.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## What Does the YouTube Premium Student Discount Include?
 
  Students get a 1-month free trial and pay about half of the monthly subscription amount. The membership includes the same benefits as a non-discounted membership. Members get access to both YouTube and YouTube Music Premium, ad-free videos and music, video and music downloads for offline viewing and listening, and the ability to play videos in the background while using other apps or when your screen is locked.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Happens When You Finish School?
 
  The YouTube Premium Student discount is only available if you attend an eligible school and is limited to four years total. Whichever comes first—graduation or four years in school—is when your discount expires.

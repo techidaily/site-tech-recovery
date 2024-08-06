@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Zoom: How to Download New Versions on Your Computer"
-date: 2024-08-04 23:20:35
-updated: 2024-08-06 10:11:18
+date: 2024-08-05T02:34:36.231Z
+updated: 2024-08-06T02:34:36.231Z
 categories:
   - BestProducts
 description: "This Article Describes Keeping Up with Zoom: How to Download New Versions on Your Computer"
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
  This article explains how to accept a shared album invitation on the iPhone. You can create shared albums yourself, but to enjoy those created by other people, you have to accept an invitation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## How to Accept a Shared Album Invitation on iPhone
 
  Ready to accept an invitation to join a shared[photo album on iPhone](https://www.lifewire.com/iphone-photo-albums-4103845) ? Follow these steps:
@@ -28,13 +32,22 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
  Depending on your notification settings, you may see a badge on the Photos app icon when there's a pending invitation.
 3. If you're not taken to it right away, tap**For You** .
 4. The shared album invitation details appear on this screen. Tap**Accept** to join the album.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![iPhone with photo album notification, badge, and accept highlighted](https://www.lifewire.com/thmb/5FOEsgyOhpxg5kgqG3RIx3-3-uM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Accept-b061220ac8b84f79b2192c518b8eb653.jpg)
 5. The shared album is added to the top of the screen. Tap the name of the album to view its photos.
 6. All of the photos in the album are displayed here. Depending on the settings of the album, you may be able to add your own photos to it by tapping the**\+ (Plus)** sign.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iPhone Shared Album with album name and "add" highlighted](https://www.lifewire.com/thmb/JdOT4mhtqybWV8lem-ocSCTWK8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sharedalbums-e918328c14cb40f381fe193804936cf1.jpg)
 
  Once you've accepted a share album invitation, you can control how you see the photos in the album. Tap**...** and the menu gives you options including**Sort** ,**Filter** (to see only photos or videos), to see where all photos were taken on a map, or to play the photos as a slideshow, among other choices.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Leave a Shared Photo Album on iPhone
 
  If you've decided you no longer want to be part of a shared album, you can leave the album by following these steps:
@@ -43,9 +56,15 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 2. Tap**For You** .
 3. Tap the album you want to leave.
 4. Tap the person icon (or**...** \>**Shared Album Details** ).  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone with Photos app, For You, and person icon highlighted](https://www.lifewire.com/thmb/cT_4U_RW7AO6FB8dxe9PvcX_pfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Foryou-32ab9b28b3c24c4fa7cf4fb5d8f8f897.jpg)
 5. Tap**Unsubscribe** .
 6. In the confirmation pop-up, tap**Unsubscribe** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![iPhone shared photo album with Unsubscribe highlighted on two screens](https://www.lifewire.com/thmb/GjQTXPTilhfLwbtE3_8BtmCqsLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unsubscribe-d3016b5886984a38bbf0675d85e4d0ba.jpg)
 
  Don't want to leave a shared album, but annoyed by notifications when new photos or other changes are made? You can turn off notifications for an album by going to the album > person icon > moving the**Notifications** slider to**off/white** .

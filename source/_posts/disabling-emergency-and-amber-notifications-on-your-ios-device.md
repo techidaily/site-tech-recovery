@@ -1,7 +1,7 @@
 ---
 title: Disabling Emergency & Amber Notifications on Your iOS Device
-date: 2024-08-05 11:55:59
-updated: 2024-08-06 10:13:37
+date: 2024-08-05T02:35:06.255Z
+updated: 2024-08-06T02:35:06.255Z
 categories:
   - BestProducts
 description: This Article Describes Disabling Emergency & Amber Notifications on Your iOS Device
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/qtj_iI9Ml91L1pdOSOyGu-aB9VA=/400x300/fi
 
  This article explains how to find and interact with older notifications on your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do I View Past Notifications on iPhone?
 
  Notifications that have recently popped up on your iPhone’s lock screen should remain visible for some time. However, eventually, they will disappear or be replaced by more recent ones. If you happen to miss any notifications, recalling them is simple.
@@ -27,22 +31,38 @@ thumbnail: https://www.lifewire.com/thmb/qtj_iI9Ml91L1pdOSOyGu-aB9VA=/400x300/fi
 1. If your iPhone’s screen is turned off, turn it on by tapping it or, depending on which iPhone you have, pressing either the**Power** or**Home** button.
 2. Swipe up from the middle of your iPhone’s Lock Screen to pull up a list of notifications. If there are no notifications, you’ll see**No Older Notifications** appear instead.
 3. Depending on the number of pending notifications, you may see all of them or be organized into groups based on the apps that generated the notifications.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Swiping up to view the Notification Center on the iPhone Lock screen](https://www.lifewire.com/thmb/2ChwjgKfHw6LD0SO3AW-Th9tN2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_view-old-notifications-on-iphone-5212339-4141b55e71b9428ebdaaa0b9896fa5fd.jpg)
 4. Tap a notification, such as a text, to open the connected app.  
  If your iPhone is locked, you must unlock it with Face ID, Touch ID, or your password to continue.
 5. Swipe left on a notification (or grouping of notifications) to pull up the**Options** and**Clear/Clear All** buttons.
 6. Tap**Options** to pull up a small menu to adjust notification settings for the app the notification originated from. If desired, you can use the menu to mute or turn off notifications for the app.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![iPhone Notification screen with Open, Options, Clear All highlighted and swipe left indicated](https://www.lifewire.com/thmb/n7FbKDAPSdoyav7UQdba-igvm4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swipeleft-959079301a7c4079b70a47f7333c8676.jpg)
 7. Tap**Clear** or**Clear All** (depending on if there's one or several notifications in one category) to delete notifications from an organized group.  
  This action will remove existing notifications from your Lock Screen until new ones appear but will not affect anything from within the app itself. It will also not affect notifications badges appearing on the app’s icon.
 8. If you want to delete all current notifications at once, tap**X** (next to Notification Center), then tap**Clear All Notifications** . As with**Clear All** , this will remove existing notifications from your iPhone’s lock screen.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Notifications with Clear, X, and Clear all Notifications highlighted](https://www.lifewire.com/thmb/dT2FzzX1qo2wc0Gk4zYO2_dqzVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Clearallnotifications-9ad9e652a6994a3fa1de4b4e0c619980.jpg)
 9. To view notifications when your phone is not on the Lock Screen, swipe down from the top-left corner of the screen. This will reveal your iPhone’s Lock Screen (though it won’t actually lock your phone).
 10. The (unlocked) Lock Screen will display any available notifications, which will be organized by app.
 11. If there are no notifications to view, the screen will display No Older Notifications instead.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Swipe down on screen indicated and No Older Notifications highlighted](https://www.lifewire.com/thmb/sEg6zvpTFl35ttLCCfbt5RA4LHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nonotifications-0fff2883c9f84963a4281cb840be5617.jpg)
 12. You can interact with any available notifications in the same way as above.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do I See Deleted Notifications?
 
  Unfortunately, you cannot view notifications once you've deleted them. If you delete, clear, or open one, it will no longer appear on your iPhone's lock screen, and there's no way to retrieve it.  

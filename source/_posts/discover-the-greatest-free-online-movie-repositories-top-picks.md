@@ -1,7 +1,7 @@
 ---
 title: "Discover the Greatest Free Online Movie Repositories: Top Picks"
-date: 2024-08-05 11:28:18
-updated: 2024-08-06 10:51:16
+date: 2024-08-05T02:34:05.548Z
+updated: 2024-08-06T02:34:05.548Z
 categories:
   - BestProducts
 description: "This Article Describes Discover the Greatest Free Online Movie Repositories: Top Picks"
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  Those are my top choices. A list of additional free DNS servers can be found in the table near the bottom of the page.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Top Free & Public DNS Servers
 
  Below are more details on these free DNS servers that you can use instead of the ones assigned to your device automatically.
@@ -52,8 +55,14 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  As you can see above,[IPv6](https://www.lifewire.com/ipv4-vs-ipv6-4780834) IP addresses use colons. If you're not sure which one to use for Google's servers or any of the others on this page, stick with IPv4.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Control D: 76.76.2.0 & 76.76.10.0
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A list of free DNS options at Control D](https://www.lifewire.com/thmb/W1PoIB20e3W5hSR-CYEJ_oBCo-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/control-d-free-dns-2f558b21cde84ae5a686dece15e913c0.png)
 
 [Control D](https://controld.com/free-dns) is unique because it has several DNS servers to pick from, each categorized by theme. The "Uncensored" resolver proxies the commonly blocked websites in most countries to bypass IP blocking of various news websites. Others can be used to stop malicious websites, block ads and trackers, or block social networks or adult content. The basic option, "Unfiltered," provides DNS query privacy and security:
@@ -84,8 +93,14 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  Quad9 doesn't filter content—only domains that are phishing or contain malware will be blocked.[There's also an unsecured IPv4 public DNS](https://www.quad9.net/service/service-addresses-and-features/#unsec) (i.e., no malware blocking) at 9.9.9.10 (2620:fe::10 for IPv6). Quad9 also supports DoH.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### OpenDNS: 208.67.222.222 & 208.67.220.220
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![OpenDNS public DNS server website](https://www.lifewire.com/thmb/5votPFdjy1TRMp-5wxWdB3e_74c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opendns-518a9ef00d6a4215964245aa4dfd6688.png)
 
  Used by tens of millions of users around the world,[OpenDNS](https://www.opendns.com/) claims 100 percent reliability and uptime (since 2006!). They offer two sets of free public DNS servers, one of which is just for parental controls with dozens of filtering options.
@@ -102,8 +117,14 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  For DNS servers that block adult content, use[OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) : 208.67.222.123 and 208.67.220.123\. Those two also[support DNS over HTTPS](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) .
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Cloudflare: 1.1.1.1 & 1.0.0.1
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Cloudflare 1.1.1.1 public DNS server website](https://www.lifewire.com/thmb/8O47Sc85B2ywZWpyfsbqiBMLIEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-and-public-dns-servers-2626062-cloudflare-1111-7977c2b8a42e408c81b0d59694bd634f.jpg)
 
 [Cloudflare](https://one.one.one.one/dns/) built 1.1.1.1 to be the "internet’s fastest DNS directory" ([here's how DNSPerf ranks them](https://www.dnsperf.com/#!dns-resolvers) ). I like them for the privacy commitment—they will never log your IP address, never sell your data, and never use your data to target ads.
@@ -134,6 +155,13 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  There are also "Family protection" servers (94.140.14.15 and 2a10:50c0::bad1:ff) that block adult content, plus everything included in the "Default" servers. Non-filtering servers are available if you're not interested in blocking anything: 94.140.14.140 and 2a10:50c0::1:ff. These servers are also available as DNS over HTTPS, TLS, and QUIC, as well as DNSCrypt. Compared to[paid AdGuard DNS plans](https://adguard-dns.io/en/license.html) , free users have zero customer support and limited monthly requests, device access, rules, and servers.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### CleanBrowsing: 185.228.168.9 & 185.228.169.9
 
 ![CleanBrowsing public DNS servers](https://www.lifewire.com/thmb/vXD5OF-pxtI8y-8lcOMqbwGDDAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cleanbrowsing-44622bf548554faa886745618c97b08a.png)
@@ -150,6 +178,9 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  The adult filter (185.228.168.10) prevents access to adult domains, and the family filter (185.228.168.168) blocks proxies, VPNs, and mixed adult content. They both also block the same domains supported by the security filter. For more features, subscribe to one of the[CleanBrowsing premium plans](https://cleanbrowsing.org/pricing/) . This service supports DoH and DoT as well.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Alternate DNS: 76.76.19.19 & 76.223.122.150
 
 ![Alternate DNS website](https://www.lifewire.com/thmb/-4LtpRDVaV8Hg2TKADqt1kg7jSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alternate-dns-b37b229caddf47a3b4808394e1d80350.png)
@@ -197,6 +228,9 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  Some of these providers have several DNS servers. Visit the link above and select a server that's geographically nearby for the optimal performance, or one that has the features you're interested in.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## What Are DNS Servers?
 
  DNS servers translate the friendly domain name you enter into a browser (like_lifewire.com_ ) into the[public IP address](https://www.lifewire.com/what-is-a-public-ip-address-2625974) that's needed for your device to actually communicate with that site.

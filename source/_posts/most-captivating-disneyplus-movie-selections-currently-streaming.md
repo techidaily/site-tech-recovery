@@ -1,12 +1,12 @@
 ---
 title: Most Captivating Disney+ Movie Selections Currently Streaming
-date: 2024-08-03 23:48:16
-updated: 2024-08-05 12:31:24
+date: 2024-08-05T02:34:33.138Z
+updated: 2024-08-06T02:34:33.138Z
 categories:
   - BestProducts
 description: This Article Describes Most Captivating Disney+ Movie Selections Currently Streaming
 excerpt: This Article Describes Most Captivating Disney+ Movie Selections Currently Streaming
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## Most Captivating Disney+ Movie Selections Currently Streaming
@@ -19,8 +19,14 @@ Close
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## [ Soul (2020): Best Modern Animated Pixar Musical](https://www.imdb.com/title/tt2948372/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![The animated cast of Disney's Soul](https://www.lifewire.com/thmb/QryCn-rCMvwAiSA--QuNoS0Baj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-disney-plus-movies-right-now-4846938-a7adb13885a848c186b3f212f3021b94.jpg) 
 
 Disney
@@ -47,8 +53,14 @@ _Soul_ is more colorful and creative than the average Pixar film, which is sayin
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Guardians of the Galaxy Vol. 3 (2023): It'll Make You Laugh, Cry, and Rock-and-Roll](https://www.imdb.com/title/tt6791350/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Chris Pratt in Guardians of the Galaxy Vol. 3](https://www.lifewire.com/thmb/3PO-If9h2wnYogbcdhTVBRbv1-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-bbdb1a1b50e94fb09c122014c62f5fdc.jpg) 
 
 Disney
@@ -131,6 +143,9 @@ of 24
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## [ Isle of Dogs (2018): Best Stop-Motion Comedy for Older Audiences](https://www.imdb.com/title/tt5104604/) 
 
 ![Isle of Dogs](https://www.lifewire.com/thmb/ojDzBYRz6JIKdqhiaAvLa81xjgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2fdf69a144ef4adb93e5bdf782058b4b.jpg) 
@@ -159,6 +174,9 @@ _Isle of Dogs_ isn't a movie for young children, but the humor is tame enough fo
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Remember the Titans (2000): Best Feel-Good Sports Movie](https://www.imdb.com/title/tt0210945/) 
 
 ![Remember the Titans promotional poster](https://www.lifewire.com/thmb/2vTHSQLJKsBjzLSrrXNKsWvis10=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011_the-16-best-disney-plus-movies-right-now-july-2020-4846938-5324d68d318c43ad93b02e1bffd82337.jpg) 
@@ -187,8 +205,14 @@ Disney
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Shang-Chi and the Legend of the Ten Rings (2021): Marvel's Best Take on the Martial Arts Genre](https://www.imdb.com/title/tt9376612/) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The cast of Shang-Chi And The Legend Of The Ten Rings](https://www.lifewire.com/thmb/GbZizwfgqHQYX9t0zYUsGxEJNWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-disney-plus-movies-right-now-november-2021-4846938-a6f4ca72ac4f4e8bacb4c3b03e5781f0.jpg) 
 
 Disney Plus
@@ -273,6 +297,9 @@ of 24
 
 ## [ Cruella (2021): Best Classic Disney Villain Origin Story](https://www.imdb.com/title/tt3228774/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Emma Stone as Cruella](https://www.lifewire.com/thmb/nAyFA51lHXTf3YZT0Wz01Y_IVaM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cruella-d678dd3c086942d28a00f3e04a648849.jpeg) 
 
 **IMDb Rating** : 7.3/10
@@ -325,6 +352,9 @@ Disney
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Encanto (2021): An Original Fairy Tale Based on Colombian Folklore](https://www.imdb.com/title/tt2953050/) 
 
 ![The animated cast of Encanto 2021](https://www.lifewire.com/thmb/OBlZJC6nVgDpUryjwCgrDUHtYsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-december-2021-cdd3183b0a054a3f8003572e01fd06df.jpeg) 
@@ -355,6 +385,9 @@ of 24
 
 ## [ The Little Mermaid (2023): A Faithful Remake of a Beloved Musical](https://www.imdb.com/title/tt5971474/) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Halle Bailey in Little Mermaid 2023](https://www.lifewire.com/thmb/jLN9L6OFbvTQBEeaiWbESNmmAQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg) 
 
 Disney
@@ -411,6 +444,9 @@ of 24
 
 ## [ Werewolf by Night (2022): Marvel Reimagines Old Hollywood Horror](https://www.imdb.com/title/tt15318872/) 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Marvel's Werewolf by Night special presentation](https://www.lifewire.com/thmb/j2q8YnD1FIHm0VFAaoWmMBMYKuI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-november-2022-4846938-c1d21c1d790345e281394c6309d56cca.jpg) 
 
 Disney Plus
@@ -437,8 +473,15 @@ _Werewolf by Night_ is an obvious tribute to old Universal monster films like_Th
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## [ Beauty and the Beast: A 30th Celebration (2022): Be Their Guest](https://www.imdb.com/title/tt21220842/) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Josh Groban and H.E.R. in Beauty and the Beast: A 30th Celebration](https://www.lifewire.com/thmb/gDlWASJrCg3XfIfeitor1pyX4Sc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-january-2023-4846938-d7dafef79d2f409b8ea7ba8ff94c8c63.jpg) 
 
 Disney
@@ -465,6 +508,9 @@ _Beauty and the Beast: A 30th Celebration_ originally aired live on ABC, but you
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Doctor Strange In The Multiverse Of Madness (2022): The Marvel Cinematic Universe Just Got Bigger](https://www.imdb.com/title/tt9419884/) 
 
 ![Benedict Cumberbatch in Dr. Strange in the Multiverse of Madness](https://www.lifewire.com/thmb/3HUL1ly-DTkpdCct9piIRVNOh80=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-july-2022-4846938-5827b165dcc54a8e942f348a43147da6.jpg) 
@@ -493,6 +539,9 @@ Disney
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Black Widow (2021): Most Long-Awaited Marvel Movie](https://www.imdb.com/title/tt3480822/) 
 
 ![A still from Marvel's Black Widow, with Scarlett Johansson and Florence Pugh](https://www.lifewire.com/thmb/w2qPSXOjc995l2IVowWRavVwxAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BlackWidowandYelena-61008e80ec1b4eb58b455c4d31882378.jpg) 
@@ -519,6 +568,18 @@ of 24
 
 ## [ West Side Story (2021): Most Ambitious Musical Adaptation](https://www.imdb.com/title/tt3581652/) 
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Ansel Elgort and Rachel Zegler in West Side Story](https://www.lifewire.com/thmb/ZFIAobDOnSAT8IhxVJhtWwT1ozY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-disney-plus-movies-right-now-4846938-00fab03675f34aaaa5f60fe89fa38b89.jpg) 
 
 Disney Plus
@@ -573,8 +634,14 @@ Disney Plus
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Flamin' Hot (2023): A Spicy Take on a True Story](https://www.imdb.com/title/tt8105234/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Jesse Garcia in Flamin' Hot](https://www.lifewire.com/thmb/Vv91kOxlvsDFmeC6SZUby7Xwmuo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-3bbe85de4c9b44e18a126b6ad66d2ddf.jpg) 
 
 Disney
@@ -601,8 +668,14 @@ Disney
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## [ Muppets Haunted Mansion (2021): Spookiest Original Disney Plus Muppet Special](https://www.imdb.com/title/tt14602326/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The cast of Muppets Haunted Mansion](https://www.lifewire.com/thmb/x8kvJdhXJDnrVgc6bTcoE6nC2ag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-november-2021-4846938-7a27d0076cce48e985d3f9a94107887c.jpg) 
 
 Disney Plus
@@ -629,6 +702,9 @@ _Muppets Haunted Mansion_ is an instant holiday classic made for audiences of al
 
 of 24
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Thor: Love and Thunder (2022): The Gods Crash Phase 4 of the MCU](https://www.imdb.com/title/tt10648342/) 
 
 ![Chris Hemsworth in Thor Love and Thunder](https://www.lifewire.com/thmb/N3nfKTTACUsrfJH3nzzUuihO_KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-october-2022-4846938-a9b59d8e222145409d30b7721688e081.jpg) 

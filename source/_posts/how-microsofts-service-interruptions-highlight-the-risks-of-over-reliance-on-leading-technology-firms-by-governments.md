@@ -1,7 +1,7 @@
 ---
 title: How Microsoft’s Service Interruptions Highlight the Risks of Over-Reliance on Leading Technology Firms by Governments
-date: 2024-08-03 10:13:28
-updated: 2024-08-05 10:50:53
+date: 2024-08-05T02:34:56.628Z
+updated: 2024-08-06T02:34:56.628Z
 categories:
   - BestProducts
 description: This Article Describes How Microsoft’s Service Interruptions Highlight the Risks of Over-Reliance on Leading Technology Firms by Governments
@@ -12,6 +12,9 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 ## Unlocking Secrets of the 2024 Amazons Prime Event – Essential Facts Revealed
  This article explains what Amazon Prime Day is, when it takes place, how long it lasts, what’s on sale, and more. For Amazon Prime members, this is the biggest and best shopping event of the year. So, make sure you’re in-the-know and ready to go.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Amazon Prime Day?
 
  Amazon created Amazon Prime Day to celebrate those who subscribe to the Amazon Prime service. They pay a yearly premium for things like free two-day shipping, streaming movies on[Prime Video](https://www.lifewire.com/amazon-prime-video-4176363) , songs in[Amazon Music](https://www.lifewire.com/amazon-prime-music-unlimited-and-amazon-prime-music-compared-4160098) , books and magazines in[Prime Reading](https://www.lifewire.com/amazon-prime-reading-4160132) , and additional features to make[membership worth the price](https://www.lifewire.com/is-amazon-prime-worth-it-8536157) .
@@ -20,6 +23,9 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 
  Yes, you must be an Amazon Prime member to participate in the deals on Prime Day. If you’re not a Prime member, you can still purchase items, but not at the discounted prices.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## A Quick Glance at Prime Day History
 
  Amazon introduced Prime Day on July 15, 2015 in honor of its 20th birthday. Since then, it has become a yearly event that takes place in July.
@@ -28,12 +34,20 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
   
  If the previous years are an indication, Amazon Prime Day begins on the second Tuesday in July. However, this isn’t a guarantee; it's just a pattern of past Prime Day events.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## How Long Does It Last?
 
  In its first two years, 2015 and 2016, Amazon Prime Day lasted just one day. Beginning in 2017, Amazon extended the deals to cover two full days, and it has remained that way since, although the name, "Amazon Prime_Day_ ," hasn’t changed.  
   
  The event usually starts at 12:00 a.m. PDT (3:00 a.m. EDT) on the first day and ends at 11:59 p.m. PDT on the second, giving you a full 48 hours of shopping time.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## When Is the Next Amazon Prime Day?
 
  In 2024, Prime Days will be held July 15 and 16.
@@ -56,6 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 
  Generally, you’ll find lower prices on tech products and electronics, apparel, toys, appliances, houseware, and much more. So, you may see discounts on products from name brands like Bissell, iRobot, and Sony.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Tip
 
  During Prime Day, check out the competition for deals running alongside Amazon like Walmart, Target, Best Buy, and Wayfair.
@@ -68,6 +85,9 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 
  Even though you have 48 hours to shop Amazon Prime Day, you might miss a terrific price on a product you want. While you can subscribe to the Amazon newsletter, there are a few additional ways to stay updated on deals and discounts.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Amazon Deals web page](https://www.lifewire.com/thmb/ERTGrTao-zDmsQskJ4PB92V-XFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Deals-Website-8649007-aa50ccf8802040c683938aac2a330c85.jpeg)
 
 * **Use the Amazon Shopping mobile app** : There’s no better way to keep abreast of Amazon’s deals than with your mobile device. You can check out the Prime Day deals in the Amazon Shopping app on both Android and iPhone. You also have the option to create Deal Alerts.

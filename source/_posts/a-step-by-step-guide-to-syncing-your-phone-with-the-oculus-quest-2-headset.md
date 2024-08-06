@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Syncing Your Phone with the Oculus Quest 2 Headset
-date: 2024-08-05 14:39:46
-updated: 2024-08-06 11:20:28
+date: 2024-08-05T02:34:59.572Z
+updated: 2024-08-06T02:34:59.572Z
 categories:
   - BestProducts
 description: This Article Describes A Step-by-Step Guide to Syncing Your Phone with the Oculus Quest 2 Headset
@@ -17,6 +17,9 @@ thumbnail: https://www.lifewire.com/thmb/7qWqm3BCuy_otdtdqrb3-2S6fHM=/400x300/fi
 
  This article describes two ways to use Android apps on a Windows 10 PC.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Install BlueStacks to Run Android Apps on a PC
 
  BlueStacks is one example of a[free Android emulator](https://www.lifewire.com/best-android-emulators-4175015) . As an emulator, this software mimics Android on your Windows 10 computer. Use this method if there are Android games and other apps you want easy access to on Windows. You don't need an Android phone to use an emulator.
@@ -26,6 +29,9 @@ thumbnail: https://www.lifewire.com/thmb/7qWqm3BCuy_otdtdqrb3-2S6fHM=/400x300/fi
 1. [Download BlueStacks](https://www.bluestacks.com/download.html) to your computer and then install it.
 2. Use the search bar at the top of the program to find an app to install.
 3. Select**Install on App Player** to get the app and start using it on your computer.  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adventure Escape Mysteries in BlueStacks on Windows](https://www.lifewire.com/thmb/thd-CsxDeNrlug6x-XD8VO8i_uU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bluestacks-android-app-623f1060def640978b9d0bb5ffe47002.png)  
 [The 12 Best Apps for 2024](https://www.lifewire.com/best-mobile-apps-4157439)  
 
@@ -34,13 +40,22 @@ thumbnail: https://www.lifewire.com/thmb/7qWqm3BCuy_otdtdqrb3-2S6fHM=/400x300/fi
  AirDroid is a free app that runs on Android, so you need an Android device to use this method. Once it's installed, you can view your phone live on your computer screen. If you enable remote control, you can even control your phone from Windows 10.
 4. [Install AirDroid](https://play.google.com/store/apps/details?id=com.sand.airdroid) on your phone.
 5. Open the app and tap**Sign in** . Log in using one of the options, such as your Google account.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Install, Open, and Sign in buttons highlighted in the AirDroid app.](https://www.lifewire.com/thmb/-xB18efOoQrY5DNsDIQvVPm8Z7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-RunAndroidAppsonWindows10-annotated-96a94d6e72974efe9758ee2bc466187c.jpg)
 6. Tap**Continue** on the permission request to access your phone's files.
 7. Tap the toggle next to**Allow access to manage all files** .
 8. Tap**Allow** on the prompt for AirDroid to run in the background.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Continue, Allow access toggle, and Allow button highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/CbexqTWDoZy3jmF_-4qqKdbIQzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B5-RunAndroidAppsonWindows10-annotated-29aacbf2e127466f85d7a7c443b512e2.jpg)
 9. Select**OK** on the Security & Remote Features screen to continue setup.
 10. Go to**Screen Mirroring** \>**Grant permission** \>**Still enable** to turn on screen mirroring functionality. This is necessary if you want to see your Android apps and screen from your computer.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Screen Mirroring, Grant permission, and Still enable highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/tsy2xem1mP28NPMcPJucG_xT-s0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B7-RunAndroidAppsonWindows10-annotated-34d27e18c6ec4ff7acdb6db8f668606c.jpg)
 11. Select**Continue** on the prompt to allow display over other apps.
 12. Tap**AirDroid** from your list of apps.
@@ -52,6 +67,9 @@ thumbnail: https://www.lifewire.com/thmb/7qWqm3BCuy_otdtdqrb3-2S6fHM=/400x300/fi
 ![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
 16. Return to AirDroid and tap**Grant permissions** \>**OK** .
 17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
 18. Tap**Done** on the screen that says remote control is enabled.
 19. Tap the**Transfer** tab at the bottom of AirDroid, followed by**AirDroid Web** .
@@ -60,10 +78,16 @@ thumbnail: https://www.lifewire.com/thmb/7qWqm3BCuy_otdtdqrb3-2S6fHM=/400x300/fi
 21. When AirDroid opens on your computer, use one of the sign in options at the bottom to log in to the same account you signed in to from your phone.  
 ![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
 22. Select your Android device from the**Choose a device** prompt.  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
 23. Select**Mirroring** from the AirDroid desktop on your computer.  
 ![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
 
  FAQ

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate How-To on Customizing Your Inbox with Gmail's Rule Creation
-date: 2024-08-02 23:56:20
-updated: 2024-08-05 11:49:27
+date: 2024-08-05T02:34:40.884Z
+updated: 2024-08-06T02:34:40.884Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate How-To on Customizing Your Inbox with Gmail's Rule Creation
@@ -18,12 +18,18 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 
  This article explains how to set up and manage email filters on the Gmail website (the app doesn't support email filtering).  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## How to Create a Gmail Rule From a Search
 
  Gmail's search tool is quite powerful, so it's a great place to start if you want to filter emails.
 
 1. Use the search bar at the top of the screen to search for the mail you want to filter.
 2. Press the**search options** button to the right of the search box.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Search results on the Gmail website](https://www.lifewire.com/thmb/oidnVze07sEZ4BeLK-DQapDOi6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-search-14d03bab233640a9ab5e6a723a12e1a4.png)
 3. Define one or more criteria for the new rule. These are your options:  
    * **From** : Find emails from one or more specific senders  
@@ -51,10 +57,16 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 
 1. Open the email and select the**three dots** from the menu above the message.
 2. Choose**Filter messages like these** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The 'Filter messages like these' option in Gmail](https://www.lifewire.com/thmb/9ePhxyfvZRvVtoCC1GQHcaLyBR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-filter-messages-5f2e5f60cc134f12b05d60ad36c078d6.png)
 3. Select the criteria to apply to the new rule.  
  Some options, like the**From** field, may be pre-populated with details from the selected message. We've seen strange characters show up here, so be sure to double-check that the information is correct for your specific filter.
 4. Select**Create filter** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A Gmail filter with the 'Has the words' section filled out](https://www.lifewire.com/thmb/dz-oQgK_twK8jnlxwPxXuWdw48I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-filter-347693d0e5634ca5840f877f05e3b454.png)
 5. Pick one or more actions the filter should take. In our example, we're having Gmail auto-delete messages that match the filter, so we've picked**Delete it** .  
 [How to Send Self-Destructing Messages in Gmail](https://www.lifewire.com/send-self-destructing-messages-gmail-4691876)  
@@ -63,6 +75,9 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 
  One of Gmail's features is the ability to[make multiple aliases](https://www.lifewire.com/create-gmail-alias-4580315) associated with your primary email address. Emails addressed to these aliases are sent to your primary Gmail account.[To filter messages from a specified alias](https://www.lifewire.com/easy-gmail-address-hacks-1616186) , create a rule with the alias as the criteria, then assign behaviors to the rule.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Manage Rules in Gmail
 
  It's easy to collect a bunch of rules over time. If you no longer want a specific filter to apply or you're[losing track of your messages](https://www.lifewire.com/how-to-recover-missing-emails-gmail-4585081) , it's easy to review and delete Gmail rules from the settings.
@@ -71,6 +86,9 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 ![The Gmail quick settings menu](https://www.lifewire.com/thmb/NGhz_2JNLPuNC3QQJnOfVu6TU3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-settings-menu-9a6efc96d2b2449aaa6c5fd6ee249b1e.png)
 2. Select the**Filters and Blocked Addresses** tab at the top of the page.
 3. To make changes to a rule, select**edit** . To remove a rule so that it no longer filters your email, select**delete** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![A list of Gmail filters with the edit and delete buttons highlighted](https://www.lifewire.com/thmb/CZr8JpkwSsgnj4a1l_EIZ66SRZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_create-rules-in-gmail-4172416-0a8e01aac696434191fa2560121bcabe.jpg)
 
  FAQ

@@ -1,7 +1,7 @@
 ---
 title: Watch Live Sports with FuboTV Streamed Through a Firestick - How?
-date: 2024-08-03 19:15:54
-updated: 2024-08-05 12:37:33
+date: 2024-08-05T02:34:35.255Z
+updated: 2024-08-06T02:34:35.255Z
 categories:
   - BestProducts
 description: This Article Describes Watch Live Sports with FuboTV Streamed Through a Firestick - How?
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/aaHyMy-hE_WvGGZJCylWeNIKNl8=/400x300/fi
 
  Instructions in this article apply to Bluetooth speakers connected to Android, Amazon Echo, or Google Home devices.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Use AmpMe to Connect Multiple Bluetooth Speakers
 
  There are a few apps that connect multiple Bluetooth devices, including AmpMe, Bose Connect, and Ultimate Ears. AmpMe is the most versatile, as it's not brand-specific, while the Bose and Ultimate Ears apps require the respective company's Bluetooth speakers.
@@ -30,9 +33,15 @@ thumbnail: https://www.lifewire.com/thmb/aaHyMy-hE_WvGGZJCylWeNIKNl8=/400x300/fi
 
 1. Tap the**+** (Plus) sign.
 2. Select the service, then tap**Connect**  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Starting a party in Ampme](https://www.lifewire.com/thmb/0yjBf9mf5GLyg5M0cCg79ixVLa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/startingAmpmeparty-8ebf33c5680d473ca458ff33fe904513.jpg)
 3. Log in to your account.
 4. Choose or create a playlist.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Connecting and logging into a Spotify account](https://www.lifewire.com/thmb/MMgPi9SRCkLINE3_u9QOVC8reiA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-connect-multiple-bluetooth-speakers-to-one-device-fdd808ec682943f7ad644642981de3e9-58050f8efd4b49d48f1036207bdc9a62.jpg)
 
  Invite people to your party who can join remotely, or invite them over.
@@ -44,6 +53,10 @@ thumbnail: https://www.lifewire.com/thmb/aaHyMy-hE_WvGGZJCylWeNIKNl8=/400x300/fi
 * **Bose Connect:** This app works with Bose speakers and headphones, and a Party Mode feature streams audio to two headphones or two speakers at once.[Download Bose Connect for iOS](https://apps.apple.com/app/bose-connect/id1046510029) or[get the Android Bose Connect app](https://play.google.com/store/apps/details?id=com.bose.monet) ; the app pages list compatible devices.
 * **Ultimate Ears** : The[Ultimate Ears Boom app](https://www.ultimateears.com/features/apps.html) has a feature called PartyUp that connects and streams music to over 150 speakers—excluding the Wonderboom, Blast, and Megablast models.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Use Samsung's Dual Audio Feature
 
  If you have a Samsung Galaxy S8, S+, or newer model, take advantage of the company's Bluetooth Dual Audio, which works with most Bluetooth speakers and headphones; Bluetooth 5 isn't required.
@@ -56,10 +69,16 @@ Samsung
 
 1. Go to**Settings** \>**Connections** \>**Bluetooth** .  
  These steps apply to Samsung devices running Android 8 and higher. The settings options layout may look a little different depending on your version.  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings, Connection and Bluetooth on Samsung S8](https://www.lifewire.com/thmb/bhxvKLBxILvwo1OeRPxKI0ByVmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-connect-multiple-bluetooth-speakers-to-one-device-90b94758e2644abd995c5854ac80db73-727127bd1d1b4fbf8a7523f16277fbce.jpg)
 2. Tap**Advanced** .  
  In earlier Android versions, tap the**three-dot menu** in the upper-right corner.
 3. Turn on the**Dual Audio** toggle switch.  
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Advanced, Dual audio toggle in Samsung Settings > Connections](https://www.lifewire.com/thmb/no44YZZRssjASaEHvzu-K4dnfzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-connect-multiple-bluetooth-speakers-to-one-device-90b94758e2644abd995c5854ac80db73-f369686037ae47bbadee2285129af330.jpg)
 4. To use Dual Audio, pair the phone with two speakers, two headphones, or one of each, and audio will stream to both.  
  If you add a third speaker, the first paired device will be booted off.

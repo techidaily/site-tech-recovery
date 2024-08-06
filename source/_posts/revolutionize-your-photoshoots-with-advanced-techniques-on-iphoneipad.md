@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Photoshoots with Advanced Techniques on iPhone/iPad
-date: 2024-08-03 18:28:40
-updated: 2024-08-05 11:17:13
+date: 2024-08-05T02:34:31.680Z
+updated: 2024-08-06T02:34:31.680Z
 categories:
   - BestProducts
 description: This Article Describes Revolutionize Your Photoshoots with Advanced Techniques on iPhone/iPad
@@ -22,6 +22,9 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 
  Turn**Auto HDR** or**Smart HDR** (depending on your iOS or iPadOS version) on or off in**Settings** \>**Camera** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![iPad Camera settings showing Smart HDR setting](https://www.lifewire.com/thmb/gR-jQmxtSh5nmhaYVqmTn2F9gLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-improve-the-ipads-camera-1994693-99f6d4650edc4a6cb7de87daae67f6f9.jpg)
 
  In older iPads and iPhones, there isn't an automatic setting for HDR. Instead, you manually turn on HDR in the Camera app when you want to use it.
@@ -29,8 +32,14 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 1. Open the**Camera** app.  
 ![Camera app on iPad home screen](https://www.lifewire.com/thmb/WN-Qu6QSBkB2mozIBQWciDaL95s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-improve-the-ipads-camera-1994693-625cf5497c1e4b219a5d6cbc6ec6d28c.jpg)
 2. Tap**HDR** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPad camera app with HDR highlighted](https://www.lifewire.com/thmb/19gHHkUIzFUQE3zljrxNaEEwaT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-improve-the-ipads-camera-1994693-0392da3224904cdf97f32d1c055b6c3e.jpg)
 3. When HDR is on, HDR appears at the top of the screen.  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iPad Camera app showing HDR indicator](https://www.lifewire.com/thmb/p9d2OcrafwPtqaO85z0kCleNiYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-improve-the-ipads-camera-1994693-f1701c178a3d4fabbf67404ff113dc62.jpg)
 4. HDR automatically runs whenever you take a photo as long as HDR is displayed at the top of the screen. Use your camera as usual.
 
@@ -55,6 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 
  When you finish making changes, tap**Done** to save the image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Use Live Photos to Improve Your Photography
 
 [Live Photos](https://www.lifewire.com/iphone-live-photos-1999618) are small video clips the phone captures when you take a photograph on a newer iPhone or iPad. Along with creating moving pictures, you can choose a main photograph from the video to fix defects like an awkward facial expression, a blink of the eyes, or a just-missed shot.
@@ -65,8 +77,14 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 
 1. Take a Live Photo (or select one from the Photos app) and then tap**Edit** .
 2. When editing a Live Photo, the bottom of the screen shows every frame the camera captured. Tap individual slides to preview the image.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![iPad Camera app showing Live Photo frames](https://www.lifewire.com/thmb/Uxu-QAxFhQd6V95X3CnbMJM9nqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-improve-the-ipads-camera-1994693-25a3d53411494e4a8b66af78a55b4392.jpg)
 3. Tap**Make Key Photo** to choose a frame.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Key Photo selection in iPad Camera app](https://www.lifewire.com/thmb/lrg0AiDcAqoHvyMacxai7DxVA8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-improve-the-ipads-camera-1994693-044ed59d850f44deac861c5ac28d3eea.jpg)
 4. Tap**Done** to finalize your choice.
 

@@ -1,7 +1,7 @@
 ---
 title: How to Chat in Mozilla Thunderbird
-date: 2024-08-03 14:16:34
-updated: 2024-08-05 10:54:21
+date: 2024-08-05T02:35:14.068Z
+updated: 2024-08-06T02:35:14.068Z
 categories:
   - BestProducts
 description: This Article Describes How to Chat in Mozilla Thunderbird
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/PdMEOR8oXC-to_GbJR7_RUFwXjU=/400x300/fi
 
  This article covers Mozilla Thunderbird 52\. Several new versions of Thunderbird have arrived since its publication. Some features may be as described, while others have changed, evolved, or been removed.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Thunderbird 52 Features
 
  Mozilla Thunderbird 52 brings privacy, speed, and new tech. Features include:
@@ -31,6 +34,11 @@ thumbnail: https://www.lifewire.com/thmb/PdMEOR8oXC-to_GbJR7_RUFwXjU=/400x300/fi
 * **Activity Manager** : Thunderbird's Activity Manager is the place to look for a synopsis of the interactions between your Thunderbird browser and your email provider.
 * **Quick Message Archive** : If you don't need an email message but don't want to throw it away, send it to the archive folder system by pressing the**A** button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Customize Your Thunderbird Experience
 
  Thunderbird allows you to customize your email experience in several ways:
@@ -40,6 +48,9 @@ thumbnail: https://www.lifewire.com/thmb/PdMEOR8oXC-to_GbJR7_RUFwXjU=/400x300/fi
 * **Add-ons Manager** : You don't have to leave Thunderbird and go to an add-ons website. From the Add-ons Manager, view descriptions, ratings, and recommendations of available add-ons that add functionality to Thunderbird.
 * **Filelink Large-File Management** : Set up Filelink to handle the upload of files that are too large to attach to an email. Select from popular large-file attachment sites such as Box, YouSendIt, and Ubuntu One.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Security Features
 
  Here's how Thunderbird keeps your email safe:
@@ -49,6 +60,9 @@ thumbnail: https://www.lifewire.com/thmb/PdMEOR8oXC-to_GbJR7_RUFwXjU=/400x300/fi
 * **Automated Updates** : Thunderbird notifies you when a security update is available.
 * **Junk Mail Filters** : Each time you mark an email as spam, Thunderbird learns from your action. The service's popular[junk mail tools](https://www.lifewire.com/auto-spam-to-junk-thunderbird-1173117) have been updated to stay ahead of spam.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## System Requirements
 
  Thunderbird 52 is compatible with the following operating systems:

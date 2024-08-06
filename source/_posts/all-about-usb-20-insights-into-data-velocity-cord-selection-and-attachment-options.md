@@ -1,7 +1,7 @@
 ---
 title: "All About USB 2.0: Insights Into Data Velocity, Cord Selection, and Attachment Options"
-date: 2024-08-04 13:51:19
-updated: 2024-08-05 12:41:37
+date: 2024-08-05T02:34:08.969Z
+updated: 2024-08-06T02:34:08.969Z
 categories:
   - BestProducts
 description: "This Article Describes All About USB 2.0: Insights Into Data Velocity, Cord Selection, and Attachment Options"
@@ -16,10 +16,16 @@ thumbnail: https://thmb.techidaily.com/73f7ebc207fbc00d83c0c8e87f26e999ea76fd79d
 
  USB 1.1 was released in August 1998, USB 2.0 in April 2000, USB 3.0 in November 2008, and USB4 in August 2019.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Illustration of a person using a USB device on a laptop.](https://www.lifewire.com/thmb/JHMuTme7vTBFFvh3qADLD-hK6dY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-usb-2-0-2626037-724c3c1c829c42e3b638e9e0c85238cd.png)
 
  Lifewire / Derek Abella
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## USB 2.0 Connectors
 
 _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash drive](https://www.lifewire.com/what-is-a-flash-drive-2625794) , while the_receptacle_ is the name given to the_female_ connector on a USB 2.0 device or extension cable.
@@ -36,6 +42,9 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
 
  You may want to consult a[USB Physical Compatibility Chart](https://www.lifewire.com/usb-physical-compatibility-chart-2624585) for a reference on what-fits-with-what.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Interconnected Device Speeds
 
  Older USB 1.1 devices and cables are, for the most part, physically compatible with USB 2.0 hardware. However, the only way to reach USB 2.0 transmission speeds is if all devices and cables being connected to each other support USB 2.0.
@@ -46,6 +55,9 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
 
  In other words, the transmission speed falls to the older of the two technologies. This makes sense, since you can't pull USB 3.0 speeds out of a USB 2.0 cable, nor can you get USB 2.0 transmission speeds using a USB 1.1 cable.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## USB On-the-Go (OTG)
 
 [USB On-the-Go](https://www.lifewire.com/what-is-usb-otg-and-what-does-it-do-4768902) was released in December 2006\. It allows devices to switch between acting as a host and as a subordinate when necessary so that they can be connected to each other directly.

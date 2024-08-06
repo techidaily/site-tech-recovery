@@ -1,7 +1,7 @@
 ---
 title: "Seamless Transactions at a Glance: The Ultimate How-To for Apple Pay Integration on Apple Wearables"
-date: 2024-08-03 20:35:39
-updated: 2024-08-05 10:28:14
+date: 2024-08-05T02:35:08.291Z
+updated: 2024-08-06T02:35:08.291Z
 categories:
   - BestProducts
 description: "This Article Describes Seamless Transactions at a Glance: The Ultimate How-To for Apple Pay Integration on Apple Wearables"
@@ -21,6 +21,9 @@ Close
 
  This article explains how to set up and[ use Apple Pay](https://www.lifewire.com/how-to-use-apple-pay-4687026) on an Apple Watch. The instructions apply to compatible Apple Watch models running watchOS 10 or later and all supported iPhone models running iOS 17 or later.  
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Set Up Apple Pay on an Apple Watch 
 
  You can set up Apple Pay on your Apple Watch using available cards in the Wallet app on your iPhone or with a new card. Additionally, you can add these cards using the Wallet app on your Apple Watch or the Watch app on your iPhone.
@@ -32,9 +35,16 @@ Close
 1. Open the**Wallet** app on your Apple Watch.
 2. Choose the**More** menu (three horizontal dots).
 3. Select**Add Card** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![The Wallet app, More menu, and Add Card button on an Apple Watch](https://www.lifewire.com/thmb/trDkvexkVR-llTkgd4Fj0gNlxRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Wallet-2-e0323eabe2964d319bbce2fbadd1b005.jpg)
 4. For an existing card, pick**Previous Cards** and select one.
 5. For a new card, pick**Debit or Credit Card** (or Apple Account or Transit Card) and then**Continue** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Card Options and the Continue button in the Apple Watch Wallet app](https://www.lifewire.com/thmb/F7cgJeaTpjbLMae_beleljwCTtY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Card-Options-05dc0100a6fd4127b79501d6591bf9b1.jpg)
 6. Adjust your name if necessary and enter the card number and additional details, and then select**Continue** .
 7. Follow the subsequent prompts to complete the setup, depending on the card you’re adding.  
@@ -49,6 +59,9 @@ Close
 1. Open the**Watch** app on your paired iPhone and go to**the My Watch** tab
 2. Select**Wallet & Apple Pay** .
 3. For an existing card on your iPhone, go to the**Other Cards on Your Phone** section and tap**Add** .  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Card options in the Watch app on an iPhone](https://www.lifewire.com/thmb/TGBBkwpGm0jVErxzOF9rr0t-Dx4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Card-Options-e79db77225454651bf8041c261c60398.jpg)
 4. For a previous card:  
    * Pick**Add Card** .  
@@ -66,10 +79,16 @@ Close
 
  Once you have Apple Pay set up on your Apple Watch, you can use it to make in-store purchases, app purchases, and person-to-person payments by sending or requesting money.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ###  Use Apple Pay in a Store 
 
  When[ visiting a retailer](https://support.apple.com/en-us/HT208087) , look for the Apple Pay or contactless payment symbol during checkout.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Symbols for Apple Pay and contactless payments](https://www.lifewire.com/thmb/-WUg_MRUSoiLIwf-Fpq6OetTcoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Pay-Contactless-Symbols-8666454-0e4c8825b974465b97c30ecf0140d17e.jpeg) 
 
  If you’re able to use Apple Pay, double-press the**side** button (the rectangular button on the right).  
@@ -96,6 +115,9 @@ Close
 * To send money, use the**Digital Crown** or**plus sign** on the screen to count up until you reach the amount you want in whole dollars. Tap**Send** , confirm the amount, and double-press the side button.
 * To request money, swipe from right to left. Then, use the**Digital Crown** or**plus sign** to enter the amount and tap**Request** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Request money screen on Apple Watch](https://www.lifewire.com/thmb/gxKeARrFL2ecS3ZuQmgQt81W-ow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Reqest-Money-Apple-Pay-Apple-Watch-8666454-a22bb4f7d7054ab595b62fc2cdc8ae5d.jpeg) 
 
 ##  Requirements for Apple Pay on Apple Watch 

@@ -1,7 +1,7 @@
 ---
 title: The Definitive Step-by-Step on Crafting Personalized Gmail Labels and Filters
-date: 2024-08-05 22:39:46
-updated: 2024-08-06 10:17:12
+date: 2024-08-05T02:34:56.849Z
+updated: 2024-08-06T02:34:56.849Z
 categories:
   - BestProducts
 description: This Article Describes The Definitive Step-by-Step on Crafting Personalized Gmail Labels and Filters
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 ---
 
 ## Mastering the Hidden Treasure of Finder Path Bars in MacOS - Enable and Utilize Now
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Enable the Finder Path Bar: Open Finder and select**Show Path Bar** in the View menu.
@@ -25,14 +28,26 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 1. Start by opening a Finder window on your Mac. An easy way to do this is to click the Finder icon in the Dock.  
 ![The Finder icon in the Mac Dock](https://www.lifewire.com/thmb/2QNXKtS5EG8dbjln489L9HSZn3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-Finder-path-bar-2260868-f47faca690fa46a381805077c635608a.jpg)
 2. With a Finder window open, select**Show Path Bar** from the**View** menu.  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Show Path Bar selection from Finder View menu](https://www.lifewire.com/thmb/p8hmSvudrGj6bJbYTBG0C2oeKis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-use-macs-hidden-finder-path-bar-2260868-9d9472a91acd4a1b90d481c5b2d16f97.jpg)
 3. The Path Bar displays at the bottom of all your Finder windows showing the path to any file or folder you choose.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Path Bar at bottom of Finder window](https://www.lifewire.com/thmb/gbXg4tnHLHCs1fJYTDgWyaog8vQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-use-macs-hidden-finder-path-bar-2260868-bfdde3c3e82b4222972d05afbe604e6c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What is the Finder Path Bar?
 
  The Finder Path Bar is a small pane located at the bottom of a[Finder window](https://www.lifewire.com/use-mac-finder-2260739) , just below where files and folders are listed. The Path Bar shows you the path from the folder you're currently viewing to the top of the file system. To put it another way, it shows you the path you created when you clicked through the Finder to get to the current folder.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Turn Off the Finder Path Bar
 
  If you decide you prefer the more minimalistic Finder window, you can turn the Path Bar off just as quickly as you turned it on.
@@ -53,6 +68,9 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 * Truncated folder names often show up in the Path Bar. You can expand the Finder window to see the folders' full names, but that doesn't work well if you have a lot of truncated folder names in the Path Bar. A better method is to place your cursor over a folder with a truncated name. After a second or two, the folder expands to show its full name.
 * The Path Bar also works when you're performing a[Finder search](https://www.lifewire.com/use-spotlight-keyword-searches-to-find-files-2260809) . When the results of a search are displayed in the Finder, you can discover where an item is stored by selecting the item in the search results and then glancing at the Path Bar.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Additional Ways to Show the Path
 
  The Path Bar is handy, but there are other ways to display the path to an item. One method is to[add the Path icon to the Finder's toolbar](https://www.lifewire.com/customize-finder-toolbar-2260859) by selecting**View** in the Finder menu bar and choosing**Customize Toolbar** .
@@ -82,6 +100,9 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 
  The Finder restarts, after which any Finder window displays the long pathname to the current location of a folder.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## How to Turn Off the Display of the Full Pathname
 
  If you decide you don't like the Finder always displaying the long pathname, you can turn the feature off with the following Terminal commands:

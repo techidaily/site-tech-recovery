@@ -1,7 +1,7 @@
 ---
 title: "Navigating WhatsApp on macOS: Tips & Tricks for Effortless Messaging"
-date: 2024-08-03 13:38:10
-updated: 2024-08-05 10:40:41
+date: 2024-08-05T02:34:23.488Z
+updated: 2024-08-06T02:34:23.488Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating WhatsApp on macOS: Tips & Tricks for Effortless Messaging"
@@ -18,10 +18,25 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 
  This article explains how to download and set up the free[WhatsApp](https://www.lifewire.com/what-is-whatsapp-all-about-4781062) desktop application for Mac as well as basic usage of the app. The instructions apply to macOS Sonoma 14.2 or later.  
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Download WhatsApp Desktop for Mac
 
  You have two ways to download and install the WhatsApp desktop app for the Mac. You can get the app from the[Mac App Store](https://www.lifewire.com/using-mac-app-store-4171845) or the WhatsApp website. Both app versions are the same, so you can use whichever method is best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### Download WhatsApp From the App Store
 
  To get[WhatsApp from Apple](https://apps.apple.com/us/app/whatsapp-messenger/id310633997) , open the App Store on your Mac and follow these steps.  
@@ -30,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 2. When you see**WhatsApp Messenger** in the list of results, select it.  
 ![The WhatsApp app highlighted in the search results on the Mac App Store.](https://www.lifewire.com/thmb/ScXMkVwt002lNp_Yr4PVyCSDc94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-UseWhatsApponaMac-annotated-d6cdbcdfcfeb41cfb2faca99efefbcf9.jpg)
 3. Optionally review the description and choose**Get** to download the app to your Mac.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![The Get button for WhatsApp Messenger highlighted in the Mac App Store.](https://www.lifewire.com/thmb/WVrWpTG5voNDj-v1zufGTUS33go=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-UseWhatsApponaMac-annotated-8e34f1af547643799187d4d030286cf9.jpg)
 4. Enter your password, or use Touch/Face ID, to authorize the download if prompted.
 
@@ -43,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 3. Open the**Downloads** folder for the web browser you’re using and select the WhatsApp installer file.  
 ![The downloaded file for WhatsApp highlighted in the Safari Downloads section of Safari.](https://www.lifewire.com/thmb/KGV29Z4y7mXFgXvoecpTGSlFUNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-UseWhatsApponaMac-ANNOTATED-3c52c7f820934c1faf0d7d9c0b900856.jpg)
 4. When the installer opens, drag the**WhatsApp** icon to the**Applications** folder icon.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Window to drag WhatsApp to the Applications folder](https://www.lifewire.com/thmb/4OA6eBJFWdwnRFDtmhBs0jMuQ8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Move-WhatsApp-Applications-Folder-Mac-8424741-09a2410211e74966a44313b49e72582a.jpg)
 5. Close the installer window if necessary.
 
@@ -53,17 +75,29 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 1. Open**WhatsApp** on your mobile phone and tap**Menu** or**Settings** at the bottom, depending on your device.
 2. Select**Linked Devices** .
 3. Tap**Link a Device** and grant camera access if prompted.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Initial steps highlighted when linking devices to one WhatsApp account.](https://www.lifewire.com/thmb/6Urvb4zpOiY_cYMwVjyp0r8mzbY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-UseWhatsApponaMac-annotated-f0db92b826e5489a86d328d092096e54.jpeg)
 4. Open the**Applications** folder on your Mac and select**WhatsApp** to launch the app.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![WhatsApp app highlighted in the Mac's Applications folder.](https://www.lifewire.com/thmb/VhpS9c3Qw6durOje6aLOIqj8LBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C4-UseWhatsApponaMac-annotated-120d4b37bd114436b08d864c2cbaf99a.jpg)
 5. Click**Get Started** on the WhatsApp welcome screen.  
 ![Get Started button in WhatsApp on Mac](https://www.lifewire.com/thmb/AMTQ4PTTb4xVp4vGxV0wT_ESEL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Get-Started-Mac-8424741-7d6071ea62a141789730bb4687e2a878.jpg)
 6. You’ll see a QR code along with instructions to capture the code.  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![QR code in WhatsApp on Mac.](https://www.lifewire.com/thmb/jesVFrWj80lQIN9cVQLqLFhquUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C6-UseWhatsApponaMac-4e2a152ae0f64281bff535b781e9c752.jpeg)
 7. Use your mobile device to capture the QR code in the WhatsApp window on your Mac.
 8. You should see a brief “logging in” message and your Mac display as a linked device on your mobile phone. You can then close WhatsApp on your mobile device.  
 ![The steps of logging into a WhatsApp account on an iPhone.](https://www.lifewire.com/thmb/dZY_CI649d0REHdA9WXRIY4_17w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C8-UseWhatsApponaMac-annotated-a7b98253e694476392cc859e192eb876.jpeg)
 9. Choose how you would like to see notifications for WhatsApp on your Mac by enabling the toggles and selecting**Done** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toggles to enable WhatsApp notifications on Mac](https://www.lifewire.com/thmb/uGdXRRVovDGesk26M4MQADNoRME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Enable-Notifications-Mac-8424741-8a05e64f8da244a6ae9959dad9251b05.jpg)  
  You’ll then see the main WhatsApp screen where you can start communicating with your contacts.
 
@@ -82,8 +116,16 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 * **Starred Messages** : See your starred messages and their connected conversations.
 * **Settings** : View your account or adjust your notification, chat, privacy, and storage preferences.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![WhatsApp tabs and Settings on Mac](https://www.lifewire.com/thmb/ThxEFDgMmx5FOH0YZn1RWm12nIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Tabs-Settings-Mac-8424741-4e241ee7436b49b780ee38a0511cc7a3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Use WhatsApp With the Menu Bar
 
  In keeping with other[apps you use on macOS](https://www.lifewire.com/best-mac-apps-4589256) , you can navigate and perform actions in WhatsApp using the Mac menu bar.

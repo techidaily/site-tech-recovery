@@ -1,7 +1,7 @@
 ---
 title: Understanding Deletion of Included Applications From Your iOS Smartphone
-date: 2024-08-04 17:30:31
-updated: 2024-08-05 11:17:17
+date: 2024-08-05T02:34:10.097Z
+updated: 2024-08-06T02:34:10.097Z
 categories:
   - BestProducts
 description: This Article Describes Understanding Deletion of Included Applications From Your iOS Smartphone
@@ -14,12 +14,19 @@ thumbnail: https://www.lifewire.com/thmb/4wC6IfdazbWt9ofZp7bAfCRHr5o=/400x300/fi
 
  Why show apps on your phone if you don't use them, especially if you're running out of[storage space](https://www.lifewire.com/update-iphone-with-low-storage-4125574) on your phone? In that case, you may have wondered if you can delete the built-in apps that come with your iPhone. The short answer is yes.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Deleting Pre-Installed Apps Depends on Your Operating System
 
  Starting with[iOS 10](https://www.lifewire.com/fantastic-features-ios-10-4053166) , users could delete pre-installed apps.
 
  With iOS 14 and higher, the number of removable Apple apps doesn't expand, but users can also choose to hide them from the home screen rather than delete them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## How to Delete Pre-Installed Apps
 
  To[delete built-in iPhone apps](https://www.lifewire.com/delete-apps-from-iphone-2000648) in iOS 14 and up, you can remove an app from the App Library by holding it and selecting**Delete App** \>**Delete** .
@@ -46,6 +53,9 @@ thumbnail: https://www.lifewire.com/thmb/4wC6IfdazbWt9ofZp7bAfCRHr5o=/400x300/fi
 
  Apps for the App Store, Camera, Messages, Phone, Photos, Safari, and Settings are locked in and can't be deleted—though you can hide them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## How to Hide Pre-installed Apps in iOS 14 and Newer
 
  With the release of iOS 14, Apple introduced the option to[hide unwanted apps](https://www.lifewire.com/hide-apps-on-iphone-8584258) from your Home screen. The process is similar to deleting an app, but with a different menu selection.
@@ -56,6 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/4wC6IfdazbWt9ofZp7bAfCRHr5o=/400x300/fi
 
  Removing pre-installed apps from your home screen does not actually delete them from your iPhone. They will still be installed, accessible via your iPhone's App Library, and take up storage space.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Hide iPhone Apps Using Restrictions in iOS 9 or Older
 
  For iOS 9 devices, deleting built-in apps wasn't possible, but using the built-in Restrictions (or Content & Privacy Restrictions) feature was a workaround to hide (but not remove) apps and services on your phone.
@@ -71,6 +84,9 @@ thumbnail: https://www.lifewire.com/thmb/4wC6IfdazbWt9ofZp7bAfCRHr5o=/400x300/fi
 
  When the apps are blocked, they'll disappear from the phone as if they've been deleted. In this case, though, you can get them back by turning off restrictions or changing your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Hide iPhone Apps in Folders
 
  If you'd rather not enable Content & Privacy Restrictions or tuck apps away in your App Library, you can also just hide them in folders. To do that:

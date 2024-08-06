@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Resolving Errors During Windows System Restore
-date: 2024-08-02 21:35:47
-updated: 2024-08-05 10:32:30
+date: 2024-08-05T02:35:13.157Z
+updated: 2024-08-06T02:35:13.157Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Resolving Errors During Windows System Restore
@@ -12,6 +12,9 @@ thumbnail: https://www.lifewire.com/thmb/RTWozXNfuDskFcnTHBCFbtVSHlU=/400x300/fi
 ## Fixing Windows Boot Failures: Resolve Your 'Resetting PC' Error Today
  If you have a problem with Windows that’s too complicated to fix manually, you might try using[Reset This PC](https://www.lifewire.com/reset-this-pc-2626216) . It’s supposed to completely reinstall Windows with just a few clicks, and can be extremely helpful...if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## What Is the 'There Was a Problem Resetting Your PC' Error?
 
  If Reset This PC fails to run, you’ll probably get this message, or one like it:  
@@ -29,6 +32,9 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
 
  Reset This PC errors can happen in[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) , and[Windows 8](https://www.lifewire.com/windows-8-2626235) . The directions below apply to both operating systems.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix the 'There Was a Problem Resetting Your PC' Error
 
  Follow these steps in the order they're presented to try the simpler fixes first:
@@ -36,17 +42,29 @@ _Why_ you're getting the error is simple: Reset This PC didn't work. You're clea
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) and try again ([reset is different from restart](https://www.lifewire.com/reboot-vs-reset-4157868) ).  
  A simple restart is easy to try and[often fixes unexplained problems](https://www.lifewire.com/why-does-restarting-seem-to-fix-most-computer-problems-2624569) . This might be all you need to do.
 2. Run Startup Repair from the[Advanced Startup Options (ASO)](https://www.lifewire.com/advanced-startup-options-2625805) menu. This will attempt to fix problems that are preventing Windows from loading, which might be why Reset This PC won’t start.  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Startup Repair in Advanced Options menu](https://www.lifewire.com/thmb/EjCM25AXeApJ95fLxmCvw-bZ9uU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/advanced-options-startup-repair-d8c55ed0c58e406b8073335d1a15270d.png)  
  To complete this step, you’ll need to[access the ASO menu](https://www.lifewire.com/how-to-access-advanced-startup-options-in-windows-10-or-8-2626229) . Once you’re there, go to**Troubleshoot** \>**Advanced options** \>**Startup Repair** .
 3. [Repair system files with the sfc /scannow command](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) . Reset This PC might be trying to use some important Windows files that are corrupt, which is why you’re seeing this error.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![sfc scannow command in Command Prompt](https://www.lifewire.com/thmb/rCEGFztnnEGe2OokQxLPfPKG6Po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-a32db075f41b417d9f9116107fdc6c2b.png)  
  You’ll need to run a command to do this, which you can do in an[elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) from within Windows. If you can’t get as far as your desktop, use the Command Prompt in the ASO menu. Instructions for both methods are available in that link above.
 4. [Run System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . This will undo any changes made to Windows files that might be the cause for the “_There was a problem resetting your PC_ ” error. Just be sure to restore your computer to a point before the error starting occurring.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Windows 10 System Restore screen](https://www.lifewire.com/thmb/YNdyS4A1lLE09hn7V9RJ3Rm-Kc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restore-point-windows-10-ecd60e49098a45c7ad8687986904d818.png)  
  If you can’t log in to Windows to run[System Restore](https://www.lifewire.com/what-is-system-restore-2626022) , you can also do it from the ASO menu via**Troubleshoot** \>**System Restore** or from bootable installation media (see the last step below).
 5. Repair Windows Recovery Environment. If the WinRE image is, for whatever reason, missing or corrupt, it might be throwing the “_There was a problem resetting your PC_ ” error.  
  To repair it, open an elevated Command Prompt and enter this command:  
  `reagentc /disable`  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reagentc disable command in Command Prompt](https://www.lifewire.com/thmb/d5zO43p4ZIJfMESMS8Q9H8kNBPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reagentc-disable-command-2ad577ae139f435da2305cc3d34dfd5b.png)  
  Reboot your computer, open Command Prompt again, and enter this command:  
  `reagentc /enable`  

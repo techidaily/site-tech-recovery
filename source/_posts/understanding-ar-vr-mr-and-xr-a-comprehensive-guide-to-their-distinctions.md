@@ -1,7 +1,7 @@
 ---
 title: "Understanding AR, VR, MR & XR: A Comprehensive Guide to Their Distinctions"
-date: 2024-08-04 21:24:41
-updated: 2024-08-05 10:50:55
+date: 2024-08-05T02:34:57.255Z
+updated: 2024-08-06T02:34:57.255Z
 categories:
   - BestProducts
 description: "This Article Describes Understanding AR, VR, MR & XR: A Comprehensive Guide to Their Distinctions"
@@ -12,6 +12,9 @@ thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4e
 ## Understanding AR, VR, MR & XR: A Comprehensive Guide to Their Distinctions
  If you've heard of immersive video games, virtual travel, or AR shopping, then you've no doubt run into labels like[augmented reality](https://www.lifewire.com/augmented-reality-ar-definition-4155104) (AR),[virtual reality](https://www.lifewire.com/virtual-reality-vr-definition-4155090) (VR),[mixed reality](https://www.lifewire.com/what-is-mixed-reality-4588766) (MR), and[extended reality](https://www.lifewire.com/what-is-xr-6951315) (XR). We've reviewed these terms in depth to learn what they mean and how they differ so you can have some clarity about which one is right for you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![AR vs VR vs MR vs XR](https://www.lifewire.com/thmb/haZ8HZkdS_Tv-sa9eICNgfiamlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-vs-VR-vs-MR-vs-XR-a878b5413fbe4d68b12a0173549a3cfb.jpg)
 
 Lifewire
@@ -33,6 +36,9 @@ Lifewire
 
  The rest of this article doesn't include XR in the comparison tables because it's a term used to describe the other three. It's akin to comparing[computer hardware](https://www.lifewire.com/computer-hardware-2625895) with a mouse, keyboard, and webcam.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Technology: VR Blocks Your Vision, AR/MR Doesn't
 
 | AR                                                 | VR                           | MR                                                 |
@@ -45,6 +51,9 @@ Lifewire
 
  It works this way because AR and MR, as you'll read below, are designed to enhance and change what you're already doing and seeing around you, while VR is designed to replace reality with something completely fake.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Availability: AR Can Run Straight From a Phone
 
 | AR                                 | VR                                                         | MR                                                                     |
@@ -58,6 +67,9 @@ Lifewire
 
  Furthermore, there are plenty of free AR/MR apps, so no additional investment is needed to experience those XR types, which can't be said for virtual reality.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Immersion: VR Is the Clear Winner, MR Is Close
 
 | AR                                         | VR                                                              | MR                                                                |
@@ -71,6 +83,9 @@ Lifewire
 
  Mixed reality objects can be anchored in real space, meaning you can physically walk around them and often interact with them as if they were real. It creates a solid bridge between a completely real and a completely virtual environment.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Applications: VR/MR Excel in Education, VR in Entertainment
 
 | AR                     | VR                                             | MR                       |
@@ -90,6 +105,9 @@ Lifewire
 
 [What Is Augmented Reality?](https://www.lifewire.com/applications-of-augmented-reality-2495561)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Final Verdict: They All Have Their Place
 
  All three of these extended reality types are useful, so the one you choose depends entirely on what you want to accomplish. AR and MR are built for truly mixing real and imaginary elements, with the latter having an edge over the former by leaning deeper into the actual_mixing_ of realities. VR doesn't let you view the real world around you, but that's the whole point; it excels in that you're fully immersed in a digital reality that you can enjoy alone or with friends.

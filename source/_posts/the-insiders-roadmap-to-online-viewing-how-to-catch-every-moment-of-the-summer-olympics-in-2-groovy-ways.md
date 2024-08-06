@@ -1,7 +1,7 @@
 ---
 title: "The Insider's Roadmap to Online Viewing: How to Catch Every Moment of the Summer Olympics in 2 Groovy Ways."
-date: 2024-08-04 11:56:30
-updated: 2024-08-06 10:35:37
+date: 2024-08-05T02:34:02.055Z
+updated: 2024-08-06T02:34:02.055Z
 categories:
   - BestProducts
 description: "This Article Describes The Insider's Roadmap to Online Viewing: How to Catch Every Moment of the Summer Olympics in 2 Groovy Ways."
@@ -46,21 +46,36 @@ Close
 ##  How to Watch the NBC Sports Live Stream for Free 
 
 1. Navigate to the[ NBC Olympics Channel](http://stream.nbcsports.com/nbc/watch-olympic-channel) . The player will load, and Olympics coverage will be play if any event or other programming is currently live.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of the Olympics on NBC Sports.](https://www.lifewire.com/thmb/UxEZ2c2brBtv7hHZuq7yYhTDwpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-9de2b04320c34c62a089aa06525cb468.JPG)  
  NBC Sports only allows you to watch a short live preview by default. Users with valid cable or satellite subscriptions can remove this time limit.
 2. When your limited preview expires, and you either have or can borrow a cable login, scroll down and select**VERIFY NOW** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the limited free preview of NBC Sports.](https://www.lifewire.com/thmb/PkYWDhXk4bXGuZFzm5O5oCacnRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-bf38e1e9463841a89153651f1f6c7ba3.JPG)
 3. Select your cable or satellite provider.  
 ![A screenshot of TV providers on NBC Sports.](https://www.lifewire.com/thmb/GiKMUQCS0hciJBzv-isQjvNH78Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-bcdc9b689bc64587b76c0f9013b691fc.JPG)
 4. Log into your cable or satellite account.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![A screenshot of the TV provider login on NBC Sports.](https://www.lifewire.com/thmb/GbpDZfv2-0L8KSsy-exSaeTNUfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4-e588b698cf314d4b9444bc91c5d9ec36.JPG)
 5. If you provide valid login information, NBC Sports will remove the time limit, and you'll be able to watch the entire event.  
  Since the NBC Sports website only provides a short free trial viewing period, this isn't a good method for cord-cutters. For a longer trial, look at services like Hulu or fuboTV.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ##  What Streaming Services Include the Olympic Games? 
 
  The best way for cord-cutters to stream the Olympics is through an internet streaming service. These services provide television access that's a lot like cable, except you stream live television through the internet. You need a computer, laptop, mobile phone, tablet, or a compatible smart TV and a high-speed internet connection to use one of these services.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gold Medalist Sunisa Lee of USA during the medals ceremony the gymnastics artistic Women's All-Around Final on day six of the Tokyo 2020 Olympic Games at Ariake Gymnastics Centre on July 29, 2021 in Tokyo, Japan.](https://www.lifewire.com/thmb/4TQ5wPSF8Rwx_Xvo8p2q9kyQC4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sunisa_Lee_GettyImages-1331330797-06600495fda84b7d917a3e68264ea194.jpg) 
 
  Gold Medalist Sunisa Lee of USA during the medals ceremony for the gymnastics artistic Women's All-Around Final.  Jean Catuffe/Getty Images 
@@ -79,6 +94,9 @@ Close
 
  NBC Sports has apps for most major devices, but you still need a valid cable or satellite subscription to log in.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Can You Watch the Olympics With an Antenna? 
 
  Since NBC has the rights to the Olympics in the United States, you can watch a lot of coverage for free if you have an antenna and a local NBC affiliate. You'll miss out on any coverage NBC shifts to its cable channels and online streams, but the most popular events are usually broadcast on NBC.

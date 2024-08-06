@@ -1,7 +1,7 @@
 ---
 title: "Guide to Adjust Mouse Settings: Eliminating Acceleration on a Mac Computer"
-date: 2024-08-05 19:49:53
-updated: 2024-08-06 12:21:21
+date: 2024-08-05T02:35:01.508Z
+updated: 2024-08-06T02:35:01.508Z
 categories:
   - BestProducts
 description: "This Article Describes Guide to Adjust Mouse Settings: Eliminating Acceleration on a Mac Computer"
@@ -21,19 +21,34 @@ Close
 
  This article teaches you how to turn off mouse acceleration on a Mac. It looks at three methods to do so, as well as highlights why you may need to switch off mouse acceleration.   
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Turn Mouse Acceleration Off on a Mac 
 
  As of macOS Sonoma (14.0), Apple has added additional settings, including mouse acceleration. To turn mouse acceleration off entirely on Mac, you'll need to locate the Pointer acceleration setting.
 
 1. Select the Apple icon on the menu bar.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mac Desktop with the Apple icon highlighted.](https://www.lifewire.com/thmb/E4tPDXQgM-t3BVe-1vqkzuOx1V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-off-mouse-acceleration-on-mac-65030473-7ea31658e2f349e2b79c78c81e46b05f.jpg)
 2. Select**System Settings.**  
 ![Mac Desktop with System Settings highlighted.](https://www.lifewire.com/thmb/4upgb2uoG_udrV7nkf8yxSdMftQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSystemSettingscopy-e6d9512a7b5546b3bee7dc28eb422de1.jpg)
 3. Select**Mouse** .  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Mac System Settings with Mouse highlighted.](https://www.lifewire.com/thmb/LLKtiC5lcSV-tRI1LLT6KKw-xQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacMouseoption-b7641b2454394154a6c8e58c7334728e.jpg)
 4. Select**Advanced** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Mac Mouse settings with the Advanced button highlighted.](https://www.lifewire.com/thmb/aZuMxe9WaT-jr67FrjH4JsVCgK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macmouseadvancedcopy-019af83909d84639893a747caaa1ea2a.jpg)
 5. Toggle**Pointer acceleration** and select**Done** .  
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Mac Pointer acceleration toggle highlighted.](https://www.lifewire.com/thmb/tWPpzXhQJG6vRArC33uSrCYe5DA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mousepointeraccelerationcopy-70baf408c7d64fc1bb54ea11c6352054.jpg)
 
 ##  How to Turn Mouse Acceleration Off on Older macOS 
@@ -49,11 +64,17 @@ Close
 3. Press**Enter** .
 4. Mouse acceleration has now been switched off until the next time you restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ##  How to Reduce Mouse Acceleration on a Mac 
 
  If you don't feel comfortable using Terminal, or you would prefer to adjust and reduce mouse acceleration, there's a different method. This way uses System Preferences, which is more user-friendly.
 
 1. Select the Apple icon on the menu bar.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mac Desktop with the Apple icon highlighted.](https://www.lifewire.com/thmb/E4tPDXQgM-t3BVe-1vqkzuOx1V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-off-mouse-acceleration-on-mac-65030473-7ea31658e2f349e2b79c78c81e46b05f.jpg)
 2. Select**System Settings.**  
 ![Mac Desktop with System Settings highlighted.](https://www.lifewire.com/thmb/4upgb2uoG_udrV7nkf8yxSdMftQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSystemSettingscopy-e6d9512a7b5546b3bee7dc28eb422de1.jpg)

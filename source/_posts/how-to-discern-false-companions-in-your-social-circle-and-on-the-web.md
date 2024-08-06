@@ -1,7 +1,7 @@
 ---
 title: How to Discern False Companions in Your Social Circle and on the Web
-date: 2024-08-03 16:10:17
-updated: 2024-08-05 10:27:52
+date: 2024-08-05T02:34:28.495Z
+updated: 2024-08-06T02:34:28.495Z
 categories:
   - BestProducts
 description: This Article Describes How to Discern False Companions in Your Social Circle and on the Web
@@ -14,20 +14,35 @@ thumbnail: https://www.lifewire.com/thmb/BPG0-oyVnqQlit_F1hBcFS4_AOc=/400x300/fi
 
  On the other hand, there could be something wrong with your internet or Wi-Fi access or even your computer. Fortunately, there are some key ways in which you can figure out if the issue is with you or if Zoom is down for everyone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Tell If Zoom Is Down
 
  If you think Zoom is down for everyone and not just you, try these quick steps to check if you're correct.
 
 1. Check the[Zoom Service Status](https://status.zoom.us) page. The Zoom Status page is the perfect first place to look when you're thinking 'is Zoom working?' It breaks down every part of Zoom and shows you exactly what's working right now and what may or may not be suffering issues.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Zoom Service Status website](https://www.lifewire.com/thmb/xsjJn9AEj8IM-762VoY1pZUqLEg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-zoom-down-or-is-it-you-48020861-bd2d2d1c5c594f3f9c5cd8905452c9e0.jpg)
 2. Search X (formerly Twitter) for #Zoomdown. If the site is down for everyone, somebody has probably tweeted about it. Check for tweets but also pay attention to the tweet timestamps to ensure that they're not discussing an earlier time that Zoom was not working. Also, be aware that you may get other tweets that use the word 'Zoom'.  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Zoomdown hashtag on Twitter](https://www.lifewire.com/thmb/mCCAikNhS1QXv7MOkatFq-z_3z4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-zoom-down-or-is-it-you-48020862-c3a12135c8bc4f39aa933f76520a7769.jpg)  
  Can't access X? Try other major sites like Google or[YouTube](https://www.lifewire.com/youtube-tv-4155151) . If you can't view them either then the problem is almost certainly on your end or with your ISP.
 3. Use a third-party "status checker" website. Popular options include[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/zoom) ,[Downdetector](https://downdetector.com/status/zoom/) , and[Is It Down Right Now?](https://www.isitdownrightnow.com/zoom.us.html) . All of them will tell you if Zoom is working for everyone else.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Zoom Down Detector website](https://www.lifewire.com/thmb/0Bf7RZGmJ1xp-xtI_hbtssaAgrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-zoom-down-or-is-it-you-48020863-399b03ead9534498a75e1ecaa597f9b5.jpg)
 
  If no one else is reporting a problem with Zoom, then the problem is likely to be an issue on your side.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## What to Do When You Can't Connect to Zoom
 
  There are a few things you can try if Zoom seems to be working fine for everyone else, but not you.
@@ -44,6 +59,18 @@ thumbnail: https://www.lifewire.com/thmb/BPG0-oyVnqQlit_F1hBcFS4_AOc=/400x300/fi
 
  If nothing has fixed Zoom for you, you may have a problem with your internet connection. One major issue can be when you have too many devices using up your[network bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) eventually slowing down your internet so you can't use it. This can be a pivotal issue for video conferencing apps like Zoom which rely on a lot of bandwidth. However, it can be more complicated than that. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to gain further help.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Zoom Error Messages
 
  PayPal can display standard[HTTP status code errors](https://www.lifewire.com/http-status-code-errors-4165131) such as[500 Internal Server Error](https://www.lifewire.com/500-internal-server-error-explained-2622938) ,[403 Forbidden](https://www.lifewire.com/403-forbidden-error-explained-2617989) and[404 Not Found](https://www.lifewire.com/404-not-found-error-explained-2622936) , but it can also display specific error codes exclusive to Zoom. Here's the key one to know.

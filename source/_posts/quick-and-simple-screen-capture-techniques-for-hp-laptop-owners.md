@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Screen Capture Techniques for HP Laptop Owners
-date: 2024-08-05 23:16:46
-updated: 2024-08-06 11:39:40
+date: 2024-08-05T02:34:45.443Z
+updated: 2024-08-06T02:34:45.443Z
 categories:
   - BestProducts
 description: This Article Describes Quick and Simple Screen Capture Techniques for HP Laptop Owners
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 ---
 
 ## Simplified Techniques for a Quick Reboot of Your iPhone 15 - Get Started Now
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Press and hold the**Side** button and either**Volume** button. Use the**Slide to Power Off** option on the screen.
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 
  This article explains how to[restart an iPhone](https://www.lifewire.com/how-to-restart-iphone-2000288) 15\. The instructions include how to do a soft restart for a simple shut down of the device and a force restart if the first methods don't work. The steps are the same for all iPhone 15 models.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Soft Restart an iPhone 15
 
  To do a soft restart means to turn off your iPhone using the device’s options and then turn it back on. Follow these steps to restart your iPhone 15.
@@ -29,6 +35,9 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
  If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## How to Use Settings to Restart iPhone 15
 
  If you’re having trouble using the device’s buttons to restart your iPhone 15, you can use the onscreen option instead. This method is also considered a soft restart.
@@ -36,10 +45,18 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 1. Open the**Settings** and select**General** .
 2. At the bottom, choose**Shut Down** .
 3. Drag the**Slide to Power Off** option to the right.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![The iPhone Settings app with General, Shut Down, and power switch highlighted.](https://www.lifewire.com/thmb/qkqSasRdubWydWHUBG5CkQeJstI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Turn-Of-iPhone-15-Pro-in-Settings-6be83e8413504c42b9bc2f146153f7da.jpg)
 4. To turn your iPhone back on, press and hold the**Side** button on the right.  
  Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Turn Off an iPhone 15 With Siri
 
  While Apple's virtual assistant wasn't always able to power off your iPhone, it can now. Hold the side button or use the voice command "**Siri** /**Hey, Siri** " to activate the assistant, and then say something like:
@@ -50,6 +67,9 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 
  Siri will confirm that you want to power down your phone; select**Power Off** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Force Restart an iPhone 15
 
  When you can’t use the above methods to restart your device, or if your iPhone 15 isn’t responding at all, you can force it to restart. This is called a force restart, force reset, or hard reset.

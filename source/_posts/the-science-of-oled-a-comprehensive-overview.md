@@ -1,7 +1,7 @@
 ---
 title: The Science of OLED - A Comprehensive Overview
-date: 2024-08-04 19:53:11
-updated: 2024-08-05 11:40:23
+date: 2024-08-05T02:34:21.424Z
+updated: 2024-08-06T02:34:21.424Z
 categories:
   - BestProducts
 description: This Article Describes The Science of OLED - A Comprehensive Overview
@@ -15,6 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/1ZTXrz-n58WPCIn3ootKgux8wNc=/540x405/fi
 
 ## Apple TV 4K (3rd generation)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Apple TV 4K (3rd generation) in black.](https://www.lifewire.com/thmb/PMWiO3uK4kAyMWonTkcJc4jYtns=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-TV-4K-square-e1e058e7be4144b6a86af259c527fca2.jpg)
 
 Apple
@@ -36,6 +39,9 @@ Apple
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Apple TV 4K (3rd generation)
 
 ![Apple TV 4K (3rd generation) in black.](https://www.lifewire.com/thmb/E9ToYu7OFmeMsIjBWnuzcAh6msA=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-TV-4K-square-e1e058e7be4144b6a86af259c527fca2.jpg)
@@ -62,18 +68,27 @@ Apple
 
  The 3rd-generation Apple TV 4K sports the company's A15 chip (the previous version had the A12), so there's a definite bump in speed. The unit is smaller and lighter than the earlier version. The[Siri remote](https://www.apple.com/shop/product/MNC73AM/A/siri-remote?fnode=258edd37bcbf2e59b54e4550bd47400b8141f5ead7d8e35942c4c4fc0665243cad510ef9986ee74b4ba4c40c28f229c3c01f602f14ed6c8c4d38856b532ec76858b83df2cb6d50f38de7f589e180ddbf2812fc6f12854c98c1ae402b8d9d1e35) is nearly the same, except for its USB-C port.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple TV 4K (2022) remote.](https://www.lifewire.com/thmb/lkClgCak0JXERQFXBIvUTkArBYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-TV-4K-Siri-Remote-close-up-221018-beeb95c52a6043408f96630ca39f037c.jpg)
 
 Apple
 
  Its price dropped by $50, from $179 to $129\. Like previous Apple TVs, this model runs on[tvOS](https://www.lifewire.com/what-is-tvos-4690282) , which is regularly updated.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Setup: Nearly automatic if you have an iPhone handy
 
  If you have an iPhone, the setup is simple. Plug the Apple TV 4K in, connect it to your TV, select the appropriate input, and follow the prompts on your phone. It took us only a few minutes to get up and running.
 
  You can play around with color balance and other settings from your phone, and then you need to download and sign into your apps.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Performance: Silky smooth
 
  As expected, it's responsive, and the interface is better than the smart TVs I've used.
@@ -84,6 +99,9 @@ Apple
 
  It would be nice if there were a Home button. The TV button goes straight to the Apple TV app rather than the home screen. It does have a dedicated mute button, though.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Who Should Buy This?
 
  There's no real need to upgrade if you have a second generation that's still going. Anything older, then do. If you don't own an Apple TV but use Fitness+ quite a bit, it's a good investment. (We use it for at-home yoga. It also has games, recipe apps, and more.

@@ -1,7 +1,7 @@
 ---
 title: "Key Decisions: A 9-Point Guide for Prospective Electric Car Buyers"
-date: 2024-08-05 15:54:58
-updated: 2024-08-06 12:42:24
+date: 2024-08-05T02:35:12.860Z
+updated: 2024-08-06T02:35:12.860Z
 categories:
   - BestProducts
 description: "This Article Describes Key Decisions: A 9-Point Guide for Prospective Electric Car Buyers"
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
 [  8 Things to Consider Before Buying a Used EV ](https://www.lifewire.com/considerations-before-buying-a-used-ev-5201623) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Would You Prefer a Quieter Driving Experience? 
 
  EVs are so silent that they must make warning sounds so pedestrians can hear them approaching. At any speed, there is no engine making a racket and no exhaust bellowing through the cabin. There are no vibrations from the drivetrain, either. Instead, EVs emit a faint whirring sound that rises in pitch the faster you go. 
@@ -53,12 +56,18 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  This is the most critical question to answer. Many people living in an apartment, townhome, or a condominium have no access to a charging station that they and only they can use. Installing a charging station in these locations requires approval from a landlord, building owner, or a homeowner association and access to private off-street or garage parking. 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Would You Like Being Paid (sorta) to Own an EV? 
 
  If a charging station is installed for an entire development, keep in mind that you would be sharing it with neighbors and visitors. Basically, if you don't have your own garage, owning an EV could be a tremendous hassle, if not impossible. 
 
  Most EVs require at least eight or more hours to replenish a battery on standard Level 2 (208-240 volt) or Tesla Wall Connector (200-240 volt) chargers. You only need to recharge as much as you feel comfortable for your upcoming drive; charging to 100 percent isn't always necessary. But don't think you can rely on a 120-volt charger that plugs into a household outlet. Paint dries a lot quicker.  
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Can You Charge Near Your Home? 
 
 ![A map of charging stations according to the PlugShare app.](https://www.lifewire.com/thmb/HA5E_pp4YSheZCnHA4kKNCXgRAA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PlugSharemap-80f232aa5e2c461e865272623a111346.jpg) 
@@ -73,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  Tesla Superchargers are the most stress-free and in the most convenient locations, like at highway rest stops next to gas station pumps. They can only charge a Tesla, but their ease of use and fast speeds make them the best network of any EV. (**Ed. note** : Tesla is opening its SuperCharger network to non-Tesla owners in late 2021.)  
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Far Do You Drive Each Week? 
 
  Most EVs are EPA-estimated to drive between 80 and 400 miles. That gives you a big choice of vehicles. 
@@ -91,12 +103,18 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
 [  How Well Do EVs Work in Extreme Cold or Heat? ](https://www.lifewire.com/how-well-do-evs-work-in-extreme-cold-or-heat-5202163) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ##  Do You Have Access to Alternate Transportation? 
 
  Backup transportation is essential, be it another car or a bus, train, or bicycle. EVs can require significant downtime when recharging; that can complicate your personal schedule or prevent you from going anywhere. 
 
  In an emergency, you might not be able to rely on an EV when time is of the utmost importance. Even for fun last-minute trips, your EV might not have enough range to reach the destination. A car should not restrict your mobility; it should be a tool to make your life easier, not to cause unwanted stress.  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Do You Like Accelerating Hard? 
 
  Electric motors produce all of their torque once they engage. In other words, if you floor the accelerator pedal, an EV will accelerate quickly—considerably more than in a comparable gas-powered car. 

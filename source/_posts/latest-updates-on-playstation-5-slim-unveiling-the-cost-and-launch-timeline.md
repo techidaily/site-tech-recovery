@@ -1,7 +1,7 @@
 ---
 title: Latest Updates on PlayStation 5 Slim – Unveiling the Cost & Launch Timeline
-date: 2024-08-03 15:22:59
-updated: 2024-08-06 10:15:15
+date: 2024-08-05T02:34:32.954Z
+updated: 2024-08-06T02:34:32.954Z
 categories:
   - BestProducts
 description: This Article Describes Latest Updates on PlayStation 5 Slim – Unveiling the Cost & Launch Timeline
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/vlIv_3iTK-DDHacZqiUmDg2fOTg=/400x300/fi
 
  The PS5 Slim is now the standard model of the PlayStation 5 that is 30% smaller than the launch edition. Here's everything we know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  When Was the PS5 Slim Released? 
 
  Sony revealed the PS5 Slim officially on October 10, 2023\. It launched in November 2023.
@@ -40,6 +43,10 @@ Sony
 
 [  Here's what we think the PS5 Pro will cost ](https://www.lifewire.com/playstation-5-pro-7966359) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  PlayStation 5 Slim Features & Specs 
 
  Per Sony, the new PS5 is more than 30% smaller (by volume), and 18 or 24% lighter (depending on model) than the original version. Rather than the current PS5's two side panels, the new ones have four: The top two are glossy, while the bottom ones are the same matte finish as the current lineup.
@@ -50,10 +57,17 @@ Sony
 
  The general specs remain basically the same; the chips may just be slightly smaller to allow for the slimmer form factor.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![The new PS5 with the side panel removed](https://www.lifewire.com/thmb/LcAwBA_R8RGMc2UJ9cPM-tGd-LI=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-side-panel-27489245d8f94d12a9aa30ca3077ecd1.jpg) 
 
 Sony
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Latest News About the PS5 Slim 
 
  You can get[ all the latest gaming news here at Lifewire](https://www.lifewire.com/gaming-news-4797039) . Here are some stories about the PlayStation 5.
@@ -64,10 +78,16 @@ Sony
 
 [ The Best Gaming Consoles of 2024 ](https://www.lifewire.com/best-gaming-consoles-4154610) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### PS5 Slim w/ Disc Drive 
 
  Orig.$500 [ $450 at Best Buy ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fplaystation-5%2Fps5-consoles%2Fpcmcat1587395025973.c%3Fid%3Dpcmcat1587395025973) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### PS5 Slim Digital Edition 
 
  Orig.$450 [ $399 at Amazon ](https://www.amazon.com/PlayStation%C2%AE5-Digital-slim-PlayStation-5/dp/B0CL5KNB9M/ref=sr%5F1%5F1?rnid=2528832011&s=videogames&crid=3K7X5HLPOFM3N&keywords=ps5+slim&sprefix=ps5+slim%2Cvideogames%2C193&dib%5Ftag=se&ufe=app%5Fdo%3Aamzn1.fos.18630bbb-fcbb-42f8-9767-857e17e03685&tag=lifewire-onsite-prod-20&dib=eyJ2IjoiMSJ9.CuKLfIhDdkg5mAyBeIsW8W184dwhEUzNMW1LWJQEoD1X7kthQsfrW9wtlrzivIgIGGSsFl-e9vuWt2vc10e5QdZFo2hsLYqMfv8TqPWEjIlwj1RkoJiPFp1VL7dCSUjiH1p24NEtZ5AwHhvp975VZYqpocHmbAENpvl9vLAsdk-AG7tw55aza78qmxCfAh3oY%5FDmPdi4E5ADmJ%5Frmv4N9cFHi7pZKxvgdThaE5gmTb4.XtoZjoBunoajSRe8SuP%5FTI9elmQ6UYuqrxHbVzJvUoM&qid=1717701937&refinements=p%5F89%3APlayStation&sr=1-1&ascsubtag=7966360%7Cn0d86891ff0e04630ae542ea8bcce785e08%7C)

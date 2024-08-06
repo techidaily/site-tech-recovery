@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide on How to Access the PlayStation Network Portal
-date: 2024-08-03 14:44:31
-updated: 2024-08-06 12:12:29
+date: 2024-08-05T02:35:00.848Z
+updated: 2024-08-06T02:35:00.848Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Guide on How to Access the PlayStation Network Portal
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/cnQJ0qCLjePL0ilSV7glUnlHTlM=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Computer: Open the[ Create an Account](https://www.playstation.com/acct/create-account) page, select**Create** , and then provide your information.
@@ -28,8 +31,14 @@ Close
 1. [ Open the Create an Account page](https://id.sonyentertainmentnetwork.com/create%5Faccount/) at Sony Entertainment Network and select**Create** .  
 ![Sony's Create an Account page](https://www.lifewire.com/thmb/raOATsWtfBU8z8SPscy9mCUEB2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-create-an-account-2f57defce49c47d5af9266b7e10ae8fc.png)
 2. Select your country from the drop-down menu, choose your language, and fill out the other details in the form. Press**Next** when you're done.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![](https://www.lifewire.com/thmb/GoTPrUemYlhkZ2AnGGzlKrXnEeM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-create-account-form-224afd6df9f647f9a9e6ff9b048f2cc9.png)
 3. Enter your date of birth into the appropriate boxes and then press**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Month, Day, and Year drop-down boxes in Sony's Create an Account form](https://www.lifewire.com/thmb/p2Y_DXgod2kb-QvyUqcf-00CXPA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-new-account-form-birthday-a44f37e111614c718271194bd265f53c.png)
 4. Enter your email address and create a password for your new PSN account.  
 ![The email address and password fields in Sony's Create an Account form](https://www.lifewire.com/thmb/X1hVLrMjPuhbmsoaRXZZKvK8g0o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-psn-account-password-b43b3c345b1c493d8e4e9489b6cf3cea.png)  
@@ -42,6 +51,9 @@ Close
 8. Choose the **Online ID** that others will see when you play online games, then fill out the rest of the form with your name. Click**Next** .  
 ![The Online ID selection for a Sony account](https://www.lifewire.com/thmb/rHTWJ2pmuBXvVB-IMp0Ss_JSnow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-create-online-id-4b46a0fd3692410f998fdab3d2699dcb.png)
 9. You'll see a success message when you're finished setting up your account.  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The 'Your account was successfully created' message after making a new Sony account](https://www.lifewire.com/thmb/NXuJ6hNm2d50kNWmozmwbGFxTJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/new-sony-account-6ce65f96d26041238cf3dfe92ef2848d.png)
 
 ##  How to Create a PSN Account on a PS5 
@@ -49,6 +61,10 @@ Close
  If you already have a PSN account on your PS4, you can log in using the same account on your PS5 console. If you don't have an account, you can create a new one directly from your PlayStation. Here's how:  
 
 1. Go to the Home screen and select**Add User** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Add User on the PS5 Home screen](https://www.lifewire.com/thmb/6tNr9Kti7W32BzcuxYdnGoL158w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_create-a-playstation-network-account-4103872-d17e44953787474584393f85140580aa.jpg)
 2. Select**Get Started** .  
 ![Get Started on PS5 Add User screen](https://www.lifewire.com/thmb/F_Mzc8ImkVSJiUxVGKO5PFc2x8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_create-a-playstation-network-account-4103872-274ce8de221a45629028239fff098456.jpg)
@@ -74,6 +90,9 @@ Close
 
 [  Is PlayStation Network Down... Or Is It Just You? ](https://www.lifewire.com/is-ps-network-down-8629174) 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Create PSN Account on a PS4 
 
  Here's how to make a PSN account on a PlayStation 4:
@@ -83,14 +102,52 @@ Close
 2. Select **Create a User** and then choose**Accept** on the User Agreement screen.  
 ![Create a User button on PS4 ](https://www.lifewire.com/thmb/Mu3kot6ZAEjWvpKljkbTm9FEqBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-PlayStation-Network-Account-ba8568f4a1404903930630bca2ebc8bf.jpg)
 3. Select**Next** on the following screen.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Next button on PlayStation Network screen on PS4](https://www.lifewire.com/thmb/rKbKOXNyuaeNklLUWx8Hfjc6iSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-PlayStation-Network-Account-e2bf24813ee042578656e919f74ad100.jpg)
 4. Choose**New to PlayStation Network? Create an Account** .  
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![New to PlayStation Network? Create an Account button on PS4](https://www.lifewire.com/thmb/u1DnXp_IiMQQdD-lFQ77FL60ukc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C4-PlayStation-Network-Account-f72370b32efd449db28a24f337e4563b.jpg)
 5. Follow the on-screen instructions to submit your location information, email address, and a unique password, moving through the screens by selecting**Next** .  
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Next button on personal information page to Join PlayStation Network on PS4](https://www.lifewire.com/thmb/WQaFU6nFKWdtRn0BmIMOl2Brkrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C6-PlayStation-Network-Account-871760a388ad46c7b00c3e387dad19cd.jpg)
 6. Choose an avatar. You can change this at any time in the future.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Avatar selection page to Join PlayStation Network on PS4](https://www.lifewire.com/thmb/ILr_ZPuwA4cEG2zm_liZbj8giIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_create-a-playstation-network-account-4103872-5bc7a3af46e0fb00262eb465.jpg)
 7. Enter the username you want to be identified as to other gamers. Also, fill out your name, but remember it'll be public. Press**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Online ID page on Join PlayStation Network on PS4](https://www.lifewire.com/thmb/28P8pjxAiLBd8UqhE0gZ4s-3R0o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C8-PlayStation-Network-Account-3bf43d4c2b4f480ebd9bce56822fe718.jpg)
 8. The next few screens let you set your privacy settings. You can pick**Anyone, Friends of Friends, Friends Only,** or**No One** for each specific activity**.**
 9. Select**Accept** on the final screen to accept the terms of service and user agreement.  

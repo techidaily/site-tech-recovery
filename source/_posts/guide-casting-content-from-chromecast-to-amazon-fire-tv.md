@@ -1,7 +1,7 @@
 ---
 title: "Guide: Casting Content From Chromecast to Amazon Fire TV"
-date: 2024-08-04 21:35:30
-updated: 2024-08-05 12:35:46
+date: 2024-08-05T02:35:00.653Z
+updated: 2024-08-06T02:35:00.653Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Casting Content From Chromecast to Amazon Fire TV"
@@ -21,25 +21,43 @@ thumbnail: https://thmb.techidaily.com/855361452192f3b7b7e7e407da45b95275a5f560d
 2. A message will pop-up warning that you'll be redirected to SheerID for verification. Click**CONTINUE** .  
 ![Signing up for the YouTube Premium Student Discount](https://www.lifewire.com/thmb/krc_P8NRwLzkc5h633qem4DYpjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent2-ac9d06f65a8a46d8958e9682d297a560.jpg)
 3. Fill in your country, university (options will populate as you type), first and last name, date of birth, and email address. Check the box to agree to the verification process.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/RbANARHcGpEqx7ykFJQlw7ekb88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent3-a3e301e3cb8145d0af9590f894384169.jpg)
 4. Click**NEXT** .  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/7tGfuyn3esdJ6s8C_cTF0COO_i0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent4-7c7525111bd04feca4169668a01cd7fa.jpg)
 5. Sometimes SheerID needs more information like a scan of your student ID, transcript, or other documentation from your university. Upload the files and click**SUBMIT** . YouTube says you'll get an email notification about your status within 20 minutes if you live in the U.S., and within 48 hours if you live elsewhere.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/07ZCByqXzt1wu2K99BIv8tMj010=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent5-2a7e2d362d164245b62e94a36e7b923b.jpg)
 6. If the verification is successful, SheerID will redirect you back to the YouTube Premium sign-up page. You might need to log into your YouTube account.
 7. Click your profile picture.
 8. Select**Paid memberships** and follow the on-screen prompts.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/-WpwGJr3fmxf4xJ9IARe9kgVYiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent6-1b4b0214a68a4ab9849880fcedaff3b3.jpg)
 9. Click**LEARN MORE** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/1tWG3IuFBa1j6bGZYup9DK1N9a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent7-38cbeb35f7d9480d81a44d3d8ddc4a18.jpg)
 10. Choose a payment method or add a new one. Click**START 1-MONTH TRIAL** . After the first month, YouTube will start billing you.  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/A_h1uMjvVexpll2JqR730jpwQQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent8-4fe99ffd2800473d83a5e2610d0623a0.jpg)  
  This screen is for the regular free trial. You will click 1-MONTH TRIAL.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who Is Eligible for a YouTube Premium Student Discount?
 
  Students can sign up for a YouTube Music Premium or YouTube Premium membership at a discount. Students must be enrolled full-time at an eligible higher education institution in the U.S. and 60-plus other countries to qualify. The discounted subscriptions are valid for up to four years, and students must re-verify their eligibility each year. A company called SheerID does the verification.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## What Does the YouTube Premium Student Discount Include?
 
  Students get a 1-month free trial and pay about half of the monthly subscription amount. The membership includes the same benefits as a non-discounted membership. Members get access to both YouTube and YouTube Music Premium, ad-free videos and music, video and music downloads for offline viewing and listening, and the ability to play videos in the background while using other apps or when your screen is locked.

@@ -1,7 +1,7 @@
 ---
 title: "Detailed Overview: Assessing Features & Usability of Line App"
-date: 2024-08-03 16:54:21
-updated: 2024-08-05 12:52:14
+date: 2024-08-05T02:34:14.740Z
+updated: 2024-08-06T02:34:14.740Z
 categories:
   - BestProducts
 description: "This Article Describes Detailed Overview: Assessing Features & Usability of Line App"
@@ -12,8 +12,14 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 ## Detailed Overview: Assessing Features & Usability of Line App
  Line offers free Voice over IP calls, video calls, and instant messaging. It has earned a strong reputation as an[alternative to WhatsApp](https://www.lifewire.com/line-vs-whatsapp-comparison-3426587) . It has overtaken apps like[Skype](https://www.lifewire.com/what-is-skype-3426903) in a number of registered and active users, with an estimated global user base of roughly 84 million.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Core Features of the Line App
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![LINE app logo](https://www.lifewire.com/thmb/T9ZwLGRTmm3z2P4otHRuFzURwY4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/line-app-logo-ccdacd0f7c344b3d9d4847edcb90733d.jpg)
 
  Naver Japan Corp. / Wikimedia Commons
@@ -26,8 +32,15 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 
  You can organize group messages with up to 100 people at once. There are many ways of adding friends, including shaking the respective phones close to one another. You can also use QR codes to quickly add friends.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Line App](https://www.lifewire.com/thmb/n5UychPYoFk77SxjumwpaNjHfZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheLineAppiOS-57cd24fca3574f079fdf51c33c30e672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Supported Devices and Setup
 
  Line works on iOS (iPhone, iPad, and iPod touch), Android, and BlackBerry devices. It is also available for Windows PCs and on macOS.
@@ -40,12 +53,18 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 
  Line asks you to create a display name (up to 20 characters). You can then choose if you want others to be able to add you as a friend. (If you do not, uncheck the box at the bottom.)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Official Accounts Terms of Use
 
  Official accounts on Line are run by businesses and organizations. Interacting with them requires acceptance of the Official Accounts Terms of Use. When you add an official account as a friend or interact with one, the official account obtains access to view your profile information. This includes your display name, profile media, status message, and your internal identifier, which is a unique character string given to users upon signing up.
 
  If you choose**Cancel** , you will not be able to interact with or add official accounts, which include news outlets like CNN, TechCrunch, and Wikipedia, as well as celebrities. Each time you attempt to interact with an official account, you'll receive the Official Accounts Terms of Use verification prompt. The Line system is considered an official account, so any messages from Line prompt you to accept this additional agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Calls to External Numbers
 
  Use Line to call people who are not on the Line app via mobile or landline numbers. These calls are not free. Instead of paying for expensive mobile minutes, you'll use your Line credits to call on VoIP. This service is called Line Out.[Rates](https://linecorp.com/en/pr/news/en/2023/4529) are generally affordable but vary depending on where you are calling.

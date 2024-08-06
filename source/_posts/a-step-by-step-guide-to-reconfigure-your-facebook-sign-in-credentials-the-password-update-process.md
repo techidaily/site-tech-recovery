@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Reconfigure Your Facebook Sign In Credentials – The Password Update Process
-date: 2024-08-05 20:43:27
-updated: 2024-08-06 10:29:26
+date: 2024-08-05T02:35:16.177Z
+updated: 2024-08-06T02:35:16.177Z
 categories:
   - BestProducts
 description: This Article Describes A Step-by-Step Guide to Reconfigure Your Facebook Sign In Credentials – The Password Update Process
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/fC3FFuXgcwMfCYoozV0-LLkatYE=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Select**Settings & privacy** \>**Settings** \>**Accounts Center** \>**Password and security** \>**Change password** .
@@ -20,6 +23,10 @@ Close
 
  This article explains how to change your password on Facebook. It covers how it works if you're already logged in and how to reset your password if you can't log in.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  How to Change a Facebook Password 
 
  Follow these steps to change the password for Facebook from a desktop web browser. These directions also work for the mobile app, but the screenshots are of the Facebook website.
@@ -27,12 +34,21 @@ Close
 1. Select your**profile picture** in the upper-right corner and then select**Settings & privacy** \>**Settings** .  
 ![The Facebook Settings & Privacy menu on the desktop website](https://www.lifewire.com/thmb/SMMvCbd25dbJLRM4YANnY9bLSc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-menu-27c5716e092f448dbc0c94f55639d65f.png)
 2. Select**Accounts Center** .  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Settings & Privacy options on the Facebook website](https://www.lifewire.com/thmb/Tq42kc5o7IIlwPV-GSqIGAojePE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-settings-and-privacy-80108829b2ef49bca3b00fb43b454834.png)
 3. Go to**Password and security** \>**Change password** .  
 ![Facebook's Password and Security settings on the desktop website](https://www.lifewire.com/thmb/WWgqsfDlUYMSVGuQcZg2-zeM-ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/password-and-security-settings-facebook-5ad406bf54d145788b0c899ab2cbc0a4.png)
 4. If you see a prompt for selecting your account, choose the one that says**Facebook** .  
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Change Password account selection prompt on the Facebook website](https://www.lifewire.com/thmb/Ts6nikTDl0R7JdQMJLNiftGh4jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/change-password-facebook-e0eb58b15dcc49a883560e4e7c0f0dc2.png)
 5. Enter your current password in the first box, followed by the new password in the next two boxes.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Facebook's Change Password window with a password written in each text box](https://www.lifewire.com/thmb/CMkp4DHvJpria5CJ9e79zCMiH3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/change-facebook-password-1a80a23ace68437fb60467582b796428.png)  
  Try your best to[ make a strong password](https://www.lifewire.com/how-to-create-a-strong-password-4783955) and ensure that it isn't used for any of your other online accounts. If it's too tough to remember, you can store it in a[ password manager](https://www.lifewire.com/what-is-a-password-manager-4768616) .
 6. Select**Change password** to finish up.
@@ -46,6 +62,14 @@ Close
 2. Select**Log In** .  
 ![The Facebook login page](https://www.lifewire.com/thmb/k3iTAKzTt7NG7jsJRN5K7Fq0A3c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-login-page-4be9a5fd053244959a1e87d0525e743b.png)
 3. Select**Forgot password?** at the bottom of the login screen (not the one in the red text).  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![The wrong password entered into the Facebook website](https://www.lifewire.com/thmb/lz-GSJl4UjMdDHlKn-7EWxl8i4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-wrong-password-7f9fd1a50af5490eb71128dd1b4a9dd8.png)
 4. Choose**Try another way** .  
 ![The password field on the Facebook website](https://www.lifewire.com/thmb/QmP3mcvtkyq88ygpIW_skXucLa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-login-prompt-d3707554b85a48eda076c3bf8256fad8.png)
@@ -57,8 +81,14 @@ Close
 7. Enter the password reset code into the box and press**Continue** .  
 ![A password reset code entered into Facebook ](https://www.lifewire.com/thmb/Lo_QxAB1YYOUQ5o2k-sU1Ra5P_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-enter-code-b67dab93ad6146e2a00547b3d5ca6afc.png)
 8. Enter a new Facebook password and then select**Continue** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A new password chosen for Facebook](https://www.lifewire.com/thmb/25ewyh5FarwpWvKuHxT8ZeVfvaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/new-password-facebook-363d093c12864b648c77b4eb1e51a160.png)
 9. If you see a prompt about approving the login request, follow the on-screen directions, such as using your[ authenticator app](https://www.lifewire.com/what-is-an-authenticator-app-8634672) , to log in with your new Facebook password.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Facebook's Choose a Way to Confirm It's You prompt](https://www.lifewire.com/thmb/KBH3gXLQ3wYdyHXchPMgP9U_DLA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-confirm-its-you-a7d3b56c33334b5ba135517ed3a59599.png)
 
  Has your Facebook account been hacked? You might be able to[ recover your Facebook account](https://www.lifewire.com/help-my-facebook-account-has-been-hacked-2487299) if you take a few steps to get things cleared up.

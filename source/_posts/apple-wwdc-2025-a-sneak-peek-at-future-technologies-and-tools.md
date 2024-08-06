@@ -1,7 +1,7 @@
 ---
 title: Apple WWDC 2025 – A Sneak Peek at Future Technologies and Tools
-date: 2024-08-04 15:36:16
-updated: 2024-08-05 11:23:20
+date: 2024-08-05T02:34:55.611Z
+updated: 2024-08-06T02:34:55.611Z
 categories:
   - BestProducts
 description: This Article Describes Apple WWDC 2025 – A Sneak Peek at Future Technologies and Tools
@@ -44,6 +44,9 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 
  The Worldwide Developer Conference (WWDC) is always free to attend online, with a free stream of the event directly from Apple's website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Expected Product Announcements
 
  At WWDC 2025, we expect a full roster of software announcements for iOS, iPadOS, macOS, and others. Apple typically announces the new software and opens betas before the new operating systems launch in the fall.
@@ -61,6 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 
  Apple's announcements at WWDC 2024 covered almost its entire product line. Here are some highlights:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Apple Intelligence
 
  We'd long heard rumors about the so-called[Apple GPT](https://www.lifewire.com/what-is-apple-gpt-7571221) , and it's coming in the form of Apple Intelligence. This platform will launch in beta form this fall (probably alongside the rest of the OS updates) and will work across and with iPhone, iPad, and Mac. Here are the compatible devices:
@@ -79,6 +85,9 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 
  As for what Apple Intelligence does? It can do text and image generation, interact with ChatGPT, and study your habits to make Apple's various operating systems more efficient.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Craig Federighi presenting Apple Intelligence at WWDC 2024](https://www.lifewire.com/thmb/BefGKFzBYosp9OtqdyiAXeMzGYs=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Intelligence-splash-6ac7ec605d574e898ce65ba1ab424e42.jpg)
 
 Apple, Inc
@@ -95,6 +104,9 @@ Apple, Inc
 
  The iPad is getting the same updates to Photos, Messages, and more as iOS.[iPadOS 18](https://www.lifewire.com/ipados-18-8558715) also has its own upgrades, like a Notes app that will clean up your handwriting. The refined Calculator app will also show a history of your calculations and solves equations as you type or write them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### macOS 15 (Sequoia)
 
  Macs will also get some new abilities with[macOS 15, named Sequoia](https://www.lifewire.com/macos-15-8557761) . The big news here is iPhone integration. You can get app notifications directly on your Mac and even run your phone directly from the bigger screen.
@@ -113,6 +125,10 @@ Apple, Inc
 
  The virtual monitor that provides a workspace when you're wearing the Vision Pro is also getting bigger and higher-resolution, equivalent to two 4K monitors placed side-by-side.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### watchOS 11
 
  Finally, there's[watchOS 11](https://www.lifewire.com/watchos-11-8552217) , which powers Apple's line of smartwatches. They're getting similar customization options to iOS and iPadOS, including text, font size, and color. The Translate app is also moving to your wrist, and it works with 20 languages.
@@ -123,6 +139,9 @@ Apple, Inc
 
  Finally, the Training Load option is for athletes preparing for events. It keeps an eye on your workouts and identifies trends to make sure you're making progress and not overdoing it.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About Apple
 
  While you can always [read the latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest involving Apple in particular.

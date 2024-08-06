@@ -1,7 +1,7 @@
 ---
 title: "Top 17 Graphic Design Tools: A Comprehensive Guide"
-date: 2024-08-03 19:48:41
-updated: 2024-08-06 11:25:29
+date: 2024-08-05T02:34:04.973Z
+updated: 2024-08-06T02:34:04.973Z
 categories:
   - BestProducts
 description: "This Article Describes Top 17 Graphic Design Tools: A Comprehensive Guide"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
  This article explains how to delete a Yahoo account from a web browser.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Delete a Yahoo Mail Account
 
  You can shut down your entire Yahoo account and revoke access to your email address, remove all your emails, and prevent people from messaging you. This is possible through the Privacy Dashboard:
@@ -27,11 +30,38 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 1. [Open Yahoo Mail](https://mail.yahoo.com/) and log in if asked.  
  You can[recover your forgotten Yahoo password](https://www.lifewire.com/recover-yahoo-password-1174485) if you're not sure what it is.
 2. Hover over your name at the top right of the page and select**Manage your account** from the menu.  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Yahoo Mail menu showing the Manage your account link](https://www.lifewire.com/thmb/JdqCJ9mVz02xTyooT2W1i0vfh8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-menu-4a8ea92f4deb4b0c9229c9c24ed4c1c9.png)  
  If you're paying for any Yahoo subscription services, cancel those now to avoid unexpected payments;[open My Subscriptions](https://mysubscriptions.yahoo.com/) to see if you have any active subscriptions.
 3. Click**Privacy controls** at the top.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![The Yahoo Mail account overview page showing the Privacy controls link](https://www.lifewire.com/thmb/XEno_dNrKM6NBukWJoOSU7d_kG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-account-overview-30181da72ca746cca757640663eac4a2.png)
 4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
 5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
 ![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
@@ -41,10 +71,17 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
  In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### How to Cancel a BT Yahoo Mail Premium Account
 
  If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## What Does It Mean to Delete a Yahoo Mail Account?
 
  Deleting Yahoo Mail is only possible if you delete the whole Yahoo account. This means, of course, that your emails will get removed, but you'll also lose access to your [My Yahoo](https://my.yahoo.com/) settings, calendars, Yahoo Fantasy teams, Yahoo Finance portfolios, and any other data stored in Yahoo's services.  

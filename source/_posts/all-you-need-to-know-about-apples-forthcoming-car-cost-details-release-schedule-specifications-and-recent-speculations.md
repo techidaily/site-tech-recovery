@@ -1,7 +1,7 @@
 ---
 title: "All You Need to Know About Apple's Forthcoming Car: Cost Details, Release Schedule, Specifications, and Recent Speculations"
-date: 2024-08-03 21:24:54
-updated: 2024-08-05 11:26:43
+date: 2024-08-05T02:35:07.598Z
+updated: 2024-08-06T02:35:07.598Z
 categories:
   - BestProducts
 description: "This Article Describes All You Need to Know About Apple's Forthcoming Car: Cost Details, Release Schedule, Specifications, and Recent Speculations"
@@ -41,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/00c43aac4ac36494822026f46081d40ded4f30b2a
 * In 2023,[ Ming-Chi Kuo surmised](https://twitter.com/mingchikuo/status/1707091228528201754) that "the development of the Apple Car seems to have lost all visibility" and doubts that the car will enter mass production even within the next few years.
 * In 2024, Bloomberg reported on Apple's plans to[ delay the car's launch until at least 2028](https://www.bloomberg.com/tosv2.html?vid=&uuid=5fcc037a-db73-11ee-bb95-8a0d88c2ae76&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wMS0yMy9hcHBsZS1jYXItZXYtc2V0LXRvLWRlYnV0LWluLTIwMjgtd2l0aC1saW1pdGVkLWF1dG9ub21vdXMtZHJpdmluZw==) .
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  If Apple wants to make their car idea happen, we could see a revival by 2028 or 2029\. But it'll only happen if they can strike a deal with Rivian or another car company.
@@ -65,6 +68,9 @@ Vanarama
 
  Exploring the Apple car features isn't something anyone can do because nothing was ever officially announced. But since smart cars are already on the roads today, we're not totally in the dark when we guess what could have been included in Apple's car.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Self-Driving 
 
  One rumor is that Apple would make a fully autonomous car. If you're familiar with the Society of Automotive Engineers,[ SAE calls this Level 5](https://www.sae.org/blog/sae-j3016-update) . At most, this means no pedals and no steering wheel._Full_ automation.
@@ -99,6 +105,9 @@ Vanarama
 
  According to Mark Gurman, Apple played with the idea of the car having seating where the passengers face each other, similar to the setup in the electric vehicle startup[ Canoo's Lifestyle Vehicle](https://www.canoo.com/canoo/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Canoo Lifestyle Vehicle rear lounge seating](https://www.lifewire.com/thmb/MbfMZiAe5CjoTAbib9NM6GF0llQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/key-4-e8b0605712f24e2e9ea9f995de1812e1.jpg) 
 
  Canoo Lifestyle Vehicle rear lounge seating. 
@@ -107,6 +116,9 @@ Canoo
 
  In that car's iteration of this setup, it's just the backseat passengers riding in this kind of luxury. It's known that[ EVs are roomier than other vehicles](https://www.lifewire.com/why-evs-are-roomier-5202177) , and an even more comfortable picture is painted when you consider the "driver" here doesn't need to be driving or monitoring the road full time, so the front seats could just as easily spin so you can stretch your legs and face everyone at once, no rearview mirror required.[ Apple was granted a patent in 2022](https://www.patentlyapple.com/patently-apple/2022/01/apple-won-two-project-titan-patents-today-covering-a-futuristic-multi-linkage-vehicle-door-hinge-vehicle-seat-with-reclinin.html) for a vehicle seat with a reclining mechanism.  
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple Car concept](https://www.lifewire.com/thmb/yuMXwEwEQAzyjbSQ8ylet0M1fIY=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-car-interior-concept-seats-9e3296e29e3a4d3698d7efa0bb2ddb0c.jpg) 
 
  Seating concept for Apple Car. 
@@ -121,6 +133,9 @@ Vanarama
 
  It would have most likely used a modified version of iPadOS (perhaps CarOS?) with Apple Maps, Apple Music, Siri, etc., and work similarly but with vehicle-specific toggles.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Tesla Model S interior](https://www.lifewire.com/thmb/NPVBJ4YfqwxOgEUAKGACGcEjaGI=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/tesla-model-s-interior-b6b6f02203a341b99b65090f8fe733a0.jpg) 
 
 Tesla Model S interior. 
@@ -144,6 +159,9 @@ Tesla
 > Apple is creating a "monocell" design that will bulk up the individual battery cells and free up space inside the battery pack by removing pouches and modules that hold battery materials. This will allow for more active material in a smaller package. The battery technology has been described as "next level" and similar to "the first time you saw the iPhone."
 
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Apple Car concept](https://www.lifewire.com/thmb/M9abZPEjS52BrY3qgbZa-vA-Vq0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-car-concept-abb59470e0974eb9a6b12697b8f84f04.jpg) 
 
  Apple Car exterior concept. 
@@ -152,6 +170,9 @@ Vanarama
 
  Vanarama's concept is only one take on how the car might have looked. Of course, nobody knows for sure, but[ Erick Martinez's designs](https://www.erick-martinez.com/icar) show a much smoother exterior. For an interesting, but unrealistic and honestly silly take, check out[ Devanga Borah's pod-style microcar design](https://www.instagram.com/p/CT9-0jaJvam/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Safety 
 
  Automated driving carries several prerequisites that make the car safer than one not as smart. Features like[ lane centering](https://www.lifewire.com/how-does-lane-centering-work-5188779) , automatic braking, and blind-spot alerts are a given, so what unique features might Apple have done to make its car safer than other vehicles on the road?
@@ -190,6 +211,9 @@ Vanarama
 
  Another communication feature we would have liked to see in the Apple car involves external displays. These screens could indicate to passing vehicles and pedestrians what the car is doing. This could be useful for several things, like to let someone know you're waiting for them to cross the road, or to signal to a driver behind you that you're slowing down due to an obstacle in the road. You can read more about this in[ Patently Apple's description of the Apple patent](https://www.patentlyapple.com/2023/07/apple-invents-an-advanced-external-display-system-for-autonomous-passenger-vehicles-that-communicates-with-the-public.html) .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![vehicle's external display that says waiting for you to cross](https://www.lifewire.com/thmb/O65adpyjUraRfkZdBski5i1WVoU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/waiting-for-you-to-cross-external-display-776df2ff6f8246b4a252208f7380009b.jpg) 
 
 ##  The Latest News About the Apple Car 

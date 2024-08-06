@@ -1,7 +1,7 @@
 ---
 title: "The PlayStation 5 Slim: All You Need to Know About Price, Release, and Features"
-date: 2024-08-02 21:38:55
-updated: 2024-08-05 11:22:41
+date: 2024-08-05T02:34:54.333Z
+updated: 2024-08-06T02:34:54.333Z
 categories:
   - BestProducts
 description: "This Article Describes The PlayStation 5 Slim: All You Need to Know About Price, Release, and Features"
@@ -20,10 +20,16 @@ thumbnail: https://thmb.techidaily.com/6a5ef0f96e3143e13628bf5caeebc60a8c5be5cea
 
  The PS5 Slim is now the standard model of the PlayStation 5 that is 30% smaller than the launch edition. Here's everything we know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  When Was the PS5 Slim Released? 
 
  Sony revealed the PS5 Slim officially on October 10, 2023\. It launched in November 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## PS5 Slim Price 
 
  The PlayStation 5 Slim comes in two versions, just like the original. One has a disc drive, and the other is digital-only. We thought it would see a price cut over the original MSRP, but that doesn't seem to be the case.
@@ -32,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/6a5ef0f96e3143e13628bf5caeebc60a8c5be5cea
 
  While the PS5 will come with a horizontal stand, you can pick up one to display your PS5 vertically separately. That costs $29.99.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![The vertical stand for the PS5 Slim](https://www.lifewire.com/thmb/I89FBnF0oUfSqfSpcHdX3A8Vv3c=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-Vertical-Stand-7ab6640af9a94338978badf7bbe2c816.jpg) 
 
 Sony
@@ -40,6 +49,9 @@ Sony
 
 [  Here's what we think the PS5 Pro will cost ](https://www.lifewire.com/playstation-5-pro-7966359) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  PlayStation 5 Slim Features & Specs 
 
  Per Sony, the new PS5 is more than 30% smaller (by volume), and 18 or 24% lighter (depending on model) than the original version. Rather than the current PS5's two side panels, the new ones have four: The top two are glossy, while the bottom ones are the same matte finish as the current lineup.
@@ -50,10 +62,16 @@ Sony
 
  The general specs remain basically the same; the chips may just be slightly smaller to allow for the slimmer form factor.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The new PS5 with the side panel removed](https://www.lifewire.com/thmb/LcAwBA_R8RGMc2UJ9cPM-tGd-LI=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-side-panel-27489245d8f94d12a9aa30ca3077ecd1.jpg) 
 
 Sony
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  The Latest News About the PS5 Slim 
 
  You can get[ all the latest gaming news here at Lifewire](https://www.lifewire.com/gaming-news-4797039) . Here are some stories about the PlayStation 5.

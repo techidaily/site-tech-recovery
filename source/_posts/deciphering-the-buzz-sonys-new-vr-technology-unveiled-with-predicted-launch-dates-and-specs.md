@@ -1,7 +1,7 @@
 ---
 title: "Deciphering the Buzz: Sony's New VR Technology Unveiled with Predicted Launch Dates & Specs"
-date: 2024-08-04 16:37:53
-updated: 2024-08-05 10:54:55
+date: 2024-08-05T02:34:28.265Z
+updated: 2024-08-06T02:34:28.265Z
 categories:
   - BestProducts
 description: "This Article Describes Deciphering the Buzz: Sony's New VR Technology Unveiled with Predicted Launch Dates & Specs"
@@ -34,16 +34,27 @@ thumbnail: https://thmb.techidaily.com/dac11c6cc9fc4c74d0a91630c727d89a2865b8212
 
  We expect to see the Sony VR Headset by December 2024 at the latest.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sony VR Headset Price Rumors 
 
  There’s no word from Sony or Siemens about pricing, but this headset has been emphasized as a pro model for creators and engineers in the industrial metaverse.
 
  In that respect, it seems more likely to rival the[ Apple Vision Pro](https://www.lifewire.com/apple-vision-pro-2-8612550) (with a $3,499 starting price) than the more mid-tier[ Meta Quest 3](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) , which starts at $599.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  Pre-ordering isn’t available yet, but we’ll be sure to include links and details here. You can also sign up for launch updates directly from Siemens.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Sony VR Headset Features 
 
  Sony presented prototypes of its VR headset at CES 2024, and a recent[ Siemens press release](https://newsroom.sw.siemens.com/en-US/siemens-rl24-sony-siemens-nx/) confirms one important detail of the partnership: The headset was developed with and exclusively uses Siemens’ Xcelerator engineering software—specifically its new NX Immersive Designer product, which will also be available when the headset launches.
@@ -55,10 +66,16 @@ thumbnail: https://thmb.techidaily.com/dac11c6cc9fc4c74d0a91630c727d89a2865b8212
 * **Head and hand tracking** : Four trackers gather spatial information.
 * **Lightweight, adjustable design** : The headset is balanced front to back, is adjustable forward and backward, and accommodates glasses. It also has forehead padding, and the front panel lifts up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Rendering of 3D modeling while wearing the Sony VR Headset and using the ring controller.](https://www.lifewire.com/thmb/4xyJFjIlj-e9RXY9KmMJ5hQAlvg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/sony-siemens-xcelerator-rl24-newsroom-01-1280x720-dcad4516a8e54fbe86c918fd395959ca.jpeg) 
 
 Sony
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sony VR Headset Specs and Hardware 
 
  On the specs and hardware side, this Sony-Siemens headset will run on Android OS and have an 8K display: two 1.3-inch micro-OLEDs with 4K resolution per eye.
@@ -73,6 +90,9 @@ Sony
 
  As more details take shape about the release and availability of this Sony VR headset for content creators and professionals, you can find them here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Latest News About the Sony VR Headset 
 
  You can get more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) , including a few stories of interest about Sony.

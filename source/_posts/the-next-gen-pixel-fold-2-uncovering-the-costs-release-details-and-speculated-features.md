@@ -1,7 +1,7 @@
 ---
 title: The Next-Gen Pixel Fold 2? Uncovering the Costs, Release Details, and Speculated Features
-date: 2024-08-03 13:29:27
-updated: 2024-08-06 10:13:39
+date: 2024-08-05T02:35:11.360Z
+updated: 2024-08-06T02:35:11.360Z
 categories:
   - BestProducts
 description: This Article Describes The Next-Gen Pixel Fold 2? Uncovering the Costs, Release Details, and Speculated Features
@@ -29,6 +29,9 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  One piece of news that indicates a 2024 release for the Pixel Fold 2 comes from Display Supply Chain Consultants CEO Ross Young, who says[ screen production started in April](https://twitter.com/DSCCRoss/status/1767687195090161769) . Young also gives us a glimpse at this phone's screen sizes, which we'll cover below.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  The Pixel Fold 2 release date will coincide with the[ Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) launch set for August.
@@ -41,10 +44,17 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  Pre-orders for the first Pixel Fold started the day it was announced. If this is repeated this year, you might be able to pre-order the Pixel Fold 2 on May 14\. We'll drop the link here when it's available.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Google Pixel Fold 2 Specs and Features 
 
  Google won't announce this phone for a bit longer. So, while nothing is technically official yet, here's what we know about the Pixel Fold 2 based on assumptions and reliable leakers:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### Bigger Screens 
 
  One of the major selling points of a foldable phone lies in its dual screens. The[ original Pixel Fold](https://www.lifewire.com/google-pixel-fold-5181117) featured a 5.8-inch exterior/cover screen and a 7.6-inch interior/main screen.
@@ -56,6 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  We've seen conflicting information about the size of these screens. A different source says the cover screen is 6.4 inches and the inner screen measures 7.9 inches. Either way, the displays will likely be bigger this year.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Bigger Battery 
 
  Given the larger screens, it’s reasonable to assume that the battery size will also increase.
@@ -70,6 +83,9 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 
  If the Tensor G4 is indeed adopted, it's likely to also be featured in the Pixel 9 later this year. This suggests that the Pixel Fold 2 may not hit the market until the fall.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Square Camera Bar 
 
  Another interesting changeup we'll see this year is a new camera layout. Compared to the first Pixel Fold's horizontal camera setup, the next Pixel Fold will have a new, boxy camera bar.[ We first heard about this back in February](https://x.com/OnLeaks/status/1760392252751266272) , and now it's confirmed via photos revealed by the National Communications Commission, a Taiwanese regulatory agency.  
@@ -85,6 +101,9 @@ thumbnail: https://www.lifewire.com/thmb/WhxhowMzefWzS2IbAkC6smyLmbw=/540x405/fi
 * According to the source of these renders, the top right of the inner screen houses an under-display camera with a new sensor that isn't included in the current Pixel Fold.
 * This Pixel Fold will likely run[ Android 15](https://www.lifewire.com/android-15-7547471) and should get the same seven years of software updates as the Pixel 8.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Latest News About Google Pixel Fold 2 
 
  You can [ read more smartphone news from Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Here are some stories about Google's devices specifically:

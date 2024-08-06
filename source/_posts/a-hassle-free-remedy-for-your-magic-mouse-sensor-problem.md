@@ -1,7 +1,7 @@
 ---
 title: A Hassle-Free Remedy for Your Magic Mouse Sensor Problem
-date: 2024-08-04 18:49:14
-updated: 2024-08-05 10:34:36
+date: 2024-08-05T02:34:14.248Z
+updated: 2024-08-06T02:34:14.248Z
 categories:
   - BestProducts
 description: This Article Describes A Hassle-Free Remedy for Your Magic Mouse Sensor Problem
@@ -34,12 +34,21 @@ thumbnail: https://www.lifewire.com/thmb/c_hz5OlxkH7ZRUIDzcWIIkqWves=/400x300/fi
 
  You can also use the Email column to send a message to those you’ve shared the document with as a reminder.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Docs viewers with Shared With highlighted](https://www.lifewire.com/thmb/bywM-Ml7U5N7c90E1SnLQkJDl6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SharedWith-86eb4b621c0041ffbfa67b162e505438.jpg)
 
  Select **Viewer trend** to see the unique daily viewers. Choose a particular day on the column chart to see how many viewers were captured that day.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![All Viewers highlighted in the Activity Dashboard](https://www.lifewire.com/thmb/UeEIkxsvAeTMYWv0pVzHE-M8fBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ViewTrend-86a1d4df7ab842f89348da5b37b03576.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Don’t See Any Viewing Activity?
 
  If you don't see any Viewers and believe you should, consider these reasons.
@@ -50,6 +59,9 @@ thumbnail: https://www.lifewire.com/thmb/c_hz5OlxkH7ZRUIDzcWIIkqWves=/400x300/fi
 * The people you expect to view the document might have opted out of displaying their View History (see below).
 * You or the Admin may have View History turned off (see below).
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Turn on Activity Dashboard View History
 
  If you are the Admin for the Google account and want to be sure that you have View History turned on for Google Docs,[visit your Google Admin Console](https://admin.google.com/) and log in.  
@@ -58,6 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/c_hz5OlxkH7ZRUIDzcWIIkqWves=/400x300/fi
 2. Scroll down to and select **Activity dashboard settings** .  
 ![Activity Dashboard Settings highlighted in the Admin console](https://www.lifewire.com/thmb/SNvzb0A93xucOZeGWmy-K7IJIzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard-f8b9c4ccf2cd49b09fc48d58b48862d7.jpg)
 3. Confirm that**Users’ view history** is turned on. If not, click the **edit** icon (pencil) to the right, choose **On (recommended)** and click **Save** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
  Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
 
@@ -69,6 +84,9 @@ thumbnail: https://www.lifewire.com/thmb/c_hz5OlxkH7ZRUIDzcWIIkqWves=/400x300/fi
 2. Choose **Privacy settings** on the left.
 3. Turn on one or both toggles on the right. The**Account setting** toggle displays view history for all Google documents while the**Document setting** displays it only for the current one.
 4. Select **Save** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Privacy Settings in the Activity Dashboard](https://www.lifewire.com/thmb/1fuSObYbrH0fupoOGGrh7GfTcPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/privacysettings-2c944fd8e2274f788b1528e855b75158.jpg)
 
  Seeing who viewed a Google Doc is a convenient way to make sure everyone reviews the document. To see who edited a document you’ve shared, you can also[look at the revision history](https://www.lifewire.com/how-to-manage-revision-history-in-google-docs-4776095) .

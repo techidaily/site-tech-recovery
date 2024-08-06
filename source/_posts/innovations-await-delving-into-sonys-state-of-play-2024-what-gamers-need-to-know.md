@@ -1,7 +1,7 @@
 ---
 title: "Innovations Await: Delving Into Sony's State of Play 2024 - What Gamers Need to Know"
-date: 2024-08-03 22:26:45
-updated: 2024-08-06 11:36:48
+date: 2024-08-05T02:34:03.118Z
+updated: 2024-08-06T02:34:03.118Z
 categories:
   - BestProducts
 description: "This Article Describes Innovations Await: Delving Into Sony's State of Play 2024 - What Gamers Need to Know"
@@ -21,16 +21,25 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
  Sony’s State of Play event happens semi-regularly whenever the company has big news or product announcements about PlayStation. The inaugural event was in 2019; Sony has held several more events since then.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  When Is the Next Sony State of Play Event? 
 
  Sony hasn't announced its next State of Play. The most recent one was May 30, 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ##  Which Products Will Be Announced? 
 
  Sony typically tells us what they'll show when they announce a State of Play, but we don't have the details for the next one yet.
 
  The last event introduced 14 PS5 and PS VR2 titles from both PlayStation Studios developers and third-party companies.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Did Sony Announce at the Last State of Play? 
 
  The May 30 State of Play showed off a lot of software to coincide with the start of Sony's Days of Play event. Here's what we saw:
@@ -54,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 * Capcom's_Monster Hunter Wilds_ had its first gameplay trailer. This series has you setting up camp in an untamed world and hunting massive creatures for both fun and profit. The latest entry is coming next year.
 * Mascot character Astro Bot, who taught us all how to play our PlayStation 5s in_Astro's Playroom_ , is back for a new adventure in_Astro Bot_ . This platformer will feature new worlds, costumes based on iconic PlayStation characters like Nathan Drake, Kratos, and Aloy, and a huge starship shaped like the PS5 console. It's coming September 6.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ##  How to Stream and Watch Sony State of Play 
 
  State of Play events are streamed on PlayStation's[ Twitch](https://www.twitch.tv/playstation) ,[ YouTube](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) , and[ TikTok](https://www.tiktok.com/@playstation) channels. You can watch the May 30 event below:
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ##  The Latest Sony and Other Gaming News 
 
  You can get more[ gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Here are some of the latest stories regarding Sony and the PlayStation:

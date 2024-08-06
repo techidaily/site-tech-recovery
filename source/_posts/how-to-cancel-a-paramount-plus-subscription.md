@@ -1,7 +1,7 @@
 ---
 title: How to Cancel a Paramount Plus Subscription
-date: 2024-08-03 18:50:37
-updated: 2024-08-05 10:32:49
+date: 2024-08-05T02:34:19.300Z
+updated: 2024-08-06T02:34:19.300Z
 categories:
   - BestProducts
 description: This Article Describes How to Cancel a Paramount Plus Subscription
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/DRPKfwxq1O5D20YIAHSU0o38OZM=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * **Web Browser:** Go to Paramount+ and select**Account** \>**Subscription & Billing** \>**Subscription** \>**Cancel Subscription** \>**Yes, Cancel** .
@@ -28,12 +31,19 @@ Close
  Like most streaming services, you won’t lose access to Paramount+ immediately after cancellation. Your subscription remains active through the remainder of the trial or billing period. Once this period has ended, you will lose access.
 
 1. Once you've[ logged into your Paramount+ account](https://www.paramountplus.com/home/) , select**Account** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Account menu item highlighted in the User Profile menu on the Paramount+ website.](https://www.lifewire.com/thmb/TrIEAXsbnkDSAMGl97Mh8n0N8iY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-CancelYourParamountPlusSubscription-annotated-62ff28bf55f841ccabb7b7de4e07afea.jpg)
 2. Scroll down to**Subscription & Billing** \>**Subscription** and click**Cancel Subscription** .  
 ![Cancel Subscription highlighted on the account page on Paramount+'s website.](https://www.lifewire.com/thmb/Cu8R5yjPGS2vI1pb1Ei8vkagGFo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-CancelYourParamountPlusSubscription-annotated-50c35599edc74a088aa25432e2ac57af.jpg)
 3. Click**Yes, Cancel** .  
 ![The "Yes, Cancel" button highighted on the subscription cancellation page on the Paramount+ website.](https://www.lifewire.com/thmb/Xky1ahxOmasw-oBxlMvmrVJXh9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-CancelYourParamountPlusSubscription-annotated-b9c906afc74148bcb843e93d3b656ec5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ##  How to Cancel Paramount Plus on Amazon 
 
  Although the[ Paramount+ support page](https://help.paramountplus.com/s/article/PD-How-can-I-cancel-my-Paramount-subscription#Prime) notes that you’ll need to contact Amazon’s account support in order to cancel your subscription, you should be able to do it directly through your account dashboard.
@@ -41,12 +51,18 @@ Close
  To cancel Paramount+ via Amazon/FireTV, follow these steps:
 
 1. Once you've[ logged into your Prime account](https://www.primevideo.com/) , hover over your account name in the top-right and click**Account Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Account & Settings menu item highlighted under the Prime Profile account on the Amazon Prime site.](https://www.lifewire.com/thmb/ezslhQXI7ZgzahBI4zPrnF4wygs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-CancelYourParamountPlusSubscription-annotated-64baf49e8c234b7795750f5d9bc01799.jpg)
 2. Navigate to**Channels** in the menu bar and locate**Paramount+** . Click**Cancel Channel** .  
 ![The Cancel Channel button highlighted in the Channels tab in the Account & Settings page on the Prime Video site.](https://www.lifewire.com/thmb/sMBCMpBAx1RSPwbeXE4lP1gRAKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-CancelYourParamountPlusSubscription-annotated-8d712d60ff9443888f4788b92decf7c5.jpg)
 3. You may be presented with a retention offer. Click**Cancel my subscription** to continue.  
 ![The Cancel my Subscription button highlighted on the cancellation confirmation page on the Prime Video site.](https://www.lifewire.com/thmb/gB8CmUEyM7HHKLo5su1MGzR1BpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-CancelYourParamountPlusSubscription-annotated-a78099c8718741a99d7c59ee7ad2f7cc.jpg)
 4. You’ll receive confirmation that your subscription has been canceled.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Confirmation message highlighted that your subscription to Paramount+ is cancelled in Prime Video.](https://www.lifewire.com/thmb/waNHWY9DRNlDlN8SpOY8VOovfps=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-CancelYourParamountPlusSubscription-annotated-59243579257d4edf9fdd73c4658f0c28.jpg)
 
 ##  How to Cancel Paramount+ on iPhone and iPad 
@@ -68,6 +84,9 @@ Close
 
  You can also cancel your subscription through your iOS device’s Settings app. Launch the app and tap**your name** \>**Subscriptions** \>**Paramount+** , then tap**Cancel Subscription** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Cancel Paramount Plus on Roku 
 
  Similarly to Amazon users, you’ll need to follow a different cancelation process if you subscribed to Paramount+ through[ Roku](https://www.lifewire.com/what-is-a-roku-4142216) . You can cancel your subscription through your Roku device or the company’s website.
@@ -83,6 +102,9 @@ Close
 
  To cancel Paramount+ on your Roku device, select**Paramount+** from the channel list, press the**asterisk (\*) button** on your remote, and select**Manage Subscription** \>**Cancel Subscription** .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ##  How to Cancel Paramount+ With Other Devices 
 
  Depending on where you signed up, there are a few other devices that will allow you to cancel your Paramount+ subscription. We won't cover all the other devices, but the steps are similar enough to those listed below that you should be able to follow along if your device isn't listed.
@@ -91,10 +113,16 @@ Close
 
  Open**Settings** and select**Users & Accounts** \>**your account** \>**Subscriptions** \>**Paramount Plus** \>**Cancel Subscription** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Android Phone, Tablet, or TV 
 
  If you signed up for Paramount+ via the Google Play Store, navigate to the[ Play Store's Subscription Page](https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://play.google.com/store/account/subscriptions?pli%3D1&followup=https://play.google.com/store/account/subscriptions?pli%3D1) , and select**Paramount+** \>**Cancel subscription** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  How to Cancel a Paramount Plus Free Trial 
 
  New Paramount+ subscribers automatically get a 7-day free trial when they sign up. As long as you cancel your subscription within this trial period, you won’t be charged for using the service.

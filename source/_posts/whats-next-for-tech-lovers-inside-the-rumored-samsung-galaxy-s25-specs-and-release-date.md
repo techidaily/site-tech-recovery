@@ -1,7 +1,7 @@
 ---
 title: What's Next for Tech Lovers? Inside the Rumored Samsung Galaxy S25 Specs & Release Date
-date: 2024-08-02 22:36:14
-updated: 2024-08-05 12:31:40
+date: 2024-08-05T02:34:27.800Z
+updated: 2024-08-06T02:34:27.800Z
 categories:
   - BestProducts
 description: This Article Describes What's Next for Tech Lovers? Inside the Rumored Samsung Galaxy S25 Specs & Release Date
@@ -22,12 +22,18 @@ thumbnail: https://www.lifewire.com/thmb/2CWJVr1lZkvKtGie-4aoD0wsp9A=/400x300/fi
 
  Since[the latest Samsung Galaxy phones](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) were launched just this year, there's not a lot in the way of Galaxy S25 leaks. Nevertheless, we have some ideas about this upcoming smartphone pair and will keep this page updated as we uncover new rumors and leaks throughout the year.  
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## When Will the Samsung Galaxy S25 Be Released?
 
  Samsung consistently releases its Galaxy S series phones during the first half of each year. With a track record of unveiling new models every year since 2010, there's no need for speculation about the arrival of new Samsung phones.
 
  Since the Galaxy S24 debuted in 2024, we can expect the Galaxy S25 and S25+ to land in 2025.  
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 January or February 2025 is our best guess right now.
@@ -70,18 +76,27 @@ January or February 2025 is our best guess right now.
 
  Aside from the possibility of some slight design changes (that's all we've heard; no details yet), here are the bigger changes we're looking forward to:  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Newer Processor
 
  The next Samsung Galaxy phones will likely be powered by the Qualcomm Snapdragon 8 Gen 4 in the US and the Exynos 2500 everywhere else. The Qualcomm processor[is said to support faster RAM](https://wccftech.com/lpddr6-support-for-snapdragon-8-gen-not-for-a18-pro/) , which will be much needed as on-device AI continues to work its way into these phones.
 
  We're not yet sure how much RAM these phones could be packing, but we're hoping the base model has 12 GB and the Plus model increases to 16 GB. More RAM means that AI can work faster because it can run some of its operations locally, and other phone functions will also benefit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Larger Displays
 
 [If this rumor is true](https://twitter.com/TheGalox%5F/status/1782058803468423431) , next year's phones could be a little bigger. The X/Twitter post states that the Galaxy S25 will increase from a 6.2-inch display to a 6.36-inch one. It's not a_huge_ change, but it could usher in more than just a bigger screen.
 
  The Galaxy S25+ could be bigger, too, but we haven't seen any supporting leaks. The current model is 6.7 inches and we don't see that changing unless the Galaxy S25 Ultra_also_ increases in size, since it's already 6.8 inches.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Better Image Quality
 
  A larger phone, overall, means Samsung could stuff a bigger battery into the phone or work in some different cameras. Currently, Samsung and other phone makers use Samsung's ISOCELL sensor for their phone cameras.
@@ -98,6 +113,9 @@ January or February 2025 is our best guess right now.
 * The S24 supports fast wired charging at 25W, which is a bit slower than similar devices like the Pixel 8 which is rated for 27W. We haven't seen any leaks about this changing next year, but we can still hope for the best.
 * The S25 phones could follow Google's lead with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) and support Qi2, the next version of the[Qi wireless charging standard](https://www.lifewire.com/qi-wireless-charging-4151894) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## The Latest News About Samsung Galaxy S25
 
  You[read more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more about Samsung and Android specifically.

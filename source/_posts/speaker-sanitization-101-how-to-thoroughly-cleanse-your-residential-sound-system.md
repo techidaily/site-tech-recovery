@@ -1,7 +1,7 @@
 ---
 title: "Speaker Sanitization 101: How to Thoroughly Cleanse Your Residential Sound System"
-date: 2024-08-02 20:23:34
-updated: 2024-08-05 10:15:13
+date: 2024-08-05T02:34:46.156Z
+updated: 2024-08-06T02:34:46.156Z
 categories:
   - BestProducts
 description: "This Article Describes Speaker Sanitization 101: How to Thoroughly Cleanse Your Residential Sound System"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 ---
 
 ## Speaker Sanitization 101: How to Thoroughly Cleanse Your Residential Sound System
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Wood cabinets: Try Howard Orange Oil Wood Polish, Murphy's Oil Soap, or similar. Vinyl/other: Warm water and a mild detergent.
@@ -18,10 +21,16 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
  This article discusses the proper materials and cleaners to use to safely clean your[stereo speakers](https://www.lifewire.com/all-about-speakers-4125129) , including the cabinets, grills, speaker cones, and terminals.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A pair of stereo speakers.](https://www.lifewire.com/thmb/VS9yWyPbFdOReS8Yfl8_uFMZP6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174750928-58a48cc35f9b58819cc45552-5bd8c2274cedfd00264695bd.jpg)
 
 Matejay/Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Clean a Speaker's Exterior Cabinets
 
  Use clean, lint-free, and soft cloths on the speakers, like a[cotton or microfiber towel](https://www.lifewire.com/computer-component-and-accessory-reviews-4102588) . An old cotton t-shirt also works well (cut it into usable pieces). Avoid paper towels, since these leave small unwanted fibers or particles on surfaces. Also, use two cleaning cloths to clean the speakers (one for wet and the other for dry). When wiping away dust, the dry cloth alone should suffice. But for anything grimier, use both.
@@ -37,6 +46,9 @@ Matejay/Getty Images
  Q-tip cotton swabs are generally safe and useful for small spaces or hard to reach areas on equipment.
 5. When you're done cleaning, apply a protective coating of oil or varnish. If so, use a separate clean cloth and follow the product’s instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Clean Speaker Grills
 
  Speaker grills cover the drivers (the cone-shaped parts that move to produce sound) and protect against objects and the accumulation of dust. Grill material is often a delicate fabric, similar to stockings and pantyhose. Some speakers have metal grills that may be perforated in a waffle, checkerboard, or dot design. Fabric grills can be attached to frames, which typically pop off with a gentle tug.
@@ -71,6 +83,9 @@ Matejay/Getty Images
 
  Don’t use liquids when cleaning speaker cones, this can lead to unintentional absorption or damage. In situations with deeply stained or soiled cones, contact the manufacturer for cleaning instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Clean Speaker Terminals
 
  The terminals on the back of speakers are reasonably robust, but they can accumulate dust and dirt over time.
@@ -85,6 +100,9 @@ Matejay/Getty Images
  Never use water or any water-based cleaning solutions with speaker terminals.
 5. Completely dry the terminals, and then reconnect the cables.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Materials for Cleaning Speakers
 
  Before you start cleaning, find out what the cabinets are made of, no matter the speaker’s type or size. Speaker cabinets are made from different varieties of pine, maple, oak, birch, cherry, walnut, and more. The cabinet might be painted or stained wood, or it could be treated with varnish, lacquer, polyurethane, or wax, which tends to show off a glossy or satiny sheen.

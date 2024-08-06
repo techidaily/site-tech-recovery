@@ -1,7 +1,7 @@
 ---
 title: "Navigate the World Easier: Our Pick of 8 Essential Travel Planning Applications"
-date: 2024-08-05 23:25:30
-updated: 2024-08-06 10:13:18
+date: 2024-08-05T02:34:20.498Z
+updated: 2024-08-06T02:34:20.498Z
 categories:
   - BestProducts
 description: "This Article Describes Navigate the World Easier: Our Pick of 8 Essential Travel Planning Applications"
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
  Turn**Auto HDR** or**Smart HDR** (depending on your iOS or iPadOS version) on or off in**Settings** \>**Camera** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iPad Camera settings showing Smart HDR setting](https://www.lifewire.com/thmb/gR-jQmxtSh5nmhaYVqmTn2F9gLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-improve-the-ipads-camera-1994693-99f6d4650edc4a6cb7de87daae67f6f9.jpg)
 
  In older iPads and iPhones, there isn't an automatic setting for HDR. Instead, you manually turn on HDR in the Camera app when you want to use it.
@@ -34,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 ![iPad Camera app showing HDR indicator](https://www.lifewire.com/thmb/p9d2OcrafwPtqaO85z0kCleNiYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-improve-the-ipads-camera-1994693-f1701c178a3d4fabbf67404ff113dc62.jpg)
 4. HDR automatically runs whenever you take a photo as long as HDR is displayed at the top of the screen. Use your camera as usual.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Edit Photos With the Camera App
 
  The Camera app has built-in filters that can bring out the best in an image.
@@ -55,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
  When you finish making changes, tap**Done** to save the image.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use Live Photos to Improve Your Photography
 
 [Live Photos](https://www.lifewire.com/iphone-live-photos-1999618) are small video clips the phone captures when you take a photograph on a newer iPhone or iPad. Along with creating moving pictures, you can choose a main photograph from the video to fix defects like an awkward facial expression, a blink of the eyes, or a just-missed shot.
@@ -65,11 +74,20 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
 1. Take a Live Photo (or select one from the Photos app) and then tap**Edit** .
 2. When editing a Live Photo, the bottom of the screen shows every frame the camera captured. Tap individual slides to preview the image.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iPad Camera app showing Live Photo frames](https://www.lifewire.com/thmb/Uxu-QAxFhQd6V95X3CnbMJM9nqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-improve-the-ipads-camera-1994693-25a3d53411494e4a8b66af78a55b4392.jpg)
 3. Tap**Make Key Photo** to choose a frame.  
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Key Photo selection in iPad Camera app](https://www.lifewire.com/thmb/lrg0AiDcAqoHvyMacxai7DxVA8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-improve-the-ipads-camera-1994693-044ed59d850f44deac861c5ac28d3eea.jpg)
 4. Tap**Done** to finalize your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Buy an External Lens
 
  An external lens can do more than adjust the camera settings. It can increase magnification and take specialty shots such as wide-angle. A lens also boosts functionality on an older device by improving the camera without the extra cost of a new smartphone or tablet.

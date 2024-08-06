@@ -1,7 +1,7 @@
 ---
 title: Expert Advice to Upgrade Your iDevice's Snapshots
-date: 2024-08-04 22:27:13
-updated: 2024-08-05 12:29:53
+date: 2024-08-05T02:35:14.842Z
+updated: 2024-08-06T02:35:14.842Z
 categories:
   - BestProducts
 description: This Article Describes Expert Advice to Upgrade Your iDevice's Snapshots
@@ -22,15 +22,25 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 
  Turn**Auto HDR** or**Smart HDR** (depending on your iOS or iPadOS version) on or off in**Settings** \>**Camera** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![iPad Camera settings showing Smart HDR setting](https://www.lifewire.com/thmb/gR-jQmxtSh5nmhaYVqmTn2F9gLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-improve-the-ipads-camera-1994693-99f6d4650edc4a6cb7de87daae67f6f9.jpg)
 
  In older iPads and iPhones, there isn't an automatic setting for HDR. Instead, you manually turn on HDR in the Camera app when you want to use it.
 
 1. Open the**Camera** app.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Camera app on iPad home screen](https://www.lifewire.com/thmb/WN-Qu6QSBkB2mozIBQWciDaL95s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-improve-the-ipads-camera-1994693-625cf5497c1e4b219a5d6cbc6ec6d28c.jpg)
 2. Tap**HDR** .  
 ![iPad camera app with HDR highlighted](https://www.lifewire.com/thmb/19gHHkUIzFUQE3zljrxNaEEwaT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-improve-the-ipads-camera-1994693-0392da3224904cdf97f32d1c055b6c3e.jpg)
 3. When HDR is on, HDR appears at the top of the screen.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![iPad Camera app showing HDR indicator](https://www.lifewire.com/thmb/p9d2OcrafwPtqaO85z0kCleNiYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-improve-the-ipads-camera-1994693-f1701c178a3d4fabbf67404ff113dc62.jpg)
 4. HDR automatically runs whenever you take a photo as long as HDR is displayed at the top of the screen. Use your camera as usual.
 
@@ -65,11 +75,20 @@ thumbnail: https://www.lifewire.com/thmb/LvEp9E7pBJQy3A7OQeHRmCBc3YA=/400x300/fi
 
 1. Take a Live Photo (or select one from the Photos app) and then tap**Edit** .
 2. When editing a Live Photo, the bottom of the screen shows every frame the camera captured. Tap individual slides to preview the image.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPad Camera app showing Live Photo frames](https://www.lifewire.com/thmb/Uxu-QAxFhQd6V95X3CnbMJM9nqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-improve-the-ipads-camera-1994693-25a3d53411494e4a8b66af78a55b4392.jpg)
 3. Tap**Make Key Photo** to choose a frame.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Key Photo selection in iPad Camera app](https://www.lifewire.com/thmb/lrg0AiDcAqoHvyMacxai7DxVA8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-improve-the-ipads-camera-1994693-044ed59d850f44deac861c5ac28d3eea.jpg)
 4. Tap**Done** to finalize your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Buy an External Lens
 
  An external lens can do more than adjust the camera settings. It can increase magnification and take specialty shots such as wide-angle. A lens also boosts functionality on an older device by improving the camera without the extra cost of a new smartphone or tablet.

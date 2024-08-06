@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Roadmap: Joining the World of PlayStation with Your Own Account"
-date: 2024-08-03 10:24:37
-updated: 2024-08-05 10:52:37
+date: 2024-08-05T02:34:02.452Z
+updated: 2024-08-06T02:34:02.452Z
 categories:
   - BestProducts
 description: "This Article Describes Beginner's Roadmap: Joining the World of PlayStation with Your Own Account"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Computer: Open the[ Create an Account](https://www.playstation.com/acct/create-account) page, select**Create** , and then provide your information.
@@ -21,6 +24,9 @@ Close
 
  This article explains how to create a PlayStation Network (PSN) account on a computer or a PS5 or PS4 console (these are the only supported places for making an account).
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Create a PlayStation Account on a Computer 
 
  The[ PlayStation Network (PSN)](https://www.lifewire.com/the-playstation-network-psn-817483) is a digital entertainment service for your PlayStation. With a PSN account, you can download games and other apps. Here's how to create an account from your computer:
@@ -28,13 +34,25 @@ Close
 1. [ Open the Create an Account page](https://id.sonyentertainmentnetwork.com/create%5Faccount/) at Sony Entertainment Network and select**Create** .  
 ![Sony's Create an Account page](https://www.lifewire.com/thmb/raOATsWtfBU8z8SPscy9mCUEB2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-create-an-account-2f57defce49c47d5af9266b7e10ae8fc.png)
 2. Select your country from the drop-down menu, choose your language, and fill out the other details in the form. Press**Next** when you're done.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://www.lifewire.com/thmb/GoTPrUemYlhkZ2AnGGzlKrXnEeM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-create-account-form-224afd6df9f647f9a9e6ff9b048f2cc9.png)
 3. Enter your date of birth into the appropriate boxes and then press**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Month, Day, and Year drop-down boxes in Sony's Create an Account form](https://www.lifewire.com/thmb/p2Y_DXgod2kb-QvyUqcf-00CXPA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-new-account-form-birthday-a44f37e111614c718271194bd265f53c.png)
 4. Enter your email address and create a password for your new PSN account.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The email address and password fields in Sony's Create an Account form](https://www.lifewire.com/thmb/X1hVLrMjPuhbmsoaRXZZKvK8g0o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-psn-account-password-b43b3c345b1c493d8e4e9489b6cf3cea.png)  
  It's highly recommended that you pick a password you've never used before, on any website. We have some[ tips for making a great password](https://www.lifewire.com/how-to-create-a-strong-password-4783955) if you need some guidance.
 5. Read the Personalized Content page and check or uncheck the settings as you see fit. Select**Confirm** to continue.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Sony's Personalized Content options on the PSN account signup form](https://www.lifewire.com/thmb/3zldP1mE9IH90qgHnf5nbmHPJXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-psn-account-personalized-content-2499153d2d7c4c3fbbed4a4b18cba9e5.png)
 6. Select **Agree and Create Account** .  
 ![The Agree and Create Account button in Sony's new account form](https://www.lifewire.com/thmb/JOs-1FukGqydDAEDksqdNe6e4x4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-create-an-account-agreement-da571928d2334b70a77bc35a545c8007.png)
@@ -54,6 +72,9 @@ Close
 ![Get Started on PS5 Add User screen](https://www.lifewire.com/thmb/F_Mzc8ImkVSJiUxVGKO5PFc2x8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_create-a-playstation-network-account-4103872-274ce8de221a45629028239fff098456.jpg)
 3. Read the user agreement and then, if you wish to proceed, press the box next to**I Agree** . Select**Confirm** .
 4. Select**Create an Account** .  
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create an Account on PS5 Sign In screen](https://www.lifewire.com/thmb/dcotW2YWg9w7tqfOQAYJJHhvj8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_create-a-playstation-network-account-4103872-18e37a4aac444b03b367ad023aa4f66a.jpg)
 5. Over the next few steps, you're asked to fill out a variety of information. This includes your country/region, language preference, and birth date. Follow the on-screen prompts.
 6. When asked, enter your email address and create a password for your PSN account. Press**Next** after doing so.
@@ -79,14 +100,28 @@ Close
  Here's how to make a PSN account on a PlayStation 4:
 
 1. With the console on and the controller activated (press the **PS**  button), select **New User** on the screen.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![New User button on PS4 screen](https://www.lifewire.com/thmb/cjlV38FIS90CDgiXry-RtCuAh2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-PlayStation-Network-Account-423c8a47a41a4fa48da952d4a0b7accc.jpg)
 2. Select **Create a User** and then choose**Accept** on the User Agreement screen.  
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create a User button on PS4 ](https://www.lifewire.com/thmb/Mu3kot6ZAEjWvpKljkbTm9FEqBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-PlayStation-Network-Account-ba8568f4a1404903930630bca2ebc8bf.jpg)
 3. Select**Next** on the following screen.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Next button on PlayStation Network screen on PS4](https://www.lifewire.com/thmb/rKbKOXNyuaeNklLUWx8Hfjc6iSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-PlayStation-Network-Account-e2bf24813ee042578656e919f74ad100.jpg)
 4. Choose**New to PlayStation Network? Create an Account** .  
 ![New to PlayStation Network? Create an Account button on PS4](https://www.lifewire.com/thmb/u1DnXp_IiMQQdD-lFQ77FL60ukc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C4-PlayStation-Network-Account-f72370b32efd449db28a24f337e4563b.jpg)
 5. Follow the on-screen instructions to submit your location information, email address, and a unique password, moving through the screens by selecting**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Next button on personal information page to Join PlayStation Network on PS4](https://www.lifewire.com/thmb/WQaFU6nFKWdtRn0BmIMOl2Brkrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C6-PlayStation-Network-Account-871760a388ad46c7b00c3e387dad19cd.jpg)
 6. Choose an avatar. You can change this at any time in the future.  
 ![Avatar selection page to Join PlayStation Network on PS4](https://www.lifewire.com/thmb/ILr_ZPuwA4cEG2zm_liZbj8giIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_create-a-playstation-network-account-4103872-5bc7a3af46e0fb00262eb465.jpg)

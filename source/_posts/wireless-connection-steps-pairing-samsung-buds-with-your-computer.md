@@ -1,7 +1,7 @@
 ---
 title: "Wireless Connection Steps: Pairing Samsung Buds with Your Computer"
-date: 2024-08-03 21:42:32
-updated: 2024-08-06 11:56:46
+date: 2024-08-05T02:34:14.016Z
+updated: 2024-08-06T02:34:14.016Z
 categories:
   - BestProducts
 description: "This Article Describes Wireless Connection Steps: Pairing Samsung Buds with Your Computer"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 ---
 
 ## Wireless Connection Steps: Pairing Samsung Buds with Your Computer
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * First, put the earbuds into pairing mode by wearing them while charged and holding both touchpads.
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 1. If you've never paired your earbuds to a device, keep them in the case for about five seconds, then open the case to enter pairing mode.  
  If they're already paired them to a phone or another device, put the earbuds in your ears and press and hold both touchpads until you hear a series of beeps indicating you're in pairing mode.
 2. Open**Settings** . A quick method is to press**Win** +**i** , but you can also find it by right-clicking the**Start** button.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings highlighted in the Windows 11 taskbar](https://www.lifewire.com/thmb/B8OhsIohMqNI9NSU9l6pEE_MGIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_pair-and-connect-airpods-to-windows-11-5192307-4c22bbf9c296495195d8268eccea4b9d.jpg)
 3. Select **Bluetooth & devices** (Windows 11) or**Devices** \>**Bluetooth & other devices** (Windows 10).  
 ![Bluetooth & devices highlighted in the Windows 11 settings menu](https://www.lifewire.com/thmb/n8u9hKDM1oUGrLuqflomAJ6r-Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_pair-and-connect-airpods-to-windows-11-5192307-c04bde50d90a42d0be55a9ea042b3989.jpg)
@@ -33,12 +39,18 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 5. Select **Add device** (Windows 11) or**Add Bluetooth or other device** (Windows 10).  
 ![+ Add device highlighted in Bluetooth & devices in Windows 11](https://www.lifewire.com/thmb/cVz4b2iZgiWBL0gr6nfzxek2oPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_pair-and-connect-airpods-to-windows-11-5192307-f13da8ef1814432f99e9e6e25013ef40.jpg)
 6. Choose**Bluetooth** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bluetooth highlighted in the add a device menu in Windows 11](https://www.lifewire.com/thmb/vGQlZKKA2iIdcAgYl59Tp1fXTp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_pair-and-connect-airpods-to-windows-11-5192307-c5372d9013d146b09d0485aaa31d4072.jpg)
 7. Select your**Samsung Galaxy Buds** to pair them with your laptop. They should default to this laptop when you turn them on again.  
  If you don't see your earbuds in the list, make sure they're in pairing mode as outlined in step 1.
 
 [How to Fix It When Windows 11 Bluetooth Is Not Working](https://www.lifewire.com/how-to-fix-it-when-windows-11-bluetooth-is-not-working-5191455)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## How to Connect Samsung Earbuds to a Mac Laptop
 
  For a macOS laptop, navigate to the Bluetooth menu to pair the Galaxy Buds. Here's how to do that:  
@@ -46,9 +58,15 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 1. Put the earbuds into pairing mode by placing them in the charging case for about five seconds. Then, open the case and continue with the next step.  
  If the Galaxy Buds are already paired to another device, put the earbuds in your ears and press and hold the touchpads until you hear some beeps.
 2. Select the**Apple menu** , then go to**System Settings** \>**Bluetooth** . On older devices, it's**System Preferences** \>**Bluetooth** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![The System Preferences window on a Mac showing the Bluetooth icon. ](https://www.lifewire.com/thmb/GGn-uHf9dJFQzhzw8Oa2PZhhXDg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_connect-samsung-earbuds-to-laptop-5184809-d6ab93fb9cf84a0290e7a8952cf8da08.jpg)
 3. In the**Devices** list, select**Connect** next to the**Samsung Buds** to pair them. They should default to this laptop when you turn them on again.  
  If you don't see your Samsung Buds, make sure they are in pairing mode as outlined in step 1.  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Bluetooth pairing menu on macOS with the Samsung Galaxy Buds Pro ready to connect](https://www.lifewire.com/thmb/0s-WvT5m2tIlBu_bKkO3gDETYsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_connect-samsung-earbuds-to-laptop-5184809-e06afd2d11724e7f934236cf93a9ad08.jpg)  
  To unpair your headphones from your PC, go to the Bluetooth settings, choose your Samsung Buds, and select **Disconnect** .  
 [How to Reset a Samsung Laptop](https://www.lifewire.com/reset-samsung-laptop-5188509)  

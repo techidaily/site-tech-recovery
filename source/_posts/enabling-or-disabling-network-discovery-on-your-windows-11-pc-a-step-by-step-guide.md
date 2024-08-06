@@ -1,7 +1,7 @@
 ---
 title: "Enabling or Disabling Network Discovery on Your Windows 11 PC: A Step-by-Step Guide"
-date: 2024-08-03 11:54:42
-updated: 2024-08-05 12:52:47
+date: 2024-08-05T02:34:57.501Z
+updated: 2024-08-06T02:34:57.501Z
 categories:
   - BestProducts
 description: "This Article Describes Enabling or Disabling Network Discovery on Your Windows 11 PC: A Step-by-Step Guide"
@@ -12,6 +12,9 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 ## Deciding Between Building or Purchasing Your Own Computer - Find Out the Best Option
  It's easy enough to pick out a new computer to buy. The other option is to gather[all the necessary components](https://www.lifewire.com/desktop-pc-parts-checklist-832694) and build the PC yourself. We looked at the pros and cons of both to help you decide whether to build a computer or buy one off the shelf.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Overall Findings
 
  Buying a PC
@@ -50,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 * Less customization.
 * Less familiarity with internal components.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -60,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -83,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -105,10 +117,16 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
 Lifewire / Julie Bang

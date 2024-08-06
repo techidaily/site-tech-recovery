@@ -1,7 +1,7 @@
 ---
 title: Before Buying Your Next Dash Cam - Here Are the 9 Things You Need To Know
-date: 2024-08-03 14:26:49
-updated: 2024-08-05 10:56:45
+date: 2024-08-05T02:35:10.360Z
+updated: 2024-08-06T02:35:10.360Z
 categories:
   - BestProducts
 description: This Article Describes Before Buying Your Next Dash Cam - Here Are the 9 Things You Need To Know
@@ -12,10 +12,16 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 ## Before Buying Your Next Dash Cam - Here Are the 9 Things You Need To Know
 0:39
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 9 Things to Consider Before Buying a Dash Cam
 
  Roads and highways can be dangerous (there are millions of car accidents yearly), and responsible driving won't account for other drivers, unnecessary traffic stops, or insurance fraud attempts. For these reasons and more, having a[dash cam](https://www.lifewire.com/how-does-dashboard-camera-work-534886) as your second pair of eyes on the road can be helpful.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is a Dash Cam?
 
  So, what exactly does a dash cam do? A dash cam is essentially a way to record your driving whenever you go. With these recordings, you can prove fault in case of an accident, monitor your teenager learning to drive, and more. Not only that, but dash cams are getting increasingly affordable and easy to use, so they’re not limited to tech heads and early adopters.
@@ -67,6 +73,9 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 * Frame Rates
 * Night Vision
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### Resolution
 
  The first metric you'll likely notice when buying a camera of any kind is its[resolution](https://www.lifewire.com/what-is-resolution-2767449) .
@@ -75,6 +84,9 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 
  Generally speaking, more pixels is always better. We recommend buying a camera with at least a 1080p resolution, but if you can afford a higher resolution (i.e., 4K), that's the way to go.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Field of View
 
  A camera's field of view is how wide the camera can see, which can vary greatly. Cameras with a wide field of view allow the user to see much more at any moment. Of course, there are trade-offs to that. When a camera's field of view is too broad, this can affect image quality because the pixels are spread out a little more.
@@ -83,6 +95,9 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 
  We recommend seeing if you can find screenshots of footage from the camera before buying one, paying particular attention to details on the side and how detailed the image is. If you think the camera would be able to capture everything you want, then it'll probably do just fine.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A dash cam on a car's dashboard](https://www.lifewire.com/thmb/16ynI3wnaXz4SfykDlYl5A6D8ng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IMG_8249-5b8040b046e0fb00259b917e.JPG)
 
 ### Frame Rates
@@ -99,6 +114,9 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 
  Night vision ensures that even in dark situations, your footage has enough detail to make out what’s going on. Footage may not look as colorful as it would during the day, but that hardly matters when you only need to see the license plate of the person who hit you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Battery
 
  Most dash cams run on your car's power, so they'll be on when you turn your car on, and they'll turn off when your car gets turned off. Some dash cams, however, have a built-in battery, meaning that you don't necessarily have to keep your vehicle on to use the dash cam.
@@ -125,6 +143,9 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 
  When you get your dash cam, you’ll need to mount it to your car somehow, and there are a few ways to do that. Dash cams can go on the dashboard or the windshield, depending on the model. That’s helpful for those who might not want to clutter up their dash or already have a phone mount on it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![A dash cam mounted in a car](https://www.lifewire.com/thmb/YMn9WGkBpiWnm9Ab3eS1Jg1OJcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4062264-InCar8-1500-5b803fae46e0fb002ce58671.jpg)
 
  Generally speaking, dash cams mount to the dash or windshield through a suction mount, and those suction mounts are pretty strong. Some use an adhesive that sticks to the dash or windshield. These can be a little trickier to deal with because they’re harder to unstick and move, and they can sometimes leave a little adhesive when you decide to unstick the mount. Still, there is an advantage to using an adhesive mount, and an adhesive mount generally doesn’t require as much space. So if you have limited space to mount your dash cam, it may be the better option.
@@ -157,16 +178,25 @@ thumbnail: https://www.lifewire.com/thmb/r90Xcm6zQK3f3Au9Mrq8KuCX9e4=/540x405/fi
 
  While some dash cams connect to your phone to access the camera's settings, others have a built-in display. Through this display, you'll be able to review footage, adjust controls, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A bult-in display on a dash cam](https://www.lifewire.com/thmb/BBQTbNWBdISZnmpQ8Fvu1BQbUbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4062264-18-5b804005c9e77c0050214a8d.jpg)
 
 Built-In Display.
 
  Generally speaking, larger displays will make it easier to see details in footage and scroll through menus, but don't expect to get a smartphone-quality display on your dash cam. These displays typically fall between two and three inches, so if you want one with a larger display, look for something around the three-inch mark. They're usually bright enough LCDs to see during the day, which is helpful for those who might need to change a setting.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Features
 
  Some dash cams come with other features that may not be as essential as image quality or GPS functionality but are still useful. In some instances, they may even be a requirement for what you hope to get out of your dash camera.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Audio Recording
 
  While video is the most important thing to capture, some might also want to capture audio. It can help record conversations during traffic stops, audio around the car, etc. Generally speaking, an audio recording doesn’t add too much extra to the cost of a dash cam, which is good news.
@@ -187,12 +217,18 @@ Built-In Display.
 
  For those who are good at remembering to start and stop recording, this is simply a matter of convenience. But for those who might easily forget to wake up their camera, it could be a matter of capturing an accident or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Loop Recording
 
  Loop recording ensures that the dash cam will continue capturing footage even when your storage card runs out of space. How does it do this? Essentially by recording over old footage. Once the storage card fills up, new footage overwrites older footage. Thus you'll either want to get ahold of footage from an accident as soon as possible or buy a big memory card that can hold lots of footage before it starts deleting.
 
  It's a handy feature and means you don't have to worry about managing your dash cam's storage, which could get annoying.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Dash Cam Variations
 
  There are[three primary categories of dash cam](https://www.lifewire.com/types-of-dash-cameras-534889) you can get for your car: Basic, Advanced, and Dual-Camera.
@@ -215,6 +251,9 @@ Built-In Display.
 
  While you may be excited to test out your new dash cam, remember it's primarily intended to be used for your own safety and security. Chances are you'll mostly just have mundane travel footage to review after a few days or weeks, but it's a good idea to get used to the process of accessing and reviewing your recordings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## More Tips
 
  Simply put, there's more to keep in mind when buying a new dash cam than you probably thought initially, but hopefully, now that you understand all the different options, buying one will be a little easier.

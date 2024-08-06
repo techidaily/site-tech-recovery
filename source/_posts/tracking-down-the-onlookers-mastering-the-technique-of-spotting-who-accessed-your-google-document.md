@@ -1,7 +1,7 @@
 ---
 title: "Tracking Down the Onlookers: Mastering the Technique of Spotting Who Accessed Your Google Document"
-date: 2024-08-04 21:42:51
-updated: 2024-08-06 11:55:45
+date: 2024-08-05T02:35:09.883Z
+updated: 2024-08-06T02:35:09.883Z
 categories:
   - BestProducts
 description: "This Article Describes Tracking Down the Onlookers: Mastering the Technique of Spotting Who Accessed Your Google Document"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/376af438f950837c2d73b8b405a038336106e727f
 ---
 
 ## Tracking Down the Onlookers: Mastering the Technique of Spotting Who Accessed Your Google Document
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Select the **Activity dashboard** icon (jagged arrow) on the top right.
@@ -18,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/376af438f950837c2d73b8b405a038336106e727f
 
  This article explains how to see who has viewed a document you’ve shared in Google Docs. This check is handy for making sure everyone who is supposed to review the document does so. The feature is available to[Google Workspace](https://www.lifewire.com/what-is-g-suite-4686959) subscribers using a business, enterprise, education, or nonprofit plan.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## See Who Viewed a Google Doc
 
  To see who has viewed a document,[visit Google Docs](https://docs.google.com/) and sign in with your Google account. Then, open the document.  
@@ -26,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/376af438f950837c2d73b8b405a038336106e727f
 ![Google Docs with Activity Dashboard and its Icon highlighted](https://www.lifewire.com/thmb/6h366_IuWsz8F-9uddJvUAX1F58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard2-5a823fbc319f4c3eb4e04702b3e925fe.jpg)
 2. Confirm that **Viewers** is selected on the left side.
 3. Use the **All viewers** tab on the right to see who has viewed the document. You’ll see their name and when they last viewed it.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Viewers and All Viewers in the Activity Dashboard highlighted](https://www.lifewire.com/thmb/V6MAIeOj8jrGdn4DrWoeNivd42s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Viewers-51d26efb564141b29bc474b002b448ad.jpg)
 
 ## Additional Dashboard Viewing Features
@@ -40,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/376af438f950837c2d73b8b405a038336106e727f
 
 ![All Viewers highlighted in the Activity Dashboard](https://www.lifewire.com/thmb/UeEIkxsvAeTMYWv0pVzHE-M8fBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ViewTrend-86a1d4df7ab842f89348da5b37b03576.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Don’t See Any Viewing Activity?
 
  If you don't see any Viewers and believe you should, consider these reasons.
@@ -50,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/376af438f950837c2d73b8b405a038336106e727f
 * The people you expect to view the document might have opted out of displaying their View History (see below).
 * You or the Admin may have View History turned off (see below).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Turn on Activity Dashboard View History
 
  If you are the Admin for the Google account and want to be sure that you have View History turned on for Google Docs,[visit your Google Admin Console](https://admin.google.com/) and log in.  
@@ -69,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/376af438f950837c2d73b8b405a038336106e727f
 2. Choose **Privacy settings** on the left.
 3. Turn on one or both toggles on the right. The**Account setting** toggle displays view history for all Google documents while the**Document setting** displays it only for the current one.
 4. Select **Save** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Privacy Settings in the Activity Dashboard](https://www.lifewire.com/thmb/1fuSObYbrH0fupoOGGrh7GfTcPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/privacysettings-2c944fd8e2274f788b1528e855b75158.jpg)
 
  Seeing who viewed a Google Doc is a convenient way to make sure everyone reviews the document. To see who edited a document you’ve shared, you can also[look at the revision history](https://www.lifewire.com/how-to-manage-revision-history-in-google-docs-4776095) .

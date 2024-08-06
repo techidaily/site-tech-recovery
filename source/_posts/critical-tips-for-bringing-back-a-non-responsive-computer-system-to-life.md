@@ -1,7 +1,7 @@
 ---
 title: Critical Tips for Bringing Back a Non-Responsive Computer System to Life
-date: 2024-08-03 16:59:41
-updated: 2024-08-06 10:17:12
+date: 2024-08-05T02:34:08.133Z
+updated: 2024-08-06T02:34:08.133Z
 categories:
   - BestProducts
 description: This Article Describes Critical Tips for Bringing Back a Non-Responsive Computer System to Life
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 ---
 
 ## Deactivate Critical Messaging Warnings on iPhones with This Simple Tutorial
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Amber alerts on iPhone can be turned off in**Settings** \>**Notifications** .
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 
  This article explains how to disable Amber alerts on an iPhone. It also covers how to turn off similar government alerts, including emergency, public safety, and test alerts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## How to Disable Amber Alerts and Other iPhone Emergency Alerts
 
  You're just a few taps away from shutting down these notifications, but be sure to keep reading to learn why we recommend keeping Amber alerts turned on.
@@ -25,16 +31,30 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 1. Tap the[Settings](https://www.lifewire.com/understanding-device-settings-4138532) app to open it, then tap**Notifications** .
 2. Scroll to the bottom of the screen to find the section labeled**Government Alerts** . Amber alerts and Public Safety Alerts are set to on/green by default; tap a toggle to switch that alert off.
 3. Tap**Emergency Alerts** for a few other options. From there, you can control emergency alerts without affecting the option you chose for Amber alerts in the last step. This is also how you stop emergency alerts from bypassing silent mode.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Settings, Notifications, and Emergency Alerts screens on an iPhone](https://www.lifewire.com/thmb/k4Pdtou2x8ooq0Bqd1UnlBWO_KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-amber-alerts-bc193ddbd3c24bd895b61242e22ca176.png)
 
  Got an Apple Watch?[Check out how to avoid notification overload](https://www.lifewire.com/avoid-notification-overload-apple-watch-1999672) , including notifications from emergency alerts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can Do Not Disturb Silence Emergency and Amber Alerts on iPhone?
 
  The[iPhone's Do Not Disturb feature](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) lets you silence notifications, but it does not work with Amber alerts and other emergency alerts. Because they signal an emergency that could affect your life and safety or someone else's, Do Not Disturb can't block these alerts.
 
  There is no way to block or silence Amber alerts except by turning them off. As for emergency alerts, there is a toggle called**Always Play Sound** that you can turn off (see Step 3 above). Doing this prevents the sound from coming through your phone when you're in silent mode.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can You Change Emergency and Amber Alert Tones on iPhone?
 
  While you can[change the sound used for other alerts](https://www.lifewire.com/how-to-change-the-default-ringtone-on-your-iphone-2000554) , you can't customize emergency alert sounds. Yes, the noise for these alerts is unpleasant and may even be startling, but it's worth remembering that they're unpleasant because they're supposed to get your attention.
@@ -43,6 +63,9 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 
 [How to Turn Off SOS on an iPhone 14](https://www.lifewire.com/iphone-14-turn-off-sos-8630001)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why You Shouldn't Disable Amber and Emergency Alerts on iPhone
 
  Even though these alerts can sometimes be surprising or unwelcome, you should leave them on—especially the emergency alerts. These messages arrive when there is dangerous weather or another severe health or safety event imminent in your area. If a tornado, flash flood, or other potential natural disaster is heading your way, you'll want to know so that you can take action.

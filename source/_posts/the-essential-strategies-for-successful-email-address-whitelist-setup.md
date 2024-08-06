@@ -1,7 +1,7 @@
 ---
 title: The Essential Strategies for Successful Email Address Whitelist Setup
-date: 2024-08-03 11:55:22
-updated: 2024-08-05 10:17:13
+date: 2024-08-05T02:34:35.658Z
+updated: 2024-08-06T02:34:35.658Z
 categories:
   - BestProducts
 description: This Article Describes The Essential Strategies for Successful Email Address Whitelist Setup
@@ -10,6 +10,10 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
 ---
 
 ## Sequential Watchlist for Every Superman Movie Ever Made
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * In release order:_Superman: The Movie_ \>_Superman II_ \>_Superman III_ \>_Superman IV_ \>_Superman Returns_ \>_Man of Steel_ \>_Batman v. Superman_ \>_Justice League._
@@ -18,6 +22,9 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
 
  This article explains how to watch all the_Superman_ movies in order of release and by series, along with some non-linear ways to watch.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Note
 
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
@@ -28,6 +35,9 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
 
  The whole gang is there: ambitious Lois Lane who inexplicably can’t spell, Clark Kent’s gee-whiz disguise marked by oversized glasses and his hair parted on the opposite side, Jimmy Olsen’s trusty camera and enthusiasm, and the no-nonsense_Daily Planet_ editor Perry White.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Christopher Reeve as Superman in Superman: The Movie](https://www.lifewire.com/thmb/ZHL-RJQzh5JTDa7wGAkoe9HBn2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-watch-the-superman-movies-in-order-5089046-f2fb55ac5c7c456787e9e5f545bc3a8f.jpg)
 
  Keystone / Getty Images
@@ -91,18 +101,28 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
 
  If you’re less concerned about chronological order or release order and more interested in comparing similar storylines, here are a few suggested non-linear pairings.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Compare Origin Stories
 
  Origin stories are a quintessential part of superhero anything. Watch the original_Superman: The Movie_ and_Man of Steel_ to see where the two meet and diverge. There’s a considerable time gap between the two, 1978 versus 2013, but all things considered, the special effects from 1978 still hold up in their own (often comical) way.
 
  If you’re interested in seeing more, several platforms offer extended cuts and special editions of both the Christopher Reeve era and DCEU Superman movies. Look for these versions on Amazon Prime, Google Play, Vudu, and YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Something Old, Something New, Something Newer
 
  If you want to experience the Christopher Reeve era but don’t want to watch the whole series, you don’t have to._Superman II_ does a great job of summarizing the first movie in the intro credits and features two formidable enemies: General Zod and Lex Luthor._Superman III_ and_Superman IV_ are not as good, so you can leave it at the second one.
 
  As for the newer options, you have your pick between a few. You could opt for the stand-alone retelling in the mid-aughts or a_Man of Steel_ /_Batman v. Superman_ /_Justice League_ triple-feature.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## What Is ‘Superman’ (2025)?
 
  The upcoming_Superman_ , directed by_The Suicide Squad_ writer-director James Gunn, is the start of the next franchise of DC movies: the DCU. It was formerly called_Superman: Legacy_ .

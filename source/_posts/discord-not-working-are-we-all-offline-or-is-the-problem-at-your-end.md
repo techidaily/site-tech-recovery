@@ -1,7 +1,7 @@
 ---
 title: Discord Not Working – Are We All Offline, or Is the Problem at Your End?
-date: 2024-08-04 10:45:29
-updated: 2024-08-05 12:19:18
+date: 2024-08-05T02:34:03.245Z
+updated: 2024-08-06T02:34:03.245Z
 categories:
   - BestProducts
 description: This Article Describes Discord Not Working – Are We All Offline, or Is the Problem at Your End?
@@ -24,6 +24,9 @@ of 10
 
 ## [Organize All Your Notes Into Categorized Notebooks: Evernote](https://evernote.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Evernote website](https://www.lifewire.com/thmb/9oleNje8SO__JGQQ0VGFGJiKDmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at2.20.13PM-58ee71395f9b582c4dc3d173.png)
 
  What We Like
@@ -56,8 +59,14 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Creative Note-Taking for the Apple Fan: Notability](https://notability.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![GingerLabs Notability website](https://www.lifewire.com/thmb/thNiSXfw8G3iysBhc2IHZBZv7KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.02.40PM-58f28ac55f9b582c4d5c1cbf.png)
 
  What We Like
@@ -86,8 +95,14 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Use Cards to Make Note-Taking Fun and Colorful: Google Keep](https://www.google.com/keep/)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Keep website](https://www.lifewire.com/thmb/ztU4ICqf971rpM5HCwySkDaAI1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.16.47PM-58ee7d993df78cd3fc52e00a.png)
 
  What We Like
@@ -123,6 +138,9 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Build on the Power of Microsoft Apps: OneNote](https://www.onenote.com/)
 
 ![OneNote website](https://www.lifewire.com/thmb/xpLJA58kh0a8DmchVzkQwbWvgBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.38.09PM-58ee827d3df78cd3fc5f8576.png)
@@ -161,6 +179,9 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Note-Taking for the Minimalist: Simplenote](https://simplenote.com/)
 
 ![Simplenote website](https://www.lifewire.com/thmb/_9N5RUSjHN_SraN7hIAJ7L4x_yQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.02.14PM-58ee79ed5f9b582c4dd97d0a.png)
@@ -234,6 +255,9 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## [A Collaborative Note-Taking App for Your Whole Team: Dropbox Paper](https://www.dropbox.com/paper/start)
 
 ![Dropbox Paper website](https://www.lifewire.com/thmb/3Y9VYshyhwfzEAhYUQo6qfLW-v8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-17at9.13.18PM-58f5693f5f9b581d59046520.png)
@@ -267,8 +291,14 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Best App for Taking Digital Handwritten Notes: Squid](https://www.squidnotes.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![SquidNotes website](https://www.lifewire.com/thmb/elX17TRYlBrhykILBHZdUnmrAzY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-18at3.28.23PM-58f669393df78ca159210743.png)
 
  What We Like

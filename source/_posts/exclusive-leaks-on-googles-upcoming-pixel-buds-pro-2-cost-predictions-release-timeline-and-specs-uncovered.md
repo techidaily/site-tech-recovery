@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Leaks on Google's Upcoming Pixel Buds Pro 2: Cost Predictions, Release Timeline, and Specs Uncovered"
-date: 2024-08-05 19:32:19
-updated: 2024-08-06 10:46:12
+date: 2024-08-05T02:34:46.311Z
+updated: 2024-08-06T02:34:46.311Z
 categories:
   - BestProducts
 description: "This Article Describes Exclusive Leaks on Google's Upcoming Pixel Buds Pro 2: Cost Predictions, Release Timeline, and Specs Uncovered"
@@ -21,26 +21,41 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 
  If you're a Pixel Buds Pro fan, good news may be coming. Rumors are swirling about a possible sequel: the Pixel Buds Pro 2\. With any luck, this next iteration could address some shortcomings and become one of[ our favorite wireless earbuds](https://www.lifewire.com/best-wireless-earbuds-8649295) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  When Will the Google Pixel Buds Pro 2 Be Released? 
 
  The Pixel Buds Pro 2 release date is currently unknown.[ 9to5Google was the first to report on the possibility of a Buds Pro 2](https://9to5google.com/2024/03/01/45mm-pixel-watch-3-pixel-buds-pro-2/) , and we're discussing it now because it's been a couple of years since the originals came out in July 2022\. This period of time suggests that the second-generation buds might be coming soon.
 
  Google has made three variants of the Pixel Buds, but only the original has seen a second generation, which the company waited 1.5 years for. If we assume the same timeline for the Buds Pro, Google could come out with the next Pixel Buds Pro in late 2024 or early 2025.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  The Pixel Buds Pro 2 could arrive as early as August 2024 with the[ Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ##  Google Pixel Buds Pro 2 Price Rumors 
 
  Google originally listed the Pixel Buds Pro for $199.99\. As much as we'd like to see a cheaper pair this time, remember that the Pixel Buds A-Series is just $99\. So, the lowest we can see Google taking these Pro-level earbuds is $149.99\. If we had to guess, though, the $199.99 price is more likely.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  You'll be able to pre-order the Google Pixel Buds Pro 2 after the company announces them. Our[ Google Event](https://www.lifewire.com/google-event-5205756) page details upcoming events that could announce the next Pixel Buds Pro model.
 
 [  5 Things to Consider Before You Buy Earbuds ](https://www.lifewire.com/before-you-buy-earbuds-8657239) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Google Pixel Buds Pro 2 Features & Hardware 
 
  Google has kept quiet about these earbuds, leaving everyone to speculate about their features. After doing some research, these are a few features Pixel Buds fans are hoping to see in these new buds:
@@ -53,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 
  One thing we've heard from multiple sources, though, says that the new Pixel Buds Pro will be available in new colors. According to[ a post from leaker Dylan Roussel](https://x.com/evowizz/status/1810758546457346542) , the new hues will be Haze (gray), Mojito (green), Porcelain (tan), and Raspberry (pink):
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  The Latest News About the Google Pixel Buds Pro 2 
 
  You can always get the [ latest wearable and other smart gadget news here on Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Below are some of the latest articles on headphones and Google that you might be interested in.

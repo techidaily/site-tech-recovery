@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Enable and Restore Visibility of Your YouTube Video Comments
-date: 2024-08-04 23:43:57
-updated: 2024-08-05 10:14:12
+date: 2024-08-05T02:34:03.532Z
+updated: 2024-08-06T02:34:03.532Z
 categories:
   - BestProducts
 description: This Article Describes Expert Tips to Enable and Restore Visibility of Your YouTube Video Comments
@@ -15,6 +15,9 @@ Close
 
  This article explains what might be preventing YouTube comments from appearing for you, either as a viewer or as a channel, and what you can do to fix the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Why Is YouTube Not Showing Comments? 
 
  Here are some reasons you can't see comments on YouTube:
@@ -26,6 +29,9 @@ Close
 * Your browser or app has a bug
 * YouTube is having problems displaying comments
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Fix YouTube Comments Not Showing Up 
 
  Follow these suggestions in the order they're listed to try the easier solutions first:
@@ -35,6 +41,18 @@ Close
  Follow these directions if you're using the YouTube app: Android \[[ Clear Android Cache](https://www.lifewire.com/clear-cache-android-4157780) \] or iOS \[[ Clear iPhone Cache](https://www.lifewire.com/clear-iphone-cache-4178428) \].
 3. Make sure comments are enabled for the video in the first place. A creator, or even YouTube itself, may disable comments for a video. If this is the case, you should see a message indicating that, such as “Comments are turned off." This is the most likely case if other videos from different creators_do_ have comments.  
  If this is your channel that has no comments,[ open YouTube Studio](https://studio.youtube.com/) and go to**Settings** \>**Community** \>**Defaults** to check your settings.  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Comment settings for a YouTube channel](https://www.lifewire.com/thmb/u34Cgu0xytzQBLqFE406hAsNG_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-comments-settings-9e4d0be80f6a4a2eb28d5a174ab798c3.png)
 4. Check your internet connection. If it's too weak, it's possible that not everything on the page loaded, leaving you with missing comments. If you suspect this,[ consider addressing network lag](https://www.lifewire.com/lag-on-computer-networks-and-online-817370) .  
  Pay close attention to the way the page loads. If it takes longer than usual or if one or parts of the page appear out of place, there's a good chance the network is to blame.

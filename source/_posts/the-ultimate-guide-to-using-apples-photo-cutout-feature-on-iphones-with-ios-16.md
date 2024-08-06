@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Using Apple's Photo Cutout Feature on iPhones with iOS 16
-date: 2024-08-04 19:29:19
-updated: 2024-08-06 11:42:26
+date: 2024-08-05T02:35:12.188Z
+updated: 2024-08-06T02:35:12.188Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Using Apple's Photo Cutout Feature on iPhones with iOS 16
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/Lg26HhAbkXuckyq27b268vJFCBw=/400x300/fi
 ---
 
 ## The Ultimate Guide to Using Apple's Photo Cutout Feature on iPhones with iOS 16
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Open**Photos** \> tap and hold the object until you see glowing outline >**Copy** \> paste image into another app.
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/Lg26HhAbkXuckyq27b268vJFCBw=/400x300/fi
 
  This article provides step-by-step instructions for how to use iOS 16's Photo Cutout feature to remove people and objects from their backgrounds. To use the feature, you must be running iOS 16 or up on an iPhone XS/XR or newer.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Image Cutout on iPhone
 
  Cutting a person or object out of a background photo so you can use it in another context used to be a major challenge in photo-editing apps like Photoshop. It's gotten easier in those tools over the years and, and thanks to a feature introduced to the iPhone in iOS 16, it's now incredibly easy to do on your phone.
@@ -31,13 +37,22 @@ thumbnail: https://www.lifewire.com/thmb/Lg26HhAbkXuckyq27b268vJFCBw=/400x300/fi
 3. The person or object detected by the Photos app is surrounded by a glowing outline that indicates the boundaries of what will be cut out from the photo. A pop-up menu appears.
 4. With the object selected, you can either copy the object or share it with another app (for this option, skip to the next step).  
  Tap**Copy** to copy the image to your iPhone clipboard. You can then go to another app and paste it using the same process as[copying and pasting](https://www.lifewire.com/copy-paste-text-on-iphone-1999898) text.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Tap and hold on the subject of a photo to separate it from the background.](https://www.lifewire.com/thmb/sWLmtgasblB8Xrrkc4fBEOn7b3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-UsePhotoCutoutonaniPhone-annotated-v2-8e4ae00da27b448e8ac6f42bae5df41b.jpg)
 5. Tap**Share** and select the app from the list of sharing options. The object you selected will be added to that app.
 6. Whether you copied or shared the cut-out object, it's now available for use—editing, sending via email or text, and more—with whatever options and features are available in the app you added it to.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Steps to paste a cutout image into an email on an iPhone.](https://www.lifewire.com/thmb/xjdNuaI0pZwXMZVvdN0eY_Q7bwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-UsePhotoCutoutonaniPhone-annotated-f4597825a2ee4b899f4b826f6a277037.jpg)
 
  You can't change the border outlining the selection of the object. In our testing, the iPhone almost always drew the correct border around a person or object without missing important details or including extraneous objects. However, it did make a few mistakes and, as of now, there's no way to adjust what is included.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Photo Cutout Is Based on Visual Lookup
 
  Photo Cutout is based on a technology Apple introduced with iOS 15 called[Visual Lookup](https://www.lifewire.com/use-visual-lookup-in-photos-ios-15-5195054) .

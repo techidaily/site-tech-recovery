@@ -1,7 +1,7 @@
 ---
 title: Discover the Best LGBT Cinema Offerings Available on Netflix in July 2024
-date: 2024-08-04 18:41:50
-updated: 2024-08-06 11:28:28
+date: 2024-08-05T02:34:40.420Z
+updated: 2024-08-06T02:34:40.420Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Best LGBT Cinema Offerings Available on Netflix in July 2024
@@ -72,6 +72,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Open Library](https://openlibrary.org/)
 
 ![Open Library free fantasy books](https://www.lifewire.com/thmb/-ctO4xId9XQoiLRkftJcE3RwBc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/open-library-free-books-90d83651ac8441ecbcf38bd648ad33ce.png)
@@ -100,6 +103,9 @@ of 17
 
 ## [Librivox](https://librivox.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Librivox free book downloads](https://www.lifewire.com/thmb/3CD8SNYd6sSu5_LvoNlASuUJVzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/librivox-free-books-d032914dc8884c46b3d9e5604101ac6b.png)
 
  What We Like
@@ -148,8 +154,14 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Internet Archive](https://archive.org/details/texts)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Internet Archive free eBooks and other texts](https://www.lifewire.com/thmb/jDuBEHJF6iF3cOdcjrbXS3IFuZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-ebooks-text-1ce561bf073649359dd672d540bcc568.png)
 
  What We Like
@@ -175,8 +187,14 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## [Authorama](https://www.authorama.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Authorama free book library](https://www.lifewire.com/thmb/lYssuu_g6PSku3pyk0pf5_swye8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/authorama-free-books-58fce73bc8574d86adfd5ea1ca34208f.png)
 
  What We Like
@@ -229,6 +247,9 @@ of 17
 
 ## [Wikibooks](https://www.wikibooks.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wikibooks home page](https://www.lifewire.com/thmb/YF1AE5jQiXAwL2BMn0sqD0bT3hg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wikibooks-db10b097678243d9af53a357b0730389.png)
 
  What We Like
@@ -252,6 +273,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## [Free-eBooks.net](https://www.free-ebooks.net/)
 
 ![free-ebooks.net romance books](https://www.lifewire.com/thmb/MFwV8nsWimWGfjT3kr47omFtjzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-ebooks-romance-books-e1de021c14b64c58b4e148e0d206c144.png)
@@ -278,6 +302,9 @@ of 17
 
 ## [The Online Books Page](https://digital.library.upenn.edu/books/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Online Books Page](https://www.lifewire.com/thmb/NtXfFY_H2MOVz3zuO7C0KZ49Fs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/online-books-page-292c14fbd74942d0bb05d4b5241be408.png)
 
  What We Like
@@ -302,8 +329,15 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## [eBooks.com](https://www.ebooks.com/free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Free book downloads at eBooks.com](https://www.lifewire.com/thmb/f64HJTqNV5QI7QMKZTlbQF51FgY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ebooks-com-free-books-8efd93df14464c68b139adde505dec38.png)
 
  What We Like
@@ -328,8 +362,14 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [International Children's Digital Library](http://childrenslibrary.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![International Children's Digital Library](https://www.lifewire.com/thmb/BfmcMPozUonvQpPrd_lOJrsHPRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/international-childrens-digital-library-2bc17e8bfa0c4a8f87f80e695d36b273.png)
 
  What We Like
@@ -352,8 +392,15 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## [Everand](https://www.everand.com)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Everand home page](https://www.lifewire.com/thmb/_RKXRhYWjNmhnh4iDOAdnWVgFSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Everand-dc93d107c8644c8c96c22fb35117be3b.jpg)
 
  What We Like
@@ -429,6 +476,9 @@ of 17
 
 ## [SlideShare](https://www.slideshare.net/)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Slideshare home page](https://www.lifewire.com/thmb/u86635z-EttY7kv47Qh_qv5FUwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Slideshare-1843ff9a9d0c41389449798ac5a4aecf.jpg)
 
  What We Like

@@ -1,7 +1,7 @@
 ---
 title: Discover What's New in IPadOS 18 - Comprehensive Guide to Upcoming Releases, Free Access & Key Features
-date: 2024-08-02 17:45:47
-updated: 2024-08-05 10:32:37
+date: 2024-08-05T02:34:17.346Z
+updated: 2024-08-06T02:34:17.346Z
 categories:
   - BestProducts
 description: This Article Describes Discover What's New in IPadOS 18 - Comprehensive Guide to Upcoming Releases, Free Access & Key Features
@@ -21,14 +21,23 @@ thumbnail: https://www.lifewire.com/thmb/c45gDDUjZC0tuBEHWPyxww44IkI=/400x300/fi
 
  iPadOS 18 is the upcoming operating system update for the iPad. Keep reading to see when it'll hit your tablet, which iPads will be supported, and all the new features we expect to see.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## iPadOS 18 Release Date 
 
  Apple unveiled iPadOS 18 at the keynote for the 2024[ Worldwide Developers Conference](https://www.lifewire.com/wwdc-5101136) on June 10\. Its release date is in Fall 2024, probably September.  
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iPadOS 18 Price 
 
  iPadOS is free. If your iPad is supported (see below), you'll be able to[ update to iPadOS 18](https://www.lifewire.com/how-to-update-ipad-6386217) once it's available to the public.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iPadOS 18 Features 
 
  iPadOS 17 was a big update, and iPadOS 18 may have even more new and updated features. Here are some of the best ones:
@@ -45,6 +54,9 @@ thumbnail: https://www.lifewire.com/thmb/c45gDDUjZC0tuBEHWPyxww44IkI=/400x300/fi
 
 **Notes** : The Smart Script feature cleans up your handwriting using machine learning to make it easier to write (and read) your notes. You can also copy and paste in your handwriting. This app also gains live audio transcription, highlighting, and the ability to collapse sections of notes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Some of the features iniPadOS 18](https://www.lifewire.com/thmb/3DUT_fldg6G08dg1b-ebTETTXtk=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPadOS-features-splash-3f4461857f3c453f8122d1431b79b409.jpg) 
 
 Apple, Inc.
@@ -59,6 +71,9 @@ Apple, Inc.
 
  The biggest news in all of Apple's 2024 updates was Apple Intelligence, which works on iPads with M1 Silicon chips and later. This AI-driven functionality aims to learn from what you do to make you more efficient and also includes text and image generation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## iPadOS 18 Supported Devices 
 
  Like previous years, this version of iPadOS will not run on every iPad, and some features might be reserved for the more powerful models. Here are the iPads that can run this operating system:
@@ -70,6 +85,10 @@ Apple, Inc.
 
 [  The Ultimate iPad Comparison Chart (2024) ](https://www.lifewire.com/ipad-comparison-chart-1994214) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  The Latest News About iPadOS 18 
 
  You can[ read about the latest computers, laptops, and tablets](https://www.lifewire.com/computer-laptop-tablet-news-4797030) here at Lifewire. Here are some rumors and other stories about iPadOS 18 specifically:

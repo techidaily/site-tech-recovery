@@ -1,7 +1,7 @@
 ---
 title: PlayStation 5 Slim Coming Soon? Check Out Latest News, Price Forecasts & Release Schedule Insights
-date: 2024-08-03 10:47:56
-updated: 2024-08-06 11:35:54
+date: 2024-08-05T02:35:05.322Z
+updated: 2024-08-06T02:35:05.322Z
 categories:
   - BestProducts
 description: This Article Describes PlayStation 5 Slim Coming Soon? Check Out Latest News, Price Forecasts & Release Schedule Insights
@@ -20,10 +20,16 @@ thumbnail: https://www.lifewire.com/thmb/vlIv_3iTK-DDHacZqiUmDg2fOTg=/400x300/fi
 
  The PS5 Slim is now the standard model of the PlayStation 5 that is 30% smaller than the launch edition. Here's everything we know.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  When Was the PS5 Slim Released? 
 
  Sony revealed the PS5 Slim officially on October 10, 2023\. It launched in November 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## PS5 Slim Price 
 
  The PlayStation 5 Slim comes in two versions, just like the original. One has a disc drive, and the other is digital-only. We thought it would see a price cut over the original MSRP, but that doesn't seem to be the case.
@@ -32,6 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/vlIv_3iTK-DDHacZqiUmDg2fOTg=/400x300/fi
 
  While the PS5 will come with a horizontal stand, you can pick up one to display your PS5 vertically separately. That costs $29.99.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The vertical stand for the PS5 Slim](https://www.lifewire.com/thmb/I89FBnF0oUfSqfSpcHdX3A8Vv3c=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-Vertical-Stand-7ab6640af9a94338978badf7bbe2c816.jpg) 
 
 Sony
@@ -54,6 +63,9 @@ Sony
 
 Sony
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Latest News About the PS5 Slim 
 
  You can get[ all the latest gaming news here at Lifewire](https://www.lifewire.com/gaming-news-4797039) . Here are some stories about the PlayStation 5.
@@ -64,10 +76,17 @@ Sony
 
 [ The Best Gaming Consoles of 2024 ](https://www.lifewire.com/best-gaming-consoles-4154610) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### PS5 Slim w/ Disc Drive 
 
  Orig.$500 [ $450 at Best Buy ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fplaystation-5%2Fps5-consoles%2Fpcmcat1587395025973.c%3Fid%3Dpcmcat1587395025973) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### PS5 Slim Digital Edition 
 
  Orig.$450 [ $399 at Amazon ](https://www.amazon.com/PlayStation%C2%AE5-Digital-slim-PlayStation-5/dp/B0CL5KNB9M/ref=sr%5F1%5F1?rnid=2528832011&s=videogames&crid=3K7X5HLPOFM3N&keywords=ps5+slim&sprefix=ps5+slim%2Cvideogames%2C193&dib%5Ftag=se&ufe=app%5Fdo%3Aamzn1.fos.18630bbb-fcbb-42f8-9767-857e17e03685&tag=lifewire-onsite-prod-20&dib=eyJ2IjoiMSJ9.CuKLfIhDdkg5mAyBeIsW8W184dwhEUzNMW1LWJQEoD1X7kthQsfrW9wtlrzivIgIGGSsFl-e9vuWt2vc10e5QdZFo2hsLYqMfv8TqPWEjIlwj1RkoJiPFp1VL7dCSUjiH1p24NEtZ5AwHhvp975VZYqpocHmbAENpvl9vLAsdk-AG7tw55aza78qmxCfAh3oY%5FDmPdi4E5ADmJ%5Frmv4N9cFHi7pZKxvgdThaE5gmTb4.XtoZjoBunoajSRe8SuP%5FTI9elmQ6UYuqrxHbVzJvUoM&qid=1717701937&refinements=p%5F89%3APlayStation&sr=1-1&ascsubtag=7966360%7Cn0d86891ff0e04630ae542ea8bcce785e08%7C)

@@ -1,7 +1,7 @@
 ---
 title: Understanding the Cognitive Capabilities of Android Technology
-date: 2024-08-05 19:43:52
-updated: 2024-08-06 11:33:28
+date: 2024-08-05T02:34:46.579Z
+updated: 2024-08-06T02:34:46.579Z
 categories:
   - BestProducts
 description: This Article Describes Understanding the Cognitive Capabilities of Android Technology
@@ -27,22 +27,44 @@ thumbnail: https://www.lifewire.com/thmb/55VTU-sYUj2uLatBvaRDXn6ZBpw=/540x405/fi
 2. With a Finder window open, select**Show Path Bar** from the**View** menu.  
 ![Show Path Bar selection from Finder View menu](https://www.lifewire.com/thmb/p8hmSvudrGj6bJbYTBG0C2oeKis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-use-macs-hidden-finder-path-bar-2260868-9d9472a91acd4a1b90d481c5b2d16f97.jpg)
 3. The Path Bar displays at the bottom of all your Finder windows showing the path to any file or folder you choose.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Path Bar at bottom of Finder window](https://www.lifewire.com/thmb/gbXg4tnHLHCs1fJYTDgWyaog8vQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-use-macs-hidden-finder-path-bar-2260868-bfdde3c3e82b4222972d05afbe604e6c.jpg)
 
 ## What is the Finder Path Bar?
 
  The Finder Path Bar is a small pane located at the bottom of a[Finder window](https://www.lifewire.com/use-mac-finder-2260739) , just below where files and folders are listed. The Path Bar shows you the path from the folder you're currently viewing to the top of the file system. To put it another way, it shows you the path you created when you clicked through the Finder to get to the current folder.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How to Turn Off the Finder Path Bar
 
  If you decide you prefer the more minimalistic Finder window, you can turn the Path Bar off just as quickly as you turned it on.
 
 1. Open a Finder window.
 2. Select**Hide Path Bar** from the**View** menu.  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hide Path Bar selected in Finder View menu](https://www.lifewire.com/thmb/6TcHzm-tbM5wrShNj4W63rNiBLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-use-macs-hidden-finder-path-bar-2260868-4a4198e2ffef4e8bbe0352fa791bbe2e.jpg)
 
  The Path Bar disappears.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Other Uses of the Finder Path Bar
 
  In addition to its obvious use as a road map showing where you've been and how you got from there to here, the Path Bar also serves other handy functions.
@@ -57,10 +79,16 @@ thumbnail: https://www.lifewire.com/thmb/55VTU-sYUj2uLatBvaRDXn6ZBpw=/540x405/fi
 
  The Path Bar is handy, but there are other ways to display the path to an item. One method is to[add the Path icon to the Finder's toolbar](https://www.lifewire.com/customize-finder-toolbar-2260859) by selecting**View** in the Finder menu bar and choosing**Customize Toolbar** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Customize Toolbar chosen from Finder View menu](https://www.lifewire.com/thmb/85T2ZFHx5DifChRTc-RY-crMIzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-use-macs-hidden-finder-path-bar-2260868-5029e6be5ffb4a7e8d878b81376c7b6b.jpg)
 
  Drag the**Path** icon to the top of the Finder window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![The Path icon applied to the top of the Finder](https://www.lifewire.com/thmb/sXjTsuUVrBaufWskUszQkAeKP-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-use-macs-hidden-finder-path-bar-2260868-dcd2a4bce60941beb1735c254c59d8fd.jpg)
 
  The Path icon displays the path to the currently selected item much as the Path Bar does. The difference is that the Path Bar shows the path in a horizontal format, while the Path icon uses a vertical format. The other difference is that the Path button only displays the path when the button is clicked.
@@ -82,6 +110,9 @@ thumbnail: https://www.lifewire.com/thmb/55VTU-sYUj2uLatBvaRDXn6ZBpw=/540x405/fi
 
  The Finder restarts, after which any Finder window displays the long pathname to the current location of a folder.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## How to Turn Off the Display of the Full Pathname
 
  If you decide you don't like the Finder always displaying the long pathname, you can turn the feature off with the following Terminal commands:

@@ -1,7 +1,7 @@
 ---
 title: Important Factors for Acquiring Secondhand iPads - 5 Must-Know Tips
-date: 2024-08-03 16:32:53
-updated: 2024-08-05 12:58:41
+date: 2024-08-05T02:34:44.384Z
+updated: 2024-08-06T02:34:44.384Z
 categories:
   - BestProducts
 description: This Article Describes Important Factors for Acquiring Secondhand iPads - 5 Must-Know Tips
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 ---
 
 ## Important Factors for Acquiring Secondhand iPads - 5 Must-Know Tips
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5 Things to Consider Before Buying a Used iPad
 
  Buying a used iPad is a great way to save money, but when you shop for a used product, you need to know a few things before purchasing. You also want to get a good deal on the iPad, which means picking out a model that isn't obsolete and is reasonably priced.
@@ -26,6 +29,9 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 
 [Should You Buy a Tablet?](https://www.lifewire.com/should-you-buy-a-tablet-5248287)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## How Much Should You Spend on a Used iPad?
 
 [Flipsy.com keeps track of average prices for used iPads](https://flipsy.com/article/9048/ipad-price) on eBay, Amazon, and a couple of other online retailers. Used iPads typically go for about half or one-third of their original value. If purchasing a newer model, check the price of[the latest iPad](https://www.lifewire.com/what-is-newest-version-of-ipad-1994324) to see if it's worth spending a little more to get a warranty. Used iPads typically have no warranty, but some refurbished ones do.
@@ -54,6 +60,9 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 
 [How to Buy and Sell Safely on Craigslist](https://www.lifewire.com/how-to-buy-and-sell-safely-on-craigslist-2487155)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## What Condition Should a Used iPad Be In?
 
  Examine the iPad to see if it appears to be in good shape. Check the screen for any cracks and the case for any dents. A small dent in the outer casing of the iPad isn't a big deal, but any damage to the screen is a deal-breaker.**Do not buy an iPad with a cracked screen** , even if it is only a tiny crack outside the display. A small crack tends to lead to a bigger one, and you may be surprised by how quickly it can transform into a shattered screen.
@@ -62,12 +71,18 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 
  Plug the iPad into a wall outlet and confirm the battery icon in the upper-right corner shows a lightning bolt, which means it is charging. That indicates the port at the bottom of the iPad is in good working order.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Old Should a Used iPad Be?
 
  Look at models from the last two years. These models are the most powerful, with the most features, and Apple will support them for years.
 
  Check the model number advertised to ensure it matches the iPad model you buy. Double-check if the person you're buying from seems uncertain of the model. You can[find the iPad's model number](https://www.lifewire.com/find-your-ipads-model-number-1994687) in the**Settings** app.  
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Who Should Buy a Used iPad?
 
  If you've never had an iPad or other Apple products, trying a used one can help you decide if you want to spend more money on a new one. If you're familiar with Apple products but don't care about having the latest and greatest version, an older used iPad will meet your needs if you want to listen to music and browse the web. If you need an iPad for work or to play online games with 3D graphics, you're better off with a new one.  
@@ -80,6 +95,9 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 
 [Setting Up an iPad for First-Time Use](https://www.lifewire.com/how-to-set-up-an-ipad-for-first-time-use-4103760)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Which iPad to Buy
 
  Deciding on the best place to buy a used iPad is crucial; the essential part of the process is ensuring you buy the right one. You want to avoid getting stuck with an obsolete iPad within a year or two.

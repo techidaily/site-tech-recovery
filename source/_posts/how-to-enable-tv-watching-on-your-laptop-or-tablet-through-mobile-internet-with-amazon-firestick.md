@@ -1,7 +1,7 @@
 ---
 title: How to Enable TV Watching on Your Laptop or Tablet Through Mobile Internet with Amazon Firestick
-date: 2024-08-05 10:29:10
-updated: 2024-08-06 11:58:28
+date: 2024-08-05T02:34:51.893Z
+updated: 2024-08-06T02:34:51.893Z
 categories:
   - BestProducts
 description: This Article Describes How to Enable TV Watching on Your Laptop or Tablet Through Mobile Internet with Amazon Firestick
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/Vi38_A_RTY6oC3V0N2G_aafVJHg=/540x405/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * First, enable the mobile hotspot on your phone, or turning on your mobile hotspot device.
@@ -34,8 +37,14 @@ Close
    * **Android** :[ How to turn on the mobile hotspot on Android](https://www.lifewire.com/use-your-android-phone-as-a-portable-wi-fi-hotspot-2377915) .
 2. Connect your Fire Stick to a TV, and switch to the appropriate input.
 3. From the Fire Stick home screen, select the**gear icon** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The gear icon highlighted on the Fire Stick home screen.](https://www.lifewire.com/thmb/2yFaA-vUFpCFP01OGOPw7h_kRrg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ConnectaFireSticktoaMobileHotspot-annotated-960d3bc9adc745b5a7137a8f9273bc3f.jpg)
 4. Select**Network** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Network highlighted on Fire Stick.](https://www.lifewire.com/thmb/7rfasUuAAsQ5HGadWGErFwSlFNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ConnectaFireSticktoaMobileHotspot-annotated-6709c49c43dd4b24afc8e5e231cc3c8e.jpg)
 5. Select your mobile hotspot network.  
 ![J's iPhone hotspot Wi-Fi network selected in Fire Stick network settings.](https://www.lifewire.com/thmb/6ID5s_xpjYdwry6P6rTPBPZ2B5U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-connect-a-fire-stick-to-a-mobile-hotspot-3491db9a3fc147e68291cd7fde4b23a5.jpg)  
@@ -43,8 +52,14 @@ Close
 6. Enter the**password** for your mobile hotspot.  
 ![Entering a password in Fire Stick network settings.](https://www.lifewire.com/thmb/pibcLUpay9QVpzIK3dfYzELa9ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-connect-a-fire-stick-to-a-mobile-hotspot-ffb21492c96a4558bc783e2f653d443d.jpg)
 7. Select**Connect** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![CONNECT highlighted in Fire Stick network connection.](https://www.lifewire.com/thmb/brrzUVRH2q_58x2NNP_0gin4i0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-connect-a-fire-stick-to-a-mobile-hotspot-714ff17467ac40248ea215cb242b0088.jpg)
 8. Your Fire Stick will connect to your mobile hotspot.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Fire Stick connected to an iPhone hotspot.](https://www.lifewire.com/thmb/a_umMBSHffB9ChayRZS-VPRQxqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-connect-a-fire-stick-to-a-mobile-hotspot-fca80967ec39495fb96cae7eab077fa3.jpg)
 
 ##  Will My Fire Stick Work With My Mobile Hotspot? 
@@ -53,6 +68,9 @@ Close
 
  If your mobile connection doesn’t provide consistent download speeds of at least 3 Mbps, it won’t work very well with your Fire Stick. If you want to stream in high definition, then your mobile connection needs to provide download speeds of at least 5Mbps. If your connection is faster than that, then your Fire Stick will work with your mobile hotspot.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  Why Doesn’t My iPhone Hotspot Work With My Fire Stick? 
 
  Your iPhone hotspot should work with your Fire Stick as long as your connection is fast enough. If it is, but you see a connection error, then you may need to manually configure the Wi-Fi connection on your Fire Stick.
@@ -65,10 +83,16 @@ Close
 3. Select**Network** .  
 ![The Fire Stick interface with Network option highlighted.](https://www.lifewire.com/thmb/Ih6xSHnG4pbkWWl6XBYe-kJJ9LA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-connect-a-fire-stick-to-a-mobile-hotspot-e8b400c135c0462fb8c2d425f1b359aa.jpg)
 4. Highlight the iPhone mobile hotspot connection, and press the**menu icon** on your remote to forget the connection.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Fire Stick Network interface with an iPhone highlighted.](https://www.lifewire.com/thmb/k7d3E5SWj-gWDD4tHl-TvTkukT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-connect-a-fire-stick-to-a-mobile-hotspot-01de3ed47093455397ef74190a9bd01d.jpg)
 5. Select**Join Other Network** .  
 ![Fire Stick interface with Join Other Network highlighted.](https://www.lifewire.com/thmb/X7xLxoLHVR1iHlQARJvZfEzzX0o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-connect-a-fire-stick-to-a-mobile-hotspot-8089aa77d0194b868a830ed13f36a82f.jpg)
 6. Enter the**SSID** of your iPhone hotspot, then select**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Fire Stick SSID with Next highlighted.](https://www.lifewire.com/thmb/x3TMA83fHH3HUSsETvTJwdXqp7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-connect-a-fire-stick-to-a-mobile-hotspot-f258ae168535487094d4644a0b1f4334.jpg)  
  The SSID is the name of the hotspot, i.e.**(your name)’s iPhone**
 7. Select the Security Type and select**Next** .  
@@ -80,12 +104,25 @@ Close
 10. Enter**172.20.10.4** as the IP address.  
 ![Fire Stick IP address highlighted.](https://www.lifewire.com/thmb/zy_ulnw0TmxsZoYU-0O0wQ-55Zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013-how-to-connect-a-fire-stick-to-a-mobile-hotspot-e70bd7845e1a4a35bbe65104515e4283.jpg)
 11. Enter**172.20.10.1** as the Gateway.  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Fire Stick Gateway setting highlighted.](https://www.lifewire.com/thmb/8TnZ3Ce_V9X7_XkI4RiASs3tZIA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014-how-to-connect-a-fire-stick-to-a-mobile-hotspot-a0e0a0faf20744329b47c32c0064818f.jpg)
 12. Set the prefix length to**28** .  
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fire Stick Network Prefix Length highlighted.](https://www.lifewire.com/thmb/n12CrFTVy5SFtMCjZFQ64KMs5G4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/015-how-to-connect-a-fire-stick-to-a-mobile-hotspot-a578ce2737c84eac8758bf61842fc610.jpg)
 13. Enter**8.8.8.8** as the DNS.  
 ![Fire Stick DNS 1 highlighted.](https://www.lifewire.com/thmb/3n6_B_5K56iTmjW0XdFgx-fPt9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/016-how-to-connect-a-fire-stick-to-a-mobile-hotspot-25c4732827bc4bf283491973aafc1ca6.jpg)
 14. Leave the second DNS field blank.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fire Stick network interface with a blank DNS 2 highlighted.](https://www.lifewire.com/thmb/4tIfsjMRI0Kr2Jnz730YL4r-Adw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/017-how-to-connect-a-fire-stick-to-a-mobile-hotspot-bdede8b8d24342b485f2016e0526d63c.jpg)
 15. Select**Connect** .  
 ![Fire Stick network summary with Connect highlighted.](https://www.lifewire.com/thmb/oCOcyhfzF3LupBi2mPbHXxC8Y7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/018-how-to-connect-a-fire-stick-to-a-mobile-hotspot-d33fe9039dad4ca28430a0affd19adf1.jpg)  

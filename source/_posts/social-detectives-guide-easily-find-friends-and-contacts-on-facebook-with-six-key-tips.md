@@ -1,7 +1,7 @@
 ---
 title: "Social Detective's Guide: Easily Find Friends and Contacts on Facebook with Six Key Tips"
-date: 2024-08-02 23:35:44
-updated: 2024-08-05 12:42:13
+date: 2024-08-05T02:34:20.457Z
+updated: 2024-08-06T02:34:20.457Z
 categories:
   - BestProducts
 description: "This Article Describes Social Detective's Guide: Easily Find Friends and Contacts on Facebook with Six Key Tips"
@@ -21,8 +21,14 @@ Close
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Run a Name Search on Facebook 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Facebook people search results](https://www.lifewire.com/thmb/F7zTC4WuMS-5Lj3Iaxag5ealqEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-name-search-99362aa2030f4919b011554cb72beb09.png) 
 
  The main search bar at the top of the website is one method for finding people on Facebook by their name. Type a name, select**People** on the left, and then look through the results.
@@ -35,6 +41,9 @@ of 06
 
 ##  Search Facebook by the Person's Employer or School 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Facebook people search by school](https://www.lifewire.com/thmb/iNT2koAiMAe9xkSPaTupSC76K-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-people-search-school-153f5077027f4eeaa62a09583684f007.png) 
 
  Don't know the person's name? You can still do a Facebook search for someone, even if you're not sure what their name is. Knowing where they work or went to school, for example, makes it a lot easier to find them online.
@@ -45,6 +54,9 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Piggyback on Your Friends' Friends 
 
 ![Facebook profile current city tab](https://www.lifewire.com/thmb/FiuYoht8019xKS5X8uzxWa22180=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-friends-city-search-f5cddb4ae21544bc9701a0c7652f366f.png) 
@@ -79,8 +91,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Do a Facebook Search by Phone Number 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Facebook search for a phone number](https://www.lifewire.com/thmb/mkW-F_qqJfW178WL1C1bWc3NChA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-phone-number-search-a525b6b7cf304bc88e191afd4c54850b.png) 
 
  Trying to figure out who owns a phone number that called you? Facebook can also be used for a reverse number search; just type the number into the search bar to see what shows up.

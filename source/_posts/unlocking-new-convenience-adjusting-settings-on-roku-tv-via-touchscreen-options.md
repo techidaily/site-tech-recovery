@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Convenience: Adjusting Settings on Roku TV via Touchscreen Options"
-date: 2024-08-03 15:36:26
-updated: 2024-08-05 10:31:31
+date: 2024-08-05T02:34:58.084Z
+updated: 2024-08-06T02:34:58.084Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking New Convenience: Adjusting Settings on Roku TV via Touchscreen Options"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
  This article explains three easy ways to open a Pages document on your Windows computer. The instructions assumes you have the[Pages file](https://www.lifewire.com/what-is-a-pages-file-2622800) already saved on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Open a Pages File Using iCloud
 
  You don’t have to own an iPhone to have an[iCloud account](https://www.lifewire.com/icloud-faq-1999497) . Apple offers its cloud service for free, giving you a way not only to open a Pages document but edit it online or download it as a Microsoft Word or PDF file. It's is an excellent option if you anticipate receiving additional Pages files.
@@ -30,13 +33,22 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 4. Browse for and select the**Pages** file, then choose**Open** .  
 ![File browsing window with the Pages file and "Open" highlighted](https://www.lifewire.com/thmb/Fss9CIM1vsp6Gqm9iTRleQGm-I0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pagesfileopen-3814642addc445e8a86a694d3a6b2d9f.jpg)
 5. You’ll see the Pages file in the Browse section. Double-click to open, view, and edit the document online.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Pages file in iCloud highlighted](https://www.lifewire.com/thmb/6cvAbibnpx257jk0CGVCJ3y2ClI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pagesfile-baf901f85a414454b78cff5aa9e15571.jpg)
 6. If you prefer to download the document, select the**ellipsis** (three dots) on the bottom right corner of the file, then choose**Download a Copy** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pages file in iCloud with "Download a Copy" highlighted](https://www.lifewire.com/thmb/RsiWblXgZnXiOAlWBe0KZyXKCqE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Downloadacopy-891739d3aae64002839b6d9dc2174734.jpg)
 7. Choose **PDF** or **Word** per your preference.  
 ![iCloud download formats with PDF and Word highlighted](https://www.lifewire.com/thmb/87oP7ttJnAsrMpJlTAY3RHKps5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PDForWord-10c7a04cc07f48359e4eb7b145dba808.jpg)
 8. Follow the subsequent prompts to download the Pages file and open it with the application of your choice. For example, use a[PDF reader](https://www.lifewire.com/free-pdf-readers-1356652) for that format, or a word processor if you downloaded it as a[DOCX](https://www.lifewire.com/docx-file-2620750) file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Convert a Pages File to Word or PDF Online
 
  If you don’t have an iCloud account and prefer not to create one, you can convert the Pages document to a different file type online. There are many[free document file converters](https://www.lifewire.com/free-document-converter-software-programs-2622864) to pick from, but not all of them support Pages files. We'll use CloudConvert for this example, but[Zamzar](https://www.lifewire.com/zamzar-review-2622862) is another one we recommend.
@@ -49,9 +61,16 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 4. Confirm that the right format is chosen (**DOC** ,**DOCX** , or**PDF** ). Then select**Convert** .  
 ![Pages to Word Converter with the Pages document and Convert highlighted](https://www.lifewire.com/thmb/zqvETFwmB94hW0UeoIp114f9rig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/convert-ea985d99bb8344a2a09eda548a9946de.jpg)
 5. You’ll see the conversion as it processes and then finishes. Select**Download** to get the converted file.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Pages to word converter process with Download highlighted](https://www.lifewire.com/thmb/V9UjdETNc8ZjjVmSBcGdksYxHUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DownloadPagesfile-0017cc7494334bf788c62b0300e4af86.jpg)
 6. Follow the subsequent prompt to download the file to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Convert and Send a Pages File Using an iPhone or iPad
 
  If you have an iPhone or iPad, you can quickly convert the Pages document to a Word or PDF file and then send it to your Windows computer.
@@ -61,9 +80,24 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 ![iOS Pages app with Share and Pages highlighted](https://www.lifewire.com/thmb/cuA92Rec-OnHVaUvCQM2bPg9QVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sharetopages-792778085e1c4d22a586fbccdd307b05.jpg)
 3. Tap the**Share** button in Pages, followed by**Export and Send** . Choose a format from the list, like**PDF** or**Word** .  
  If you don't see that on your device, tap the**ellipsis** (three dots) instead, then choose**Export** and pick **PDF** or **Word** .  
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS Pages app with More (three dots), Export, and PDF/Word highlighted](https://www.lifewire.com/thmb/C598CaqMqyVM3NXjacp3EbLTJtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ExporttoPDF-a5114792ff0141ef9c39d731d0d7a633.jpg)
 4. Your share sheet should open automatically, but if it doesn't tap **Export** or**Share** .
 5. Choose the best option to[send or share the file with your Windows computer](https://www.lifewire.com/access-iphone-files-on-pc-5180132) . For instance, you can send it via Mail, Gmail, Slack, or another method to easily obtain it on your PC.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![PDF export in Pages app with Share and share options highlighted](https://www.lifewire.com/thmb/tYJA0O93KMcRuzmcBflBb6CuBQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SharePDF-ae61c6c233af462980fe6e9a7ef87c1f.jpg)
 6. Follow the subsequent prompts, depending on the method you select, and then open the Word or PDF file on your Windows computer.
 

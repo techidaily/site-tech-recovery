@@ -1,7 +1,7 @@
 ---
 title: Overcome Camera Focusing Problems on Your iPhone Using Our Proven Techniques
-date: 2024-08-03 13:20:56
-updated: 2024-08-06 12:51:57
+date: 2024-08-05T02:35:00.039Z
+updated: 2024-08-06T02:35:00.039Z
 categories:
   - BestProducts
 description: This Article Describes Overcome Camera Focusing Problems on Your iPhone Using Our Proven Techniques
@@ -17,6 +17,9 @@ Close
 
 Information in this article applies to iPhone 6 and later.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Reasons Why Your iPhone Camera Won't Focus 
 
  While a misbehaving iPhone camera can cause panic, there are often innocent explanations for why it's not focusing. Common culprits include:
@@ -28,6 +31,18 @@ Information in this article applies to iPhone 6 and later.
 
  Usually, the cause of the problem is revealed through its corresponding fix.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Fix an iPhone Camera That Won't Focus 
 
  Follow these steps in the order listed to identify and fix an iPhone camera that's not focusing.
@@ -39,6 +54,9 @@ Information in this article applies to iPhone 6 and later.
 3. [ Set the focus point](https://www.lifewire.com/improve-iphone-photography-4685783) . With the Camera app open, tap the object you're trying to photograph. It could be a person's face, a flower, or another subject. By tapping it, you tell the iPhone what element you want it to focus on.  
  Increase or decrease brightness by using the sliding exposure bar that appears next to the focus area.
 4. [ Turn off AE/AF Lock](https://www.lifewire.com/what-is-af-lock-492613) . AE/AF stands for Auto Exposure and Auto Focus. When this setting is locked, the iPhone camera keeps the targeted part of the shot in focus. To use this feature, frame the image, then press and hold the part of the shot where you want the camera to focus.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![The AE/AF Lock mode enabled and disabled in the iOS Camera app](https://www.lifewire.com/thmb/Pz0Xoj-Kqyi_X8mz-8cQfz9s_oE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_iphone-camera-wont-focus-4177598-d878c9952ca44a76a31b9995883c6a65.jpg)  
  The camera keeps the object in focus even if something else enters the shot later. To turn it off, tap the screen.
 5. [ Practice good photography](https://www.lifewire.com/how-to-use-iphone-camera-1999752) . Sometimes, focusing issues arise because of the way you use the iPhone camera. Avoid taking photos of subjects that are too close to the iPhone. Also, don't change the distance from the subject, move around, or shake the phone. These actions make it hard for the iPhone camera to focus properly.

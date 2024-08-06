@@ -1,7 +1,7 @@
 ---
 title: How to Use Built-In Tools to Capture Your Screen on a Compaq Device
-date: 2024-08-04 15:44:32
-updated: 2024-08-06 11:53:18
+date: 2024-08-05T02:34:35.066Z
+updated: 2024-08-06T02:34:35.066Z
 categories:
   - BestProducts
 description: This Article Describes How to Use Built-In Tools to Capture Your Screen on a Compaq Device
@@ -20,6 +20,9 @@ of 17
 
 ## [Project Gutenberg](https://www.gutenberg.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Project Gutenberg](https://www.lifewire.com/thmb/4OcH6StH0miYClcfFav0B809yrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/project-gutenberg-c74c7035f2e84229a51ad1d6d0d3c503.png)
 
  What We Like
@@ -45,6 +48,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ManyBooks](https://manybooks.net/)
 
 ![ManyBooks horror books](https://www.lifewire.com/thmb/VUNvSbfPj4JxsPpoQ-aeLSDRMoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manybooks-horror-66393c2957f74d4e887e11a46e63cbae.png)
@@ -74,6 +80,9 @@ of 17
 
 ## [Open Library](https://openlibrary.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open Library free fantasy books](https://www.lifewire.com/thmb/-ctO4xId9XQoiLRkftJcE3RwBc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/open-library-free-books-90d83651ac8441ecbcf38bd648ad33ce.png)
 
  What We Like
@@ -98,6 +107,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Librivox](https://librivox.org/)
 
 ![Librivox free book downloads](https://www.lifewire.com/thmb/3CD8SNYd6sSu5_LvoNlASuUJVzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/librivox-free-books-d032914dc8884c46b3d9e5604101ac6b.png)
@@ -125,6 +137,9 @@ of 17
 
 ## [Google Play Books](https://play.google.com/store/books)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Play's top free ebooks](https://www.lifewire.com/thmb/rWdOx4g3sL9wBs75Gen-8fKmwLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-play-free-books-7805ff6114d3413b981bad07ad9309a9.png)
 
  What We Like
@@ -175,6 +190,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## [Authorama](https://www.authorama.com/)
 
 ![Authorama free book library](https://www.lifewire.com/thmb/lYssuu_g6PSku3pyk0pf5_swye8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/authorama-free-books-58fce73bc8574d86adfd5ea1ca34208f.png)
@@ -203,6 +221,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## [Wikisource](https://wikisource.org/wiki/Main%5FPage)
 
 ![Wikisource home page](https://www.lifewire.com/thmb/MBfdbz4twoDq9wAPQBtLc2vgjh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wikisource-a1d3f9ef301e4806b50e61c49375b852.png)
@@ -252,6 +273,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Free-eBooks.net](https://www.free-ebooks.net/)
 
 ![free-ebooks.net romance books](https://www.lifewire.com/thmb/MFwV8nsWimWGfjT3kr47omFtjzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-ebooks-romance-books-e1de021c14b64c58b4e148e0d206c144.png)
@@ -278,6 +302,9 @@ of 17
 
 ## [The Online Books Page](https://digital.library.upenn.edu/books/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![The Online Books Page](https://www.lifewire.com/thmb/NtXfFY_H2MOVz3zuO7C0KZ49Fs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/online-books-page-292c14fbd74942d0bb05d4b5241be408.png)
 
  What We Like
@@ -304,6 +331,11 @@ of 17
 
 ## [eBooks.com](https://www.ebooks.com/free)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Free book downloads at eBooks.com](https://www.lifewire.com/thmb/f64HJTqNV5QI7QMKZTlbQF51FgY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ebooks-com-free-books-8efd93df14464c68b139adde505dec38.png)
 
  What We Like
@@ -330,6 +362,9 @@ of 17
 
 ## [International Children's Digital Library](http://childrenslibrary.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![International Children's Digital Library](https://www.lifewire.com/thmb/BfmcMPozUonvQpPrd_lOJrsHPRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/international-childrens-digital-library-2bc17e8bfa0c4a8f87f80e695d36b273.png)
 
  What We Like
@@ -352,8 +387,14 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Everand](https://www.everand.com)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![The Everand home page](https://www.lifewire.com/thmb/_RKXRhYWjNmhnh4iDOAdnWVgFSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Everand-dc93d107c8644c8c96c22fb35117be3b.jpg)
 
  What We Like
@@ -379,6 +420,9 @@ of 17
 
 ## [Free Computer Books](https://freecomputerbooks.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Free Computer Books](https://www.lifewire.com/thmb/kpGWwXVxeczS8A5cNT55XNUrNTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-computer-books-695ea6d8e0b940dbb08d6bd996afb63d.png)
 
  What We Like
@@ -402,6 +446,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## [Sacred Texts](https://www.sacred-texts.com/)
 
 ![The home page for the Internet Sacred Text Archive website](https://www.lifewire.com/thmb/ntP2NHa4fP5BSlaszy1nVXzXXVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sacred-texts-e689ebc376f646b59b8c7af55726591b.png)
@@ -427,6 +474,9 @@ of 17
 
 of 17
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [SlideShare](https://www.slideshare.net/)
 
 ![The Slideshare home page](https://www.lifewire.com/thmb/u86635z-EttY7kv47Qh_qv5FUwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Slideshare-1843ff9a9d0c41389449798ac5a4aecf.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "IPhone/iPad Readers' Guide: Secrets of Easy eBook Shopping with the Apple Books Application"
-date: 2024-08-04 23:17:26
-updated: 2024-08-05 10:35:55
+date: 2024-08-05T02:34:45.614Z
+updated: 2024-08-06T02:34:45.614Z
 categories:
   - BestProducts
 description: "This Article Describes IPhone/iPad Readers' Guide: Secrets of Easy eBook Shopping with the Apple Books Application"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/84bcfb215924d4b6e2371f604fa3d4a445ea39a93
 ---
 
 ## IPhone/iPad Readers' Guide: Secrets of Easy eBook Shopping with the Apple Books Application
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Open the**Books** app on an iPhone or iPad and tap**Book Store** .
@@ -29,11 +32,17 @@ thumbnail: https://thmb.techidaily.com/84bcfb215924d4b6e2371f604fa3d4a445ea39a93
 1. Open the**Books** app.
 2. Tap**Book Store** .  
  You can also select Audiobooks to view those options, or tap**Search** to enter a specific item.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Book Store icon in Books app on iPad](https://www.lifewire.com/thmb/dWyvMlNlzcazLAoxFdhuI04QO74=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_buy-ebooks-at-ibookstore-ipad-1999866-1d475f87c4434bd1b372d51fe0e67b5b.jpg)
 3. Find and select the e-book you want to order to open its information screen.  
 ![Apple Books New This Week section on iPad](https://www.lifewire.com/thmb/WN_yOzmbtUggcZkPINQNAZ0I1cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-book-store-254be83453ed4e1baa39aec617a0acea.PNG)
 4. Tap**Buy** and then confirm the order to purchase the e-book.  
  If the title you chose is free, select**Get** to download it to your device.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Buy button in Books app on iPad](https://www.lifewire.com/thmb/s8QY8eeGK6W5WDxifBDdoVj1jbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_buy-ebooks-at-ibookstore-ipad-1999866-6190920ff7254f0f80b8ad8e8cf6a5c5.jpg)
 
  Similar to App Store and subscriptions on your iPhone or iPad, Books purchases use your iCloud payment method. You can[view details and make updates](https://www.lifewire.com/change-itunes-account-details-2000448) from Settings.
@@ -42,14 +51,23 @@ thumbnail: https://thmb.techidaily.com/84bcfb215924d4b6e2371f604fa3d4a445ea39a93
 
  If you purchased a book or[downloaded](https://www.lifewire.com/uploading-and-downloading-online-3985950) a free e-book, the information screen for the book changes to show a Read button. Tap**Read** to start reading the book.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Read button in Books app on iPad](https://www.lifewire.com/thmb/SerpnZPTaDQhmYQpcPOcWlhOtw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_buy-ebooks-at-ibookstore-ipad-1999866-b2cafab437ca453091185f06bf1fd04b.jpg)
 
  Another way to read a book is to go to the Library. Every book you add to the Books app is stored there—including books you ordered from the Books app, transferred to your device from other apps, or copied to your iPad or iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Library tab of Books app for iPad](https://www.lifewire.com/thmb/vSd9Lljd3sqaIrR4jNio1Hkbmr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/books-app-library-ipad-a62998329c8c494db423be141aa994b6.PNG)
 
  Once you're in the Library, select the book you want to read. It opens immediately. Swipe left and right to turn the pages or tap once to access the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Free eBook open on iPad](https://www.lifewire.com/thmb/nssUbKPyPWGUsHEY8VSohohlDdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ebook-ipad-8145236e2a3343d5927fae6f5da80b85.PNG)
 
  To return to your other e-books, tap once to show the menu, then select the back arrow or**x** .

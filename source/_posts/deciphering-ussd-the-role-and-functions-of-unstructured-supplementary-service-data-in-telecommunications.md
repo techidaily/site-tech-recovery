@@ -1,7 +1,7 @@
 ---
 title: Deciphering USSD - The Role and Functions of Unstructured Supplementary Service Data in Telecommunications
-date: 2024-08-05 14:42:49
-updated: 2024-08-06 10:50:38
+date: 2024-08-05T02:34:40.158Z
+updated: 2024-08-06T02:34:40.158Z
 categories:
   - BestProducts
 description: This Article Describes Deciphering USSD - The Role and Functions of Unstructured Supplementary Service Data in Telecommunications
@@ -12,28 +12,44 @@ thumbnail: https://www.lifewire.com/thmb/Os_N3r14bsehI0Vy6R-Qc8T-HIA=/400x300/fi
 ## Deciphering USSD - The Role and Functions of Unstructured Supplementary Service Data in Telecommunications
  Unstructured Supplementary Service Data (USSD) is a[communication protocol](https://www.lifewire.com/definition-of-protocol-network-817949) for mobile phones. By using USSD codes, you can access web-based services without installing a mobile[app](https://www.lifewire.com/what-are-apps-1616114) . Here's what is it, how it works, and why it's important.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## What Is USSD?
 
  The USSD messaging protocol is part of the[Global System for Mobile Communications (GSM)](https://www.lifewire.com/definition-of-gsm-578670) digital cellular standard. Like[SMS](https://www.lifewire.com/what-is-sms-mms-iphone-2000247) and[MMS](https://www.lifewire.com/what-is-mms-picture-messaging-578671) , USSD facilitates communication without the need for a dedicated app. Unlike SMS, which is used for back-and-forth text messaging between two phones, USSD establishes a real-time connection between your phone and a[mobile network](https://www.lifewire.com/how-does-a-mobile-network-work-2373338) or a[server](https://www.lifewire.com/servers-in-computer-networking-817380) . That way, you can do things like add time to your phone plan, check your bank account, and more without having to download or install any apps on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## What Is a USSD Code?
 
  USSD relies on codes made up of characters found on every mobile phone. When you dial a USSD code, your phone sends a request to a USSD[network gateway](https://www.lifewire.com/definition-of-gateway-817891) , which routes the request to a web-based application. The network gateway then returns a text-based menu that you can use to interact with the app.
 
  On[prepaid phones](https://www.lifewire.com/best-cheap-cell-phone-plans-4156583) , for example, you can use USSD codes to check your remaining balance, enable roaming, or use location-based services. It's also possible to get social media updates from[Facebook](https://www.lifewire.com/what-is-facebook-3486391) and[X (formerly Twitter)](https://www.lifewire.com/what-exactly-is-twitter-2483331) via USSD. USSD codes can be used to transfer money,[set up call forwarding](https://www.lifewire.com/call-forwarding-explained-3426769) , and even browse the web via[Wireless Application Protocol (WAP)](https://www.lifewire.com/definitions-of-wap-816548) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Running USSD Codes
 
  Most USSD codes begin with an asterisk (**\*** ) or a hashtag (**#** ). To initiate a USSD request, enter the USSD code on your keypad. Some codes will run immediately while some require you to tap**Send** .
 
  Since USSD applications run on your mobile network rather than the device itself, they don't take up storage space or consume system resources, making them especially useful for older phones. No internet connection is required to use USSD apps; as long as you can connect to your[mobile carrier's](https://www.lifewire.com/what-is-a-mobile-carrier-2373339) network, you can take advantage of USSD codes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Feature Codes
 
  You don't need a[smartphone](https://www.lifewire.com/what-makes-a-smartphone-smart-579597) to use USSD codes; however, some codes are exclusive to specific types of phones. Also called quick codes or feature codes, these USSD codes are programmed into the device's[SIM card](https://www.lifewire.com/what-are-sim-cards-577532) .
 
  Some feature codes only serve one purpose. For example, dialing**\*#06#** on most[Android](https://www.lifewire.com/what-is-google-android-1616887) phones will display your[IMEI](https://www.lifewire.com/how-to-find-your-phones-imei-or-meid-number-2377713) number. On[iPhones](https://www.lifewire.com/apple-iphone-basics-features-1999727) , dialing**\*3001#12345#\*** with display information about your device and SIM card. Other codes are specific to your mobile carrier. For example, on T-Mobile phones, you can turn on call forwarding with the code**\*43#** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Other Uses for USSD
 
  USSD codes allow companies to provide web-based services to users. Businesses can develop USSD-based apps to do things like:
@@ -43,6 +59,9 @@ thumbnail: https://www.lifewire.com/thmb/Os_N3r14bsehI0Vy6R-Qc8T-HIA=/400x300/fi
 * Confirm delivery orders
 * Send virtual coupons
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Making Payments With USSD
 
  Some banks and online payment services support balance inquiries and money transfers via USSD, which is more convenient than using a mobile app. You must first register your phone number with a payment method, then dial**\*99#** to set up mobile payments.

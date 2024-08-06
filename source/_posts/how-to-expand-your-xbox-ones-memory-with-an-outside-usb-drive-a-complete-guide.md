@@ -1,7 +1,7 @@
 ---
 title: How to Expand Your Xbox One's Memory with an Outside USB Drive - A Complete Guide
-date: 2024-08-02 23:44:33
-updated: 2024-08-05 11:11:57
+date: 2024-08-05T02:34:27.666Z
+updated: 2024-08-06T02:34:27.666Z
 categories:
   - BestProducts
 description: This Article Describes How to Expand Your Xbox One's Memory with an Outside USB Drive - A Complete Guide
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 ---
 
 ## How to Reconnect with Someone Who Called From Blocked or Private No
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Dial**\*69** to call back the private number. Or try**\*57** or**#57** to trace the call.
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 
  This article describes how to call a private number using five different methods.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Call a Private Number for Free With \*69
 
  Following an FCC mandate to allow private calling, telephone companies created a service called Last Call Return that automatically calls the last number that called your phone, whether or not the call was private.
@@ -32,16 +38,25 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 
  Using \*69 could make your problem worse. Some blocked calls are automated callers who want to confirm if your number is active. They intend to sell your number to other scammers, and by calling back, you are letting the system know it reached an active line.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Check Your Provider's Logs for Private Numbers
 
  Your telephone service provider should keep a log of your incoming and outgoing calls. To access this list, sign in to your account and look for a menu option under your line that indicates call history.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Billing and usage of phone contract showing a call log of calls received](https://www.lifewire.com/thmb/gfb4OsbEE3JplxnPm45hPmBOtlA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/incoming_outgoing_calls-5b339731c9e77c0037fc1fa2.jpg)
 
  Sometimes the numbers of private callers are listed here, unmasked. To find the number, check the phone log on your phone to find the time the blocked call came in. Then, look online at the call log, sometimes under the billing and usage menu, for a match with the date and time.
 
  The length of time call records are kept varies with each phone carrier. Typically, these records are held for one to seven years and can be used in criminal investigations.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Find Out Who's Calling From a Private Number With Reverse Number Lookup
 
  If you see the number on your phone but it doesn't have a name associated with it, you might not want to call the private number back until you know who it is. For this, use a reverse phone lookup tool like[Whitepages](https://www.whitepages.com/reverse-phone) to get more information. Or, type the number into Google to see if it belongs to an established business or if there is a public record with the owner's name attached.
@@ -56,6 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 
  Another way to call a private number is to pay for a service such as[TrapCall](https://www.trapcall.com/) . It's a tool that unmasks private and blocked callers. It can provide the phone number and the name the phone is registered to. It can also reveal the caller's address and offers a blocklist option to[block future calls](https://www.lifewire.com/top-call-blocking-app-for-smartphones-4050085) .
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Activate Call Tracing to Unblock Callers
 
  Some telephone providers offer a call-tracing service to end unwanted calls that are harassing, obscene, unlawful, or threatening. In most cases, to activate this service, press**\*57** or**#57** . Some phone providers offer this service for free, while others require a small monthly fee.

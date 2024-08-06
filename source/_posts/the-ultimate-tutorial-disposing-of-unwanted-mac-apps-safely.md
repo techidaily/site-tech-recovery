@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial: Disposing of Unwanted Mac Apps Safely"
-date: 2024-08-03 22:45:28
-updated: 2024-08-06 11:51:23
+date: 2024-08-05T02:35:16.276Z
+updated: 2024-08-06T02:35:16.276Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Tutorial: Disposing of Unwanted Mac Apps Safely"
@@ -31,8 +31,14 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
  The drag-and-drop method of deleting apps with the trash can doesn't work for all apps, but when you combine it with the Finder, you can delete almost any application. Here's how:
 
 1. Open a Finder window by selecting**File** \>**New Finder Window** in the Apple menu bar or by clicking the**Finder** icon on the Dock.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Apple menu bar showing File drop-down menu](https://www.lifewire.com/thmb/MGmsm3YDwhDyatYOHrrRRW3-h0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-uninstall-apps-on-the-mac-6275a27fdf634aa88081ee1bd2565f51.jpg)
 2. Click**Applications**  in the left panel of the Finder window to view the installed applications on your computer.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Mac Finder Window showing Applications](https://www.lifewire.com/thmb/vHQixA8eNCDtMNb9UUGfnSOYS1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-uninstall-apps-on-the-mac-f3bdc444cc264857b4ebfa75ee21d74d.jpg)
 3. Click the**Application** that you want to uninstall.
 4. Click**File** from the drop-down menu in the upper-left corner of the screen.
@@ -41,8 +47,15 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 6. Right-click the**Trash** icon in the Dock.  
 [How to Right-Click on a Mac](https://www.lifewire.com/right-click-on-a-mac-4164327)
 7. Click**Empty Trash** in the pop-up menu to remove the application from your Mac.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Trash Can in the Mac Dock](https://www.lifewire.com/thmb/_c8iNfdVM251v01qLTjDdWk_KRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-uninstall-apps-on-the-mac-a5e892ee5ad14e7c8d59b11902ecc636.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Uninstall Apps Using an Uninstaller
 
  Certain apps may include an Uninstall tool inside their Application folder. In this case, you want to uninstall using that tool.
@@ -60,8 +73,14 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
  Another option for uninstalling apps on a Mac is by using the Launchpad. This is an easy no-fuss way to uninstall the programs that you purchase from the App Store.
 
 1. Click the**Launchpad** icon on Dock.  
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Launchpad icon on the Mac Dock](https://www.lifewire.com/thmb/BC_6KcEW2TGd0n99uqg7_p3ZKpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-uninstall-apps-on-the-mac-b79fff671b584f7da9b7167e120bc3bf.jpg)
 2. Locate the app you want to delete by entering its name in the search field at the top of the screen or by scrolling the pages of the Launchpad.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Application on Mac Launchpad](https://www.lifewire.com/thmb/VGa3xThDAqbgJ3TDaNstoREgNRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-uninstall-apps-on-the-mac-997fd6ad814b45b6bb5d212ca3335dce.jpg)
 3. Click and hold the app until all the apps start to shake.
 4. When the icon starts shaking, click the**X** that appears next to it.  

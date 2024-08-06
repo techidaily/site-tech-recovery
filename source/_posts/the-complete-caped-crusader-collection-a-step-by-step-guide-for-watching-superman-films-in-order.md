@@ -1,7 +1,7 @@
 ---
 title: "The Complete Caped Crusader Collection: A Step-by-Step Guide for Watching Superman Films in Order"
-date: 2024-08-02 23:38:14
-updated: 2024-08-05 12:32:19
+date: 2024-08-05T02:34:08.376Z
+updated: 2024-08-06T02:34:08.376Z
 categories:
   - BestProducts
 description: "This Article Describes The Complete Caped Crusader Collection: A Step-by-Step Guide for Watching Superman Films in Order"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 ---
 
 ## The Complete Caped Crusader Collection: A Step-by-Step Guide for Watching Superman Films in Order
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * In release order:_Superman: The Movie_ \>_Superman II_ \>_Superman III_ \>_Superman IV_ \>_Superman Returns_ \>_Man of Steel_ \>_Batman v. Superman_ \>_Justice League._
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 
  This article explains how to watch all the_Superman_ movies in order of release and by series, along with some non-linear ways to watch.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Note
 
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
@@ -28,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 
  The whole gang is there: ambitious Lois Lane who inexplicably can’t spell, Clark Kent’s gee-whiz disguise marked by oversized glasses and his hair parted on the opposite side, Jimmy Olsen’s trusty camera and enthusiasm, and the no-nonsense_Daily Planet_ editor Perry White.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![Christopher Reeve as Superman in Superman: The Movie](https://www.lifewire.com/thmb/ZHL-RJQzh5JTDa7wGAkoe9HBn2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-watch-the-superman-movies-in-order-5089046-f2fb55ac5c7c456787e9e5f545bc3a8f.jpg)
 
  Keystone / Getty Images
@@ -52,10 +61,16 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 | _Justice League_ (2017)                     | Aquaman, Batman, Cyborg, the Flash, Superman, and Wonder Woman join up to save Earth from an alien invasion.                   | Max                |
 | _Zack Snyder's Justice League_ (2021)       | A four-hour version of the 2017 film by original director Zack Snyder. This one contains restored footage and reworked scenes. | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies By Era
 
  You could also break up your viewing with a couple of strategic groupings by series.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### The Christopher Reeve Era
 
  These films feature many fans' favorite Superman, Christopher Reeve, who played both the strong and confident Man of Steel and the bumbling, mild-mannered Clark Kent perfectly.
@@ -97,6 +112,18 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 
  If you’re interested in seeing more, several platforms offer extended cuts and special editions of both the Christopher Reeve era and DCEU Superman movies. Look for these versions on Amazon Prime, Google Play, Vudu, and YouTube.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Something Old, Something New, Something Newer
 
  If you want to experience the Christopher Reeve era but don’t want to watch the whole series, you don’t have to._Superman II_ does a great job of summarizing the first movie in the intro credits and features two formidable enemies: General Zod and Lex Luthor._Superman III_ and_Superman IV_ are not as good, so you can leave it at the second one.

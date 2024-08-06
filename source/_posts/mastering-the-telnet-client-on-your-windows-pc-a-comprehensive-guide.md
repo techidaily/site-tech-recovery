@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Telnet Client on Your Windows PC: A Comprehensive Guide"
-date: 2024-08-04 12:10:31
-updated: 2024-08-05 11:12:43
+date: 2024-08-05T02:34:02.729Z
+updated: 2024-08-06T02:34:02.729Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Telnet Client on Your Windows PC: A Comprehensive Guide"
@@ -28,13 +28,22 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 2. Select**Programs** . If you don't see that because you're viewing the[Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) icons, choose **Programs and Features** instead, and then skip to Step 4.  
 ![Programs icon in Windows 10 Control Panel](https://www.lifewire.com/thmb/Dm2SE6xLA0LfA2NSpp5h0YSDSE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_what-is-telnet-2626026-fab00c62c28b4a5fb849f4c4ac758ab8.jpg)
 3. Select **Programs and Features** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Programs and Features in Windows 10 Control Panel/Programs](https://www.lifewire.com/thmb/413J8tkhETNMfUqGrQNt56jyqjo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_what-is-telnet-2626026-7604dcbfbbf9499ca21242c92b9ac5d0.jpg)
 4. Select**Turn Windows features on or off** from the left pane.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Turn Windows features on or off link in Programs and Features Control Panel on Windows 10](https://www.lifewire.com/thmb/mOyjWvAVjVvLPEfdtC2gLDmk62w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_what-is-telnet-2626026-5bbe80a7c9e77c00517b1934.jpg)
 5. Select the check box next to**Telnet Client** .  
 ![Telnet Client checkbox in Windows Features dialog box](https://www.lifewire.com/thmb/ipojrY0t0n8rH2J9cFv8WpKCxcw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_what-is-telnet-2626026-5bbe813546e0fb0051275b1b.jpg)
 6. Select**OK** to enable Telnet. When you see the**Windows completed the requested changes** message, you can close any open dialog boxes.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Execute Telnet Commands in Windows
 
  Telnet commands are easy to execute. After[opening Command Prompt](https://www.lifewire.com/how-to-open-command-prompt-2618089) , enter the word**telnet** . The result is a line that says**Microsoft Telnet>** , which is where commands are entered.
@@ -51,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 
 [Microsoft keeps a list of Telnet commands](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb491013%28v=technet.10%29) if you'd like to learn more about how to do things like open and close a Telnet connection, display the Telnet Client settings, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does Telnet Work?
 
  Telnet is a[network protocol](https://www.lifewire.com/definition-of-protocol-network-817949) that provides a[command-line interpreter](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) to communicate with a device. It's used most often for remote management, but also sometimes for the initial setup for some devices, especially network hardware such as switches and access points.
@@ -65,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 
  Although not the same as Telnet,[free remote access software tools](https://www.lifewire.com/free-remote-access-software-tools-2625161) are an alternative way to communicate with another computer remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Telnet Games & Additional Information
 
  There are several[Command Prompt tricks](https://www.lifewire.com/command-prompt-tricks-and-hacks-2618104) you can perform using Telnet. Some of them are in text form, but you may have fun with them.
@@ -79,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 
  `telnet telehack.com`
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Eliza telnet AI commands](https://www.lifewire.com/thmb/imUhU7b-O1UeF8V030UxAM4PmQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/telnet-eliza-bot-31a1c00d36ac49b5aa00257acfe50825.png)
 
  Watch an ASCII version of the full_Star Wars Episode IV_ movie by entering this in Command Prompt:  

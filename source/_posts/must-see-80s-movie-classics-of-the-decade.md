@@ -1,12 +1,12 @@
 ---
 title: Must-See '80S Movie Classics of the Decade
-date: 2024-08-03 10:14:12
-updated: 2024-08-05 10:43:47
+date: 2024-08-05T02:35:09.001Z
+updated: 2024-08-06T02:35:09.001Z
 categories:
   - BestProducts
 description: This Article Describes Must-See '80S Movie Classics of the Decade
 excerpt: This Article Describes Must-See '80S Movie Classics of the Decade
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## Secure the Cream of the Crop: Exclusive iPad Deals Await You
@@ -47,8 +47,14 @@ Amazon
 
  With its ultra-wide 12MP front camera featuring Apple’s Center Stage technology and advanced back camera with True Tone, this compact tablet can help you take vivid photos, shoot 4K video, or call in for your next work call in high definition.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Apple 13-inch iPad Air 128GB (6th generation, M2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple 13-inch iPad Air 128GB (6th generation, M2).](https://www.lifewire.com/thmb/zvpKOo0dN5kmU5DH9YUwVneCq2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleAirM213inch_Amazon-89f4eaf2797441ca99b17d00b54383ec.jpg)
 
 Amazon
@@ -57,8 +63,14 @@ Amazon
 
  The new 2024 model of the Apple iPad Air also comes in a 13-inch version. Avid streaming viewers and digital artists will enjoy the larger screen size on the 13-inch Liquid Retina Display. Apple lists the iPad Air for $799, but Amazon is offering a modest discount on the newly released iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple 11-inch iPad Air 128GB (6th generation, M2)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Apple's M2 iPad Air lineup that includes 11-inch and a 13-inch tablets. ](https://www.lifewire.com/thmb/XEgDyn871WoFniVHQSfqADzQ040=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-iPad-Air-11-inch-and-13-inch-240507-c83a5226fccb47629f8cb4805ffcd0ac.jpg)
 
  Apple M2 iPad Air lineup.
@@ -69,8 +81,14 @@ Apple
 
  This brand-new release combines the lightweight design of prior iPad Air models with an upgraded Apple M2 chip for lightning-fast performance. The brilliant 11-inch Retina Display features P3 wide color, True Tone, and ultralow reflectivity to beautifully display photos, videos, and digital art with vivid colors.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple iPad Pro 11-inch 256 GB (7th generation)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Apple iPad Pro 11-inch 256 GB (7th generation).](https://www.lifewire.com/thmb/c2HKPdYEPh8_z26astI5UYbSVio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleiPadPro7thGen_Amazon-853ed0079e074539ad2071d02aa1ec1c.jpg)
 
 Amazon

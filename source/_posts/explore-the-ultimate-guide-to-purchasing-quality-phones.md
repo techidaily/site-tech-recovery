@@ -1,7 +1,7 @@
 ---
 title: Explore the Ultimate Guide to Purchasing Quality Phones
-date: 2024-08-04 17:26:42
-updated: 2024-08-06 11:56:46
+date: 2024-08-05T02:34:56.524Z
+updated: 2024-08-06T02:34:56.524Z
 categories:
   - BestProducts
 description: This Article Describes Explore the Ultimate Guide to Purchasing Quality Phones
@@ -30,6 +30,9 @@ thumbnail: https://www.lifewire.com/thmb/uyBKD3hGZjouG-q0-_95FJ_ppLc=/300x200/fi
 6. Built-in ports
 7. RAM (memory)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Much Should a Motherboard Cost?
 
  Motherboard prices vary widely by model and manufacturer and can be as little as $50 or less or as much as $1,500\. However, the more you spend on a motherboard, the more features you'll get. Here's a general overview of basic, average, and high-end motherboard prices.  
@@ -62,12 +65,18 @@ thumbnail: https://www.lifewire.com/thmb/uyBKD3hGZjouG-q0-_95FJ_ppLc=/300x200/fi
 
 [How to Check RAM and Motherboard Compatibility](https://www.lifewire.com/check-ram-and-motherboard-compatibility-5186297)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Close up of the CPU socket and motherboard laying on a table.](https://www.lifewire.com/thmb/WV8WVXvqGDl2YvFDsCxNkgVIkPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1267327926-7d1724acc0504c8391f4e08bd8f150e9.jpg)
 
  Close up of a CPU socket and motherboard.
 
 Narumon Bowonkitwanchai/Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Form Factor and Case Should a Motherboard Have?
 
  Along with the CPU socket, a motherboard's form factor is one of the most critical elements to select.
@@ -96,22 +105,43 @@ Narumon Bowonkitwanchai/Getty Images
 
  Most motherboards support PCIe 3.0, but some support the newer PCIe 4.0 and 5.0, which provide more bandwidth. If you have any PCIe cards or want to future-proof your selection, look for a board with PCIe 5.0 support.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Built-In Ports Does a Motherboard Need?
 
  It’s also worth looking at the ports built into the motherboard. Motherboards will include a mix of[USB-A](https://www.lifewire.com/usb-type-a-connector-2626032) ,[USB-C](https://www.lifewire.com/usb-c-4149490) , audio ports,[HDMI and DisplayPort](https://www.lifewire.com/displayport-vs-hdmi-4686971) , and even legacy ports like VGA, PS/2, parallel, and serial ports. Motherboards can also include Ethernet ports and other connectivity like built-in Wi-Fi and Bluetooth.
 
  Consider which ports you’re most likely to need, and select a motherboard that fits your requirements so you won’t have to add an expansion card or USB hub immediately.  
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Much RAM Does a Motherboard Need?
 
  It’s also important to look at how many[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) slots the motherboard has and how much total RAM it supports to meet your memory needs. This factor isn’t crucial if your computer only needs to stream media, surf the web, and play basic games. Still, having the option to install more RAM is vital if you do any video or photo editing or play resource-intensive games.  
 
 [How to Check RAM and Motherboard Compatibility](https://www.lifewire.com/check-ram-and-motherboard-compatibility-5186297)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who Should Buy a Motherboard?
 
  You'll need to purchase a motherboard if you're building a new PC. You may need to replace the motherboard when upgrading or fixing your current PC. If you're buying a new motherboard as a replacement or building a PC, ensure you have the knowledge and instructions on how to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## What Should I Do After Buying a Motherboard?
 
  After buying a motherboard, you must install it on your current PC or the PC you're building. Before you begin, be sure to have your motherboard and PC manuals. Consult an experienced tech for help or outsource the task if you're not an expert.

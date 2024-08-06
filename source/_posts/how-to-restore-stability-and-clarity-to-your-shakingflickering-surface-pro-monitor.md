@@ -1,7 +1,7 @@
 ---
 title: How To Restore Stability & Clarity to Your Shaking/Flickering Surface Pro Monitor
-date: 2024-08-03 15:41:32
-updated: 2024-08-06 12:47:52
+date: 2024-08-05T02:34:45.281Z
+updated: 2024-08-06T02:34:45.281Z
 categories:
   - BestProducts
 description: This Article Describes How To Restore Stability & Clarity to Your Shaking/Flickering Surface Pro Monitor
@@ -17,6 +17,9 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 
  This article explains how to make an appointment using the Apple Store App. You can make an appointment for product demos, workshops, and (in most cases) repairs.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Schedule an Appointment From the Apple Support App
 
  The Apple Support app provides troubleshooting and contact information, and it's the fastest way to get a Genius Bar appointment, especially if you own several Apple devices.
@@ -25,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 2. Choose the device you're having trouble with under**My Devices** .
 3. Choose the issue you're facing. For this example, we'll act like our screen is broken, which falls under**Repairs & Physical Damage** , but you might also use**Device Performance** if you think you have a software issue.
 4. Select the specific problem from the next screen.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![The "My Devices," "Repairs & Physical Damage," and problem options in the Apple Support app](https://www.lifewire.com/thmb/UlwcbBbGGUKP7TBki_iBvOT4Dgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-01-26333c8d674d49e19071966928058213.jpg)
 5. Select**View Locations** under**Bring in for Repair** .
 6. Select an Apple Store from the map, and then choose**Schedule** .  
@@ -33,6 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Using the Apple Store App to Make Appointments
 
  Another way to book an appointment is through the Apple Store app, but it has a few more steps.  
@@ -40,15 +49,25 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 1. Tap your**profile image** on the**Shop** tab in the Apple Store app.
 2. Select**Reservations** .
 3. On the next screen, tap**Find a store** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Profile pic, Reservations option, and Find a Store in the Apple Store app](https://www.lifewire.com/thmb/McTZyDh1dHEy4jPR7CZmGNKvI5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-01-9cacdcf93f3a41d3851b1a2cca991204.jpg)
 4. Search for your closest Apple Store, or select one under**Nearby Stores** .
 5. Choose**Make a reservation** under**Genius Bar** .
 6. You'll go to Apple's support website, where you can describe your problem in the box under**Tell us what's happening** .  
  If you have the Apple Support app on your phone, the Apple Store app will direct you there instead of the website.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![A Store, the "Make a reservation" link, and the "Tell us what's happening" field in the Apple Store app](https://www.lifewire.com/thmb/ircG1uYJS77_UHCiiZH0GISmswg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-02-e508d0091eb04923ba10576b908d07ad.jpg)
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .

@@ -1,7 +1,7 @@
 ---
 title: How to Add Multiple Waypoints on Google Maps with Ease and Precision
-date: 2024-08-05 18:37:14
-updated: 2024-08-06 11:15:40
+date: 2024-08-05T02:34:29.768Z
+updated: 2024-08-06T02:34:29.768Z
 categories:
   - BestProducts
 description: This Article Describes How to Add Multiple Waypoints on Google Maps with Ease and Precision
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/4YqyVGJ6yTvN8fSBnn2TviHts0c=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Make a custom map with Google My Maps to drop multiple pins.
@@ -28,21 +31,36 @@ Close
 1. [ Open Google My Maps](https://www.google.com/maps/d/u/0/) and then[ follow these directions to create a custom map](https://www.lifewire.com/create-custom-route-on-google-maps-5199091) .  
 ![The edit name box when creating a custom map from Google Maps.](https://www.lifewire.com/thmb/8Hfzr1aIpiuu9TpsYKfbdwmOhqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_drop-multiple-pins-on-google-maps-5197232-cf8267308fa04184b2ff90fe66175f9c.jpg)
 2. Type a location into the search bar above the map. As you type, you can choose the correct location from the dropdown list.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Searching for a location when creating a custom Google Maps app.](https://www.lifewire.com/thmb/KFWtrnz6_YUwfzJjym69gGZN6Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_drop-multiple-pins-on-google-maps-5197232-085d308e25424ddb90c1b37ab624029d.jpg)
 3. Once you select a location, it'll[ drop your first pin](https://www.lifewire.com/how-to-drop-a-pin-google-maps-4171835) onto your custom map. Select**Add to map** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![A dropped pin highlighted from a custom Google Maps map.](https://www.lifewire.com/thmb/W33Xwb3-ftGFb-O4dDmnqXh5YT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_drop-multiple-pins-on-google-maps-5197232-986a7f20a0bb4bb982f067d5d0f4f6f2.jpg)  
  Select a pin for formatting options that let you change the icon and color. You can even select the camera icon to add a custom photo or video for that location.
 4. Another method to drop a pin on your map is to select the location icon under the search field. This will change your cursor to crosshairs. Select any location on the map and a new pin will appear there.  
 ![Selecting the pin icon in Google Maps.](https://www.lifewire.com/thmb/vCqtmKBm0haC_8pRd-GhXTClaQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_drop-multiple-pins-on-google-maps-5197232-e1d17eed98e548e88068251981c22d88.jpg)
 5. Give this location a title and then select**Save** to store your new pin on the map.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Dropping and saving a pin in Google Maps.](https://www.lifewire.com/thmb/bkmzmdCwSTWyAX9RDvmmn6Ij5V4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_drop-multiple-pins-on-google-maps-5197232-99166fb1432e4ad0b3f65282276426dd.jpg)
 6. A third method to drop new pins is to select an existing location on the map. This will open a window with the location details. Select**Add to map** to pin this as another location in your itinerary.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Adding an existing location as a pin to a custom Google Maps map.](https://www.lifewire.com/thmb/ie8R1SS6jVYHHGkgGPmLwwsIuRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_drop-multiple-pins-on-google-maps-5197232-7132e521df6041fc90dd568906107aa6.jpg)
 7. To reorder your itinerary list, select a location from the list on the left and drag it up or down.  
 ![Ordering locations in a custom Google Maps map.](https://www.lifewire.com/thmb/7c-xvhAvrrAQW5n9cwrjxHM6Ud8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_drop-multiple-pins-on-google-maps-5197232-0f8fbd8ac3e74be6955bd15ed0dced0f.jpg)
 
  Your custom map with all your pinned locations is useful when traveling because you can access it anywhere, including in the Google Maps mobile app.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Converting Your Map Into a Driving Route 
 
  Navigating to individual locations you've pinned is useful, but what if you want to plot out an actual driving route? You can also do this inside your custom map.
@@ -54,6 +72,9 @@ Close
 3. In the route location field, type the name of the next destination. You'll see the location listed under the name of your locations layer. Choose the location and it'll appear as the next stop in your driving route.  
 ![Searching for the next location in Google Maps when creating a custom driving route.](https://www.lifewire.com/thmb/V6vZ9XOBPX1c69QCCAM04BhMIxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0013_drop-multiple-pins-on-google-maps-5197232-214b0da124f04be0b8947eb6df00a6f7.jpg)
 4. Once you're finished adding all stops, you'll see your route outlined on the map with a blue line.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![A completed driving route in a customized Google Maps map.](https://www.lifewire.com/thmb/10TqcvMIEdqrLZZq-_wfKvTDRMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0014_drop-multiple-pins-on-google-maps-5197232-5a2bfb207b85409888a91746beb4b5a7.jpg)
 5. To use your driving route while traveling, select the three dots to the right of the layer name and choose**Step-by-step directions** .  
 ![The Step-by-Step directions button in Google My Maps](https://www.lifewire.com/thmb/9FDQ_MmhTyWai_1PqQKutBnA5ZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-my-maps-step-by-step-directions-0e33d4aa9c0644f298ed117ff13a5553.png)

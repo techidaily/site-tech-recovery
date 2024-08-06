@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Handle 'Msvcr71.dll Is Missing or Cannot Be Found' Errors in Windows Systems
-date: 2024-08-03 17:29:11
-updated: 2024-08-05 11:47:45
+date: 2024-08-05T02:34:18.257Z
+updated: 2024-08-06T02:34:18.257Z
 categories:
   - BestProducts
 description: This Article Describes How to Correctly Handle 'Msvcr71.dll Is Missing or Cannot Be Found' Errors in Windows Systems
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/9HluIuL7-ig4n5__Zn4As2ESwcI=/400x300/fi
 ---
 
 ## How to Diagnose and Correct System Error 'Eb0a' (Windows) Quickly and Easily
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * Code 28 errors are usually caused by missing drivers for the piece of hardware that the error appears on in Device Manager.
@@ -18,16 +21,25 @@ thumbnail: https://www.lifewire.com/thmb/9HluIuL7-ig4n5__Zn4As2ESwcI=/400x300/fi
 
  The Code 28 error could apply to any hardware device in Device Manager, but most seem to affect USB devices and sound cards.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## How to Fix a Code 28 Error
 
  Any of Microsoft's operating systems could experience a Code 28 Device Manager error, including Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, and more. These directions apply to all of those Windows versions.
 
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Restart menu in Windows 10](https://www.lifewire.com/thmb/BfpzNB-2PZs2XbtmfAqOhjUL7Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-5c8032ed46e0fb00019b8ed8.jpg)  
  There's always the slim chance that the Code 28 error you're seeing in Device Manager was caused by a fluke with Device Manager or in your[BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820) . If that's the case, a reboot might fix the problem.
 2. Did you install a device or make a change in Device Manager just before you noticed the error? If so, it's very possible that the change you made caused the problem.  
  Undo the change, restart your PC, and then check again for the Code 28 error.  
  Depending on the changes you made, some solutions might include removing or re-configuring the newly installed device,[rolling back the driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) to the version prior to your update, or[using System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) to undo recent Device Manager changes.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![System Restore button for Windows 10](https://www.lifewire.com/thmb/dLFN9DPEpHd1ClDWsExz8wKhnMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restoresystemWindows-5c80332846e0fb00011bf425.jpg)
 3. [Update the drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) for the device. Installing the latest manufacturer supplied drivers for a device with the Code 28 error is the most likely solution to the problem.  
  Make sure you install the drivers for the correct operating system. For example, if you're using Windows 10[64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) , install the drivers designed for that specific[version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) . Many of these errors are caused by attempting to install the wrong drivers for a device. One way to be sure you're getting the right driver is to use a[free driver updater tool](https://www.lifewire.com/free-driver-updater-tools-2619206) .  
@@ -38,6 +50,9 @@ thumbnail: https://www.lifewire.com/thmb/9HluIuL7-ig4n5__Zn4As2ESwcI=/400x300/fi
  It's also possible that the device is not compatible with this version of Windows. You can check the[Windows HCL](https://www.lifewire.com/what-is-the-windows-hardware-compatibility-list-2625914) to be sure.  
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Causes of a Code 28 Error
 
  The Code 28 error is one of several possible [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) you could see for a piece of hardware. As mentioned above, it's almost always caused by a missing driver for that particular piece of hardware.
@@ -50,6 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/9HluIuL7-ig4n5__Zn4As2ESwcI=/400x300/fi
 
  Details on Device Manager error codes like Code 28 are available in the_Device Status_ area in the device's properties and will almost always look like this:
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device error Code 28 on Windows 10 desktop](https://www.lifewire.com/thmb/nu2GconMBW2tTuJo6e9kYszSKe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png)
 
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) . If you see the Code 28 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) that you should not troubleshoot as a Device Manager problem.

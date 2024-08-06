@@ -1,7 +1,7 @@
 ---
 title: Level 1 Vs. Level 2 Vs. Level 3 Charging Explained
-date: 2024-08-04 13:22:57
-updated: 2024-08-06 10:21:26
+date: 2024-08-05T02:34:16.184Z
+updated: 2024-08-06T02:34:16.184Z
 categories:
   - BestProducts
 description: This Article Describes Level 1 Vs. Level 2 Vs. Level 3 Charging Explained
@@ -21,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/j5of7nYzDaKXOp2orMWFJ_IE5pU=/400x300/fi
 
  If you’re going to drive an electric vehicle (EV), you’re going to need to recharge it. That can get a little complicated if you're not clear on how the different charging options work for electric vehicles. To help clarify, here's a quick guide to the terms to know and the three EV charging levels you need to know.  
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Are EV Charging Levels, Anyway? 
 
  Charging levels L1, L2, and L3 are three general terms that refer to how fast you can charge your EV battery.
@@ -37,10 +40,16 @@ Joshua Seong
 
  Charging station power is rated in kilowatts (kW). Higher kW numbers mean faster charging. If the charging station is rated in amps (A), kW can easily be calculated by multiplying by voltage (V) and dividing by 1,000.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The 'Hose' for Receiving Power: OBC 
 
  The EVSE delivers power to the OBC, which can only deliver up to its maximum rating to the battery. For example, a 12-kW charger can only charge a maximum of 7.2 kW if the OBC is rated for 7.2 kW, but it may only charge at 6 kW if the battery is too hot or cold.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  The Car's Capacity (or Pool): kWh 
 
  Battery capacity is given in kilowatt-hours (kWh).
@@ -59,6 +68,9 @@ Joshua Seong
 
  Many EV drivers refer to the L1 charge cable as an emergency charger or trickle charger because it won’t keep up with long commutes or long weekend drives.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Level 2 Charging Explained 
 
  The L2 charger runs at higher input voltage, 240 V, and is usually permanently wired to a dedicated 240-V circuit in a garage or driveway. Portable models plug into standard 240-V dryer or welder receptacles, but not all homes have these.
@@ -71,6 +83,9 @@ Joshua Seong
 
  Still, if you’re on a trip longer than the range of your vehicle, you’re going to need a quick top-up along the way that Level 2 charging can provide.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Level 3 Charging Explained 
 
  Level 3 chargers are the fastest EV chargers available. They typically run on 480 V or 1,000 V and aren’t typically found at home. They’re being better suited to high-traffic areas, such as highway rest stops and shopping and entertainment districts, where the vehicle can be recharged in less than an hour.
@@ -94,6 +109,9 @@ Joshua Seong
 
 _Times shown in hours (h) and minutes (m)._   
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Final Plug About Chargers 
 
  In the end, finding the right charger will come down to the capabilities of your EV and how much you want to drive it. Generally, do not count on the L1 charging cable that came with the vehicle, unless you don’t drive much.

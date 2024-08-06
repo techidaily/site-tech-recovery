@@ -1,7 +1,7 @@
 ---
 title: "Solving 'Developer Can't Be Verified' On Your Mac: A Step-by-Step Guide"
-date: 2024-08-02 12:22:16
-updated: 2024-08-05 11:12:16
+date: 2024-08-05T02:35:17.527Z
+updated: 2024-08-06T02:35:17.527Z
 categories:
   - BestProducts
 description: "This Article Describes Solving 'Developer Can't Be Verified' On Your Mac: A Step-by-Step Guide"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 * "(App name) cannot be opened because the developer cannot be verified."
 * "(App name) can't be opened because Apple cannot check it for malicious software."
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is the Cause of the ‘Cannot Be Opened Because the Developer Cannot Be Verified' Error on Mac?
 
  While[Macs are less likely to get viruses](https://www.lifewire.com/can-macs-get-viruses-4767114) than Windows PCs, they can still get infected. Apple has a developer ID system and an app review process to reduce the frequency of users exposed to malware on macOS.
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
  If an app were released before the registration and review processes started, it would trigger the same error. The app may be safe, but there’s no way for Apple to know one way or the other if they haven’t been able to review it.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Fix ‘App Can’t Be Opened Because It Is From an Unidentified Developer?’
 
  To fix the error where you can’t open an unapproved app on your Mac, you have a few options.
@@ -37,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 3. Override your security settings. If you’re sure you trust the app developer, you can allow the app to install and open. From Finder,**Control+Click** the app > click**Open** .  
  The app should be saved as an exception in your security settings, allowing you to open it in the future.
 4. Bypass the block in your Privacy & Security settings. If the previous method didn’t work, you can do it manually from**System Settings** \>**Privacy & Security** \> look for the app > click**Open Anyway.**  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Open Anyway option from macOS Privacy & Security settings to allow an app from outside the App Store.](https://www.lifewire.com/thmb/Q44hkOY6O8L2Ck_LybCHimjWrBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-developer-cannot-be-verified-error-5183898-889a356e9c644d86962bc4ccc9ad1be9.jpg)  
  In older versions of macOS, open**System Preferences** \>**Security & Privacy** \>**General** \> click the**lock** icon > enter your username and password >**Unlock** \>**App Store and Identified Developers** . You may see the option to click**Anywhere** \>**Allow From Anywhere** .
 5. [Download the app through Safari](https://www.lifewire.com/what-is-safari-4173608) . If the above process didn’t work, make sure you downloaded the app using Safari. Delete the app > restart your Mac > download the app using Safari > and try to run the app. When you get the error message, perform the Privacy & Security fix outlined in the previous step.  

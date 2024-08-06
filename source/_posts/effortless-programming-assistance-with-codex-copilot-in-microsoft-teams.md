@@ -1,7 +1,7 @@
 ---
 title: Effortless Programming Assistance with Codex Copilot in Microsoft Teams
-date: 2024-08-05 15:28:49
-updated: 2024-08-06 12:21:53
+date: 2024-08-05T02:34:24.713Z
+updated: 2024-08-06T02:34:24.713Z
 categories:
   - BestProducts
 description: This Article Describes Effortless Programming Assistance with Codex Copilot in Microsoft Teams
@@ -12,6 +12,9 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 ## Effortless Programming Assistance with Codex Copilot in Microsoft Teams
  In this guide, you’ll learn how to use Copilot in Microsoft Teams. And to ensure that you have the right credentials, we’ll also show you how to get this generative AI feature for your account.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Copilot in Microsoft Teams
 
  You can use Copilot in several ways, such as summarizing your chats. Using the tool is nearly identical regardless of where in Teams you need it, and the steps you should follow are listed below.
@@ -22,6 +25,9 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 3. On the left side, you’ll see your downloaded apps. Enter your prompt in the text box and hit the**Enter key or icon** . You should then see a summary of what you’re looking for.  
 ![Use Copilot for Sales in Microsoft Teams](https://www.lifewire.com/thmb/EtCjXE-O-c-ynNEWlVSyunbgRIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UseCopilotforSales-98680cedd3b541ed9620b8cc6399b03c.jpeg)
 4. To use Copilot elsewhere, select the logo to expand your list of options.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Copilot logo in Microsoft Teams](https://www.lifewire.com/thmb/N3sItjidTMEzrCz6kuy7lEiAAvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-logo-ea4cfdcb97104106ae95a9d97d0c4fe2.jpg)  
 
 ## How to Get Copilot for Microsoft Teams  
@@ -41,19 +47,31 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 
  After signing up for a Microsoft 365 Business account, you’ll also need to get Copilot as an add-on. Your IT admin (or you, if you are that person) should see a message that says:  
  “Copilot for Microsoft 365 is available to order now”.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot saying that Copilot is available for Teams i your subscription](https://www.lifewire.com/thmb/2D727oZ39tGGmRBUsHg2VwKc-ic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CopilotforMicrosoftTeamsAvailable-614ff945b07246c192fa1c9b7266d2a9.jpeg)  
  Once you’ve entered your personal information and payment details, you should then be able to use Copilot in Teams. If you don’t see this message, you can[buy Copilot on the Microsoft website](https://microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365) .  
  Copilot costs $360 per year. If you aren’t already familiar with the software and want to learn more about it before purchasing, check out our guide on[what Microsoft Copilot is](https://www.lifewire.com/what-is-microsoft-copilot-8572496) .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Download Extensions for Copilot in Microsoft Teams  
 
  You can also download extensions in Teams to use Copilot in more apps. Examples include Trello, Seismic, Jira Cloud, and Dropbox.
 5. In Microsoft Teams, select the**Apps** heading on the left side.  
 ![The Apps heading for Copilot in Microsoft Teams](https://www.lifewire.com/thmb/KNCxBRRk_i3h3kceeSeepDwAYzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-Apps-heading-ffc4f34ff4a54378bdb52a337492e834.jpg)
 6. Select**Copilot extensions** to see what's available.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The "Copilot Extensions" heading under Apps in Microsoft Teams](https://www.lifewire.com/thmb/NyIgfmsQLm3q9AFPMhNlX8PVDJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-Extensions-heading-329c9afe682e45ebbfef4f3f0585e701.jpg)
 7. Look for the Copilot extension(s) you’d like to add in Teams. You can either use the search bar or browse different categories.  
  When you find one you want, select**Add** to install it.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The "Add" button for a Copilot extension](https://www.lifewire.com/thmb/Cf177pJ4izRTxxtYGuVVhuFE7Jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-extension-add-button-5153b259328344cb92232920eb6a1707.jpg)
 8. Your extensions will appear in your chat, and you can access them from there. For example, if you use Trello, you can view your assigned cards without needing to go to the app.  
 You may need to sign in to an app to use its extension.  

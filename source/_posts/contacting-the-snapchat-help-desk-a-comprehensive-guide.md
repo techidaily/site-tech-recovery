@@ -1,7 +1,7 @@
 ---
 title: "Contacting the Snapchat Help Desk: A Comprehensive Guide"
-date: 2024-08-04 15:15:50
-updated: 2024-08-06 12:26:28
+date: 2024-08-05T02:34:27.234Z
+updated: 2024-08-06T02:34:27.234Z
 categories:
   - BestProducts
 description: "This Article Describes Contacting the Snapchat Help Desk: A Comprehensive Guide"
@@ -21,6 +21,9 @@ Close
 
  This article explains how to talk to Snapchat Support. While the company doesn't provide a customer service email address or phone number, there are a few ways to let them know you need help.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Email Snapchat Support 
 
  During the process of contacting Snapchat, you'll see self-help information. If that's not enough to help, they let you leave your phone number and email address for a support member to contact you.
@@ -32,6 +35,9 @@ Close
 1. Tap your**profile/Bitmoji** icon in the top left corner.
 2. Tap the**gear** icon in the top right corner.
 3. Scroll down to the**Support** section and choose**I Need Help** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![The Snap Map, a profile page, and settings in the Snapchat Android app](https://www.lifewire.com/thmb/f4yR14bFtvGCwh6gacm8dDUCImQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snap-map-profile-settings-cbf26b65773f4cec9bd61eb8cfead40b.png)
 4. Tap**Contact Us** .
 5. Review the list of issues and tap the one that corresponds most with what you're experiencing. If you see another set of options appear, tap the item that makes the most sense for your situation.
@@ -41,18 +47,30 @@ Close
 8. Tap**Submit** to contact Snapchat.  
 ![The Snapchat Support form in the Android app](https://www.lifewire.com/thmb/nCdort-yEJcF_WqskhDNgyBB-as=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snapchat-support-form-96d3a41840014086845e1f07c40cabed.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ##  Message Snapchat Support on X 
 
  Some companies, Snapchat included, let you message them on X (formerly Twitter). If you have an X account,[ visit @SnapchatSupport](https://twitter.com/snapchatsupport) and select the**message icon** to describe the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![Snapchat Support on X](https://www.lifewire.com/thmb/Lt0y9nnNBepPNQsxP9lKIue-Bhk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snapchat-support-twitter-988f5e3521cc4803b7e14ca2f20fbdd6.png) 
 
  The customer service rep might ask you for additional information, offer a suggested solution, or confirm that your message has been passed on to the Snapchat team.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  You Can Leave Feedback for Snapchat Too 
 
  If this is less of an issue and more of an idea or a suggestion you want to share, you can provide feedback to the company. From the list of settings in Step 3, select**I Have a Suggestion** , and then fill out the form with relevant information.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ##  When Will Snapchat Support Reply? 
 
  Snapchat doesn't specify a timeframe for when you can expect to hear back from customer service. There's also no guarantee that you_will_ hear back. Unfortunately, all you can really do is sit tight and wait it out.

@@ -1,7 +1,7 @@
 ---
 title: BEV vs PHEV vs FCEV vs Hybrid Vehicles Explained - What Sets Them Apart?
-date: 2024-08-02 18:47:47
-updated: 2024-08-05 11:43:29
+date: 2024-08-05T02:34:13.625Z
+updated: 2024-08-06T02:34:13.625Z
 categories:
   - BestProducts
 description: This Article Describes BEV vs PHEV vs FCEV vs Hybrid Vehicles Explained - What Sets Them Apart?
@@ -49,6 +49,9 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  The electric motor and ICE work in concert, and the presence of an electric motor usually allows the ICE to be smaller than it would be in a non-electric vehicle.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A hybrid car engine.](https://www.lifewire.com/thmb/uVPkl2cTlSiqQLXZPZWImBUQd1o=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Hybridcarengine_cipango27_istock_GettyImagesPlus-cf4ab821bf0046169f1cb7bd2fa1982c.jpg) 
 
 A hybrid car engine. 
@@ -61,6 +64,9 @@ cipango27/iStock/Getty Images Plus
 
  The main benefit of an HEV is convenience. From the perspective of the driver, an HEV is no different from an ICE vehicle. You still fill it up with gas like a traditional ICE vehicle, and the electric part takes place under the hood and out of sight with no input from the driver. The downside is that they still burn fossil fuel and still produce a significant amount of carbon emissions.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Plug-in Hybrids (PHEV): Parallel and Series 
 
  Plug-in hybrid electric vehicles come in two flavors: parallel and series. The parallel type is usually just referred to as PHEV, while the series variation can be referred to as extended range electric vehicles (EREV).
@@ -85,12 +91,19 @@ Boy\_Anupong/Moment/Getty
 
  When an EREV is run in all-electric mode, without the gas generator running, they produce no tailpipe emissions, just like BEVs. However, they do produce carbon emissions whenever the gas generator is running. The catch is that the all-electric range typically tops out at around 80 miles, with some models providing even less.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fuel Cell Electric Vehicles 
 
  Fuel cell technology is intriguing, because it generates electricity without carbon emissions. There have been a number of different fuel cell technologies over the years, but the FCEVs that are available today all rely on a reaction between hydrogen and oxygen. Fuel cells are charged with hydrogen, which then reacts with oxygen to generate electricity as needed. The electricity powers an electric motor, similar to the way batteries power electric motors in BEVs, and the only byproducts are water vapor and warm air.
 
  Since fuel cells rely on hydrogen to operate, they need to be periodically charged with hydrogen similar to the way you have to fuel up an ICE vehicle with gasoline or diesel. The difference is that while gas stations are abundant, hydrogen fueling stations are only found in a small handful of markets in California.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
 
  HydroGen 3 Fuel Cell Minivan Engine. 
@@ -101,6 +114,9 @@ Arctic-Images/The Image Bank Unreleased
 
  For example, if you lived near fuel stations in Los Angeles, you couldn’t take a weekend trip to Las Vegas. While the travel distance of about 240 miles might be inside your range, you wouldn’t be able to fuel up before heading home. Even if your FCEV had a range of 366 miles, you’d run out of hydrogen somewhere in the desert on your return trip. To safely make the same trip, a long range BEV could simply charge up before the return trip, while a shorter range BEV could stop at charging stations along the way.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Why Are There So Many Types of EVs? 
 
  Electric vehicle technology has been around for over 200 years, but it only came back into focus and started evolving rapidly in the last couple decades.
@@ -115,6 +131,9 @@ Arctic-Images/The Image Bank Unreleased
 
  Other zero emission options, like FCEVs, provide a tantalizing alternative, but the infrastructure is already more or less in place to support BEVs, while FCEVs remain a small-scale experiment.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ##  All the EV Variations At a Glance 
 
 | BEV                                                 | FCEV                                             | HEV                                                          | PHEV                            | EREV                                                       |                                                            |

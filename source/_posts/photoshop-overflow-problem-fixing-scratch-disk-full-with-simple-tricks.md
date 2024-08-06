@@ -1,7 +1,7 @@
 ---
 title: Photoshop Overflow Problem? Fixing 'Scratch Disk Full' With Simple Tricks
-date: 2024-08-04 17:20:35
-updated: 2024-08-06 10:52:14
+date: 2024-08-05T02:34:54.097Z
+updated: 2024-08-06T02:34:54.097Z
 categories:
   - BestProducts
 description: This Article Describes Photoshop Overflow Problem? Fixing 'Scratch Disk Full' With Simple Tricks
@@ -16,6 +16,9 @@ thumbnail: https://www.lifewire.com/thmb/KvAsiwNEClbgDf1q98aLkEyqP48=/400x300/fi
 
  Information in this article applies to Adobe Photoshop CC for[Windows](https://www.lifewire.com/brief-history-of-microsoft-windows-3507078) and[macOS](https://www.lifewire.com/what-is-macos-4691239) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Fix the Photoshop Scratch Disk Full Error
 
  Follow these steps in the order presented to troubleshoot the scratch disk is full error in Photoshop:
@@ -35,6 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/KvAsiwNEClbgDf1q98aLkEyqP48=/400x300/fi
 
  If your computer has a fast[solid-state disk drive](https://www.lifewire.com/solid-state-drive-833448) (SSD), use the SSD as the scratch disk. Don't use the same[hard disk drive](https://www.lifewire.com/what-is-a-hard-disk-drive-2618152) (HDD) where the operating system is installed or where the files you edit are stored. Also, don't use a network or removable drive.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Causes the Photoshop Scratch Disk Is Full Error?
 
  The Photoshop scratch disk refers to your hard drive. Photoshop uses the hard drive as temporary swap space, or virtual memory, when your system doesn't have enough[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) to perform an operation. If you only have one hard drive or partition in your computer, the scratch disk is the drive where the[operating system](https://www.lifewire.com/operating-systems-2625912) is installed (for example, the C: drive on a Windows system).

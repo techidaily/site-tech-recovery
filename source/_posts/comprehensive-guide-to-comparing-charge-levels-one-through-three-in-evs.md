@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Comparing Charge Levels One Through Three in EVs
-date: 2024-08-04 10:18:56
-updated: 2024-08-06 11:33:18
+date: 2024-08-05T02:34:46.694Z
+updated: 2024-08-06T02:34:46.694Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to Comparing Charge Levels One Through Three in EVs
@@ -27,16 +27,28 @@ thumbnail: https://www.lifewire.com/thmb/j5of7nYzDaKXOp2orMWFJ_IE5pU=/400x300/fi
 
  Think of charging your EV like filling up a pool. You probably wouldn’t use a fire hose to fill a kiddie pool or a standard garden hose to fill an inground pool. Recharging an EV is kind of like that: It can take minutes to days, depending on the car's battery capacity, electric vehicle supply equipment (EVSE), and vehicle on-board charger (OBC) capabilities. In other words, how you charge your EV is similar to understanding the size of your EV's 'pool' and the 'hose' used to fill it. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Illustration outlining the three EV charging levels.](https://www.lifewire.com/thmb/ShuYJeZmjU_AqL43KB-y9hsmMEU=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/charging-stations-levels-04-f5ca10a8b0354dd28bb59b1c1f004680.jpeg) 
 
 Joshua Seong
 
  Here are the basic terms to know:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ###  The Charging Station Equipment: EVSE 
 
  Charging station power is rated in kilowatts (kW). Higher kW numbers mean faster charging. If the charging station is rated in amps (A), kW can easily be calculated by multiplying by voltage (V) and dividing by 1,000.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The 'Hose' for Receiving Power: OBC 
 
  The EVSE delivers power to the OBC, which can only deliver up to its maximum rating to the battery. For example, a 12-kW charger can only charge a maximum of 7.2 kW if the OBC is rated for 7.2 kW, but it may only charge at 6 kW if the battery is too hot or cold.
@@ -49,6 +61,9 @@ Joshua Seong
 
 [ How Long Does It Take to Charge an EV? ](https://www.lifewire.com/how-long-to-charge-ev-5203690) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Level 1 Charging Explained 
 
  Every EV comes with a free L1 charge cable. It’s universally compatible, doesn’t cost anything to install, and plugs into any standard grounded 120-V outlet. Depending on the price of electricity and your EV’s efficiency rating, L1 charging costs 2¢ to 6¢ per mile. 
@@ -59,6 +74,9 @@ Joshua Seong
 
  Many EV drivers refer to the L1 charge cable as an emergency charger or trickle charger because it won’t keep up with long commutes or long weekend drives.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Level 2 Charging Explained 
 
  The L2 charger runs at higher input voltage, 240 V, and is usually permanently wired to a dedicated 240-V circuit in a garage or driveway. Portable models plug into standard 240-V dryer or welder receptacles, but not all homes have these.
@@ -94,6 +112,9 @@ Joshua Seong
 
 _Times shown in hours (h) and minutes (m)._   
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Final Plug About Chargers 
 
  In the end, finding the right charger will come down to the capabilities of your EV and how much you want to drive it. Generally, do not count on the L1 charging cable that came with the vehicle, unless you don’t drive much.

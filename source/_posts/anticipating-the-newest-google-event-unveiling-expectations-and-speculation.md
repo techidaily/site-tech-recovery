@@ -1,7 +1,7 @@
 ---
 title: "Anticipating the Newest Google Event: Unveiling Expectations & Speculation"
-date: 2024-08-03 12:28:50
-updated: 2024-08-06 12:52:40
+date: 2024-08-05T02:34:33.211Z
+updated: 2024-08-06T02:34:33.211Z
 categories:
   - BestProducts
 description: "This Article Describes Anticipating the Newest Google Event: Unveiling Expectations & Speculation"
@@ -21,26 +21,42 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 
  The Pixel 10 won't be out for a while, but we're already hearing some big news about how it will stand out from[previous Google Pixel phones](https://www.lifewire.com/google-pixel-phones-4152056) . The Pixel 10 could ship with the Tensor G5 chip and include better fingerprint sensor technology.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## When Will the Google Pixel 10 Be Released?
 
  Google makes a new phone every year. The[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) will be Google's next smartphone, so the Pixel 10 release date won't be until late 2025.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 We guess the Google Pixel 10 will come out in October 2025.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Google Pixel 10 Price Rumors
 
  There's no concrete information on Pixel 10 pricing yet, but if the Pixel 9 is priced the same as the Pixel 8 (we think it will be), there's a good chance we'll see an increase for the Pixel 10\. This could put the base model around $750, and the Pixel 10 Pro could follow suit, exceeding $1000.  
 
  Of course, this is pure speculation. Google might adjust pricing based on market trends, hardware, and competitor offerings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Pixel 10 pre-orders are unavailable this far out. Typically, Google opens pre-orders a couple of weeks before the official release date, so you should be able to grab one in late 2025\. We'll have the date and time figured out as that time approaches.
 
 [The Next Google Event: News, Rumors, and Announcements](https://www.lifewire.com/google-event-5205756)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Google Pixel 10 Specs and Features
 
  This is the list of features and changes we're expecting from the Pixel 10:
@@ -51,6 +67,14 @@ We guess the Google Pixel 10 will come out in October 2025.
 * **Machine Learning** : Google is expected to integrate even more machine learning features into the Pixel 10\. These upgrades could include smarter object recognition for photos, improved voice commands, and more personalized user experiences.
 * **More Storage and RAM** : All Pixel 8 models start with 128 GB of storage, but only the Pro model offers 512 GB or 1 TB. We'd like to see some changes: 256 GB as the starting storage for all models and 512 GB as an option for the standard Pixel 10\. Regarding RAM, we believe 12 GB should become the standard instead of 8 GB for the base model.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About Google Pixel 10
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Below are some stories about Google devices.

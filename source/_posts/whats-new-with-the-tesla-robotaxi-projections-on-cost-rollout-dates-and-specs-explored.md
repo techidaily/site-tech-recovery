@@ -1,7 +1,7 @@
 ---
 title: What's New with the Tesla Robotaxi? Projections on Cost, Rollout Dates & Specs Explored
-date: 2024-08-04 10:44:34
-updated: 2024-08-06 10:51:51
+date: 2024-08-05T02:34:06.203Z
+updated: 2024-08-06T02:34:06.203Z
 categories:
   - BestProducts
 description: This Article Describes What's New with the Tesla Robotaxi? Projections on Cost, Rollout Dates & Specs Explored
@@ -22,6 +22,9 @@ thumbnail: https://www.lifewire.com/thmb/wYbs9YPjfqu3bTOidf7VUpLUAgM=/400x300/fi
 
  Elon Musk has been talking for years about Tesla’s inevitable autonomous vehicle future. The Tesla Robotaxi, aka Cybercab, has been a featured player in that conversation and announced several times before as on the way. This self-driving taxi does seem to be inching closer to an official release, but details are still sparse. Here’s what we’ve gathered so far.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  When Will the Tesla Robotaxi Be Released? 
 
  Musk[ previously claimed that the Tesla Robotaxi would be on the market by 2020](https://www.cnn.com/2019/04/22/tech/tesla-robotaxis/index.html) , at Tesla’s first Autonomy Investor Day in 2020, and then[ pivoted to a 2024 production date](https://techcrunch.com/2023/09/12/tesla-robotaxi-concept-looks-like-a-two-seater-cybertruck/) . 
@@ -34,6 +37,9 @@ thumbnail: https://www.lifewire.com/thmb/wYbs9YPjfqu3bTOidf7VUpLUAgM=/400x300/fi
 
  In May stockholder meeting materials, there’s mention of a “purpose-built robotaxi expected to be demo’ed this year.” Based on recent comments on his X profile, Musk seems to confirm that the October event will unveil a prototype: "Requested what I think is an important design change to the front, and extra time allows us to show off a few other things."
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  Though the Tesla Robotaxi unveiling happens sometime in October, we’re still probably several years away from a production-ready model.
@@ -46,12 +52,18 @@ thumbnail: https://www.lifewire.com/thmb/wYbs9YPjfqu3bTOidf7VUpLUAgM=/400x300/fi
 
  Either way, we don’t know much about the cost of a Tesla Robotaxi. The Tesla Model 3 might offer some clues: With Full Self-Driving added, the Model 3 comes in at about $50,000.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  There’s no information about Tesla Robotaxi pre-ordering right now. 
 
  In the event that Musk and Tesla provide details at the August unveiling, we’ll add everything we learn here.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tesla Robotaxi Features 
 
  At Tesla’s May shareholder meeting, Musk reiterated the money-making potential for Cybercab owners, using a model that's a little bit Airbnb and a dash of Uber.
@@ -60,6 +72,9 @@ thumbnail: https://www.lifewire.com/thmb/wYbs9YPjfqu3bTOidf7VUpLUAgM=/400x300/fi
 
  Tesla has also offered a glimpse of the Tesla app, which will allow owners to add their vehicles to the taxi service mix with a tap of a button. This app is also where riders can hail robotaxis and complete other actions, like viewing arrival times and adjusting the vehicle's temperature. 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Five views of the Tesla ride hailing app preview](https://www.lifewire.com/thmb/XfOPTS8UcMjMVRfXeu0pqU2wvNw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-ride-hailing-app-preview-4174be71b5f4423b85ce5395783d8056.jpg) 
 
  Preview of ride-hailing in the Tesla app. 
@@ -76,6 +91,9 @@ Tesla
 * Centrally mounted display
 * Cybertruck-inspired bumper
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Tesla Robotaxi Specs and Hardware 
 
  There aren’t many concrete details about Tesla Robotaxi specs, but one noteworthy speculation is that the Cybercab will be built completely from scratch and use a sensor suite similar to the Tesla Full Self-Driving (FSD) platform. 

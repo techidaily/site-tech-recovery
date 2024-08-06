@@ -1,7 +1,7 @@
 ---
 title: "The Disappearing Act of Facebook Dark Mode: Quick Fixes to Get It Back"
-date: 2024-08-05 13:40:48
-updated: 2024-08-06 10:31:21
+date: 2024-08-05T02:34:32.298Z
+updated: 2024-08-06T02:34:32.298Z
 categories:
   - BestProducts
 description: "This Article Describes The Disappearing Act of Facebook Dark Mode: Quick Fixes to Get It Back"
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/8acacdc22230e6f80289d91bcd880583b7cb15e9e
 
  This article explains two easy ways to send voice messages on your iPhone. You can create and share an audio message using the Messages and Voice Memos apps. This option is convenient if speaking is quicker and easier than typing or if you want your recipient to hear your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Create and Send a Voice Message With Messages
 
  Typing text messages can be time-consuming if you have a lot to say. By sending a voice message in[the Messages app](https://www.lifewire.com/imessage-apples-free-texting-app-1999185) , you can say exactly what you want to your recipient.
@@ -24,11 +27,17 @@ thumbnail: https://thmb.techidaily.com/8acacdc22230e6f80289d91bcd880583b7cb15e9e
  These instructions apply to iPhones running iOS 16 and later. We've noted any differences between versions.
 
 1. Open the conversation you want to send a voice message in, or start a new one.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Message app icon on iPhone with New Message icon highlighted](https://www.lifewire.com/thmb/A-SaD3LfHhks1h-DkX8NTEPr-PI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-send-voice-messages-iphone-5199864-e4361686446647f1ae2290a2992904a5.jpg)
 2. Select the**plus** sign to the left of the text field.  
  In iOS 16, tap the**Apps** icon below the text box.
 3. Choose**Audio** from the menu. You may have to scroll down to find it.  
  In iOS 16, select the**Audio** icon, which looks like a waveform.  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![The More and Audio options in Messages for iOS 17](https://www.lifewire.com/thmb/r_0VlzW2AusrkGs7h070Hojs6tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/More-and-Audio-a41209c323ea422bbcea9236fd26e858.jpg)
 4. The message will automatically start recording, and the text box will have a red recording bar in it.  
  In iOS 16, you may need to choose the microphone icon to the right of the message field. Tap once to start recording, or tap and hold to send the message as soon as you release the button.
@@ -45,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/8acacdc22230e6f80289d91bcd880583b7cb15e9e
 
  If your recipient isn’t an iPhone user or you want to avoid the possible expiration of your audio message, consider sharing your message using Voice Memos.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Create and Send a Voice Message With Voice Memos
 
  The[Voice Memos app](https://www.lifewire.com/how-to-use-voice-memos-on-iphone-4799058) is excellent for capturing audio notes, speakers during a meeting, and more. Since you can easily share a voice recording from the app, this is a solid alternative to the Messages app on iPhone.
@@ -52,10 +64,16 @@ thumbnail: https://thmb.techidaily.com/8acacdc22230e6f80289d91bcd880583b7cb15e9e
 1. Open Voice Memos on your iPhone and tap (don’t hold) the red **Record** button at the bottom.
 2. Speak your message. You’ll see the duration of the recording as you speak.
 3. When you finish with your message, tap the red **Stop** button.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Voice Memos app on iPhone showing record and stop buttons](https://www.lifewire.com/thmb/2_63ut4LxIyAJWKQ8B09aZfN3GQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-send-voice-messages-iphone-5199864-8bd9efbee2b74c8eb666703fa3a9dac4.jpg)
 4. The recording pops to the top section of the screen. You can tap the **Play** button to have a listen.  
  To share, tap the**three dots** next to the name of the recording.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip  
 
  If you want to rename the recording before you share it, tap the current title and type in the new one.

@@ -1,7 +1,7 @@
 ---
 title: What to Watch Now? Exclusive Selections From Shows Airing on MAX Right This Minute
-date: 2024-08-02 10:55:36
-updated: 2024-08-05 11:44:11
+date: 2024-08-05T02:34:56.757Z
+updated: 2024-08-06T02:34:56.757Z
 categories:
   - BestProducts
 description: This Article Describes What to Watch Now? Exclusive Selections From Shows Airing on MAX Right This Minute
@@ -18,6 +18,9 @@ _If you click on links we provide, we may receive compensation._
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Euphoria (2019): Best Original High School Drama](https://www.imdb.com/title/tt8772296/)
 
 ![Zendaya in Euphoria](https://www.lifewire.com/thmb/DhWy-nHXQ-TBZ0Awd39ulfYuYZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-02bacbe70ef140338750aeba81a93dd9.jpg)
@@ -46,8 +49,14 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Peacemaker (2022): Crudest Super Hero Comedy for Adults Only](https://www.imdb.com/title/tt13146488/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![John Cena and the cast of Peacemaker](https://www.lifewire.com/thmb/WawTg17WU10gnNEXdELT4ABZS70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-right-now-january-2022-5091949-dca36e5778e44453b9de64879c9a4d12.jpg)
 
 HBO Max
@@ -130,6 +139,9 @@ _Hacks_ debuted to unanimous praise from critics for its strong performances and
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## [The White Lotus (2021): Hottest Comedy Anthology Series](https://www.imdb.com/title/tt13406094/)
 
 ![The cast of The White Lotus](https://www.lifewire.com/thmb/L1br0NsmfuWAlx1QsQWfr53OXto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-right-now-october-2021-5091949-be8e1522068948eea8bca20eccf3eab0.jpg)
@@ -186,8 +198,14 @@ HBO
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Gossip Girl (2021): Most Timely Reboot About the Always-Online Generation](https://www.imdb.com/title/tt10653784/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The cast of Gossip Girl 2021](https://www.lifewire.com/thmb/nhuHrd_FvUi9VVgpu2TTnnL1B98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-october-2021-5091949-ae4af00967304d98ae324e396a328d0c.jpg)
 
 HBO Max
@@ -214,6 +232,10 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## [Sort Of (2021): Kookiest Canadian Comedy Mini-Series](https://www.imdb.com/title/tt15221950/)
 
 ![The cast of Sort Of](https://www.lifewire.com/thmb/ieKubFkDaFgb2_Yv5JvFTyZ0fRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-right-now-december-2021-5091949-e370416a67a54866b9fdd3c681a994cc.jpg)
@@ -242,6 +264,9 @@ _Sort Of_ is more heartfelt than your average half-hour comedy show. It tackles 
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Doom Patrol (2019): Best DC Superhero Team-Up](https://www.imdb.com/title/tt8416494/)
 
 ![The cast of Doom Patrol](https://www.lifewire.com/thmb/34izKtTTTZdvCqLmecCn_unBzcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-4953ce80d66749b597e7bf09189a90f4.jpg)
@@ -272,6 +297,9 @@ of 22
 
 ## [Through Our Eyes (2021): Best Educational Docuseries for Kids](https://www.imdb.com/title/tt14812994/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![A little girl smiles in Through Our Eyes](https://www.lifewire.com/thmb/edp4AJ5SRc0CTGbIA5zvCCgDhzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-october-2021-5091949-829422574cc4474c9ad45e4467f7de94.jpg)
 
 HBO Max
@@ -298,8 +326,14 @@ _Through Our Eyes_ is a limited series from Sesame Workshop, the same group that
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Insecure (2016): Best HBO Original Sitcom Starring Issa Rae](https://www.imdb.com/title/tt5024912/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Issa Rae and the cast of Insecure](https://www.lifewire.com/thmb/nNx2RBAVlMy2QlLMQTacSe5Ki1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-19c594c8d3f94e50a191855e35d80a22.jpg)
 
 HBO Max
@@ -354,8 +388,23 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Titans (2018): Most Action-Packed Superhero Sidekick Series](https://www.imdb.com/title/tt1043813/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The cast of DC Titans](https://www.lifewire.com/thmb/bbZvuY8Zlncr_H_18O4leO4MlSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-3acfb2e2151c4b8b8af0ca5c6bb6d054.jpg)
 
 HBO Max
@@ -382,6 +431,9 @@ _Titans_ manages to offer a fresh take on a classic franchise. All the stars of_
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [The Other Two (2019): Funniest Family Drama About Show Biz](https://www.imdb.com/title/tt8310612/)
 
 ![The Other Two](https://www.lifewire.com/thmb/iQjhGMokV-jX7qaBpPCwim7CjUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-shows-on-hbo-max-5091949-c04cd144d64f4d9a9251cfa713630bfa.jpg)
@@ -438,8 +490,14 @@ _Stath Lets Flats_ stars show creator Jamie Demetriou and his real-life sister. 
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## [Betty (2020): Most Empowering Sports Sitcom for Teens](https://www.imdb.com/title/tt10814438/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![The cast of Betty (2020)](https://www.lifewire.com/thmb/u48nyOXvnyRWncpt7LU2idv2w40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-5091949-8c2e1765f957438b88299225fd0a9c51.jpg)
 
 HBO Max
@@ -520,6 +578,9 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [South Side (2019): Best Buddy Comedy About Surviving in Late Capitalism](https://www.imdb.com/title/tt9272514/)
 
 ![Sultan Salahuddin and Kareme Young in South Side](https://www.lifewire.com/thmb/Tpkvprq_7dNcgw5wyRIyvD1VBio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-shows-on-hbo-max-5091949-2ab58733ac404adca560c6c16fa54df5.jpg)
@@ -550,6 +611,9 @@ of 22
 
 ## [Station Eleven (2021): Most Timely Post-Apocalyptic Survival Story](https://www.imdb.com/title/tt10574236/)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mackenzie Davis in Station Eleven](https://www.lifewire.com/thmb/cSNm-DA-mzCpavzMytAtVFmEhTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-shows-on-hbo-max-right-now-january-2022-5091949-6b8eec8c6c834fca97fb40593de74f2e.jpg)
 
 HBO Max
@@ -576,6 +640,9 @@ HBO Max
 
 of 22
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## [Harry Potter: Hogwarts Tournament of Houses (2021)—Trivial Pursuit for Potterheads](https://www.imdb.com/title/tt15431326/)
 
 ![Helen Mirren in Harry Potter: Hogwarts Tournament of Houses](https://www.lifewire.com/thmb/0Q_vCc5WSIgAPcxDimb7qb-FUcE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-shows-on-hbo-max-right-now-january-2022-5091949-2601a6884c3c400698ff23663825073e.jpg)
@@ -608,6 +675,9 @@ of 22
 
 ## [Lovecraft Country (2020): Most Horrific Show About American History](https://www.imdb.com/title/tt6905686/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Jonathan Majors and Jurnee Smollett in Lovecraft Country](https://www.lifewire.com/thmb/QW04a-I33_ToevQVIFFcCoWDI-8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014-5fd61e71b1b041bb93c5e58661ae5d86.jpeg)
 
 HBO

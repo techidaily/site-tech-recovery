@@ -1,7 +1,7 @@
 ---
 title: Sony's Latest Updates & Breakthroughs - Explore the New Releases!
-date: 2024-08-02 10:23:47
-updated: 2024-08-05 10:55:40
+date: 2024-08-05T02:35:06.570Z
+updated: 2024-08-06T02:35:06.570Z
 categories:
   - BestProducts
 description: This Article Describes Sony's Latest Updates & Breakthroughs - Explore the New Releases!
@@ -21,26 +21,42 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 
  The Pixel 10 won't be out for a while, but we're already hearing some big news about how it will stand out from[previous Google Pixel phones](https://www.lifewire.com/google-pixel-phones-4152056) . The Pixel 10 could ship with the Tensor G5 chip and include better fingerprint sensor technology.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## When Will the Google Pixel 10 Be Released?
 
  Google makes a new phone every year. The[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) will be Google's next smartphone, so the Pixel 10 release date won't be until late 2025.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 We guess the Google Pixel 10 will come out in October 2025.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Google Pixel 10 Price Rumors
 
  There's no concrete information on Pixel 10 pricing yet, but if the Pixel 9 is priced the same as the Pixel 8 (we think it will be), there's a good chance we'll see an increase for the Pixel 10\. This could put the base model around $750, and the Pixel 10 Pro could follow suit, exceeding $1000.  
 
  Of course, this is pure speculation. Google might adjust pricing based on market trends, hardware, and competitor offerings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Pixel 10 pre-orders are unavailable this far out. Typically, Google opens pre-orders a couple of weeks before the official release date, so you should be able to grab one in late 2025\. We'll have the date and time figured out as that time approaches.
 
 [The Next Google Event: News, Rumors, and Announcements](https://www.lifewire.com/google-event-5205756)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Google Pixel 10 Specs and Features
 
  This is the list of features and changes we're expecting from the Pixel 10:
@@ -51,6 +67,9 @@ We guess the Google Pixel 10 will come out in October 2025.
 * **Machine Learning** : Google is expected to integrate even more machine learning features into the Pixel 10\. These upgrades could include smarter object recognition for photos, improved voice commands, and more personalized user experiences.
 * **More Storage and RAM** : All Pixel 8 models start with 128 GB of storage, but only the Pro model offers 512 GB or 1 TB. We'd like to see some changes: 256 GB as the starting storage for all models and 512 GB as an option for the standard Pixel 10\. Regarding RAM, we believe 12 GB should become the standard instead of 8 GB for the base model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Latest News About Google Pixel 10
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Below are some stories about Google devices.

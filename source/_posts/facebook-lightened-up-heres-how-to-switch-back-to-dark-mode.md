@@ -1,7 +1,7 @@
 ---
 title: Facebook Lightened Up? Here’s How to Switch Back to Dark Mode!
-date: 2024-08-04 11:29:54
-updated: 2024-08-05 11:18:26
+date: 2024-08-05T02:35:11.050Z
+updated: 2024-08-06T02:35:11.050Z
 categories:
   - BestProducts
 description: This Article Describes Facebook Lightened Up? Here’s How to Switch Back to Dark Mode!
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/1N4X4JpApizjRYEPsSnvXsOibYU=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Open the app store and check for updates. If there's one for Facebook, tap**Update** .
@@ -21,6 +24,9 @@ Close
 
  This article explains how to get dark mode back in the Facebook app. Instructions apply to iOS and Android.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Get Dark Mode Back in the Facebook App 
 
  An outdated app is the most common reason you can't turn on dark mode for Facebook. Follow these steps to get it back:  
@@ -32,9 +38,15 @@ Close
 3. Open Facebook and tap the**menu** button (your profile picture).
 4. Go to**Settings & privacy** \>**Dark mode** .
 5. Tap**On** to switch Facebook to dark mode.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Dark Mode option turned for the Facebook app on Android](https://www.lifewire.com/thmb/UtiFuBZ6TkUvOO3WDzviLRd8xFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-dark-mode-android-ac13e3e54c5e46e5a094073e9fb06f87.png)  
  Tap the**system** option from this screen to make Facebook match whatever mode your phone is in. For example, if you've[ turned on dark mode for Android](https://www.lifewire.com/what-is-android-dark-mode-4178630) , this will make Facebook dark, too.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ##  Why Is Facebook Dark Mode Not Working? 
 
  The Facebook app has its own version of dark mode in addition to an option to respect the current system settings. If it isn't working, there are a few possible causes:

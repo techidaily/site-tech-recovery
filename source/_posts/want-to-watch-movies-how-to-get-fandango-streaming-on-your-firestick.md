@@ -1,7 +1,7 @@
 ---
 title: Want to Watch Movies? How to Get Fandango Streaming on Your Firestick!
-date: 2024-08-02 22:47:26
-updated: 2024-08-05 12:58:11
+date: 2024-08-05T02:34:16.653Z
+updated: 2024-08-06T02:34:16.653Z
 categories:
   - BestProducts
 description: This Article Describes Want to Watch Movies? How to Get Fandango Streaming on Your Firestick!
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/8ZwinX250CpWEpkJWzb5sAASSWg=/400x300/fi
 
 ![Fubo on an Amazon Fire TV](https://www.lifewire.com/thmb/T2jSHyJaiLYV73X6f8iwzr-eSLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fuboonamazon-f1ef924606ed4cf2984850e8c4041b43.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## How to get fuboTV on Fire TV Sticks
 
  The fuboTV app is available on all Amazon’s Fire TV Stick streaming devices and Fire TV Edition TVs running[Android OS 5.0 or higher](https://www.lifewire.com/android-versions-4173277) .
@@ -28,25 +31,46 @@ thumbnail: https://www.lifewire.com/thmb/8ZwinX250CpWEpkJWzb5sAASSWg=/400x300/fi
 
 1. Open the[Amazon website](http://www.amazon.com/?tag=lifewire-onsite-prod-20&ascsubtag=8682247%7Cn897e6dae67904407849bdf1081f761d806%7C) in your preferred web browser.  
  If you’re already signed into your Amazon account on the website, you can skip to Step 5.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Amazon website.](https://www.lifewire.com/thmb/6B4F938NOQEL7zdrnQoW3YieRo0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-get-fubotv-on-firestick-03-c6a5b04ecaa8499bb539afcee1623560.jpg)
 2. Hover your mouse cursor over**Accounts & Lists** and select**Sign in** .  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Amazon website with the sign-in button highlighted.](https://www.lifewire.com/thmb/MUWs7SWVa3F6_0VNgFGA_UhrgJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_get-fubotv-on-firestick-5203917-747abef8c0f4475eba65cafc3c66a8d2.jpg)
 3. Enter the email address or mobile number that’s associated with the Amazon account connected to your Fire TV Stick and select**Continue** .  
 ![Amazon website sign-in page with email entered.](https://www.lifewire.com/thmb/qHverg52fBTm0YHKBpRYnpnLiUE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_get-fubotv-on-firestick-5203917-9e752ab84e634fe29a304bff6167007a.jpg)
 4. Enter your password and select**Sign-In** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Amazon website sign-in page with password entered.](https://www.lifewire.com/thmb/VGl4tLrz5vKmmN2BQl6vYj1qnpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_get-fubotv-on-firestick-5203917-0e0c2ac310d24cbd9c94d52f84f95215.jpg)
 5. Open the[fuboTV app page](https://www.amazon.com/fuboTV-Live/dp/B019DCHDZK/?tag=lifewire-onsite-prod-20&ascsubtag=8682247%7Cn897e6dae67904407849bdf1081f761d806%7C) .  
 ![The fuboTV app page on the Amazon website.](https://www.lifewire.com/thmb/-k6fCqLewAzRSn3XMn1NAQzX-mE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_get-fubotv-on-firestick-5203917-95203054b3584696b6ff072148d5cda7.jpg)
 6. Select your Fire TV Stick from the dropdown list on the right.  
 ![The fuboTV app page on the Amazon website with the device menu selected.](https://www.lifewire.com/thmb/bPITXv4bM3Kq_O7H7FRlwY24ulk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_get-fubotv-on-firestick-5203917-04c0940cdafe46e4b79144d756759f35.jpg)
 7. Select**Get App** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![The fuboTV app page on Amazon website with the Get App button highlighted.](https://www.lifewire.com/thmb/rOCBVFMO4I-ldwFMjiB6ArRnh7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_get-fubotv-on-firestick-5203917-0d2bf8ecd7d14b8b86eaa0d8e42c8660.jpg)
 8. After a few seconds, the page should refresh, and you’ll be greeted with a confirmation messaging informing you the fuboTV app has begun downloading onto your Fire TV Stick. The download process should only take a minute or two.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The fuboTV app download confirmation page on the Amazon website.](https://www.lifewire.com/thmb/Jf7LW9sZT8Kol0WcGhnQxcIOOg8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_get-fubotv-on-firestick-5203917-f4e57c138d544aa48abd10eb5bcfb026.jpg)
 9. When you turn your Fire TV Stick on, you should be greeted with a small notification alerting you to the completed app download. While this is on screen, press the button with the three horizontal lines on the Fire Stick remote to open the app.  
  If you miss the notification, the fuboTV app icon should also appear on your Home screen and in your app library. You can also find the app by using the Fire Stick search feature and Alexa.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The fuboTV app screen on Amazon Fire Stick with the Open button and notification highlighted.](https://www.lifewire.com/thmb/4ve7ib0lU4r8DA9sHu0bx9mfz2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_get-fubotv-on-firestick-5203917-229c89d98f784ebf82d3bdaade6706bb.jpg)
 10. Select**Sign In** to log in with your fuboTV account information or select**Start Free Trial** to sign up for a subscription with a free trial period.  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The fuboTV app sign-in screen on the Amazon Fire TV Stick.](https://www.lifewire.com/thmb/eCbJ-W6PYqBiHX8ioBCV1iO2q0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_get-fubotv-on-firestick-5203917-19dd7928475045bba6fa6433992e2873.jpg)  
 
 ## How Much Is fuboTV Per Month?  

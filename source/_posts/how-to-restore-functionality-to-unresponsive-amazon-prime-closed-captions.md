@@ -1,7 +1,7 @@
 ---
 title: How To Restore Functionality to Unresponsive Amazon Prime Closed Captions
-date: 2024-08-04 19:46:10
-updated: 2024-08-05 10:21:29
+date: 2024-08-05T02:34:19.260Z
+updated: 2024-08-06T02:34:19.260Z
 categories:
   - BestProducts
 description: This Article Describes How To Restore Functionality to Unresponsive Amazon Prime Closed Captions
@@ -15,6 +15,9 @@ Close
 
  Subtitles not working properly on Amazon Prime Video can be frustrating, but this is generally a straightforward fix. Here's what to do to fix the most common problems and what to do if the problem persists.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ##  Why Are My Amazon Prime Subtitles Not Working? 
 
  There are a few reasons why subtitles may not be working with your Amazon Prime Video account. These include:
@@ -28,6 +31,9 @@ Close
 * You’re using a legacy app that no longer receives updates from Amazon (such as an older model of Apple TV or Fire Stick).
 * There is an issue with Closed Captioning for a particular TV show or movie.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ##  How Can I Fix Prime Video Subtitles? 
 
  It's generally best to start with the easiest and most likely fixes first. Try each step individually and in order until you find the one that solves the problem.  
@@ -49,12 +55,19 @@ Close
  Since you can use your Prime Video subscription across multiple devices, you can install it on any device that supports the app to see if the problem persists.
 8. [ Delete your watch history](https://www.lifewire.com/how-to-delete-your-amazon-prime-watch-history-4843243) . If subtitles still aren’t working across your different apps and devices, it’s likely an account-level issue. One fix you can try is to delete your viewing history, which will remove your user preferences for a particular show or movie.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Subtitles Still Not Working? Contact Amazon for Help 
 
  If your subtitle issues persist, it’s best to contact Amazon for help. They should be able to identify any backend issues that may be causing the error and provide you with additional troubleshooting steps.  
 
  Log in to your account in a web browser or the app and go to**Your Account** \>**Customer Service** \>**Choose Something Else** \>**I need more help** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![The I need more help option from Amazon's Customer Service page.](https://www.lifewire.com/thmb/C1ag63fGFiyquICq-cQ0D_mwOeU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-subtitles-not-working-amazon-prime-video-5198588-05f9298f01454fca811d8927f938be7d.jpg) 
 
  When you make this selection, a customer support chat window opens. If you prefer to speak with a representative over the phone, choose**Request a phone call** in the chat window.

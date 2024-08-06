@@ -1,7 +1,7 @@
 ---
 title: "Bypass the Controller: Direct Commands for Your Roku Television"
-date: 2024-08-05 21:28:35
-updated: 2024-08-06 11:39:24
+date: 2024-08-05T02:35:09.941Z
+updated: 2024-08-06T02:35:09.941Z
 categories:
   - BestProducts
 description: "This Article Describes Bypass the Controller: Direct Commands for Your Roku Television"
@@ -57,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 
 [Jump to Review](https://www.lifewire.com/#toc-no-frills-untested-esky-key-finder)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Just Buy This
 
 [Tile Pro Bluetooth Tracker](https://www.amazon.com/Tile-Powerful-Bluetooth-Water-Resistant-Compatible/dp/B09B2WLRWX?tag=lifewire-onsite-prod-20&ascsubtag=6753495%7Cneefbb9ba0fa44121893138a13e439a5c18%7CB09B2WLRWX)
@@ -130,6 +133,9 @@ PHOTO: Amazon
 
  The Chipolo One also has an excellent out-of-range feature that alerts you when your phone gets too far from the tracker. Tile also offers an alert to help prevent you from leaving your keys behind, but they charge extra. Chipolo gives it away for free.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Chipolo One key finder.](https://www.lifewire.com/thmb/zul19KSDoJAXRylA3FZN18qJBVg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3chipolo-00f0b5368a7c4b039dd79a9318d98ab4.jpg)
 
 Lifewire/Jeremy Laukkonen
@@ -141,6 +147,9 @@ Lifewire/Jeremy Laukkonen
 * **Who else recommends it?** Tom's Guide, Gearlab, Motor1, and others recommend Chipolo One.
 * **What do buyers say?** 59% of 333 Amazon users rated this key finder 5 stars.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What About AirTags
 
 [Apple AirTag](https://www.amazon.com/dp/B0933BVK6T?tag=lifewire-onsite-prod-20&ascsubtag=6753495%7Cneefbb9ba0fa44121893138a13e439a5c18%7CB0933BVK6T)
@@ -157,6 +166,9 @@ PHOTO: Amazon
 
 Lifewire/Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Real-Time GPS Tracking
 
 [Cube GPS Tracker](https://www.amazon.com/Waterproof-Worldwide-Coverage-Real-Time-Subscription/dp/B08H5S9QZ5?tag=lifewire-onsite-prod-20&ascsubtag=6753495%7Cneefbb9ba0fa44121893138a13e439a5c18%7CB08H5S9QZ5)
@@ -169,6 +181,9 @@ PHOTO: Amazon
 
  The Cube GPS Tracker lets you track it in real-time using GPS, so it doesn’t rely on any finder network but requires a monthly subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Lower-Cost Apple Option (Untested)
 
 [Chipolo ONE Spot](https://www.amazon.com/Chipolo-ONE-Spot-1Pack-Compatible/dp/B09C89S7WG?tag=lifewire-onsite-prod-20&ascsubtag=6753495%7Cneefbb9ba0fa44121893138a13e439a5c18%7CB09C89S7WG)
@@ -181,6 +196,9 @@ PHOTO: Amazon
 
  The Chipolo One Spot is nearly identical to the model we reviewed. However, it uses Apple’s massive Find My network instead of Chipolo’s smaller one, making it an excellent lower-cost alternative to AirTags.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## No Frills (Untested)
 
 [Esky Key Finder](https://www.amazon.com/Esky-Wireless-Locator-Transmitter-Receivers/dp/B078XR8C15?tag=lifewire-onsite-prod-20&ascsubtag=6753495%7Cneefbb9ba0fa44121893138a13e439a5c18%7CB078XR8C15)
@@ -197,6 +215,9 @@ PHOTO: Amazon
 
 Lifewire/Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How I Test Key Finders
 
  I've used key trackers for years to keep tabs on everything from my keys to my dogs, both of whom wear key trackers on their collars. To identify the best key trackers, I performed extensive research. Then, I went hands-on with four different models, testing them for performance and using each as part of my daily carry for about a week–[Jeremy Laukkonen](https://www.lifewire.com/jeremy-laukkonen-biography-534477) .

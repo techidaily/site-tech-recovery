@@ -1,7 +1,7 @@
 ---
 title: "Mastering The Art of Selective Unfollows: A Guide To Cutting Ties With Previous Twitter Users"
-date: 2024-08-03 11:15:49
-updated: 2024-08-06 11:40:21
+date: 2024-08-05T02:34:22.841Z
+updated: 2024-08-06T02:34:22.841Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering The Art of Selective Unfollows: A Guide To Cutting Ties With Previous Twitter Users"
@@ -19,16 +19,25 @@ Close
 
  Now, not so much. X's usage has grown exponentially, and it's unreasonable to expect that every person you follow will[ follow you back](https://www.lifewire.com/how-to-get-followers-on-twitter-4628136) —especially[ celebrities](https://www.lifewire.com/find-real-celebrities-twitter-3288993) . Spammers and bots abound now, so people have turned off notifications when people follow them. So, if you think someone isn’t following you out of spite, maybe it’s just because they have no idea who you are and that you are following them.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Illustration of person using Twitter on a tablet.](https://www.lifewire.com/thmb/ru6n5N2_-c7sKTr6XU4mAguy3vU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twitter-5b30fe0b119fa8003695f19c-f3ec947651c04c208605769044146fe3.jpg) 
 
  With that said, nobody is under any obligation to follow you back on X, and it’s unrealistic to expect that. It's a good practice, every now and then, to check your newest followers and follow back anyone you'd like to hear more from. Following_all_ of them, however, would be unproductive; your feed would become overrun with irrelevant tweets. This is the same situation facing all the people you follow, too.
 
  In any case, you can unfollow X users in a few different ways. Just be aware that your account may be flagged and suspended if you unfollow more than 100 people per day; this is because spammy bots tend to do this, so it’s a big red flag.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ##  Unfollow Them the Traditional Way 
 
  Go to the user's profile and click the big blue**Following** button; it should turn red and say**Unfollow** . You’ll be able to tell if this user is following you back because the profile will note “follows you” next to the username.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use Tools to Unfollow Efficiently 
 
  Many tools are out there to help X users manage their followers and feed. Here are a few that might help you:
@@ -38,6 +47,9 @@ Close
 
  Many other tools will let you know who unfollows you. For an easy way to get new followers, try[ _X Chats_ .](https://www.lifewire.com/how-to-participate-in-a-twitter-chat-4589083) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## General Guidelines 
 
  Here are a few rules to make for yourself regarding X and followers:

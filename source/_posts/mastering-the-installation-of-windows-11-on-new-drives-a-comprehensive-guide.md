@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Installation of Windows 11 on New Drives: A Comprehensive Guide"
-date: 2024-08-02 22:18:52
-updated: 2024-08-05 11:21:59
+date: 2024-08-05T02:34:14.643Z
+updated: 2024-08-06T02:34:14.643Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Installation of Windows 11 on New Drives: A Comprehensive Guide"
@@ -12,12 +12,21 @@ thumbnail: https://thmb.techidaily.com/4e270ad6fe5a98a1f50fc689a2e1e3f6ffaf5096f
 ## Fixing the Issue of Non-Responsive Search in Windows 11 – Top Tips
  It's hard to find files and apps when the Windows 10 search bar is not working. Below are all the different ways we've been able to fix this problem.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Search Is Not Working in Windows 10
 
  It's more common than you might think for the Windows search box to stop working. This means there are several possible causes, like a temporary glitch or an unresolved software bug. Another possible reason Windows search isn't working like you want it to is that a very specific setting has been switched off.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows search not working](https://www.lifewire.com/thmb/eUOincgBNCFIDt1gubIW-meSdKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windowssearchfix06-5bdc331846e0fb002d90f052.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix Windows 10 Search Problems
 
  You'll use a lot of the same methods to fix problems with search as you would other minor errors. Here are some options to try and get the Windows search bar working again:

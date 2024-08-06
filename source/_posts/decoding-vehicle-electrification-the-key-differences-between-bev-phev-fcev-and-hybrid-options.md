@@ -1,7 +1,7 @@
 ---
 title: "Decoding Vehicle Electrification: The Key Differences Between BEV, PHEV, FCEV, & Hybrid Options"
-date: 2024-08-04 10:59:18
-updated: 2024-08-06 11:19:50
+date: 2024-08-05T02:34:33.763Z
+updated: 2024-08-06T02:34:33.763Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding Vehicle Electrification: The Key Differences Between BEV, PHEV, FCEV, & Hybrid Options"
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/09bf8f46c612c175c9c1b70882f85f23e4a357208
 
  The unifying factor is that every electric vehicle includes an electric motor to drive the vehicle, either alone or in concert with a gasoline-reliant internal combustion engine (ICE). While all of these vehicles use electricity in one way or another, only battery electric vehicles are pure EVs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Basic Breakdown 
 
 Julie Bang
@@ -49,6 +52,9 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  The electric motor and ICE work in concert, and the presence of an electric motor usually allows the ICE to be smaller than it would be in a non-electric vehicle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A hybrid car engine.](https://www.lifewire.com/thmb/uVPkl2cTlSiqQLXZPZWImBUQd1o=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Hybridcarengine_cipango27_istock_GettyImagesPlus-cf4ab821bf0046169f1cb7bd2fa1982c.jpg) 
 
 A hybrid car engine. 
@@ -61,6 +67,9 @@ cipango27/iStock/Getty Images Plus
 
  The main benefit of an HEV is convenience. From the perspective of the driver, an HEV is no different from an ICE vehicle. You still fill it up with gas like a traditional ICE vehicle, and the electric part takes place under the hood and out of sight with no input from the driver. The downside is that they still burn fossil fuel and still produce a significant amount of carbon emissions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Plug-in Hybrids (PHEV): Parallel and Series 
 
  Plug-in hybrid electric vehicles come in two flavors: parallel and series. The parallel type is usually just referred to as PHEV, while the series variation can be referred to as extended range electric vehicles (EREV).
@@ -71,6 +80,9 @@ cipango27/iStock/Getty Images Plus
 
  PHEVs are referred to as parallel because the electric motor and the ICE work in parallel. They’re both connected to the drivetrain mechanically, which allows the ICE to work by itself, the electric motor to work by itself, or for one to assist the other. You can think of this type of PHEV as the combination of an ICE vehicle and a BEV, with both systems capable of working separately or in unison with the other.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Close up of plug-in hybrid port of an Hybrid Electric Vehicle (PHEV).](https://www.lifewire.com/thmb/UZwtFdgGMf7WVcSLy44woscGk-A=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PHEVpluginport_Boy_Anupong_Moment_Getty-663b083340fb44b5a8105fd74beffb53.jpg) 
 
  Close up of the plug-in/gas port of an Hybrid Electric Vehicle (PHEV). 
@@ -85,12 +97,19 @@ Boy\_Anupong/Moment/Getty
 
  When an EREV is run in all-electric mode, without the gas generator running, they produce no tailpipe emissions, just like BEVs. However, they do produce carbon emissions whenever the gas generator is running. The catch is that the all-electric range typically tops out at around 80 miles, with some models providing even less.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Fuel Cell Electric Vehicles 
 
  Fuel cell technology is intriguing, because it generates electricity without carbon emissions. There have been a number of different fuel cell technologies over the years, but the FCEVs that are available today all rely on a reaction between hydrogen and oxygen. Fuel cells are charged with hydrogen, which then reacts with oxygen to generate electricity as needed. The electricity powers an electric motor, similar to the way batteries power electric motors in BEVs, and the only byproducts are water vapor and warm air.
 
  Since fuel cells rely on hydrogen to operate, they need to be periodically charged with hydrogen similar to the way you have to fuel up an ICE vehicle with gasoline or diesel. The difference is that while gas stations are abundant, hydrogen fueling stations are only found in a small handful of markets in California.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
 
  HydroGen 3 Fuel Cell Minivan Engine. 

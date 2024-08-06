@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Methods for Seeing Whom Liked and Saved Your Instagram Photos/Videos"
-date: 2024-08-05 12:34:26
-updated: 2024-08-06 12:36:21
+date: 2024-08-05T02:34:22.871Z
+updated: 2024-08-06T02:34:22.871Z
 categories:
   - BestProducts
 description: "This Article Describes Cracking the Code: Methods for Seeing Whom Liked and Saved Your Instagram Photos/Videos"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/4c2c83dc76ea031999e2259b4bcb5ed3cf0b94afc
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Instagram doesn't provide this information. Instead, ask your followers. Post a story or poll to see who saved your post.
@@ -20,6 +23,9 @@ Close
 
  This article explains how to see which users saved your post on Instagram and how many times it's been saved overall.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Ask Your Followers If They've Saved Your Posts 
 
  Unfortunately, Instagram doesn't provide this information. Regardless of your account type, the only way to see who has saved your posts is to start asking people. Here are some ideas:
@@ -27,8 +33,14 @@ Close
 1. [ Take a screenshot](https://www.lifewire.com/take-screenshot-on-any-device-5087162) of the post and then[ post a story](https://www.lifewire.com/post-a-story-on-instagram-5069910) using that screenshot. Add some text to let your followers know what you're asking about.
 2. [ Make a poll](https://www.lifewire.com/make-instagram-poll-4582942) . Either ask about the post or screenshot it, then give**Yes** and**No** as the options and wait for the results.
 3. [ Use the questions sticker](https://www.lifewire.com/how-to-use-instagram-questions-sticker-4689053) . This sets up a template for asking the question.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Three Instagram posts with screenshots](https://www.lifewire.com/thmb/mLRRwkNumJBUa1BLNiIa3LoQYo0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/instagram-posts-150a0de2482a419a81ed457ca47f10f3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to See How Many Times an Instagram Post Has Been Saved 
 
  If you're less curious about who saved your post and instead want to see how many times it was saved, Instagram does let you do that. But it doesn't work from a personal account. First,[ switch your personal account to a creator account](https://www.lifewire.com/what-is-an-instagram-creator-account-4777670) , and then follow these steps to see your stats:
@@ -36,6 +48,9 @@ Close
 1. Tap your**profile** image to open your profile.
 2. Choose the**post** you want to view the save count for.
 3. Tap**View insights** . Several stats appear; the bookmark icon refers to how many times someone has saved this particular post.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Post insights on Instagram](https://www.lifewire.com/thmb/OxVMw-bbxBqSYXNGn0Ldemh646A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-see-who-saved-your-instagram-posts-4770639-576d1c0bb7ac43c2b25c5f465b17ffda.jpg)
 
  Seeing who saves your posts on Instagram can be more important than tracking the number of likes because when someone adds your content to an[ Instagram collection](https://www.lifewire.com/how-to-use-instagram-collections-4770093) , it means they like it enough to want to refer to it later. Short of asking your followers, however, there's no way to see who saved your Instagram posts or to what collections. The reason for this limitation is likely privacy.

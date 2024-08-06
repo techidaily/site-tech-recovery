@@ -1,7 +1,7 @@
 ---
 title: "Samsung's Latest Creation: Z Fold 4 News Update with Release Dates, Pricing Info & In-Depth Specs Guide"
-date: 2024-08-04 21:14:20
-updated: 2024-08-06 10:28:39
+date: 2024-08-05T02:34:17.926Z
+updated: 2024-08-06T02:34:17.926Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung's Latest Creation: Z Fold 4 News Update with Release Dates, Pricing Info & In-Depth Specs Guide"
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
  You've been able to[purchase the Samsung Galaxy Z Fold 4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-z-fold5%2Fbuy%2F) since August 26, 2022\. It was unveiled at the[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event on August 10, 2022, the same event that confirmed the[Galaxy Z Flip 4](https://www.lifewire.com/samsung-z-flip-4-news-and-rumors-5525574) and[Galaxy Watch 5](https://www.lifewire.com/samsung-galaxy-watch-5-5215429) .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Samsung Galaxy Z Fold 4 Price
 
  Although it's cheaper if you trade in an older phone, these are your options if not:
@@ -33,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 * **512 GB** : $1919.99
 * **1 TB** : $2159.99
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Samsung Galaxy Z Fold 4](https://www.lifewire.com/thmb/zNaJ5MLUzPKwQXr_39MJdw-drNE=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/z-fold-4-c282d81a96a24dff8cb96a346c1e1332.png)
 
 Samsung
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Samsung Z Fold 4 Features
 
  The Z Fold 3 introduced S Pen support to Samsung's foldable phone line, so it's a no-brainer that we'd see its continuation with the Z Fold 4\. However, Samsung has not included a built-in slot to hold it, though you can get one with a Standing Cover.
@@ -47,6 +56,9 @@ Samsung
 
  The large screen makes it great for multitasking. You can split the screen to use up to three apps at once, and drag and drop across apps. Moving between apps is easy with the improved Taskbar, and you can view more of your favorite apps with Multi View.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Samsung Z Fold 4 Specs and Hardware
 
  The Fold 4 is built with Corning Gorilla Glass Victus+ and an aluminum frame, which Samsung says makes it the toughest Samsung Galaxy foldable yet.
@@ -61,6 +73,9 @@ Samsung
 
  The battery size is the same as the Fold 3\. Though, the upgraded Snapdragon 8 Plus Gen 1 processor likely translates to better energy efficiency, and thus improved battery life.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Samsung Galaxy Z Fold 4](https://www.lifewire.com/thmb/bJIufK3b59ghWULyDed8h7aKqgU=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/z-fold-4-unfolded-4b70c07a05c84c60940a35a5712e5087.png)
 
 Samsung
@@ -81,6 +96,9 @@ Samsung
 | **S Pen Compatible:** | Yes                                                         |
 | **Color Options:**    | Phantom Black, Graygreen, Beige, Burgundy                   |
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## The Latest News About the Samsung Z Fold 4
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phones-4781509) on all kinds of topics; here are some early rumors and other stories regarding the Samsung Galaxy Z Fold 4:

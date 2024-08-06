@@ -1,7 +1,7 @@
 ---
 title: Get the Inside Scoop on Samsung Galaxy S2지! Expected Pricing, Launch Dates & Device Specs Revealed
-date: 2024-08-04 11:27:17
-updated: 2024-08-05 11:21:17
+date: 2024-08-05T02:34:09.423Z
+updated: 2024-08-06T02:34:09.423Z
 categories:
   - BestProducts
 description: This Article Describes Get the Inside Scoop on Samsung Galaxy S2지! Expected Pricing, Launch Dates & Device Specs Revealed
@@ -22,12 +22,18 @@ thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b31925
 
  Since[the latest Samsung Galaxy phones](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) were launched just this year, there's not a lot in the way of Galaxy S25 leaks. Nevertheless, we have some ideas about this upcoming smartphone pair and will keep this page updated as we uncover new rumors and leaks throughout the year.  
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## When Will the Samsung Galaxy S25 Be Released?
 
  Samsung consistently releases its Galaxy S series phones during the first half of each year. With a track record of unveiling new models every year since 2010, there's no need for speculation about the arrival of new Samsung phones.
 
  Since the Galaxy S24 debuted in 2024, we can expect the Galaxy S25 and S25+ to land in 2025.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 January or February 2025 is our best guess right now.
@@ -76,12 +82,18 @@ January or February 2025 is our best guess right now.
 
  We're not yet sure how much RAM these phones could be packing, but we're hoping the base model has 12 GB and the Plus model increases to 16 GB. More RAM means that AI can work faster because it can run some of its operations locally, and other phone functions will also benefit.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Larger Displays
 
 [If this rumor is true](https://twitter.com/TheGalox%5F/status/1782058803468423431) , next year's phones could be a little bigger. The X/Twitter post states that the Galaxy S25 will increase from a 6.2-inch display to a 6.36-inch one. It's not a_huge_ change, but it could usher in more than just a bigger screen.
 
  The Galaxy S25+ could be bigger, too, but we haven't seen any supporting leaks. The current model is 6.7 inches and we don't see that changing unless the Galaxy S25 Ultra_also_ increases in size, since it's already 6.8 inches.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Better Image Quality
 
  A larger phone, overall, means Samsung could stuff a bigger battery into the phone or work in some different cameras. Currently, Samsung and other phone makers use Samsung's ISOCELL sensor for their phone cameras.
@@ -92,12 +104,18 @@ January or February 2025 is our best guess right now.
 
  It also looks like[the battery isn't changing either](https://www.androidauthority.com/leak-samsung-galaxy-25-battery-3451473/) . The same 4000mAh battery found in the S24 might be used for at least another year.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Other Changes
 
 * In addition to faster RAM, these phones might come with faster hard drives,[potentially doubling the speed to 8 GB/s](https://www.sammobile.com/news/next-gen-samsung-galaxy-phones-faster-storage/) . This, again, is useful for everything you do on your phone but is especially beneficial for all the local AI smarts the S25 lineup will surely include.
 * The S24 supports fast wired charging at 25W, which is a bit slower than similar devices like the Pixel 8 which is rated for 27W. We haven't seen any leaks about this changing next year, but we can still hope for the best.
 * The S25 phones could follow Google's lead with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) and support Qi2, the next version of the[Qi wireless charging standard](https://www.lifewire.com/qi-wireless-charging-4151894) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## The Latest News About Samsung Galaxy S25
 
  You[read more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more about Samsung and Android specifically.

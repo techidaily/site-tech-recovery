@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Stopping Unknown Numbers From Contacting Your iPhone"
-date: 2024-08-03 19:58:46
-updated: 2024-08-06 10:51:40
+date: 2024-08-05T02:34:22.304Z
+updated: 2024-08-06T02:34:22.304Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Stopping Unknown Numbers From Contacting Your iPhone"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ---
 
 ## IPhone Users Guide to Preventing Unwanted Calls From Private Numbers
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Silence unknown callers:**Settings** \>**Phone** \>**Silence Unknown Callers** \> move slider to on/green.
@@ -21,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 
  There are lots of ways to block no caller ID calls on the iPhone. The phone includes some features specifically designed to block these calls and it also gives you some tools you can adapt to this use. You can also get help from your phone company and the national Do Not Call registry.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Silence Unknown Callers on iPhone
 
  The simplest way to block unknown callers on iPhone is to use a built-in feature by following these steps:
@@ -46,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 6. Tap**All Contacts** or**Contacts Only** . With this done, you'll get calls from anyone in your iPhone address book app, but all other calls from any number not in your address book will be silenced and sent directly to voicemail.  
 ![Phone Allowed Notifications settings ](https://www.lifewire.com/thmb/MF_6-ygs0kbDXfviYsmvoGHZISs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-Block-No-Caller-ID-Calls-fefc0be0effd4178864279a2b72354d3.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Block No Caller ID Calls on iPhone with a Fake Contact
 
  This is a cool trick that takes advantage of how the iPhone handles contacts in your[Contacts app](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .
@@ -53,14 +62,38 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 1. Open the**Contacts** app and tap**\+ (Plus)** .
 2. In the**First name** field of the new contact, enter**No Caller ID** .
 3. Tap**add phone** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![New No Caller ID contact in the iPhone Contacts app ](https://www.lifewire.com/thmb/maPgCKfF0twUrIH4ylFQZiQJdDE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-Block-No-Caller-ID-Calls-b485ee246ee8474ea4b67a91f6238679.jpg)
 4. Enter**000 000 0000** for the phone number.
 5. Tap**Done** to save the contact.
 6. Now you need to[add this contact to your list of blocked callers](https://www.lifewire.com/block-calls-texts-iphone-1999201) . On the main screen of the**Settings** app, tap**Phone** .
 7. Tap**Blocked Contacts** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![iPhone path to blocked contacts](https://www.lifewire.com/thmb/oM5j1lttZ-muGaq-IxJc9fwZ7VM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-Block-No-Caller-ID-Calls-ad6951ceb1e74078bdde468d73cebbf9.jpg)
 8. Scroll to the bottom and tap**Add New...**
 9. Scroll through your contact list and tap the new**No Caller ID** contact you just created.  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Blocked Contacts settings](https://www.lifewire.com/thmb/ZcE9oZjWSyX7Hkbaz7fMhP9cS-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-Block-No-Caller-ID-Calls-72d776e97d284d39a8e7164bc3cec9f9.jpg)
 10. With the No Caller ID contact now added to the blocked contacts list, any caller who has no caller ID info—which is a hallmark of spammers—will be sent right to voicemail.
 

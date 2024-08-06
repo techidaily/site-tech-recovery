@@ -1,7 +1,7 @@
 ---
 title: "Transforming Virtual Meetings: The Ultimate Guide to Using Google Duo Within Gmail"
-date: 2024-08-04 21:40:37
-updated: 2024-08-05 11:38:31
+date: 2024-08-05T02:35:14.513Z
+updated: 2024-08-06T02:35:14.513Z
 categories:
   - BestProducts
 description: "This Article Describes Transforming Virtual Meetings: The Ultimate Guide to Using Google Duo Within Gmail"
@@ -24,6 +24,9 @@ of 10
 
 ## [Gmail](https://www.google.com/gmail/about/#)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gmail's All Mail folder displaying a list of emails](https://www.lifewire.com/thmb/3IIMsIheYn4Re-v436dRAUZUO90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-all-mail-772d959e265c40cc81aefb129991f3bd.png)
 
  What We Like
@@ -59,6 +62,9 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## [Outlook](https://outlook.live.com/mail/)
 
 ![Emails in an Outlook.com account](https://www.lifewire.com/thmb/H-eJC9BjhHDNlttlpKjOcwFqn0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/outlook-email-96b6e0e2cb634079b2fd23872831e774.png)
@@ -97,8 +103,14 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## [Proton Mail](https://proton.me/mail)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ProtonMail inbox](https://www.lifewire.com/thmb/2A5ZBpitET9klvQvOoZKvrgjXK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/proton-mail-09e4a81823e3432fa07c5076fb0e8ec9.png)
 
  What We Like
@@ -143,6 +155,9 @@ of 10
 
 ## [Yahoo Mail](https://overview.mail.yahoo.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Yahoo Mail email inbox](https://www.lifewire.com/thmb/sU-JXf-rjXc7JEILC7Oc5ZE5rQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-ad1701b87a104041b1841b2889d75d13.png)
 
  What We Like
@@ -212,6 +227,9 @@ of 10
 
 ## [Tuta](https://tuta.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The New Email prompt at Tuta Mail](https://www.lifewire.com/thmb/QJuKx-B118vphcRrC7pLrccc_z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tuta-free-email-248d1566745f4c88bfbe3cd0d302c8f7.png)
 
  What We Like
@@ -249,6 +267,10 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## [Yandex Mail](https://360.yandex.com/mail/)
 
 ![An email open in Yandex Mail](https://www.lifewire.com/thmb/82p_aFODzg3ro3jmqbUYSRVdA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yandex-mail-30f9ebbff5954531b460ae29d40a882e.png)
@@ -291,6 +313,9 @@ of 10
 
 ## [AOL Mail](https://www.aol.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AOL Mail inbox](https://www.lifewire.com/thmb/fmPyWPLETFWZS5zg3BYZt-QjHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aol-mail-afe56902b0334cb0a542d11e4f7bac82.png)
 
  What We Like
@@ -359,6 +384,9 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [Zoho Mail](https://www.zoho.com/mail/)
 
 ![Zoho Mail](https://www.lifewire.com/thmb/BcrKaOI0YwKyznVpNGYEic1abEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zoho-mail-website-5b9141c5c9e77c0050dbc327.png)
@@ -399,6 +427,9 @@ of 10
 
 [Android](https://play.google.com/store/apps/details?id=com.zoho.mail)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tips for Choosing a Free Email Service
 
  When you pick an email account, look for a few characteristics to help you determine which is best for you. They differ in how much storage you get, what the interface looks like, how you customize it, and what types of advanced features are included, such as messaging, filters, and the ability to import other data.

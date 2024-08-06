@@ -1,7 +1,7 @@
 ---
 title: "Electric Vehicles Decoded: Comparing BEV, PHEV, FCEV & Hybrids"
-date: 2024-08-03 23:44:29
-updated: 2024-08-06 11:57:44
+date: 2024-08-05T02:34:22.038Z
+updated: 2024-08-06T02:34:22.038Z
 categories:
   - BestProducts
 description: "This Article Describes Electric Vehicles Decoded: Comparing BEV, PHEV, FCEV & Hybrids"
@@ -31,6 +31,9 @@ Julie Bang
 
  Battery electric vehicles are purely electric. Unlike other types of EVs, BEVs rely only on battery power. These vehicles don’t have internal combustion engines, don’t have tailpipes, and produce zero emissions during operation. Since there is no internal combustion engine, the battery needs to be charged by plugging it in.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Close Up Of Electric Motor In Engine Bay Of Electric Car](https://www.lifewire.com/thmb/ffwwoE4gDDdyP2WtPjkGPtd0ffQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVenginecloseup_mokeybusinessimages_iStock_GettyImagesPlus-44213dd675b54cf9851b2d793638aa74.jpg) 
 
  Close up of electric motor. 
@@ -43,12 +46,18 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  Since BEVs have to be plugged in, and charging can take a long time without a fast charging station, it’s only natural to be concerned about range. BEV range has increased a lot in recent years though, with some driving up to 400 miles on a single charge. Even the most affordable BEVs provide around 100 miles on a charge though, making them well-suited to city driving and moderate commutes. Longer trips can require some pre-planning depending on the range of the BEV, but charging stations are widely available in most areas.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Hybrid Electric Vehicles (HEV) 
 
  The reason that the term EV gets applied to vehicles that aren’t, strictly speaking, pure electric vehicles is that hybrid electrics were the first to reach the mainstream. These hybrid electric vehicles are a lot like traditional gas-powered vehicles with similar drivetrains, except they include both an electric motor and an internal combustion engine (ICE).
 
  The electric motor and ICE work in concert, and the presence of an electric motor usually allows the ICE to be smaller than it would be in a non-electric vehicle.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![A hybrid car engine.](https://www.lifewire.com/thmb/uVPkl2cTlSiqQLXZPZWImBUQd1o=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Hybridcarengine_cipango27_istock_GettyImagesPlus-cf4ab821bf0046169f1cb7bd2fa1982c.jpg) 
 
 A hybrid car engine. 
@@ -71,6 +80,9 @@ cipango27/iStock/Getty Images Plus
 
  PHEVs are referred to as parallel because the electric motor and the ICE work in parallel. They’re both connected to the drivetrain mechanically, which allows the ICE to work by itself, the electric motor to work by itself, or for one to assist the other. You can think of this type of PHEV as the combination of an ICE vehicle and a BEV, with both systems capable of working separately or in unison with the other.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Close up of plug-in hybrid port of an Hybrid Electric Vehicle (PHEV).](https://www.lifewire.com/thmb/UZwtFdgGMf7WVcSLy44woscGk-A=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PHEVpluginport_Boy_Anupong_Moment_Getty-663b083340fb44b5a8105fd74beffb53.jpg) 
 
  Close up of the plug-in/gas port of an Hybrid Electric Vehicle (PHEV). 
@@ -91,6 +103,10 @@ Boy\_Anupong/Moment/Getty
 
  Since fuel cells rely on hydrogen to operate, they need to be periodically charged with hydrogen similar to the way you have to fuel up an ICE vehicle with gasoline or diesel. The difference is that while gas stations are abundant, hydrogen fueling stations are only found in a small handful of markets in California.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
 
  HydroGen 3 Fuel Cell Minivan Engine. 
@@ -115,6 +131,9 @@ Arctic-Images/The Image Bank Unreleased
 
  Other zero emission options, like FCEVs, provide a tantalizing alternative, but the infrastructure is already more or less in place to support BEVs, while FCEVs remain a small-scale experiment.  
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  All the EV Variations At a Glance 
 
 | BEV                                                 | FCEV                                             | HEV                                                          | PHEV                            | EREV                                                       |                                                            |

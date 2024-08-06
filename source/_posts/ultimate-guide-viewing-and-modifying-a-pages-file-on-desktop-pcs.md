@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Viewing and Modifying a Pages File on Desktop PCs"
-date: 2024-08-04 17:54:40
-updated: 2024-08-06 12:49:39
+date: 2024-08-05T02:35:02.780Z
+updated: 2024-08-06T02:35:02.780Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Viewing and Modifying a Pages File on Desktop PCs"
@@ -50,6 +50,9 @@ PHOTO: Amazon
 
 ![Motorola MG7700](https://www.lifewire.com/thmb/djrbmUe-WrBQ_Tx-xD6258JjBmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-3-4-5c8faefcc9e77c0001a926be.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fastest
 
 [Netgear Nighthawk C7000](https://www.amazon.com/dp/B0781Z5PCL?tag=lifewire-onsite-prod-20&ascsubtag=4082541%7Cnb2837cc0a07640b28e632f95df0f8e6713%7CB0781Z5PCL)
@@ -82,6 +85,9 @@ PHOTO: Amazon
 
 **Wireless Spec:** Wi-Fi 5 (802.11ac) |**Security:** WPA2 |**Standard/Speed:** DOCSIS 3.0 / AC1900 |**Bands:** Dual-band |**MU-MIMO:** No |**Beamforming:** Yes |**Wired Ports:** 4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Netgear Nighthawk C7000](https://www.lifewire.com/thmb/gM0GPHlR92ckHyP9MF1P_5ZOiDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NetgearNighthawkC7000-c02adf7a19294c63af74e7f8bcc75e7b.jpg)
 
 Lifewire / Claire Cohen
@@ -94,14 +100,24 @@ Lifewire / Claire Cohen
 
 ## What to Look for in a Modem/Router Combo
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Bandwidth
 
  To take full advantage of the bandwidth your ISP provides, you'll need a modem/router combo that, at the very least, matches, and ideally exceeds, the top speed promised by your provider. The maximum bandwidth is indicated in gigabits per second (Gbps) and is usually prominently displayed in a modem/router's title or description.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Bands
 
  Routers are increasingly offering multiple data bands (think of traffic lanes) to reduce bottlenecking and increase efficiency in directing network traffic. Dual-band devices typically supply 2.4 GHz and 5 GHz bands, with the 5 GHz band providing more peak bandwidth. Tri-band routers provide an additional 5 GHz band to sort devices into, reducing congestion when multiple devices are attached to a network simultaneously.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### Range
 
  Nearly any modem/router combo will provide ample coverage for your entire living space if you live in an apartment or modest home. However, pay close attention to the range indicated by the model you're considering for larger homes. You may also want to consider a modem/router with beamforming technology, which shapes the signal from the router into a tighter beam to direct it toward specific devices, delivering a more robust and faster signal. Alternatively, you may be better off with a separate[cable modem](https://www.lifewire.com/what-is-a-cable-modem-5181545) and a[mesh network](https://www.lifewire.com/what-is-a-mesh-network-4842178) .  
@@ -110,6 +126,9 @@ Lifewire / Claire Cohen
 
  Ensure your router has enough Ethernet ports for the devices you want to plug in. If you have an internet plan that offers speeds above 100 Mbps, you'll want to get one with [Gigabit Ethernet](https://www.lifewire.com/definition-of-gigabit-ethernet-816338) ports to take maximum advantage of your plan.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Wi-Fi Standards
 
  Unless you have a basic internet plan, you'll want support for relatively modern Wi-Fi standards. On the Wi-Fi side, a cable modem/router combo works the same as any other wireless router, meaning you'll choose from the same Wi-Fi standards and frequencies, such as [802.11n](https://www.lifewire.com/802-11n-wireless-network-818281) and [802.11ac](https://www.lifewire.com/802-11ac-in-wireless-networking-818284) , which have recently been redesignated as _Wi-Fi 4_ and _Wi-Fi 5_ , respectively to make life easier. You may also have heard of the newer [Wi-Fi 6 802.11ax](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) standard, which is starting to appear.

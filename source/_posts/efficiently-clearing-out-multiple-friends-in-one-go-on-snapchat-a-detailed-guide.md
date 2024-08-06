@@ -1,7 +1,7 @@
 ---
 title: Efficiently Clearing Out Multiple Friends in One Go on Snapchat - A Detailed Guide
-date: 2024-08-03 11:30:29
-updated: 2024-08-05 12:43:15
+date: 2024-08-05T02:34:59.989Z
+updated: 2024-08-06T02:34:59.989Z
 categories:
   - BestProducts
 description: This Article Describes Efficiently Clearing Out Multiple Friends in One Go on Snapchat - A Detailed Guide
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/a9E0Gk9EVczj6Ui61b5GJgIBT7Y=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * The only way to remove multiple friends on Snapchat is to delete each one individually.
@@ -25,6 +28,9 @@ Close
 
  There are a few techniques to this, but all of them eventually lead to the same place: the Manage Friendship menu. This is where you'll find the delete option.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Remove Friends From Your Friends List 
 
  One method, which works even if you don't have any recent messages with the person, is to find someone in your My Friends list.
@@ -34,9 +40,15 @@ Close
 1. Select your Bitmoji/profile image at the top left.
 2. Select**My Friends** .
 3. Search or scroll to the friend you want to delete, and tap-and-hold this friend's entry.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Bitmoji icon, My Friends, and contact highlighted in Snapchat](https://www.lifewire.com/thmb/uWrlw4QXKo6xV7zBnqVm80ddBDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-remove-multiple-friends-on-snapchat-6425728-c69d3e9fda0b484ca51d7db2be711d22.jpg)  
  Take note of the three-dot menu at the top. There is an option to see recently added friends. This is a great way to delete users you just added by mistake.
 4. From the options, choose**Manage Friendship** \>**Remove Friend** \>**Remove** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Three dot menu, Manage Friendship, and Remove in Snapchat](https://www.lifewire.com/thmb/uzZV1QwYbat0Yav-GTMCn85wFzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-remove-multiple-friends-on-snapchat-6425728-8ed6c2dd02ff4fe2905d713e5114dc3d.jpg)
 
 ###  Remove Friends From the Chat Page 
@@ -47,12 +59,18 @@ Close
 
 [  How to Change Chat Settings in Snapchat ](https://www.lifewire.com/change-chat-settings-in-snapchat-5271208) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Can You Unadd Multiple Friends on Snapchat at Once? 
 
  No. Snapchat doesn't let you bulk remove two or more friends. Unfortunately, the process for clearing out the friends list or removing two, 10, or 20 people from your account, is the same: Erase one friend at a time with the steps outlined above.
 
  The only exception is if you[ delete your whole Snapchat account](https://www.lifewire.com/how-to-delete-snapchat-account-4692675) . Technically, this is the quickest way to remove all your Snapchat friends in one move, but your username will go with it, as will your Snaps and chats.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Readd Friends You Deleted on Snapchat 
 
  There isn't a "deleted friends" list readily available within the Snapchat app that you can sift through to easily readd old friends.

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Connection: Linking Oculus Quest 2 to a Handheld Device Efficiently"
-date: 2024-08-05 16:17:27
-updated: 2024-08-06 10:24:48
+date: 2024-08-05T02:35:14.173Z
+updated: 2024-08-06T02:35:14.173Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Connection: Linking Oculus Quest 2 to a Handheld Device Efficiently"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * On your Quest 2:**Settings** \>**About** \> write down the pairing code.
@@ -23,11 +26,17 @@ Close
 
  To pair a Quest 2 to a phone, you need to have a Facebook or[ Meta account](https://www.lifewire.com/create-meta-oculus-quest-or-quest-2-account-6503595) , and you also need to install the Meta Quest app on your phone. The app is available for both Android and iPhone, and it looks and works the same regardless of which type of phone you have.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Connect Quest 2 to Phone 
 
  Here’s how to connect a Quest 2 to a phone:  
 
 1. Open the universal menu by pressing the**Oculus** button on your right touch controller.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Oculus button highlighted on a touch controller in VR.](https://www.lifewire.com/thmb/Ps_Tpk_eQk4zml8aE0Tcl1_2zL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-PairMetaOculusQuest2toaPhone-annotated-df530f41619644d1ab935829651e3820.jpg)
 2. Select**Quick Settings** (time, battery, Wi-Fi).  
 ![The quick launch shortcut (battery, wifi, time) highlighted on the Quest toolbar.](https://www.lifewire.com/thmb/XzZmsF0WfmaYpEasGh8giWXAq0w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-PairMetaOculusQuest2toaPhone-annotated-195dd84d90b74573baad98373391348d.jpg)
@@ -36,6 +45,9 @@ Close
 4. Select**System** .  
 ![System highlighted in Quest 2 Settings.](https://www.lifewire.com/thmb/SsAAroMX9EST95ZA2shKf_kbce8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-PairMetaOculusQuest2toaPhone-annotated-58e2dd849b9a420f9ccfa3586ae7ca67.jpg)
 5. Scroll down and select**About** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![About highlighted in Quest 2 Settings.](https://www.lifewire.com/thmb/TrmokurlfaYPdsP-VwEg5Xoc-jE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-PairMetaOculusQuest2toaPhone-annotated-a1931c08700b40c093fd8e6e6ba7126e.jpg)
 6. Make note of the pairing code.  
 ![The pairing code highlighted on Quest 2.](https://www.lifewire.com/thmb/Ai4RYifBwEox5qQgo1NX8MYehhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-PairMetaOculusQuest2toaPhone-annotated-951da79257e0489f8f87551bb97420ad.jpg)
@@ -50,6 +62,9 @@ Close
 12. Tap**Quest 2** .
 13. Tap**Continue** .
 14. Enter the pairing code, and tap the check mark.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Final steps to pair your phone and Oculus Quest 2.](https://www.lifewire.com/thmb/gUZsRnESRV1AoUF2MDMVuBkWnWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A14-PairMetaOculusQuest2toaPhone-annotated-1461246e2afa49778ce170c59e8e88d2.jpg)
 15. Your Quest 2 will pair with your phone.  
  The Quest 2 needs to be active and in close proximity to your phone for pairing to succeed. If it fails, try wearing the headset during the pairing process.
@@ -62,6 +77,9 @@ Close
 
  If you have trouble connecting your Quest 2 to your iPhone, make sure[ Bluetooth is enabled on your iPhone](https://www.lifewire.com/turn-bluetooth-on-off-ipad-1994643) before you start the process. Bluetooth should be enabled before you attempt to pair your iPhone to a Quest 2.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Why Pair a Quest 2 to a Phone? 
 
  Pairing your Quest 2 with a phone provides a number of benefits.

@@ -1,7 +1,7 @@
 ---
 title: "Inside Information on Apple's Drive Into Automotive Industry: Price Estimates, Debut Date & Vehicle Specs"
-date: 2024-08-04 22:10:39
-updated: 2024-08-05 12:31:40
+date: 2024-08-05T02:34:21.707Z
+updated: 2024-08-06T02:34:21.707Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Information on Apple's Drive Into Automotive Industry: Price Estimates, Debut Date & Vehicle Specs"
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 
  First, there were computers. Then came the iPod, iPhone, and iPad – you know, the usual Apple stuff. And guess what? They were also working on a car! The Apple car never hit the streets, but they were (and maybe still are) cooking up something behind closed doors. Check out all the details below to find out what the Apple car was (or maybe still is) all about and what it might have looked like.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Is the Apple Car Real? 
 
  Rumors about Apple developing a car, known as Project Titan, began way back in 2014 when[ CEO Tim Cook reportedly gave the project his approval](https://www.forbes.com/sites/chuckjones/2015/02/14/hitting-the-brakes-on-apples-electric-car/?sh=5990880f2d68) . Even Apple's co-founder,[ Steve Jobs, wanted to design an "iCar."](https://www.businessinsider.com/mickey-drexler-steve-jobs-was-gonna-design-an-icar-2015-2) 
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 * In 2023,[ Ming-Chi Kuo surmised](https://twitter.com/mingchikuo/status/1707091228528201754) that "the development of the Apple Car seems to have lost all visibility" and doubts that the car will enter mass production even within the next few years.
 * In 2024, Bloomberg reported on Apple's plans to[ delay the car's launch until at least 2028](https://www.bloomberg.com/tosv2.html?vid=&uuid=5fcc037a-db73-11ee-bb95-8a0d88c2ae76&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wMS0yMy9hcHBsZS1jYXItZXYtc2V0LXRvLWRlYnV0LWluLTIwMjgtd2l0aC1saW1pdGVkLWF1dG9ub21vdXMtZHJpdmluZw==) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  If Apple wants to make their car idea happen, we could see a revival by 2028 or 2029\. But it'll only happen if they can strike a deal with Rivian or another car company.
@@ -65,6 +71,9 @@ Vanarama
 
  Exploring the Apple car features isn't something anyone can do because nothing was ever officially announced. But since smart cars are already on the roads today, we're not totally in the dark when we guess what could have been included in Apple's car.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Self-Driving 
 
  One rumor is that Apple would make a fully autonomous car. If you're familiar with the Society of Automotive Engineers,[ SAE calls this Level 5](https://www.sae.org/blog/sae-j3016-update) . At most, this means no pedals and no steering wheel._Full_ automation.
@@ -93,6 +102,9 @@ Vanarama
 
  With the Apple car dead in its tracks, we're left wondering where Apple might put this powerful chip if not in a car. Mark Gurman says the development of the chip was almost finished before the car project ended, so instead of scrapping this (likely very expensive) feat of engineering, we could see Apple incorporate it in future products like the next Vision Pro or Mac Studio.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Interior 
 
  If the Apple car were to have no steering wheel, it must mean you wouldn't need to watch the road, so how would you spend your time in such a vehicle?
@@ -107,6 +119,9 @@ Canoo
 
  In that car's iteration of this setup, it's just the backseat passengers riding in this kind of luxury. It's known that[ EVs are roomier than other vehicles](https://www.lifewire.com/why-evs-are-roomier-5202177) , and an even more comfortable picture is painted when you consider the "driver" here doesn't need to be driving or monitoring the road full time, so the front seats could just as easily spin so you can stretch your legs and face everyone at once, no rearview mirror required.[ Apple was granted a patent in 2022](https://www.patentlyapple.com/patently-apple/2022/01/apple-won-two-project-titan-patents-today-covering-a-futuristic-multi-linkage-vehicle-door-hinge-vehicle-seat-with-reclinin.html) for a vehicle seat with a reclining mechanism.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Apple Car concept](https://www.lifewire.com/thmb/yuMXwEwEQAzyjbSQ8ylet0M1fIY=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-car-interior-concept-seats-9e3296e29e3a4d3698d7efa0bb2ddb0c.jpg) 
 
  Seating concept for Apple Car. 
@@ -144,6 +159,9 @@ Tesla
 > Apple is creating a "monocell" design that will bulk up the individual battery cells and free up space inside the battery pack by removing pouches and modules that hold battery materials. This will allow for more active material in a smaller package. The battery technology has been described as "next level" and similar to "the first time you saw the iPhone."
 
   
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apple Car concept](https://www.lifewire.com/thmb/M9abZPEjS52BrY3qgbZa-vA-Vq0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-car-concept-abb59470e0974eb9a6b12697b8f84f04.jpg) 
 
  Apple Car exterior concept. 
@@ -162,6 +180,9 @@ Vanarama
 
  With passengers potentially facing each other while in motion, collision risks sound even more dangerous than they do in a traditional vehicle where everyone faces the same direction. Apple had a solution to that problem—a[ patent uncovered by Patently Apple](https://www.patentlyapple.com/2020/05/apple-wins-a-project-titan-patent-illustrating-next-gen-seat-belt-systems-that-includes-roof-and-lapbelt-airbags.html) in 2020 describes ample airbags and rail-mounted seats that can move in response to a collision to create distance between the occupants. Another[ patent for reinforced windows](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11,446,986.PN.&OS=PN/11,446,986&RS=PN/11,446,986) was reported in 2022.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Charging 
 
  A[ charging station patent spotted by Patently Apple](https://www.patentlyapple.com/2022/05/apple-has-won-a-patent-for-a-future-automated-electric-vehicle-charging-station.html) confirms that Apple was interested in adding some sort of automated charging mechanism to the vehicle for it to attach to a charging station without any manual input by the passengers. For illustrations and other details,[ check out patent 11,325,491 at USPTO](http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=11,325,491) .
@@ -190,6 +211,9 @@ Vanarama
 
  Another communication feature we would have liked to see in the Apple car involves external displays. These screens could indicate to passing vehicles and pedestrians what the car is doing. This could be useful for several things, like to let someone know you're waiting for them to cross the road, or to signal to a driver behind you that you're slowing down due to an obstacle in the road. You can read more about this in[ Patently Apple's description of the Apple patent](https://www.patentlyapple.com/2023/07/apple-invents-an-advanced-external-display-system-for-autonomous-passenger-vehicles-that-communicates-with-the-public.html) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vehicle's external display that says waiting for you to cross](https://www.lifewire.com/thmb/O65adpyjUraRfkZdBski5i1WVoU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/waiting-for-you-to-cross-external-display-776df2ff6f8246b4a252208f7380009b.jpg) 
 
 ##  The Latest News About the Apple Car 

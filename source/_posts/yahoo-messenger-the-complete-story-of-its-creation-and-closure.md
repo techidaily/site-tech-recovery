@@ -1,7 +1,7 @@
 ---
 title: "Yahoo! Messenger: The Complete Story of Its Creation and Closure"
-date: 2024-08-04 20:23:27
-updated: 2024-08-05 12:38:13
+date: 2024-08-05T02:34:47.395Z
+updated: 2024-08-06T02:34:47.395Z
 categories:
   - BestProducts
 description: "This Article Describes Yahoo! Messenger: The Complete Story of Its Creation and Closure"
@@ -28,8 +28,14 @@ In This Article
 
  Today, (almost) everything has a cool tech aspect to it, including toasters and lights. But what's really worth the cost when it comes down to affordability? We looked at cost, use, features, and more to develop our list of tech that's luxurious but still relatively affordable whether you're gifting yourself or someone else. It's time to get your wallet out!
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best for Caffeine-Fueled Days: Nespresso Vertuo Pop+ Deluxe Coffee and Espresso Machine
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Virtuo Pop+ espresso machine with frother](https://www.lifewire.com/thmb/3CK1vzSjsm4Q-HZ--SZXfl2BDvM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Nespresso-Affordable-Luxury-ff3509a2e60f4eaa8201d412a8e29f6a.jpg)
 
 Nespresso.
@@ -40,8 +46,14 @@ Nespresso.
 
 [$199 at Amazon](https://www.amazon.com/dp/B0CGXY13QW?tag=lifewire-onsite-prod-20&ascsubtag=8379513%7Cn6775a2427bb94ac18274928038bf0e3505%7C)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best for Impressing Envious Co-workers: Mode Envoy Anthracite-themed Keyboard
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Mode's custom Envoy keyboard in white and grey.](https://www.lifewire.com/thmb/rCfa4ISFAqdKvpZRb0eMeqC3mvo=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/ModeKeyboard-7d26ed57b8944cd586f998103feedd7c.jpg)
 
 Mode
@@ -74,6 +86,9 @@ Revolution
 
 ## Best for Multi-Tasking While You Surf the Web or Watch TV: Soulaca Smart Magic Mirror
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![A combination mirror/TV hanging above a tub near the faucet.](https://www.lifewire.com/thmb/VtrVm_A0oEE2KsylbsAibOKMcNQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Soulaca22inchmirrortv-b710a006ac2c49b888682004255fa0a7-a08be9c1db314d0187b3fbd319f6c056.jpg)
 
 Soulaca
@@ -90,6 +105,10 @@ Soulaca
 
 ## Best for Lighting Up Your World: Dyson Solarcycle Morph Floor Light
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Composite image showing the Solarcycle Morph lamp in both focused and glow modes.](https://www.lifewire.com/thmb/mj2laWQHVzP_toKfEOwZ7h9kmD8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/DysonSolarcycleMorphlamp-b-f1c7f5b2866e40ebb29092a55202cb19.jpg)
 
 Dyson
@@ -108,6 +127,10 @@ Dyson
 
 ## Best for Making Your Desk Look (and Feel) Organized: Hexcal Studio
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![Hexcal Studio shown with a man's hands using the keyboard below it and a monitor sitting on top of it.](https://www.lifewire.com/thmb/Ut2k-uO9lwdm-wunIhieciL1CPc=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/HexcalStudio-dcadf8467f2c4bacb1f60180bb6e9956.jpg)
 
 Hexcal
@@ -138,6 +161,9 @@ Bang & Olufsen
 
 [$995 at Amazon](https://www.amazon.com/Comfortable-Wireless-Cancelling-Headphones-Protective/dp/B091TM594V?tag=lifewire-onsite-prod-20&ascsubtag=8379513%7Cn6775a2427bb94ac18274928038bf0e3505%7C)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Phone for Making Android Users Want to Switch: iPhone 15 Pro
 
 ![The iPhone 15 Pro lying on a red blanket.](https://www.lifewire.com/thmb/9so_zFkyGZB40Ja0FgRIduJ8wbk=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15Pro-2-781d24aaf4ae4fceb3f7bb5990f2dc9b.jpg)
@@ -156,8 +182,14 @@ Lifewire/Molly McLaughlin
 
 [$998 at Apple](https://www.apple.com/shop/buy-iphone/iphone-15-pro)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Way to Watch the Night Skies: Vespera
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A couple viewing the night skies with a tablet and a Vespera. ](https://www.lifewire.com/thmb/AeGX5e7QVw5_X6x-k76ztxRtb9w=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Vespera-116078ae577341d28af88715dbaef4dc.jpg)
 
  Billed as the world's lightest observation station, fans of the night sky will love Vespera.

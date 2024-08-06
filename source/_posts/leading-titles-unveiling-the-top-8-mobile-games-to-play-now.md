@@ -1,7 +1,7 @@
 ---
 title: "Leading Titles: Unveiling the Top 8 Mobile Games to Play Now"
-date: 2024-08-03 14:41:44
-updated: 2024-08-05 11:36:18
+date: 2024-08-05T02:34:02.023Z
+updated: 2024-08-06T02:34:02.023Z
 categories:
   - BestProducts
 description: "This Article Describes Leading Titles: Unveiling the Top 8 Mobile Games to Play Now"
@@ -21,6 +21,9 @@ of 08
 
 ## Subway Surfers 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Subway Surfer game on iPhone with character moving horizontally, rolling, and jumping.](https://www.lifewire.com/thmb/P8xS0bM39rXRhBAP-lZjJljJzeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-subway-surfers-01-9e7d863a907847009022a713fbea706e.jpg) 
 
  What We Like
@@ -44,6 +47,9 @@ _[ Subway Surfers](https://www.lifewire.com/how-to-play-subway-surfers-8584055)_
 
 of 08
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Monopoly Go 
 
 ![Three images of the Monopoly Go video game with Album, Swinging Notes sticker album, and Stage Dream sticker highlighted.](https://www.lifewire.com/thmb/OKVQJcILcbbXRJZ_BegrUUq9QOk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-send-stars-monopoly-go-02-6ea41c585c174fe9886ac56aa3c8c481.jpg) 
@@ -98,6 +104,9 @@ of 08
 
 ## Call of Duty: Mobile 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Call of Duty: Mobile](https://www.lifewire.com/thmb/9Y5RP9tqgpWT_0VmzBLAQHlsZnA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/COD-MOBILE-PREVIEW_TOUT_NEW-36cf181bb15f467597e45443c575f221.jpg) 
 
 Activision
@@ -125,6 +134,9 @@ _Call of Duty: Mobile_ is the premiere first-person shooter on phones and tablet
 
 of 08
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Genshin Impact 
 
 ![Genshin Impact promotional screenshot](https://www.lifewire.com/thmb/0Ri57oSpSFeWdbXSKtsfRSxBaMQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/genshinimpact-f6eb1da6eabf4d30a9e8f088871ea6a7.jpg) 
@@ -154,8 +166,14 @@ _Genshin Impact_ is a team-based action RPG set in a huge, anime-inspired open w
 
 of 08
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Bloons TD 6 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bloons TD 6](https://www.lifewire.com/thmb/lSo8gb69tJj5nJRb3wyOmu0Fp7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bloonstd6-2decb61d81b5486785ae99cf563521b6.jpg) 
 
 Ninja Kiwi
@@ -185,6 +203,9 @@ of 08
 
 ## Hearthstone 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hearthstone: Heroes of Warcraft](https://www.lifewire.com/thmb/P98ZUHG3Kkq7VnZnA5z6vd6Io2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hearthstone-56a1ac9b5f9b58b7d0c19968.jpg) 
 
  Hearthstone: Heroes of Warcraft. © Blizzard 
@@ -214,6 +235,9 @@ of 08
 
 ## Old School RuneScape 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Screenshot of Old School RuneScape for Android](https://www.lifewire.com/thmb/IpBsFc79l-xV0rTlprSWBSGIafA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-the-13-best-android-strategy-games-of-2020-54ac4cdfea7747dc925e8c59457e091f.jpg) 
 
  What We Like

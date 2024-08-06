@@ -1,12 +1,12 @@
 ---
 title: The Ultimate Guide to Spectacular '80S Flicks You Can't Miss
-date: 2024-08-03 22:52:36
-updated: 2024-08-06 11:31:33
+date: 2024-08-05T02:34:52.447Z
+updated: 2024-08-06T02:34:52.447Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Spectacular '80S Flicks You Can't Miss
 excerpt: This Article Describes The Ultimate Guide to Spectacular '80S Flicks You Can't Miss
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## Discover the Ultimate Sites to Enjoy Music Vids - Our Top Picks
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/fi
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [YouTube](https://www.youtube.com/)
 
 ![An assortment of music video options on YouTube](https://www.lifewire.com/thmb/3bhGbwLwmjKlKh7kDqChD-JsO6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-music-videos-863929526ffd48ff9c25e21a37229ab2.png)
@@ -47,6 +50,9 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Reddit](https://www.reddit.com/r/MusicVideos/?rdt=55145)
 
 ![Top music videos on Reddit](https://www.lifewire.com/thmb/C4HfKDj1W-ekxIDQVWifY5fol7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-top-music-videos-c87a02d5df534537ba1f898399aedda4.png)
@@ -75,8 +81,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## [Vimeo](https://vimeo.com/categories/music/musicvideos/videos)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Vimeo music videos](https://www.lifewire.com/thmb/-xOhDF4ZZ2CQAkDJXP1sijNRR0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vimeo-music-videos-1fa20fdc0d894cf8bd11c11b11a2020c.png)
 
  What We Like
@@ -107,6 +119,9 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [IMVDb](https://imvdb.com/)
 
 ![IMVDb's best new music videos](https://www.lifewire.com/thmb/WZaekYeHlVwW4uTmmK7K7Wj582M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/imvdb-free-music-videos-f9e72a4725b44d67943a9811552e9632.png)
@@ -134,6 +149,9 @@ of 06
 
 ## [Internet Archive](https://archive.org/details/musicvideobin)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Music Video Bin at Internet Archive](https://www.lifewire.com/thmb/mXMRLJyw4r3YgcnTpNy2vLPbxkw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-free-music-videos-ece67d529a9f418a8c21ccd5069a11c9.png)
 
  What We Like

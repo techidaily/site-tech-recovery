@@ -1,7 +1,7 @@
 ---
 title: "Behind ChatGPT's Innovation: Who Are The Brain Trust?"
-date: 2024-08-02 20:44:22
-updated: 2024-08-05 10:14:53
+date: 2024-08-05T02:34:33.591Z
+updated: 2024-08-06T02:34:33.591Z
 categories:
   - BestProducts
 description: "This Article Describes Behind ChatGPT's Innovation: Who Are The Brain Trust?"
@@ -15,6 +15,9 @@ Close
 
  This article provides a look at OpenAI and ChatGPT, who made them, and who's in charge today.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Who Made ChatGPT? 
 
  OpenAI is one of the latest mega-companies to come out of the[ artificial intelligence](https://www.lifewire.com/what-is-artificial-intelligence-5119206) boom, with its flagship products,[ ChatGPT](https://www.lifewire.com/what-is-chatgpt-7105508) ,[ Dall-E](https://www.lifewire.com/openai-dall-e-3-ai-art-tools-7974653) , and lately,[ Sora](https://www.lifewire.com/openai-sora-ai-video-8585062) , making major splashes for their advanced natural-language processing and ability to converse and respond to humans in realistic ways.
@@ -29,10 +32,18 @@ Close
 
  Although there was some turmoil in the OpenAI board in the Fall of 2023, where CEO Sam Altman was temporarily ousted, he soon returned after an exodus of OpenAI staff. Altman and OpenAI's president, Greg Brockman, also work as part of an advanced AI research team at Microsoft despite OpenAI continuing to be their main focus.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ##  When Did ChatGPT Come Out? 
 
  Although OpenAI developed a number of GPT language models internally as part of its AI research efforts, it only released its first commercial ChatGPT service in December 2022\. This first version of the AI chatbot was based on its GPT-3.5 language model,
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT main page.](https://www.lifewire.com/thmb/NHebqSA2n4TcEKIMK_5Uig6pAKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chatgpt0111-4c3933ae2610433489dcbf124c7f8872.jpg) 
 
  The ChatGPT window as it is seen in 2024, with the GPT-4o language model. 
@@ -43,6 +54,9 @@ Close
 
  OpenAI launched the latest version of ChatGPT in May 2024\. GPT-4o introduced multi-modality to the AI in a much broader array of capabilities than ever before. This version is faster than its predecessor and offers more functionality to both free and paid users.  
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who Invented ChatGPT? 
 
  ChatGPT was created by OpenAI, although the concept of AI chatbots has existed for far longer.
@@ -51,6 +65,10 @@ Close
 
  Symbolic efforts were made to develop NLP models over the ensuing decades, but it wasn't until the integration with big data and machine learning, along with the advanced computing power of the 2010s, that its development really accelerated. This led to the first viable NLM commercial product in ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ##  What Else Does OpenAI Make? 
 
  OpenAI is also behind the development and release of all new versions of ChatGPT, including the more advanced GPT-4 language model that has been available as part of ChatGPT Plus since March 2023 and the latest GPT-4o language model, launched in May 2024.

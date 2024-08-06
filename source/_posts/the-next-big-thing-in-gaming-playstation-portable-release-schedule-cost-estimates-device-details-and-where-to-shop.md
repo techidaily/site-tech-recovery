@@ -1,7 +1,7 @@
 ---
 title: "The Next Big Thing in Gaming: PlayStation Portable - Release Schedule, Cost Estimates, Device Details & Where to Shop"
-date: 2024-08-03 12:44:48
-updated: 2024-08-06 10:51:32
+date: 2024-08-05T02:34:05.881Z
+updated: 2024-08-06T02:34:05.881Z
 categories:
   - BestProducts
 description: "This Article Describes The Next Big Thing in Gaming: PlayStation Portable - Release Schedule, Cost Estimates, Device Details & Where to Shop"
@@ -21,18 +21,30 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
 
  Sony's PlayStation Portal (formerly Project Q), a handheld device that lets you stream games from your PS5, is out now. Here are all of the details.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  PlayStation Portal Release Date 
 
  The Playstation Portal launched November 15, 2023\. Sony first revealed the handheld device at its showcase in May 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## PlayStation Portal Price 
 
  The PlayStation Portal costs $199.99.  
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Where to Buy 
 
  You can[ order PlayStation Portal directly from Sony](https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player) . You can also pick it up from other electronics retailers like Target, Amazon, and Best Buy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  PlayStation Portal Specs and Features 
 
  PlayStation Portal has all the main features of the DualSense, including adaptive triggers, vibration, and a speaker. Sony has opted for an LCD screen rather than OLED, likely to help keep the production costs down.
@@ -50,6 +62,11 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
 
 [  Sony Pulse Elite Headset: News, Price, Release Date, and Specs ](https://www.lifewire.com/sony-pulse-elite-headset-8419539) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ##  The Latest News About the PlayStation Portal 
 
  You can get[ more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Meanwhile, here are some stories about Sony and its other gaming products:

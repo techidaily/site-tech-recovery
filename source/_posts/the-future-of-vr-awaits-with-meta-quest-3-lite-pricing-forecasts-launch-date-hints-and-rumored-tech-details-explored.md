@@ -1,7 +1,7 @@
 ---
 title: "The Future of VR Awaits with Meta Quest 3 Lite: Pricing Forecasts, Launch Date Hints & Rumored Tech Details Explored"
-date: 2024-08-04 16:14:10
-updated: 2024-08-06 10:59:41
+date: 2024-08-05T02:34:12.877Z
+updated: 2024-08-06T02:34:12.877Z
 categories:
   - BestProducts
 description: "This Article Describes The Future of VR Awaits with Meta Quest 3 Lite: Pricing Forecasts, Launch Date Hints & Rumored Tech Details Explored"
@@ -22,10 +22,16 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
  There are whispers of a new, cheaper version of the[ Meta Quest 3](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) – the Meta Quest 3 Lite (aka Meta Quest 3s). While your wallet won't take as big of a hit, you might have to deal with the same display resolution as the Quest 2 (from 2020). Here's everything you can expect from Meta's upcoming VR headset.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  When Will Meta Quest 3 Lite Be Released? 
 
  If the rumors are accurate, the Quest 3 Lite will arrive this year. We're just not sure_when_ . The Quest 3 was unveiled in June 2023 and released in October. If this year follows a similar pattern, Meta could announce the next headset any day now. Otherwise, they might wait until[ Meta Connect](https://www.meta.com/connect/) in September.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  We think the Meta Quest 3s will be available for purchase by the end of September 2024.
@@ -40,10 +46,16 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
 [  5 Things to Consider Before Buying a VR Headset ](https://www.lifewire.com/5-things-to-consider-before-buying-a-vr-headset-5271867) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Meta Quest 3 Lite Features 
 
  We don't know everything for sure, but expect the Quest 3 Lite to be a more basic VR headset to keep the price down. It might not be as powerful or have as sharp a picture as the Quest 3, but you'll still be able to play VR games and apps.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ##  Meta Quest 3 Lite Specs and Hardware 
 
  Some supposed leaked material from a Meta presentation gives us a glimpse at what the headset might look like. The Meta Quest 3s (on the left, pictured below) includes six cameras positioned in two triangular sets. These are likely full-color, passthrough cameras. Meta's Director of Engineering for XR Tech[ Paul Furgale is "convinced that Passthrough and MR will be a standard feature on all future headsets" following the Quest 3](https://www.meta.com/blog/quest/ai-powered-technologies-quest-3-pro-ray-ban-meta-smart-glasses/) .  
@@ -54,10 +66,17 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
  We've also heard that the Quest 3 Lite might come in two models, including a more affordable option that omits the controllers. With hand-tracking technology already present in current headsets, it's not far-fetched to think this could be how it works for the entry-level Quest 3s. Otherwise, the Quest 3s will ship with Touch controllers like other Meta headsets.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Meta Quest 3](https://www.lifewire.com/thmb/iXYvSQIxLwkRmBJtBs3XZLVjB3Y=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Meta-Quest-3-v2-305b96ae177f411aa3bb2f852f75254a.jpg) 
 
 The Meta Quest 3. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  The Latest News About Meta Quest 3 Lite 
 
  You can [ get more smart and connected life news from Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Here are the latest stories on Meta's VR headsets:

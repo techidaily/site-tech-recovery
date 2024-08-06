@@ -1,7 +1,7 @@
 ---
 title: "Samsung Smart TV Mastery: How to Set Up and Use Remote Control Seamlessly"
-date: 2024-08-02 15:16:20
-updated: 2024-08-05 11:55:21
+date: 2024-08-05T02:34:28.832Z
+updated: 2024-08-06T02:34:28.832Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung Smart TV Mastery: How to Set Up and Use Remote Control Seamlessly"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 ---
 
 ## Samsung Smart TV Mastery: How to Set Up and Use Remote Control Seamlessly
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * First, on the TV, go to**Smart Hub** \>**Source** \>**Remote Access** \>**Remote PC** \>**User** \>**Add** .
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 
  This article explains how to link your Samsung smart TV (2019 models and newer) to your PC using Remote Access. These directions are for Windows 11 and Windows 10 users.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## How to Connect Your Samsung Smart TV to Your PC Using Remote Access
 
  Samsung's Remote Access feature lets you wirelessly connect your Windows PCs or laptops to select Samsung smart TVs, even if the PC is in another room. By connecting a keyboard and mouse to the TV (either wired or via[Bluetooth](https://www.lifewire.com/what-is-bluetooth-2377412) ), you can access files, use a desktop browser, play games, and more. Here's what to do:
@@ -30,9 +36,15 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 6. You'll see a large window labeled**Connect to Remote PC** . You're asked to enter your PC's credentials. To create a new PC profile, select the**User** **icon** located to the right of the PC/Profile box to launch the**User Profiles** window.
 7. Select**Add** to create a new profile.
 8. [Find your IP address in Windows](https://www.lifewire.com/find-ip-address-in-windows-7112576) . You're looking for the local IPv4 address, which you can find through**Settings** \> **Network & internet**  \> **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![IPv4 address highlighted in the Windows 11 Ethernet settings.](https://www.lifewire.com/thmb/kudvbXxhRr8hfDIYk80vOyl484U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-UseRemoteAccessonYourSamsungSmartTV-annotated-030e8e72d868445b99969440d7bb6c7e.jpg)
 9. [Enable remote access on your computer](https://www.lifewire.com/windows-10-remote-desktop-4589382) . The quickest way to do this in Windows 11 is to search from the taskbar: Type**remote desktop settings** , press**Enter** , then toggle**Remote Desktop** on.  
  It already should be, but while you're on this screen, make sure the**Network Level Authentication** check box is filled.  
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Remote Desktop toggle and Network Level Authentication check box highlighted in Windows 11 Settings.](https://www.lifewire.com/thmb/hUwIgWR-dxZC68uehugaWY0ts6g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-UseRemoteAccessonYourSamsungSmartTV-annotated-68cb0132b5314021af5f6530097d543f.jpg)
 10. Return to your TV and make sure you're in the**User Profiles** window. Use the connected keyboard to enter your PC's IP address in the corresponding box.
 11. Enter the username you use to log in to your PC. Then, using the remote control, select**Save** .

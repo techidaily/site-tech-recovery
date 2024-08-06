@@ -1,7 +1,7 @@
 ---
 title: The Ins and Outs of Tracking Text Message Read Receipts
-date: 2024-08-04 18:30:35
-updated: 2024-08-05 12:52:42
+date: 2024-08-05T02:35:11.856Z
+updated: 2024-08-06T02:35:11.856Z
 categories:
   - BestProducts
 description: This Article Describes The Ins and Outs of Tracking Text Message Read Receipts
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 ---
 
 ## The Ins and Outs of Tracking Text Message Read Receipts
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * iPhone: The recipient must go to**Settings** \>**Messages** and turn on**Send Read Receipts** .
@@ -30,6 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 2. Tap**Messages** .
 3. Turn on**Send Read Receipts** .
 4. Others are notified when you read their messages. If your recipient also enabled read receipts, you'll see**Read** beneath your message along with the time it was read.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Turning on Read Receipts on an iPhone](https://www.lifewire.com/thmb/adwssPUIufZ67_obqOx2EVuaR_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-read-my-text-message-4148206-8285a2a3097b4c5a8e2f3884553f75f1.jpg)
 
  If you don't want people to know that when you read their messages,[turn off read receipts on your iPhone or Android](https://www.lifewire.com/turn-read-receipts-on-or-off-on-iphone-and-android-5074420) .
@@ -45,6 +51,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 1. Open the app and tap the settings option, called**Messages settings** on some devices. If you don't see this, tap the profile image or the three vertical dots or lines at the top of the screen.
 2. Depending on your phone, tap**RCS chats** ,**Chat features** , **Text Messages** , or **Conversations** . If this option isn't on the first page that displays, tap **More settings** .
 3. Tap the toggle next to the read receipts options, which might be called**Send read receipts** ,**Read receipts** , or**Request receipt** , depending on the device you have.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Google Messages menu, Settings screen, and RCS chats options](https://www.lifewire.com/thmb/B7JVQg4q7aeE8dmAE_ap6ttFnuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-read-receipts-rcs-chats-19d035e50fc3487ba50f8d7d782765fa.png)
 
 ## WhatsApp Read Receipts
@@ -55,6 +64,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 
  WhatsApp read receipts are a two-way street. If you disable read receipts to prevent others from knowing you read their messages, you won't know when they read yours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### WhatsApp Message Details
 
  If you're looking for specific information about the messages you've sent in WhatsApp, here's how to see those details:
@@ -62,6 +74,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 1. Open a conversation.
 2. Tap and hold the message, then select**Info** . Depending on your device, you might need to select the**three-dot** menu first.
 3. If read receipts aren't disabled, you'll see the exact time your message was delivered and read.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Message details in WhatsApp](https://www.lifewire.com/thmb/kKfFfjrRV6uuvyv_nzBN_LBJWxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-read-my-text-message-4148206-69a5bd8788d44fe2ad7afbdcda9ae3e4.jpg)
 
 ## Messenger Read Receipts
@@ -80,6 +95,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 
  The Facebook Messenger app provides detailed indicators about the delivery and read status each time you send a message. When your message is actively sending, you'll briefly see a blue circle. When it's sent, you'll see a blue circle with a checkmark. When it's delivered, you'll see a filled-in blue circle. Finally, when it's read, you'll see a small version of your recipient's profile image below the message.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Read indicators in Facebook Messenger](https://www.lifewire.com/thmb/KfSmMETDPxk2OzNUveEZTEEAf6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-read-my-text-message-4148206-6116e0f818784404a8debc67972541c2.jpg)
 
 ## Instagram Read Receipts

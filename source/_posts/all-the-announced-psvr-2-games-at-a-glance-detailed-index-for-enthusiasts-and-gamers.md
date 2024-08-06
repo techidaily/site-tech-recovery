@@ -1,7 +1,7 @@
 ---
 title: "All the Announced PSVR 2 Games at a Glance: Detailed Index for Enthusiasts and Gamers"
-date: 2024-08-02 18:41:18
-updated: 2024-08-05 12:39:12
+date: 2024-08-05T02:34:22.806Z
+updated: 2024-08-06T02:34:22.806Z
 categories:
   - BestProducts
 description: "This Article Describes All the Announced PSVR 2 Games at a Glance: Detailed Index for Enthusiasts and Gamers"
@@ -17,12 +17,18 @@ Close
 
  After the full list, I've included some lists of recommendations if you're looking for something specific.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Every PSVR 2 Game, Alphabetically 
 
  Maybe you just want a comprehensive list of every PlayStation VR 2 title currently announced. Here's the full lineup.
 
 These games have all been announced, but some may not be out yet.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Beat Saber on Oculus Quest.](https://www.lifewire.com/thmb/RcMOC1a-eQ8MB-93bq-f1IOlTcg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/beatsaber-6eb924688cfa4544b32f6ea4d756bdd4.jpg) 
 
  Beat Games
@@ -109,6 +115,9 @@ These games have all been announced, but some may not be out yet.
 * _Ghost Signal: A Stellaris Game_
 * _Ghostbusters: Rise of the Ghost Lord_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![No Man's Sky](https://www.lifewire.com/thmb/Rj6mJi2k4nSvPWjjx_hfQBfZIn0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/No-Man-s-Sky-57c765cb5f9b5829f4b43b4e.jpg) 
 
  Screenshot of No Man's Sky. Hello Games 
@@ -167,6 +176,9 @@ These games have all been announced, but some may not be out yet.
 * _Pixel Ripped 1978_
 * _Pixel Ripped 1995_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Screenshot of Walking Dead Saints and Sinners VR game](https://www.lifewire.com/thmb/dpqpTAB_v9-hQg5ZD3Gd0L2kMv0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2020-02-25at12.46.47PM-5d154df58fdb440c94c2812c33f4d897.jpg) 
 
 * _Prison Boss VR_
@@ -195,6 +207,9 @@ These games have all been announced, but some may not be out yet.
 * _Space Docker VR_
 * _Star Wars: Tales from the Galaxy's Edge – Enhanced Edition_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Star Wars: Tales from the Galaxy's Edge](https://www.lifewire.com/thmb/wImrJPdNMESOO7HTTYioC-CdpoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2024-05-08at9.14.00PM-aa05959a25e3416a99ba272e3408df35.jpg) 
 
 * _Startenders: Intergalactic Bartending_
@@ -264,12 +279,19 @@ These games have all been announced, but some may not be out yet.
 
 ![Screenshot from Resident Evil: The Village](https://www.lifewire.com/thmb/V6jQIWVtc6zr6YWGV4yhA1rhuhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RE_Village_Apr_2021_Screens_05-4177f157cd1d4760bf3ca5e7b5475d66.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  The Dark Pictures: Switchback VR 
 
 _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until Dawn: Rush of Blood_ , put players onto a terrifying rollercoaster ride full of scares and monsters from that title. The follow-up is the same idea, only it has four episodes to draw from the first "season" of_The Dark Pictures Anthology_ .
 
 **Release Date** : March 2023
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Resident Evil: Village 
 
  Capcom did PSVR 2 owners a huge service by making the entirety of 2021's_Resident Evil: Village_ playable in virtual reality. This version features manual reloads, the ability to dual-wield weapons, and a new perspective on just how tall internet-favorite vampire Lady Dimitrescu is.
@@ -282,6 +304,10 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 
 **Release Date** : August 2023  
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Cosmodread 
 
  This rogue-like, space-based horror drops you into a huge, scary spaceship with a different layout every time you try. Your job is to escape to Earth, but all you have is a crossbow and a will to survive.
@@ -304,6 +330,9 @@ Polyphony Digital
 
 **Release Date** : April 2023
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Gran Turismo 7 
 
  The_Gran Turismo_ series aims to be the most accurate racing simulator, so letting players feel like they're behind the wheel is a great match.
@@ -314,12 +343,19 @@ Polyphony Digital
 
  While you don't have to do all the running yourself in this VR football game (that's what analog sticks are for), it will be up to you to block the defenders as you head for the end zone. This title prides itself on its passing physics, which will also exercise your arm.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Best PSVR 2 Games to Relax With 
 
  Your VR gaming time doesn't have to be non-stop action. Plenty of options are available that will help you unwind at the end of your day.
 
 ![Tetris Effect: Connected video game on Xbox One, Xbox Series X, PS4, PS5, and Windows PC.](https://www.lifewire.com/thmb/7roJV1mYBrPIndXhqDXNT8DVyhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tetris-effect-cheats-codes-and-secrets-04-09ea72d3f9a04970859a00d6f72e798f.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Puzzling Places 
 
  If you like jigsaw puzzles,_Puzzling Places_ will do you one better. You'll sit in a virtual space and assemble 3D versions of real places while a beautiful setting and ambient noise surround you. You can start easy with just a few pieces, but you can also go all the way up to 400 if you want an extra challenge.
@@ -342,18 +378,28 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 
 **Release Date** : February 2023
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Best PSVR 2 Action Games 
 
  PlayStation VR 2 owners who want to push their action skills should check out these games.
 
 ![Horizon: Call of the Mountain](https://www.lifewire.com/thmb/jD6wdUnV4hFDEByl5uWOt1b1YBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HorizonCalloftheMountain-702c4adc02cf4e5daf6e7de3702753f2.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Horizon: Call of the Mountain 
 
  The_Horizon_ series tasks players with navigating a post-apocalyptic world filled with a bunch of dangerous, animal-themed robots. This VR entry tells a new story with more challenges, and you're still fighting cybernetic dinosaurs with a bow and arrow, so the spirit is still there.
 
 **Release Date** : February 2023
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  The Walking Dead: Saints & Sinners (series) 
 
  Both_The Walking Dead: Saints & Sinners_ and its cumbersomely titled follow-up,_The Walking Dead: Saints & Sinners – Chapter 2: Retribution,_ drop you into a zombie-filled New Orleans. You'll face various challenges as you try to survive the undead and just bad people as you battle for the soul of the city.
@@ -366,6 +412,9 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 
 **Release Date** : TBA
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Best PSVR 2 Games for Families 
 
  Looking for something kid-friendly to play on your PlayStation VR 2? Here are some of the most charming games on the platform.
@@ -382,6 +431,9 @@ Polyarc
 
 **Release Date** : March 2022
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Humanity 
 
  You are a heavenly Shiba Inu guiding vast mobs of people to their ascension in this admittedly weird but beautiful game. You'll tell your charges where to turn, where to jump, and which way to go to lead them to each level's exit. It's family-friendly for the cool visuals, forgiving difficulty, and 2D mode. Plus, you're a cool dog.

@@ -1,7 +1,7 @@
 ---
 title: Displaying Your PC Desktop On TV Screens Via Google Cast - An In-Depth Tutorial
-date: 2024-08-02 17:25:18
-updated: 2024-08-05 12:23:39
+date: 2024-08-05T02:34:42.519Z
+updated: 2024-08-06T02:34:42.519Z
 categories:
   - BestProducts
 description: This Article Describes Displaying Your PC Desktop On TV Screens Via Google Cast - An In-Depth Tutorial
@@ -12,6 +12,9 @@ thumbnail: https://www.lifewire.com/thmb/wYpKhJ7nijArSqy-m8hwKUvHfJQ=/400x300/fi
 ## Student Savings Alert: How to Score Big on YouTube Premium With an Educational Discount
  This article explains how to sign up for a YouTube Premium Student Discount.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Sign Up for the YouTube Premium Student Discount
 
  YouTube uses a service called SheerID to confirm eligibility. You can check if your school is included by going to the student membership landing page for[YouTube Premium](https://www.lifewire.com/is-youtube-premium-worth-it-8584585 ) or[YouTube Music Premium](https://www.lifewire.com/what-is-youtube-music-4799054 ) .
@@ -19,8 +22,14 @@ thumbnail: https://www.lifewire.com/thmb/wYpKhJ7nijArSqy-m8hwKUvHfJQ=/400x300/fi
 1. On the landing page, click**TRY IT FREE** .  
 ![Signing up for the YouTube Premium Student Discount](https://www.lifewire.com/thmb/aPzRGgGmK-m-Aq3jVHeUISd_8aY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent1-4dd5ae1181f143c794fe3fe1d615e74f.jpg)
 2. A message will pop-up warning that you'll be redirected to SheerID for verification. Click**CONTINUE** .  
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount](https://www.lifewire.com/thmb/krc_P8NRwLzkc5h633qem4DYpjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent2-ac9d06f65a8a46d8958e9682d297a560.jpg)
 3. Fill in your country, university (options will populate as you type), first and last name, date of birth, and email address. Check the box to agree to the verification process.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/RbANARHcGpEqx7ykFJQlw7ekb88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent3-a3e301e3cb8145d0af9590f894384169.jpg)
 4. Click**NEXT** .  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/7tGfuyn3esdJ6s8C_cTF0COO_i0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent4-7c7525111bd04feca4169668a01cd7fa.jpg)
@@ -29,6 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/wYpKhJ7nijArSqy-m8hwKUvHfJQ=/400x300/fi
 6. If the verification is successful, SheerID will redirect you back to the YouTube Premium sign-up page. You might need to log into your YouTube account.
 7. Click your profile picture.
 8. Select**Paid memberships** and follow the on-screen prompts.  
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/-WpwGJr3fmxf4xJ9IARe9kgVYiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent6-1b4b0214a68a4ab9849880fcedaff3b3.jpg)
 9. Click**LEARN MORE** .  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/1tWG3IuFBa1j6bGZYup9DK1N9a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent7-38cbeb35f7d9480d81a44d3d8ddc4a18.jpg)
@@ -36,10 +48,16 @@ thumbnail: https://www.lifewire.com/thmb/wYpKhJ7nijArSqy-m8hwKUvHfJQ=/400x300/fi
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/A_h1uMjvVexpll2JqR730jpwQQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent8-4fe99ffd2800473d83a5e2610d0623a0.jpg)  
  This screen is for the regular free trial. You will click 1-MONTH TRIAL.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Who Is Eligible for a YouTube Premium Student Discount?
 
  Students can sign up for a YouTube Music Premium or YouTube Premium membership at a discount. Students must be enrolled full-time at an eligible higher education institution in the U.S. and 60-plus other countries to qualify. The discounted subscriptions are valid for up to four years, and students must re-verify their eligibility each year. A company called SheerID does the verification.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Does the YouTube Premium Student Discount Include?
 
  Students get a 1-month free trial and pay about half of the monthly subscription amount. The membership includes the same benefits as a non-discounted membership. Members get access to both YouTube and YouTube Music Premium, ad-free videos and music, video and music downloads for offline viewing and listening, and the ability to play videos in the background while using other apps or when your screen is locked.

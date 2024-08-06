@@ -1,7 +1,7 @@
 ---
 title: Is Your Zoom Experience Compromised by User Error? Let's Find Out!
-date: 2024-08-03 18:37:42
-updated: 2024-08-05 10:21:27
+date: 2024-08-05T02:34:08.889Z
+updated: 2024-08-06T02:34:08.889Z
 categories:
   - BestProducts
 description: This Article Describes Is Your Zoom Experience Compromised by User Error? Let's Find Out!
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/aBe3YJaeATqqc0Rj6pezAV4MAog=/400x300/fi
 
  This article explains how to see who has viewed a document you’ve shared in Google Docs. This check is handy for making sure everyone who is supposed to review the document does so. The feature is available to[Google Workspace](https://www.lifewire.com/what-is-g-suite-4686959) subscribers using a business, enterprise, education, or nonprofit plan.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## See Who Viewed a Google Doc
 
  To see who has viewed a document,[visit Google Docs](https://docs.google.com/) and sign in with your Google account. Then, open the document.  
@@ -26,14 +29,23 @@ thumbnail: https://www.lifewire.com/thmb/aBe3YJaeATqqc0Rj6pezAV4MAog=/400x300/fi
 ![Google Docs with Activity Dashboard and its Icon highlighted](https://www.lifewire.com/thmb/6h366_IuWsz8F-9uddJvUAX1F58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ActivityDashboard2-5a823fbc319f4c3eb4e04702b3e925fe.jpg)
 2. Confirm that **Viewers** is selected on the left side.
 3. Use the **All viewers** tab on the right to see who has viewed the document. You’ll see their name and when they last viewed it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Viewers and All Viewers in the Activity Dashboard highlighted](https://www.lifewire.com/thmb/V6MAIeOj8jrGdn4DrWoeNivd42s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Viewers-51d26efb564141b29bc474b002b448ad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Additional Dashboard Viewing Features
 
  Select **Viewers** and use the **Shared with** tab to see everyone you have shared the document with to find out who else needs to review it.
 
  You can also use the Email column to send a message to those you’ve shared the document with as a reminder.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Docs viewers with Shared With highlighted](https://www.lifewire.com/thmb/bywM-Ml7U5N7c90E1SnLQkJDl6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SharedWith-86eb4b621c0041ffbfa67b162e505438.jpg)
 
  Select **Viewer trend** to see the unique daily viewers. Choose a particular day on the column chart to see how many viewers were captured that day.
@@ -50,6 +62,9 @@ thumbnail: https://www.lifewire.com/thmb/aBe3YJaeATqqc0Rj6pezAV4MAog=/400x300/fi
 * The people you expect to view the document might have opted out of displaying their View History (see below).
 * You or the Admin may have View History turned off (see below).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Turn on Activity Dashboard View History
 
  If you are the Admin for the Google account and want to be sure that you have View History turned on for Google Docs,[visit your Google Admin Console](https://admin.google.com/) and log in.  
@@ -61,6 +76,9 @@ thumbnail: https://www.lifewire.com/thmb/aBe3YJaeATqqc0Rj6pezAV4MAog=/400x300/fi
 ![Users' View History turned on in the Admin console](https://www.lifewire.com/thmb/BxokFwEg-UVGYlVp8dUELu73h1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UsersViewHistory-b95295a4ec8c41d7b4248c00bacdaa33.jpg)  
  Depending on your workspace, you may see the option able to turn on**Access to view history** for other users to see Viewers and Viewer Trends in the Activity Dashboard.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Turn on Individual View History
 
  To help someone you expect to review the document display their View History or to display yours,[open the document in Google Docs](https://www.lifewire.com/open-google-docs-5089238) and follow these steps.  

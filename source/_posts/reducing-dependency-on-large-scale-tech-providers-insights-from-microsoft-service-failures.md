@@ -1,7 +1,7 @@
 ---
 title: "Reducing Dependency on Large-Scale Tech Providers: Insights From Microsoft Service Failures"
-date: 2024-08-02 20:19:58
-updated: 2024-08-05 10:50:34
+date: 2024-08-05T02:34:11.118Z
+updated: 2024-08-06T02:34:11.118Z
 categories:
   - BestProducts
 description: "This Article Describes Reducing Dependency on Large-Scale Tech Providers: Insights From Microsoft Service Failures"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
 * This kind of outage is going to keep happening.
 * Governments should use—and invest in—open-source software.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 11 system crash due to security update from CrowdStrike affected bus stops](https://www.lifewire.com/thmb/-uozjbz5IW2WfZVs2dmBdg4in9o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/shekai-vKla95GgAwg-unsplash-1d46c69f3d5f462faee87878fc1e0a57.jpg)
 
 Oopsy daisy.
@@ -26,12 +29,18 @@ Shekai / Unsplash
 
  "It is significantly easier to manage, monitor, and operate an organization that uses a standardized set of tools," cybersecurity expert and white-hat hacker[Andrew Plato](https://zenaciti.com/founders-user-manual/) told Lifewire via email. "Standardization is a key component in not only efficiency but also in security. Uniform, consistent environments are easier to secure since it becomes easier to identify things that are out of place."
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Monoculture
 
  Security is boring, and not just for you and me. A large company is no more inclined to spend time and money on security than anyone else, which is why we keep hearing about[massive privacy breaches at companies](https://www.nytimes.com/2024/05/31/business/ticketmaster-hack-data-breach.html) whose business is to look after user data. Security is often just a checkbox on some compliance form, and so we end up with these companies buying the most obvious off-the-shelf solution so that they can check this box.
 
  The result of these two factors—consolidation and compliance—is that many businesses run on Microsoft, and many of those use security products like Crowdstrike. Standardization makes things easier.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Frown face from blue screen of death](https://www.lifewire.com/thmb/Lqv4aGyuYC6HNd5WDK1DTTPYgvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/joshua-hoehne-3n2uI0quNsA-unsplash-0e8d510435ae4397821e1d01bac2c441.jpg)
 
  This is how I feel every time I have to use Windows.
@@ -48,10 +57,16 @@ Shekai / Unsplash
 
  Now, imagine a similar outage, only it shuts down the water plant, puts hospitals offline, or some other nightmare scenario.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Open Source
 
  For these exact reasons, governments should not rely on proprietary software that is outside of their control. Instead, they should look to another model: open-source, aka "free" software. Open source means that the source code, the part that humans write before a computer crunches it into executable software, is open for anyone to read, use, and modify.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Neon sign that reads 'Open.'](https://www.lifewire.com/thmb/XbRPJ1gFGnBq6454pNxdBi-InMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/viktor-forgacs-LNwIJHUtED4-unsplash-32bb3afaa57e4665ba788b48e805e2a8.jpg)
 
 Open.

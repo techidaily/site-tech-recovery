@@ -1,7 +1,7 @@
 ---
 title: 4 Best Free Online Calendars
-date: 2024-08-02 17:44:42
-updated: 2024-08-05 12:38:14
+date: 2024-08-05T02:35:14.035Z
+updated: 2024-08-06T02:35:14.035Z
 categories:
   - BestProducts
 description: This Article Describes 4 Best Free Online Calendars
@@ -34,8 +34,14 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 
  DNS servers are referred to as all sorts of names, like DNS server addresses, internet DNS servers, internet servers, DNS IP addresses, etc., but they all mean the same thing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Google: 8.8.8.8 & 8.8.4.4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Google Public DNS website](https://www.lifewire.com/thmb/qWj4pMgWHD-gbazU6kh9AaxjDBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-public-dns-383e413f3f374b509aec7d6c195bbbae.png)
 
 [Google Public DNS](https://developers.google.com/speed/public-dns/) promises three core benefits: a faster browsing experience, improved security, and accurate results without redirects. It's what I use on my devices.
@@ -52,8 +58,14 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 
  As you can see above,[IPv6](https://www.lifewire.com/ipv4-vs-ipv6-4780834) IP addresses use colons. If you're not sure which one to use for Google's servers or any of the others on this page, stick with IPv4.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Control D: 76.76.2.0 & 76.76.10.0
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![A list of free DNS options at Control D](https://www.lifewire.com/thmb/W1PoIB20e3W5hSR-CYEJ_oBCo-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/control-d-free-dns-2f558b21cde84ae5a686dece15e913c0.png)
 
 [Control D](https://controld.com/free-dns) is unique because it has several DNS servers to pick from, each categorized by theme. The "Uncensored" resolver proxies the commonly blocked websites in most countries to bypass IP blocking of various news websites. Others can be used to stop malicious websites, block ads and trackers, or block social networks or adult content. The basic option, "Unfiltered," provides DNS query privacy and security:
@@ -70,6 +82,9 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 
 ### Quad9: 9.9.9.9 & 149.112.112.112
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Quad9 website](https://www.lifewire.com/thmb/iRlEKiR8f7CmoRJ2O1dytTs_Exw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/quad9-d6eaf2378c0149b497e6792759186953.jpg)
 
 [Quad9](https://www.quad9.net/) has free public DNS servers that protect your computer and other devices from cyber threats by immediately and automatically blocking access to unsafe websites. One thing I appreciated while researching this company is that it works without storing your personal data; their website clearly states that when you use Quad9, "no data containing your IP address is ever logged."
@@ -84,6 +99,9 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 
  Quad9 doesn't filter content—only domains that are phishing or contain malware will be blocked.[There's also an unsecured IPv4 public DNS](https://www.quad9.net/service/service-addresses-and-features/#unsec) (i.e., no malware blocking) at 9.9.9.10 (2620:fe::10 for IPv6). Quad9 also supports DoH.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### OpenDNS: 208.67.222.222 & 208.67.220.220
 
 ![OpenDNS public DNS server website](https://www.lifewire.com/thmb/5votPFdjy1TRMp-5wxWdB3e_74c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opendns-518a9ef00d6a4215964245aa4dfd6688.png)
@@ -120,6 +138,9 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 
 ### AdGuard DNS: 94.140.14.14 & 94.140.15.15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![AdGuard DNS website](https://www.lifewire.com/thmb/VGFWb-Sg7jSxs7MM04dHcD40dbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/adguard-dns-b78348dab9e240bc94d94fd9be62e8e6.png)
 
 [AdGuard DNS](https://adguard-dns.io/en/public-dns.html) has three sets of DNS servers, each with different features. Two are designed to block ads in games, videos, apps, and web pages. I used these "Default" servers for several months to block ads and trackers, and I was pleased with its performance, despite ads slipping through at times:
@@ -152,6 +173,9 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 
 ### Alternate DNS: 76.76.19.19 & 76.223.122.150
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Alternate DNS website](https://www.lifewire.com/thmb/-4LtpRDVaV8Hg2TKADqt1kg7jSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alternate-dns-b37b229caddf47a3b4808394e1d80350.png)
 
 [Alternate DNS](https://alternate-dns.com/) is a free public DNS service that blocks ads before they reach your network. It works pretty well in my experience, but it's not 100 percent perfect.
@@ -178,6 +202,9 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 
  Finally, in case there is any confusion, free DNS servers do_not_ give you[free internet access](https://www.lifewire.com/best-ways-to-get-free-internet-at-home-4845257) . You still need an ISP for access—DNS servers just translate between IP addresses and domain names so that you can access websites with a human-readable name (like_lifewire.com_ ) instead of a difficult-to-remember IP address.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Additional DNS Servers
 
  Here are several more public DNS servers:
@@ -197,6 +224,9 @@ thumbnail: https://www.lifewire.com/thmb/VLSSitM1OGw2pQaft2pwqeXWXxo=/540x405/fi
 
  Some of these providers have several DNS servers. Visit the link above and select a server that's geographically nearby for the optimal performance, or one that has the features you're interested in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are DNS Servers?
 
  DNS servers translate the friendly domain name you enter into a browser (like_lifewire.com_ ) into the[public IP address](https://www.lifewire.com/what-is-a-public-ip-address-2625974) that's needed for your device to actually communicate with that site.

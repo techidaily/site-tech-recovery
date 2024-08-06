@@ -1,7 +1,7 @@
 ---
 title: "Adapting to the Elements: The Stability of Electric Cars in Extreme Weather Conditions"
-date: 2024-08-03 13:16:12
-updated: 2024-08-06 11:23:35
+date: 2024-08-05T02:34:28.674Z
+updated: 2024-08-06T02:34:28.674Z
 categories:
   - BestProducts
 description: "This Article Describes Adapting to the Elements: The Stability of Electric Cars in Extreme Weather Conditions"
@@ -22,8 +22,14 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
  Electric vehicle range in extreme cold and heat may not be as dire as you expect though and, for the record, gas-powered vehicles aren’t immune from temperature extremes either. Still, it's advantageous to understand how heat and cold impact EVs.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Temperature Generally Affects Electric Car Batteries 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![An overhead view of an EV's lithium ion battery.](https://www.lifewire.com/thmb/PCIEIMaVKLmsy8FYcB1gH5PmQks=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/LithiumionbatteryofanEV_Westend61_Getty-de12313f778243f1ae701060be61c5a3.jpg) 
 
 Westend61/Getty
@@ -63,6 +69,9 @@ Westend61/Getty
 
  However, gasoline-powered vehicles still experience troubles in extreme weather situations, too, including reduced fuel economy in cold temperatures due to other factors. According to the U.S. Department of Energy,[ gas-powered vehicle fuel economy drops by about 15 percent](https://www.fueleconomy.gov/feg/coldweather.shtml) when the temperature dips to 20 degrees Fahrenheit compared to fuel economy in balmier conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%271500%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) 
 
  PHOTO:
@@ -73,6 +82,9 @@ Bailey Mariner
 
  According to the U.S. Department of Energy,[ a gas-powered car can have its range decreased by over 25 percent](https://www.fueleconomy.gov/feg/hotweather.shtml) when running the A/C in extremely hot weather. In comparison, the average EV can be expected to reach about 80 percent of its rated range in conditions where the ambient temperature is 104 degrees. In that particular situation, an EV is likely to beat a gas-powered vehicle in terms of retaining more of its range.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Heat Pumps vs. Resistive Heaters in EVs 
 
  Both resistive heaters and heat pumps can be used in EVs. The benefit of using a heat pump in an EV instead of a resistive heater is that heat pumps are simply more energy efficient. 
@@ -85,10 +97,16 @@ Bailey Mariner
 
  Heat pumps are typically capable of operating in EVs in temperatures down to about 25 to 30 degrees Fahrenheit, although efficiency does drop off the colder it gets. In even colder temperatures, it becomes more efficient to switch over to a resistive heater.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  9 Ways to Manage Range in Extreme Weather Conditions 
 
  While it’s true that EV range can be reduced by both extremely hot and cold weather, there are a number of things you can do to improve the range of an EV in extreme weather conditions: 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A thermometer showing Celsius and Fahrenheit temps against a blue sky with light clouds.](https://www.lifewire.com/thmb/tDbSwvUy-6HtJbQj-IVHx1Jsd1U=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Thermometor_celsiusandF_Kameleon007_Getty-765dddd365544edfbcfd93b31bcf4342.jpg) 
 
 Kameleon007/Getty

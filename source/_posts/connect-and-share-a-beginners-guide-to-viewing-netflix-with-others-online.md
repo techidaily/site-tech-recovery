@@ -1,7 +1,7 @@
 ---
 title: "Connect & Share: A Beginner's Guide to Viewing Netflix with Others Online"
-date: 2024-08-03 15:43:22
-updated: 2024-08-06 12:36:35
+date: 2024-08-05T02:35:12.908Z
+updated: 2024-08-06T02:35:12.908Z
 categories:
   - BestProducts
 description: "This Article Describes Connect & Share: A Beginner's Guide to Viewing Netflix with Others Online"
@@ -35,19 +35,31 @@ Close
 
 1. After downloading and installing Rave, open the app on your device.
 2. Log into Rave by selecting either your Facebook, X (formerly Twitter), or Google account.  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rave Netflix screen share app login screen.](https://www.lifewire.com/thmb/jtWdtEbMRyQ1jnL4A2sAAg1IkGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-screen-share-on-netflix-01-abfa3037a9a346c6bf8eac8ff34d1ded.jpg)  
  iPhones and iPads will also offer an[ Apple ID login](https://www.lifewire.com/what-is-an-apple-id-1994330) option.
 3. Once logged in, select**Netflix** from the right menu.  
 ![Rave Netflix screen share app with Netflix highlighted](https://www.lifewire.com/thmb/Dninba0Ut-ZdC8zbZ-IDHM0FRXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netflix-0fad30201382405798cb460d3645964d.jpg)  
  Rave also supports screen sharing with[ Disney+](https://www.lifewire.com/how-to-stream-on-disney-4687015) , History Channel, YouTube,[ Amazon Prime Video](https://www.lifewire.com/amazon-prime-video-4176363) , and[ Google Drive](https://www.lifewire.com/google-drive-4165788) .
 4. Sign into Netflix with your Netflix account information.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![Netflix login screen highlighted in Rave screen share app](https://www.lifewire.com/thmb/foVRpwIMrbrvktybHr0U-4kfpDQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SignIn-9691890fa38e4444a85d140b3b58b51a.jpg)  
  You will need an active Netflix subscription to watch Netflix content in Rave.
 5. The regular Netflix app screen will load in the middle of Rave. Start watching a film or episode as you usually would when using Netflix.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rave Netflix screen share app.](https://www.lifewire.com/thmb/179PYKpDpSd9E-O6Z2GnW1-J7n8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-screen-share-on-netflix-04-1c4fc76a502d4a3ab18f6a77c2e3a8d4.jpg)
 6. A Netflix screen share session will automatically be created with the media playing on the left and a chatroom on the right.  
  Select the**Invite link** to copy it to your device’s clipboard.  
  One some devices this may appear as just**Link** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rave Netflix screen share app with Star Trek playing and a chat on the right side and Invite Link highlighted](https://www.lifewire.com/thmb/6-NQH0DQh-kECToA9uhrcxbO3m8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Invitelink-62b58683127d41a18d1068825a1e9481.jpg)
 7. Paste the link into an email or text message and send it to the participants.  
 ![Rave Netflix screen share app with a web link copied to the clipboard.](https://www.lifewire.com/thmb/VIj7l-8LpdsDP0Igi2amnVVZ4m4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-screen-share-on-netflix-07-f485cd60168245af965b136be499d74c.jpg)  
@@ -61,12 +73,18 @@ Close
    * **Nearby** : This option limits access to those who are geographically near you.  
    * **Friends** : Limits the Netflix screen share to those who you are friends with on the social network you logged into Rave with.  
    * **Private** : Completely private screen share session that’s only joinable by clicking on the invite link.  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Rave Netflix screen share app with privacy options highlighted.](https://www.lifewire.com/thmb/JCASWPEa8JfJBPHWotLYCOrJERk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Privacyoptions-cbe97ba3540643fbbb07f1f0cd535fc0.jpg)
 11. To customize the screen share session’s settings, participant permissions, and media playback options, select the**Settings** gear icon from the top menu.  
  The**Play** icon can be used to add other Netflix content to the queue while the**Vote** checkmark icon allows for participants to vote on what to watch next.  
  To leave your Netflix screen share session, select the**Leave** icon in the top-left corner.  
 ![Rave app menu options Settings, Play, and Checkmark highlighted](https://www.lifewire.com/thmb/y8Yevg0t1BGm7EMnFtD-_-8cQKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SettingsPlayCheck-a3ce0727b1184999bd7302ecd11cb5d8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Other Ways to Watch Netflix With Friends at the Same Time 
 
  There are several alternative methods for doing a Netflix screen share you may want to try if you’re having issues with Rave.

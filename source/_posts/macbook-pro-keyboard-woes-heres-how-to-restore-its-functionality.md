@@ -1,7 +1,7 @@
 ---
 title: MacBook Pro Keyboard Woes? Here's How to Restore Its Functionality
-date: 2024-08-04 16:36:39
-updated: 2024-08-05 12:50:11
+date: 2024-08-05T02:34:48.775Z
+updated: 2024-08-06T02:34:48.775Z
 categories:
   - BestProducts
 description: This Article Describes MacBook Pro Keyboard Woes? Here's How to Restore Its Functionality
@@ -14,10 +14,16 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
 
  If you can make outgoing calls, but your[phone isn't ringing when you get an incoming call](https://www.lifewire.com/missing-calls-because-android-isn-t-ringing-4586326) , that's a separate issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reasons Why Android Stops Making (or Receiving) Calls
 
  The causes are usually pretty simple. You might be in a dead zone, airplane mode could be turned on, your bill might not be paid up, malware could be wreaking havoc on your phone, or a software issue could be at play. Because there are so many things that could be happening, just step through the listed solutions below to see which one fixes your particular issue.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What to Do When Phone Calls Don't Work
 
  Try these troubleshooting steps in order. Even if you don't find out precisely what's wrong, these tactics can resolve an array of Android smartphone problems.

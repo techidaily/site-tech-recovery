@@ -1,7 +1,7 @@
 ---
 title: The Next Generation of VR Gaming Awaits with PSVR2 – Discover News, Pricing Info, Release Schedule & Hardware Specs
-date: 2024-08-04 10:59:45
-updated: 2024-08-05 10:26:12
+date: 2024-08-05T02:34:29.007Z
+updated: 2024-08-06T02:34:29.007Z
 categories:
   - BestProducts
 description: This Article Describes The Next Generation of VR Gaming Awaits with PSVR2 – Discover News, Pricing Info, Release Schedule & Hardware Specs
@@ -19,12 +19,18 @@ Close
 
 Sony Interactive Entertainment
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PSVR 2 Release Date 
 
  The PSVR 2 launched on February 22, 2023.
 
  You can[ order PlayStation VR2](https://direct.playstation.com/en-us/consoles/console/playstationvr2.1000033579) through PlayStation’s website.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## PSVR 2 Price 
 
  The PlayStation VR2 starts at $549.99\. This includes the headset, PSVR 2 Sense controller, stereo headphones, and USB cable.
@@ -49,6 +55,9 @@ Sony Interactive Entertainment
 * Cinematic Mode to let the PSVR 2 display whatever is running on the PS5 via a 1920x1080 HDR virtual screen with 120Hz refresh rate. The other mode is VR Mode, which is a 360-degree view via a 4000x2040 HDR virtual environment with 90Hz/120Hz refresh rate
 * Set up your space and view your surroundings while wearing the headset via the See-Through View feature. This is possible through the headset's function key, or Quick Settings
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## PSVR 2 Specs and Hardware 
 
  These are the official specs from Sony:
@@ -69,6 +78,9 @@ Sony Interactive Entertainment
 
  Attaching the headset, and sizing it appropriately for you, is really easy through a knob on the back. The PSVR 2 headset supports IPD (interpupillary distance) adjustment so you can fine-tune it to your face specifically. But what makes this really helpful is you don't need to know your IPD to get the headset set up.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Sony PS VR2 headset and controllers](https://www.lifewire.com/thmb/YQOZPsDJRvkR6H16-bJbeNPwiEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-psvr2-headset-controllers-260b6a7a01394b4eb22225694cfa4632.jpg) 
 
 Sony
@@ -96,6 +108,9 @@ Sony
 | **Communication:**                     | Bluetooth 5.1                                                                                                                                                                                                                                |
 | **Battery:**                           | Built-in Lithium-ion rechargeable battery​                                                                                                                                                                                                   |
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Confirmed PSVR 2 Games 
 
 [ Over 40 titles launched the same day as the PSVR 2 release](https://blog.playstation.com/2023/02/21/10-new-ps-vr2-titles-revealed-launch-window-lineup-now-over-40-games/) , with others arriving shortly after or at some time in the future. There are currently[ over 100 games in development](https://www.lifewire.com/psvr-2-games-list-7509088) .
@@ -124,6 +139,10 @@ Sony
 
  It's worth noting here that[ there's no backwards compatibility for PSVR games](https://www.playstation.com/en-us/support/hardware/ps-vr2-compatibility/) , so you can't play original PSVR games on the PSVR 2\. The[ PlayStation Store website lists PSVR 2 games](https://store.playstation.com/en-us/category/c0fce398-e580-4d7d-b952-c6594517a8b6/1) that you can filter by price, genre, and more. Sony says games that work with the PSVR 2 have prominent branding elements to indicate compatibility.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  The Latest News About the PSVR 2 
 
  You can [ get more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) on all kinds of topics; here are more stories and some of the early rumors about Sony's PSVR 2.

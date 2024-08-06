@@ -1,7 +1,7 @@
 ---
 title: "Logitech Bluetooth Mouse Compatibility: Syncing with Different Receiver Units Made Simple"
-date: 2024-08-04 10:52:10
-updated: 2024-08-05 12:16:28
+date: 2024-08-05T02:34:46.361Z
+updated: 2024-08-06T02:34:46.361Z
 categories:
   - BestProducts
 description: "This Article Describes Logitech Bluetooth Mouse Compatibility: Syncing with Different Receiver Units Made Simple"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  What to Know
 
 * A wireless Logitech mouse compatible with the Logitech Unifying Receiver can connect to any Unifying Receiver.
@@ -23,6 +26,9 @@ Close
 
 [ How to Pair a Logitech Mouse ](https://www.lifewire.com/pair-with-logitech-mouse-5184314) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ##  How to Sync a Logitech Wireless Mouse With a Different Receiver 
 
  You can use any wireless Logitech mouse that supports the Unifying Receiver with any Unifying Receiver. A single Unifying Receiver can connect up to six wireless Logitech devices, including mice and keyboards.
@@ -36,11 +42,17 @@ Close
 4. A welcome screen will appear. Tap**Next** .
 5. The installer will prompt you to connect a Logitech Unifying Receiver to your computer. Connect it to an open USB port. Tap**Next** .
 6. The next screen instructs you to turn your wireless mouse off and then back on. Do so and click**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of the Logitech Unifying Software being used to connect a wireless mouse](https://www.lifewire.com/thmb/-pZ6n2Q0MvJi2E_90OUwDIjs1Jk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/logitechunifyingsoftware1-36416bde76a141388754fe7aa9b94afe.jpg)  
     
  The Logitech Unifying Receiver may not detect your wireless Logitech mouse during this step if it's currently connected to your computer over Bluetooth. Disconnect it from Bluetooth to resolve this problem.
 7. Your mouse should now be connected. The final screen will ask you to confirm your mouse pointer is working. Select the**Yes** radio button and then click**Exit** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Do I Unpair My Logitech Mouse From My Receiver? 
 
  You can use the Logitech Unifying software to unpair devices, as well. Here's how to do it.
@@ -48,6 +60,9 @@ Close
 1. Launch the Logitech Unifying software.
 2. Click**Advanced** .
 3. A screen will appear with a list of currently connected Unifying devices. Click the device you want to unpair and then tap**Un-pair** .  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Logitech's Unifying Software with Unpair highlighted.](https://www.lifewire.com/thmb/Mdhyz7CZ1bIwt87UVSp84je9IGI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-sync-a-logitech-wireless-mouse-with-a-different-receiver-5184806-1027fa4f9ea04086bc2fec93628c4ea7.jpg)
 
 [ How to Pair a Logitech Keyboard ](https://www.lifewire.com/pair-logitech-keyboard-5176339) 
