@@ -1,0 +1,193 @@
+---
+title: The Ultimate Breakdown of Windows 10'S Battery Diagnostic Feature and Its Benefits
+date: 2024-08-12T04:03:01.589Z
+updated: 2024-08-13T04:03:01.589Z
+categories:
+  - BestProducts
+description: This Article Describes The Ultimate Breakdown of Windows 10'S Battery Diagnostic Feature and Its Benefits
+excerpt: This Article Describes The Ultimate Breakdown of Windows 10'S Battery Diagnostic Feature and Its Benefits
+thumbnail: https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/panos-sakalakis-35NiG1dYjtM-unsplash-04ea0b8a952a4f028ff0c0f0dfd0ade8.jpg
+---
+
+## The Ultimate Breakdown of Windows 10'S Battery Diagnostic Feature and Its Benefits
+### What to Know
+
+* To generate a report, press**Win** +**X** and select**Windows PowerShell (Admin)** \>**Yes** .
+* Enter **powercfg /batteryreport /output "C:\\battery-report.html"** into PowerShell and press**Enter** .
+* Open the exported file from the C drive to view the battery report.
+
+ This article explains how to generate a Windows 10 battery report. The report includes information about the general health of the battery, usage history, battery life estimates, and other statistics.  
+
+## How to Generate a Battery Report in Windows 10
+
+ The battery on your laptop or tablet is one of its most critical pieces of[hardware](https://www.lifewire.com/computer-hardware-2625895) . Over time, a battery's life span shortens, and its ability to hold a charge decreases. If you suspect your battery's performance is fading, follow these steps to create a battery report:  
+
+1. Press**Win** +**X** , then select**Windows PowerShell (Admin)** . Select**Yes** when the User Account Control box appears.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![powershell](https://www.lifewire.com/thmb/jZNRO0ZChIXAj44Hj-Qk_Gv3c2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-windows-10-battery-report-what-it-is-and-how-to-use-it-eb97a723495643429ee5af383ef33e35.jpg)
+2. Enter this command into PowerShell, then press**Enter** :  
+ `powercfg /batteryreport /output "C:\battery-report.html"`  
+ Feel free to change the path (in quotes) to wherever you want to save the report. In our example, it will be exported to the[C drive](https://www.lifewire.com/what-is-a-c-drive-5222296) .
+3. After you run the battery report command, you'll see a message indicating where the file was saved. Take note of the location.  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![battery life location](https://www.lifewire.com/thmb/eA3ZUvDsKSVHVe95zCIVzRKJvu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-windows-10-battery-report-what-it-is-and-how-to-use-it-fe885b3ec48e4d81bb081e819a2a972b.jpg)
+4. Use Windows Explorer to find the file, then double-click or double-tap it to open the report in your web browser. In our example, since the battery report was saved in the[root](https://www.lifewire.com/what-is-a-root-folder-or-root-directory-2625989) of the C drive, we can type this into the browser's URL bar to open the report:  
+ `file:///C:/battery-report.html`
+
+[How to Get Your Windows 11 Battery Report](https://www.lifewire.com/generate-windows-11-battery-report-5209527)
+
+## How to Read the Battery Report in Windows 10
+
+ With the battery report generated and open, let's walk through each section to learn more about the battery's performance and estimated life expectancy.
+
+ The first section, directly under**Battery report** , lists some primary system information such as your computer's name, BIOS version, OS build, and the date the report was created.
+
+ The second section, below**Installed batteries** , lists key information about your laptop or tablet batteries, such as name, manufacturer, serial number, chemistry, and design capacity.
+
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![A screenshot of the first two sections of a Windows 10 battery report.](https://www.lifewire.com/thmb/cdMl7F4TRFo-BwaNKuCqdGgWKko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-6-5c74f03546e0fb0001a9825a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Recent Usage
+
+ This section overviews when your device was running on battery or connected to AC power. Recent usage covers power states for three days and includes start time, state (active/suspended), source (battery/AC), and remaining capacity.
+
+![A screenshot displaying recent usage on a Windows 10 battery report.](https://www.lifewire.com/thmb/gPFUNNrcOy5j_YDxwEdimde27d8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-7-5c74fa37c9e77c0001e98d2b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Battery Usage
+
+ This area lists any battery drains over the last three days. If your system ran for extended periods on battery alone, this section would break it down by start time or duration, as well as by energy drained.
+
+[How to Make a Laptop Battery Last Longer](https://www.lifewire.com/make-laptop-battery-last-longer-5189983)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![A screenshot showing battery usage in a Windows 10 battery report.](https://www.lifewire.com/thmb/CcY183o8jUDRbhUehMCZBEedeo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-8-5c750187c9e77c000136a5f0.jpg)
+
+### Usage History
+
+ Here, you'll see a complete history (including duration) of each time your device was running on battery or AC power. Reviewing your usage history is a great way to see how often and for how long you run your device on battery power.
+
+![A screenshot showing battery and AC power usage in a Windows 10 battery report.](https://www.lifewire.com/thmb/mZEneBChOagqSVGktFCzwFEe-3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-9-5c758254c9e77c0001e98d44.jpg)
+
+### Battery Capacity History
+
+ In this section of the report, you see the full charge capacity compared to your battery's design capacity for each period. Watching your full charge capacity is another helpful way to monitor the overall health and performance of your battery over time.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![A screenshot of the battery capacity history section of a Windows 10 battery report.](https://www.lifewire.com/thmb/6KUTn767xRch_BQSEj3JHzuI2fg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-10-5c75a643c9e77c00012f80ea.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+### Battery Life Estimates
+
+ The final section of the report displays battery life estimates at full charge, compared to the designed capacity. This gives you a clear outlook of how well your battery's life is holding up over time. At the very bottom of the report is an estimated battery lifetime value based on observed drains since the last OS installation.
+
+![A screenshot showing battery life estimates on a Windows 10 laptop.](https://www.lifewire.com/thmb/GpXKBVh8c6oG-fA3KQUHuCXgksc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-11-5c76609b46e0fb0001a5ef6e.jpg)
+
+[How Long Does a Laptop Battery Last?](https://www.lifewire.com/how-long-does-a-laptop-battery-last-5186206)
+
+ FAQ
+
+* Where does Windows save my battery report to?  
+ Your battery report will be saved to a folder on your PC, which you'll see in the PowerShell window when you attempt to save a new report. You can also manually change the destination folder when running the command, to make the HTML file easier to find.
+* What does "charge cycle" or "cycle count" mean in my Windows battery report?  
+ Cycle counts and charge cycles refer to the number of times your battery used up 100 percent (cumulative) of its charge. This applies to both draining the battery to 0 percent and recharging it, as well as incremental drains. For example, using 30 percent of the battery, recharging to 100 percent, then using 70 percent counts as one cycle.
+* How do I recalibrate a new battery in Windows?  
+ Once you've installed a new battery, charge it to 100 percent, let it run down to zero, and then recharge it back to 100 percent. This will allow Windows to better keep track of the new battery's capacity (and other stats).
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-easy-to-understand-copywriting-tactics-for-fb-campaigns-for-2024/"><u>[New] Easy-to-Understand Copywriting Tactics for FB Campaigns for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-easy-to-use-free-instagram-to-mp4-converters-for-all-oss-for-2024/"><u>[New] Easy-to-Use Free Instagram to MP4 Converters for All OSs for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-stardew-valuable-addons-best-to-worst-ranking-list-7/"><u>[New] Stardew Valuable Addons - Best to Worst Ranking List (#7)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-cartoon-creativity-transforming-selfies-into-stories/"><u>[New] Unlock Cartoon Creativity  Transforming Selfies Into Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-of-swelling-youtube-supporters/"><u>[New] Unlocking the Secrets of Swelling YouTube Supporters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/twitter-marketing-basics-promoting-tweets-creating-polls-and-using-media-effectively/"><u>[Twitter Marketing Basics: Promoting Tweets, Creating Polls, & Using Media Effectively]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-elevating-live-game-coverage-tips-and-tricks/"><u>[Updated] In 2024, Elevating Live Game Coverage  Tips and Tricks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-render-your-social-media-footage/"><u>[Updated] Render Your Social Media Footage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simplified-techniques-for-console-recordings/"><u>[Updated] Simplified Techniques for Console Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-pioneering-editing-snapseed-for-the-newcomer/"><u>2024 Approved  Pioneering Editing  Snapseed for the Newcomer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-to-reconfigure-your-facebook-sign-in-credentials-the-password-update-process/"><u>A Step-by-Step Guide to Reconfigure Your Facebook Sign In Credentials – The Password Update Process</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-precise-online-image-cropping/"><u>Advanced Techniques for Precise Online Image Cropping</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chronological-order-to-binge-taylor-swift-movies/"><u>Chronological Order to Binge Taylor Swift Movies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-walkthrough-installing-windows-11-onto-a-brand-new-ssdhdd/"><u>Complete Walkthrough: Installing Windows 11 Onto a Brand New SSD/HDD</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-hp-chromebook-11-ideal-device-for-academics-professionals-and-leisure-activities/"><u>Comprehensive Evaluation of the HP Chromebook 11: Ideal Device for Academics, Professionals & Leisure Activities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-quality-content-image-submission-for-youtubers-for-2024/"><u>Crafting Quality Content  Image Submission for YouTubers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-confirmation-signs-that-indicate-receipt-of-your-sms/"><u>Deciphering Confirmation: Signs That Indicate Receipt of Your SMS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-resolving-the-haldll-file-absence-on-windows-xp-computers/"><u>Diagnosing and Resolving the Hal.dll File Absence on Windows XP Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tricks-to-enhance-communication-with-emojis-on-the-ios-device/"><u>Easy Tricks to Enhance Communication with Emojis on the iOS Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/endless-black-screen-restore-win10/"><u>Endless Black Screen, Restore Win10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-most-recent-upgrade-to-the-ipad-lineup/"><u>Exploring the Most Recent Upgrade to the iPad Lineup</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/get-facebook-links-fetched-top-8-free-tools-for-23/"><u>Get Facebook Links Fetched  Top 8 Free Tools for '23</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-safely-charge-your-electric-vehicle-ev-from-the-comfort-of-your-own-home/"><u>How to Safely Charge Your Electric Vehicle (EV) From the Comfort of Your Own Home</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-15-pro-max-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/imessage-for-android-heres-how-you-can-achieve-it/"><u>IMessage for Android? Here's How You Can Achieve It!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-achieve-visual-harmony-optimal-sizing-for-instagram-videos/"><u>In 2024, Achieve Visual Harmony  Optimal Sizing for Instagram Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-work-with-microsoft-word-at-no-charge-heres-what-you-need-to-know/"><u>Is It Possible to Work with Microsoft Word at No Charge? Here's What You Need to Know!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-my-discord-lagging-because-of-a-global-glitch-or-is-it-just-me/"><u>Is My Discord Lagging Because of a Global Glitch, or Is It Just Me?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-steam-server-down-or-are-there-other-factors-affecting-your-online-gaming-experience/"><u>Is Steam Server Down, Or Are There Other Factors Affecting Your Online Gaming Experience?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-the-secrets-of-maintaining-continuous-mac-operation-and-avoiding-unwanted-sleep/"><u>Learn the Secrets of Maintaining Continuous Mac Operation and Avoiding Unwanted Sleep</u></a></li>
+<li><a href="https://facebook.techidaily.com/mending-broken-connection-with-friendster-facebook/"><u>Mending Broken Connection with Friendster (Facebook)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/non-excludability-means-its-not-possible-to-prevent-non-payers-from-using-a-public-good/"><u>Non-Excludability Means It's Not Possible to Prevent Non-Payers From Using a Public Good.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-forcibly-deleting-resistant-files-in-windows-11-with-revo-uninstaller/"><u>Step-by-Step Guide: Forcibly Deleting Resistant Files in Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-setting-up-and-displaying-your-nintendo-switch-on-hdtv/"><u>Step-by-Step Tutorial: Setting Up and Displaying Your Nintendo Switch on HDTV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-tasks-on-ios-the-best-18-shortcut-applications/"><u>Streamline Tasks on iOS: The Best 18 Shortcut Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-basics-of-internet-integration-with-your-television/"><u>The Basics of Internet Integration with Your Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-budget-home-theater-starter-kits/"><u>The Best Budget Home Theater Starter Kits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-breakdown-of-ussd-unstructured-supplementary-service-data-and-how-it-works/"><u>The Complete Breakdown of USSD (Unstructured Supplementary Service Data) and How It Works</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-collection-of-the-11-most-uplifting-movies-for-a-positive-mindset/"><u>The Definitive Collection of the 11 Most Uplifting Movies for a Positive Mindset</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-quick-fixers-guide-essential-methods-for-color-enhancement/"><u>The Quick Fixer's Guide  Essential Methods for Color Enhancement</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-disposing-of-unwanted-mac-apps-safely/"><u>The Ultimate Tutorial: Disposing of Unwanted Mac Apps Safely</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-best-free-software-uninstallers-you-should-try/"><u>Top 15 Best Free Software Uninstallers You Should Try</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-32-complimentary-data-safety-solutions-a-thorough-compilation-and-assessment/"><u>Top 32 Complimentary Data Safety Solutions: A Thorough Compilation & Assessment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-metas-revolutionary-approach-to-artifice-intellect/"><u>Understanding Meta's Revolutionary Approach to Artifice Intellect</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-mechanics-of-electric-bikes-a-comprehensive-guide/"><u>Understanding the Mechanics of Electric Bikes: A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/windows-10s-prime-video-grabbing-solutions-ranked-for-2024/"><u>Windows 10'S Prime Video Grabbing Solutions Ranked for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wise-choices-avoiding-flawed-chatgpt-addons/"><u>Wise Choices: Avoiding Flawed ChatGPT Addons</u></a></li>
+</ul></div>

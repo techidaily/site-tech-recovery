@@ -1,0 +1,575 @@
+---
+title: "Expert Picks: Leading Free Hard Disk Scanning Programs Available in July 2024"
+date: 2024-08-12T04:11:14.883Z
+updated: 2024-08-13T04:11:14.883Z
+categories:
+  - BestProducts
+description: "This Article Describes Expert Picks: Leading Free Hard Disk Scanning Programs Available in July 2024"
+excerpt: "This Article Describes Expert Picks: Leading Free Hard Disk Scanning Programs Available in July 2024"
+thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24ff85257e3a0b7e2c37dbd29.jpg
+---
+
+## Expert Picks: Leading Free Hard Disk Scanning Programs Available in July 2024
+ There are several free programs available to help you test your hard drive and identify any issues. Here are my top recommendations that I've been suggesting to people for years.
+
+ Most apps have similar features, but some only work on specific hard drives. No matter which software you use, you may need to[replace your hard drive](https://www.lifewire.com/how-to-replace-a-hard-drive-2626200) if it fails some part of one of these tests.  
+
+ Your Windows PC includes tools like Windows Error Checking and the[chkdsk command](https://www.lifewire.com/chkdsk-command-2625838) . Still, others, like those below, are available from hard drive manufacturers and other developers.
+
+01
+
+of 13
+
+## [Seagate SeaTools](https://www.lifewire.com/seagate-seatools-review-2626150)
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Seagate SeaTools for DOS](https://www.lifewire.com/thmb/YBPOWdrY1nesx5SrxmM30mv6ZtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/seatools-for-dos-56a6f9785f9b58b7d0e5c98f.png)
+
+ What We Like
+
+* Works from both inside and outside of Windows
+* Completely free
+* SeaTools for DOS works on any operating system
+* Windows tool lets you test a hard drive from any manufacturer
+
+ What We Don't Like
+
+* SeaTools for DOS can be hard to use and install
+* DOS version can deal with only 100 errors before restarting
+* DOS edition might not work well with RAID controllers
+
+[My Review of Seagate SeaTools](https://www.lifewire.com/seagate-seatools-review-2626150)
+
+ Seagate SeaTools is free hard drive testing software that comes in two forms for home users:
+
+* **SeaTools Bootable** and**SeaTools for DOS** support Seagate or Maxtor drives and run independently of your operating system on their own[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) drive or CD, respectively.
+* **SeaTools for Windows** installs on your Windows system. Use it to perform basic and advanced testing of any kind of drive—internal or external—from any manufacturer.
+
+ Seagate's programs are excellent. They are used to test hard drives by professional computer services but are easy enough for anyone to use.
+
+ The Windows version should work with Windows 11, 10, 8, 7, Vista, and XP. There's also a Linux version.
+
+[Download SeaTools](https://www.seagate.com/support/downloads/seatools/#downloads)
+
+ For those looking for SeaTools Desktop, SeaTools Online, or Maxtor's PowerMax software, please note that the tools above have replaced all three. Seagate now owns the Maxtor brand.
+
+02
+
+of 13
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+## [HDDScan](https://www.lifewire.com/hddscan-review-2624562)
+
+![HDDScan v4.0 in Windows 8](https://www.lifewire.com/thmb/G9fOWcvomg4Ly8WDhxdfhVlAuZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hddscan-5a5d1babc7822d003762cc05.PNG)
+
+ What We Like
+
+* Works with all hard drives
+* No installation need (portable)
+* Easy to use
+* Includes a SMART test
+* Runs on all modern versions of Windows
+
+ What We Don't Like
+
+* Runs on Windows only
+* No built-in help docs or tips for using it
+* Can't install the program to your computer (it runs as a portable program automatically)
+
+[My Review of HDDScan](https://www.lifewire.com/hddscan-review-2624562)
+
+ HDDScan is a free hard drive testing program for all types of drives, no matter the manufacturer. It includes a[SMART](https://en.wikipedia.org/wiki/S.M.A.R.T.) test and a surface test.
+
+ Some reasons I chose this app are because it's easy to use, is completely portable, supports almost all drive interfaces, and seems to be regularly updated.
+
+ The official system requirements state that you need to be running at least Windows XP, so it should work with Windows 11, 10, 8, 7, and Vista, including Windows Server 2003.
+
+[Download HDDScan](https://hddscan.com/)
+
+03
+
+of 13
+
+## [GSmartControl](https://gsmartcontrol.shaduri.dev/downloads)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+![GSmartControl](https://www.lifewire.com/thmb/UKaoGbo116erZmND5glv5joFCz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gsmartcontrol-self-tests-ae111cd9e6d5442abb42a6a398336b5a.png)
+
+ What We Like
+
+* Choose from three different tests
+* Works on Windows, Linux, and macOS
+* Lets you view the drive's SMART attributes
+* A portable version is available
+
+ What We Don't Like
+
+* Doesn't support every USB and RAID device
+* When exporting information, it includes_everything_ , not just a specific result you want to save
+
+ GSmartControl can run various hard drive tests with detailed results and give an overall health assessment of a drive.
+
+ View and save SMART attribute values like the power cycle count, multi-zone error rate, calibration retry count, and many others.
+
+ GSmartControl runs three self-tests to find drive faults:**Short Self-test** takes around 2 minutes to complete and is used to detect a completely damaged hard drive,**Extended Self-test** takes 70 minutes to finish and examines the entire surface of a hard drive to find faults, and**Conveyance Self-test** is a 5-minute test that's supposed to find damages that occurred during the transporting of a drive.
+
+ This program can be downloaded for Windows as a portable program or as a regular program with a normal installer. The latest version works with Windows 11, 10, 8, 7, and Vista, but there's an outdated edition you can get for older Windows versions. It's also available for Linux and Mac operating systems, as well as included in a couple of LiveCD/LiveUSB programs.
+
+[Download GSmartControl](https://gsmartcontrol.shaduri.dev/downloads)
+
+04
+
+of 13
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+## [Samsung HUTIL](https://www.lifewire.com/samsung-hutil-review-2624563)
+
+![Samsung HUTIL](https://www.lifewire.com/thmb/daKccDvOMbQbwXVpKrSzLgmLJeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-hutil-597b726f054ad900112f0ac8.PNG)
+
+ What We Like
+
+* Tests hard drives regardless of the OS that's installed
+* Not too difficult to use
+* Lets you erase data from the drive, too
+
+ What We Don't Like
+
+* Tests Samsung HDDs only
+* Isn't as easy to install as a desktop-based program
+* Must have access to a working computer to set up the program
+* Text interface (no buttons you can click)
+* Hasn't been updated in many years
+
+[My Review of Samsung HUTIL](https://www.lifewire.com/samsung-hutil-review-2624563)
+
+ Samsung HUTIL is a free hard drive diagnostic utility for Samsung hard drives. HUTIL is sometimes called ES-Tool.
+
+ This tool is available as an[ISO](https://www.lifewire.com/iso-file-2625923) image for burning to a CD or USB drive. This feature makes HUTIL operating system independent and a better testing tool, in general, than those designed for use within Windows. It's also possible to run HUTIL from a[bootable](https://www.lifewire.com/what-does-booting-mean-2625799) floppy disk.
+
+ Because this is a bootable program, you'll need a working hard drive and OS to burn it to a disc or USB device.
+
+[Download Samsung HUTIL](https://files.hddguru.com/index.php?directory=Software/Samsung/HUTIL)
+
+ HUTIL will_only_ test Samsung hard drives. It will load and find your non-Samsung drive but you will not be able to run any diagnostics on the drive.
+
+05
+
+of 13
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## [Western Digital Dashboard](https://www.lifewire.com/western-digital-data-lifeguard-diagnostic-review-2624564)
+
+![Western Digital Dashboard for Windows](https://www.lifewire.com/thmb/geVKkFS06GJ352fudkElkYy1SHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/western-digital-dashboard-smart-530268e85d9348758f5a4a7ebf377375.png)
+
+ Western Digital Dashboard for Windows.
+
+ What We Like
+
+* Runs from within Windows
+* Really easy to use
+* Also shows basic information about the drives
+
+ What We Don't Like
+
+* Scans Western Digital hard drives only
+
+[My Review of Western Digital Dashboard](https://www.lifewire.com/western-digital-data-lifeguard-diagnostic-review-2624564)
+
+ Western Digital Dashboard is free hard drive testing software for Windows that lets you run several hard drive tests.
+
+ It supports viewing Self-Monitoring, Analysis, and Reporting Technology (SMART) information. There's a Short Test option that performs a relatively fast self-scan, and an Extended Test that checks the whole hard drive for bad sectors.
+
+ This tool can also be used to wipe a hard drive using the Write Zero[data sanitization method](https://www.lifewire.com/data-sanitization-methods-2626133) .
+
+[Download Western Digital Dashboard](https://support-en.wd.com/app/answers/detailweb/a%5Fid/31759/~/install-western-digital-dashboard-for-drive-performance-monitoring)
+
+06
+
+of 13
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## [DiskCheckup](https://www.passmark.com/products/diskcheckup/)
+
+![DiskCheckup](https://www.lifewire.com/thmb/ZO5VjyjKbt4fCSAhC3OPuZylRgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/diskcheckup-b60487a714624e09bbf9f914ac60afc5.png)
+
+ What We Like
+
+* Keeps track of SMART attributes to predict hard drive failure
+* Can be configured to email you when certain events take place
+* Well-organized and easy-to-use interface
+* Small download size
+
+ What We Don't Like
+
+* Doesn't scan SCSI or hardware RAIDs
+* Free for home/personal use only, not commercial/business
+
+ DiskCheckup should work with most hard drives. SMART info like reading error rate, spin-up time, seek error rate, and temperature is displayed, as well as short and extended disk tests.
+
+ Details in the SMART section can be configured to send an email or display a notification when their attributes exceed the manufacturer's recommended threshold.
+
+ DiskCheckup should work fine with Windows 11, 10, 8, 7, Vista, and XP, plus Windows Server 2008 and 2003.
+
+[Download DiskCheckup](https://www.passmark.com/products/diskcheckup/)
+
+07
+
+of 13
+
+## [Windows Drive Fitness Test (WinDFT)](https://www.lifewire.com/windows-drive-fitness-test-review-2624565)
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+![Windows Drive Fitness Test](https://www.lifewire.com/thmb/7DXoGzuHBpg3M36mUukxGUaAM8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hitachi-drive-fitness-test-56a6f9785f9b58b7d0e5c988.png)
+
+ What We Like
+
+* Very easy to use
+* There are two HDD testing functions
+* An option lets you perform a deep test for better results
+* Lets you test more than one drive consecutively
+* SMART attributes can be viewed
+* Also lets you erase a hard drive
+
+ What We Don't Like
+
+* Can't scan the primary hard drive where Windows is installed
+* No tutorials, instructions, or tips are included in the program
+* Unable to change where the LOG file is saved
+* Works on Windows operating systems only
+* No longer receives updates
+
+[My Review of Windows Drive Fitness Test](https://www.lifewire.com/windows-drive-fitness-test-review-2624565)
+
+ Windows Drive Fitness Test is free hard drive diagnostic software available for use on most drives available today.
+
+ The download link below installs the Windows Drive Fitness Test software to the Windows OS, but you can't use the program to_scan_ the drive that has Windows installed. Only USB and other internal hard drives can be scanned.
+
+ You can install WinDFT to your PC if you're running Windows 11, 10, 8, 7, Vista, or XP.
+
+[Download Windows Drive Fitness Test](https://www.softpedia.com/get/System/Hard-Disk-Utils/IBM-Hitachi-Drive-Fitness-Test.shtml)
+
+08
+
+of 13
+
+## [HD Tune](https://www.lifewire.com/hd-tune-review-2624561)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![HD Tune v2.55 in Windows 7](https://www.lifewire.com/thmb/GoA30jlKhIaGaDxVtHQSQlYZ1oQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hd-tune-597b7387519de2001160441a.PNG)
+
+ What We Like
+
+* Tests several types of storage devices
+* Includes helpful tests
+* Information can be saved to a screenshot and copied to the clipboard
+* The program isn't confusing to use
+
+ What We Don't Like
+
+* Can't export results to a text file
+* Officially works on up to Windows 7 only
+* Only home/personal use is allowed
+* No update since 2008
+
+[My Review of HD Tune](https://www.lifewire.com/hd-tune-review-2624561)
+
+ HD Tune is a Windows-based hard driver tester that works with any internal or [external hard drive](https://www.lifewire.com/what-is-an-external-drive-2625867) , SSD, or memory card.
+
+ You can run a[benchmark](https://www.lifewire.com/what-is-a-benchmark-2625811) read test with HD Tune, check the health status with Self-Monitoring Analysis and Reporting Technology, and run an error scan.
+
+ Only Windows 7, Vista, XP, and 2000 are said to be the only supported operating systems, but I used HD Tune in Windows 10 and Windows 8 without any issues.
+
+[Download HD Tune](https://www.hdtune.com/download.html)
+
+09
+
+of 13
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+## [Microsoft Windows Built-In Error Checking](https://www.lifewire.com/how-to-scan-a-hard-drive-using-error-checking-2624497)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
+![Error Checking (chkdsk) tool in Windows 10](https://www.lifewire.com/thmb/OPp7yw7ShS22etsq6-HePfN1Fs0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/error-checking-chkdsk-597b7475054ad900112f34ca.PNG)
+
+ What We Like
+
+* No download necessary
+* Also tries to fix any hard drive errors
+
+ What We Don't Like
+
+* Runs on Windows only
+* Lacks features found in other free hard drive testing software
+
+[How to Scan Your Hard Drive Using Built-In Error Checking in Windows](https://www.lifewire.com/how-to-scan-a-hard-drive-using-error-checking-2624497)
+
+ Error Checking, sometimes referred to as _scandisk_ , is a hard drive testing tool that comes with Microsoft Windows that can scan your hard drive in search of a wide range of errors and correct many of them.
+
+ It's built into all modern versions of Windows.
+
+10
+
+of 13
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## [Fujitsu Diagnostic Tool](https://www.lifewire.com/fujitsu-diagnostic-tool-review-2624559)
+
+![Fujitsu Diagnostic Tool](https://www.lifewire.com/thmb/D0BRa3NdpMEijwP751qdsS5_EQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fujitsu-diagnostic-tool-597b72e4519de20011603607.PNG)
+
+ What We Like
+
+* One of the easiest hard drive testing apps to use
+* Provides two hard drive testing functions
+* Runs from within Windows, but there's also a floppy version if you don't have Windows
+
+ What We Don't Like
+
+* Tests Fujitsu hard drives only
+* The bootable program runs from a floppy disk only (not a disc or flash drive)
+* The floppy program isn't as easy to install and use as the Windows version
+* The desktop program runs on Windows only
+
+[My Review of Fujitsu Diagnostic Tool](https://www.lifewire.com/fujitsu-diagnostic-tool-review-2624559)
+
+ Fujitsu Diagnostic Tool is a free hard drive testing tool designed for Fujitsu hard drives. It's available in both a Windows version and an OS-independent, bootable DOS version. However, the bootable version is designed for floppy disks—an image that works with a CD or USB drive is not available.
+
+ Two tests are available: A "Quick Test" (about three minutes) and a "Comprehensive Test" (time will vary based on hard drive size).
+
+ The Windows version is said to work with Windows 8, 7, Vista, and XP. It might also run just fine in Windows 11 and Windows 10.
+
+**Download For** :
+
+[Windows](https://www.majorgeeks.com/files/details/fujitsu%5Fwindows%5Fdiagnostic%5Ftool.html)
+
+[DOS](https://www.majorgeeks.com/files/details/fujitsu%5Fdiagnostic%5F%28ide%29.html)
+
+ Fujitsu Diagnostic Tool will perform hard drive tests on Fujitsu drives_only_ . If you have any other make of hard drive, try one of the manufacturer independent tests listed toward the beginning of this list.
+
+11
+
+of 13
+
+## [Free EASIS Drive Check](https://download.cnet.com/easis-drive-check/3000-2094%5F4-75450447.html)
+
+![Free EASIS Drive Check](https://www.lifewire.com/thmb/s7ylu3pyfnVlFlHgTGxApqpFVFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-easis-drive-check-597b73ca68e1a200116ed51f.PNG)
+
+ What We Like
+
+* Scan results can be emailed to you automatically
+* Runs a surface scan to check for errors
+* Shows SMART attributes
+* Checks errors on both internal and external hard drives
+* Scan results show useful information
+
+ What We Don't Like
+
+* Hasn't been updated in a long time (the last official supported OS is Windows 7)
+* Works on Windows computers only
+* Doesn't include as many features as most other hard drive testers
+
+[My Review of Free EASIS Drive Check](https://www.lifewire.com/free-easis-drive-check-review-2624558)
+
+ Free EASIS Drive Check is a hard drive tester that incorporates two main testing utilities—a [sector](https://www.lifewire.com/what-is-a-sector-2626003) test and a SMART value reader.
+
+ The SMART test lists more than 40 values about a hard drive, while the sector test checks the surface of the media for reading errors.
+
+ The report of either test can be read straight from the program when complete, configured to be sent to you by email, or printed off.
+
+ Free EASIS Drive Check is said to work with Windows 2000 through Windows 7, but I successfully tested it in Windows 10 and 8 as well.
+
+[Download Free EASIS Drive Check](https://download.cnet.com/easis-drive-check/3000-2094%5F4-75450447.html)
+
+12
+
+of 13
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+## [Macrorit Disk Scanner](https://macrorit.com/disk-surface-test/disk-surface-test.html)
+
+![Macrorit Disk Scanner v4.3.5](https://www.lifewire.com/thmb/4NZ2Ldzm4_18CUqtloLgpvSNjGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macrorit-disk-scanner-172ca84941a343da82fa67a3832cbe51.png)
+
+ What We Like
+
+* Great visuals that are easy to understand
+* Doesn't have to be installed
+* Works on several Windows operating systems
+
+ What We Don't Like
+
+* Excludes features found only in the paid versions
+* Free only for personal/home use
+* Scans just one drive at a time
+* Includes external links you might accidentally click
+* Infrequent updates
+
+ Macrorit Disk Scanner is a simple program that checks for bad sectors on a hard drive. It's easy to use, and you can start using it in no time since it's fully portable and doesn't need to be installed.
+
+ The majority of this screen is used as a visual representation of the progress of the scan and clearly indicates if there's damage.
+
+ It runs on Windows 11, 10, 8, 7, Vista, and XP. Windows Server support is available for paying customers.
+
+[Download Macrorit Disk Scanner](https://macrorit.com/disk-surface-test/disk-surface-test.html)
+
+13
+
+of 13
+
+## [Ariolic Disk Scanner](https://download.cnet.com/ariolic-disk-scanner/3000-2086%5F4-10812955.html)
+
+![Ariolic Disk Scanner v1.7](https://www.lifewire.com/thmb/W44C0xU0m1UyjXiLWHvtvfD-3js=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ariolic-disk-scanner-1-7-5b6b021d46e0fb00508966e0.png)
+
+ What We Like
+
+* Checks any hard drive for bad sectors
+* Shows which files are affected by errors
+* Portable (no installation necessary)
+* Very clean interface that's not distracting or confusing to use
+
+ What We Don't Like
+
+* Doesn't support HFS (only NTFS and FAT file systems)
+* Displays an ad after each scan
+
+ Ariolic Disk Scanner is similar to Macrorit Disk Scanner in that it's just a read-only scan of a drive to check for bad sectors. It has a minimal interface with only one button and is easy to understand if any parts of the drive contain bad sectors.
+
+ One thing that's different from Macrorit Disk Scanner is that Ariolic Disk Scanner lists the files where read errors occurred.
+
+ I tested Ariolic Disk Scanner in Windows 11, 10, and XP, but it should also work with other versions of Windows. The program is portable and just over 1 MB in size.
+
+[Download Ariolic Disk Scanner](https://download.cnet.com/ariolic-disk-scanner/3000-2086%5F4-10812955.html)
+
+[Best Commercial Hard Drive Repair Software](https://www.lifewire.com/commercial-hard-drive-repair-software-2626184)
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-a-memorable-and-unique-moniker-for-your-filmora-content/"><u>[New] 2024 Approved  Creating a Memorable and Unique Moniker for Your Filmora Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-securing-your-youtube-footage-a-quick-walkthrough/"><u>[New] 2024 Approved  Securing Your YouTube Footage  A Quick Walkthrough</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-5-online-titler-pros-unveiled/"><u>[New] 2024 Approved  Top 5 Online Titler Pros Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-comprehensive-look-at-editing-and-uploading-virtual-reality-videos-to-youtube-for-2024/"><u>[New] A Comprehensive Look at Editing and Uploading Virtual Reality Videos to YouTube for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inshot-pro-advanced-features-showcase/"><u>[New] InShot Pro Advanced Features Showcase</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-singe-sounds-to-complement-ppt-slides/"><u>[New] Singe Sounds to Complement PPT Slides</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-simple-techniques-for-effortless-undersea-vids/"><u>[New] Unveiling Simple Techniques for Effortless Undersea Vids</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-boosting-user-interaction-mastering-hashtag-use-on-instagram/"><u>[Updated] Boosting User Interaction  Mastering Hashtag Use on Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-dominate-social-media-sales-5-strategic-moves-for-instagram-experts-for-2024/"><u>[Updated] Dominate Social Media Sales  5 Strategic Moves for Instagram Experts for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-explore-30-anime-concepts-dominating-tiktok-feed-for-2024/"><u>[Updated] Explore 30 Anime Concepts Dominating TikTok Feed for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-harmony-haven-gather-download-and-dissect-audio/"><u>[Updated] Harmony Haven  Gather, Download & Dissect Audio</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-decoding-the-mechanics-a-deep-dive-into-webcam-tech/"><u>[Updated] In 2024, Decoding the Mechanics  A Deep Dive Into Webcam Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-your-captions-the-top-10-precision-subtitle-editors/"><u>[Updated] Master Your Captions  The Top 10 Precision Subtitle Editors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-optimizing-podcasts-on-googles-platform-for-2024/"><u>[Updated] Optimizing Podcasts on Google's Platform for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-standard-youtube-vs-creative-commons-liberty-clauses/"><u>[Updated] Standard YouTube Vs. Creative Commons Liberty Clauses</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-strategies-for-high-roi-engagement-through-fb-animatons-for-2024/"><u>[Updated] Strategies for High-ROI Engagement Through FB Animatons for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x50iplus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/adjusting-local-area-connection-visibility-enabledisable-guide-for-windows-10-users/"><u>Adjusting Local Area Connection Visibility - Enable/Disable Guide for Windows 10 Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/adjusting-youtubes-viewership-limits-for-content/"><u>Adjusting YouTube's Viewership Limits for Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-the-new-samsung-galaxy-watch-n-find-out-when-it-hits-shelves-and-what-to-expect/"><u>All About the New Samsung Galaxy Watch N - Find Out When It Hits Shelves and What to Expect!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-6-mc-survival-home-blueprints-for-2024/"><u>Best 6 MC Survival Home Blueprints for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-recovering-or-locating-missing-launchdll-files-on-your-pc/"><u>Comprehensive Guide: Recovering or Locating Missing Launch.dll Files on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-troubleshooting-for-propsysdll-not-found-errors/"><u>Comprehensive Troubleshooting for 'PropSys.dll' Not Found Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-the-dots-how-to-sync-ps-vr-headset-with-windows-or-macos/"><u>Connecting the Dots: How to Sync PS VR Headset with Windows or macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/contacting-the-snapchat-help-desk-a-comprehensive-guide/"><u>Contacting the Snapchat Help Desk: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722889877910-decode-the-hype-insights-on-pricing-and-release-date-for-samsung-galaxy-z-fold-7-with-a-glimpse-at-its-cutting-edge-specs/"><u>Decode the Hype: Insights on Pricing and Release Date for Samsung Galaxy Z Fold 7 with a Glimpse at Its Cutting-Edge Specs!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-future-of-wireless-earbuds-googles-pixel-buds-pro-rumored-launch-dates-prices-and-tech-breakdown/"><u>Decoding the Future of Wireless Earbuds - Google's Pixel Buds Pro ² Rumored Launch Dates, Prices, and Tech Breakdown!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-zoom-lag-and-solutions-for-optimal-performance/"><u>Diagnosing Zoom Lag and Solutions for Optimal Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-these-13-amazing-free-pdf-editor-applications-july-2024/"><u>Discover These 13 Amazing Free PDF Editor Applications (July 2024)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-unresponsive-shutdowns-in-windows-11/"><u>Easy Fixes for Unresponsive Shutdowns in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-establish-canon-printer-link/"><u>Effortlessly Establish Canon Printer Link</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-windows-11s-stalled-search-feature-with-these-proven-techniques/"><u>Fix Windows 11'S Stalled Search Feature with These Proven Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-elusive-haldll-problem-techniques-for-windows-xp-vista-7-8-and-10/"><u>Fixing the Elusive hal.dll Problem: Techniques for Windows XP, Vista, 7, 8 & 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-the-latest-buzz-and-forecasts-for-apples-next-showcase/"><u>Get Ahead of the Curve: The Latest Buzz and Forecasts for Apple's Next Showcase</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-130-music-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Nokia 130 Music using Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-retrieve-your-hidden-wi-fi-passwords-using-windows-11-tools/"><u>How to Retrieve Your Hidden Wi-Fi Passwords Using Windows 11 Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-view-and-clear-the-windows-10-activity-history/"><u>How to View and Clear the Windows 10 Activity History</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-honor-x9b-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Honor X9b Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone X?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlock-advanced-capturing-a-guide-to-aiseesoft-screen-recorder-use/"><u>In 2024, Unlock Advanced Capturing  A Guide to Aiseesoft Screen Recorder Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-info-on-meta-quest-light-projections-for-price-point-release-timeline-and-tech-specs/"><u>Insider Info on Meta Quest ^ Light: Projections for Price Point, Release Timeline, and Tech Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-15-pro-max-versus-samsung-galaxy-s24-ultra-unveiling-the-major-variances/"><u>IPhone 15 Pro Max Versus Samsung Galaxy S24 Ultra: Unveiling the Major Variances</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-the-whole-world-unable-to-connect-to-discord-or-is-this-an-isolated-signal-problem-for-you/"><u>Is the Whole World Unable to Connect to Discord, or Is This an Isolated Signal Problem for You?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-on-the-samsung-galaxy-watch-7-release-timeline-price-points-and-technical-specs-explored/"><u>Latest on the Samsung Galaxy Watch 7: Release Timeline, Price Points, and Technical Specs Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lenovo-pc-mastery-a-step-by-step-walkthrough-for-full-system-restoration/"><u>Lenovo PC Mastery: A Step-by-Step Walkthrough for Full System Restoration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/line-of-sight-while-2e-may-not-require-a-direct-line-of-sight-between-the-emitter-and-receiver-in-all-cases-due-to-its-ultrasonic-nature-obstacles-could-pot5/"><u>Line of Sight: While 2E May Not Require a Direct Line of Sight Between the Emitter and Receiver in All Cases Due to Its Ultrasonic Nature, Obstacles Could Potentially Interf</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-a-new-tongue-best-9-free-language-resources/"><u>Master a New Tongue: Best 9 Free Language Resources</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-plumbers-in-pixels-top-6-super-mario-games-for-your-pc-odyssey/"><u>Mastering Plumbers in Pixels: Top 6 Super Mario Games for Your PC Odyssey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-time-management-with-slack-reminders-a-comprehensive-tutorial/"><u>Mastering Time Management with Slack Reminders – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-watch-teen-movie-collection-on-netflix/"><u>Must-Watch Teen Movie Collection on Netflix</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-image-clarity-issues-in-ubisofts-new-island/"><u>Resolving Image Clarity Issues in Ubisoft's New Island</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stay-updated-with-zoom-on-your-computer-comprehensive-guide-for-both-windows-and-mac-users/"><u>Stay Updated with Zoom on Your Computer: Comprehensive Guide for Both Windows and Mac Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-into-stardom-with-these-10-essential-channel-banner-makers-for-2024/"><u>Step Into Stardom with These 10 Essential Channel Banner Makers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-creating-your-first-duet-video-on-tiktok/"><u>Step-by-Step Guide: Creating Your First Duet Video on TikTok</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/studying-smarter-not-harder-leveraging-chatgpt-wisely/"><u>Studying Smarter, Not Harder: Leveraging ChatGPT Wisely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-micromobility-digest-significant-occasions-news-clippings-hushed-rumors-uncovered/"><u>The Complete Micromobility Digest: Significant Occasions, News Clippings, Hushed Rumors Uncovered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-placing-source-codes-within-microsoft-word-documents/"><u>The Ultimate Tutorial on Placing Source Codes Within Microsoft Word Documents</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-s23plus-by-fonelab-android-recover-music/"><u>The way to get back lost music from S23+</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-cost-free-internet-fax-providers/"><u>Top 7 Cost-Free Internet Fax Providers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-film-recommendations-for-immediate-online-viewing-inspired-by-lifewire/"><u>Top Film Recommendations for Immediate Online Viewing - Inspired by Lifewire</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-airpod-connection-issues-on-a-lenovo-pc-or-dell-computer/"><u>Troubleshooting AirPod Connection Issues on a Lenovo PC or Dell Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-collection-the-507-most-creative-instagram-post-texts-2024-edition/"><u>Ultimate Collection: The 507 Most Creative Instagram Post Texts, 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-to-fix-stop-code-0x0000007b-and-end-those-bsod-issues/"><u>Ultimate Troubleshooting Tips to Fix STOP Code 0X0000007B and End Those BSOD Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-live-video-broadcasting-secrets-of-the-upcoming-2024-olympics/"><u>Unlock Live Video Broadcasting Secrets of the Upcoming 2024 Olympics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-mystery-techniques-for-finding-who-has-shared-my-content-on-facebook/"><u>Unlocking the Mystery: Techniques for Finding Who Has Shared My Content on Facebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/where-to-find-quality-mobile-devices-at-unbeatable-prices/"><u>Where to Find Quality Mobile Devices at Unbeatable Prices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-is-my-playstation-4-controller-showing-a-spectrum-of-blue-white-red-or-orange-lights/"><u>Why Is My PlayStation 4 Controller Showing a Spectrum of Blue, White, Red, or Orange Lights?</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-pixelated-annoyances-a-fix-all-guide-to-windows-10-flickering-issues/"><u>Winning the Battle Against Pixelated Annoyances: A Fix-All Guide to Windows 10 Flickering Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-july-guide-to-the-best-free-movie-selections-on-youtube/"><u>Your July Guide to the Best Free Movie Selections on YouTube</u></a></li>
+</ul></div>

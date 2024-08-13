@@ -1,0 +1,140 @@
+---
+title: "Mac Multi-Screen Mastery: A Step-by-Step Guide to Configuring Dual Displays"
+date: 2024-08-12T04:15:49.416Z
+updated: 2024-08-13T04:15:49.416Z
+categories:
+  - BestProducts
+description: "This Article Describes Mac Multi-Screen Mastery: A Step-by-Step Guide to Configuring Dual Displays"
+excerpt: "This Article Describes Mac Multi-Screen Mastery: A Step-by-Step Guide to Configuring Dual Displays"
+thumbnail: https://thmb.techidaily.com/12f126cae006dddf10c1360de286a92e906c5d739c81b28f20530205245977db.jpg
+---
+
+## Step-by-Step Guide to Reversing Videos on Snapchat - Learn How Today
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### What to Know
+
+* First, record a new video snap in the Snapchat app. Be sure to keep it under 10 seconds.
+* Next,**swipe left** on your video snap preview about 8 times until you see three reverse arrows (<<<) applied over it.
+* You can only apply the reverse video filter to video snaps_recorded through the app_ , not uploaded from your device.
+
+ You can apply various effects to both photo and video snaps on[Snapchat](https://www.lifewire.com/snapchat-trends-3485994) , including one that plays your video snap in reverse. Follow these instructions to learn how to reverse video snaps before sending them off to friends or posting them to your stories.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Reverse a Video Snap
+
+ Reversing a video snap is as easy as[applying a filter](https://www.lifewire.com/apply-snapchat-filters-4157939) to it. You can do this in both the iOS and Android versions of the Snapchat app using the same steps.
+
+1. Record a new video snap in the app by tapping and holding the**record** button. Your video must be less than 10 seconds for the reverse filter to be available.  
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Note  
+
+ You can apply the reverse filter effect only to videos that you've recorded on Snapchat. You won't be able to reverse video snaps from videos you[uploaded to Snapchat from your device](https://www.lifewire.com/upload-saved-photos-or-videos-to-snapchat-4103878) .
+2. **Swipe left** on your video snap preview to browse through the filters until you see three reverse arrows (<<<) appear over your video. It applies to the reverse video filter, which will automatically play your video in reverse as a preview. Any sound in the video will also play in reverse.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+![Steps to take to reverse a video on Snapchat with the record button and Reverse Filter icon highlighted](https://www.lifewire.com/thmb/fC-N-GZHtzhS6HfpjU3plsvT7c4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123Reversesnapchat-21fd401ccb4347e3ab99f6189284d3a6.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Tip  
+
+ The reverse video filter is about the eighth filter when swiping to the left. You can find the reverse filter by swiping right through filters, but that will take you longer to get to it. Some filters let you speed up your video snap (**rabbit** filter) or slow it down (**snail** filter).
+3. Optionally, add more effects (text, stickers, drawings, etc.) to your video snap. Tap**Send To** to send it to friends and/or post it to your stories.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## When to Apply the Reverse Filter on Video Snaps
+
+ Reversing your video snaps is a fun way to showcase a series of events backward. This filter is often best applied to action-packed videos.
+
+ For example, consider something as simple as dropping a rock onto a frozen pond that breaks through the ice. Instead of watching the ice shatter at the end of the video, you could apply the reverse filter to show the fractured ice coming back together as the video footage plays backward.
+
+ FAQ
+
+* How do I save a Snapchat video?  
+ To[save a Snapchat video](https://www.lifewire.com/how-to-save-snapchat-videos-3485995) , record your video, then tap the**Download** icon (the down arrow). To save a video in the Stories tab, select the**three-dot menu** , then tap a video and select the**down arrow** . To save other users' videos, you need a screen recorder.
+* How do I add music to my Snapchat video?  
+ To[add music to a Snapchat video](https://www.lifewire.com/add-music-to-your-snaps-5086045) , tap the**Camera** icon, then tap the**Music Notes** to search for songs. Tap**Play** next to the track you want, tap**Next** , select a song snippet, then record your Snap video. Tap**\+ Create Sound** in Featured Sounds to record your own audio.
+* How long can a snapchat video be?  
+ Snapchat videos can be up to 60 seconds in length. When you[upload videos to Snapchat](https://www.lifewire.com/upload-saved-photos-or-videos-to-snapchat-4103878) , they are broken into 10-second clips.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-ways-to-add-music-to-imovie-from-youtube/"><u>[New] 2024 Approved  Easy Ways to Add Music to iMovie From YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>[New] 2024 Approved  How to Create Impactful Valorant Thumbnails  A Compreayer's Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-discover-the-best-instagram-video-editors-for-mobile-devices-for-2024/"><u>[New] Discover the Best Instagram Video Editors for Mobile Devices for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ownload-free-mcb-skin-designs/"><u>[New] Download Free MCB Skin Designs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile/"><u>[New] In 2024, Building Your Ultimate YouTube Music List  Step-by-Step Guide (Web/Mobile)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expand-your-knowledge-elite-15-sci-yt-channels-list/"><u>[Updated] In 2024, Expand Your Knowledge  Elite 15 Sci-YT Channels List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-metaverse-memetic-wisdom-for-a-laughter-filled-time/"><u>2024 Approved  Metaverse Memetic Wisdom for a Laughter-Filled Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>2024 Approved  The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-find-n3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo Find N3 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-16-preview-discover-its-projected-price-point-release-dates-device-support-and-exciting-features-ahead/"><u>Android 16 Preview - Discover Its Projected Price Point, Release Dates, Device Support, and Exciting Features Ahead</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoid-macbook-sleep-mode-strategies-to-maintain-active-state-with-closed-lid/"><u>Avoid MacBook Sleep Mode: Strategies to Maintain Active State with Closed Lid</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bringing-gpt-into-your-terminal-how-to-run-chatgpt-on-ubuntu-using-shellscripts/"><u>Bringing GPT Into Your Terminal: How to Run ChatGPT on Ubuntu Using ShellScripts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/freshflicks-app-overview-and-score/"><u>FreshFlicks App Overview & Score</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-your-samsung-tv-apps-running-smoothly-again-a-guide/"><u>Get Your Samsung TV Apps Running Smoothly Again - A Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/guide-shutting-down-igtv-for-2024/"><u>Guide  Shutting Down IGTV for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-definition-showdown-projection-systems-versus-tv-in-4k-world/"><u>High-Definition Showdown  Projection Systems versus TV in 4K World</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-quickly-resolve-the-wpcapdll-file-not-found-problem-on-your-computer/"><u>How To Quickly Resolve The 'WPCapDLL File Not Found' Problem On Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remove-default-apps-on-an-iphone-a-step-by-step-guide/"><u>How to Remove Default Apps on an iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-use-korean-to-english-video-translators-for-creators/"><u>How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-wipe-a-dell-laptop/"><u>How to Wipe a Dell Laptop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-ensuring-your-departure-a-step-by-step-guide-to-tiktok-account-removal/"><u>How To: Ensuring Your Departure - A Step-by-Step Guide to TikTok Account Removal</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-razr-40-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-handle-text-emphasis-on-windows-11/"><u>Learn to Handle Text Emphasis on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/live-stream-guide-how-to-tune-into-samsung-unpacked-events/"><u>Live Stream Guide: How to Tune Into Samsung Unpacked Events</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-steams-disk-writing-problem-a-step-by-step-guide/"><u>Resolving Steam's Disk Writing Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumors-confirmed-detailed-insights-on-the-sony-afeela-cars-release-schedule-estimated-costs-and-performance-features/"><u>Rumors Confirmed? Detailed Insights on the Sony Afeela Car's Release Schedule, Estimated Costs and Performance Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/score-exclusive-discounts-on-high-tech-items-for-amazon-prime-day-bonanza/"><u>Score Exclusive Discounts on High-Tech Items for Amazon Prime Day Bonanza</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamlessly-binding-individual-strands-into-a-unified-filament-coil/"><u>Seamlessly Binding Individual Strands Into a Unified Filament Coil</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-restoring-your-macs-network-configurations/"><u>Step-by-Step Guide: Restoring Your Mac's Network Configurations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-to-restore-functionality-of-fire-stick-controller/"><u>Step-by-Step Tutorial to Restore Functionality of Fire Stick Controller</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-repairing-your-apple-watch-pairing-problems-top-6-strategies/"><u>The Ultimate Guide to Repairing Your Apple Watch Pairing Problems – Top 6 Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-tips-choosing-the-right-fps-for-your-slow-motion-vids/"><u>Top Tips  Choosing the Right FPS for Your Slow Motion Vids</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-fixing-libgdk-win32-20-0dll-not-found-windows-issues/"><u>Troubleshooting and Fixing 'libgdk-win32-2.0-0.dll Not Found' Windows Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-solving-missing-ftd2xxdll-error-messages/"><u>Understanding and Solving Missing ftd2XX.dll Error Messages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/universal-access-a-step-by-step-guide-to-managing-icloud-images-anywhere/"><u>Universal Access: A Step-by-Step Guide to Managing iCloud Images Anywhere</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlimited-viewing-pleasure-watch-new-releases-and-classics-at-no-charge-on-crackle/"><u>Unlimited Viewing Pleasure: Watch New Releases and Classics at No Charge on Crackle</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-do-if-the-dark-setting-vanishes-on-your-facebook-app/"><u>What To Do If The Dark Setting Vanishes On Your Facebook App</u></a></li>
+</ul></div>
