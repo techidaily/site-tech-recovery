@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing WiFi Networks From Your PC's Memory in Windows 10"
-date: 2024-08-15 22:35:38
-updated: 2024-08-16 10:28:34
+date: 2024-08-19T12:54:43.061Z
+updated: 2024-08-20T12:54:43.061Z
 tags:
   - win11
   - win10
@@ -53,6 +53,9 @@ Once done, restart your game and check the performance.
 
 If you don’t see any changes, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Fix 2: Check for system updates
 
  Windows 11 is fairly new, and the devs are still working on some major bugs. If you want to get the latest system updates, you can get one step ahead of the schedule checking and check for updates manually.
@@ -60,12 +63,18 @@ If you don’t see any changes, simply continue to the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve installed all the system updates, restart your PC and check the gameplay.
 
 If the performance is still crappy, take a look at the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### Fix 3: Update all your drivers
 
  The latest computer drivers improve overall stability and performance. And this is especially true for gaming PCs, as they usually need the up-to-date GPU drivers to unleash the full potential on new titles. So if you don’t remember when was the last time you checked for driver updates, definitely do it now.
@@ -79,6 +88,9 @@ If the performance is still crappy, take a look at the next method.
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all the drivers, restart your PC and test the in-game performance.
@@ -98,10 +110,20 @@ If the performance is still crappy, take a look at the next method.
 2. Scroll down to check if**Virtualization-based security** is running. If it is, continue to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-vbs-1.jpg)
 3. On your keyboard, press the**Windows logo key** . Type core isolation and select**Core isolation** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs.jpg)
 4. Make sure**Memory integrity** is set to**Off** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs-2.jpg)
 5. Restart your computer and test the gameplay again.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
  If this trick doesn’t do the charm for you, check out the next method below.
 
@@ -115,6 +137,9 @@ If the performance is still crappy, take a look at the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-11-new-user.jpg)
 3. Once done, restart your PC and sign in as the new user. Then you can run your game directly from the installation folder. If there’re obvious improvements, you can continue to the next fix to run a full scan to find out what went wrong. If there aren’t, it could indicate a system issue, or it could mean that your hardware is not compatible with Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Scan and repair Windows
 
  Compared to its predecessor, Windows 11 does not have a good reputation according to the performance so far. And if you upgraded from Windows 10, chances are you may run into some system issues. To make sure there aren’t any critical issues, you can run a checkup with a system repair tool.
@@ -149,3 +174,60 @@ If the performance is still crappy, take a look at the next method.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-content-with-these-10-reaction-wonders/"><u>[New] 2024 Approved  Elevate Your Content with These 10 Reaction Wonders</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-basics-for-transforming-full-size-photos-into-efficient-thumbnails/"><u>[New] 2024 Approved  The Basics for Transforming Full-Size Photos Into Efficient Thumbnails</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-digital-universes-meta-to-omni/"><u>[New] Comparing Digital Universes  Meta to Omni</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-screen-saves-on-iphone-7/"><u>[New] In 2024, Mastering Screen Saves on iPhone 7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/twitter-marketing-basics-promoting-tweets-creating-polls-and-using-media-effectively/"><u>[Twitter Marketing Basics: Promoting Tweets, Creating Polls, & Using Media Effectively]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-seamless-snapchat-lens-creation/"><u>[Updated] 2024 Approved  The Ultimate Guide to Seamless Snapchat Lens Creation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-convenient-tutorial-snapchat-installation-macos-style/"><u>[Updated] In 2024, Convenient Tutorial  Snapchat Installation macOS-Style</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stealthy-sound-suppression-techniques-for-fade-out/"><u>[Updated] Stealthy Sound Suppression  Techniques for Fade-Out</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-complete-wm-maker-playbook-for-youtube-clips-perfection-for-2024/"><u>[Updated] The Complete WM Maker Playbook for YouTube Clips Perfection for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-synthesizer-zombified-appliances/"><u>2024 Approved  Humor Synthesizer  Zombified Appliances</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aiding-academic-success-discover-the-6-greatest-study-apps-for-kids-and-their-guardians/"><u>Aiding Academic Success: Discover the 6 Greatest Study Apps for Kids and Their Guardians</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-16-unveiled-price-scoop-release-date-and-features-stay-ahead-with-our-comprehensive-guide/"><u>Android 16 Unveiled: Price Scoop, Release Date & Features - Stay Ahead with Our Comprehensive Guide!</u></a></li>
+<li><a href="https://games-able.techidaily.com/banish-blue-screen-blues-repairing-the-launcher-hitch/"><u>Banish Blue Screen Blues: Repairing the Launcher Hitch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-perfect-iphone-for-your-gaming-needs-a-guide/"><u>Choosing the Perfect iPhone for Your Gaming Needs: A Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chronological-order-to-binge-taylor-swift-movies/"><u>Chronological Order to Binge Taylor Swift Movies</u></a></li>
+<li><a href="https://facebook.techidaily.com/contemplating-the-impact-of-ditching-your-networked-life/"><u>Contemplating the Impact of Ditching Your Networked Life</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722851645918-defend-your-computer-15-recommended-free-bootable-malware-defense-programs/"><u>Defend Your Computer: 15 Recommended Free Bootable Malware Defense Programs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-resolving-the-haldll-file-absence-on-windows-xp-computers/"><u>Diagnosing and Resolving the Hal.dll File Absence on Windows XP Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-m-audio-fast-track-drivers-compatible-with-windows-11-7-8-and-81/"><u>Download M-Audio Fast Track Drivers: Compatible with Windows 11, 7, 8 & 8.1</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tricks-to-enhance-communication-with-emojis-on-the-ios-device/"><u>Easy Tricks to Enhance Communication with Emojis on the iOS Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-open-and-work-with-pages-files-on-personal-computers/"><u>Easy Ways to Open and Work with Pages Files on Personal Computers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhancing-youtube-video-screens-without-barriers/"><u>Enhancing YouTube Video Screens  Without Barriers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722875811589-error-code-0x80004005-resolved-step-by-step-strategies-to-fix-it/"><u>Error Code 0X80004005 Resolved? Step-by-Step Strategies to Fix It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-factors-when-choosing-your-dream-gaming-computer/"><u>Essential Factors When Choosing Your Dream Gaming Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-most-recent-upgrade-to-the-ipad-lineup/"><u>Exploring the Most Recent Upgrade to the iPad Lineup</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-11-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 11 Pro 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-effortless-estimation-of-digital-gains/"><u>In 2024, Effortless Estimation of Digital Gains</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-v27-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo V27 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-my-discord-lagging-because-of-a-global-glitch-or-is-it-just-me/"><u>Is My Discord Lagging Because of a Global Glitch, or Is It Just Me?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-steam-server-down-or-are-there-other-factors-affecting-your-online-gaming-experience/"><u>Is Steam Server Down, Or Are There Other Factors Affecting Your Online Gaming Experience?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-the-secrets-of-maintaining-continuous-mac-operation-and-avoiding-unwanted-sleep/"><u>Learn the Secrets of Maintaining Continuous Mac Operation and Avoiding Unwanted Sleep</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722862889504-master-the-art-of-hard-resetting-across-different-ipad-models-here/"><u>Master the Art of Hard Resetting Across Different iPad Models Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-communication-what-to-do-when-you-get-a-private-number-call-back/"><u>Mastering the Art of Communication: What to Do When You Get a Private Number Call-Back</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-back-to-back-calls-strategies-for-dialing-unknown-callers/"><u>Navigating Back-to-Back Calls: Strategies for Dialing Unknown Callers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-tv-shopping-expert-advice-to-find-the-best-home-entertainment-system/"><u>Navigating TV Shopping: Expert Advice to Find the Best Home Entertainment System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/professional-tricks-to-fix-your-furry-friends-photo-eyes-flawlessly/"><u>Professional Tricks to Fix Your Furry Friend’s Photo Eyes Flawlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-when-vcompdll-is-missing-or-cant-be-found/"><u>Step-by-Step Fix for When Vcomp.dll Is Missing or Can't Be Found</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-watching-fandango-on-your-apple-device/"><u>Step-by-Step Tutorial for Watching Fandango on Your Apple Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-setting-up-and-displaying-your-nintendo-switch-on-hdtv/"><u>Step-by-Step Tutorial: Setting Up and Displaying Your Nintendo Switch on HDTV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-tasks-on-ios-the-best-18-shortcut-applications/"><u>Streamline Tasks on iOS: The Best 18 Shortcut Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-budget-home-theater-starter-kits/"><u>The Best Budget Home Theater Starter Kits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-breakdown-of-ussd-unstructured-supplementary-service-data-and-how-it-works/"><u>The Complete Breakdown of USSD (Unstructured Supplementary Service Data) and How It Works</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-perfect-way-to-blend-multiple-spotify-lists-into-one-harmonious-mix/"><u>The Perfect Way to Blend Multiple Spotify Lists Into One Harmonious Mix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-the-new-apple-tv-4k-3rd-edition-review/"><u>The Ultimate Guide to the New Apple TV 4K (3Rd Edition) Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-advancing-beyond-the-advrcntr2dll-missing-mishap-in-nero-program/"><u>Troubleshooting Guide: Advancing Beyond the Advrcntr2.dll Missing Mishap in Nero Program</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-combining-your-fortnite-profiles-seamlessly/"><u>Ultimate Guide: Combining Your Fortnite Profiles Seamlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-james-bond-marathon-watch-the-franchise-chronologically/"><u>Ultimate James Bond Marathon: Watch the Franchise Chronologically</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-trick-for-quickly-snapping-photos-of-your-hp-laptops-display/"><u>Ultimate Trick for Quickly Snapping Photos of Your HP Laptop's Display</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-mechanics-of-electric-bikes-a-comprehensive-guide/"><u>Understanding the Mechanics of Electric Bikes: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-to-increasing-your-twitter-fanbase-quickly-and-effectively/"><u>Unlock the Secrets to Increasing Your Twitter Fanbase Quickly and Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-full-potential-of-sonys-playstation-network-a-creation-guide/"><u>Unlocking the Full Potential of Sony’s PlayStation Network – A Creation Guide</u></a></li>
+</ul></div>

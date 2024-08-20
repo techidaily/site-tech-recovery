@@ -1,0 +1,158 @@
+---
+title: The Ultimate Tutorial on Leveraging Google's Gemini Features
+date: 2024-08-19T15:20:59.742Z
+updated: 2024-08-20T15:20:59.742Z
+categories:
+  - BestProducts
+description: This Article Describes The Ultimate Tutorial on Leveraging Google's Gemini Features
+excerpt: This Article Describes The Ultimate Tutorial on Leveraging Google's Gemini Features
+thumbnail: https://www.lifewire.com/thmb/xjv-4nkZzXRdFM9ihZdfIm-Txp4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CloseupofmanusingMacBookPro-5a213c44675042f18618e6917405a7ca.jpg
+---
+
+## Deactivate Critical Messaging Warnings on iPhones with This Simple Tutorial
+### What to Know
+
+* Amber alerts on iPhone can be turned off in**Settings** \>**Notifications** .
+* This is also how you disable emergency alerts, public safety alerts, and test alerts.
+* Do Not Disturb doesn't silence government alerts, and you can't change their tone.
+
+ This article explains how to disable Amber alerts on an iPhone. It also covers how to turn off similar government alerts, including emergency, public safety, and test alerts.
+
+## How to Disable Amber Alerts and Other iPhone Emergency Alerts
+
+ You're just a few taps away from shutting down these notifications, but be sure to keep reading to learn why we recommend keeping Amber alerts turned on.
+
+1. Tap the[Settings](https://www.lifewire.com/understanding-device-settings-4138532) app to open it, then tap**Notifications** .
+2. Scroll to the bottom of the screen to find the section labeled**Government Alerts** . Amber alerts and Public Safety Alerts are set to on/green by default; tap a toggle to switch that alert off.
+3. Tap**Emergency Alerts** for a few other options. From there, you can control emergency alerts without affecting the option you chose for Amber alerts in the last step. This is also how you stop emergency alerts from bypassing silent mode.  
+![The Settings, Notifications, and Emergency Alerts screens on an iPhone](https://www.lifewire.com/thmb/k4Pdtou2x8ooq0Bqd1UnlBWO_KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-amber-alerts-bc193ddbd3c24bd895b61242e22ca176.png)
+
+ Got an Apple Watch?[Check out how to avoid notification overload](https://www.lifewire.com/avoid-notification-overload-apple-watch-1999672) , including notifications from emergency alerts.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+## Can Do Not Disturb Silence Emergency and Amber Alerts on iPhone?
+
+ The[iPhone's Do Not Disturb feature](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) lets you silence notifications, but it does not work with Amber alerts and other emergency alerts. Because they signal an emergency that could affect your life and safety or someone else's, Do Not Disturb can't block these alerts.
+
+ There is no way to block or silence Amber alerts except by turning them off. As for emergency alerts, there is a toggle called**Always Play Sound** that you can turn off (see Step 3 above). Doing this prevents the sound from coming through your phone when you're in silent mode.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+## Can You Change Emergency and Amber Alert Tones on iPhone?
+
+ While you can[change the sound used for other alerts](https://www.lifewire.com/how-to-change-the-default-ringtone-on-your-iphone-2000554) , you can't customize emergency alert sounds. Yes, the noise for these alerts is unpleasant and may even be startling, but it's worth remembering that they're unpleasant because they're supposed to get your attention.
+
+[How to Turn Off SOS on an iPhone 15](https://www.lifewire.com/iphone-15-turn-off-sos-8629942)
+
+[How to Turn Off SOS on an iPhone 14](https://www.lifewire.com/iphone-14-turn-off-sos-8630001)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Why You Shouldn't Disable Amber and Emergency Alerts on iPhone
+
+ Even though these alerts can sometimes be surprising or unwelcome, you should leave them on—especially the emergency alerts. These messages arrive when there is dangerous weather or another severe health or safety event imminent in your area. If a tornado, flash flood, or other potential natural disaster is heading your way, you'll want to know so that you can take action.
+
+[Emergency](https://www.fcc.gov/consumers/guides/emergency-alert-system-eas) and[Amber alerts](https://amberalert.ojp.gov/) go out rarely and only in specific situations. Given that, the disruption they cause is minor compared to the benefits they offer.
+
+[The 6 Best Tornado Alert Apps of 2024](https://www.lifewire.com/best-tornado-alert-apps-4771792)
+
+ FAQ
+
+* What is a Blue Alert on iPhone?  
+ Blue Alerts are sent out when a local law enforcement officer is injured or missing. Like Amber Alerts, Blue Alerts are intended to help aid the community and law enforcement agencies.
+* How do I turn off voicemail and text message alerts on my iPhone?  
+ To turn off iPhone notifications, go to**Settings** \>**Notifications** \>**Show Previews** \>**Never** . To just disable voicemail and text message alerts, disable alerts for the Phone and Messages app.
+* How do I use satellite emergency SOS on my iPhone?  
+ To[use emergency SOS via satellite on your iPhone](https://www.lifewire.com/use-emergency-sos-on-iphone-6826117) , try to call emergency services normally. If your phone can’t connect, it will give you the satellite option. Tap**Emergency Text via Satellite** and follow the on-screen prompts to establish a satellite connection.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-effective-methods-to-document-facetime-calls/"><u>[New] Effective Methods to Document FaceTime Calls</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-analysis-top-10-sports-streaming-tools-for-soccer-enthusiasts/"><u>[New] Expert Analysis  Top 10 Sports Streaming Tools for Soccer Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-exploring-splitcams-recording-capabilities-and-excellence/"><u>[New] Exploring SplitCam's Recording Capabilities and Excellence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-10-spectacular-reactions-on-creative-youtube-videos/"><u>[Updated] 2024 Approved  Discover 10 Spectacular Reactions on Creative YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-tools-free-online-youtuber-starters-for-2024/"><u>[Updated] Essential Tools  Free Online Youtuber Starters for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-effortlessly-link-zoom-events-across-ios-android-and-desktops/"><u>[Updated] In 2024, Effortlessly Link Zoom Events Across iOS, Android, and Desktops</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-spectrum-screens-a-new-film-language-for-2024/"><u>[Updated] Spectrum Screens  A New Film Language for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-premium-subscription-should-you-get-one/"><u>[Updated] YouTube Premium Subscription - Should You Get One?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-apex-assemblies-best-laptop-trio-for-4k-visionaries/"><u>2024 Approved  Apex Assemblies  Best Laptop Trio for 4K Visionaries</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boost-engagement-with-free-intro-templates/"><u>2024 Approved  Boost Engagement with Free Intro Templates</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-upcoming-samsung-galaxy-z-flip-6-cost-and-exclusive-specs/"><u>All You Need to Know About the Upcoming Samsung Galaxy Z Flip 6: Cost and Exclusive Specs!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722861175751-anticipating-the-arrival-of-google-pixel-9-estimated-pricing-details-revealed/"><u>Anticipating the Arrival of Google Pixel 9 - Estimated Pricing Details Revealed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-backup-programs-of-the-year-a-curated-list-with-expert-reviews/"><u>Best Free Backup Programs of the Year: A Curated List with Expert Reviews</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/broadcast-without-delay-immediate-monitor-signal-restoration/"><u>Broadcast Without Delay: Immediate Monitor Signal Restoration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparison-guide-exploring-key-differences-between-hulu-and-hulu-plus/"><u>Comparison Guide: Exploring Key Differences Between Hulu and Hulu +</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-the-best-intervals-for-mobile-phone-upgrades/"><u>Determining the Best Intervals for Mobile Phone Upgrades</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discord-not-working-are-we-all-offline-or-is-the-problem-at-your-end/"><u>Discord Not Working – Are We All Offline, or Is the Problem at Your End?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-20-powerful-chatgpt-triggers-from-github-repositories/"><u>Discover the Ultimate List of 20 Powerful ChatGPT Triggers From GitHub Repositories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-pairing-how-to-link-your-airpods-with-an-hp-computer/"><u>Effortless Pairing: How to Link Your AirPods with an HP Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-identify-the-right-phone-shield-for-you/"><u>Expert Advice: How to Identify the Right Phone Shield for You</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-future-of-robotics-with-tesla-expected-features-cost-analysis-and-release-window/"><u>Exploring the Future of Robotics with Tesla - Expected Features, Cost Analysis & Release Window</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-beginner-to-pro-master-the-art-of-instant-movement-in-minecraft-via-the-teleport-method/"><u>From Beginner to Pro: Master the Art of Instant Movement in Minecraft via the Teleport Method</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-to-know-ios-18-complimentary-launch-enhanced-functionality-and-recent-developments/"><u>Get to Know iOS 18: Complimentary Launch, Enhanced Functionality, and Recent Developments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-your-windows-10-search-back-proven-strategies-for-resolution/"><u>Get Your Windows 10 Search Back: Proven Strategies for Resolution</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-the-pontiff-of-rome-stay-connected-does-he-utilize-email/"><u>How Does the Pontiff of Rome Stay Connected: Does He Utilize Email?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-add-music-to-instagram-posts/"><u>How to Add Music to Instagram Posts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-itel-s23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Itel S23 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-locate-and-repair-libcurldll-not-found-issues/"><u>How To Locate and Repair libcurl.dll Not Found Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-gopro-helmet-mounts-and-how-to-use-them/"><u>In 2024, Best GoPro Helmet Mounts and How to Use Them</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-note-50-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme Note 50 Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/innovations-await-delving-into-sonys-state-of-play-2024-what-gamers-need-to-know/"><u>Innovations Await: Delving Into Sony's State of Play 2024 - What Gamers Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-at-applen-home-innovator-estimated-cost-launch-schedule-specifications-and-latest-rumors/"><u>Inside Look at Apple'n Home Innovator: Estimated Cost, Launch Schedule, Specifications, and Latest Rumors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insta-viral-secrets-revealed-10-techniques-for-rapid-growth-and-popularity/"><u>Insta-Viral Secrets Revealed: 10 Techniques for Rapid Growth and Popularity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/line-app-assessment-a-closer-look-at-its-user-experience-and-capabilities/"><u>LINE App Assessment: A Closer Look at Its User Experience & Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-market-9-essential-tips-for-selecting-the-right-dash-camera/"><u>Navigating the Market: 9 Essential Tips for Selecting the Right Dash Camera</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-changing-your-facebook-account-password-securely/"><u>Step-by-Step Guide: Changing Your Facebook Account Password Securely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-troubleshooting-windows-code-39-problems/"><u>Step-by-Step Guide: Troubleshooting Windows Code 39 Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-playing-android-games-in-windows-11/"><u>Step-by-Step Tutorial for Playing Android Games in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-perfect-sequence-viewing-the-complete-indiana-jones-adventures/"><u>The Perfect Sequence: Viewing The Complete Indiana Jones Adventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-answer-can-you-link-airpods-with-your-nintendo-switch-for-audio-output/"><u>The Ultimate Answer: Can You Link AirPods with Your Nintendo Switch for Audio Output?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-leveraging-chatgpt-for-enhanced-professional-assistance/"><u>The Ultimate Guide to Leveraging ChatGPT for Enhanced Professional Assistance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-top-7-alarm-applications-to-improve-your-daily-wake-up-experience/"><u>The Ultimate List of Top 7 Alarm Applications to Improve Your Daily Wake-Up Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-slow-motion-video-editing-solutions/"><u>The Ultimate List Slow Motion Video Editing Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-must-try-book-reading-apps/"><u>Top 8 Must-Try Book Reading Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-priorities-selecting-the-perfect-gaming-desktop-or-laptop/"><u>Top Priorities: Selecting the Perfect Gaming Desktop or Laptop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-when-msvbvm50dll-is-mia-on-your-pc/"><u>Troubleshooting Tips for When msvbvm50.dll Is MIA on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-if-your-playback-really-offers-dolby-atmos-excellence/"><u>Uncover if Your Playback Really Offers Dolby Atmos Excellence.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-distinctions-between-neo-qled-and-oled-televisions/"><u>Understanding the Distinctions Between Neo QLED and OLED Televisions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-phones-features-how-to-navigate-snapchat-from-your-personal-computer/"><u>Unlocking Your Phone's Features: How to Navigate Snapchat From Your Personal Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-on-screen-keyboard-control-instructions-for-activationdeactivation/"><u>Windows 11 On-Screen Keyboard Control: Instructions for Activation/Deactivation</u></a></li>
+</ul></div>

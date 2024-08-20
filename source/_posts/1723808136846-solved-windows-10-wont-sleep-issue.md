@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Windows 10 Won't Sleep Issue"
-date: 2024-08-14 22:53:59
-updated: 2024-08-16 10:23:47
+date: 2024-08-19T12:52:19.812Z
+updated: 2024-08-20T12:52:19.812Z
 tags:
   - win11
   - win10
@@ -86,18 +86,36 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
  6) Then you will be seeing a page similar to the following one. You could choose**Startup Repair** since your computer refuse to load. (You can also do a[system restore](https://tools.techidaily.com/drivereasy/download/) if you have previously created a system restore point.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  7) Follow the on-screen instructions to continue with the system repair.
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Step 4: Perform a system restore
 
  When you have successfully booted into the Advanced repair option page, there is another thing that you can do: do a system restore, on the basis that you have turned this feature on previously. Here is how you do it:
@@ -106,6 +124,9 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
@@ -114,6 +135,9 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Step 5: Run disk check
 
  This method has been proved by a big number of users to be effective. So we think you may want to have a try:
@@ -130,10 +154,16 @@ chkdsk c: /r /x
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e3a862c3ed.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Wait for the scan process to finish.
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 6: Refresh or Rest your computer
 
 A **refresh**  on Windows 10 will help you reinstall Windows 10\. However, it will **remove**  the applications and drivers that you have installed and your personal settings will be changed back to default as well. It will also remove applications from your computer manufacturer but the apps you installed from the Windows store will remain.
@@ -158,6 +188,9 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c40902d4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
  For more information about resetting your computer from the options listed, please refer to this post here:
   
 [**How to reset Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
@@ -176,3 +209,36 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-freshly-taken-images-dissection-and-secondary-ideas/"><u>[New] 2024 Approved  Freshly Taken Images Dissection & Secondary Ideas</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-elevate-your-fb-video-marketing-with-novel-strategies/"><u>[New] Elevate Your FB Video Marketing with Novel Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevating-your-instagram-presence-with-watermarks-for-2024/"><u>[Updated] Elevating Your Instagram Presence with Watermarks for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-10-best-phones-and-pc-for-chatting/"><u>[Updated] In 2024, The Ultimate List  10 Best Phones & PC for Chatting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-which-screen-recorder-prevails-bandicam-vs-camtasia/"><u>[Updated] In 2024, Which Screen Recorder Prevails  Bandicam vs Camtasia?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bridging-operating-systems-a-comprehensive-guide-to-executing-android-apps-on-windows-10/"><u>Bridging Operating Systems: A Comprehensive Guide to Executing Android Apps on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-for-opening-rars-on-apple-computers/"><u>Comprehensive Tutorial for Opening RARs on Apple Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-role-of-smartwatches-in-modern-tech-lifestyles/"><u>Decoding the Role of Smartwatches in Modern Tech Lifestyles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-expected-costs-and-capabilities-of-the-next-gen-apple-home-automation-companion/"><u>Discover Expected Costs & Capabilities of the Next-Gen Apple Home Automation Companion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-programming-assistance-with-codex-copilot-in-microsoft-teams/"><u>Effortless Programming Assistance with Codex Copilot in Microsoft Teams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-facts-about-home-theater-and-stereo-receiver-systems-choosing-the-right-one/"><u>Essential Facts About Home Theater & Stereo Receiver Systems - Choosing the Right One</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-picks-for-highest-quality-modem-and-router-combo-packs/"><u>Expert Picks for Highest Quality Modem & Router Combo Packs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-enhanced-features-of-wasteland-2-directors-cut-a-gripping-tbrpg-evaluation/"><u>Exploring the Enhanced Features of Wasteland 2 Director’s Cut - A Gripping TBRPG Evaluation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-iphone-camera-focus-top-tips-and-tricks-for-clearer-photos/"><u>Fixing iPhone Camera Focus: Top Tips & Tricks for Clearer Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722874455065-free-texting-solutions-for-ipod-touch-owners-top-picks/"><u>Free Texting Solutions for iPod Touch Owners - Top Picks!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-overcoming-full-screen-issues-in-obs/"><u>In 2024, Overcoming Full Screen Issues in Obs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-comprehensive-guide-linksys-standard-credentials-update-july-2024/"><u>Latest Comprehensive Guide: Linksys Standard Credentials Update - July 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-tecno-phantom-v-flip-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Tecno Phantom V Flip</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-d3dx934dll-file-not-found-issue-a-step-by-step-guide/"><u>Resolving the d3dx9_34.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamping-your-music-library-a-walkthrough-for-unliking-songs-on-spotify/"><u>Revamping Your Music Library: A Walkthrough for Unliking Songs on Spotify</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-reactivate-a-disabled-instagram-profile-expert-guidance/"><u>Steps to Reactivate a Disabled Instagram Profile: Expert Guidance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamlined-fixes-for-smooth-watching-mastering-the-netflix-experience-on-lg-devices/"><u>Streamlined Fixes for Smooth Watching: Mastering the Netflix Experience on LG Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-correcting-missing-or-inaccessible-msvcr80dll-files-in-windows/"><u>The Definitive Guide to Correcting Missing or Inaccessible MSVCR80.DLL Files in Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-7-file-deletion-algorithms-securely-erase-your-data-forever/"><u>Top 7 File Deletion Algorithms - Securely Erase Your Data Forever!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-mastering-the-setup-of-your-versatile-universal-remote/"><u>Ultimate Guide: Mastering the Setup of Your Versatile Universal Remote</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-creating-the-perfect-awkward-potion-in-minecraft/"><u>Ultimate Tutorial: Creating the Perfect Awkward Potion in Minecraft</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-samsungs-latest-innovation-the-galaxy-z-fold-8-with-price-details-and-specs-released/"><u>Unveiling Samsung's Latest Innovation - The Galaxy Z Fold 8 with Price Details & Specs Released</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-apple-watch-series-8-launch-timeline-detailed-features-cost-breakdown-and-latest-updates/"><u>Unveiling the Apple Watch Series 8: Launch Timeline, Detailed Features, Cost Breakdown & Latest Updates</u></a></li>
+</ul></div>

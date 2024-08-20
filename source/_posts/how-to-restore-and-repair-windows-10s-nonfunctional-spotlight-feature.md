@@ -1,7 +1,7 @@
 ---
 title: How to Restore and Repair Windows 10'S Nonfunctional Spotlight Feature
-date: 2024-08-14 12:21:32
-updated: 2024-08-16 11:43:45
+date: 2024-08-19T12:55:28.924Z
+updated: 2024-08-20T12:55:28.924Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Run the Windows Update Troubleshooter
 
  The Update troubleshooter is a Windows built-in utility that can help resolve common issues with downloading and installing Windows updates.
@@ -52,10 +55,16 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)** Follow the on-screen instructions to fix your problem.
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
@@ -87,6 +96,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
@@ -96,6 +108,9 @@ If your problem persists, then move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Free up your hard drive space
 
  Windows updates could take up a fair amount of disk space. If your PC is running low on free space, you might encounter issues when installing Windows updates.
@@ -122,6 +137,14 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This could help free up lots of space if you have many unused programs on your computer.
 
 #### Free up your space with the Disk Cleanup tool
@@ -130,10 +153,16 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-153.png)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Check the boxes to select the file types to get rid of. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This can help you get rid of the temporary and unnecessary files and free up your hard drive space so that your computer can update faster.
 
 #### Defragment your hard drive
@@ -164,10 +193,16 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-158.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -200,6 +235,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
@@ -218,14 +256,24 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-161.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 **4)** Type**dism.exe /online /cleanup-image /restorehealth** , then press the**Enter** key on your keyboard.
 
  This could take several minutes. Wait for the DISM tool to update your system files automatically.
@@ -253,3 +301,54 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-az-video-grabber-in-depth-app-analysis-and-diversions/"><u>[New] 2024 Approved  AZ Video Grabber  In-Depth App Analysis & Diversions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-online-placements-for-youtube-video-popularity/"><u>[New] Best Online Placements for YouTube Video Popularity</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-sky-high-streams-on-facebook-a-dji-drone-users-guide/"><u>[New] In 2024, Sky-High Streams on Facebook  A DJI Drone User's Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-enigma-exchange-where-anonymity-meets-digital-riches-2023-edition-for-2024/"><u>[New] The Enigma Exchange  Where Anonymity Meets Digital Riches, 2023 Edition for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-directory-name-is-invalid-error/"><u>[SOLVED] The Directory Name Is Invalid Error</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-beauty-behind-the-screen-color-correction-insights-for-2024/"><u>[Updated] Beauty Behind the Screen  Color Correction Insights for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-farewell-to-friends-how-to-leave-a-discord-server-for-2024/"><u>[Updated] Farewell to Friends  How to Leave a Discord Server for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-building-a-strong-visual-narrative-in-youtube-videos/"><u>[Updated] In 2024, Building a Strong Visual Narrative in YouTube Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-secret-lives-of-messages-exploring-whatsapp-hidden-features/"><u>2024 Approved  The Secret Lives of Messages  Exploring WhatsApp Hidden Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722858250933-all-you-need-to-know-about-the-upcoming-samsung-galaxy-z-fold-price-insights-and-release-schedule/"><u>All You Need to Know About the Upcoming Samsung Galaxy Z Fold – Price Insights & Release Schedule</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/banish-error-code-0x80070570-a-users-ultimate-guide-to-restore-functionality/"><u>Banish Error Code 0X80070570: A User's Ultimate Guide to Restore Functionality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-practices-for-rl-video-editing-and-post-processing-for-2024/"><u>Best Practices for RL Video Editing and Post-Processing for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/car-audio-issues-decoded-why-are-my-speakers-not-working/"><u>Car Audio Issues Decoded: Why Are My Speakers Not Working?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/change-your-cast-screen-background-with-easy-tips-and-tricks/"><u>Change Your Cast Screen Background with Easy Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900615040-currently-trending-tv-shows-on-the-max-channel-your-guide/"><u>Currently Trending TV Shows on the MAX Channel - Your Guide!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-connecting-your-amazon-fire-stick-remote-to-your-device/"><u>Easy Steps for Connecting Your Amazon Fire Stick Remote to Your Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-free-methods-for-turning-flac-files-into-mp3-without-losing-quality/"><u>Effortless Conversion: Free Methods for Turning FLAC Files Into MP3 without Losing Quality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-handling-stop-error-0x0000005c-hal-initialization-failed/"><u>Expert Advice on Handling STOP Error 0X0000005C - Hal Initialization Failed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-review-on-western-digitals-data-lifeguard-enhancing-drive-health-and-performance/"><u>Expert Review on Western Digital's Data LifeGuard: Enhancing Drive Health & Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-fix-and-prevent-your-windows-11-computer-from-going-black/"><u>Expert Tips to Fix and Prevent Your Windows 11 Computer From Going Black</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/framework-developing-transformative-lifestyle-broadcasts/"><u>Framework  Developing Transformative Lifestyle Broadcasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/freedom-in-viewing-is-vlc-more-powerful-than-mpc/"><u>Freedom in Viewing  Is VLC More Powerful Than MPC?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-lowdown-on-googles-upcoming-streamer-expected-price-points-release-schedule-and-specs-unveiled/"><u>Get the Lowdown on Google's Upcoming Streamer: Expected Price Points, Release Schedule & Specs Unveiled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-vertical-lines-on-a-samsung-tv/"><u>How to Fix Vertical Lines on a Samsung TV</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-xiaomi-redmi-a2plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Xiaomi Redmi A2+ to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-mechanics-of-modern-photography-auto-smart-hdr-3-and-4-unveiled/"><u>In 2024, The Mechanics of Modern Photography  Auto, Smart HDR 3 & 4 Unveiled</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-nord-n30-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Nord N30 5G Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-the-next-gen-apple-robot-companion-estimated-price-tag-release-schedule-hardware-specs-and-insider-rumor-roundup/"><u>Inside Scoop on the Next-Gen Apple Robot Companion - Estimated Price Tag, Release Schedule, Hardware Specs, and Insider Rumor Roundup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-vlc-ultimate-guide-to-play-videos-on-your-apple-tv/"><u>Mastering VLC: Ultimate Guide to Play Videos on Your Apple TV</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/raft-community-image-bank-access-for-2024/"><u>Minecraft Community Image Bank Access for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-process-a-detailed-walkthrough-of-sharing-your-steam-redeemable-codes/"><u>Navigating the Process: A Detailed Walkthrough of Sharing Your Steam Redeemable Codes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/recovering-lost-sms-effective-techniques-for-various-phone-models/"><u>Recovering Lost SMS: Effective Techniques for Various Phone Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-why-wont-my-windows-10-search-find-anything/"><u>Solved: Why Won’t My Windows 10 Search Find Anything?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-what-to-do-when-you-encounter-a-missing-wmvcoredll-error/"><u>Solving the Dilemma: What to Do when You Encounter a Missing Wmvcore.dll Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-entering-and-exiting-iphone-device-recovery-mode/"><u>Step-by-Step Guide: Entering & Exiting iPhone Device Recovery Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-most-effective-instatags-to-grow-your-audience-today/"><u>The Most Effective #InstaTags To Grow Your Audience Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-boosting-your-visibility-with-10-viral-success-strategies-on-ig/"><u>The Ultimate Checklist: Boosting Your Visibility with 10 Viral Success Strategies on IG</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-missing-or-corrupt-jscriptdll-files-on-your-pc/"><u>The Ultimate Fix for Missing or Corrupt JScript.dll Files on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-choosing-all-correspondences-within-gmail/"><u>The Ultimate Tutorial on Choosing All Correspondences Within Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-disconnecting-appliances-from-google-home/"><u>The Ultimate Walkthrough for Disconnecting Appliances From Google Home</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-when-you-encounter-the-msstdfmtdll-error-message/"><u>Troubleshoot and Repair When You Encounter the Msstdfmt.dll Error Message</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-repairing-a-non-functional-xbox-series-xs-headset/"><u>Troubleshooting Guide: Repairing a Non-Functional Xbox Series X/S Headset</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-discover-the-18-most-effective-ios-shortcuts-hacks/"><u>Ultimate Guide: Discover the 18 Most Effective iOS Shortcuts Hacks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-connect-your-bose-soundlink-devices-seamlessly/"><u>Ultimate Guide: How To Connect Your Bose SoundLink Devices Seamlessly</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-14-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi 14 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-101-tips-for-a-distraction-free-video-backdrop-for-2024/"><u>YouTube 101  Tips for a Distraction-Free Video Backdrop for 2024</u></a></li>
+</ul></div>

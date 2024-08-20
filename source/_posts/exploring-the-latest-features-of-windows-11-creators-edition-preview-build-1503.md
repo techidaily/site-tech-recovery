@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest Features of Windows 11 - Creator's Edition Preview, Build 1503
-date: 2024-08-14 15:12:16
-updated: 2024-08-16 10:25:54
+date: 2024-08-19T12:52:30.301Z
+updated: 2024-08-20T12:52:30.301Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 
  If the installation proceeds and turns out successful, you can plug the devices back in after your system gets updated. But if this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Fix 2: Clear an attribute of $WINDOWS.\~BT installation folder
 
  The “Windows 10 installation has failed” error could be triggered when the installer tries to repeatedly copy the files in a certain folder. You can try to clear an attribute of the $WINDOWS.\~BT installation folder to see if it solves your problem. Here’s how:
@@ -61,10 +64,20 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 1. In the search bar on your taskbar, type**language** , then click**Language settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-03-06.png)
 2. Make sure your Windows display language is set to**English** .  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-04-37.png)
 3. Remove all the non-English language packs you have.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-05-07.png)
 4. Run the installer again.
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
 #### On Windows 7
 
@@ -73,8 +86,14 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 2. Click**Install/uninstall languages** . You may be prompted for permission, just click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-29.png)
 3. Click**Uninstall display languages** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_15-38-37-1.png)
 4. **Remove any non-English language packs** per instructions. Make sure you save the changes.
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Run the installer again.
 
  If this doesn’t solve your problem and you keep running into the error, try the next fix.
@@ -90,14 +109,29 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 1. Press the**Windows key** , search for**recovery** , then click**Recovery options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-10-46.png)
 2. Under Advanced Startup, click**Restart now** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-16-10.png)
 3. Click**Troubleshoot** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-38.png)
 4. Click**Advanced options** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-46.png)
 5. Select**Command Prompt** . You may be prompted to log in to your account at this step.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2022-01-17_17-11-55.png)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### On Windows 7
 
 1. Restart your PC. When you see the manufacturer logo, keep pressing the**F8** key to enter the Advanced Boot Options screen.
@@ -113,6 +147,9 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 2. Close the Command Prompt window, and click**Continue** to exit to your desktop.
 3. Run the installer again to test the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Perform a clean boot installation
 
  Sometimes the programs on your PC may interfere with Windows installation. If you’ve got a specific error code, it’s likely due to an incompatible software or driver. Removing the problematic software or[updating your driver](https://tools.techidaily.com/drivereasy/download/) may solve the problem.
@@ -136,6 +173,9 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 
  If performing a clean boot installation doesn’t solve the error for you, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Fix 6: Repair corrupted system files
 
  If the fixes above didn’t solve the “Windows 10 installation has failed” error on your PC, you may be looking at a system-wide error. When the system files required for the Windows installation process are corrupted, it could trigger an installation error. You can use the System File Checker tool (sfc /scannow) to look for any critical system corruption, but most of the time, manual repair is required.
@@ -167,6 +207,9 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -190,3 +233,54 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-free-mac-friendly-tiktok-video-crafting-tools-top-10/"><u>[New] 2024 Approved  Free, Mac-Friendly TikTok Video Crafting Tools (Top 10)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-depth-look-at-voice-memo-features-on-your-ios-device-for-2024/"><u>[New] In-Depth Look at Voice Memo Features on Your iOS Device for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-best-3d-entrance-makers-for-youtube-creators/"><u>[Updated] Best 3D Entrance Makers for YouTube Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamlined-ppt-delivery-techniques-for-mobile-and-laptops-in-gmeet/"><u>2024 Approved  Streamlined PPT Delivery Techniques for Mobile & Laptops in GMeet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-essential-software-selections-for-your-samsung-smart-television-experience/"><u>2024'S Essential Software Selections for Your Samsung Smart Television Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-for-removing-pin-authentication-from-windows-10/"><u>A Comprehensive Tutorial for Removing PIN Authentication From Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advanced-techniques-for-creating-personalized-slack-memos/"><u>Advanced Techniques for Creating Personalized Slack Memos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722102291443-auto-gpt-vs-gpt-4-assessing-the-value-of-using-auto-gpt-without-advanced-capabilities/"><u>Auto-GPT Vs. GPT-4: Assessing the Value of Using Auto-GPT Without Advanced Capabilities.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-removing-programs-from-your-mac-device/"><u>Complete Guide: Removing Programs From Your Mac Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-picks-top-12-free-voice-over-ip-voip-calls-apps-of-2024/"><u>Discover Our Picks: Top 12 Free Voice over IP (VoIP) Calls Apps of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-7-ideal-smartphone-apps-to-navigate-through-traffic-seamlessly/"><u>Discover the 7 Ideal Smartphone Apps to Navigate Through Traffic Seamlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-hidden-secrets-access-and-display-hidden-files-in-macos-via-terminal/"><u>Discovering Hidden Secrets: Access and Display Hidden Files in macOS via Terminal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-or-ready-made-making-the-smart-move-in-computing-technology-for-users/"><u>DIY or Ready-Made? Making the Smart Move in Computing Technology for Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-top-8-innovative-learning-tools-for-a-brighter-future-2024-edition/"><u>Explore the Top 8 Innovative Learning Tools for a Brighter Future, 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-root-of-poor-video-experiences-with-zoom/"><u>Exploring the Root of Poor Video Experiences with Zoom</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-your-xbox-one-when-you-see-no-signal-quick-and-easy-fixes/"><u>Fixing Your Xbox One When You See 'No Signal': Quick and Easy Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-discs-to-streaming-unveiling-netflixs-beginning-as-a-dvd-rental-service/"><u>From Discs to Streaming: Unveiling Netflix's Beginning as a DVD Rental Service</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a79-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-access-and-view-spider-man-no-way-home-in-high-definition/"><u>Guide: Access and View 'Spider-Man: No Way Home' In High Definition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-booking-a-visit-with-the-apple-genius-squad/"><u>Guide: Booking a Visit with the Apple Genius Squad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-the-missing-mingwm10dll-file-issue/"><u>How to Correctly Address the Missing Mingwm10.dll File Issue</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-updated-hp-print-drivers-for-windows-11-ecosystem/"><u>Install Updated HP Print Drivers for Windows 11 Ecosystem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introduction-to-aether-an-exploration-of-its-essence-and-entry-methods/"><u>Introduction to Aether - An Exploration of Its Essence and Entry Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-fact-5-quantitative-analysis-mass-spectrometry-not-only-provides-qualitative-data-but-also-allows-for-the-quantification-of-substances-within-a-sample-b27/"><u>Key Fact #5: Quantitative Analysis - Mass Spectrometry Not only Provides Qualitative Data but Also Allows for the Quantification of Substances Within a Sample Based on Peak Intensities.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-productivity-with-ai-mastering-the-art-of-using-chatgpt-as-an-on-demand-business-companion/"><u>Maximize Productivity with AI: Mastering the Art of Using ChatGPT as an On-Demand Business Companion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-digital-age-a-guide-to-9-key-educational-technologies-for-students/"><u>Navigating the Digital Age: A Guide to 9 Key Educational Technologies for Students</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-your-roku-television-sans-remote-tips-and-tricks/"><u>Navigating Your Roku Television Sans Remote - Tips and Tricks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-usage-fluctuation-raises-eyebrows/"><u>Printer Usage Fluctuation Raises Eyebrows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolve-d3dx930dll-is-missing-errors-with-simple-fixes/"><u>Resolve d3dx9_30.dll Is Missing Errors with Simple Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-call-reception-issues-a-step-by-step-guide-for-your-samsung-galaxy-watch/"><u>Resolving Call Reception Issues: A Step-by-Step Guide for Your Samsung Galaxy Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-workflow-essential-strategies-for-effective-use-of-slack-at-work/"><u>Revolutionize Your Workflow: Essential Strategies for Effective Use of Slack at Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/screenshot-mastery-expert-advice-for-sharing-images-from-the-nintendo-switch/"><u>Screenshot Mastery: Expert Advice for Sharing Images From the Nintendo Switch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secrets-unveiled-the-path-to-becoming-an-instagram-verified-user/"><u>Secrets Unveiled: The Path to Becoming an Instagram Verified User</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-what-to-do-when-your-youtube-comments-dont-appear/"><u>Solving the Issue: What to Do When Your YouTube Comments Don’t Appear</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-accessing-and-viewing-pages-documents-on-your-windows-or-mac-computer/"><u>Step-by-Step Guide: Accessing and Viewing Pages Documents on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolve-missing-cygwin1dll-error-messages/"><u>Step-by-Step Guide: Resolve Missing cygwin1.dll Error Messages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-triple-monitor-display-with-pc/"><u>Step-by-Step Guide: Setting Up Your Triple Monitor Display with PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722895323954-streamline-your-iphone-with-18-ingenious-shortcuts-app-solutions/"><u>Streamline Your iPhone with 18 Ingenious Shortcuts App Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-basics-of-a-free-and-open-web-insights-into-net-neutrality/"><u>The Basics of a Free and Open Web: Insights Into Net Neutrality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-compreenas-for-snapchat-success-stories-for-2024/"><u>The Compreenas for SnapChat Success Stories for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-google-event-news-rumors-and-announcements/"><u>The Next Google Event: News, Rumors, and Announcements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-science-of-oled-a-comprehensive-overview/"><u>The Science of OLED - A Comprehensive Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-connection-memory-frequency-delay-and-your-pcs-speed/"><u>Unveiling the Connection: Memory Frequency, Delay & Your PC's Speed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-true-environmental-impact-of-e-vehicles-a-comprehensive-review/"><u>Unveiling the True Environmental Impact of E-Vehicles: A Comprehensive Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-new-innovative-phones-from-samsung/"><u>Unveiling: New Innovative Phones From Samsung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-chatgpt/"><u>What Is ChatGPT?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/winning-in-pokemon-unite-tips-and-techniques-revealed/"><u>Winning in Pokémon Unite: Tips and Techniques Revealed</u></a></li>
+</ul></div>

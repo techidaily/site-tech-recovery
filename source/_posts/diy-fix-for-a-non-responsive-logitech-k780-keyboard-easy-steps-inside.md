@@ -1,7 +1,7 @@
 ---
 title: DIY Fix for a Non-Responsive Logitech K780 Keyboard - Easy Steps Inside
-date: 2024-08-15 13:29:35
-updated: 2024-08-16 10:46:26
+date: 2024-08-19T12:48:23.168Z
+updated: 2024-08-20T12:48:23.168Z
 tags:
   - win11
   - win10
@@ -44,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
  If by saying keyboard not working, you meant that**certain keys** on your Logitech K780 keyboard don’t work as they used to, and the problem happen all of a sudden, please follow the 3 methods below to see if they help to sort the problem out.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.1 Make sure that it’s not a hardware issue
 
  We first need to run a keyboard test with Command Prompt as admin to see if the problem is on the hardware front or the software front. To run the test:
@@ -60,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 1.2 Reinstall the keyboard driver
 
  When you’ve made sure that the keyboard problem is not hardware-related, you can then try to reinstall the keyboard driver for Logitech K780 to see if it helps. To do so:
@@ -67,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Keyboards** category, then right-click your Logitech K780 keyboard and select**Uninstall device** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-93.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-94.png)
@@ -107,6 +118,9 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
  If your Logitech K780 keyboard doesn’t work at all, not just certain keys, then please try the following troubleshooting process to see if it helps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1 Make sure your computer has Bluetooth capability
 
  Although it sounds a bit needless to say, we still have to stress that the Logitech K780 requires the Bluetooth feature on your computer to work wirelessly. So you should either have a built-in Bluetooth adapter for your computer or an external USB Bluetooth receiver or dongle for K780 to work.
@@ -117,12 +131,18 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 2. Select**Bluetooth & devices** . Make sure that the Bluetooth toggle is set to**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-95.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you don’t see a Bluetooth option here, you don’t have Bluetooth capability on your computer. To use Logitech K780, you will need an external Bluetooth adapter or receiver, which can be easily bought online.
 3. Select**Add device** , and then**Bluetooth** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-96.png)
 4. Pay extra attention to the status bar here: if you see the blue dots running, then your Bluetooth feature and its driver should be fine.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-98.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you’ve made sure that your Bluetooth capability and its driver are both working fine, but your Logitech K780 keyboard still doesn’t work, please move on.
 
 ---
@@ -135,14 +155,23 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then try your Logitech K780 keyboard again to see if it works well. If the keyboard is still not working, please move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.3 Charge your keyboard or install a new battery
 
  If your Logitech K780 keyboard battery runs low, or your battery is too old to charge anymore, it won’t be connected to your computer successfully.
@@ -155,6 +184,9 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 2.4 Make sure there’s no interference from other devices
 
  When the connection between your Logitech K780 and your computer is still lost, you’ll then need to make sure that there’s no interference from other devices like wireless speakers, PSU (power supply units), monitors, mobile phones, and/or garage door openers.
@@ -167,6 +199,9 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### 2.5 Reconnect your keyboard
 
  If your Logitech K780 keyboard still refuses to work after all the above, you can try to force a new reconnection. To do so:
@@ -178,6 +213,10 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-99.png)
 4. Then select**Add device** , and then**Bluetooth** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-96.png)
 5. When you see your Logitech K780 keyboard here, select it to add it back.
 6. Follow the on-screen instructions to finish the setup.
@@ -205,3 +244,58 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-setting-up-your-social-media-presence-with-twitter/"><u>[New] 2024 Approved  Setting Up Your Social Media Presence with Twitter</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-video-files-how-many-can-fit-in-128gb-in-2024/"><u>[New] Video Files  How Many Can Fit in 128Gb, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-easy-to-follow-guide-leveraging-mobizen-screensaver/"><u>[Updated] 2024 Approved  Easy-to-Follow Guide  Leveraging Mobizen Screensaver</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-eliminating-backlogged-videos-from-your-youtube-history/"><u>[Updated] 2024 Approved  Eliminating Backlogged Videos From Your YouTube History</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-discreetly-navigate-through-instagrams-stories-archive-for-2024/"><u>[Updated] Discreetly Navigate Through Instagram's Stories Archive for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-expert-level-converter-tiktok-videos-to-high-quality-mp4/"><u>[Updated] In 2024, Expert-Level Converter  TikTok Videos to High-Quality MP4</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-logitechs-high-end-webcam-an-all-inclusive-review/"><u>[Updated] Logitech’s High-End Webcam  An All-Inclusive Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-excellent-gopro-filming-mastery/"><u>[Updated] The Path to Excellent Gopro Filming Mastery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-instagram-picture-perfect-a-quick-guide/"><u>2024 Approved  Instagram Picture Perfect  A Quick Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-principles-of-ai-use-for-effective-editing-and-writing/"><u>7 Principles of AI Use for Effective Editing and Writing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ace-the-art-of-tweaking-captions-and-tags-in-instagram/"><u>Ace the Art of Tweaking Captions & Tags in Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-users-handbook-how-to-temporarily-disable-facebook-without-losing-data/"><u>Android Users' Handbook: How To Temporarily Disable Facebook Without Losing Data</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bacteria-free-living-a-comprehensive-tutorial-on-disinfecting-your-remote-control/"><u>Bacteria-Free Living: A Comprehensive Tutorial on Disinfecting Your Remote Control</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-12-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi 12 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-to-purging-every-message-tips-for-total-email-removal-within-the-gmail-app/"><u>Complete Guide to Purging Every Message: Tips for Total Email Removal Within the Gmail App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/data-savvy-text-communication-tricks-to-avoid-overspending/"><u>Data-Savvy Text Communication: Tricks to Avoid Overspending</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-sticky-keys-feature-in-windows-a-comprehensive-guide/"><u>Disabling Sticky Keys Feature in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-premium-cinema-for-free-with-crackles-movie-library-online/"><u>Discover Premium Cinema for Free with Crackle's Movie Library Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-selection-13-favored-free-pdf-editors-july-update/"><u>Discover the Ultimate Selection: 13 Favored Free PDF Editors (July Update)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/does-the-iphone-13-stand-up-to-a-splash-examining-its-water-resistance/"><u>Does the iPhone 13 Stand Up to a Splash? Examining Its Water Resistance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-identifying-opened-messages-in-your-gmail/"><u>Easy Steps: Identifying Opened Messages in Your Gmail</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-chatgpt-deployment-on-linux-platforms-through-bavarder-installation/"><u>Effortless ChatGPT Deployment on Linux Platforms Through Bavarder Installation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-apps-to-enhance-your-home-painting-project-a-comprehensive-guide/"><u>Essential Apps to Enhance Your Home Painting Project: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-efficiently-using-the-telnet-client-on-windows-systems/"><u>Essential Tips for Efficiently Using the Telnet Client on Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-successfully-replace-your-ipads-aging-battery/"><u>Expert Advice: How to Successfully Replace Your iPad's Aging Battery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-effortlessly-with-these-5-superior-iphone-gps-apps/"><u>Explore Effortlessly with These 5 Superior iPhone GPS Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-meaning-and-functionality-of-wi-fi-calling/"><u>Exploring the Meaning and Functionality of Wi-Fi Calling</u></a></li>
+<li><a href="https://windows11.techidaily.com/finding-out-your-internets-public-ip-with-win-cli/"><u>Finding Out Your Internet's Public IP with Win CLI</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-zero-to-hero-how-to-successfully-set-up-windows-11-on-a-new-computer/"><u>From Zero to Hero: How To Successfully Set Up Windows 11 On A New Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-netflix-streaming-again-top-1nine-tricks-for-resolving-common-lg-tv-glitches/"><u>Get Netflix Streaming Again: Top 1Nine Tricks for Resolving Common LG TV Glitches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-viewing-live-coverage-of-the-2erth-summer-olympics/"><u>Guide to Viewing Live Coverage of the 2Erth Summer Olympics</u></a></li>
+<li><a href="https://games-able.techidaily.com/highlighting-java-games-with-unbeatable-design/"><u>Highlighting Java Games with Unbeatable Design</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-create-and-manage-your-pinned-threads-in-insta-chats-effectively/"><u>How To Create & Manage Your Pinned Threads in Insta-Chats Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-set-and-change-the-hour-on-your-kindle-paperwhite-device/"><u>How to Set and Change the Hour on Your Kindle Paperwhite Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-wipe-out-the-windows-repair-segment-from-hard-drive-easily/"><u>How To Wipe Out The Windows Repair Segment From Hard Drive Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ace-your-laughs-kinemaster-for-top-memes/"><u>In 2024, Ace Your Laughs  KineMaster for Top Memes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-recording-video-games-on-your-ps4-console/"><u>Mastering the Art of Recording Video Games on Your PS4 Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-deleted-alerts-how-to-find-previously-seen-messages-on-an-iphone/"><u>Navigating Deleted Alerts: How to Find Previously Seen Messages on an iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-gap-solutions-when-you-cant-find-or-use-facebook-marketplace/"><u>Navigating the Gap: Solutions When You Can't Find or Use Facebook Marketplace</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcome-search-issues-on-windows-10-with-these-effective-tips-and-tricks/"><u>Overcome Search Issues on Windows 10 with These Effective Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/professional-video-calls-made-simple-learn-how-to-apply-a-blur-effect-in-google-meet/"><u>Professional Video Calls Made Simple: Learn How to Apply a Blur Effect in Google Meet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722846321849-solve-d3dx92nddll-file-missing-error-easy-fixes-and-tips/"><u>Solve d3dx9_2nD.dll File Missing Error - Easy Fixes & Tips!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-the-art-of-selfie-photography-with-professional-lights/"><u>Step-by-Step Guide: Mastering the Art of Selfie Photography with Professional Lights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-microsofts-copilot-from-your-windows-11-system/"><u>Step-by-Step Guide: Removing Microsoft's Copilot From Your Windows 11 System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-innovative-applications-to-revolutionize-your-personal-blogging/"><u>Top 6 Innovative Applications to Revolutionize Your Personal Blogging</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-for-lgbtqplus-content-streaming-on-netflix-in-july-2024/"><u>Top Picks for LGBTQ+ Content Streaming on Netflix in July 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-solutions-for-libxml2dll-not-found-message-on-windows-computers/"><u>Troubleshooting and Solutions for 'libxml2.dll Not Found' Message on Windows Computers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-solving-iphone-error-message-14/"><u>Understanding and Solving iPhone Error Message 14</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-biometrics-an-essential-guide/"><u>Understanding Biometrics: An Essential Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-instant-travel-secrets-using-the-teleport-command-like-a-pro-in-minecraft/"><u>Unlock Instant Travel Secrets: Using the Teleport Command Like a Pro in Minecraft</u></a></li>
+</ul></div>

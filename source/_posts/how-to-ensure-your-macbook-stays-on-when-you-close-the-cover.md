@@ -1,0 +1,143 @@
+---
+title: How to Ensure Your MacBook Stays On When You Close the Cover
+date: 2024-08-19T15:20:30.781Z
+updated: 2024-08-20T15:20:30.781Z
+categories:
+  - BestProducts
+description: This Article Describes How to Ensure Your MacBook Stays On When You Close the Cover
+excerpt: This Article Describes How to Ensure Your MacBook Stays On When You Close the Cover
+thumbnail: https://www.lifewire.com/thmb/qOnmzUsqLM9HSPhPI2oKnrNPVZg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/x3-578cb91c7aef42779b20bf45d306b29f.jpg
+---
+
+## MacBook Pro Keyboard Woes? Discover How to Revive Unresponsive Keys
+ When a MacBook Pro keyboard stops working, you may find none of the keys work at all, or some keys work. If the[Touch Bar](https://www.lifewire.com/apples-touch-bar-idea-was-cool-but-didnt-work-out-5209079) doesn't work, a software issue is likely the cause.
+
+ You'll need to attempt fixes such as cleaning it, checking for updates, and removing potential problem apps to get your keyboard working again. Most of these fixes also work for MacBook Air keyboards.
+
+ Apple's butterfly keyboards were such a problem; Apple had to issue a[Keyboard Service Program for the MacBook, MacBook Air, and MacBook Pro](https://support.apple.com/keyboard-service-program-for-mac-notebooks) .
+
+## How to Fix a MacBook Pro Keyboard That Isn't Working
+
+ If your keyboard stops working, the first step is to clean it. If that doesn’t work, you need to connect a spare keyboard and try a handful of other fixes.
+
+ In a worst-case scenario, contact Apple for professional assistance. Don’t attempt any advanced repairs or disassembly yourself, as Apple fixes some of these problems at no charge.
+
+ Some of these fixes require a working keyboard. If you don't have a spare keyboard, borrow one. If you connect a second keyboard and it doesn't work either, your Mac probably needs a professional repair.
+
+ Here’s how to fix a MacBook Pro keyboard that has stopped working:
+
+1. [Clean the keyboard](https://www.lifewire.com/how-to-clean-macbook-keyboard-4179083) . Dust and other debris represent the most common cause of malfunctioning MacBook keyboards, so start by cleaning your keyboard to the best of your ability with compressed air.  
+ If you see any visible debris on the keyboard at this point, use a vacuum with a soft-bristled attachment to finish cleaning.
+2. Plug in the MacBook. If your battery is low, the keyboard may not work, and you may not see a low battery alert. Wait for the MacBook to charge and then check to see if the keyboard works.
+3. [Check for updates](https://www.lifewire.com/update-macos-macbook-pro-4178508) . Connect a USB or wireless keyboard and perform the standard procedure of checking for updates. If your MacBook needs any driver or operating system updates, update them, and then see if the keyboard works.
+4. [Remove recent apps](https://www.lifewire.com/uninstall-apps-on-mac-4159740) . If you installed one or more apps right before this problem started, it might be causing a conflict. Uninstall any apps you recently installed, restart your MacBook, and then check to see if the keyboard works.
+5. [Restart the Touch Bar using terminal](https://www.lifewire.com/mac-terminal-commands-4774997) . Open terminal and type**sudo pkill TouchBarServer;** \> press**enter** \> type**sudo killall “ControlStrip”;** \> press**enter** . Enter your password and press**enter** .  
+ If the Touch Bar is the part of your MacBook Pro keyboard that isn’t working, you can usually use the terminal to get it working again.
+6. Turn off Slow Keys. If this function is on, you have to hold down each key longer than usual before it registers. That can make it seem like the keyboard doesn’t work at all if you’re only pressing each key for a short amount of time.  
+ Here’s how to turn it off: Select the**Apple menu** \>**System Settings** \>**Accessibility** \>**Keyboard** and make sure**Slow Keys** isn't on.  
+ Depending on your operating system, you may need to follow this sequence to view the Slow Keys setting:**Apple menu** \>**System Preferences** \>**Accessibility** \>**Keyboard** \>**Hardware** .
+7. Turn off Mouse Keys. This setting can cause problems if it’s accidentally turned on.  
+ To turn off Mouse Keys, go to**System Settings** or**System Preferences** \>**Accessibility** \>**Pointer Control** \>**Alternate Control Methods** and make sure**Mouse Keys** isn’t on.
+8. Check the keyboard layout setting. If you have the wrong keyboard layout set, the keys won’t function as expected.  
+ Here’s how to check:**System Settings** or**Preferences** \>**Keyboard** \>**Input Sources** \>**Edit** \> select the correct keyboard layout for your region and language.  
+ A shortcut for checking the input source is to show the Input menu in the Mac menu bar. It should be set to display by default, but you can check from**Keyboard** \>**Input Sources** \>**Edit** \>**Show Input menu in menu bar** .
+9. [Reset the System Management Controller (SMC)](https://www.lifewire.com/reset-smc-system-management-controller-on-mac-2260840) . If there’s a problem with your MacBook’s SMC, it may result in the keyboard not working correctly. Resetting the SMC usually takes care of the problem.
+10. [Seek professional help from Apple](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) . If your keyboard still doesn’t work after you attempt all these fixes, or it’s just specific keys that don’t work, you need to get help from Apple.  
+ Apple fixes some keyboard issues at no charge due to defects in the butterfly switch mechanisms, but customer support can tell you whether your MacBook is covered.
+
+ Before you take your MacBook in for service, make sure to[back up the data on your Mac](https://www.lifewire.com/back-up-mac-to-external-hard-drive-with-time-machine-5069853) .
+
+## What Causes a MacBook Pro Keyboard to Stop Working?
+
+ The most common causes for a MacBook keyboard to stop working are dust and other contaminants. If you have a MacBook with keys using Apple’s butterfly keyboard mechanism, even the smallest amount of dust contamination can cause problems.
+
+ Other contaminants, such as food and various liquids, can also prevent a Mac keyboard from working correctly.
+
+ The most common reasons a MacBook keyboard stops working include:
+
+* Dust and other contaminants
+* Incorrect software settings
+* Problematic apps
+* Bugs and glitches
+* Broken hardware
+
+[How to Unfreeze a MacBook Pro](https://www.lifewire.com/unfreeze-macbook-pro-5120324)
+
+ FAQ
+
+* How do you reset an external MacBook Pro keyboard?  
+ Disconnect and reconnect the keyboard via the USB cable, making sure the connector is securely slotted into the USB port when it's plugged back in. You can also try plugging the keyboard into a different USB port.
+* How do you turn on backlights on a MacBook Pro keyboard?  
+ One way to turn on backlights is to press the**increase brightness** key or the**decrease brightness** key. You can also go to the Control Center, select**Keyboard Brightness** , and move the slider back and forth. Or, in the Touch Bar, expand the**Control Strip** and tap**increase brightness** or**decrease brightness** .
+* How can you lock the keyboard on a MacBook Pro?  
+ To[lock your MacBook Pro keyboard](https://www.lifewire.com/lock-your-keyboard-temporarily-5072812) , you'll need to put the computer into sleep mode or lock the screen. To lock the screen, use the keyboard shortcut**Control** +**Shift** +**Power** . To put the computer to sleep, you have three options: close the lid, use the keyboard shortcut**Command** +**Option** +**Power** , or select **Sleep** from the Apple menu.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-non-networked-game-haven-top-screen-free-android-titles/"><u>[New] 2024 Approved  Non-Networked Game Haven  Top Screen-Free Android Titles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ace-bgm-selection-perfect-backdrops-for-video-calling/"><u>[New] Ace BGM Selection  Perfect Backdrops for Video Calling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-blend-into-black-premiere-pro-trick/"><u>[New] Blend Into Black  Premiere Pro Trick</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlock-ig-success-with-expert-insights-on-loop-videos/"><u>[New] In 2024, Unlock IG Success with Expert Insights on Loop Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-camcorders-head-on-video-sharing/"><u>[New] Premium Camcorders  Head-On Video Sharing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-simple-processes-for-logging-vimeo-content/"><u>[Updated] In 2024, Simple Processes for Logging Vimeo Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-on-altering-folder-colors-in-macos/"><u>A Comprehensive Tutorial on Altering Folder Colors in MacOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722879830344-android-phone-no-call-functionality-follow-these-steps-to-fix-it/"><u>Android Phone No Call Functionality? Follow These Steps to Fix It!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/customize-your-iphone-for-different-geographic-area/"><u>Customize Your iPhone for Different Geographic Area</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-non-visible-comments-on-youtube-expert-advice-for-users/"><u>Dealing with Non-Visible Comments on YouTube: Expert Advice for Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-the-408-http-status-code-why-it-happens-and-how-to-correctly-address-it/"><u>Demystifying the 408 HTTP Status Code: Why It Happens and How to Correctly Address It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-dreams-why-the-world-is-moving-beyond-gasoline-vehicles/"><u>Electric Dreams: Why the World Is Moving Beyond Gasoline Vehicles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-selection-of-top-7-note-taking-tools-on-apples-tablets-ipads-and-ipad-pro/"><u>Explore Our Selection of Top 7 Note-Taking Tools on Apple's Tablets: IPads and iPad Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-prospects-of-an-apple-made-domestic-robot-price-and-release-forecast/"><u>Exploring the Prospects of an Apple-Made Domestic Robot – Price & Release Forecast.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722868437252-how-does-atandt-handle-overseas-wireless-coverage-and-fees/"><u>How Does AT&T Handle Overseas Wireless Coverage and Fees?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-pair-a-samsung-remote-to-a-tv/"><u>How to Pair a Samsung Remote to a TV</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nubia-z50-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Nubia Z50 Ultra to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rescue-deleted-messages-tips-for-finding-missing-correspondence-in-gmail/"><u>Rescue Deleted Messages: Tips for Finding Missing Correspondence in Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-wpcapsdll-file-doesnt-exist-or-cant-be-located-issue/"><u>Resolving the 'Wpcaps.dll' File Doesn't Exist or Can't Be Located Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-code-43-troubles-a-step-by-step-guide/"><u>Solving Code 43 Troubles: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-automatic-text-messaging-from-your-iphone/"><u>Step-by-Step Guide: Setting Up Automatic Text Messaging From Your iPhone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-x100-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo X100 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-reality-with-ai-unleashing-a-new-era/"><u>Transforming Reality with AI: Unleashing a New Era</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-selection-of-sporty-flicks-whats-trending-today/"><u>Ultimate Selection of Sporty Flicks: What's Trending Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-effective-copilot-integration-within-microsoft-teams/"><u>Ultimate Tips for Effective Copilot Integration Within Microsoft Teams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-the-8-leading-mobile-games-dominating-the-market-today/"><u>Uncover the 8 Leading Mobile Games Dominating the Market Today</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-6-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-seamless-pc-management-with-our-favorite-15-free-uninstaller-utilities/"><u>Unlock Seamless PC Management with Our Favorite 15 Free Uninstaller Utilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unplugged-digital-life-innovative-ways-to-connect-without-cable-or-traditional-phone-lines/"><u>Unplugged Digital Life: Innovative Ways to Connect without Cable or Traditional Phone Lines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722884314553-unstuck-from-windows-11-search-issues-here-are-reliable-fixes-to-try/"><u>Unstuck From Windows 11 Search Issues? Here Are Reliable Fixes to Try</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-reversal-made-simple-a-beginners-guide-to-final-cut-pro/"><u>Updated In 2024, Video Reversal Made Simple A Beginners Guide to Final Cut Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->

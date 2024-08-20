@@ -1,7 +1,7 @@
 ---
 title: "Solved: Windows 10/11 Slow Boot"
-date: 2024-08-13 21:57:54
-updated: 2024-08-16 11:50:40
+date: 2024-08-19T12:52:02.504Z
+updated: 2024-08-20T12:52:02.504Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### Fix 1: Run the Windows Update Troubleshooter
 
  The Update troubleshooter is a Windows built-in utility that can help resolve common issues with downloading and installing Windows updates.
@@ -48,10 +51,16 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-144.png)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Select**Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
@@ -74,8 +83,14 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-148.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Restart the Windows Update service
 
  Errors might occur when the Windows Update service isn’t running correctly. Try restarting the Windows Update service to see if that fixes your issue:
@@ -87,6 +102,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
@@ -96,6 +114,9 @@ If your problem persists, then move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Fix 4: Free up your hard drive space
 
  Windows updates could take up a fair amount of disk space. If your PC is running low on free space, you might encounter issues when installing Windows updates.
@@ -112,6 +133,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
@@ -134,6 +158,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  This can help you get rid of the temporary and unnecessary files and free up your hard drive space so that your computer can update faster.
 
 #### Defragment your hard drive
@@ -164,6 +191,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-158.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
@@ -172,6 +202,9 @@ If your problem persists, then move on to the next fix.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### Fix 6: Repair corrupted system files
 
  Corrupted or damaged system files may also be the reason why your computer updates so slow. Follow the instructions below to see how to fix the issue:
@@ -194,16 +227,25 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Type**sfc.exe /scannow** , then press the**Enter** key on your keyboard.
 
  This process could take a little while. Please wait for it to be complete.
@@ -253,3 +295,44 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-windowgrabber-3d-top-choice/"><u>[New] 2024 Approved  WindowGrabber 3D - Top Choice</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-televising-digital-media-integrating-fb-video-in-2024/"><u>[New] Televising Digital Media  Integrating FB Video , In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/7-crucial-aspects-to-evaluate-before-you-go-smart-with-your-next-tv-purchase/"><u>7 Crucial Aspects to Evaluate Before You Go Smart with Your Next TV Purchase</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accepting-shared-albums-on-your-ios-device-a-simple-how-to/"><u>Accepting Shared Albums on Your iOS Device - A Simple How-To</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beginners-checklist-first-five-actions-for-your-new-tech-device/"><u>Beginner's Checklist: First Five Actions for Your New Tech Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-you-truly-enjoy-authentic-dolby-atmos-audio/"><u>Can You Truly Enjoy Authentic Dolby Atmos Audio?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-c55-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco C55</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-network-and-be-friendly-top-5-apps-for-new-acquaintances/"><u>Connect, Network, and Be Friendly: Top 5 Apps for New Acquaintances</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-worlds-largest-and-most-visited-online-platforms-the-ultimate-list/"><u>Discover the World's Largest and Most Visited Online Platforms - The Ultimate List</u></a></li>
+<li><a href="https://facebook.techidaily.com/diving-into-metas-verified-reputation-system/"><u>Diving Into Meta's Verified Reputation System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-repair-reconnecting-an-ipad-to-a-stubborn-wi-fi-signal/"><u>DIY Repair: Reconnecting an iPad to a Stubborn Wi-Fi Signal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/does-pope-francis-send-and-receive-electronic-mail-messages/"><u>Does Pope Francis Send and Receive Electronic Mail Messages?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fix-restoring-factory-settings-on-your-samsung-soundbar/"><u>Easy Fix: Restoring Factory Settings on Your Samsung Soundbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-guide-streaming-apple-tvplus-on-your-chromecast/"><u>Easy Guide: Streaming Apple TV+ on Your Chromecast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-schedule-a-trip-to-the-apple-store-today/"><u>Easy Ways to Schedule a Trip to the Apple Store Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-the-woes-of-ntdlldll-dilemma-your-definitive-solution-for-windows-1112/"><u>End the Woes of ntdll.dll Dilemma – Your Definitive Solution for Windows 11/12</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-6-apps-to-boost-your-childs-study-habits-insights-for-families/"><u>Essential 6 Apps to Boost Your Child's Study Habits: Insights for Families</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-picks-the-most-efficient-team-video-call-software/"><u>Expert Picks: The Most Efficient Team Video Call Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-easily-hook-up-your-nintendo-switch-console-to-the-television/"><u>Guide: Easily Hook Up Your Nintendo Switch Console to the Television</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/important-criteria-checklist-before-buying-pre-utilized-laptops/"><u>Important Criteria Checklist Before Buying Pre-Utilized Laptops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y100i-power-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y100i Power 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-microsoft-screen-recorder-download-and-use-guide/"><u>In 2024, Microsoft Screen Recorder Download and Use Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-fix-addressing-and-repairing-code-perturbations-in-windows-environment/"><u>Master the Fix: Addressing and Repairing Code Perturbations in Windows Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-future-tech-4-regulatory-avenues-for-ai-tools/"><u>Navigating Future Tech: 4 Regulatory Avenues for AI Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tricks-how-to-use-command-prompt-inside-a-specific-folder-in-windows/"><u>Quick Tricks: How to Use Command Prompt Inside a Specific Folder in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-soundbar-reset-instructions-get-back-to-basics-quickly/"><u>Samsung Soundbar Reset Instructions - Get Back to Basics Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solve-your-pc-stuck-in-limbo-making-windows-11-shutdown-smoothly-again/"><u>Solve Your PC Stuck in Limbo: Making Windows 11 Shutdown Smoothly Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-roadmap-to-scoring-student-rates-at-microsoft-retail-outlets/"><u>The Insider's Roadmap to Scoring Student Rates at Microsoft Retail Outlets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-generation-of-vr-gaming-awaits-with-psvr2-discover-news-pricing-info-release-schedule-and-hardware-specs/"><u>The Next Generation of VR Gaming Awaits with PSVR2 – Discover News, Pricing Info, Release Schedule & Hardware Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-missing-system-files-restoring-haldll-in-windows-xp/"><u>The Ultimate Fix for Missing System Files: Restoring Hal.dll in Windows XP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-how-to-search-for-ev-chargers-on-google-maps/"><u>The Ultimate Tutorial on How to Search for EV Chargers on Google Maps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/twitter-status-update-is-twitch-experiencing-downtime-now/"><u>Twitter Status Update: Is Twitch Experiencing Downtime Now?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-creativity-with-these-top-4-free-cad-applications-no-cost-exceptional-value/"><u>Unlocking Creativity with These Top 4 Free CAD Applications – No Cost, Exceptional Value!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-apple-unveiling-keydates-latest-reports-and-exciting-leaks/"><u>Upcoming Apple Unveiling: Keydates, Latest Reports & Exciting Leaks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-audio-setup-integrating-samsung-soundbar-with-your-tv-system/"><u>Wireless Audio Setup: Integrating Samsung Soundbar with Your TV System</u></a></li>
+</ul></div>

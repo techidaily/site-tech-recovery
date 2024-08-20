@@ -1,7 +1,7 @@
 ---
 title: Step-By-Step Tutorial for Connecting Keyboard and Mouse to PS4 Gaming System
-date: 2024-08-14 23:21:29
-updated: 2024-08-16 12:20:19
+date: 2024-08-19T12:52:55.675Z
+updated: 2024-08-20T12:52:55.675Z
 tags:
   - win11
   - win10
@@ -76,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c4cb26bf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Likewise all manufacturers organize their BIOS settings their own way; there’s no standard way of doing it. So we can’t tell you exactly what setting to change, and how to find that setting. But once you’re in the BIOS, it shouldn’t be too hard to find the ‘on/off’ switch for your card reader. Just look for a section related to devices or storage, and within that section look for something like “SD Reader” or “Card Reader”. Enable that setting if it’s not already enabled, then save and exit the BIOS. (Be sure to save as you exit. Some manufacturers make it very easy to leave the BIOS without saving your changes, and if you do, you won’t have changed anything.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c7dcd812.jpg)
@@ -94,6 +97,11 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Method 5: Disable then enable card reader (from other users)
 
  Thanks Alan Darlington for sharing this method, which has worked for many users. So if your SD card is still not showing up on your PC, try this method.
@@ -112,6 +120,9 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-11-run-command-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Expand category “**Memory Technology Devices** “. Double-click the card reader (In Alan’s case, it’s RealteK PCIE CardaReader. In your case, it may be different.) to open
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
@@ -120,14 +131,23 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  5) When prompted to disable the device, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ---
 
  We hope these tips help you fix your unrecognized SD card problem. Please comment below if you have any questions or suggestions. We’re always happy to hear of new solutions!
@@ -146,3 +166,52 @@ If you’re not sure how to do that, refer steps below:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-best-12-screensavers-with-no-time-caps/"><u>[New] 2024 Approved  Best 12 Screensavers with No Time Caps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-keeping-it-real-in-the-rat-race-of-retweets-and-likes/"><u>[Updated] 2024 Approved  Keeping It Real in the Rat Race of Retweets and Likes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-classic-comedy-compilation-a-goofy-movie-review/"><u>[Updated] In 2024, Classic Comedy Compilation  A 'Goofy Movie' Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-potential-innovative-strategies-for-better-insta-content/"><u>[Updated] Unlocking Potential  Innovative Strategies for Better Insta Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-easy-underwater-film-making-top-7-hacks/"><u>2024 Approved  Mastering Easy Underwater Film-Making  Top 7 Hacks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-asus-rog-phone-7-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturereview-station/"><u>CaptureReview Station</u></a></li>
+<li><a href="https://win11.techidaily.com/check-physical-connections-make-sure-cables-are-firmly-connected-if-you-have-external-monitors-or-projectors-with-separate-brightness-controls/"><u>Check Physical Connections: Make Sure Cables Are Firmly Connected if You Have External Monitors or Projectors with Separate Brightness Controls</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-aether-insights-into-its-being-and-strategies-for-integration/"><u>Decoding Aether – Insights Into Its Being & Strategies for Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-the-digital-video-recorder-essential-information-you-need/"><u>Demystifying the Digital Video Recorder – Essential Information You Need</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detailed-steps-to-recover-or-replace-missing-file-d3dx927dll/"><u>Detailed Steps to Recover or Replace Missing File d3dx9_27.dll</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detailed-walkthrough-on-hooking-up-playstation-virtual-reality-to-a-computer-system/"><u>Detailed Walkthrough on Hooking Up PlayStation Virtual Reality to a Computer System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-official-iphones-handbooks-step-by-step-instructions-for-each-device-model/"><u>Download Official iPhones Handbooks - Step-by-Step Instructions for Each Device Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-resolving-the-problem-of-horizontal-lines-appearing-on-your-pc-screen/"><u>Expert Advice: Resolving the Problem of Horizontal Lines Appearing on Your PC Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/forced-restart-into-safe-mode-tips-for-windows-users/"><u>Forced Restart Into Safe Mode: Tips for Windows Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-wpt-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .wpt file electronically</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-code-31-errors-in-windows/"><u>How to Fix Code 31 Errors in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-causes-behind-missing-regedit-application/"><u>Identifying Causes Behind Missing Regedit Application</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-x50-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor X50 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-fixes-for-disabled-obs-fullscreen-mode/"><u>In 2024, Fixes for Disabled OBS Fullscreen Mode</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-15-pro-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 15 Pro and iPad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/making-the-switch-why-you-should-consider-ios-17-for-your-device/"><u>Making the Switch: Why You Should Consider iOS 17 for Your Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-picking-quality-tech-gear-for-students-a-complete-guide/"><u>Mastering the Art of Picking Quality Tech Gear for Students: A Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-installation-of-windows-11-on-new-drives-a-comprehensive-guide/"><u>Mastering the Installation of Windows 11 on New Drives: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-engagement-strategies-for-video-thumbnail-design-for-2024/"><u>Maximizing Engagement  Strategies for Video Thumbnail Design for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-immersive-experiences-key-distinctions-between-ar-vr-mr-and-xr/"><u>Navigating the World of Immersive Experiences: Key Distinctions Between AR, VR, MR & XR</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-guide-solutions-for-silencing-your-noisy-pc-cooling-system/"><u>Quick Guide: Solutions for Silencing Your Noisy PC Cooling System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/real-time-viewing-capturing-every-moment-of-the-2024-athens-games-online/"><u>Real-Time Viewing: Capturing Every Moment of the 2024 Athens Games Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamp-your-viewing-experience-the-ultimate-guide-to-samsung-tv-firmware-updates/"><u>Revamp Your Viewing Experience: The Ultimate Guide to Samsung TV Firmware Updates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-charging-build-an-inexpensive-animated-3d-printer-modeled-wireless-station-for-50-or-less-with-bambu-labs-innovation/"><u>Revolutionize Charging: Build an Inexpensive Animated, 3D-Printer Modeled Wireless Station for $50 or Less with Bambu Labs' Innovation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rewind-on-the-fly-ios-video-flip/"><u>Rewind on the Fly  IOS Video Flip</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumored-tesla-phone-info-estimated-retail-price-expected-debut-date-and-key-specifications/"><u>Rumored Tesla Phone Info: Estimated Retail Price, Expected Debut Date, and Key Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/statni-nakladatelstvi-knih-state-publishing-house/"><u>Státní Nakladatelství Knih (State Publishing House)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-solving-playback-problems-for-netflix-on-roku/"><u>Step-by-Step Guide: Solving Playback Problems for Netflix on Roku</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-how-to-factory-reset-a-samsung-soundbar/"><u>Step-by-Step Instructions on How to Factory Reset a Samsung Soundbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-correcting-d3dx933dll-error-messages-in-windows/"><u>Step-by-Step Tutorial: Correcting d3dx9_33.dll Error Messages in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tech-and-tales-a-world-of-gadgets-and-great-reads-unveiled/"><u>Tech & Tales: A World of Gadgets and Great Reads Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-perfect-sequence-to-enjoy-every-transformers-movie/"><u>The Perfect Sequence to Enjoy Every Transformers Movie</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-3-sites-to-find-free-realme-unlock-codes-to-unlock-your-realme-phone-by-drfone-android/"><u>Top 3 Sites to Find Free Realme Unlock Codes to Unlock Your Realme Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-twitch-chat-mysteries-unraveled-for-beginner-viewers/"><u>Top Twitch Chat Mysteries Unraveled for Beginner Viewers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trending-titles-explore-the-latest-blockbusters-on-disneyplus/"><u>Trending Titles: Explore the Latest Blockbusters on Disney+</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-solve-apple-watch-connection-issues-in-6-steps/"><u>Troubleshooting Tips: Solve Apple Watch Connection Issues in 6 Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-trustedinstaller-permissions-essential-tips-for-windows-11-users/"><u>Unlocking TrustedInstaller Permissions: Essential Tips for Windows 11 Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/webcam-video-production-record-edit-and-export-guide/"><u>Webcam Video Production  Record, Edit & Export Guide</u></a></li>
+</ul></div>

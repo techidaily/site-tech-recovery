@@ -1,0 +1,175 @@
+---
+title: The Green Myths and Realities Surrounding Electric Vehicles
+date: 2024-08-19T15:22:35.624Z
+updated: 2024-08-20T15:22:35.624Z
+categories:
+  - BestProducts
+description: This Article Describes The Green Myths and Realities Surrounding Electric Vehicles
+excerpt: This Article Describes The Green Myths and Realities Surrounding Electric Vehicles
+thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CO2emissions_deepblue4you_iStock_GettyImagesPlus-a764285e7161436ba098426e3096479e.jpg
+---
+
+## The Green Myths and Realities Surrounding Electric Vehicles
+
+ Electric vehicles technically don’t generate any carbon dioxide at all, so could they be the way to reduce or eliminate the harmful emissions the world is battling? Lets' clear the air then, and discuss a few different theories on the topic.
+
+##  The CO2 Problem Is Everywhere 
+
+ We’ve all heard of the climate crisis, with weather phenomena becoming ever more extreme and the damage caused to cities and entire countries. Carbon dioxide emissions, booming since the Industrial Revolution, have been inextricably linked to climate change, but the good news is that there are things we can all do about it. Reducing carbon dioxide (aka greenhouse gases) emissions is something every one of us can do, must do, and driving an electric vehicle is just one way to help save the planet.
+
+ In the U.S., the Environmental Protection Agency says that transportation related to the burning of fossil fuels accounts for 29 percent of the country’s greenhouse gas emissions. Worldwide, transportation is responsible for a quarter of carbon dioxide emissions, while a few cities even estimate that it’s the cause of more than half of their emissions problem. 
+
+###  Yes, Even Some EVs Can Generate Emissions 
+
+ Of course, there’s no such thing as a free lunch or, in this case, a free ride. Just because electric vehicles don’t have tailpipes doesn’t mean they are perfectly clean. In fact, electric vehicles actually generate more emissions during their construction than gasoline-powered cars due to the use of materials that must be mined and other manufacturing issues.
+
+ Transportation related to the burning of fossil fuels accounts for 29 percent of the country’s greenhouse gas emissions.
+
+ EV charging emissions are generated at local power plants as well; power plants that aren’t environmentally friendly can potentially reduce the green impact of any EV that must use electricity from them. 
+
+ Hybrid EVs, of course, can contribute plenty of emissions since most hybrids use some sort of fossil-fuel and electric combination for power, despite the fact those emissions can ultimately be less than those of gasoline powered cars. Still, even when those issues are factored in, EVs that run strictly on battery power seem to come out on top from a green perspective.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+##  How Green Is an EV in General? 
+
+ Overall, EVs are pretty green. It's a little tricky to compare them to cars that burn fossil fuels but not impossible.
+
+ When it comes to comparing vehicle emissions, particularly carbon dioxide, everyone’s accustomed to miles per gallon, and it’s easy to see how the amount of fuel a vehicle needs to get around is directly related to how much carbon dioxide it potentially generates. 
+
+ Let’s assume the average vehicle in the United States gets about 25 miles per gallon (mpg); that is, one gallon of gasoline fuel will let you drive 25 miles. As the gas burns, that single gallon releases about 20 pounds of carbon dioxide into the atmosphere.
+
+ If driving the average vehicle racks up about 13,500 miles per year, then each typical gasoline-powered vehicle is responsible for releasing over 11,000 pounds of carbon dioxide every year. That’s nearly 6 tons of greenhouse gases just for one car every year! 
+
+ In comparison, an EV technically produces no emissions itself_as it’s driven_ . Any EV can also generate emissions, of course, when local power grids are used to charge the vehicle. The U.S. Department of Energy has a[ handy emissions calculator](https://afdc.energy.gov/vehicles/electric%5Femissions.html) to help you see how sources of electricity in your local area have an effect on EV and gasoline-powered car emissions.
+
+ EV hybrid counterparts, which do use some gasoline processes, typically generate about half the emissions of a comparably-sized gasoline vehicle.
+
+ “Electric vehicles don’t use gallons of anything,” you might object, “so how can we compare fuel economy or emissions? It’s like comparing apples and bananas.” Okay, let’s find some kind of common ground then.
+
+ For apples and bananas, nutritionists can compare calories. For conventional vehicles and electric vehicles, experts compare energy content in kilowatt-hours (kWh). Once scientists determined a gallon of gasoline contains the same amount of energy as 33.7 kWh of electricity, the comparison became pretty simple. Using this bit of information, the Environmental Protection Agency (EPA) refers to electric vehicle_fuel economy_ in miles per gallon equivalent (mpge), which makes it much easier to compare conventional and electric vehicles.
+
+Bailey Mariner
+
+ For emissions, not strictly based on mpge, electric vehicles still shine nicely against gasoline vehicles. Experts say that, across the United States, the average 80-mpge electric vehicle generates just 2 tons of carbon dioxide per year, driving an average 11,500 miles. The emissions generated outside of actual driving depend entirely on whatever powers the grid wherever a driver charges their vehicle; that mix can vary from 100 percent renewable energy sources to 100 percent fossil fuels. 
+
+ If your part of the electric grid runs on hydroelectric, solar, or wind power, your electric vehicle will generate nearly zero emissions. If your grid is powered by coal, oil, or natural gas, on the other hand, your 80-mpge electric vehicle could potentially generate 4 tons of carbon dioxide annually. 
+
+ Given the fact that the average gasoline-powered vehicle generates those 6 tons of emissions on average annually, that still gives both EVs the edge when it comes to saving the planet.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+##  Some People Say Electric Vehicles are a Green Dream 
+
+ Even if electric vehicles do produce fewer carbon dioxide emissions than gasoline counterparts, the story isn’t all wine and roses. EVs are still cleaner than conventional vehicles, no matter how you lay out the deck, but there are some drawbacks for naysayers to call them just a green dream. Three key arguments give them their ammunition.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+###  Electric Vehicle Production Generates Higher Emissions 
+
+ It’s true that electric vehicles use some very special materials in their construction. Rare earth metals are required to build batteries, electric motors, and the electronics to control it all. Extracting cobalt, lithium, and neodymium is responsible for soil and water pollution. The miners of those materials, which sometimes include children, often go without basic protections. 
+
+ On the flip side, new processes and technology are in constant development, reducing the materials required or using them more efficiently. Responsible company policies are reducing the impact on man and planet day by day.  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+##  Electric Vehicles are Hard to Recycle 
+
+ Particularly in the electronics sector, recycling has always been a challenge, technologically and economically. Electric vehicle manufacturing practices and end-of-life recycling issues is only making things worse. 
+
+ As companies develop better manufacturing processes and recycling technology, however, recycling is becoming safer every day.
+
+[  Can EV Batteries be Replaced or Upgraded? ](https://www.lifewire.com/can-ev-batteries-be-replaced-or-upgraded-5201827) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##  Some Electric Vehicles Generate Higher Emissions 
+
+ Depending on the vehicle, it’s possible the least-efficient electric vehicle on the highest-emissions grid could produce carbon dioxide emissions that might indeed be higher than their conventional or hybrid counterparts. Some hybrid electric vehicles, too, could be a source of higher emissions for the same reasons. 
+
+ It’s not the norm, though. More and more grids are replacing or at least augmenting fossil fuels with renewable energy sources, improving emissions for thousands of vehicles at once.
+
+ Overall, because electric vehicle driving emissions are so low, higher manufacturing emissions are typically negated within a couple of years of production. By the time the average electric vehicle has been driven just 20,000 miles, it’s generated the same emissions as the average conventional vehicle, and the disparity between the two just gets wider after that.
+
+[  The Electric Grid Is Actually Cleaner Than You Think ](https://www.lifewire.com/the-electric-grid-is-actually-cleaner-than-you-think-5202010) 
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##  Can Electric Vehicles Save the Planet? 
+
+ Yes, electric vehicles can help save the planet, but only in the same way that eating a salad can help someone lose weight. Just like a balanced diet and exercise are critical to a healthy lifestyle, electric vehicles are just one important part of a broader approach to a healthy planet, right down to its inhabitants, no matter how many legs they have. 
+
+ Most critically, humans need to come to terms with the fact that the future cost of doing nothing now will eventually outweigh the cost of developing and implementing green technologies and processes today.
+
+ Electric vehicles, as clean as they are, still need broader infrastructure support to minimize emissions and improved adoption rates before they can truly make a meaningful impact. Carbon capture, grid-level storage, and the use of renewable energy sources will improve emissions by tens of thousands of electric vehicles at a time. Adding more public charging stations and requiring compatible wiring in new manufacturing, too, will make it easier for more people to use electric vehicles.
+
+ Aside from electric vehicles, other vehicle-related practices and choices can make a significant impact on emissions and climate change. Buying locally instead of ordering online reduces emissions related to shipping. Carpooling, carsharing, public transportation, or cycling to work or school can reduce emissions related to daily activities. Retrofitting cities with new forms of emission-free transportation, such as those found in micromobility trends, can have a significant impact on emissions when they help residents move around easier without resorting to fossil fuels.
+
+ Thanks to technological and infrastructure advances in the last decade, electric vehicles are far more accessible than many people think. Take stock of your own actual transportation needs and learn all you can about EVs. The chances are good you could add an electric vehicle into your life with very little change to your daily driving habits and contribute your own small part to save the planet.
+
+[  Can a Gasoline Vehicle Be Converted to an EV? ](https://www.lifewire.com/can-gasoline-vehicle-be-converted-to-ev-5202029) 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-full-guide-to-google-docs-speech-to-text-service/"><u>[New] Full Guide to Google Docs Speech to Text Service</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-thriving-in-the-facebook-ecosystem-money-making-strategies/"><u>[Updated] In 2024, Thriving in the Facebook Ecosystem  Money-Making Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-tagging-elevate-your-youtube-content/"><u>[Updated] Mastering Tagging  Elevate Your YouTube Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-photomod-editor-skills-review/"><u>[Updated] PhotoMod Editor Skills Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day-for-2024/"><u>[Updated] Ultimate Collection  20 Chuckle-Inducing Detention Cell Photos for a Better Day for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-seize-your-social-media-videos-top-extensions-and-downloaders-for-firefox/"><u>2024 Approved  Seize Your Social Media Videos! Top Extensions and Downloaders for Firefox</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unleashing-productivity-comprehensive-guide-to-recording-skype-conversations/"><u>2024 Approved  Unleashing Productivity  Comprehensive Guide to Recording Skype Conversations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/8-useful-tools-that-allow-you-to-pixelate-face-on-photos/"><u>8 Useful Tools That Allow You to Pixelate Face on Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-to-diagnose-and-fix-netflix-error-message-nw-1-19/"><u>Complete Guide to Diagnose & Fix Netflix Error Message – NW-1-19</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-walkthrough-disabling-the-you-might-also-like-this-section-in-instagram/"><u>Complete Walkthrough: Disabling the 'You Might Also Like This' Section in Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-understanding-everything-on-netflix/"><u>Comprehensive Guide: Understanding Everything on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crucial-factors-to-evaluate-when-choosing-the-right-smartwatch-for-you/"><u>Crucial Factors to Evaluate When Choosing the Right Smartwatch for You</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-troubleshooting-returning-your-samsung-tv-to-original-settings/"><u>Easy Troubleshooting: Returning Your Samsung TV to Original Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-how-to-take-a-screenshot-with-an-hp-computer/"><u>Easy Tutorial: How to Take a Screenshot with an HP Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-hacks-for-improved-tiktok-visuals/"><u>Expert Hacks for Improved TikTok Visuals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-current-chartbusters-on-disney-plus-streaming-service/"><u>Explore the Current Chartbusters on Disney Plus Streaming Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-aquatic-capabilities-of-apples-latest-smartphone-iphone-15-pro-max/"><u>Exploring the Aquatic Capabilities of Apple's Latest Smartphone, iPhone 15 Pro Max</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-wlanapidll-error-a-comprehensive-guide-for-windows-users/"><u>Fix WLANAPI.DLL Error: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968175752-get-the-latest-canon-device-drivers-installed-in-no-time-on-your-windows-computer/"><u>Get the Latest Canon Device Drivers Installed in No Time on Your Windows Computer!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-10t-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme 10T 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-hide-or-uninstall-the-built-in-news-feed-on-your-windows-11-desktop/"><u>How to Hide or Uninstall the Built-In News Feed on Your Windows 11 Desktop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-project-your-video-conference-onto-a-tv-setup-with-zoom/"><u>How To Project Your Video Conference Onto a TV Setup With Zoom</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-honor-90-gt-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Honor 90 GT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-excellent-ios-options-for-emulating-top-notch-psp-games/"><u>In 2024, Excellent iOS Options for Emulating Top-Notch PSP Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-on-leveraging-lg-channels-effectively/"><u>In-Depth Analysis on Leveraging LG Channels Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-amazon-prime-day-2024-every-detail-explained/"><u>Inside Scoop on Amazon Prime Day 2024: Every Detail Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-a-dac-necessary-uncovering-the-importance-of-audio-quality-enhancement-devices/"><u>Is a DAC Necessary? Uncovering the Importance of Audio Quality Enhancement Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-features-that-differentiate-home-theater-and-stereo-receivers-a-guide-to-making-an-informed-choice/"><u>Key Features That Differentiate Home Theater and Stereo Receivers – A Guide to Making an Informed Choice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-troubleshooting-a-user-friendly-guide-to-overcoming-bsod/"><u>Mastering Troubleshooting: A User-Friendly Guide to Overcoming BSOD</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-video-broadcasts-wirecast-and-its-allies/"><u>Mastering Video Broadcasts  Wirecast and Its Allies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/modernizing-the-papacy-understanding-pope-franciss-approach-to-using-email/"><u>Modernizing the Papacy? Understanding Pope Francis's Approach to Using Email</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-professional-audio-editing-essentials-top-10-software-solutions/"><u>New Professional Audio Editing Essentials Top 10 Software Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-stubborn-cddvd-drive-ejection-problems/"><u>Solving the Mystery of Stubborn CD/DVD Drive Ejection Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-history-and-transformation-of-ios-from-its-initial-launch-to-version-180/"><u>The Complete History and Transformation of iOS From Its Initial Launch to Version 18.0</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-correct-sequence-viewing-lord-of-the-rings-trilogy-step-by-step/"><u>The Correct Sequence: Viewing 'Lord of the Rings' Trilogy Step-by-Step</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-ten-screencasting-apps-for-modern-teachers-for-2024/"><u>Top Ten Screencasting Apps for Modern Teachers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-your-basement-screenings-with-online-content-access/"><u>Transforming Your Basement Screenings with Online Content Access</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Tips for Repairing the 'Application Couldn't Begin Properly' Issue with Error Code 0xC0000142
-date: 2024-08-14 11:28:14
-updated: 2024-08-16 10:57:24
+date: 2024-08-19T12:47:15.799Z
+updated: 2024-08-20T12:47:15.799Z
 tags:
   - win11
   - win10
@@ -82,12 +82,21 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### Fix 3: Repair system files
 
  The**0xc0000142 Error** blue screen of death error may be related to system files. When the system files were broken or corrupted, it may cause a Blue screen issue.
@@ -113,6 +122,9 @@ There are 2 ways to solve it. Here’s how:
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -127,6 +139,9 @@ There are 2 ways to solve it. Here’s how:
  3) Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  4) Restart your computer to check the blue screen issue is fixed or not.
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
@@ -145,6 +160,9 @@ There are 2 ways to solve it. Here’s how:
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -170,3 +188,54 @@ There are 2 ways to solve it. Here’s how:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-chucklecanvas-draw-hilarious-social-media-art/"><u>[New] ChuckleCanvas  Draw Hilarious Social Media Art</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-achieve-flawless-audio-googles-uploading-system/"><u>[Updated] 2024 Approved  Achieve Flawless Audio  Google's Uploading System</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-ad-profits-unveiled-how-much-do-creators-make-on-youtube-for-2024/"><u>[Updated] Ad Profits Unveiled  How Much Do Creators Make on Youtube for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>2024 Approved  The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/assessing-pc-velocity-how-swift-does-your-computer-need-to-operate-optimally/"><u>Assessing Pc Velocity: How Swift Does Your Computer Need to Operate Optimally?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/augment-communication-skills-expertly-selected-languages-apps/"><u>Augment Communication Skills: Expertly Selected Languages Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/blur-out-distractions-a-guide-to-enhancing-focus-with-google-meets-background-feature/"><u>Blur Out Distractions: A Guide to Enhancing Focus with Google Meet's Background Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bridge-the-gap-between-mobile-and-desktop-using-bluestacks-to-run-android-apps-in-windows-10/"><u>Bridge the Gap Between Mobile and Desktop: Using BlueStacks to Run Android Apps in Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/canon-camera-insights-for-stunning-time-lapse-vids/"><u>Canon Camera Insights for Stunning Time-Lapse Vids</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-apple-watch-series-9-analysis-the-ultimate-wearable-tech-evaluation/"><u>Comprehensive Apple Watch Series 9 Analysis: The Ultimate Wearable Tech Evaluation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-finest-graphic-design-tools-among-17-popular-picks/"><u>Discover the Finest Graphic Design Tools Among 17 Popular Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-effective-registry-optimizers-of-2024-complimentary-access-available/"><u>Discover the Most Effective Registry Optimizers of 2024 - Complimentary Access Available</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-the-latest-macos-a-comprehensive-guide-to-apples-operating-system-evolution/"><u>Discovering the Latest macOS: A Comprehensive Guide to Apple's Operating System Evolution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-the-for-you-tab-suggestions-in-instagram-easily/"><u>Eliminating the ‘For You’ Tab Suggestions in Instagram Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-how-to-correctly-address-the-phase0exception-code-stop-0x00000078/"><u>Expert Advice on How to Correctly Address the PHASE0_EXCEPTION Code: Stop 0X00000078</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-to-fully-delete-a-yahoo-email-identifier-permanently/"><u>Expert Strategies to Fully Delete a Yahoo Email Identifier Permanently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-selected-ideal-email-applications-for-your-iphone/"><u>Expertly Selected: Ideal Email Applications for Your iPhone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-updated-graphics-performance-on-amd-rx-570/"><u>Get Updated Graphics Performance on AMD RX 570</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-create-rules-in-gmail-for-almost-anything/"><u>How to Create Rules in Gmail for (Almost) Anything</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-moto-g14-by-fonelab-android-recover-music/"><u>How to recover old music from your Moto G14</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-verizon-is-shaping-the-new-era-of-wireless-technology-with-its-5g-network/"><u>How Verizon Is Shaping the New Era of Wireless Technology with Its 5G Network</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-software-repair-fixing-problems-when-apps-wont-launch-correctly/"><u>Mac Software Repair: Fixing Problems When Apps Won't Launch Correctly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-high-school-successfully-with-these-10-powerful-mobile-tools/"><u>Navigating High School Successfully with These 10 Powerful Mobile Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ordered-journey-through-x-men-cinematic-universe-a-step-by-step-guide/"><u>Ordered Journey Through X-Men Cinematic Universe: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-6-favorite-sites-for-free-kids-movies/"><u>Our 6 Favorite Sites for Free Kids' Movies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-a-broken-windows-10-search-functionality/"><u>Quick Fixes for a Broken Windows 10 Search Functionality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-switchable-graphics-issue-with-intelnvidia-win10-fixes/"><u>Resolving Switchable Graphics Issue with Intel/Nvidia Win10 Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-mystery-what-to-do-when-you-encounter-a-missing-msvcrt10dll-file/"><u>Resolving the Mystery: What to Do When You Encounter a Missing msvcrt10.dll File</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-tv-wont-start-heres-how-you-can-turn-the-situation-around/"><u>Roku TV Won't Start? Here's How You Can Turn the Situation Around!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915387399-say-goodbye-to-clutter-try-out-the-powerful-features-of-revo-uninstaller-pro-5-now/"><u>Say Goodbye to Clutter: Try Out the Powerful Features of Revo Uninstaller Pro 5 Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/setting-up-child-friendly-environments-a-guide-to-configuring-parental-controls-on-discord/"><u>Setting Up Child-Friendly Environments: A Guide to Configuring Parental Controls on Discord</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-troubleshooting-when-your-wii-console-cant-read-discs/"><u>Solving Common Issues: Troubleshooting When Your Wii Console Can't Read Discs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-vizio-smarttvs-wi-fi-connectivity-problems-with-ease/"><u>Solving Vizio SmartTV's Wi-Fi Connectivity Problems with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-navigating-ipados-upgrades-and-evolution/"><u>Step-by-Step Guide to Navigating iPadOS Upgrades and Evolution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-repairing-black-screen-problem-in-facetime-calls/"><u>Step-by-Step Solutions: Repairing Black Screen Problem in FaceTime Calls</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-walkthrough-to-implementing-copilot-into-microsoft-teams-operations/"><u>Step-by-Step Walkthrough to Implementing Copilot Into Microsoft Teams Operations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-restoring-missing-msvcr80dll-files/"><u>The Complete Guide to Restoring Missing Msvcr8#0dll Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-the-best-family-friendly-films-streaming-on-amazon-prime-video-this-july/"><u>Top Picks: The Best Family-Friendly Films Streaming on Amazon Prime Video This July</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-your-tv-into-a-personalized-tiktok-theatre-easy-methods-inside/"><u>Transform Your TV Into A Personalized TikTok Theatre – Easy Methods Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trouble-with-aol-email-determining-if-the-service-is-down-or-user-issues/"><u>Trouble with AOL Email? Determining if the Service Is Down or User Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-contacting-snapchat-assistance-for-users/"><u>Ultimate Guide to Contacting Snapchat Assistance for Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-bose-soundlink-speaker-pairing/"><u>Ultimate Guide: Mastering the Art of Bose Soundlink Speaker Pairing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-strategies-for-pokemon-unite-newbies/"><u>Ultimate Strategies for Pokémon Unite Newbies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveil-hidden-files-in-macos-a-comprehensive-guide-using-terminal-techniques/"><u>Unveil Hidden Files in macOS: A Comprehensive Guide Using Terminal Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-elite-auto-clicker-software-top-5-choices-for-android-users/"><u>Unveiling the Elite Auto-Clicker Software: Top 5 Choices for Android Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-was-the-journey-behind-netflixs-revolutionary-dvd-subscription-service/"><u>What Was the Journey Behind Netflix's Revolutionary DVD Subscription Service?</u></a></li>
+</ul></div>

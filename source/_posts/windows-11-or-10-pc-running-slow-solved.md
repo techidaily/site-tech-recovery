@@ -1,7 +1,7 @@
 ---
 title: Windows 11 or 10 PC Running Slow [SOLVED]
-date: 2024-08-15 17:11:46
-updated: 2024-08-16 10:10:48
+date: 2024-08-19T12:54:50.578Z
+updated: 2024-08-20T12:54:50.578Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### Fix 1: Run the Windows Update Troubleshooter
 
  The Update troubleshooter is a Windows built-in utility that can help resolve common issues with downloading and installing Windows updates.
@@ -68,12 +71,18 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-149.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 **2)** Click the**Startup** tab. Then, right-click the program you want to prevent it from opening on startup and select**Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-148.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ---
 
 ### Fix 3: Restart the Windows Update service
@@ -90,6 +99,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 Restart your PC to test the issue.
 
 If your problem persists, then move on to the next fix.
@@ -112,6 +124,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
@@ -122,6 +137,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
  This could help free up lots of space if you have many unused programs on your computer.
 
 #### Free up your space with the Disk Cleanup tool
@@ -164,6 +182,9 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-158.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
@@ -194,22 +215,34 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 **3)** Type**sfc.exe /scannow** , then press the**Enter** key on your keyboard.
 
  This process could take a little while. Please wait for it to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If running the System File Checker didn’t help resolve your problem, try using the DISM tool to update your system files and correct your problem.
 
 #### Run the DISM command tool
@@ -222,16 +255,25 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 **4)** Type**dism.exe /online /cleanup-image /restorehealth** , then press the**Enter** key on your keyboard.
 
  This could take several minutes. Wait for the DISM tool to update your system files automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **5)** Now, perform a Windows update to see if this fixed your problem.
 
  Hopefully, you would find this article useful and easy to follow. Feel free to leave a comment below if you have any suggestions and questions.
@@ -253,3 +295,46 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-deciphering-the-block-code-on-snapchat/"><u>[New] 2024 Approved  Deciphering the Block Code on Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-compiling-the-finest-ios-psp-game-tools-1-5-for-2024/"><u>[New] Compiling the Finest iOS PSP Game Tools #1-5 for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-cutting-edge-video-creation-ideal-mac-settings-for-snapchat/"><u>[New] Cutting Edge Video Creation  Ideal Mac Settings for Snapchat</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-essential-hash-monitors-for-facebook-twitter-instagram/"><u>[New] In 2024, Essential Hash Monitors for Facebook, Twitter, Instagram</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-incorporating-apples-siri-into-tiktok/"><u>[New] In 2024, The Ultimate Guide to Incorporating Apple's Siri Into TikTok</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-journey-to-crafting-a-unique-alphanumeric-marker-for-tiktok-for-2024/"><u>[New] Journey to Crafting a Unique Alphanumeric Marker for TikTok for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ound-savings-guide-youtubers-selection-of-affordable-mics-for-2024/"><u>[New] Sound Savings Guide  Youtuber's Selection of Affordable Mics for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-optimizing-ad-reach-on-social-medias-leading-platform/"><u>[Updated] Optimizing Ad Reach on Social Media's Leading Platform</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-intuitive-mac-videographer-plus-voice-support/"><u>2024 Approved  Intuitive Mac Videographer + Voice Support</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-lead-the-way-in-streaming-your-guide-to-youtubes-full-sphere-video-trends/"><u>2024 Approved  Lead the Way in Streaming  Your Guide to YouTube's Full-Sphere Video Trends</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/4-best-free-online-calendars/"><u>4 Best Free Online Calendars</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-buyers-checklist-selecting-a-high-quality-projector-that-meets-your-needs/"><u>A Buyer's Checklist: Selecting a High-Quality Projector That Meets Your Needs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-citations-made-easy-tips-for-proper-attribution/"><u>ChatGPT Citations Made Easy: Tips for Proper Attribution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cost-effective-comfort-premium-tech-pleasures-that-wont-break-the-bank/"><u>Cost-Effective Comfort: Premium Tech Pleasures That Won't Break the Bank</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-bass-controls-a-deep-dive-into-the-mechanics-of-bass-management/"><u>Demystifying Bass Controls: A Deep Dive Into the Mechanics of Bass Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-picked-selection-of-top-free-virus-detectors-of-this-year/"><u>Explore Our Picked Selection of Top Free Virus Detectors of This Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hosting-a-memorable-at-home-karaoke-bash-a-step-by-step-guide/"><u>Hosting a Memorable At-Home Karaoke Bash: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-achieve-viral-success-on-youtube-a-comprehensive-8-point-plan/"><u>How to Achieve Viral Success on YouTube: A Comprehensive 8-Point Plan</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-chat-in-mozilla-thunderbird/"><u>How to Chat in Mozilla Thunderbird</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-send-hardcopies-directly-to-your-computer-screen-a-guide/"><u>How to Effectively Send Hardcopies Directly to Your Computer Screen: A Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-gt-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme GT 5 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>In 2024, How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-12-pro-max-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 12 Pro Max Is Unlocked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-digital-tv-signal-enhancement-with-effective-in-house-antennas/"><u>Master the Art of Digital TV Signal Enhancement with Effective In-House Antennas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-email-management-linking-gmail-account-with-apple-watch/"><u>Mastering Email Management: Linking Gmail Account with Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-editing-tips-for-perfectly-resizing-pictures-for-instagram/"><u>Mastering the Art of Image Editing: Tips for Perfectly Resizing Pictures for Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-ethernet-options-how-does-cat5-cable-stack-up-against-cat6/"><u>Navigating Ethernet Options: How Does Cat5 Cable Stack Up Against Cat6?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolve-kernel32dll-errors-swiftly-techniques-and-tips-for-windows-users/"><u>Resolve Kernel32.dll Errors Swiftly: Techniques and Tips for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverse-c-drive-data-hoarding-in-windows-systems/"><u>Reverse C: Drive Data Hoarding in Windows Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smart-strategies-achieving-advertising-excellence/"><u>Smart Strategies  Achieving Advertising Excellence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-a-step-by-step-guide-on-addressing-hulu-error-code-rununk13/"><u>Solving the Mystery: A Step-by-Step Guide on Addressing Hulu Error Code RUNUNK13</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-fixing-a-vizio-tvs-lost-wi-fi-link/"><u>Step-by-Step Solution for Fixing a Vizio TV's Lost Wi-Fi Link</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-x100-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo X100 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-cutting-edge-ipad-lineup-exploring-apples-latest-innovation/"><u>The Cutting-Edge iPad Lineup: Exploring Apple’s Latest Innovation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-choosing-top-cable-and-router-duos/"><u>The Ultimate Guide to Choosing Top Cable and Router Duos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-confusing-aspects-of-twitch-chat-explained-for-new-streamers/"><u>Top Confusing Aspects of Twitch Chat Explained for New Streamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-the-causes-and-solutions-to-avcodecdll-errors-that-keep-you-from-using-software-seamlessly/"><u>Uncover the Causes and Solutions to avcodec.dll Errors That Keep You From Using Software Seamlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-of-packet-travel-the-ultimate-tutorial-for-executing-tracert-in-windows-environments/"><u>Unveiling the Secrets of Packet Travel: The Ultimate Tutorial for Executing Tracert in Windows Environments</u></a></li>
+</ul></div>

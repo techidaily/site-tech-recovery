@@ -1,0 +1,166 @@
+---
+title: Ultimate Shopping Guide to Gamifying Your Child's Day with Consoles & Add-Ons
+date: 2024-08-19T15:22:09.019Z
+updated: 2024-08-20T15:22:09.019Z
+categories:
+  - BestProducts
+description: This Article Describes Ultimate Shopping Guide to Gamifying Your Child's Day with Consoles & Add-Ons
+excerpt: This Article Describes Ultimate Shopping Guide to Gamifying Your Child's Day with Consoles & Add-Ons
+thumbnail: https://www.lifewire.com/thmb/R-BEfO6OZsIqrsj29tLJXEv1Wbg=/300x200/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1372111529-f0c3f175f8b14fdbbc7ecf33e125848e.jpg
+---
+
+## Slash Costs on Your School Tech: The Ultimate Trick for Scooping Up Dell's Student Savings
+### What to Know
+
+* Go to the UNiDAYS website > select**Menu** \>**Join Now** \> set up your account >**Join Now** and enter your school info.
+* Find the Dell offer, and select**Redeem Online** \>**Redeem Code** \> copy the code >**Launch Website** .
+* Enter your code at checkout.
+
+ This article explains how to take advantage of Dell's student discount program through UNiDAYS and save yourself about 10 percent on your purchase of a Dell laptop for school.
+
+[How to Get the Dell Military Discount](https://www.lifewire.com/dell-military-discount-5119182)
+
+## How to Sign Up for the Dell Student Discount
+
+ Here's how to get set up with UNiDAYS so you can take advantage of the Dell student discount:
+
+1. Navigate to the[UNiDAYS website](https://www.myunidays.com/US/en-US) and select the menu icon indicated by three horizontal lines (**≡** ).  
+![The More menu on the Dell site](https://www.lifewire.com/thmb/iRBSbijAwd_xuFqJVcVraGBYT64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-dell-student-discount-4686335-829147eb5af94f2fadcf1c028049dbfd.jpg)
+2. Select**Join now** .  
+![The Join Now button](https://www.lifewire.com/thmb/mhaCUA5fDltGefzG805lHQiuY2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-dell-student-discount-4686335-90ee14273a1f4bbb994914b59e4f1615.jpg)
+3. Enter your email address, choose a password, then select**Join now** .  
+![A screenshot of Unidays.](https://www.lifewire.com/thmb/Zld2fuMr3eQZQqJlraNVI2T_tbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays1-e239f02eff234f7ba45724f722b18638.JPG)
+4. Enter your school information, then select**Continue** .  
+![A screenshot of the Unidays sign up process.](https://www.lifewire.com/thmb/7K0kVXrnI49EKcO66eJsPsLhrcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays2-ce804ce49a8d44f09fb00f328958f3dc.JPG)
+5. Follow the on-screen prompts to complete your verification process. If you aren't able to verify automatically, or if your school isn't listed, contact UNiDAYS to manually verify your account.  
+ UNiDAYS partners with a lot of major brands, including Apple, so signing up will provide you with a lot of discounts beyond just Dell.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Use Your Dell Student Discount
+
+ The Dell student discount uses UNiDAYS to generate single-use coupon codes. To take advantage of this, you need to use UNiDAYS to generate a code, then apply the code in your Dell shopping cart.
+
+ Here's how the process works:
+
+1. Navigate to the UNiDAYS website, locate a Dell offer, and select**Redeem Online** .  
+ If you don't see a Dell deal, try entering Dell into the search field.  
+![The Redeem Online button](https://www.lifewire.com/thmb/Vow8xBAfY4hXPmMBojDj2t4Mn20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-dell-student-discount-4686335-e43e1b733ce347fbb0eb56898de05ad5.jpg)
+2. Select**Redeem Code** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+![A screenshot of the Unidays Dell discount.](https://www.lifewire.com/thmb/dukIQ5HI1HxABy3YO6Hr7yFb-jQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidaysdell2-3baec4ecbd1249e881c3d8761fda43d1.jpg)
+3. Copy your code, and select**Launch Website** .  
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ This code only works once, and it expires after a short amount of time.  
+![The code field and Launch Website button](https://www.lifewire.com/thmb/4fBRfT7u0MHWjuei9jQVA_cB9UQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-dell-student-discount-4686335-540f566a5b1745848e8b2b86662e3959.jpg)
+4. On the Dell website, locate a laptop or desktop that you want to buy. When you reach the checkout page, enter your coupon code and verify your discount.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If the discount doesn't apply, try generating a new code. If that doesn't work, contact UNiDAYS for additional support.
+
+## Who is Eligible For the Dell Student Discount?
+
+ UNiDAYS has a couple of requirements that you need to meet if you want to take advantage of their Dell student discount codes. To qualify for this discount, you must be:
+
+* Over 16 years old.
+* Currently enrolled at a college or university.
+* Access to either a[.edu email](https://www.lifewire.com/how-to-get-an-edu-email-4628279) issued by your school, or a credit card style student ID from your school.
+
+ Parents can't sign up for their children, so students younger than 17 are unable to use this discount even if they are enrolled at a qualifying school.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+## What Does the Dell Student Discount Get You?
+
+ The Dell student discount typically provides a 10 percent discount on Dell products, in addition to whatever other deals Dell may be running at the time. This amount can change, so make sure to check UNiDAYS to see what the current offer is before making a decision.
+
+ Coupon codes are generated through UNiDAYS and then applied in the shopping cart on Dell's site after verifying that you are a student. That means you will not see the discount reflected in prices on the Dell website prior to checkout.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How Does Dell Verify Student Enrollment?
+
+ Dell student discount coupon codes are available through UNiDAYS, which verifies your enrollment as a student. This service is able to verify enrollment at most four-year universities and colleges, and manual verification is available for many schools that aren't already in the system.
+
+ This same service is used by many other big companies, so signing up once can grant you access to a variety of student discounts from companies other than Dell.
+
+[How to Get the Best Buy Student Discount](https://www.lifewire.com/best-buy-student-discount-4684485)
+
+ FAQ
+
+* How do I get a Dell teacher discount?  
+ Dell doesn't directly offer discounts to educators, but some retailers do. Check with your school district for locally available deals.
+* How much is the Dell employee discount?  
+ Dell employee discounts vary depending on the product and the time of year. In addition to discounts on select products, employees often get first dibs on holiday sales.
+* How do I get a Lenovo student discount?  
+ To get a[Lenovo student discount](https://www.lifewire.com/lenovo-student-discount-4686110) , sign up for an ID.me account to verify your enrollment. When you check out and buy your items, enter your ID.me information, and Lenovo provides you with a discount.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-achieving-youtube-mastery-with-effective-use-of-creator-studio-tools/"><u>[New] 2024 Approved  Achieving YouTube Mastery with Effective Use of Creator Studio Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-loom-downloader-how-to-loom-screen-record-for-2024/"><u>[New] Loom Downloader - How to Loom Screen Record for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-webcamskills-beginnersrecordingtutorial-for-2024/"><u>[New] WebcamSkills  Beginner'sRecordingTutorial for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-experts-pathway-transforming-sdr-footage-into-hdri/"><u>[Updated] The Expert's Pathway  Transforming SDR Footage Into HDRI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-uavs-the-basics-of-drone-operations/"><u>2024 Approved  Unveiling UAVs  The Basics of Drone Operations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-to-reconfigure-your-facebook-sign-in-credentials-the-password-update-process/"><u>A Step-by-Step Guide to Reconfigure Your Facebook Sign In Credentials – The Password Update Process</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-os-specific-drivers-update-with-ease-windows-10-81-7/"><u>Accelerate OS-Specific Drivers Update with Ease: Windows 10, 8.1, 7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/acquiring-safe-gratis-vlc-media-player-on-macos-systems-for-2024/"><u>Acquiring Safe, Gratis VLC Media Player on macOS Systems for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-walkthrough-installing-windows-11-onto-a-brand-new-ssdhdd/"><u>Complete Walkthrough: Installing Windows 11 Onto a Brand New SSD/HDD</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-confirmation-signs-that-indicate-receipt-of-your-sms/"><u>Deciphering Confirmation: Signs That Indicate Receipt of Your SMS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-resolving-the-haldll-file-absence-on-windows-xp-computers/"><u>Diagnosing and Resolving the Hal.dll File Absence on Windows XP Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correct-the-resource-missing-error-on-your-site-and-prevent-future-occurrences/"><u>How to Correct the Resource Missing Error on Your Site & Prevent Future Occurrences</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-safely-charge-your-electric-vehicle-ev-from-the-comfort-of-your-own-home/"><u>How to Safely Charge Your Electric Vehicle (EV) From the Comfort of Your Own Home</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/imessage-for-android-heres-how-you-can-achieve-it/"><u>IMessage for Android? Here's How You Can Achieve It!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-work-with-microsoft-word-at-no-charge-heres-what-you-need-to-know/"><u>Is It Possible to Work with Microsoft Word at No Charge? Here's What You Need to Know!</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-motorola-edge-40-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Motorola Edge 40 on Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-tasks-on-ios-the-best-18-shortcut-applications/"><u>Streamline Tasks on iOS: The Best 18 Shortcut Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-apple-watch-series-8-unveiled-detailed-guide-on-release-timeline-features-costs-and-latest-updates/"><u>The Apple Watch Series 8 Unveiled: Detailed Guide on Release Timeline, Features, Costs & Latest Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-basics-of-internet-integration-with-your-television/"><u>The Basics of Internet Integration with Your Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-10-free-email-services-to-upgrade-your-digital-correspondence/"><u>The Best 10 Free Email Services to Upgrade Your Digital Correspondence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-collection-of-the-11-most-uplifting-movies-for-a-positive-mindset/"><u>The Definitive Collection of the 11 Most Uplifting Movies for a Positive Mindset</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-delving-into-forthcoming-details-about-google-pixel-10s-release-timeline-and-tech-specs/"><u>The Next Big Thing? Delving Into Forthcoming Details About Google Pixel 10'S Release Timeline and Tech Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-disposing-of-unwanted-mac-apps-safely/"><u>The Ultimate Tutorial: Disposing of Unwanted Mac Apps Safely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-12-best-free-voip-apps/"><u>Top 12 Best Free VoIP Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-32-complimentary-data-safety-solutions-a-thorough-compilation-and-assessment/"><u>Top 32 Complimentary Data Safety Solutions: A Thorough Compilation & Assessment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-metas-revolutionary-approach-to-artifice-intellect/"><u>Understanding Meta's Revolutionary Approach to Artifice Intellect</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-meta-quest-3-mini-headset-what-to-expect-in-costs-release-date-and-features-according-to-rumors/"><u>Upcoming Meta Quest 3 Mini Headset - What to Expect in Costs, Release Date & Features According to Rumors</u></a></li>
+</ul></div>
