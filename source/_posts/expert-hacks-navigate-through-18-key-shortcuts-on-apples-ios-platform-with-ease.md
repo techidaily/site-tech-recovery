@@ -1,0 +1,479 @@
+---
+title: "Expert Hacks: Navigate Through 18 Key Shortcuts on Apple's iOS Platform with Ease"
+date: 2024-08-26T08:20:33.966Z
+updated: 2024-08-27T08:20:33.966Z
+categories:
+  - BestProducts
+description: "This Article Describes Expert Hacks: Navigate Through 18 Key Shortcuts on Apple's iOS Platform with Ease"
+excerpt: "This Article Describes Expert Hacks: Navigate Through 18 Key Shortcuts on Apple's iOS Platform with Ease"
+thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg
+---
+
+## Expert Hacks: Navigate Through 18 Key Shortcuts on Apple's iOS Platform with Ease
+
+Close 
+
+[ Shortcuts](https://apps.apple.com/app/workflow-powerful-automation/id915249334) (previously called Workflow) is a free app for iOS devices that runs complicated tasks. They can be custom-made or premade and tap into many areas of the device.
+
+ Each function the app supports is an action that performs a specific task, and you can combine multiple actions into one task. The Shortcuts app is most helpful when it runs several behind-the-scenes jobs to do something complex.
+
+ Information in this article applies to the Shortcuts app for iPhone, iPad, iPod touch, and Apple Watch.
+
+## How to Install Shortcuts 
+
+ Some of the shortcuts listed below are custom-made and aren't found in the Gallery section of the app. Here's how to get these onto your phone or tablet:
+
+1. Open the**Get This Shortcut** link provided below.
+2. Choose **Add Shortcut** or, in some cases,**Add Untrusted Shortcut** when prompted.
+
+ If an error appears when opening a shortcut, the device is set to download them only from the Gallery. Homemade shortcuts are considered unsafe.
+
+ To use untrusted shortcuts, select a shortcut from the**Gallery** section of the app and run it at least once. Then, go to the**Settings** app, select**Shortcuts** \>**Advanced** \> and tap the button next to**Allow Running Scripts** .
+
+## Using the Shortcuts App 
+
+ You can[ enable the Shortcuts widget](https://support.apple.com/guide/shortcuts/run-shortcuts-from-the-home-screen-widget-apd029b36d05/ios) if you want easy access to one or more shortcuts from the widget area. Others are ideal for Apple Watch, when using the action menu (like when you share something), or as a home screen shortcut.
+
+ To launch one with[ Siri](https://www.lifewire.com/what-is-siri-help-1994303) , record a phrase that Siri understands as instructions to launch a specific workflow. Learn[ how to use Siri Shortcuts](https://www.lifewire.com/siri-shortcuts-4172375) for help.
+
+ Most shortcuts can be set up to run from any of these areas. The descriptions below call out which type of shortcut is best for each of these tasks.
+
+01
+
+of 18
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## [ Get Instant Directions to Your Next Calendar Event](https://www.icloud.com/shortcuts/cc9ae260917142129fda96eb02d8775d) 
+
+![iOS shortcut that shows directions to your next calendar event](https://www.lifewire.com/thmb/M9YHqSDoD58EO3d2-VVAKwYK-d8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/instant-directions-ios-shortcut-5beae235c9e77c00514c16cd.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If a location is attached to your calendar events, this shortcut opens your favorite navigation app and shows how to get to your destination and how long it will take.
+
+[  The 5 Best GPS Apps for iPhone of 2024 ](https://www.lifewire.com/iphone-gps-navigation-apps-1683498) 
+
+ When you open this shortcut, not only can you choose which event to navigate to but you can also customize the settings to make it fit you and your events.
+
+ For example, display events that start anywhere from seconds away from the current time to years in the future, change the map mode to driving or walking, only query events that are not all day long, and set the GPS app to use for navigation.
+
+ This shortcut is great for the Apple Watch, iPhone, and iPad. Set it up as a quick-access button by putting the shortcut on your home screen, making it a widget, or viewing it from your Apple Watch.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/cc9ae260917142129fda96eb02d8775d) 
+
+02
+
+of 18
+
+## [ Send a 'Running Late' Text Regarding a Calendar Event](https://www.icloud.com/shortcuts/a4512a8453b24a9b98064739ef994e0e) 
+
+![Running Late iOS shortcut](https://www.lifewire.com/thmb/ktBdgxHzDG3IuYCpuXsmEjTYQ-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/running-late-text-ios-shortcut-5beaff07c9e77c0051366879.png) 
+
+ If you're sometimes late to events, this Running Late shortcut will save you time and let someone know that you won't be there on time. When you run this shortcut, it finds the next upcoming event you're late to and sends a text that says this:
+
+
+ Running a little late to <event>! Be there in <time it takes to drive to event>.
+
+ For example, if you're late to a hockey game, the message says, "Running a little late to hockey! Be there in 35 minutes_._ "
+
+ By default, this workflow works as described above. However, you can make several changes to customize how it works with your events (which ones it finds) and what the message says (any of the text can be changed), whether a contact should be preloaded into the compose box, and what app to send the message through (e.g., email or[ WhatsApp](https://www.lifewire.com/what-is-whatsapp-all-about-4781062) ).
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/a4512a8453b24a9b98064739ef994e0e) 
+
+03
+
+of 18
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+## [ Download YouTube Videos](https://www.icloud.com/shortcuts/814010eed14b425ab4070f2ff02e25a7) 
+
+![Screenshot of the JAYD YouTube downloader iOS shortcut](https://www.lifewire.com/thmb/gISNRJp47d3fuu4QuOIXlJR6tDc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jayd-ipad-youtube-downloader-shortcut-656a41cf26ae4033a8403630a494f6c9.jpg) 
+
+ Save your favorite YouTube videos with this shortcut. Just share the video's[ URL](https://www.lifewire.com/what-is-a-url-2626035) to the**JAYD** shortcut to start the download. You can choose where to save it and whether to convert the video to audio only.
+
+ Unlike every other shortcut in this list, this one is paired with another app, so you'll also need the free[ Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188?ign-mpt=uo%3D4) app installed.
+
+ Downloading YouTube videos is legal only if you own the video or if it's in the public domain.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/814010eed14b425ab4070f2ff02e25a7) 
+
+04
+
+of 18
+
+## [ Quickly Find and Copy GIFs](https://www.icloud.com/shortcuts/7f079959b38b46f7ad20eb2f87cd7a23) 
+
+![iOS shortcut using Giphy to locate GIF files](https://www.lifewire.com/thmb/5SDcmMbljSIdC9U2g8-n4v-UP3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/get-gif-shortcut-iphone-5beb166046e0fb00515190c7-23d34d577c664e15a7559e984144e3c7.jpg) 
+
+ If your[ messaging app](https://www.lifewire.com/best-mobile-messaging-apps-2654839) doesn't support a GIF gallery, this Get GIF shortcut is a good alternative.
+
+ Use this iOS shortcut as a widget or home screen shortcut. Tap it to browse GIFs, choose one to copy it to the clipboard, then send it in any app.
+
+ If you leave the search box empty, you'll get trending GIFs instead.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/7f079959b38b46f7ad20eb2f87cd7a23) 
+
+05
+
+of 18
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+## [ Instantly Find the Travel Time to Any Address](https://www.icloud.com/shortcuts/ff987bcf0ad746d496415d7f4c75a872) 
+
+![iOS shortcut showing how long it takes to travel to a destination](https://www.lifewire.com/thmb/z7B-G3lHyodoJT7JGuuOKPshQH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/travel-time-to-address-ios-shortcut-5beaee8e46e0fb005126e93b.png) 
+
+ With this shortcut, you don't need to open an address in a GPS app to see how long it will take to get to a destination. Share the address with this shortcut to receive an alert with the time to get there. If you want to start navigating there, you're given that option.
+
+ This shortcut is best used as an action extension so that you can highlight an address and tap **Share** to get the travel information. To enable this in the shortcut settings, select**Show in Share Sheet** .
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/ff987bcf0ad746d496415d7f4c75a872) 
+
+06
+
+of 18
+
+## [ Delete the Last Photo Saved to Your Device](https://www.icloud.com/shortcuts/3d3143f8693347c89314e0058336009b) 
+
+![iOS shortcut to delete the last photo on the device](https://www.lifewire.com/thmb/LPczoz-QjpdkW6pxhJIvOQRedMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-last-photo-ios-shortcut-5beaf681c9e77c0052186293.png) 
+
+ If you take temporary screenshots or delete blurry pictures, this shortcut makes it easy to delete recent photos rather than having to open the Photos app.
+
+ Make this a widget so that you can use it from the home screen or notification area, and then tap it once to be prompted to delete the last photo that was saved. Keep using it to remove recently added images.
+
+ For example, tap it once to delete the most recent picture, then tap it again to delete the _new_ most recent picture, and so on. You can also customize the picture count to be even more, like 10 at once, and include or exclude screenshots.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/3d3143f8693347c89314e0058336009b) 
+
+07
+
+of 18
+
+## [ Get Directions to the Nearest Gas Station (or Anything Else)](https://www.icloud.com/shortcuts/7522d196308141548f0c01c82abb5329) 
+
+![iOS shortcut that helps you find pizza, gas, or anything else](https://www.lifewire.com/thmb/MRyCmcOAhFjceGBYMpyNSNEKadY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/find-nearby-gas-station-ios-shortcut-882abad8ae1a4a1b917b0235fcce65b0.jpg) 
+
+ If you're low on gas, don't waste time by opening a map and searching for nearby convenience stores. Use this shortcut as a widget or home screen shortcut to find the closest gas station and get directions. You can customize the distance of the gas stations that are suggested as well as which map app to use.
+
+ This shortcut finds more than gas stations. Change it to locate hotels, restaurants, parks, museums, or any other place you find yourself always searching for. Edit the shortcut and change**gas** to wherever you want, or choose**Ask Each Time** so that you're prompted when you run the shortcut.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/7522d196308141548f0c01c82abb5329) 
+
+08
+
+of 18
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+## [ Calculate a Tip With a Custom Percentage](https://www.icloud.com/shortcuts/cf628c99a84246d69fd2aed4df9362d2) 
+
+![Tip calculator shortcut on an iPhone](https://www.lifewire.com/thmb/Mie8PzVuSRSjGrUIC-SBMKEqM5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tip-ios-shortcut-503882ec0a204a75998e4ef402987a4e.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
+ It's best to have the tip calculations ready when it's time to pay for your meal. This shortcut does the math for you, including the amount of the tip and the total bill with the tip amount.
+
+ When you launch this shortcut, enter the amount of the bill and the tip percentage. The tip amount and total price are displayed separately. 
+
+[ The 7 Best Calculator Apps ](https://www.lifewire.com/best-calculator-apps-4172765) 
+
+ This shortcut is fully customizable from the tip percentage to the number of decimal places to calculate. Modify the options to include a smaller or larger tip percentage and customize the final alert box.
+
+ The Calculate Tip shortcut works with any device, including Apple Watch, iPhone, iPad, and iPod touch. Make it a widget for easy access.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/cf628c99a84246d69fd2aed4df9362d2) 
+
+09
+
+of 18
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## [ Make a Photo Collage](https://www.icloud.com/shortcuts/f4bc9d5b0473402dab45605bc335b538) 
+
+![Photo Grid iOS shortcut on an iPhone or iPad](https://www.lifewire.com/thmb/kpCJBPtBUSEx-qSVITGZLOelmI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photogrid-collage-ios-shortcut-5beaeb6cc9e77c0051b6bcd6.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+ The Photo Grid shortcut is an example of how advanced the Shortcuts app can be while making user input as simple as a few taps.
+
+ When you open it, choose the images to include in the collage. Everything else happens automatically to display a collage of your photos. You can then save it or share it with your friends.
+
+ If you want it to do something else with the collage instead of showing the picture, remove **Quick Look** at the end and add a different action.
+
+ For example, choose**Save to Photo Album** to save the image without asking what to do with it. Select**Send Message** to open a new text message window with the collage inserted into the body.
+
+[ 9 Best Free Photo Collage Makers ](https://www.lifewire.com/free-photo-collage-makers-1357015) 
+
+ Don't edit much of this shortcut. It contains if/then statements and variables that shouldn't be modified.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/f4bc9d5b0473402dab45605bc335b538) 
+
+10
+
+of 18
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## [ Open Your Favorite Music Playlist in One Tap](https://www.icloud.com/shortcuts/cdf116d34daa4d0386e4d4592b76632f) 
+
+![iOS shortcut for iPhones and Apple Watch that lets you instantly play any playlist from Apple Music](https://www.lifewire.com/thmb/oYpFDQNdA9rwDrZIefaAWmutCKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/play-playlist-shortcut-iphone-5beb00aa46e0fb0026e86511.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+ Use the Play Playlist shortcut to start your favorite playlist whenever you want, from wherever you want, with one tap. You'll no longer need to stop your workout to open the Apple Music app or navigate your Apple Watch to open the playlist.
+
+ This shortcut asks you which playlist to play when you open it. You can also enable shuffle and repeat. Unlike some shortcuts, this one doesn't display alerts or prompts asking you for anything (unless you want it to). All you do is customize the shortcut and your music plays instantly when you open it.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/cdf116d34daa4d0386e4d4592b76632f) 
+
+11
+
+of 18
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+##  Make GIFs With Your iPhone or iPad 
+
+![Video to GIF iPhone workflow](https://www.lifewire.com/thmb/lw4qe93vQY1ng0cH4pXJNbHO6BQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/video-to-gif-ios-shortcut-5beaf3cac9e77c005217e206.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+ There are two[ GIF](https://www.lifewire.com/gif-file-4116104) shortcuts that[ make a GIF file](https://www.lifewire.com/free-gif-makers-1357013) from an iPhone or iPad. One is[ Shoot A GIF](https://www.icloud.com/shortcuts/490b361bf8344624bc469dec3d833172) which takes multiple photos and turns the photos into a GIF. You can adjust how many photos are required, the number of seconds that each photo should be seen when the GIF is made, whether to loop it, and more.
+
+ The other one is[ Video to GIF](https://www.icloud.com/shortcuts/9245ef6aba11422188607e24d3124a7a) . This one converts videos that are stored on the device into GIF files. It has you trim the video to create a GIF of any clip.
+
+ Both shortcuts have the option to remove the last action and change it to anything you want. For example, save the GIF to your device or email it to someone.
+
+[ Get Shoot A GIF ](https://www.icloud.com/shortcuts/490b361bf8344624bc469dec3d833172) 
+
+[ Get Video to GIF ](https://www.icloud.com/shortcuts/9245ef6aba11422188607e24d3124a7a) 
+
+12
+
+of 18
+
+## [ Birthday Reminder](https://www.icloud.com/shortcuts/da7f88309a9c486ea86cdd674b3887f0) 
+
+![Birthday reminder shortcut on an iPhone](https://www.lifewire.com/thmb/mxg1708m74vShecrAVybBdEGdF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/birthday-reminder-iphone-shortcut-5beaf55cc9e77c0051346fbf-f43fc58e44c74811af0e678a3d6facac.jpg) 
+
+ This workflow finds the contacts on your device that have birthdays within the next week and compiles them into one list. This is a great way to get a heads up of any upcoming celebrations in the next few days, or months if you customize it to include birthdays in the future.
+
+ Modify this app to adjust how many contacts are shown in the alert, change what the alert says, choose when the birthday must be in order to display in the list, sort the names, and more.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/da7f88309a9c486ea86cdd674b3887f0) 
+
+13
+
+of 18
+
+## [ Make Your Own Speed Dial Menu](https://www.icloud.com/shortcuts/5658db9e9ff34eef806eb2c2e51de51d) 
+
+![Speed Dial iOS shortcut on an iPhone](https://www.lifewire.com/thmb/LFxYHJQHnEM1v513u3ynNKT4cws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/speed-dial-ios-shortcut-7208a5510de24d59ae32c255029eb3b2.jpg) 
+
+ If you call the same people often, use the Speed Dial shortcut to add those numbers to a menu and store it as a home screen shortcut or widget. If more than one number is stored, you'll be able to choose which one to call. Otherwise, it prompts you to dial the only number you entered.
+
+ There isn't much to customize with this simple workflow except for the icon and name, but it's extremely useful.
+
+ If you don't want to pre-set a number, choose **Ask Each Time** in the phone number text box. Then, when you run the shortcut, choose any contact or enter any phone number.
+
+ This shortcut is best used as a Today View Widget or Apple Watch shortcut. On an iPhone, swipe left on the home screen and tap the shortcut to call someone.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/5658db9e9ff34eef806eb2c2e51de51d) 
+
+14
+
+of 18
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+## [ Search for Text in Google Chrome](https://www.icloud.com/shortcuts/2f81d5f819d34e199ecabb55513f5a41) 
+
+![iOS shortcut sending text from Safari to Chrome](https://www.lifewire.com/thmb/KwCAHTwdWgpx8rXZ3w3qrUkf40A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/search-in-chrome-ios-shortcut-5beafaf7c9e77c0026edfeab.png) 
+
+ Safari is the default web browser for iPhone, iPad, and iPod touch. It's common for other apps to open web pages in Safari instead of other browsers like Google Chrome. This shortcut opens Chrome to use Google.
+
+[  How to Choose Your Default Apps on the iPhone ](https://www.lifewire.com/choose-default-apps-on-iphone-4044162) 
+
+ To use it, highlight the text that you want to search for, then use the share option to open this shortcut. The highlighted text is imported into a new Google search result in Chrome. This works from Safari and any application where you can select and share text.
+
+ For this shortcut to work, it must be set up as**Show in Share Sheet** . In Safari, share the highlighted text to**Chrome Google Search** to open the same text in a new Google search in Chrome.
+
+ If you like to search in Chrome, check out the[ Open URL in Chrome](https://www.icloud.com/shortcuts/1352b58fd3314548be8e12d57c6e092c) shortcut that quickly opens links from other browsers in Chrome. It works similarly to this shortcut.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/2f81d5f819d34e199ecabb55513f5a41) 
+
+15
+
+of 18
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+## [ Find Out Where a Photo Was Taken](https://www.icloud.com/shortcuts/740487c583634505a72e4cddf0aa3803) 
+
+![iOS shortcut on iPhone that shows where an image was taken](https://www.lifewire.com/thmb/0ntsXDI1BIl7c2JoIznQsFfqIHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/where-was-photo-taken-ios-shortcut-5beaed26c9e77c005132e3a7.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ This shortcut extracts the GPS from a picture to supply information about where it was taken. That's not all it does. It also shows when the image was taken and how far away it was taken from your current location (if it's more than one mile away). Then, it'll open a navigation program to show the place on the map.
+
+ You can adjust the**is greater than** value so that the shortcut doesn't give a distance for images taken more than one mile away. You can also adjust any of the message text.
+
+ This workflow is best used as a widget or home screen shortcut.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/740487c583634505a72e4cddf0aa3803) 
+
+16
+
+of 18
+
+## [ Record and Text Audio Snippets Automatically](https://www.icloud.com/shortcuts/476cd9f8fcf5432ab2e83a51df54654d) 
+
+![iOS shortcut recording audio](https://www.lifewire.com/thmb/AJ40yq_5HT_woMaWFvCESGKHMM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/record-and-send-ios-shortcut-5beb1baf46e0fb00511dd13a-64c63d2660de425a99bdd3430fcf86fb.jpg) 
+
+ This Record and Send iOS shortcut is for emergencies where you can't openly call or text someone for help. It[ puts your phone into Do Not Disturb mode](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) , records anything the phone hears, uploads the recording to Dropbox, and then shares your location and the Dropbox link to anyone you choose.
+
+ All you have to do is trigger the shortcut, and everything happens automatically in the background. Or, if you're free to monitor your screen, tap to end the recording early, and the rest will continue automatically.
+
+ For example, start the shortcut, then lay the phone down or put it into your pocket or backpack. It records for 30 seconds (you can change the time), uploads the recording to your Dropbox account, copies the URL to the recording, then texts the recording and other pertinent information to the one or more contacts you chose when you set up the shortcut.
+
+ You can also use this iOS shortcut to record snippets of your voice while driving or walking and like to be hands-free. If you use the shortcut this way, send the recording to yourself or save it to Dropbox without sending the link to anyone.
+
+ Make this iOS shortcut a home screen icon or a widget for easy access.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/476cd9f8fcf5432ab2e83a51df54654d) 
+
+17
+
+of 18
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## [ Use Shortcuts as a News Reader](https://www.icloud.com/shortcuts/412843a67543488b8b603c36621df6e2) 
+
+![RSS reader iOS shortcut for iPhone](https://www.lifewire.com/thmb/CZeYxzGi8j8erfA_TyHOpRsmFh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rss-reader-ios-shortcut-7a9e35aa917f45a2847a6515b01c97c3.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+ The Shortcuts app includes a newsreader shortcut. Modify this shortcut and make your own custom[ RSS](https://www.lifewire.com/what-is-an-rss-feed-4684568) newsreader. It displays the websites for RSS feeds you set up. Choose a website and select an article to read the news.
+
+ To modify what you see, enter the websites you want to read news from, the URLs to the RSS feeds, and the number of items to fetch from the feed. This figure determines how many articles will show up in the list of feed items to pick from.
+
+ To customize each feed, add filters to show articles from a certain author, include articles with certain words, and more. You can also change which browser to use to read the news, such as Safari to Chrome.
+
+ This RSS reader is totally customizable and best used as a widget.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/412843a67543488b8b603c36621df6e2) 
+
+18
+
+of 18
+
+## [ Clean Completed Reminders](https://www.icloud.com/shortcuts/fee08d3363334a7c83220f72dfd92110) 
+
+![Clean Completed Reminders iOS shortcut](https://www.lifewire.com/thmb/5hqGwaR8ZFoJMyDjQ5lPp_-StI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/clean-old-reminders-ios-shortcut-5beafbaec9e77c00515561ab-bec3320e11c04500b90f14ffb6a4558d.jpg) 
+
+ It's easy to get a reminder on your device, dismiss it or complete it, and then leave it in the Reminders app. But doing this clutters the app with old reminders. Use the Clean Completed Reminders shortcut to get rid of them.
+
+ This shortcut only searches for completed reminders, but you can add other filters to find and remove specific reminders.
+
+ For example, clean reminders from certain lists, delete reminders with a specific due date, delete ones that match a particular creation date or title, and remove reminders that aren't complete. There are lots of filters you can set up.
+
+[ Get This Shortcut ](https://www.icloud.com/shortcuts/fee08d3363334a7c83220f72dfd92110) 
+
+[  How to Schedule a Text Message on an iPhone ](https://www.lifewire.com/schedule-text-message-on-iphone-5186842) 
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[ Subscribe ](https://www.lifewire.com/#) 
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand 
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-facebook-live-step-by-step-downloads-guide/"><u>[New] In 2024, Mastering Facebook Live  Step-by-Step Downloads Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-exploring-apowersofts-pc-screen-snap-recorder/"><u>[Updated] 2024 Approved  Exploring Apowersoft's PC Screen Snap Recorder</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-modern-e-reader-experiences-the-rise-of-digital-edition-platforms/"><u>1. Modern E-Reader Experiences: The Rise of Digital Edition Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-pova-6-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Pova 6 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-excellence-oneplus-nord-n100-smartphone-evaluation/"><u>Affordable Excellence: OnePlus Nord N100 Smartphone Evaluation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-and-install-ibooks-app-your-ultimate-guide-to-reading-ebooks-on-mac-and-pc/"><u>Download and Install iBooks App: Your Ultimate Guide to Reading eBooks on Mac & PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-the-latest-amd-radeon-graphics-driver-version-2410/"><u>Download the Latest AMD Radeon Graphics Driver Version 24.10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easily-change-kindle-content-to-epub-files-on-the-web/"><u>Easily Change Kindle Content to EPUB Files on the Web</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-2020-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone SE (2020) without Losing Data? | Stellar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-securely-archive-your-essential-ebook-collection-from-vitalsource/"><u>How to Securely Archive Your Essential eBook Collection From VitalSource</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-shift-literature-the-ultimate-guide-for-migrating-epub-pdf-files-into-kobo-device/"><u>How To Shift Literature: The Ultimate Guide for Migrating EPUB, PDF Files Into Kobo Device</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-blueprints-for-making-youtube-intro-videos-that-stick/"><u>In 2024, Blueprints for Making YouTube Intro Videos that Stick</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-embarking-on-twitter-steps-for-newbies/"><u>In 2024, Embarking on Twitter  Steps for Newbies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-leveraging-likes-and-shares-top-30-facebook-marketing-steps/"><u>In 2024, Leveraging Likes and Shares  Top 30 Facebook Marketing Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-oppo-reno-8t-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Oppo Reno 8T Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-chronological-productivity-effective-techniques-for-managing-your-hours/"><u>Mastering Chronological Productivity: Effective Techniques for Managing Your Hours</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reinvigorating-windows-photo-viewer-in-w10-procedures-1-and-2/"><u>Reinvigorating Windows Photo Viewer in W10  Procedures #1 & #2</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/scaling-success-the-tactics-for-increasing-youtube-audiences-for-2024/"><u>Scaling Success  The Tactics for Increasing YouTube Audiences for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-printing-your-epub-ebooks/"><u>Step-by-Step Guide: Printing Your EPUB eBooks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-experience-star-wars-full-storyline-with-disneys-streaming-service/"><u>The Ultimate Guide to Experience Star Wars Full Storyline with Disney's Streaming Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-transforming-your-pdfs-into-easy-to-read-ebooks/"><u>The Ultimate Guide: Transforming Your PDFs Into Easy-to-Read eBooks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-ultimate-ebook-reader-seamlessly-converts-and-unlocks-ebook-content-everywhere/"><u>Top Picks: Ultimate eBook Reader - Seamlessly Converts and Unlocks eBook Content Everywhere!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-audible-drm-extraction-tools-of-2024/"><u>Top-Ranking Audible DRM Extraction Tools of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-audible-audiobooks-seamlessly-discover-the-most-effective-epub-converters-available-today/"><u>Transform Audible Audiobooks Seamlessly – Discover the Most Effective EPUB Converters Available Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-your-word-documents-into-kindle-friendly-mobi-format/"><u>Transform Your Word Documents Into Kindle-Friendly MOBI Format</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-your-kindle-fire-into-an-android-device-without-root-access/"><u>Transforming Your Kindle Fire Into an Android Device Without Root Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tre-eccellenti-strategie-trasformare-i-file-adobe-digital-edition-in-formato-pdf/"><u>Tre Eccellenti Strategie: Trasformare I File Adobe Digital Edition in Formato PDF</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-safely-extract-drm-from-epubpdfazw-files/"><u>Ultimate Guide: How to Safely Extract DRM From EPUB/PDF/AZW Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-successfully-adding-applications-to-your-kindle-paperwhite-or-touch-device/"><u>Ultimate Guide: Successfully Adding Applications to Your Kindle Paperwhite or Touch Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-drm-removal-process-a-step-by-step-guide/"><u>Understanding the DRM Removal Process: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-essentials-of-a-vbk-file-a-comprehensive-guide/"><u>Understanding the Essentials of a VBK File: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-unknown-digital-rights-management-systems/"><u>Understanding Unknown Digital Rights Management Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleashing-full-potential-the-comprehensive-why-and-how-of-rooting-your-android-phone/"><u>Unleashing Full Potential: The Comprehensive Why and How of Rooting Your Android Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-content-how-to-circumvent-digital-rights-management-drm-in-e-readers-like-kindle-fire-kobo-vox-and-nook-color-2/"><u>Unlocking Content: How to Circumvent Digital Rights Management (DRM) in E-Readers Like Kindle Fire, Kobo Vox, and Nook Color 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-digital-content-with-elite-epubor-superior-adobe-drm-breaker/"><u>Unlocking Digital Content with Elite Epubor - Superior Adobe DRM Breaker</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-digital-rights-management-on-your-ebook-pages-lesson-2/"><u>Unlocking Digital Rights Management on Your eBook Pages - Lesson 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-ebook-secrets-navigating-through-drm-removal-strategies-starting-with-page/"><u>Unlocking eBook Secrets: Navigating Through DRM Removal Strategies, Starting with Page</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-restrictions-step-by-step-guide-for-bypassing-drm-on-pdf-files-using-adobe-digital-editions-tools/"><u>Unlocking Restrictions: Step-by-Step Guide for Bypassing DRM on PDF Files Using Adobe Digital Editions Tools</u></a></li>
+</ul></div>

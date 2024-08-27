@@ -1,0 +1,154 @@
+---
+title: Gmail Troubleshooting - How to Recover Accidentally Deleted Mail
+date: 2024-08-26T08:23:15.363Z
+updated: 2024-08-27T08:23:15.363Z
+categories:
+  - BestProducts
+description: This Article Describes Gmail Troubleshooting - How to Recover Accidentally Deleted Mail
+excerpt: This Article Describes Gmail Troubleshooting - How to Recover Accidentally Deleted Mail
+thumbnail: https://www.lifewire.com/thmb/ZaJQCCpXkhbfmc3M_SkIeSf-RAc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmailscreen01-29256c0afe4a4ea89db447ff60e14302.jpg
+---
+
+## Erasing Your Digital Footprint: A Comprehensive Guide to Deleting Your Yahoo Mail Account
+### What to Know
+
+* First, cancel premium services you're subscribed to through Yahoo and quit using this email as your recovery address.
+* Log in to the[Yahoo Privacy Dashboard](https://yahoo.mydashboard.oath.com/delete-my-account) and select**Continue delete my account** \>**Yes, delete this account** .
+* You have 30 days to reactivate your Yahoo account if you change your mind. Just log back in to use it again.
+
+ This article explains how to delete a Yahoo account from a web browser.
+
+## How to Delete a Yahoo Mail Account
+
+ You can shut down your entire Yahoo account and revoke access to your email address, remove all your emails, and prevent people from messaging you. This is possible through the Privacy Dashboard:
+
+ It's easy to[migrate your Yahoo Mail data to Gmail](https://www.lifewire.com/import-your-yahoo-mail-messages-and-contacts-into-gmail-1172011) if you plan to switch to Google's email service. Alternatively, maybe you just want to[export your Yahoo Mail contacts](https://www.lifewire.com/export-yahoo-address-book-1174479) so you can import them into a[different email service](https://www.lifewire.com/best-free-email-accounts-1356641) . You must do these things_before_ you cancel.
+
+1. [Open Yahoo Mail](https://mail.yahoo.com/) and log in if asked.  
+ You can[recover your forgotten Yahoo password](https://www.lifewire.com/recover-yahoo-password-1174485) if you're not sure what it is.
+2. Hover over your name at the top right of the page and select**Manage your account** from the menu.  
+![The Yahoo Mail menu showing the Manage your account link](https://www.lifewire.com/thmb/JdqCJ9mVz02xTyooT2W1i0vfh8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-menu-4a8ea92f4deb4b0c9229c9c24ed4c1c9.png)  
+ If you're paying for any Yahoo subscription services, cancel those now to avoid unexpected payments;[open My Subscriptions](https://mysubscriptions.yahoo.com/) to see if you have any active subscriptions.
+3. Click**Privacy controls** at the top.  
+![The Yahoo Mail account overview page showing the Privacy controls link](https://www.lifewire.com/thmb/XEno_dNrKM6NBukWJoOSU7d_kG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-account-overview-30181da72ca746cca757640663eac4a2.png)
+4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
+![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
+5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
+![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
+6. Enter your email address once more into the field provided.
+7. Select **Yes, delete this account** .  
+![The final confirmation page for deleting a Yahoo account](https://www.lifewire.com/thmb/4RriqtlFkKYQ5jkHhvT2HRNU2Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-yahoo-account-confirmation-d5b04610003e461287b0a838aa1c57c8.png)
+
+ In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Cancel a BT Yahoo Mail Premium Account
+
+ If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+## What Does It Mean to Delete a Yahoo Mail Account?
+
+ Deleting Yahoo Mail is only possible if you delete the whole Yahoo account. This means, of course, that your emails will get removed, but you'll also lose access to your [My Yahoo](https://my.yahoo.com/) settings, calendars, Yahoo Fantasy teams, Yahoo Finance portfolios, and any other data stored in Yahoo's services.  
+
+ Although it used to be the case, you will not delete your Flickr account if you delete your Yahoo account. This is true, however, only if you've upgraded to the latest login system. If you haven't, or you're not sure,[contact Flickr to ask about this](https://www.flickrhelp.com/hc/en-us/requests/new) .
+
+ Here are some important things to be aware of when it comes to deleting your Yahoo account:
+
+* **What will happen to my Yahoo Mail email address?**  Your username and email address will be available for others to use in the future, so they might receive messages meant for you if senders still use your old email address.
+* **Can I reactivate a closed Yahoo Mail account?**  Yes, you can reactivate your account even after you've marked it for deletion. To reopen a deleted Yahoo account, log in within 30 days of deleting it. You can do this through the regular[Yahoo Mail](https://mail.yahoo.com/) web page. Once you've reactivated the account, you can start getting emails but you will not see messages that were sent to the account while it was closed.
+* **What happens to emails sent to my address after I close my Yahoo Mail account?**  In the meantime (starting as soon as you close your account), senders trying to message your deleted Yahoo Mail account's address will receive a delivery failure message.
+
+ Once you close your Yahoo Mail account, anyone who tries to send a message to your email address will immediately receive a delivery failure message. Also, any online accounts that are using your Yahoo email as the recovery address will no longer be able to send you recovery information.
+
+ To avoid confusion and concern, tell your contacts you are about to close your Yahoo account — both from the email address you plan to use in the future (so they can easily reply to reach you) and from your Yahoo Mail account (to ensure delivery).
+
+ FAQ
+
+* How do you change your Yahoo Mail password?  
+ To[change your password](https://www.lifewire.com/change-yahoo-password-1174508) , log in to Yahoo Mail and select your profile image at the top right. Go to**Manage your account** \>**Security** \>**Change password** .
+* How do you block unwanted senders in Yahoo Mail?  
+ To[block mail from unwanted senders](https://www.lifewire.com/block-sender-yahoo-1174455) , log in to Yahoo Mail and go to**Settings** \>**More Settings** . In the**Security & privacy** section, select**Add** under**Blocked addresses** . Type the sender's address in the box and press**Save** .
+* How do you add a contact in Yahoo Mail?  
+ To automatically[add someone as a contact](https://www.lifewire.com/auto-add-contacts-yahoo-1174459) when they email you, log in to Yahoo Mail and open**Settings** \>**More Settings** . Select**Contacts** \>**Enable** .
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope/"><u>[New] 2024 Approved  Comparing Social Platforms  Facebook LIVE Vs. YouTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/affordable-quality-assured-a-thorough-review-of-omoton-t1-tablet-stand/"><u>Affordable Quality Assured – A Thorough Review of Omoton T1 Tablet Stand</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/alternative-web-browser-options-for-enhancing-your-samsung-tv-experience/"><u>Alternative Web Browser Options for Enhancing Your Samsung TV Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-you-stuck-finding-out-if-playstation-network-is-down-worldwide-or-if-its-a-home-connection-snag/"><u>Are You Stuck? Finding Out if PlayStation Network Is Down Worldwide or If It's a Home Connection Snag</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-icloud-mail-safety-with-two-factor-authentication-techniques/"><u>Boosting iCloud Mail Safety with Two-Factor Authentication Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-your-drone-experience-with-these-11-items-for-2024/"><u>Boosting Your Drone Experience with These 11 Items for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boosting-your-youtube-earnings-on-mobile-devices-a-comprehensive-guide-for-2024/"><u>Boosting Your YouTube Earnings on Mobile Devices - A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-to-overcome-kernel-system-page-faults/"><u>Comprehensive Solutions to Overcome Kernel System Page Faults</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-walkthrough-getting-started-with-pokemon-unite-on-windows/"><u>Comprehensive Walkthrough: Getting Started with Pokémon Unite on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-and-watching-hulu-on-an-lg-smart-tv-a-comprehensive-guide/"><u>Connecting and Watching Hulu on an LG Smart TV: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-output-impedance-a-detailed-explanation/"><u>Demystifying Output Impedance: A Detailed Explanation</u></a></li>
+<li><a href="https://article-files.techidaily.com/discover-these-must-try-iphone-vr-titles-for-2024/"><u>Discover These Must-Try iPhone VR Titles for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-11-powerful-gpt-strategies-for-authenticity-in-fiction/"><u>Discovering 11 Powerful GPT Strategies for Authenticity in Fiction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-keeping-your-chromecast-current-and-updated/"><u>Easy Steps for Keeping Your Chromecast Current and Updated</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-navigating-chat-features-within-mozilla-thunderbird/"><u>Expert Advice: Navigating Chat Features Within Mozilla Thunderbird</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722857120168-explore-a-world-of-expression-16-no-cost-sign-language-educational-sources-revealed/"><u>Explore a World of Expression: 16 No-Cost Sign Language Educational Sources Revealed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-not-found-errors-with-mss32dll-easily-explained/"><u>Fixing 'Not Found' Errors with mss32.dll Easily Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-pixel-10-buzz-projections-on-costs-release-date-and-potential-specs/"><u>Google Pixel 10 Buzz: Projections on Costs, Release Date & Potential Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enable-two-step-verification-for-added-protection-on-twitch/"><u>How to Enable Two-Step Verification for Added Protection on Twitch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-restore-calling-capabilities-when-your-android-keeps-dropping-calls/"><u>How to Restore Calling Capabilities When Your Android Keeps Dropping Calls</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-troubleshoot-and-fix-steamdll-missing-error-message/"><u>How to Troubleshoot and Fix 'Steam.dll Missing' Error Message</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-updated-drivers-for-your-amd-ryzen-cpu-step-by-step-guide/"><u>Install Updated Drivers for Your AMD Ryzen CPU: Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-luminaries-leading-ed-tutorials-online/"><u>Learning Luminaries  Leading Ed Tutorials Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-command-prompt-a-cross-platform-guide-from-windows-7-to-11/"><u>Mastering Command Prompt: A Cross-Platform Guide From Windows 7 to 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimize-your-rest-with-these-5-apple-watch-sleep-management-apps/"><u>Optimize Your Rest with These 5 Apple Watch Sleep Management Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/permanent-solution-to-prevent-everspace-2-pc-from-freezing-or-crashing/"><u>Permanent Solution to Prevent Everspace 2 PC From Freezing or Crashing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/preparing-to-purchase-here-are-the-5-key-points-about-buying-smartwatches/"><u>Preparing to Purchase? Here Are the 5 Key Points About Buying Smartwatches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-steps-to-prep-your-amazon-echo-dot-for-initial-configuration/"><u>Quick Steps to Prep Your Amazon Echo Dot for Initial Configuration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-administrative-rights-unlocking-the-trustedinstaller-on-windows-10/"><u>Securing Administrative Rights: Unlocking the TrustedInstaller on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-enable-screen-casting-on-lg-television-sets/"><u>Simple Steps to Enable Screen Casting on LG Television Sets</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/simplified-understanding-of-discord-spoilers/"><u>Simplified Understanding of Discord Spoilers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-issues-with-non-responsive-iphone-mail-apps-a-comprehensive-guide/"><u>Solving Issues with Non-Responsive iPhone Mail Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/splitcam-examination-camera-quality-showdown-in-2024/"><u>SplitCam Examination - Camera Quality Showdown, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-when-dsounddll-cant-be-located-or-is-lost/"><u>Step-by-Step Fix for When dsound.dll Can't Be Located or Is Lost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-enabling-secondary-verification-in-gmail/"><u>Step-by-Step Guide: Enabling Secondary Verification in Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-personalizing-your-email-footer-on-godaddys-web-mail-service/"><u>The Definitive Guide to Personalizing Your Email Footer on GoDaddy's Web Mail Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-quintessential-set-of-5-features-that-can-skyrocket-your-twitch-channel-growth/"><u>The Quintessential Set of 5 Features That Can Skyrocket Your Twitch Channel Growth</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-9-fantastic-spots-for-enjoying-no-cost-early-learning-activities/"><u>Top 9 Fantastic Spots for Enjoying No-Cost Early Learning Activities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-affordable-beginner-home-theater-systems/"><u>Top Affordable Beginner Home Theater Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/twitch-service-disruption-alert-identifying-if-the-issue-is-widespread-or-localized-to-your-account/"><u>Twitch Service Disruption Alert: Identifying If the Issue Is Widespread or Localized to Your Account</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uninstall-and-disable-the-developer-tool-copilot-in-your-latest-windows-11-operating-system/"><u>Uninstall and Disable the Developer Tool Copilot in Your Latest Windows 11 Operating System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-psvr2-find-out-its-launch-date-price-tag-and-cutting-edge-specs/"><u>Unlock the Secrets of PSVR2 - Find Out Its Launch Date, Price Tag & Cutting-Edge Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-siris-potential-how-to-accessible-text-to-speech-functionality-across-ios-and-macos-systems/"><u>Unlocking Siri's Potential: How to Accessible Text-to-Speech Functionality Across iOS and macOS Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-chatgpt-how-does-this-advanced-language-model-work/"><u>Unveiling ChatGPT: How Does This Advanced Language Model Work?</u></a></li>
+</ul></div>
