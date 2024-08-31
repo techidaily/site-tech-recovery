@@ -1,0 +1,157 @@
+---
+title: Boost Performance by Resetting Cache in Android – Detailed Instructions
+date: 2024-08-30T16:30:28.528Z
+updated: 2024-08-31T16:30:28.528Z
+categories:
+  - BestProducts
+description: This Article Describes Boost Performance by Resetting Cache in Android – Detailed Instructions
+excerpt: This Article Describes Boost Performance by Resetting Cache in Android – Detailed Instructions
+thumbnail: https://www.lifewire.com/thmb/KWW-p0HtRkbdyWnWuK_R2KLBwns=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/clear-cache-android-4157780-55ce5e759e524ac6a17caa6472bbb57f.png
+---
+
+## Change Your Discord Icon Easily: Detailed Instructions Inside
+### What to Know
+
+* Desktop: Open your account settings and select the image. Click the plus sign next to your profile picture and select a new image.
+* Mobile: Go to the settings, choose**My Account** , tap the image, choose a source, and then select a new image.
+* Note: There are limits on how often you can change your avatar image for security purposes.
+
+ This article covers how to upload a new avatar on[Discord](https://www.lifewire.com/discord-4174046) using the desktop app, browser, and mobile apps.
+
+## How to Update Your Discord Avatar
+
+ The process for adding or updating your profile picture is the same in a browser and the app. You can also remove the image; Discord doesn't require one.
+
+ Discord places limits on changing an avatar image. Users can make no more than two attempts within 10 minutes to prevent people from trying to circumvent Discord's terms of service.
+
+1. Open the app on PC or Mac.
+2. Click settings cog at the bottom left next to the current image.  
+![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/CtVsFOH3NrM_Osbk4QgSVA-zC_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage1-be91f7e650f246a5b059b8808831e078.jpg)
+3. Select the three-dotted menu to the right of where the image goes.
+4. Select**Change Avatar** .  
+ To delete your avatar, select**Delete Avatar** .  
+![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/_ubg4ot8XIxsdRiJKl8yi2czZzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage3-ff81b24cf09447b1a89298c27ef9af4a.jpg)
+5. Choose an image.  
+![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/7p7WSfd6m8IiCjx-Vn3CrNBi5wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage4-a6205545762a49769b025839f0882ec9.jpg)
+6. You can resize or center the image as you see fit.
+7. Click**Apply** .  
+![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zPQvP51LFBMX5W5ivjpzObfupIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg)
+8. Click**Save Changes** .  
+![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zSsiau7LE9NhHuZBkN1EWnu9i48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage7-b6dbbf06f586439d9dcb7d360501836b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+## How to Update Your Discord Image on Mobile
+
+ The process for changing your avatar via the Discord mobile app is similar. The screenshots below are from Android, but the process is the same on an iPhone, just with a different look. Again, you can remove your avatar altogether if you don't want one.
+
+1. Open the app on an Android or iPhone.
+2. Tap your profile image on the bottom right.
+3. Tap**My Account** .
+4. Select the image or image placeholder. Tap**Remove Icon** to delete your profile image.  
+![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/LRJUnTntO_h20_BNbgEV-ueDPQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile1-3-f0ef1c7128364173b3d659461cd7b74c.jpg)
+5. If this is the first time you've uploaded a profile picture, Discord will ask you for two permissions: to access your camera and your photos and videos. Tap**Allow** or**While using the app** on at least one of these options to proceed.
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+6. Select an image app.  
+![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/86Z7ytxgb26C9ZIg9qv92lbXy90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile4-6-e7f871a42b974f36a95af316c6f8d0c3.jpg)
+7. Choose an image and tap**Upload** . You can crop and zoom if you need to, but you have to do it before selecting the**Upload** button (there's a**Crop** button that shows up after you choose the image).
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+8. Click the checkmark at the top right when you're satisfied if you cropped your image, then press**Save** to save the changes.  
+![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/VI2elSd14X27hKFsCroqVin3bEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile7-9-0291015a37e24a9b916667e373b615e4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ FAQ
+
+* Why can't I change my profile picture on Discord?  
+ You can't change your Discord avatar if you've already made changes within the last few minutes. You must wait five minutes or so before you can change it again.
+* How do I have a GIF profile picture on Discord?  
+ To choose an animated avatar in Discord, you must pay for Discord Nitro. You'll then have the option to choose GIFs when uploading your profile picture.
+* How do I spoiler a picture on Discord?  
+ When you add an image to the Discord chat window, select the**eye** to hide the image with a spoiler warning. In the mobile app, press and hold the image, then tap the**eye** .
+* How do I get someone's profile picture on Discord?  
+ To download someone else's Discord profile image, you must use a third-party tool or[use inspect element](https://www.lifewire.com/using-inspect-element-on-a-mac-5210014) to copy the image.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-from-novice-to-pro-building-an-insta-highlight-showcase/"><u>[New] From Novice to Pro  Building an Insta Highlight Showcase</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-freedom-in-viewing-is-vlc-more-powerful-than-mpc/"><u>[Updated] Freedom in Viewing  Is VLC More Powerful Than MPC?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-online-music-potential-with-imovie-and-youtube/"><u>[Updated] Unleashing Online Music Potential with iMovie & YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-significance-of-proper-slug-line-usage/"><u>2024 Approved  The Significance of Proper Slug Line Usage</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-blaze-pro-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Blaze Pro 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-email-services-with-advanced-security-features-to-protect-you-online/"><u>Best Email Services with Advanced Security Features to Protect You Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-streaming-sites-save-money-with-our-top-1nfree-options-instead-of-netflix/"><u>Best Streaming Sites: Save Money with Our Top 1nFree Options Instead of Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chromecast-audio-fixes-what-to-do-when-you-cant-hear-your-casted-content/"><u>Chromecast Audio Fixes: What to Do When You Can't Hear Your Casted Content</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-tackling-full-disk-utilization-issues-on-windows-10-systems/"><u>Complete Guide: Tackling Full Disk Utilization Issues on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-viewing-all-of-taylor-swifts-films-sequentially/"><u>Complete Guide: Viewing All of Taylor Swift's Films Sequentially</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-your-vehicles-secret-audio-access-codes-a-step-by-step-guide/"><u>Discovering Your Vehicle's Secret Audio Access Codes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-grow-your-instagram-audience-tips-and-tricks/"><u>Effective Strategies to Grow Your Instagram Audience: Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guide-to-selecting-premier-notetaking-apps-for-modern-ipad-users/"><u>Essential Guide to Selecting Premier Notetaking Apps for Modern iPad Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-future-of-vr-with-meta-quest-3-lite-price-forecasts-release-insights-and-speculations-unveiled/"><u>Explore the Future of VR with Meta Quest 3 Lite: Price Forecasts, Release Insights, and Speculations Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-unplayable-dilemma-age-of-empires-4-wont-start/"><u>Fixing the Unplayable Dilemma – Age of Empires 4 Won't Start</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/free-video-embedding-for-dynamic-online-articles/"><u>Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-m-audio-fast-track-driver-software-for-multiple-windows-versions-free-of-cost/"><u>Get the Latest M-Audio Fast Track Driver Software for Multiple Windows Versions Free of Cost!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-most-out-of-facebook-unlock-productivity-secrets-with-5-key-moves/"><u>Get the Most Out of Facebook: Unlock Productivity Secrets With 5 Key Moves</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-stop-receiving-emergency-and-amber-alerts-on-ios-devices/"><u>Guide: Stop Receiving Emergency & Amber Alerts on iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-stop-0x0000007b-errors/"><u>How to Fix STOP 0X0000007B Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remove-and-replace-a-phones-glass-screen-protector/"><u>How to Remove and Replace a Phone's Glass Screen Protector</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 7 Plus to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-keep-your-shorts-viewer-friendly-fixing-image-absence/"><u>In 2024, Keep Your Shorts Viewer-Friendly  Fixing Image Absence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keep-it-private-with-webex-how-to-apply-background-blur-for-secure-meetings/"><u>Keep It Private with Webex: How to Apply Background Blur for Secure Meetings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kioxias-revolutionary-ssd-with-ultra-fast-optical-data-transmission-reaching-up-to-40plus-metres-from-the-processor/"><u>Kioxia's Revolutionary SSD with Ultra-Fast Optical Data Transmission: Reaching Up to 40+ Metres From the Processor</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-real-time-communication-in-mozilla-thunderbird-with-ease/"><u>Navigating Real-Time Communication in Mozilla Thunderbird with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimize-iphone-call-volume-uncover-the-best-fixes-and-hacks-today/"><u>Optimize iPhone Call Volume – Uncover the Best Fixes and Hacks Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/playstation-5-face-off-exploring-the-distinctions-between-the-slim-design-and-traditional-model/"><u>PlayStation 5 Face-Off: Exploring the Distinctions Between the Slim Design and Traditional Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722861528221-six-outstanding-independent-offline-word-decoder-utilities-your-guide-to-choosing-the-best/"><u>Six Outstanding Independent Offline Word Decoder Utilities - Your Guide to Choosing the Best!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-successful-google-gemini-utilization/"><u>Step-by-Step Instructions for Successful Google Gemini Utilization</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-accurate-measurements-made-easy-on-android-phones/"><u>Step-by-Step Tutorial: Accurate Measurements Made Easy on Android Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-pick-top-5-iphone-gps-tools-for-seamless-traveling/"><u>The Essential Pick: Top 5 iPhone GPS Tools for Seamless Traveling</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-photographers-blueprint-for-stunning-hdr-portraits/"><u>The Photographer's Blueprint for Stunning HDR Portraits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-nine-critical-considerations-before-purchasing-a-car-dash-camera/"><u>The Ultimate Checklist: Nine Critical Considerations Before Purchasing a Car Dash Camera</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-navigating-openais-exclusive-custom-gpt-offerings-today/"><u>The Ultimate Guide to Navigating OpenAI’s Exclusive Custom GPT Offerings Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-10-popular-apps-revolutionizing-education-for-teens-in-high-school/"><u>The Ultimate List: 10 Popular Apps Revolutionizing Education for Teens in High School</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-t2-pro-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo T2 Pro 5G Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-recommended-navigation-apps-for-your-iphone/"><u>Top 5 Recommended Navigation Apps for Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-msvcr71dll-not-found-errors/"><u>Troubleshooting Steps for MSVCR71.DLL Not Found Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-resolving-missing-d3dx9amoleddll-error/"><u>Troubleshooting Tips for Resolving Missing d3dx9_amoled.dll Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-wininetdll-absence-in-your-system-steps-to-take/"><u>Troubleshooting Wininet.dll Absence in Your System - Steps to Take</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-mobile-network-operators-a-comprehensive-guide/"><u>Understanding Mobile Network Operators: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-the-power-of-mp4-to-mp3-conversion-on-your-mobile/"><u>Updated In 2024, Unleash the Power of MP4 to MP3 Conversion on Your Mobile</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Lenovo IdeaPad 3 15I-Inch Model IAX9i Assessment: High-Quality Affordable Performance for Gamers"
-date: 2024-08-27 23:44:10
-updated: 2024-08-29 12:54:37
+date: 2024-08-30T16:15:13.179Z
+updated: 2024-08-31T16:15:13.179Z
 tags:
   - deals
 categories:
@@ -104,6 +104,9 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design and Hardware: Conservative and Heavy** 
 
 ![Lenovo LOQ 15IAX9I closed next to its charger on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-with-the-charger_53589684049_o.jpg) 
@@ -122,12 +125,18 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the rear of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-back-of-the-lenovo-loq-15iax9i_53589810480_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On the rear of the LOQ 15IAX9I is a USB 3.2 Gen 1 Type-A connector, full-size HDMI 2.0 output, RJ45 Gigabit Ethernet connector, and a Power connector. The power connector works with the included 170W AC adapter.
 
 ![The ports on the right side of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-right-side-of-the-lenovo-loq-15iax9i_53589683994_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The right side of the laptop features a multi-purpose USB Type-C connector, a camera switch that can physically disable the built-in webcam, a combo 3.5mm audio jack, and another USB 3.2 Gen 1 Type-A connector. Overall, there are not a lot of ports in comparison to some other laptops of this size, but it does feature just about everything most users would typically need.
@@ -146,6 +155,9 @@ Jerome Thomas / How-To Geek
 
 ![Direct view of the Lenovo LOQ 15IAX9I display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-homescreen-of-the-lenovo-loq-15iax9i-2_53589365651_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The 15.6-inch 1,920 x 1,080 resolution IPS display has good clarity, brightness (350 nits), and color, with only slight dimming when viewed off-angle. The fast 144Hz refresh rate is a nice bonus for smoother gaming. HDR video streaming is supported, but there's no HDR support for anything else.
@@ -178,12 +190,18 @@ Jerome Thomas / How-To Geek
 
  Lenovo estimates battery life of up to seven hours using the quiet mode, dimmed screen, and light usage, like simple web browsing or using Microsoft Office apps like Word and Excel. [Procyon](https://benchmarks.ul.com/procyon/office-productivity-benchmark), which is a productivity benchmarking tool, puts the estimated battery life at a more realistic two hours and 50 minutes with a bright screen and balanced performance mode. As expected, this is not the type of laptop you'd get if you want all-day battery life. Fortunately, with such a robust AC adapter included, the LOQ 15IAX9I can charge relatively quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Should You Buy the Lenovo LOQ 15IAX9I?** 
 
  The [Lenovo LOQ 15IAX9I](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) gaming laptop is not going to win any awards for its build quality or performance, but considering its sub-$750 retail price, often on sale, it has surprisingly few notable concessions in its overall design. It has a good keyboard, a nice display, and, if you stick to its native HD resolution, enjoyable gaming performance. If you have a limited budget and are looking for a gaming laptop that gets the basics right, it's hard to go wrong with the LOQ 15IAX9I.
 
 ![Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6573727cv3d.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Lenovo LOQ 15IAX9I 
 
 7/ 10 
@@ -208,3 +226,75 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-precision-in-practice-tailoring-ps4-recordings-to-suit-your-style/"><u>[New] 2024 Approved  Precision in Practice  Tailoring PS4 Recordings to Suit Your Style</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-which-is-better-for-vloggers-on-facebook-vertical-or-horizontal/"><u>[New] 2024 Approved  Which Is Better for Vloggers on Facebook  Vertical or Horizontal?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-google-meetings-archive/"><u>[New] In 2024, Google Meetings Archive</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-transformative-techniques-looping-videos-that-engage-instagram-users/"><u>[New] In 2024, Transformative Techniques  Looping Videos That Engage Instagram Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-soundscape-synthesis-studio-mac-basics/"><u>[New] Soundscape Synthesis  Studio Mac Basics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-your-inner-influencer-9-essential-instagram-steps/"><u>[New] Unleash Your Inner Influencer  9 Essential Instagram Steps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-uncloak-from-tiktoks-undetectable-ban/"><u>[Updated] 2024 Approved  How to Uncloak From TikTok’s Undetectable Ban</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quick-guide-saving-screen-share-dialogue/"><u>[Updated] 2024 Approved  Quick Guide  Saving Screen Share Dialogue</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-technique-for-capturing-time-on-iphone/"><u>[Updated] 2024 Approved  The Ultimate Technique for Capturing Time on iPhone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-chilly-ambiance-ideal-winter-bgs-for-videos/"><u>[Updated] Chilly Ambiance  Ideal Winter BGs for Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boost-views-top-10-free-tools-for-custom-youtube-thumbnails/"><u>[Updated] In 2024, Boost Views  Top 10 Free Tools for Custom YouTube Thumbnails</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-origami-and-samurai-inspirations-for-minecraft-homes/"><u>[Updated] Origami & Samurai Inspirations for Minecraft Homes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamlined-converting-top-six-free-ios-apps-for-youtube-to-mp3-for-2024/"><u>[Updated] Streamlined Converting  Top Six Free iOS Apps for YouTube-to-MP3 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-the-highest-rated-conference-recorders-for-2024/"><u>[Updated] The Ultimate Guide to the Highest Rated Conference Recorders for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-extensive-investigation-into-gecatas-recorder-tech/"><u>2024 Approved  Extensive Investigation Into Gecata's Recorder Tech</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-overview-of-tracking-personal-internet-usage-patterns/"><u>A Comprehensive Overview of Tracking Personal Internet Usage Patterns</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/alternative-ways-to-view-roku-content-beyond-traditional-hardware/"><u>Alternative Ways to View Roku Content Beyond Traditional Hardware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-tools-for-monitoring-hashtags-on-twitter-a-guide/"><u>Best Tools for Monitoring Hashtags on Twitter: A Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-15-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 15 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-your-iphone-13-survive-a-splash-unveiling-its-water-resistant-capabilities/"><u>Can Your iPhone 13 Survive a Splash: Unveiling Its Water-Resistant Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-right-projector-key-features-and-specifications-you-shouldnt-ignore/"><u>Choosing the Right Projector: Key Features and Specifications You Shouldn't Ignore</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-for-android-users-wanting-imessage-support/"><u>Complete Tutorial for Android Users Wanting iMessage Support</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-costless-public-dns-providers-available/"><u>Comprehensive Guide: Costless Public DNS Providers Available</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-ps4-blinking-colors-what-do-blue-white-red-and-orange-indicate/"><u>Deciphering PS4 Blinking Colors: What Do Blue, White, Red and Orange Indicate?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-electric-motorbikes-a-comprehensive-guide-to-their-operation/"><u>Decoding Electric Motorbikes: A Comprehensive Guide to Their Operation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-effective-iphone-gps-apps-ranked/"><u>Discover the Most Effective iPhone GPS Apps Ranked</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y200-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y200 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-recording-and-dispatching-voicemails-via-iphone/"><u>Effective Techniques for Recording and Dispatching Voicemails via iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-note-management-in-2e4-with-our-curated-list-of-premier-note-taking-platforms/"><u>Elevate Your Note Management in 2E4 with Our Curated List of Premier Note-Taking Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-image-definition-in-streamed-videos/"><u>Enhancing Image Definition in Streamed Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-hulu-from-your-couch-compatible-with-lg-smart-tvs-guide/"><u>Enjoy Hulu From Your Couch: Compatible with LG Smart TVs Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-hacks-navigate-through-18-key-shortcuts-on-apples-ios-platform-with-ease/"><u>Expert Hacks: Navigate Through 18 Key Shortcuts on Apple's iOS Platform with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-preventing-red-dead-online-pc-crashes-and-ensuring-smooth-gameplay/"><u>Expert Tips for Preventing Red Dead Online PC Crashes & Ensuring Smooth Gameplay</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-espns-online-arena-how-does-the-networks-subscription-based-entertainment-function/"><u>Exploring ESPN's Online Arena: How Does the Network's Subscription-Based Entertainment Function?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-rtx-gpus-what-you-need-to-know-about-nvidias-innovation/"><u>Exploring RTX GPUs: What You Need To Know About NVIDIA's Innovation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-guide-handling-physxloaderdll-not-detected-or-missing-errors-successfully/"><u>Fix Guide: Handling 'physxloader.dll Not Detected' Or Missing Errors Successfully</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-m-audio-fast-track-drivers-compatible-with-windows-117881-download-now/"><u>Free M-Audio Fast Track Drivers: Compatible with Windows 11/7/8/8.1 - Download Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-steam-engines-to-ai-the-11-major-tech-milestnests-since-1844/"><u>From Steam Engines to AI: The 11 Major Tech Milestnests Since 1844</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gaining-access-unlocking-the-secrets-of-trustedinstaller-on-windows-11/"><u>Gaining Access: Unlocking the Secrets of TrustedInstaller on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-identifying-and-contacting-private-calls/"><u>Guide to Identifying and Contacting Private Calls</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-12-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 12 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oneplus-ace-2v-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On OnePlus Ace 2V For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-simultaneously-create-multiple-pins-on-google-map-platform/"><u>How to Simultaneously Create Multiple Pins on Google Map Platform</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-z-flip-5-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy Z Flip 5 by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video/"><u>In 2024, Nailing the Perfect Capture  Mac Tips for Screencasting Streamed Video</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-google-pixel-8-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Google Pixel 8 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-y78plus-t1-edition-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo Y78+ (T1) Edition to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-android-16-what-to-expect-in-pricing-release-timeline-and-device-specs-get-the-rumors/"><u>Inside Android 16: What to Expect in Pricing, Release Timeline, and Device Specs – Get the Rumors!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-tips-on-how-to-arrange-your-personalized-tech-consultation-with-apple-pros/"><u>Inside Tips on How to Arrange Your Personalized Tech Consultation with Apple Pros</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-how-to-display-tiktok-clips-directly-on-your-home-screen/"><u>Learn How To Display TikTok Clips Directly On Your Home Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/masterclass-on-arranging-an-in-store-consultation-with-apple-support/"><u>Masterclass on Arranging an In-Store Consultation with Apple Support</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reactivating-the-automatic-spell-corrector-in-microsoft-outlook-easy-fixes/"><u>Reactivating the Automatic Spell Corrector in Microsoft Outlook: Easy Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/repairing-a-broken-wi-fi-link-with-your-surface-pro-a-comprehve-guide/"><u>Repairing a Broken Wi-Fi Link with Your Surface Pro - A Comprehve Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-disabled-windows-account-access/"><u>Restoring Disabled Windows Account Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streaming-content-from-roku-without-needing-the-hardware-a-comprehensive-guide/"><u>Streaming Content From Roku without Needing the Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-art-of-retouching-animal-vision-in-digital-photos-step-by-step/"><u>The Art of Retouching Animal Vision in Digital Photos - Step by Step</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-of-smartphones-is-here-with-foldable-iphones-what-to-expect-in-price-and-features-when-they-hit-the-market/"><u>The Future of Smartphones Is Here with Foldable iPhones – What to Expect in Price and Features When They Hit the Market</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-correcting-missing-dnssddll-error-messages/"><u>The Ultimate Guide: Correcting Missing dnssd.dll Error Messages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews-on-the-latest-hardware/"><u>Tom's Tech Insights: Comprehensive Guides and Reviews on the Latest Hardware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-educational-apps-for-success/"><u>Top 8 Educational Apps for Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/triple-display-setup-a-comprehensive-guide-on-hooking-up-three-screens/"><u>Triple Display Setup: A Comprehensive Guide on Hooking Up Three Screens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-most-durable-mobile-phones-hydrophobic-shells/"><u>Ultimate Guide to the Most Durable Mobile Phones Hydrophobic Shells</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-potential-of-microsoft-teams-using-githubs-innovative-copilot-feature/"><u>Unlock the Full Potential of Microsoft Teams Using GitHub's Innovative Copilot Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-in-ios-18-launch-details-cost-free-download-and-latest-innovations/"><u>What's New in iOS 18? Launch Details, Cost-Free Download & Latest Innovations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-woes-be-gone-effective-solutions-for-kernel32dll-error-repair/"><u>Windows Woes Be Gone: Effective Solutions for Kernel32.dll Error Repair</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/xbox-series-x-or-s-headset-troubleshooting-quick-solutions-to-get-you-back-in-the-game/"><u>Xbox Series X or S Headset Troubleshooting: Quick Solutions to Get You Back in the Game</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zoom-quality-decline-blame-the-app-or-your-connection/"><u>Zoom Quality Decline: Blame the App or Your Connection?</u></a></li>
+</ul></div>

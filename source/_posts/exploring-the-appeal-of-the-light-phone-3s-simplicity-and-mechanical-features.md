@@ -1,7 +1,7 @@
 ---
 title: Exploring the Appeal of the Light Phone 3'S Simplicity and Mechanical Features
-date: 2024-08-27 11:58:47
-updated: 2024-08-29 11:22:42
+date: 2024-08-30T16:12:55.768Z
+updated: 2024-08-31T16:12:55.768Z
 tags:
   - mobile
 categories:
@@ -29,6 +29,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Someone holding a Light Phone 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/light-phone-ii-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 Light Phone
 
  I wouldn't say that being a technology writer means I use my phone more than most people, but it does mean I probably think about my phone more often.
@@ -49,6 +52,9 @@ Light Phone
 
  When I read the [Light Phone 3 announcement](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/), nearly every single issue I had appears to be solved (though until I get the actual hardware, I can't say for sure).
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What I'm Looking Forward to in the Light Phone 3
 
  One of my biggest frustrations with the Light Phone 2 had nothing to do with all the apps I had to give up. No, it was the charging port. The phone used microUSB. This charging cable was once ubiquitous, but those days are gone.
@@ -57,10 +63,16 @@ Light Phone
 
  The Light Phone 3 announcement says the phone will come with a USB-C port, 5G, and stronger radios. If Light re-released the Light Phone 2 with just these changes alone, I'd have been tempted to get one.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Sometimes, a Camera Is Necessary
 
 ![Light Phone 3 in a pocket.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-in-a-pocket.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 Light Phone
 
  The Light Phone 2 doesn't have a camera. I was intrigued by this as a bit of a social experiment. What would it mean to go back to no longer carrying a camera on me at all times?
@@ -73,10 +85,16 @@ Light Phone
 
  These cameras don't merely come with a smartphone-style app. Instead, the Light Phone 3 has a wheel on the side that serves as a clickable shutter button. It aims to provide tactile feedback when you're taking pictures, making the phone feel like both a feature phone and a point-and-shoot camera. As someone who bought a point-and-shoot to carry around with my Light Phone 2, this is a change I'm here for.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  A Phone Built to Last
 
 ![Light Phone 3 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-on-a-table.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Light Phone
 
  The Light Phone 2 appeals to a lot of people looking to shrink their digital footprint, and part of that means the e-waste they generate. Unfortunately, while Light has supported the software on their phone for half a decade, the phone isn't easily repaired. It has a non-removable battery, and there is no easy way to get at the screen.
@@ -103,3 +121,56 @@ Light Phone
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-pioneering-techniques-for-popularizing-youtube-videos/"><u>[New] 2024 Approved  Pioneering Techniques for Popularizing YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-picks-ultimate-tools-for-efficient-scheduling-screen-captures/"><u>[New] In 2024, Top Picks  Ultimate Tools for Efficient Scheduling Screen Captures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-key-steps-in-manipulating-song-pace-in-spotify-app/"><u>[New] Key Steps in Manipulating Song Pace in Spotify App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-selective-blurry-effects-in-digital-imagery/"><u>[New] Master Selective Blurry Effects in Digital Imagery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfecting-your-content-a-comprehensive-guide-to-instagram-video-enhancement-for-2024/"><u>[New] Perfecting Your Content  A Comprehensive Guide to Instagram Video Enhancement for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diy-tips-to-cut-unwanted-sounds-from-your-videos/"><u>[Updated] 2024 Approved  DIY Tips to Cut Unwanted Sounds From Your Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-block-youtube-previews-embrace-full-length-videos/"><u>[Updated] Block YouTube Previews, Embrace Full-Length Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-a-step-by-step-recorder-for-discord-enthusiasts/"><u>[Updated] In 2024, A Step-by-Step Recorder for Discord Enthusiasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-channel-king-and-queen-academy-youtube-excellence/"><u>[Updated] In 2024, Channel King & Queen Academy  YouTube Excellence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[Updated] In 2024, Elevate Your PC  Best 8 Video Capture Tools for Windows 10</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-explore-20-most-shared-rap-tracks-on-social-media/"><u>[Updated] In 2024, Explore  20 Most Shared Rap Tracks on Social Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secure-and-slim-storage-cloud-cost-insights/"><u>[Updated] Secure & Slim Storage  Cloud Cost Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/blurred-lines-the-art-of-anonymizing-youtube-content/"><u>Blurred Lines  The Art of Anonymizing YouTube Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/buyers-choice-for-waterproof-mobile-phone-armor-best-models/"><u>Buyer's Choice for Waterproof Mobile Phone Armor - Best Models</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/clearstream-eclipse-antenna-review/"><u>ClearStream Eclipse Antenna Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-overview-harnessing-power-of-openais-api/"><u>Comprehensive Overview: Harnessing Power of OpenAI's API</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-code-39-bugs-tips-for-a-smooth-windows-experience/"><u>Dealing with Code 39 Bugs: Tips for a Smooth Windows Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-bsod-a-comprehensive-guide-to-the-notorious-blue-screen-errors-on-pc/"><u>Decoding BSOD - A Comprehensive Guide to the Notorious Blue Screen Errors on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-significance-of-microsofts-monthly-update-day/"><u>Decoding the Significance of Microsoft's Monthly Update Day</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-the-voice-guidance-feature-on-your-samsung-television/"><u>Disabling the Voice Guidance Feature on Your Samsung Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-your-wi-fi-key-a-step-by-step-guide-for-windows-11-users/"><u>Discovering Your Wi-Fi Key: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-methods-for-personalizing-your-chromecast-background-image/"><u>Easy Methods for Personalizing Your Chromecast Background Image</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-fixes-to-revive-power-on-your-roku-television-screen/"><u>Essential Fixes to Revive Power on Your Roku Television Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-amazon-prime-day-savings-on-high-tech-gadgets-and-appliances/"><u>Exclusive Amazon Prime Day Savings on High-Tech Gadgets and Appliances</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-selection-of-15-superbly-effective-free-uninstallation-utilities/"><u>Explore Our Selection of 15 Superbly Effective Free Uninstallation Utilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-streaming-apple-tv-with-your-fire-stick-device/"><u>Guide: Streaming Apple TV with Your Fire Stick Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/haptic-feedback-in-e-commerce-trials/"><u>Haptic Feedback in E-Commerce Trials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-establish-a-new-account-on-oculus-quest-or-quest-2/"><u>How to Establish a New Account on Oculus Quest or Quest 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-assistance-from-snapchats-customer-care-team/"><u>How To Get Assistance From Snapchat's Customer Care Team</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-sign-language-for-free-16-essential-tools-and-websites/"><u>Learn Sign Language For Free: 16 Essential Tools and Websites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-gmail-efficiency-30-indispensable-keyboard-tricks/"><u>Master Gmail Efficiency: 30 Indispensable Keyboard Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-value-minimize-expenses-on-w11-pro-upgrade/"><u>Maximize Value, Minimize Expenses on W11 Pro Upgrade</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/multi-friend-removal-guide-streamline-your-snapchat-circle-today/"><u>Multi-Friend Removal Guide: Streamline Your Snapchat Circle Today!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-perfect-pitch-control-the-ultimate-strategy-for-uniform-sound-amplitude-in-videos/"><u>New Perfect Pitch Control The Ultimate Strategy for Uniform Sound Amplitude in Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-wpcapdll-disappearance-issues-in-microsoft-operating-systems/"><u>Overcoming Wpcap.dll Disappearance Issues in Microsoft Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retrieving-deleted-messages-a-step-by-step-guide-to-recovering-lost-emails-in-outlook/"><u>Retrieving Deleted Messages: A Step-by-Step Guide to Recovering Lost Emails in Outlook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722877139152-skype-connections-gone-wrong-here-are-10-strategies-to-get-things-running-smoothly-again/"><u>Skype Connections Gone Wrong? Here Are 10 Strategies to Get Things Running Smoothly Again!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-your-driver-troubles-optimizing-the-amd-rx-560-for-all-windows-versions-111087/"><u>Solve Your Driver Troubles: Optimizing the AMD RX 560 for All Windows Versions (11/10/8/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-the-mystery-why-arent-my-bluetooth-gadgets-detected-by-pcs-device-manager-and-what-to-do-about-it/"><u>Solving the Mystery: Why Aren't My Bluetooth Gadgets Detected by PC's Device Manager and What to Do About It?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-dealing-with-dsounddll-missing-or-unavailable-mishaps/"><u>Step-by-Step Guide: Dealing with 'dsound.dll' Missing or Unavailable Mishaps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-addressing-missing-mfc42ddll-issues/"><u>Step-by-Step Solutions for Addressing Missing mfc42d.dll Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-integrate-automated-users-in-your-discord-community/"><u>Steps to Integrate Automated Users in Your Discord Community</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-motorola-moto-g34-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Moto G34 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-issues-when-macos-programs-wont-start/"><u>Troubleshooting Guide: Resolving Issues When macOS Programs Won’t Start</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-canceling-a-paramountplus-account/"><u>Ultimate Tips for Canceling a Paramount+ Account</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-meanings-behind-every-windows-blue-screen-error-code/"><u>Unlocking Meanings Behind Every Windows Blue Screen Error Code</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-secrets-of-memetic-success-through-gifs/"><u>Unlocking the Secrets of Memetic Success Through GIFs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unpacking-the-nintendo-switch-what-do-you-get-with-your-order/"><u>Unpacking the Nintendo Switch: What Do You Get With Your Order?</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-pausing-your-insta-addiction-is-better-for-you/"><u>Why Pausing Your Insta Addiction Is Better for You</u></a></li>
+</ul></div>

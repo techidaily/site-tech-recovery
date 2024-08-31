@@ -1,7 +1,7 @@
 ---
 title: "Power and Performance Unleashed: The Ultimate Look at the Lenovo ThinkPad Z16 Gen 2 Featuring AMD Technology"
-date: 2024-08-26 19:30:38
-updated: 2024-08-29 10:52:58
+date: 2024-08-30T16:15:38.143Z
+updated: 2024-08-31T16:15:38.143Z
 tags:
   - deals
 categories:
@@ -145,6 +145,9 @@ Close
 
  When I opened the top lid, I noticed the dual microphone system integrated into the top edge of the lid, while the IR webcam was housed inside the bezel. The up-firing speakers sat on either side of the keyboard, while the glass multi-touch touchpad rested beneath the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Ports: You May Need to Add More
 
  While it's great to have plenty of USB-C ports these days, that's all I got on the ThinkPad Z16, which was problematic when I needed to plug something into a USB-A port. The left side housed two USB4 ports (basically, Thunderbolt 3-comparable USB-C ports) and a full-sized SD card reader. On the right side, I found a USB-C port (3.2 Gen), a headphone/microphone combo jack, a power button, and a Kensington Nano security slot.
@@ -155,6 +158,10 @@ Close
 
  Still not sure what USB4 is? Read about [how USB4 is different](https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  The Inputs: Flawless Touch and Typing
 
 ![TrackPoint on the Lenovo ThinkPad Z16 Gen 2 AMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/trackpoint-on-the-lenovo-thinkpad-z16-gen-2-amdjpg_53384900620_o.jpg) 
@@ -169,6 +176,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo ThinkPad Z16 Gen 2 (AMD) laptop playing the movie "The Exorcist: Beliver."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/lenovo-thinkpad-z16-gen-2-amd-laptop-graphics-shot-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
  Whether I was watching movies like "The Exorcist: Believer" or streaming some of my go-to shows, the ThinkPad Z16 delivered high-quality graphics every time. The clarity of the 16-inch OLED WQUXGA screen was phenomenal, even when I was streaming movies with dark, shadowy scenes. The color contrast was also incredible (see the photo with the green eye), and it wasn't over-saturated. Its 3,840 x 2,400ppi resolution made details in imagery pop.
@@ -191,10 +201,16 @@ Sergio Rodriguez / How-To Geek
 
  Even with 17 tabs open, YouTube running, and Photoshop and Spotify up, my [Windows Task Manager tabs](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/) showed only a 7% usage of the CPU and 35% of RAM. Streaming in my off time was one of the highlights of the Z16, considering the graphics not only looked great, but the experience was always as smooth as butter.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ###  Gaming Performance: Enjoyable for Casual Entertainment
 
 ![The Lenovo ThinkPad Z16 Gen 2 AMD laptop playing the game "Rise of the Tomb Raider."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/game-photo-on-lenovo-thinkpad-z16-gen-2-amd-laptop.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Cianna Garrison / Review Geek
 
  AMD's Radeon RX 6550M GPU rendered some stunning imagery, but the overall performance of the Z16 Gen 2 during gaming was a bit lackluster. If you're interested in mostly casual games that have fewer resource requirements, the Z16 does well in this department. However, if you want to play games that are a bit more demanding, you're going to struggle.
@@ -205,6 +221,9 @@ Cianna Garrison / Review Geek
 
  However, games that _did_ perform well were a joy to play. These included more casual games such as "Disney Dreamlight Valley," "Minecraft," and "Coral Island," all games with pretty low resource requirements, and a couple of games like "Rise of the Tomb Raider" that had minimal lag.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sights and Sounds: Winning Speakers, Mics, and Video
 
 ![Angled view of the open Lenovo ThinkPad Z16 Gen 2 AMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/angled-view-of-the-open-lenovo-thinkpad-z16-gen-2-amd-3jpg_53384775479_o.jpg) 
@@ -221,6 +240,9 @@ Close
 
  As for the dual speaker system, I was impressed with how well it handled music, dialogue, and game soundtracks. The Dolby Atmos speakers didn't sound muffled, even when I pushed the volume to nearly 100% volume. The sound came through nice and clear and provided some decent bass. Of course, this isn't enough to replace the quality of a [desktop speaker system](https://some-approaches.techidaily.com/new-synergizing-visual-cues-with-the-right-musical-choices/), but for a laptop, I was satisfied and didn't feel the need to use headphones in most scenarios.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### 
 
 ### 
@@ -235,6 +257,9 @@ Sergio Rodriguez / How-To Geek
 
  While the Rapid Charge capability on the ThinkPad Z16 ensured that I was getting an average charge speed of 1.55% per minute (about 90% per hour), the laptop drained at a fairly average pace. For a professional who doesn't want to have to charge their laptop more than once per day, this could be an issue. I averaged a battery drain of 22.8% per hour, which meant every three hours I needed to plug in again. Still, with the power needed to multitask like the Z16 can, charging more often isn't an unfair trade-off.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkPad Z16 Gen 2 (AMD) Laptop?
 
  People who prioritize heavy, multitasking computing will find the [Lenovo ThinkPad Z16 Gen 2 (AMD) laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Flenovo-thinkpad-z16-gen-2-%2816-inch-amd%29%2Flen101t0082) will outshine many other options, especially with premium specs like 64GB of memory and 1TB of storage. The AMD CPU and GPU work fantastically together for programs commonly used by content creators, such as Adobe Photoshop and Premiere Pro, and you can get some casual entertainment out of the Z16, too.
@@ -245,6 +270,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo ThinkPad Z16 Gen 2 AMD Laptop sitting with its screen on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/lenovo-thinkpad-z16-gen-2-amd-laptop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  Lenovo ThinkPad Z16 Gen 2
@@ -271,3 +299,46 @@ The ThinkPad Z16 combines features like powerful AMD processing with a crystal-c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-syncsound-pro-downloads-and-analysis/"><u>[New] SyncSound Pro Downloads & Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-epic-viewership-winners-youtubes-ultimate-list/"><u>[Updated] 2024 Approved  Epic Viewership Winners  YouTube's Ultimate List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-most-anticipated-facebook-trends-for-24/"><u>[Updated] 2024 Approved  The Most Anticipated Facebook Trends for '24</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-how-to-set-up-zoom-for-video-meeting/"><u>[Updated] How to Set up Zoom for Video Meeting</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-sharing-youtube-content-on-facebook-a-step-by-step-guide/"><u>[Updated] In 2024, Sharing YouTube Content on Facebook  A Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-revolutionizing-video-content-analyzing-tiktok-and-snapchats-innovation/"><u>2024 Approved  Revolutionizing Video Content  Analyzing TikTok and Snapchat’s Innovation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-you-invest-the-5-most-important-considerations-when-buying-stereo-speakers/"><u>Before You Invest: The 5 Most Important Considerations When Buying Stereo Speakers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-roku-express-and-roku-stick-key-features-and-functionalities/"><u>Comparing Roku Express and Roku Stick: Key Features & Functionalities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-signal-and-whatsapp-key-distinctions-explained/"><u>Comparing Signal and WhatsApp: Key Distinctions Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquer-the-art-of-quick-messages-using-your-ipad/"><u>Conquer the Art of Quick Messages Using Your iPad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-world-of-online-jokes-what-are-memes/"><u>Decoding the World of Online Jokes: What Are Memes?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-advantages-free-parking-and-hov-lane-access-for-electric-vehicle-drivers/"><u>Exclusive Advantages: Free Parking & HOV Lane Access for Electric Vehicle Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-fixing-critical-ntdlldll-error-codes-for-all-windows-editions/"><u>Expert Advice on Fixing Critical Ntdll.dll Error Codes for All Windows Editions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-downloads-of-realteks-pci-express-feature-device-controllers-for-windows-11/"><u>Free Downloads of Realtek's PCI-Express Feature Device Controllers for Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-closer-with-a-click-mastering-zoom-features-on-apple-tablets-and-phones/"><u>Get Closer with a Click: Mastering Zoom Features on Apple Tablets and Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-best-live-streaming-software-for-mac-you-must-know/"><u>In 2024, 5 Best Live Streaming Software for Mac You Must Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-blizzard-battlenet-experiencing-downtime-or-are-there-local-connectivity-issues/"><u>Is Blizzard Battle.net Experiencing Downtime, Or Are There Local Connectivity Issues?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-2024-secure-guide-to-common-linksys-router-passwords/"><u>July 2024 Secure Guide to Common Linksys Router Passwords</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722890365011-mastering-the-hidden-treasure-of-finder-path-bars-in-macos-enable-and-utilize-now/"><u>Mastering the Hidden Treasure of Finder Path Bars in MacOS - Enable and Utilize Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-not-found-d3d9dll-complications-expert-solutions/"><u>Overcoming 'Not Found' D3D9.DLL Complications: Expert Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-non-functional-subtitles-on-roku-streamers/"><u>Quick Fixes for Non-Functional Subtitles on Roku Streamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resetting-your-fb-password-no-emailphone-needed/"><u>Resetting Your FB Password: No Email/Phone Needed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-advapi32dll-file-cannot-be-located-dilemma/"><u>Resolving the 'Advapi32.dll File Cannot Be Located' Dilemma</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mic-rarities-assembling-the-best-dj-video-samples-for-2024/"><u>Rhythmic Rarities  Assembling the Best DJ Video Samples for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-screen-images-on-your-playstation-4-console/"><u>Step-by-Step Guide: Capturing Screen Images on Your PlayStation 4 Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-building-a-homemade-projector-screen-from-scratch/"><u>Step-by-Step Tutorial: Building a Homemade Projector Screen From Scratch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-pokemon-go-manual-all-you-need-to-know/"><u>The Complete Pokémon Go Manual: All You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-mfc42ddll-disappearance-error-on-your-pc/"><u>The Ultimate Fix for MFC42D.DLL Disappearance Error on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/timeline-of-groundbreaking-technological-developments-since-1844/"><u>Timeline of Groundbreaking Technological Developments Since 1844</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-18-quick-tips-and-tricks-mastering-the-ios-shortcuts-app/"><u>Top 18 Quick Tips & Tricks: Mastering the iOS Shortcuts App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-fix-gmail-synchronization-issues/"><u>Troubleshooting Guide: How To Fix Gmail Synchronization Issues?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-what-to-do-if-youre-missing-emails-in-yahoo-mail/"><u>Troubleshooting Steps: What To Do If You're Missing Emails in Yahoo Mail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turn-off-facebook-mobile-app-on-android-a-complete-walkthrough/"><u>Turn Off Facebook Mobile App on Android – A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-integrating-wi-fi-streaming-into-your-home-cinema-experience/"><u>Ultimate Guide: Integrating Wi-Fi Streaming Into Your Home Cinema Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-error-code-0x80070570-and-effective-solutions/"><u>Understanding Error Code 0X80070570 & Effective Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-next-for-google-all-the-details-on-pixel-fold-2-expected-price-release-window-and-cutting-edge-tech/"><u>What's Next for Google? All the Details on Pixel Fold 2 - Expected Price, Release Window & Cutting-Edge Tech!</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+</ul></div>

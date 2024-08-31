@@ -1,7 +1,7 @@
 ---
 title: Breaking Free From Endless Linux Upgrades? Discover the All-in-One Distribution That Stops the Cycle!
-date: 2024-08-27 15:12:24
-updated: 2024-08-29 10:54:19
+date: 2024-08-30T16:13:23.261Z
+updated: 2024-08-31T16:13:23.261Z
 tags:
   - desktop
 categories:
@@ -36,16 +36,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  blendOS offers a large pool of desktop environments. You have GNOME, KDE, MATE, XFCE, Cinnamon, and LXQt. However, you can also create your own track to make it support other desktops or window managers. The default installation comes with GNOME.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Installation Was Simple
 
 ![blendOS installation screen welcoming the user](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  blendOS is based on Arch Linux. I've never used Arch before, but I'm aware of the dreadful stories regarding [installing Arch Linux](https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-smart-7-hd-by-drfone-android/) on a device. Luckily, many Arch-based distros can be [installed using a GUI installer](https://ai-vdieo-software.techidaily.com/2024-approved-from-minutes-to-seconds-mastering-time-lapse-video-production/).
 
  blendOS uses the Jade GUI installer. The process was straightforward, like installing other [popular Linux distros](https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-80-pro-straight-screen-edition-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/). You choose a few settings, such as language, region, and disk partitioning. The installer handles the rest.
 
 ![blendOS being installed on a system](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Before you start installing blendOS, make sure you allocate enough disk space (at least 20GB.) Otherwise, the installation may fail. When you reboot after installing blendOS, remember to boot from the hard disk instead of the USB stick (if you're using one). If you're using virtualization software such as [VirtualBox](https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-hot-30-5g-by-drfone-android/), change the boot order and put the hard disk at the top.
 
 ##  Managing Software and Updates
@@ -58,6 +67,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Debian container running in blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/debian-container-running-in-blendos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
  You may think that to install and update software, you have to open a container for a distro. However, that's not necessary. With a special syntax, you can install and run apps directly from the base blendOS system. All you have to do is put a period (.) sign after the package name and then the name of the distro. Suppose I want to install VLC media player on the Debian container. For that, I'd run:
 
 sudo apt.debian install vlc
@@ -74,10 +87,16 @@ vlc.debian
 
 ![Associating GIMP with the Ubuntu container in blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/associating-gimp-with-the-ubuntu-container-in-blendos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  In my case, to launch GIMP, I only need to run **gimp** on the command line without any prefixes.
 
 ![GIMP running on blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/launching-gimp-on-blendos-using-associations.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  But not everyone likes to remember commands for launching apps. You don't have to. Any app you install on any container will also appear in the apps menu. You can go to the apps menu and launch the app from the GUI.
 
 ![Applications from different Linux containers in the same place on blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/applications-from-different-linux-containers-in-the-same-place-on-blendos.png) 
@@ -86,10 +105,16 @@ vlc.debian
 
 ![GUI package installer in blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gui-package-installer-in-blendos.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
  There's also a dedicated GUI software store in blendOS similar to the one you get on Ubuntu. You can search and install software from there as well. The software in the store comes from Flathub.
 
 ![An instance of the blendOS software store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/blendos-software-store.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  For system updates, blendOS offers a utility tool called "akshara." If you'd like to update the system, simply run:
 
 sudo akshara update
@@ -100,6 +125,9 @@ sudo akshara update
 
 ![System Settings menu displaying the option to update blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/update-blendos-from-the-system-settings-menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
  This update also covers any system changes you included in the system.yaml file. So after updating, you need to reboot the system.
 
  You can also update individual containers. For that, open a container and run the command to update that distro. For Debian, you run **sudo apt update** and for Fedora, you run **sudo dnf update** in the container's command line.
@@ -114,6 +142,9 @@ sudo akshara update
 
  When using Android apps, you'll feel like you're natively running them on your system thanks to the abstraction. However, as I'm writing this, the Android experience on blendOS was subpar at best. The idea is great and needs better implementation. More on this in a bit.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Recipe for Disaster?
 
  The very first concern anyone can raise about blendOS is the mixture of different distributions and package managers. Since you're using different package managers from different distributions to install software on the same system, won't that create package conflicts and dependency errors?
@@ -176,3 +207,51 @@ sudo akshara update
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-discover-top-ten-unforgettable-youtube-vr-videos/"><u>[New] 2024 Approved  Discover  Top Ten Unforgettable YouTube VR Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-optimal-use-of-zoom-on-chrome-os-devices/"><u>[New] 2024 Approved  Optimal Use of Zoom on Chrome OS Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-critically-acclaimed-vr-film-selections/"><u>[New] In 2024, Critically Acclaimed VR Film Selections</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-recording-perfection-macbook-cam-tutorial/"><u>[New] In 2024, Recording Perfection  MacBook Cam Tutorial</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-quick-and-detailed-guide-to-xbox-video-capture/"><u>[New] Quick and Detailed Guide to Xbox Video Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-freeze-whole-website-panel/"><u>[Updated] 2024 Approved  Freeze Whole Website Panel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrating-brilliance-the-most-trusted-vector-tools-reviewed/"><u>2024 Approved  Illustrating Brilliance  The Most Trusted Vector Tools Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-picks-best-selling-oculus-rift-games/"><u>2024 Approved  Premier Picks  Best-Selling Oculus Rift Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-crafting-your-first-awkward-potion-on-minecraft/"><u>A Beginner's Guide: Crafting Your First Awkward Potion on Minecraft</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-silencing-the-voice-prompt-functionality-in-samsung-televisions/"><u>A Comprehensive Guide to Silencing the Voice Prompt Functionality in Samsung Televisions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-google-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Google</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-you-verify-authentic-dolby-atmos-acoustics-in-your-setup/"><u>Can You Verify Authentic Dolby Atmos Acoustics in Your Setup?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-and-quality-sony-xperia-review-is-the-expense-justified/"><u>Compact and Quality Sony Xperia ˈreview – Is the Expense Justified?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722877411666-enhance-your-samsung-tv-with-the-latest-updates-easy-tutorial-included/"><u>Enhance Your Samsung TV with the Latest Updates - Easy Tutorial Included</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-learning-tools-the-ultimate-list-of-10-apps-for-high-schoolers/"><u>Essential Learning Tools - The Ultimate List of 10 Apps for High Schoolers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expand-your-watchlist-with-easy-remote-access-setup-for-samsung-smart-tvs/"><u>Expand Your Watchlist with Easy Remote Access Setup for Samsung Smart TVs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-best-tv-streaming-options-our-pick-of-the-top-8/"><u>Exploring the Best TV Streaming Options: Our Pick of the Top 8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ready-for-virtual-adventures-with-sonys-upcoming-vr-device-price-forecasts-expected-launch-tech-specifications-and-buzzing-rumors/"><u>Get Ready for Virtual Adventures with Sony's Upcoming VR Device – Price Forecasts, Expected Launch, Tech Specifications & Buzzing Rumors</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-gt-neo-5-se-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme GT Neo 5 SE Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-activate-dual-layer-security-with-gmails-2-factor-auth/"><u>How To Activate Dual-Layer Security With Gmail's 2 Factor Auth</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-11-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 11 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-s18-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo S18 for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tweaking-sound-on-ps5ps4-games/"><u>In 2024, Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-the-problem-with-you-or-is-battlenet-actually-experiencing-issues/"><u>Is the Problem with You or Is Battle.net Actually Experiencing Issues?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oneplus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your OnePlus Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-have-educational-gadgets-the-ultimate-list-of-9-key-devices-for-academic-success/"><u>Must-Have Educational Gadgets: The Ultimate List of 9 Key Devices for Academic Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/playstation-showdown-the-pros-and-cons-of-ps5-slim-versus-full-sized-ps5/"><u>PlayStation Showdown: The Pros and Cons of PS5 Slim versus Full-Sized PS5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-channels-unleashed-your-guide-to-watching-them-without-a-roku-player/"><u>Roku Channels Unleashed: Your Guide to Watching Them Without a Roku Player</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simultaneously-linking-several-bluetooth-speakers-with-a-single-gadget/"><u>Simultaneously Linking Several Bluetooth Speakers with a Single Gadget</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solve-the-missing-mfc42dll-file-problem-easily-a-comprehensive-solution/"><u>Solve the Missing mfc42.dll File Problem Easily - A Comprehensive Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-gen-google-pixel-fold-mark-ii-anticipated-release-timeline-and-features-rumors/"><u>The Next Gen Google Pixel Fold (Mark II): Anticipated Release Timeline and Features Rumors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-samsungs-revolutionary-2025-launch-when-it-happens-plus-rumored-innovations/"><u>The Ultimate Guide to Samsung's Revolutionary 2025 Launch: When It Happens + Rumored Innovations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-determining-whether-xbox-connectivity-problems-are-widespread-or-personal/"><u>Troubleshooting Guide: Determining Whether Xbox Connectivity Problems Are Widespread or Personal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-haldll-failures-across-different-windows-platforms-including-11-and-vista/"><u>Troubleshooting Hal.dll Failures Across Different Windows Platforms, Including 11 & Vista</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tunes-and-tutorials-making-music-laced-instagram-vids/"><u>Tunes & Tutorials  Making Music-Laced Instagram Vids</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-the-dota-2-vac-error-alert-updated-tips/"><u>Understanding and Resolving the Dota ˈ2 VAC Error Alert - Updated Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uniting-your-soundtrack-sets-from-different-spaces/"><u>Uniting Your Soundtrack Sets From Different Spaces</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-financial-freedom-with-these-6-must-visit-money-saving-websites/"><u>Unlock Financial Freedom with These 6 Must-Visit Money-Saving Websites</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-google-pixel-7as-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Google Pixel 7as Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-note-30-vip-racing-edition-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix Note 30 VIP Racing Edition Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-tesla-robotaxi-breaking-down-the-latest-speculations-and-timeline/"><u>Upcoming Tesla Robotaxi - Breaking Down the Latest Speculations and Timeline</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrade-your-internet-experience-swapping-the-built-in-browser-of-a-samsung-tv/"><u>Upgrade Your Internet Experience: Swapping the Built-In Browser of a Samsung TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-you-need-to-know-about-the-upcoming-samsung-galaxy-watch-7-price-points-availability-dates-and-key-features/"><u>What You Need to Know About the Upcoming Samsung Galaxy Watch 7 - Price Points, Availability Dates & Key Features</u></a></li>
+</ul></div>

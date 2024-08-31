@@ -1,7 +1,7 @@
 ---
 title: "Solving 'No Internet Access' Issue: Top 10 Windows 11 Troubleshooting Steps for Wi-Fi Connectivity"
-date: 2024-08-26 21:39:51
-updated: 2024-08-29 11:18:49
+date: 2024-08-30T16:14:29.072Z
+updated: 2024-08-31T16:14:29.072Z
 tags:
   - desktop
 categories:
@@ -62,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 
 ![The button to set up a manual proxy on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/manual-proxy-setup-windows-11.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Disconnect Other Wi-Fi Networks
 
  Your laptop might be connected to a Wi-Fi network that's disconnected from the internet, which could be why you don't have internet access. Windows laptops automatically switch to the fastest available network, and your device may have automatically switched to a different Wi-Fi network.
@@ -70,20 +73,33 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 
 ![Opening the 'Manage Known Networks' settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-5-opening-the-manage-known-networks-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  From there, click the "Forget" button next to each Wi-Fi network to remove it entirely from your laptop.
 
 ![Forgetting an old network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-forgetting-an-old-network-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Remove the Data Limit
 
 [Windows allows users to restrict their data usage](https://fox-http.techidaily.com/2024-approved-clever-ways-to-neglect-edge-academy-vids/), which is especially useful if they have a limited data plan or their ISP charges them based on data usage. When this limit is reached, internet access is disabled even though the device appears to be connected to Wi-Fi. To check this, navigate to Network and Internet > Advanced Network Settings > Data Usage.
 
 ![Opening the data usage settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/opening-the-data-usage-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To remove the set data limit, click the "Remove Limit" button and click "Remove" in the pop-up.
 
 ![Removing the data usage limit from the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-removing-the-data-usage-limit-from-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Users can also set data limits on their phones (for hotspot connections) or within their router settings. Ensure that data usage is not limited there either.
 
 ##  Run the Network and Internet Troubleshooter
@@ -92,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, click the "Run" button next to Network and Internet. Windows will open the Get Help app, which will guide you through instructions to identify and fix the problem.
 
 ##  Ensure the IP Address Isn't Invalid
@@ -108,6 +127,18 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 
 ![Settings the DNS server assignment to automatic in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-settings-the-dns-server-assignment-to-automatic-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Update the Network Adapter Driver
 
  Outdated network drivers can lead to various internet problems. To ensure outdated drivers aren't the cause of the current issue, [download and install the latest drivers available](https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-13c-5g-phone-frp-lock-by-drfone-android/). Visit your device manufacturer's website and locate the latest network drivers. If the driver file is in executable format, simply run it and follow the on-screen instructions to install it.
@@ -116,8 +147,15 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 
 ![Updating a network adapter driver in the Device Manager on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-updating-a-network-adapter-driver-in-the-device-manager-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
  Next, select "Browse My Computer for Drivers," then navigate to the path where you downloaded the drivers. Follow the on-screen instructions to complete the installation process.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Perform a Network Reset
 
  If the issue persists, you can try the least favorable option: reset the network settings. This process clears all network-related information and preferences, including saved Wi-Fi networks, passwords, and VPN profiles, but it often resolves critical network problems. However, only resort to this as a last option if other fixes have failed.
@@ -126,10 +164,16 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 
 ![Opening the network reset settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-opening-the-network-reset-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  Click "Reset Now" and confirm by clicking "Yes" in the confirmation box. Then, restart your device and set up your Wi-Fi network from scratch.
 
 ![Resetting the network settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-resetting-the-network-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ##  Run a Few Commands in the Command Prompt
 
  If none of the previously mentioned solutions resolve the issue, run a few commands in Command Prompt to [flush the DNS cache](https://article-helps.techidaily.com/updated-in-2024-sightline-synopsis-study/), release and renew the IP address, and reset rules and network records. Type **cmd** in the Windows Search bar, and click on "Run as Administrator."
@@ -162,3 +206,48 @@ ipconfig /flushdns`
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-pro-gif-designers-picks-online-vs-desktop-platforms/"><u>[New] 2024 Approved  Pro-Gif Designers' Picks  Online vs Desktop Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-sandbox-games-titles-you-shouldnt-be-missing/"><u>[New] Best Sandbox Games  Titles You Shouldn’t Be Missing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-template-to-trendsetter-gamer-channel-banners-guide/"><u>[New] In 2024, From Template to Trendsetter  Gamer Channel Banners Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-airdate-for-podcasts-timing-matters-most/"><u>[New] Optimal Airdate for Podcasts  Timing Matters Most</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-desktop-based-tiktok-videos/"><u>[Updated] 2024 Approved  The Ultimate Guide to Desktop-Based TikTok Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-digital-diary-documenting-windows-desktop/"><u>[Updated] Digital Diary  Documenting Windows Desktop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enhancing-photo-stability-with-the-right-gimbal/"><u>[Updated] Enhancing Photo Stability with the Right Gimbal</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sculpting-shareable-online-laughter/"><u>[Updated] Sculpting Shareable Online Laughter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/20plus-funny-metaverse-memes-and-how-to-make-your-own-memes/"><u>20+ Funny Metaverse Memes and How to Make Your Own Memes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-samsung-smart-tv-app-choices-for-enhanced-viewing/"><u>Best Samsung Smart TV App Choices for Enhanced Viewing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-the-perfect-viewing-sequence-for-all-seven-harry-potter-films/"><u>Complete Guide: The Perfect Viewing Sequence for All Seven Harry Potter Films</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-fueled-personalization-enhancing-user-experience/"><u>Cookiebot-Fueled Personalization: Enhancing User Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-502-bad-gateway-mistake-strategies-for-resolution/"><u>Decoding the 502 Bad Gateway Mistake: Strategies for Resolution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-methods-how-to-switch-off-sticky-keys-in-microsoft-windows/"><u>Easy Methods: How To Switch Off Sticky Keys In Microsoft Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-setting-up-your-new-echo-dot-successfully/"><u>Easy Steps: Setting Up Your New Echo Dot Successfully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-merge-your-music-collections-a-comprehensive-guide-to-combining-playlists-on-spotify/"><u>Effortlessly Merge Your Music Collections: A Comprehensive Guide to Combining Playlists on Spotify</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722878771360-expert-advice-on-repairing-broken-email-functionality-on-your-iphone/"><u>Expert Advice on Repairing Broken Email Functionality on Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-restoring-or-replacing-missing-shelldll-components-on-windows/"><u>Expert Tips: Restoring or Replacing Missing Shell.dll Components on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/high-definition-excellence-leading-the-recording-race/"><u>High Definition Excellence  Leading the Recording Race</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-13-ultra-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi 13 Ultra Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-send-and-receive-faxes-for-free-a-list-of-7-great-tools/"><u>How To Send and Receive Faxes For Free: A List Of 7 Great Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-camon-20-premier-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Camon 20 Premier 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-release-discovering-the-most-recent-ipad-genre/"><u>Latest Release: Discovering the Most Recent iPad Genre</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-process-buying-and-enjoying-meta-oculus-quest-gaming-experiences/"><u>Master the Process: Buying and Enjoying Meta (Oculus) Quest ² Gaming Experiences</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-steam-disk-errors-strategies-for-seamless-installations/"><u>Mastering the Steam Disk Errors: Strategies for Seamless Installations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-issue-of-missing-mfplatdll-file-on-your-pc-a-step-by-step-guide/"><u>Resolving the Issue of Missing mfplat.dll File on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumors-and-facts-the-comprehensive-guide-to-android-16s-release-date-price-tag-hardware-specs-and-more/"><u>Rumors and Facts: The Comprehensive Guide to Android 16'S Release Date, Price Tag, Hardware Specs & More</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumors-surrounding-appleer-next-innovation-home-robot-price-estimates-forecasted-launch-moment-and-spec-sheet-analysis/"><u>Rumors Surrounding Apple'er Next Innovation: Home Robot – Price Estimates, Forecasted Launch Moment & Spec Sheet Analysis</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-s21-ultra-unveiled-the-premier-choice-in-android-devices/"><u>Samsung Galaxy S21 Ultra Unveiled: The Premier Choice in Android Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-understanding-mac-os-x-versus-windows-operating-systems/"><u>The Definitive Guide to Understanding Mac OS X Versus Windows Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-easy-way-to-remove-and-reapply-a-screen-guard-on-your-phone/"><u>The Easy Way to Remove and Reapply a Screen Guard on Your Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-feasibility-of-dual-playbacks-can-two-people-enjoy-spotify-at-once/"><u>The Feasibility of Dual Playbacks – Can Two People Enjoy Spotify at Once?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-fast-tweaks-essential-beginners-guide-to-mastering-formerly-twitter/"><u>Top 10 Fast Tweaks: Essential Beginner's Guide to Mastering Formerly Twitter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-complimentary-malware-scrubbers-find-the-best-one/"><u>Top 5 Complimentary Malware Scrubbers - Find the Best One!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-most-effective-email-services-competing-with-gmail/"><u>Top 8 Most Effective Email Services Competing with Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-your-taskbar-a-detailed-tutorial-on-personalizing-its-color-on-windows-10/"><u>Transforming Your Taskbar: A Detailed Tutorial on Personalizing Its Color on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-solve-cd-dvd-and-blu-ray-player-not-working-issues/"><u>Troubleshooting Tips: Solve CD, DVD & Blu-Ray Player Not Working Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unleashing-linguistic-potential-mondlys-success-story-2022/"><u>Unleashing Linguistic Potential: Mondly's Success Story, 2022</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-full-potential-expert-advice-on-using-the-meta-quest-audio-input/"><u>Unlocking Full Potential: Expert Advice on Using the Meta Quest Audio Input</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-makeover-how-to-choose-and-apply-a-new-taskbar-color/"><u>Windows 11 Makeover: How to Choose and Apply a New Taskbar Color</u></a></li>
+</ul></div>

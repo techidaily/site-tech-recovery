@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Controversial Apple Releases: How Initial Critiques Shaped Success"
-date: 2024-08-26 21:45:57
-updated: 2024-08-29 10:57:11
+date: 2024-08-30T16:17:16.027Z
+updated: 2024-08-31T16:17:16.027Z
 tags:
   - cutting-edge
 categories:
@@ -36,10 +36,16 @@ _[Grand Warszawski / Shutterstock.com](https://www.shutterstock.com/image-photo/
 
  Despite the shortcomings, the iMac [doubled Apple's PC market share](https://lowendmac.com/1998/imac-saves-apple/) in just the first four months. It arguably saved the company, and was responsible for several product names to come---iPod and iPhone. The products listed below may have never come to be without the success of the original iMac.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  iPod (2001)
 
 ![iPod 2001](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_1598882824.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/upright-view-1st-generation-ipod-sitting-1598882824)_
 
  The original iPod was announced in a low-key event by Steve Jobs in 2001\. It was pretty well received---except for one big sticking point: price. The first iPod cost $399 for 5GB of storage, and that was a point of contention.
@@ -60,10 +66,17 @@ _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/upright
 
 [Apple was selling](https://en.wikipedia.org/wiki/File:Ipod%5Fsales%5Fper%5Fquarter.svg) over 20 million iPods per year by 2005, and peaked at nearly 60 million in 2008 and 2009\. It was a massive success, and led to a seismic change in the music industry and how we listen to music today.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  iPhone (2007)
 
 ![Original iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_1899511723.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/1st-generation-iphone-laying-on-top-1899511723)_
 
  The original iPhone was announced in 2007, and while Steve Jobs' presentation has become legendary, not everyone was convinced that Apple truly had "reinvented" the phone. In fact, a lot of people were very critical and dismissive of the iPhone.
@@ -78,10 +91,16 @@ _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/1st-gen
 
  The original iPhone became the third most popular phone in the U.S. [in just three months](https://www.theguardian.com/technology/2007/oct/23/apple.iphone). It has obviously been an astounding success for Apple. As of Q1 2023, Apple makes up 21% of the [global smartphone market share](https://www.counterpointresearch.com/global-smartphone-share/) and a whopping 52% of the [U.S. market share](https://www.counterpointresearch.com/us-market-smartphone-share/).
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Apple Watch (2015)
 
 ![Apple Watch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_326509586.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 _[DenPhotos / Shutterstock.com](https://www.shutterstock.com/image-photo/alushta-russia-september-1-2015-man-326509586)_
 
  By 2015, when the original Apple Watch was announced, people had started to catch on that maybe Apple knew what it was doing. Still, there was plenty of skepticism around Apple's entry into the smartwatch market.
@@ -112,3 +131,62 @@ _[DenPhotos / Shutterstock.com](https://www.shutterstock.com/image-photo/alushta
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-a-2023-survival-guide-seeking-fb-videos-on-every-tab/"><u>[New] 2024 Approved  A 2023 Survival Guide  Seeking FB Videos on Every Tab</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-critique-unmasking-the-bublcam-360-experience/"><u>[New] Complete Critique  Unmasking the Bublcam 360 Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-expert-techniques-for-streamers-on-macos/"><u>[Updated] 2024 Approved  Expert Techniques for Streamers on macOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturezone-win-10s-best-recorder-for-2024/"><u>[Updated] CaptureZone  Win 10'S Best Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-from-social-media-to-high-definition-free-conversion-of-fb-videos-to-mp4-for-2024/"><u>[Updated] From Social Media to High Definition  Free Conversion of FB Videos to MP4 for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-your-channel-ranking-with-these-11-seo-secrets/"><u>[Updated] In 2024, Elevate Your Channel Ranking with These 11 SEO Secrets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-walkthrough-on-reinitializing-your-latest-iphone-model-xs/"><u>A Comprehensive Walkthrough on Reinitializing Your Latest iPhone Model (Xs)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/an-in-depth-look-at-what-bing-really-is-and-how-it-works/"><u>An In-Depth Look at What Bing Really Is and How It Works</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-16-rumors-revealed-anticipated-costs-release-schedule-tech-specs-what-to-expect/"><u>Android 16 Rumors Revealed: Anticipated Costs, Release Schedule, Tech Specs - What to Expect!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/battle-of-the-titans-gopro-hero4-black-versus-drift-ghost-s/"><u>Battle of the Titans  GoPro Hero4 Black Versus Drift Ghost-S</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-lava-blaze-pro-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-right-voice-ai-alexa-vs-google-assistant/"><u>Choosing the Right Voice AI: Alexa Vs. Google Assistant</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-on-watching-spider-man-no-way-home-online/"><u>Complete Guide on Watching 'Spider-Man: No Way Home' Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-solutions-to-prevent-constant-crashing-of-your-outlook-software/"><u>Comprehensive Solutions to Prevent Constant Crashing of Your Outlook Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defeating-error-messages-in-microsoft-edge-a-comprehensive-troubleshooting-approach/"><u>Defeating Error Messages in Microsoft Edge: A Comprehensive Troubleshooting Approach</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/directinputdll-problems-with-microsoft-troubleshooting-tips-and-solutions/"><u>DirectInput.dll Problems with Microsoft - Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discord-not-working-heres-how-to-check-if-its-an-outage-or-your-network-problem/"><u>Discord Not Working? Here's How to Check if It’s an Outage or Your Network Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-to-fixing-undetected-external-display-by-a-mac-computer/"><u>DIY Guide to Fixing Undetected External Display by a Mac Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-correct-the-not-found-error-with-vcompdll-on-your-pc/"><u>Easy Steps to Correct the Not Found Error with vcomp.dll on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-steps-to-remove-your-pcs-system-repair-disc/"><u>Effective Steps to Remove Your PC's System Repair Disc</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-speeds-for-optimal-performance-a-guide-to-your-pcs-true-potential/"><u>Essential Speeds for Optimal Performance: A Guide to Your PC's True Potential</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ev-performance-can-electric-cars-withstand-harsh-winters-and-scorching-summers/"><u>EV Performance: Can Electric Cars Withstand Harsh Winters and Scorching Summers?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-maintaining-and-wiping-down-your-hd-flat-panel-display/"><u>Expert Tips on Maintaining and Wiping Down Your HD Flat Panel Display</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-the-complexity-behind-youtube-view-counter/"><u>Exploring the Complexity Behind YouTube View Counter</u></a></li>
+<li><a href="https://article-helps.techidaily.com/fabricate-comical-artwork-adobe-style-for-2024/"><u>Fabricate Comical Artwork, Adobe Style for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-setting-up-your-apple-watch-with-gmail-integration/"><u>Guide: Setting up Your Apple Watch with Gmail Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-dts-play-fi-revolutionize-your-home-audio-experience/"><u>How Does DTS Play-Fi Revolutionize Your Home Audio Experience?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722895973745-how-long-before-a-mailcom-email-address-gets-deleted-find-out-now/"><u>How Long Before a mail.com Email Address Gets Deleted – Find Out Now</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effortlessly-set-up-a-subwoofer-alongside-your-samsung-soundbar/"><u>How to Effortlessly Set Up a Subwoofer Alongside Your Samsung Soundbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-mscorwksdll-not-found-or-missing-errors/"><u>How to Fix Mscorwks.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-a-fatal-unmountablebootvolume-bug-in-windows-10-easily/"><u>How to Repair a Fatal UNMOUNTABLE_BOOT_VOLUME Bug in Windows 10 Easily!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-project-your-online-meetings-from-zoom-to-the-big-screen-television/"><u>How To: Project Your Online Meetings From Zoom to the Big Screen Television</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-oppo-k11x-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Oppo K11x to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Poco M6 Pro 4G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-perfection-an-essential-guide-to-hdr-imaging/"><u>In 2024, Crafting Perfection  An Essential Guide to HDR Imaging</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-auditory-gamespace-vaults-copyright-free/"><u>In 2024, Free Auditory Gamespace Vaults (Copyright-Free)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-facebook-call-recording-a-step-by-step-guide-for-2024/"><u>Mastering Facebook Call Recording  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-remote-pc-display-on-tv-screens-with-chromecast-compatibility-and-windows-integration/"><u>Mastering Remote PC Display on TV Screens with Chromecast Compatibility and Windows Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-cache-removal-on-your-android-phone-or-tablet/"><u>Mastering the Art of Cache Removal on Your Android Phone or Tablet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mycam-in-action-a-detailed-review-of-its-recording-abilities/"><u>MyCam in Action  A Detailed Review of Its Recording Abilities</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-asus-rog-phone-7-ultimate-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Asus ROG Phone 7 Ultimate? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/recipe-for-success-video-styling-in-gastronomy-for-2024/"><u>Recipe for Success  Video Styling in Gastronomy for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reversing-videos-like-a-pro-expert-tips-for-snapchat-users/"><u>Reversing Videos Like a Pro: Expert Tips for Snapchat Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-the-not-found-rockalldlldll-file-problem/"><u>Step-by-Step Guide: Correcting the Not Found 'Rockalldll.dll File' Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-devices-from-your-google-home-setup/"><u>Step-by-Step Guide: Removing Devices From Your Google Home Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-viewing-diverse-video-formats-on-apple-tv-via-vlc/"><u>The Definitive Guide to Viewing Diverse Video Formats on Apple TV via VLC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-smartwatch-functions-and-features/"><u>The Ultimate Guide to Smartwatch Functions & Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-verdict-on-criacrs-bluetooth-fm-transmitter-cp24-review-reveals-a-small-package-with-big-issues/"><u>The Verdict on Criačr's Bluetooth FM Transmitter: CP24 Review Reveals a Small Package with Big Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-to-fix-the-missing-ftd2xxdll-error-message/"><u>Troubleshooting Tips to Fix the Missing Ftd2xx.dll Error Message</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-key-distinctions-between-macs-and-pcs-a-comprehensive-insight/"><u>Unveiling the Key Distinctions Between Macs & PCs: A Comprehensive Insight</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-level-up-your-videos-20-best-free-adobe-premiere-title-templates-for-2024/"><u>Updated Level Up Your Videos 20 Best Free Adobe Premiere Title Templates for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/viewing-tips-accessing-the-roku-channel-on-non-roku-devices/"><u>Viewing Tips: Accessing The Roku Channel on Non-Roku Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Bright Side of iOS 15'S New Flashlight – The Reasons I Admire Apple Even More
-date: 2024-08-27 19:46:28
-updated: 2024-08-29 12:41:20
+date: 2024-08-30T16:12:56.962Z
+updated: 2024-08-31T16:12:56.962Z
 tags:
   - mobile
 categories:
@@ -37,28 +37,46 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Three iPhone screenshots of iOS 18's flashlight interface showcasing setting the width of light beam between narrow, medium, and wide.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-home-screen-dynamic-island-flashlight-controls-expanded-led-light-beam-width-control.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  My biggest complaint with the old flashlight was lack of fine-graded control, with just [four levels of intensity available via the Control Center](https://hardware-updates.techidaily.com/canoscan-lide-220-fresh-download-and-software-update-guide/). But here, I just drag my finger up and down to adjust the LED light's brightness in smooth increments. What a time to be alive!
 
  As the LED intensity changes, the flashlight icon in the interface goes from brighter to dimmer, and vice versa. The solid curve also responds to finger movement, moving closer and farther from the flashlight icon. The dotted curve denotes the maximum threshold.
 
 ![Three iPhone screenshots of iOS 18's flashlight interface showcasing setting LED light intensity between low, medium, and high.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-home-screen-dynamic-island-flashlight-controls-expanded-led-light-beam-intensity-control.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It's a simple yet effective interface. Anything that helps me fine-tune flashlight intensity in complete darkness gets a thumbs-up in my book. Bonus: You can drag a finger horizontally and vertically simultaneously to change light width and brightness in one fell swoop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ##  Going the Extra Mile With Flashlight
 
  Other controls are intuitive, too. A tap on the interface toggles the flashlight. Hitting outside sucks the interface into the Dynamic Island area. To bring it back (with your adjustments remembered), tap the Dynamic Island again.
 
 ![A closeup of the iPhone's Home Screen with the flashlight icon in the Dynamic Island area.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-home-screen-dynamic-island-flashlight-minimized-controls.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  iOS 18 finally allows you to change the flashlight and camera shortcuts on the Lock Screen to your liking, and the same is true for [iOS 18's customizable Control Center](https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-gionee-by-drfone-android/).
 
 ![A part of the iPhone's Control Center in Edit mode, with the flashlight icon annotated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-control-center-customize-flashlight-icon-annotation.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Like before, you can [assign the flashlight function to the Action button](https://youtube-lab.techidaily.com/banish-stutter-and-freeze-optimize-your-outriders-gameplay/), use the flashlight feature in your Shortcuts automations, [set flashlight as a Back Tap action](https://buynow-info.techidaily.com/comprehensive-review-of-finties-macbook-pro-13-protective-case-excelling-in-durability-and-affordable-pricing/), and even [make your iPhone's LED flash light up when you receive a notification](https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-photos/).
 
 ![A closeup of the iPhone's Lock Screen in Edit mode with the flashlight shortcut icon annotated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apple-ios-18-lock-screen-customize-flashlight-icon-annotation.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
  The new flashlight experience is restricted to the iPhone 14 Pros and iPhone 15 Pros as the only models with Adaptive True Tone flash and Dynamic Island. We might see the feature trickle down to the standard iPhone with the release of the iPhone 16.
 
 ---
@@ -81,3 +99,51 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-conduct-a-symphony-on-the-ppt-stage/"><u>[New] 2024 Approved  Conduct a Symphony on the PPT Stage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-iconic-video-titles-youtubes-most-watched-lore/"><u>[New] In 2024, Iconic Video Titles  YouTube's Most-Watched Lore</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-iphone-tips-for-time-dilation-in-videography/"><u>[Updated] IPhone Tips for Time-Dilation in Videography</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-leveraging-innovation-a-comprehensive-guide-to-redefining-your-tiktok-avatar-for-2024/"><u>[Updated] Leveraging Innovation  A Comprehensive Guide to Redefining Your TikTok Avatar for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-sound-communication-on-whatsapp/"><u>[Updated] Mastering Sound Communication on WhatsApp</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-perfecting-your-mobile-video-recordings-on-snapchat/"><u>[Updated] Perfecting Your Mobile Video Recordings on Snapchat</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-tales-that-transcend-leading-academies-ranked-top-8-for-2024/"><u>[Updated] Tales That Transcend  Leading Academies Ranked Top 8 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-a15-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-tech-savvy-reviewer-dissects-the-features-of-netatmos-innovative-and-stylish-weather-station/"><u>A Tech Savvy Reviewer Dissects the Features of Netatmo's Innovative and Stylish Weather Station</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/capture-your-browser-journeenas-digital-diary-entries/"><u>Capture Your Browser Journeenas Digital Diary Entries</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cutting-edge-tips-for-using-colored-backdrops-in-video-making/"><u>Cutting-Edge Tips for Using Colored Backdrops in Video Making</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-your-windows-11-wi-fi-networks-secret-key/"><u>Discovering Your Windows 11 Wi-Fi Network's Secret Key</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-referencing-gpt-3-in-academic-writing/"><u>Effective Strategies for Referencing GPT-3 in Academic Writing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vehicle-buying-guide-9-questions-you-must-contemplate/"><u>Electric Vehicle Buying Guide: 9 Questions You Must Contemplate</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhancing-digital-success-with-cookiebot-technology-integration/"><u>Enhancing Digital Success with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-correcting-wpcapdll-not-found-errors-in-windows/"><u>Expert Advice: Correcting 'Wpcap.dll Not Found' Errors in Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-this-costless-voice-changer-to-boost-valorant-skills/"><u>Explore This Costless Voice Changer to Boost Valorant Skills</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-steps-to-introduce-automated-bots-in-your-discord-community/"><u>Guide: Steps to Introduce Automated Bots in Your Discord Community</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-11-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme 11 5G.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-xiaomi-redmi-note-13-proplus-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi Redmi Note 13 Pro+ 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-the-upcoming-iphone-cost-guesswork-projected-release-moment-and-technical-insights/"><u>Inside Scoop on the Upcoming iPhone 지판: Cost Guesswork, Projected Release Moment & Technical Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-visual-voice-mail-solutions-for-the-current-year-2024/"><u>Leading Visual Voice Mail Solutions for the Current Year, 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lens-clarity-not-cloudiness-anti-fog-tips-for-gopro/"><u>Lens Clarity, Not Cloudiness  Anti-Fog Tips for GoPro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-favorite-teen-movies-on-netflix/"><u>Our Favorite Teen Movies on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smartphone-lifespan-how-often-should-you-consider-an-upgrade/"><u>Smartphone Lifespan: How Often Should You Consider an Upgrade?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-get-your-samsung-soundbar-back-up-and-running/"><u>Solving Common Issues: Get Your Samsung Soundbar Back Up and Running</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-when-paramount-plus-wont-play-properly-on-a-fire-stick/"><u>Step-by-Step Fix for When Paramount Plus Won't Play Properly on a Fire Stick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-retrieve-lost-emails-from-your-gmail-inbox/"><u>Step-by-Step Guide: Retrieve Lost Emails From Your Gmail Inbox</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-the-missing-mfc71dll-error-message/"><u>Step-by-Step Solutions for the Missing Mfc71.dll Error Message</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-integrating-github-copilot-into-your-microsoft-teams-experience/"><u>Step-by-Step Tutorial on Integrating GitHub Copilot Into Your Microsoft Teams Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-to-manage-video-watcher-restrictions-on-youtube-for-2024/"><u>Steps to Manage Video Watcher Restrictions on Youtube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-resolve-photoshop-scratch-disk-overload-problems/"><u>Steps to Resolve Photoshop Scratch Disk Overload Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-google-smartwatch-is-coming-discover-expected-pricing-release-timeline-features-rumors-and-more/"><u>The Next Google Smartwatch Is Coming? Discover Expected Pricing, Release Timeline, Features Rumors & More</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-perfect-order-to-experience-every-classic-james-bond-movie/"><u>The Perfect Order to Experience Every Classic James Bond Movie</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-retweet-or-not-to-retweet-exploring-the-meaning-of-re-tweets-on-twitter/"><u>To Retweet Or Not to Retweet? Exploring the Meaning of Re-Tweets on Twitter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-restore-your-iphones-camera-focus-top-solutions-to-try-today/"><u>Troubleshoot and Restore Your iPhone's Camera Focus - Top Solutions to Try Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-the-binkw32dll-error-fix/"><u>Troubleshooting Tips for the Binkw32.dll Error Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-metas-artificial-intelligence-an-in-depth-guide/"><u>Understanding Meta's Artificial Intelligence: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-t-mobiles-metro-plan-what-you-need-to-know-about-their-international-roaming-strategy/"><u>Unraveling T-Mobile's Metro Plan: What You Need to Know About Their International Roaming Strategy</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-25-cute-memes-to-make-you-feel-better-for-2024/"><u>Updated 25 Cute Memes to Make You Feel Better for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/weaving-digital-tapestries-with-loom/"><u>Weaving Digital Tapestries with Loom</u></a></li>
+</ul></div>

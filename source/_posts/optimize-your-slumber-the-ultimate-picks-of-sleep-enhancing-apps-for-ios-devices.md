@@ -1,0 +1,199 @@
+---
+title: "Optimize Your Slumber: The Ultimate Picks of Sleep-Enhancing Apps for iOS Devices"
+date: 2024-08-30T16:31:54.840Z
+updated: 2024-08-31T16:31:54.840Z
+categories:
+  - BestProducts
+description: "This Article Describes Optimize Your Slumber: The Ultimate Picks of Sleep-Enhancing Apps for iOS Devices"
+excerpt: "This Article Describes Optimize Your Slumber: The Ultimate Picks of Sleep-Enhancing Apps for iOS Devices"
+thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bcaaab93f9b1c17f1267af060.png
+---
+
+## Discover the Ultimate List of Gmail's Fastest Typing Tricks
+ Managing and organizing your email can work just fine using drag and drop. But if you have a lot of email, learning Gmail's keyboard commands (along with some[Gmail tricks and tips](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146) ) can save you hours. Here are more than two dozen to pick from. Oh, don't be intimidated. Just pick one and try it out for a bit. Then come back to learn more.
+
+ Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
+
+## How to Enable Gmail Shortcuts
+
+ To use Gmail shortcuts, you must first enable them in the **Settings** menu.
+
+1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
+![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
+2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
+3. Scroll to the bottom of the page and select **Save Changes** .  
+![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+## How to Create, Send, and Forward Email
+
+ With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
+
+* **Create a new message (C)** : Press the**C** key to create a new message.
+* **Create a new message in a new tab (D)** : Press the**D** key to create a new message in a new browser tab.
+* **Send an email (Ctrl** +**Enter)** : Press**Ctrl** +**Enter** to send an open message.
+* **Forward a message (F)** : Press**F** to forward an open message.
+
+ On Macs, use the**Command** key in place of the**Ctrl** key.
+
+## How to Reply to Email
+
+ By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
+
+* **Reply to a message (R)** : Press**R** to reply to an open message.
+* **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Scroll Through Emails
+
+ These shortcuts are handy for navigating through your messages and long email threads:
+
+* **Scroll down an email list (J)** : Press the**J** key to scroll down.
+* **Scroll up an email list (K)** : Press the**K** key to scroll up.
+* **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+## How to Select Multiple Emails
+
+ Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
+
+* **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Add Formatting to Email Text
+
+ Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
+
+* **Bold text (Ctrl** +**B)** : Highlight the text you wish to bold, and then press**Ctrl** +**B** .
+* **Italicize text (Ctrl** +**I)** : Highlight the text you wish to italicize, and then press**Ctrl** +**I** .
+* **Underline text (Ctrl** +**U)** : Highlight the text you wish to underline, and then press**Ctrl** +**U** .
+* **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
+
+ On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+## How to Add Elements to an Email
+
+ Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
+
+* **Insert a hyperlink (Ctrl** +**K)** : To insert a URL link, highlight the desired text and press**Ctrl** +**K** .
+* **Insert a numbered list (Ctrl** +**Shift** +**7)** : Insert the cursor where you want the numbered list to appear, then press**Ctrl** +**Shift** +**7** .
+* **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
+
+ On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
+## Email Maintenance Shortcuts
+
+ Use these shortcuts to help manage your inbox:
+
+* **Find an email (/)** : Press**/** to place the cursor in the search bar.
+* **Archive an email (E)** : Open an email or select it by clicking the box beside the sender's name, then press**E** to archive it.
+* **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
+* **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
+* **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## "Go to" Shortcuts in Gmail
+
+ The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
+
+* **Go to Tasks (G, then K)** : Press the **G** key, then press **K** to open[Google Tasks](https://www.lifewire.com/google-tasks-4149414) .
+* **Go to Contacts (G, then C)** : Press the**G** key, then press**C** to open your contacts list.
+* **Go to Starred conversations (G, then S)** : Press the**G** key, then press**S** to see your[starred Gmail messages](https://www.lifewire.com/how-to-mark-messages-using-stars-in-gmail-1172088) .
+* **Go to Sent messages (G, then T)** : Press the**G** key, then press**T** to see sent messages.
+* **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
+* **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
+* **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+## How to View All Gmail Shortcuts
+
+ Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
+
+* **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
+
+![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-guide-to-the-best-8-no-cost-videoconferencing-platforms-for-2024/"><u>[New] Essential Guide to the Best 8 No-Cost Videoconferencing Platforms for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-the-finest-wedding-cinematography-youtube-and-vimeos-selection/"><u>[New] Exploring the Finest Wedding Cinematography - Youtube & Vimeo's Selection</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/kyrocketing-view-figures-by-sustaining-youtubes-creative-commons-license-for-2024/"><u>[New] Skyrocketing View Figures by Sustaining YouTube's Creative Commons License for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-earning-game-with-youtubes-member-status/"><u>[Updated] 2024 Approved  Elevate Your Earning Game with YouTube's Member Status</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-bridging-past-video-to-present-streaming-live-via-facebook/"><u>[Updated] In 2024, Bridging Past Video to Present  Streaming Live via Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-strategies-for-webinar-capture-with-minimal-effort-windows-mac/"><u>2024 Approved  Ultimate Strategies for Webinar Capture with Minimal Effort (Windows, Mac)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-maximizing-audio-quality-on-meta-quest-devices/"><u>A Beginner’s Guide to Maximizing Audio Quality on Meta Quest Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899116584-apple-watch-not-connecting-try-these-6-solutions-for-a-successful-pairing/"><u>Apple Watch Not Connecting? Try These 6 Solutions for a Successful Pairing!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/car-stereo-access-denied-learn-how-to-find-and-enter-the-radio-entry-code-easily/"><u>Car Stereo Access Denied? Learn How to Find and Enter the Radio Entry Code Easily!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/charting-the-course-of-viral-stocks-and-stories-for-2024/"><u>Charting the Course of Viral Stocks & Stories for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-nokia-31-smartphone-a-top-choice-for-first-time-users/"><u>Comprehensive Evaluation of the Nokia 3.1 Smartphone - A Top Choice for First-Time Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-repairing-coredll-error-and-restoring-your-system/"><u>Comprehensive Strategies for Repairing Core.dll Error and Restoring Your System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/documentary-selections-starring-max-in-july-2024-our-top-recommendations/"><u>Documentary Selections Starring Max in July 2024: Our Top Recommendations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/emojis-decoded-revealing-the-astonishing-backstories-behind-your-favorite-icons/"><u>Emojis Decoded: Revealing the Astonishing Backstories Behind Your Favorite Icons</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/exploring-the-arlo-smart-security-suite-a-practical-guide/"><u>Exploring the Arlo Smart Security Suite: A Practical Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/express-more-with-emojis-how-to-use-gifs-in-your-comments-on-instagram/"><u>Express More with Emojis: How to Use GIFs in Your Comments on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-critical-hardware-malfunction-understanding-and-addressing-whea-issues/"><u>Fixing the Critical Hardware Malfunction – Understanding & Addressing WHEA Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/future-of-smart-homes-unveiling-the-details-on-apples-personal-assistant-bot-price-and-release-forecast/"><u>Future of Smart Homes: Unveiling the Details on Apple’s Personal Assistant Bot - Price & Release Forecast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-the-most-out-of-your-iphones-latest-update-live-photos-and-more-with-ios-16/"><u>How to Get the Most Out of Your iPhone's Latest Update: Live Photos and More with iOS 16</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-transfer-google-photos-to-icloud/"><u>How to Transfer Google Photos to iCloud</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-considerations-before-investing-in-a-video-capturing-system/"><u>Key Considerations Before Investing in a Video Capturing System</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lg-27ud68-4k-freesync-monitor-review-for-2024/"><u>LG 27UD68 4K FreeSync Monitor Review for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-crossroads-of-mobile-and-desktop-run-android-apps-in-windows-10-effortlessly/"><u>Mastering the Crossroads of Mobile and Desktop: Run Android Apps in Windows 10 Effortlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-and-correcting-content-restrictions-in-chatgpt/"><u>Navigating and Correcting Content Restrictions in ChatGPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902089809-prank-your-pals-iphone-or-ipad-7-witty-ideas-you-must-try/"><u>Prank Your Pal's iPhone or iPad: 7 Witty Ideas You Must Try</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-echo-is-offline-issues-on-your-amazon-alexa-device/"><u>Resolving 'Echo Is Offline' Issues on Your Amazon Alexa Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-streaming-success-implementing-2fa-on-your-twitch-channel-made-easy/"><u>Secure Streaming Success: Implementing 2FA on Your Twitch Channel Made Easy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-a-spot-at-the-genius-bar-the-ultimate-guide-to-scheduling-apple-store-assistance/"><u>Securing a Spot at the Genius Bar: The Ultimate Guide to Scheduling Apple Store Assistance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shuttered-brilliance-selecting-the-ultimate-cam-for-slow-speed-vids-for-2024/"><u>Shuttered Brilliance  Selecting the Ultimate Cam for Slow Speed Vids for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/star-trek-film-saga-optimal-sequence-for-the-ultimate-viewing-journey/"><u>Star Trek Film Saga - Optimal Sequence for the Ultimate Viewing Journey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streaming-on-the-go-using-a-mobile-hotspot-to-connect-your-fire-stick/"><u>Streaming on the Go: Using a Mobile Hotspot to Connect Your Fire Stick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-rise-of-facebook-tracing-its-roots-fan-favorite-elements-and-crucial-platform-components/"><u>The Rise of Facebook: Tracing Its Roots, Fan-Favorite Elements, and Crucial Platform Components</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722901863807-the-ultimate-troubleshooting-guide-to-addressing-and-repairing-whea-errors-on-pcs/"><u>The Ultimate Troubleshooting Guide to Addressing and Repairing WHEA Errors on PCs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-6-platforms-facilitating-enterprise-social-synergy-for-2024/"><u>Top 6 Platforms Facilitating Enterprise-Social Synergy for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-common-issues-of-streaky-images-on-modern-televisions/"><u>Troubleshooting Common Issues of Streaky Images on Modern Televisions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-non-responsive-issues-with-your-amazon-echo/"><u>Troubleshooting Guide: Resolving Non-Responsive Issues with Your Amazon Echo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-windows-11-how-to-restore-your-search-functionality/"><u>Troubleshooting Windows 11: How to Restore Your Search Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-netflixs-evolution-from-dvd-by-mail-service/"><u>Understanding Netflix's Evolution From DVD-by-Mail Service</u></a></li>
+</ul></div>

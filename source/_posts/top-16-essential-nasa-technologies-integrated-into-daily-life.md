@@ -1,7 +1,7 @@
 ---
 title: Top 16 Essential NASA Technologies Integrated Into Daily Life
-date: 2024-08-27 17:47:48
-updated: 2024-08-29 10:56:50
+date: 2024-08-30T16:16:31.227Z
+updated: 2024-08-31T16:16:31.227Z
 tags:
   - cutting-edge
 categories:
@@ -51,10 +51,17 @@ NASA/Photobit
 
  Their research and persistence paved the way for the tiny sensors found in your cellphone as well as numerous other applications like compact home security cameras, video doorbells, dash cams, and anywhere else you need a tiny camera package but big results.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ##  Memory Foam
 
 ![A photo of a NASA Space Shuttle and a hand compressing some memory foam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations6.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 NASA/Dynamic Systems
 
  From [memory foam pillows](https://www.lifesavvy.com/28161/the-comfiest-pillows-for-a-good-nights-sleep/) to entire [memory foam beds](https://www.amazon.com/LUCID-Inch-Memory-Foam-Medium/dp/B08624TRBP/?tag=htg-v2-2q16d3n-20&ascsubtag=UUhtgUeUpU204545&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F831363%2Fthese-nasa-innovations-are-all-around-us-everyday%2F&asc%5Fcampaign=Short-Term) and even the premium memory foam seats in your car, you can thank NASA for all that cushy goodness.
@@ -77,10 +84,17 @@ NASA/Poly
 
  This led to a long collaboration between Plantronics and NASA, resulting in a variety of innovations in miniaturization, improved wireless communication, noise canceling, and a variety of [wireless headphone benefits](https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-xs-max-5-ways-to-get-into-a-locked-apple-iphone-xs-max-by-drfone-ios/) we all enjoy today.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ##  Clamshell Laptops
 
 ![An example of the GRiD Compass laptop from a museum collection and in space.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 The Smithsonian Insitute/NASA
 
  While NASA didn't invent portable computers, the organization had a key influence in the very early years of laptop development.
@@ -89,6 +103,9 @@ The Smithsonian Insitute/NASA
 
  At NASA's request, various modifications were made over the years, including the introduction of laptop fans. The laptop was originally passively cooled, but in microgravity passive convention cooling didn't work well, requiring fans to push air over the components. The design choices in those early laptops [persist to the present](https://youtube-web.techidaily.com/ed-2024-approved-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/), and in the decades since, we've never topped the clamshell.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Scratch-Resistant and UV Protective Lenses
 
 ![A photo of an astronaut in a space suit and an ad featurnig the new lens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations8.jpg) 
@@ -103,6 +120,9 @@ NASA/Foster Grant
 
 ![LED grow lights in space and an LED healing lamp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations9.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 NASA
 
  NASA didn't invent the LED. The history of prototypical LED winds all the way back to the early 20th century, and the LED as we know it now was first invented by General Electric scientist Nick Holonyak, Jr. in 1962.
@@ -123,6 +143,18 @@ iHealth/Apple/Invisalign
 
  The technology eventually made its way into everything from [the thermometers we use when we're sick](https://www.amazon.com/iHealth-Thermometer-Vibration-Notification-Thermopile/dp/B075QQ8VZW/?tag=htg-v2-2q16d3n-20&ascsubtag=UUhtgUeUpU204545&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F831363%2Fthese-nasa-innovations-are-all-around-us-everyday%2F&asc%5Fcampaign=Short-Term) to the handy temperature guns we use to [check pizza ovens](https://www.lifesavvy.com/131867/gozney-roccbox-pizza-oven-review/) and other surfaces.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Freeze Dried Foods
 
 ![Examples of freeze dried food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
@@ -139,10 +171,16 @@ iHealth/Apple/Invisalign
 
  You can thank NASA gift shops and curious kids for the enduring popularity of "astronaut" ice cream, as well as the folks at [Astronaut Foods](https://astronautfoods.com/) who keep the freeze-dried space food dream alive for gift shop goers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Better Baby Formula
 
 ![An example of a 1970s era space meal, and a canister of baby formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 iHealth/Apple/Invisalign
 
  NASA didn't invent baby formula, but research into inexpensively and safely improving the nutritional value of food served to astronauts in space did.
@@ -155,6 +193,9 @@ iHealth/Apple/Invisalign
 
  DHA is critical to brain development, and since the discovery of this cheap production method, millions of babies around the world have enjoyed better brain growth as a result of its inclusion in formulas.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Cordless Vacuums and Power Tools
 
 ![An astronaut using a lunar drill and the DustBuster, made possible by the same motor technology.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations3.jpg) 
@@ -191,6 +232,9 @@ iHealth/Apple/Invisalign
 
  The original dental application was for dental brace bases on each tooth but still linked together by a wire like traditional braces. Later, companies like Invisalign made alignment trays that covered the entire tooth without connective wires. And while that's a significant contribution to dentistry, it's hardly [the only one NASA has made](https://www.nasa.gov/audience/foreducators/k-4/features/F%5FBite%5FOut%5Fof%5FDiscomfort.html).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Improved Tires
 
 ![A rendering of the Viking mission and a photo from the Goodyear archives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
@@ -209,6 +253,10 @@ iHealth/Apple/Invisalign
 
 ![A shuttle launch and a set of Lifeshear tools.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 iHealth/Apple/Invisalign
 
  This is, thankfully, an invention that none of us have to experience every day or even, for that matter, once in a lifetime if we're lucky.
@@ -223,6 +271,9 @@ iHealth/Apple/Invisalign
 
 ![Examples of foil blankets in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 NASA/AMC
 
  You'll often hear reflective emergency blankets, like those emergency responders wrap around car crash survivors and such, referred to as "[space blankets](https://spinoff.nasa.gov/Spinoff2006/ch%5F9.html)." This is because the reflective metallic material they are made out of was invented by NASA to help shield and insulate equipment and even entire portions of space stations. There's a reason that shiny-metal-foil look is inseparable from the space program.
@@ -241,6 +292,9 @@ NASA/RadiaSource
 
  Between the original space blankets and radiant barrier innovations, NASA's research has found its way into everything from our homes to our lunchboxes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  More NASA-Funded Technology
 
  Speaking of finding its way into everything, we could write for months without covering everything NASA's efforts have brought into the public sphere. If you've read over these highlights with interest, we'd highly recommend you check out [NASA Spinoff](https://spinoff.nasa.gov/).
@@ -263,3 +317,49 @@ NASA/RadiaSource
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-choose-wisely-the-best-10-mac-video-capture-software-reviewed/"><u>[New] 2024 Approved  Choose Wisely  The Best 10 Mac Video Capture Software Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-convert-spoken-words-into-written-content-using-ms-words-in-built-tools/"><u>[New] 2024 Approved  Convert Spoken Words Into Written Content Using MS Word's In-Built Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-prime-anglers-selection-leading-fishing-cameras-ranked/"><u>[New] 2024 Approved  Prime Anglers' Selection  Leading Fishing Cameras Ranked</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-dive-into-360-videos-iphone-edition-for-facebook-posts/"><u>[New] Dive Into 360 Videos  IPhone Edition for Facebook Posts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors-for-2024/"><u>[New] The Photo Keeper’s Companion  Unlimited Free Options & Elite Subscription Saviors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-the-hypervisorerror-blue-screen-on-windows-10-and-11/"><u>5 Ways to Fix the HYPERVISOR_ERROR Blue Screen on Windows 10 & 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/a-comprehensible-approach-uploading-snapchat-images-offline-for-2024/"><u>A Comprehensible Approach  Uploading Snapchat Images Offline for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-the-validity-of-chatgpt-in-providing-trustworthy-medical-information/"><u>Assessing the Validity of ChatGPT in Providing Trustworthy Medical Information</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/buyers-choice-for-waterproof-mobile-phone-armor-best-models/"><u>Buyer's Choice for Waterproof Mobile Phone Armor - Best Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-code-39-bugs-tips-for-a-smooth-windows-experience/"><u>Dealing with Code 39 Bugs: Tips for a Smooth Windows Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-bsod-a-comprehensive-guide-to-the-notorious-blue-screen-errors-on-pc/"><u>Decoding BSOD - A Comprehensive Guide to the Notorious Blue Screen Errors on PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-the-voice-guidance-feature-on-your-samsung-television/"><u>Disabling the Voice Guidance Feature on Your Samsung Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-your-windows-11-wi-fi-networks-secret-key/"><u>Discovering Your Windows 11 Wi-Fi Network's Secret Key</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-methods-for-personalizing-your-chromecast-background-image/"><u>Easy Methods for Personalizing Your Chromecast Background Image</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vehicle-buying-guide-9-questions-you-must-contemplate/"><u>Electric Vehicle Buying Guide: 9 Questions You Must Contemplate</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-correcting-wpcapdll-not-found-errors-in-windows/"><u>Expert Advice: Correcting 'Wpcap.dll Not Found' Errors in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-selection-of-15-superbly-effective-free-uninstallation-utilities/"><u>Explore Our Selection of 15 Superbly Effective Free Uninstallation Utilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-steps-to-introduce-automated-bots-in-your-discord-community/"><u>Guide: Steps to Introduce Automated Bots in Your Discord Community</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-zero-30-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Zero 30 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sharpen-the-right-way-selective-blurring-insights/"><u>In 2024, Sharpen the Right Way  Selective Blurring Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-your-epson-ds-530-printer-on-a-new-windows-11-64-bit-pc/"><u>Installing Your Epson DS-530 Printer on a New Windows 11 (64-Bit) PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-gmail-efficiency-30-indispensable-keyboard-tricks/"><u>Master Gmail Efficiency: 30 Indispensable Keyboard Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/multi-friend-removal-guide-streamline-your-snapchat-circle-today/"><u>Multi-Friend Removal Guide: Streamline Your Snapchat Circle Today!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-chromecast-without-limits-how-to-stream-uncompatible-video-formats/"><u>New Chromecast Without Limits How to Stream Uncompatible Video Formats</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-favorite-teen-movies-on-netflix/"><u>Our Favorite Teen Movies on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-wpcapdll-disappearance-issues-in-microsoft-operating-systems/"><u>Overcoming Wpcap.dll Disappearance Issues in Microsoft Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamlessly-update-wireless-network-adapters-in-windows-11-vs-windows-e-a-comprehensive-guide/"><u>Seamlessly Update Wireless Network Adapters in Windows 11 vs Windows E: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smartphone-lifespan-how-often-should-you-consider-an-upgrade/"><u>Smartphone Lifespan: How Often Should You Consider an Upgrade?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-get-your-samsung-soundbar-back-up-and-running/"><u>Solving Common Issues: Get Your Samsung Soundbar Back Up and Running</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-integrating-github-copilot-into-your-microsoft-teams-experience/"><u>Step-by-Step Tutorial on Integrating GitHub Copilot Into Your Microsoft Teams Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-resolve-photoshop-scratch-disk-overload-problems/"><u>Steps to Resolve Photoshop Scratch Disk Overload Problems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-complete-guide-to-recording-flawless-zoom-based-podcasts/"><u>The Complete Guide to Recording Flawless Zoom-Based Podcasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-retweet-or-not-to-retweet-exploring-the-meaning-of-re-tweets-on-twitter/"><u>To Retweet Or Not to Retweet? Exploring the Meaning of Re-Tweets on Twitter</u></a></li>
+<li><a href="https://win11.techidaily.com/top-4-strategies-for-windows-pct-success/"><u>Top 4 Strategies for Windows PCT Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-restore-your-iphones-camera-focus-top-solutions-to-try-today/"><u>Troubleshoot and Restore Your iPhone's Camera Focus - Top Solutions to Try Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-the-binkw32dll-error-fix/"><u>Troubleshooting Tips for the Binkw32.dll Error Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-canceling-a-paramountplus-account/"><u>Ultimate Tips for Canceling a Paramount+ Account</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-flawless-video-thumbnails-instantly-for-2024/"><u>Unlock Flawless Video Thumbnails Instantly for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unpacking-the-nintendo-switch-what-do-you-get-with-your-order/"><u>Unpacking the Nintendo Switch: What Do You Get With Your Order?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-t-mobiles-metro-plan-what-you-need-to-know-about-their-international-roaming-strategy/"><u>Unraveling T-Mobile's Metro Plan: What You Need to Know About Their International Roaming Strategy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-hardware-with-toms-gear-advice/"><u>Unveiling the Latest in PC Hardware with Tom's Gear Advice</u></a></li>
+</ul></div>
