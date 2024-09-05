@@ -1,7 +1,7 @@
 ---
 title: "Express Yourself with Emoji: How to Enhance Text Messages on iPhone"
-date: 2024-08-30T16:35:06.010Z
-updated: 2024-08-31T16:35:06.010Z
+date: 2024-09-04T02:49:36.742Z
+updated: 2024-09-05T02:49:36.742Z
 categories:
   - BestProducts
 description: "This Article Describes Express Yourself with Emoji: How to Enhance Text Messages on iPhone"
@@ -33,7 +33,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  When you want to return to your regular keyboard, just tap the tiny globe again, and it whisks you back to the alpha-numerical keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Does 'Emoji' Mean?
 
@@ -44,7 +47,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  Many of the emoji images have been adopted into the global computer text-coding standard known as Unicode. The[Unicode Consortium](http://unicode.org/) , the group that maintains the Unicode standard, adopted a whole new set of emoticons as part of an updated Unicode standard in 2014\. You can see examples of popular emoticons on the[EmojiTracker website](http://www.emojitracker.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Emoji Keyboard Apps
 

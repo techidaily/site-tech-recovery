@@ -1,7 +1,7 @@
 ---
 title: "Making Content Universal: How to Insert Text Overlays in IG Stories"
-date: 2024-08-30T16:33:14.219Z
-updated: 2024-08-31T16:33:14.219Z
+date: 2024-09-04T02:49:38.357Z
+updated: 2024-09-05T02:49:38.357Z
 categories:
   - BestProducts
 description: "This Article Describes Making Content Universal: How to Insert Text Overlays in IG Stories"
@@ -36,7 +36,10 @@ Close
 ![Instagram speech transcript, edit words in caption, transcript corrected.](https://www.lifewire.com/thmb/mH774TATn8g-KPdLQnayq_iBO-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006captions-3fe8e98dd5f84ab9b03f41938aa01417.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Get Captions on Instagram Stories 
 
@@ -49,22 +52,33 @@ Close
 ![Navigating to the Accessibility section of Settings and activity in the Instagram app](https://www.lifewire.com/thmb/fRQ5pzJlmuOEnCz1pZMza94YT9M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_add-captions-to-instagram-stories-6503064-00cc56c1f7e94870971aea729c112b50.jpg)
 5. Choose the arrow beside**Captions and translations** .
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 6. Move the toggle for**Captions** to the right.
 7. Captions will automatically generate on videos with speech.  
 ![Turn on auto captions, will automatically play on stories with speech](https://www.lifewire.com/thmb/fiX2Ckj8Uvo55Kj0jrMTGUKW950=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007stories-3a9a638e662e41359d11ca21ab9d6f58.jpg)  
  Automatic captions will show even when your volume is turned up. Videos that were captioned by their creators may display two sets of captions.
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Automatic Captions on Instagram 
 
