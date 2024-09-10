@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/automatic-sms-deployment-on-ios-devices-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/meghan-schiereck-_XFObcM_7KU-unsplash-4c3253bb829d4a9793055edec500c804.jpg" alt="Automatic SMS Deployment on iOS Devices - A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/learn-how-to-set-correct-time-and-date-on-your-kindle-paperwhite-effortlessly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/_1tjrfj-XUFox-UC3luCzrBA6eE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-926194136-62d3eb60d7444e7d8104128dd051a559.jpg" alt="Learn How to Set Correct Time &amp; Date on Your Kindle Paperwhite Effortlessly" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/automatic-sms-deployment-on-ios-devices-a-comprehensive-guide/">
-                            Automatic SMS Deployment on iOS Devices - A Comprehensive Guide
+                        <a href="/learn-how-to-set-correct-time-and-date-on-your-kindle-paperwhite-effortlessly/">
+                            Learn How to Set Correct Time &amp; Date on Your Kindle Paperwhite Effortlessly
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Automatic SMS Deployment on iOS Devices - A Comprehensive Guide</p>
+                            <p>This Article Describes Learn How to Set Correct Time &amp; Date on Your Kindle Paperwhite Effortlessly</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:49:06 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:01:40 GMT+0800">
                 
                     2024-08-19
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/automatic-sms-deployment-on-ios-devices-a-comprehensive-guide/">Read more<span class="seo-reader-text">Automatic SMS Deployment on iOS Devices - A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/learn-how-to-set-correct-time-and-date-on-your-kindle-paperwhite-effortlessly/">Read more<span class="seo-reader-text">Learn How to Set Correct Time &amp; Date on Your Kindle Paperwhite Effortlessly</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/wireless-broadband-a-comprehensive-guide-to-accessing-the-internet-without-traditional-connections/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6447b480a9b0d3148ed090af.jpeg" alt="Wireless Broadband: A Comprehensive Guide to Accessing the Internet without Traditional Connections" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/achieve-affordable-tech-with-scholarly-discounts-at-the-microsoft-shop/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/7Ly57WIr_QA6wBh78DLml9BgtcA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg" alt="Achieve Affordable Tech with Scholarly Discounts at the Microsoft Shop" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/wireless-broadband-a-comprehensive-guide-to-accessing-the-internet-without-traditional-connections/">
-                            Wireless Broadband: A Comprehensive Guide to Accessing the Internet without Traditional Connections
+                        <a href="/achieve-affordable-tech-with-scholarly-discounts-at-the-microsoft-shop/">
+                            Achieve Affordable Tech with Scholarly Discounts at the Microsoft Shop
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Wireless Broadband: A Comprehensive Guide to Accessing the Internet without Traditional Connections</p>
+                            <p>This Article Describes Achieve Affordable Tech with Scholarly Discounts at the Microsoft Shop</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:49:05 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:01:39 GMT+0800">
                 
                     2024-08-19
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/wireless-broadband-a-comprehensive-guide-to-accessing-the-internet-without-traditional-connections/">Read more<span class="seo-reader-text">Wireless Broadband: A Comprehensive Guide to Accessing the Internet without Traditional Connections</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/achieve-affordable-tech-with-scholarly-discounts-at-the-microsoft-shop/">Read more<span class="seo-reader-text">Achieve Affordable Tech with Scholarly Discounts at the Microsoft Shop</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/exploring-the-advantages-of-dts-virtualx-for-enhanced-surround-sound-fidelity/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0d81dc2e79786c8274b17daa.jpg" alt="Exploring the Advantages of DTS Virtual:X for Enhanced Surround Sound Fidelity" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/transform-your-desktop-how-to-personalize-windows-10s-taskbar-hue/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76b0df7385d290b38eb25840e.jpg" alt="Transform Your Desktop: How to Personalize Windows 10&#39;S Taskbar Hue" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/exploring-the-advantages-of-dts-virtualx-for-enhanced-surround-sound-fidelity/">
-                            Exploring the Advantages of DTS Virtual:X for Enhanced Surround Sound Fidelity
+                        <a href="/transform-your-desktop-how-to-personalize-windows-10s-taskbar-hue/">
+                            Transform Your Desktop: How to Personalize Windows 10&#39;S Taskbar Hue
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Exploring the Advantages of DTS Virtual:X for Enhanced Surround Sound Fidelity</p>
+                            <p>This Article Describes Transform Your Desktop: How to Personalize Windows 10’S Taskbar Hue</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:49:04 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:01:38 GMT+0800">
                 
                     2024-08-19
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/exploring-the-advantages-of-dts-virtualx-for-enhanced-surround-sound-fidelity/">Read more<span class="seo-reader-text">Exploring the Advantages of DTS Virtual:X for Enhanced Surround Sound Fidelity</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/transform-your-desktop-how-to-personalize-windows-10s-taskbar-hue/">Read more<span class="seo-reader-text">Transform Your Desktop: How to Personalize Windows 10&#39;S Taskbar Hue</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-the-art-of-mechanical-keyboard-sanitization/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/-_GboZmA1Og4NgF0YS4PV_BpDsI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-clean-a-mechanical-keyboard-dee4ef40b63e4e62af970fd63e8b5e79.jpg" alt="Mastering the Art of Mechanical Keyboard Sanitization" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/stream-and-watch-in-stunning-detail-hitachis-4k-uhd-tvs-equipped-with-roku-buy-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg" alt="Stream and Watch in Stunning Detail: Hitachi&#39;s 4K UHD TVs Equipped with Roku - Buy Now" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-the-art-of-mechanical-keyboard-sanitization/">
-                            Mastering the Art of Mechanical Keyboard Sanitization
+                        <a href="/stream-and-watch-in-stunning-detail-hitachis-4k-uhd-tvs-equipped-with-roku-buy-now/">
+                            Stream and Watch in Stunning Detail: Hitachi&#39;s 4K UHD TVs Equipped with Roku - Buy Now
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Mastering the Art of Mechanical Keyboard Sanitization</p>
+                            <p>This Article Describes Stream and Watch in Stunning Detail: Hitachi’s 4K UHD TVs Equipped with Roku - Buy Now</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:49:03 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:01:37 GMT+0800">
                 
                     2024-08-19
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/mastering-the-art-of-mechanical-keyboard-sanitization/">Read more<span class="seo-reader-text">Mastering the Art of Mechanical Keyboard Sanitization</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/stream-and-watch-in-stunning-detail-hitachis-4k-uhd-tvs-equipped-with-roku-buy-now/">Read more<span class="seo-reader-text">Stream and Watch in Stunning Detail: Hitachi&#39;s 4K UHD TVs Equipped with Roku - Buy Now</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolving-missing-vcompdll-files-on-your-computer-effective-strategies-and-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/xlUBc4Ec7v7e9UaIUYUgzS2C7bI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vcomp-dll-error-message-5abb9f6d04d1cf0036cf9d8c.png" alt="Resolving Missing Vcomp.dll Files on Your Computer – Effective Strategies and Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/chatgpt-demystified-an-in-depth-guide-for-beginners/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ad5f66753b5e5db396a2d95dd125beb1ea4eecb0fbe535705f1d76a57fc9ac9b.jpg" alt="ChatGPT Demystified: An In-Depth Guide for Beginners" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolving-missing-vcompdll-files-on-your-computer-effective-strategies-and-tips/">
-                            Resolving Missing Vcomp.dll Files on Your Computer – Effective Strategies and Tips
+                        <a href="/chatgpt-demystified-an-in-depth-guide-for-beginners/">
+                            ChatGPT Demystified: An In-Depth Guide for Beginners
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolving Missing Vcomp.dll Files on Your Computer – Effective Strategies and Tips</p>
+                            <p>This Article Describes ChatGPT Demystified: An In-Depth Guide for Beginners</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:49:02 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:01:36 GMT+0800">
                 
                     2024-08-19
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/resolving-missing-vcompdll-files-on-your-computer-effective-strategies-and-tips/">Read more<span class="seo-reader-text">Resolving Missing Vcomp.dll Files on Your Computer – Effective Strategies and Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/chatgpt-demystified-an-in-depth-guide-for-beginners/">Read more<span class="seo-reader-text">ChatGPT Demystified: An In-Depth Guide for Beginners</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/rectifying-viewing-difficulties-a-guide-to-fix-paramountplus-app-issues-on-amazons-fire-tv/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9482ded5e871af812d18f96a64c4deb315943988e9201916667eb608e7a9ffd3.jpg" alt="Rectifying Viewing Difficulties: A Guide to Fix Paramount+ App Issues on Amazon&#39;s Fire TV" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unveiling-the-most-recent-addition-to-the-macbook-lineup/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/a1e8eDPE1NN-UxRsfcH_udZp79s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-MacBook-Air-2-up-front-240304-4fc0ab043fe04df5b19ee1b2107656cd.jpg" alt="Unveiling the Most Recent Addition to the MacBook Lineup" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/rectifying-viewing-difficulties-a-guide-to-fix-paramountplus-app-issues-on-amazons-fire-tv/">
-                            Rectifying Viewing Difficulties: A Guide to Fix Paramount+ App Issues on Amazon&#39;s Fire TV
+                        <a href="/unveiling-the-most-recent-addition-to-the-macbook-lineup/">
+                            Unveiling the Most Recent Addition to the MacBook Lineup
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Rectifying Viewing Difficulties: A Guide to Fix Paramount+ App Issues on Amazon’s Fire TV</p>
+                            <p>This Article Describes Unveiling the Most Recent Addition to the MacBook Lineup</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:49:01 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:01:35 GMT+0800">
                 
                     2024-08-19
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/rectifying-viewing-difficulties-a-guide-to-fix-paramountplus-app-issues-on-amazons-fire-tv/">Read more<span class="seo-reader-text">Rectifying Viewing Difficulties: A Guide to Fix Paramount+ App Issues on Amazon&#39;s Fire TV</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unveiling-the-most-recent-addition-to-the-macbook-lineup/">Read more<span class="seo-reader-text">Unveiling the Most Recent Addition to the MacBook Lineup</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/learn-american-sign-language-for-free-16-essential-resources/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a32cd1145e8a4d708fb6bf52.png" alt="Learn American Sign Language For Free: 16 Essential Resources" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/understanding-dac-why-its-essential-for-audio-enthusiasts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56652514c20a9284502aff373.jpg" alt="Understanding DAC: Why It&#39;s Essential for Audio Enthusiasts" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/learn-american-sign-language-for-free-16-essential-resources/">
-                            Learn American Sign Language For Free: 16 Essential Resources
+                        <a href="/understanding-dac-why-its-essential-for-audio-enthusiasts/">
+                            Understanding DAC: Why It&#39;s Essential for Audio Enthusiasts
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Learn American Sign Language For Free: 16 Essential Resources</p>
+                            <p>This Article Describes Understanding DAC: Why It’s Essential for Audio Enthusiasts</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:49:00 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:01:34 GMT+0800">
                 
                     2024-08-19
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/learn-american-sign-language-for-free-16-essential-resources/">Read more<span class="seo-reader-text">Learn American Sign Language For Free: 16 Essential Resources</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/understanding-dac-why-its-essential-for-audio-enthusiasts/">Read more<span class="seo-reader-text">Understanding DAC: Why It&#39;s Essential for Audio Enthusiasts</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-fix-when-an-ipad-cant-find-or-print-with-any-printers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/yXXst6UgHrlBvrhHuREgsxGzFgM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mid-adult-woman-working-with-tablet-in-office-670881185-5bc678e14cedfd00268a2adc.jpg" alt="How to Fix When an iPad Can&#39;t Find or Print With Any Printers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-the-art-of-embedding-source-code-in-word-docs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849858958-a4a6c8b5db8d4d439c431420575705b3.jpg" alt="Mastering the Art of Embedding Source Code in Word Docs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-fix-when-an-ipad-cant-find-or-print-with-any-printers/">
-                            How to Fix When an iPad Can&#39;t Find or Print With Any Printers
+                        <a href="/mastering-the-art-of-embedding-source-code-in-word-docs/">
+                            Mastering the Art of Embedding Source Code in Word Docs
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Fix When an iPad Can’t Find or Print With Any Printers</p>
+                            <p>This Article Describes Mastering the Art of Embedding Source Code in Word Docs</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:48:59 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:01:33 GMT+0800">
                 
                     2024-08-19
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/how-to-fix-when-an-ipad-cant-find-or-print-with-any-printers/">Read more<span class="seo-reader-text">How to Fix When an iPad Can&#39;t Find or Print With Any Printers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-the-art-of-embedding-source-code-in-word-docs/">Read more<span class="seo-reader-text">Mastering the Art of Embedding Source Code in Word Docs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-price-forecast-release-info-and-specs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b19782ea8ac6138fc17b8fe856f7.jpg" alt="All You Need to Know About the Upcoming Samsung Galaxy S25 - Price Forecast, Release Info, and Specs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/latest-ipad-generation-whats-new-in-apples-tablet-lineup/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4e23cb6eaa9892de917d72be96ca092225859934da39293302befce06f1af300.jpg" alt="Latest iPad Generation: What&#39;s New in Apple&#39;s Tablet Lineup" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-price-forecast-release-info-and-specs/">
-                            All You Need to Know About the Upcoming Samsung Galaxy S25 - Price Forecast, Release Info, and Specs
+                        <a href="/latest-ipad-generation-whats-new-in-apples-tablet-lineup/">
+                            Latest iPad Generation: What&#39;s New in Apple&#39;s Tablet Lineup
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes All You Need to Know About the Upcoming Samsung Galaxy S25 - Price Forecast, Release Info, and Specs</p>
+                            <p>This Article Describes Latest iPad Generation: What’s New in Apple’s Tablet Lineup</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:48:58 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:01:31 GMT+0800">
                 
                     2024-08-19
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-price-forecast-release-info-and-specs/">Read more<span class="seo-reader-text">All You Need to Know About the Upcoming Samsung Galaxy S25 - Price Forecast, Release Info, and Specs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/latest-ipad-generation-whats-new-in-apples-tablet-lineup/">Read more<span class="seo-reader-text">Latest iPad Generation: What&#39;s New in Apple&#39;s Tablet Lineup</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unraveling-the-distinctions-roku-express-versus-roku-stick/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9cc152d1aca0892df1ca5596ac3ad03cce388893be920721cefd3090f694d72e.png" alt="Unraveling the Distinctions: Roku Express Versus Roku Stick" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/understanding-the-features-of-dts-virtual-x-technology/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg" alt="Understanding the Features of DTS Virtual X Technology" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unraveling-the-distinctions-roku-express-versus-roku-stick/">
-                            Unraveling the Distinctions: Roku Express Versus Roku Stick
+                        <a href="/understanding-the-features-of-dts-virtual-x-technology/">
+                            Understanding the Features of DTS Virtual X Technology
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Unraveling the Distinctions: Roku Express Versus Roku Stick</p>
+                            <p>This Article Describes Understanding the Features of DTS Virtual X Technology</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:48:57 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:01:31 GMT+0800">
                 
                     2024-08-19
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/unraveling-the-distinctions-roku-express-versus-roku-stick/">Read more<span class="seo-reader-text">Unraveling the Distinctions: Roku Express Versus Roku Stick</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/understanding-the-features-of-dts-virtual-x-technology/">Read more<span class="seo-reader-text">Understanding the Features of DTS Virtual X Technology</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/809/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/808/">808</a><a class="page-number" href="/page/809/">809</a><span class="page-number current">810</span><a class="page-number" href="/page/811/">811</a><a class="page-number" href="/page/812/">812</a><span class="space">&hellip;</span><a class="page-number" href="/page/1277/">1277</a><a class="extend next" rel="next" href="/page/811/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/809/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/808/">808</a><a class="page-number" href="/page/809/">809</a><span class="page-number current">810</span><a class="page-number" href="/page/811/">811</a><a class="page-number" href="/page/812/">812</a><span class="space">&hellip;</span><a class="page-number" href="/page/1343/">1343</a><a class="extend next" rel="next" href="/page/811/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

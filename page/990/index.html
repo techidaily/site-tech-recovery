@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/understanding-and-utilizing-the-windows-11-battery-status-feature/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/panos-sakalakis-35NiG1dYjtM-unsplash-04ea0b8a952a4f028ff0c0f0dfd0ade8.jpg" alt="Understanding and Utilizing the Windows 11 Battery Status Feature" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-correctly-handle-msvcr71dll-is-missing-or-cannot-be-found-errors-in-windows-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/9HluIuL7-ig4n5__Zn4As2ESwcI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/msvcr71-dll-error-5950ff0b5f9b58f0fc447fe6.png" alt="How to Correctly Handle &#39;Msvcr71.dll Is Missing or Cannot Be Found&#39; Errors in Windows Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/understanding-and-utilizing-the-windows-11-battery-status-feature/">
-                            Understanding and Utilizing the Windows 11 Battery Status Feature
+                        <a href="/how-to-correctly-handle-msvcr71dll-is-missing-or-cannot-be-found-errors-in-windows-systems/">
+                            How to Correctly Handle &#39;Msvcr71.dll Is Missing or Cannot Be Found&#39; Errors in Windows Systems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Understanding and Utilizing the Windows 11 Battery Status Feature</p>
+                            <p>This Article Describes How to Correctly Handle ‘Msvcr71.dll Is Missing or Cannot Be Found’ Errors in Windows Systems</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:15:14 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:27:45 GMT+0800">
                 
                     2024-08-19
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/understanding-and-utilizing-the-windows-11-battery-status-feature/">Read more<span class="seo-reader-text">Understanding and Utilizing the Windows 11 Battery Status Feature</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-correctly-handle-msvcr71dll-is-missing-or-cannot-be-found-errors-in-windows-systems/">Read more<span class="seo-reader-text">How to Correctly Handle &#39;Msvcr71.dll Is Missing or Cannot Be Found&#39; Errors in Windows Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-guide-replacing-your-laptops-missing-keys/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/95b8d87ab463f7ac2adc7d19611917fbcf5034fba80cc910d2cfc1667a896a93.jpg" alt="Step-by-Step Guide: Replacing Your Laptop&#39;s Missing Keys" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-how-to-correct-a-lost-or-non-existent-normalizdll-error/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d1baf3dfbbd327d9cbcf98353df44476f218395c1d3282d729e920baf2edbea8.jpg" alt="Troubleshooting: How to Correct a Lost or Non-Existent Normaliz.dll Error" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-guide-replacing-your-laptops-missing-keys/">
-                            Step-by-Step Guide: Replacing Your Laptop&#39;s Missing Keys
+                        <a href="/troubleshooting-how-to-correct-a-lost-or-non-existent-normalizdll-error/">
+                            Troubleshooting: How to Correct a Lost or Non-Existent Normaliz.dll Error
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Guide: Replacing Your Laptop’s Missing Keys</p>
+                            <p>This Article Describes Troubleshooting: How to Correct a Lost or Non-Existent Normaliz.dll Error</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:15:13 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:27:44 GMT+0800">
                 
                     2024-08-19
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/step-by-step-guide-replacing-your-laptops-missing-keys/">Read more<span class="seo-reader-text">Step-by-Step Guide: Replacing Your Laptop&#39;s Missing Keys</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-how-to-correct-a-lost-or-non-existent-normalizdll-error/">Read more<span class="seo-reader-text">Troubleshooting: How to Correct a Lost or Non-Existent Normaliz.dll Error</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solve-your-zoom-camera-problems-with-these-expert-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/1pWUGpmnbSfYJwhBfhOXYQ11EIQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-it-when-a-zoom-camera-is-not-working-4844956-b19c2694f1814298808aca700fa85ba2.jpg" alt="Solve Your Zoom Camera Problems with These Expert Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/expert-tips-for-deleting-your-computers-system-repair-recovery-partition/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/ALlLdPlK0nhyrSKTrZhz_J3x2vc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hard-drive-56a2cb273df78cf7727a0201.jpg" alt="Expert Tips for Deleting Your Computer&#39;s System Repair (Recovery) Partition" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solve-your-zoom-camera-problems-with-these-expert-tips/">
-                            Solve Your Zoom Camera Problems with These Expert Tips
+                        <a href="/expert-tips-for-deleting-your-computers-system-repair-recovery-partition/">
+                            Expert Tips for Deleting Your Computer&#39;s System Repair (Recovery) Partition
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solve Your Zoom Camera Problems with These Expert Tips</p>
+                            <p>This Article Describes Expert Tips for Deleting Your Computer’s System Repair (Recovery) Partition</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:15:12 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:27:43 GMT+0800">
                 
                     2024-08-19
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/solve-your-zoom-camera-problems-with-these-expert-tips/">Read more<span class="seo-reader-text">Solve Your Zoom Camera Problems with These Expert Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/expert-tips-for-deleting-your-computers-system-repair-recovery-partition/">Read more<span class="seo-reader-text">Expert Tips for Deleting Your Computer&#39;s System Repair (Recovery) Partition</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/pros-and-cons-making-sense-of-minecraft-realms-benefits/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4406254504ec111012f48674.jpg" alt="Pros and Cons: Making Sense of Minecraft Realms&#39; Benefits" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/discover-the-ultimate-7-apps-for-reliable-wake-up-sounds/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/aI0cVDw4qlPSAcQRd5zuXWzc8SA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Womansleepingnexttophonealarmclock-1a2cf5594b24483aacf639f4365ff862.jpg" alt="Discover the Ultimate 7 Apps for Reliable Wake-Up Sounds" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/pros-and-cons-making-sense-of-minecraft-realms-benefits/">
-                            Pros and Cons: Making Sense of Minecraft Realms&#39; Benefits
+                        <a href="/discover-the-ultimate-7-apps-for-reliable-wake-up-sounds/">
+                            Discover the Ultimate 7 Apps for Reliable Wake-Up Sounds
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Pros and Cons: Making Sense of Minecraft Realms’ Benefits</p>
+                            <p>This Article Describes Discover the Ultimate 7 Apps for Reliable Wake-Up Sounds</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:15:11 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:27:42 GMT+0800">
                 
                     2024-08-19
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/pros-and-cons-making-sense-of-minecraft-realms-benefits/">Read more<span class="seo-reader-text">Pros and Cons: Making Sense of Minecraft Realms&#39; Benefits</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/discover-the-ultimate-7-apps-for-reliable-wake-up-sounds/">Read more<span class="seo-reader-text">Discover the Ultimate 7 Apps for Reliable Wake-Up Sounds</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-instructions-for-pairing-apple-airpods-with-the-nintendo-switch/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/uTl3HDXx-VXSXUjtY-YR-yy3xKQ=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-connect-airpods-to-a-nintendo-switch-8b9f33294fcd426c9be408ac7bbbd8fa.jpg" alt="Step-by-Step Instructions for Pairing Apple AirPods with the Nintendo Switch" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-adding-text-overlays-and-subtitles-to-your-instagram-story-videos/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/77f34903e1df34b362b3683a958e0b57f8d631d69cf5a5eaeee681f0ad029756.jpg" alt="Step-by-Step Guide: Adding Text Overlays and Subtitles to Your Instagram Story Videos" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-instructions-for-pairing-apple-airpods-with-the-nintendo-switch/">
-                            Step-by-Step Instructions for Pairing Apple AirPods with the Nintendo Switch
+                        <a href="/step-by-step-guide-adding-text-overlays-and-subtitles-to-your-instagram-story-videos/">
+                            Step-by-Step Guide: Adding Text Overlays and Subtitles to Your Instagram Story Videos
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Instructions for Pairing Apple AirPods with the Nintendo Switch</p>
+                            <p>This Article Describes Step-by-Step Guide: Adding Text Overlays and Subtitles to Your Instagram Story Videos</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:15:10 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:27:41 GMT+0800">
                 
                     2024-08-19
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/step-by-step-instructions-for-pairing-apple-airpods-with-the-nintendo-switch/">Read more<span class="seo-reader-text">Step-by-Step Instructions for Pairing Apple AirPods with the Nintendo Switch</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-adding-text-overlays-and-subtitles-to-your-instagram-story-videos/">Read more<span class="seo-reader-text">Step-by-Step Guide: Adding Text Overlays and Subtitles to Your Instagram Story Videos</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unveiling-the-future-with-google-events-hints-and-official-declarations/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9d1dd05c3f271eee3430329911a28889fe06673bc3d54592907c037975387dd6.jpg" alt="Unveiling the Future with Google: Events, Hints, &amp; Official Declarations" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-guide-magnify-and-minimize-images-with-iphone-or-ipad/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957dd5b874ab0b46f7e315b993.jpg" alt="Ultimate Guide: Magnify and Minimize Images with iPhone or iPad" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unveiling-the-future-with-google-events-hints-and-official-declarations/">
-                            Unveiling the Future with Google: Events, Hints, &amp; Official Declarations
+                        <a href="/ultimate-guide-magnify-and-minimize-images-with-iphone-or-ipad/">
+                            Ultimate Guide: Magnify and Minimize Images with iPhone or iPad
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Unveiling the Future with Google: Events, Hints, &amp; Official Declarations</p>
+                            <p>This Article Describes Ultimate Guide: Magnify and Minimize Images with iPhone or iPad</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:15:09 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:27:40 GMT+0800">
                 
                     2024-08-19
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/unveiling-the-future-with-google-events-hints-and-official-declarations/">Read more<span class="seo-reader-text">Unveiling the Future with Google: Events, Hints, &amp; Official Declarations</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-guide-magnify-and-minimize-images-with-iphone-or-ipad/">Read more<span class="seo-reader-text">Ultimate Guide: Magnify and Minimize Images with iPhone or iPad</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ultimate-tips-for-effective-copilot-integration-within-microsoft-teams/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MicrosoftTeamsonSmartphone-d39ccad0352b43f8ba048a7fd395190f.jpg" alt="Ultimate Tips for Effective Copilot Integration Within Microsoft Teams" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effective-strategies-to-resolve-504-gateway-timeout-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/Vz8N0CGiSitBjtOwThdTicT4eAE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/504-gateway-timeout-error-explained-2622941-ce1b0e336ef84314b78836052a067090.png" alt="Effective Strategies to Resolve 504 Gateway Timeout Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ultimate-tips-for-effective-copilot-integration-within-microsoft-teams/">
-                            Ultimate Tips for Effective Copilot Integration Within Microsoft Teams
+                        <a href="/effective-strategies-to-resolve-504-gateway-timeout-issues/">
+                            Effective Strategies to Resolve 504 Gateway Timeout Issues
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Ultimate Tips for Effective Copilot Integration Within Microsoft Teams</p>
+                            <p>This Article Describes Effective Strategies to Resolve 504 Gateway Timeout Issues</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:15:08 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:27:39 GMT+0800">
                 
                     2024-08-19
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/ultimate-tips-for-effective-copilot-integration-within-microsoft-teams/">Read more<span class="seo-reader-text">Ultimate Tips for Effective Copilot Integration Within Microsoft Teams</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effective-strategies-to-resolve-504-gateway-timeout-issues/">Read more<span class="seo-reader-text">Effective Strategies to Resolve 504 Gateway Timeout Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722879830344-android-phone-no-call-functionality-follow-these-steps-to-fix-it/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/h7TOGnXGy4iVcnkZ3-pYW5gzfus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/stressed-woman-using-cell-phone-649660615-5c5355e34cedfd0001efd4cb.jpg" alt="Android Phone No Call Functionality? Follow These Steps to Fix It!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/overcoming-gslnewns165dll-not-found-challenges-expert-fixes-revealed/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/84GXfHN0LI4AXkMDCrkyTDwWCKc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gsdll32-dll-error-message-5a83031bff1b7800374c6fe9.png" alt="Overcoming gsl_newns165.dll Not Found Challenges - Expert Fixes Revealed" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722879830344-android-phone-no-call-functionality-follow-these-steps-to-fix-it/">
-                            Android Phone No Call Functionality? Follow These Steps to Fix It!
+                        <a href="/overcoming-gslnewns165dll-not-found-challenges-expert-fixes-revealed/">
+                            Overcoming gsl_newns165.dll Not Found Challenges - Expert Fixes Revealed
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Android Phone No Call Functionality? Follow These Steps to Fix It!</p>
+                            <p>This Article Describes Overcoming gsl_newns165.dll Not Found Challenges - Expert Fixes Revealed</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:15:07 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:27:38 GMT+0800">
                 
                     2024-08-19
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/1722879830344-android-phone-no-call-functionality-follow-these-steps-to-fix-it/">Read more<span class="seo-reader-text">Android Phone No Call Functionality? Follow These Steps to Fix It!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/overcoming-gslnewns165dll-not-found-challenges-expert-fixes-revealed/">Read more<span class="seo-reader-text">Overcoming gsl_newns165.dll Not Found Challenges - Expert Fixes Revealed</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolving-the-wpcapsdll-file-doesnt-exist-or-cant-be-located-issue/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/QGQlsK8IuhbVinW-mqfS3A1Xzgo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wpcap-dll-error-595398ec5f9b584bfe64385a.png" alt="Resolving the &#39;Wpcaps.dll&#39; File Doesn&#39;t Exist or Can&#39;t Be Located Issue" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-11-major-tech-breakthroughs-post-1844/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-119705368-5c7f279dc9e77c00011c8462.jpg" alt="Top 11 Major Tech Breakthroughs Post-1844" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolving-the-wpcapsdll-file-doesnt-exist-or-cant-be-located-issue/">
-                            Resolving the &#39;Wpcaps.dll&#39; File Doesn&#39;t Exist or Can&#39;t Be Located Issue
+                        <a href="/top-11-major-tech-breakthroughs-post-1844/">
+                            Top 11 Major Tech Breakthroughs Post-1844
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolving the ‘Wpcaps.dll’ File Doesn’t Exist or Can’t Be Located Issue</p>
+                            <p>This Article Describes Top 11 Major Tech Breakthroughs Post-1844</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:15:06 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:27:36 GMT+0800">
                 
                     2024-08-19
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/resolving-the-wpcapsdll-file-doesnt-exist-or-cant-be-located-issue/">Read more<span class="seo-reader-text">Resolving the &#39;Wpcaps.dll&#39; File Doesn&#39;t Exist or Can&#39;t Be Located Issue</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-11-major-tech-breakthroughs-post-1844/">Read more<span class="seo-reader-text">Top 11 Major Tech Breakthroughs Post-1844</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/transforming-reality-with-ai-unleashing-a-new-era/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d6abae0f7e3d8fb5f7c3d204845ee10283f20e49e0d3d6312bf5d54b51961985.jpg" alt="Transforming Reality with AI: Unleashing a New Era" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fix-guide-handling-mss32dll-file-disappearance-successfully/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30f3dde81226f486e6ab605fb.jpg" alt="Fix Guide: Handling MSS32.DLL File Disappearance Successfully" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/transforming-reality-with-ai-unleashing-a-new-era/">
-                            Transforming Reality with AI: Unleashing a New Era
+                        <a href="/fix-guide-handling-mss32dll-file-disappearance-successfully/">
+                            Fix Guide: Handling MSS32.DLL File Disappearance Successfully
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Transforming Reality with AI: Unleashing a New Era</p>
+                            <p>This Article Describes Fix Guide: Handling MSS32.DLL File Disappearance Successfully</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:15:05 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:27:35 GMT+0800">
                 
                     2024-08-19
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/transforming-reality-with-ai-unleashing-a-new-era/">Read more<span class="seo-reader-text">Transforming Reality with AI: Unleashing a New Era</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fix-guide-handling-mss32dll-file-disappearance-successfully/">Read more<span class="seo-reader-text">Fix Guide: Handling MSS32.DLL File Disappearance Successfully</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/989/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/988/">988</a><a class="page-number" href="/page/989/">989</a><span class="page-number current">990</span><a class="page-number" href="/page/991/">991</a><a class="page-number" href="/page/992/">992</a><span class="space">&hellip;</span><a class="page-number" href="/page/1277/">1277</a><a class="extend next" rel="next" href="/page/991/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/989/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/988/">988</a><a class="page-number" href="/page/989/">989</a><span class="page-number current">990</span><a class="page-number" href="/page/991/">991</a><a class="page-number" href="/page/992/">992</a><span class="space">&hellip;</span><a class="page-number" href="/page/1343/">1343</a><a class="extend next" rel="next" href="/page/991/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

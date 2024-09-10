@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/exploring-the-microsoft-owned-search-engine-a-comprehensive-guide-to-understanding-bing/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c5810091f927c907ee973d4983.jpg" alt="Exploring the Microsoft-Owned Search Engine: A Comprehensive Guide to Understanding Bing" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/cracking-the-code-accessing-hidden-wi-fi-credentials-within-your-windows-11-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg" alt="Cracking the Code: Accessing Hidden Wi-Fi Credentials Within Your Windows 11 PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/exploring-the-microsoft-owned-search-engine-a-comprehensive-guide-to-understanding-bing/">
-                            Exploring the Microsoft-Owned Search Engine: A Comprehensive Guide to Understanding Bing
+                        <a href="/cracking-the-code-accessing-hidden-wi-fi-credentials-within-your-windows-11-pc/">
+                            Cracking the Code: Accessing Hidden Wi-Fi Credentials Within Your Windows 11 PC
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Exploring the Microsoft-Owned Search Engine: A Comprehensive Guide to Understanding Bing</p>
+                            <p>This Article Describes Cracking the Code: Accessing Hidden Wi-Fi Credentials Within Your Windows 11 PC</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:00:08 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:12:40 GMT+0800">
                 
                     2024-08-19
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/exploring-the-microsoft-owned-search-engine-a-comprehensive-guide-to-understanding-bing/">Read more<span class="seo-reader-text">Exploring the Microsoft-Owned Search Engine: A Comprehensive Guide to Understanding Bing</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/cracking-the-code-accessing-hidden-wi-fi-credentials-within-your-windows-11-pc/">Read more<span class="seo-reader-text">Cracking the Code: Accessing Hidden Wi-Fi Credentials Within Your Windows 11 PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unraveling-the-mystery-a-comprehensive-guide-to-understanding-instagram/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ef833586db2eca1205112d6a1324831706810837347cef6ebb757a75a1e9ec6c.jpg" alt="Unraveling the Mystery: A Comprehensive Guide to Understanding Instagram" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/xbox-one-image-capture-techniques-a-beginners-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/XAfl7_0qb_GCkhzSGDgKs-jsHss=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/xboxonescreenshot-5aa2f62e642dca003622cd40.png" alt="Xbox One Image Capture Techniques - A Beginner&#39;s Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unraveling-the-mystery-a-comprehensive-guide-to-understanding-instagram/">
-                            Unraveling the Mystery: A Comprehensive Guide to Understanding Instagram
+                        <a href="/xbox-one-image-capture-techniques-a-beginners-guide/">
+                            Xbox One Image Capture Techniques - A Beginner&#39;s Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Unraveling the Mystery: A Comprehensive Guide to Understanding Instagram</p>
+                            <p>This Article Describes Xbox One Image Capture Techniques - A Beginner’s Guide</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:00:07 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:12:39 GMT+0800">
                 
                     2024-08-19
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/unraveling-the-mystery-a-comprehensive-guide-to-understanding-instagram/">Read more<span class="seo-reader-text">Unraveling the Mystery: A Comprehensive Guide to Understanding Instagram</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/xbox-one-image-capture-techniques-a-beginners-guide/">Read more<span class="seo-reader-text">Xbox One Image Capture Techniques - A Beginner&#39;s Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unlocking-the-secrets-of-the-chkdsk-command-in-windows-operating-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/33AQQZVzam_p173eQdHzdLwctNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chkdsk-help-command-86bf1475305d4df1aeb9ab4846c2c60d.png" alt="Unlocking the Secrets of the Chkdsk Command in Windows Operating Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/addressing-the-absent-jvmdll-methods-to-correct-file-missing-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e46cf7809dfb5c690e2c4abe.jpg" alt="Addressing the Absent JVM.DLL: Methods to Correct File Missing Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unlocking-the-secrets-of-the-chkdsk-command-in-windows-operating-systems/">
-                            Unlocking the Secrets of the Chkdsk Command in Windows Operating Systems
+                        <a href="/addressing-the-absent-jvmdll-methods-to-correct-file-missing-issues/">
+                            Addressing the Absent JVM.DLL: Methods to Correct File Missing Issues
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Unlocking the Secrets of the Chkdsk Command in Windows Operating Systems</p>
+                            <p>This Article Describes Addressing the Absent JVM.DLL: Methods to Correct File Missing Issues</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:00:05 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:12:38 GMT+0800">
                 
                     2024-08-19
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/unlocking-the-secrets-of-the-chkdsk-command-in-windows-operating-systems/">Read more<span class="seo-reader-text">Unlocking the Secrets of the Chkdsk Command in Windows Operating Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/addressing-the-absent-jvmdll-methods-to-correct-file-missing-issues/">Read more<span class="seo-reader-text">Addressing the Absent JVM.DLL: Methods to Correct File Missing Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/easy-fixes-when-your-samsung-soundbar-stops-working-correctly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg" alt="Easy Fixes When Your Samsung Soundbar Stops Working Correctly" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/guide-to-disable-suggested-posts-and-improve-your-instagram-experience/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/WrBuxX4mP0MaLiNpfnsihklt_ls=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-932007804-c6377c1eabd346b28f376de9bbf2e441.jpg" alt="Guide to Disable &#39;Suggested Posts&#39; And Improve Your Instagram Experience" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/easy-fixes-when-your-samsung-soundbar-stops-working-correctly/">
-                            Easy Fixes When Your Samsung Soundbar Stops Working Correctly
+                        <a href="/guide-to-disable-suggested-posts-and-improve-your-instagram-experience/">
+                            Guide to Disable &#39;Suggested Posts&#39; And Improve Your Instagram Experience
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Easy Fixes When Your Samsung Soundbar Stops Working Correctly</p>
+                            <p>This Article Describes Guide to Disable ‘Suggested Posts’ And Improve Your Instagram Experience</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:00:04 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:12:37 GMT+0800">
                 
                     2024-08-19
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/easy-fixes-when-your-samsung-soundbar-stops-working-correctly/">Read more<span class="seo-reader-text">Easy Fixes When Your Samsung Soundbar Stops Working Correctly</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/guide-to-disable-suggested-posts-and-improve-your-instagram-experience/">Read more<span class="seo-reader-text">Guide to Disable &#39;Suggested Posts&#39; And Improve Your Instagram Experience</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/eliminate-errors-recovering-a-lost-python24dll-file/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c9a3e1b7624a8f2d1d718fa1.jpg" alt="Eliminate Errors: Recovering a Lost Python24.dll File" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/integrating-google-cast-on-amazons-firestick-for-enhanced-viewing/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/E7Vx2go7_C0WGJ18TLgiSMGu8qE=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/casttofirestickhero-f99fd3d8366e420abad68c0b98b96ac8.jpg" alt="Integrating Google Cast on Amazon&#39;s Firestick for Enhanced Viewing" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/eliminate-errors-recovering-a-lost-python24dll-file/">
-                            Eliminate Errors: Recovering a Lost Python24.dll File
+                        <a href="/integrating-google-cast-on-amazons-firestick-for-enhanced-viewing/">
+                            Integrating Google Cast on Amazon&#39;s Firestick for Enhanced Viewing
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Eliminate Errors: Recovering a Lost Python24.dll File</p>
+                            <p>This Article Describes Integrating Google Cast on Amazon’s Firestick for Enhanced Viewing</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:00:03 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:12:35 GMT+0800">
                 
                     2024-08-19
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/eliminate-errors-recovering-a-lost-python24dll-file/">Read more<span class="seo-reader-text">Eliminate Errors: Recovering a Lost Python24.dll File</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/integrating-google-cast-on-amazons-firestick-for-enhanced-viewing/">Read more<span class="seo-reader-text">Integrating Google Cast on Amazon&#39;s Firestick for Enhanced Viewing</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/best-online-movie-libraries-offering-free-screenings-discover-the-top-picks/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/8QoRa7rxh1Sb_ROuFhBCtwa_bmY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-922710232-686ae40ac2cb4b47aa3c576b4557f96b.jpg" alt="Best Online Movie Libraries Offering Free Screenings - Discover the Top Picks" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-6-must-try-journaling-applications-for-enhanced-productivity/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/RuJwxtPlMh0m_32fftDk7gW75k4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-589163817-5ba914f64cedfd0050783000.jpg" alt="Top 6 Must-Try Journaling Applications for Enhanced Productivity" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/best-online-movie-libraries-offering-free-screenings-discover-the-top-picks/">
-                            Best Online Movie Libraries Offering Free Screenings - Discover the Top Picks
+                        <a href="/top-6-must-try-journaling-applications-for-enhanced-productivity/">
+                            Top 6 Must-Try Journaling Applications for Enhanced Productivity
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Best Online Movie Libraries Offering Free Screenings - Discover the Top Picks</p>
+                            <p>This Article Describes Top 6 Must-Try Journaling Applications for Enhanced Productivity</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:00:02 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:12:34 GMT+0800">
                 
                     2024-08-19
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/best-online-movie-libraries-offering-free-screenings-discover-the-top-picks/">Read more<span class="seo-reader-text">Best Online Movie Libraries Offering Free Screenings - Discover the Top Picks</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-6-must-try-journaling-applications-for-enhanced-productivity/">Read more<span class="seo-reader-text">Top 6 Must-Try Journaling Applications for Enhanced Productivity</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-tips-for-solving-504-gateway-errors-quickly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/Vz8N0CGiSitBjtOwThdTicT4eAE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/504-gateway-timeout-error-explained-2622941-ce1b0e336ef84314b78836052a067090.png" alt="Troubleshooting Tips for Solving 504 Gateway Errors Quickly" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/find-your-match-in-the-world-of-windows-facetime-clones-a-detailed-walkthrough/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4eff5c9989165ba5b957b7575.jpg" alt="Find Your Match in the World of Windows&#39; Facetime Clones: A Detailed Walkthrough" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-tips-for-solving-504-gateway-errors-quickly/">
-                            Troubleshooting Tips for Solving 504 Gateway Errors Quickly
+                        <a href="/find-your-match-in-the-world-of-windows-facetime-clones-a-detailed-walkthrough/">
+                            Find Your Match in the World of Windows&#39; Facetime Clones: A Detailed Walkthrough
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Tips for Solving 504 Gateway Errors Quickly</p>
+                            <p>This Article Describes Find Your Match in the World of Windows’ Facetime Clones: A Detailed Walkthrough</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:00:01 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:12:33 GMT+0800">
                 
                     2024-08-19
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/troubleshooting-tips-for-solving-504-gateway-errors-quickly/">Read more<span class="seo-reader-text">Troubleshooting Tips for Solving 504 Gateway Errors Quickly</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/find-your-match-in-the-world-of-windows-facetime-clones-a-detailed-walkthrough/">Read more<span class="seo-reader-text">Find Your Match in the World of Windows&#39; Facetime Clones: A Detailed Walkthrough</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/monitoring-shares-find-out-who-spread-your-message-on-facebook-today/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e45357c3c35eb8b5e2445a5ba07.jpg" alt="Monitoring Shares: Find Out Who Spread Your Message on Facebook Today" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-15-must-see-dolby-atmos-films-perfect-for-your-home-theater-experience/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg" alt="Top 15 Must-See Dolby Atmos Films Perfect for Your Home Theater Experience" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/monitoring-shares-find-out-who-spread-your-message-on-facebook-today/">
-                            Monitoring Shares: Find Out Who Spread Your Message on Facebook Today
+                        <a href="/top-15-must-see-dolby-atmos-films-perfect-for-your-home-theater-experience/">
+                            Top 15 Must-See Dolby Atmos Films Perfect for Your Home Theater Experience
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Monitoring Shares: Find Out Who Spread Your Message on Facebook Today</p>
+                            <p>This Article Describes Top 15 Must-See Dolby Atmos Films Perfect for Your Home Theater Experience</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:00:00 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:12:32 GMT+0800">
                 
                     2024-08-19
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/monitoring-shares-find-out-who-spread-your-message-on-facebook-today/">Read more<span class="seo-reader-text">Monitoring Shares: Find Out Who Spread Your Message on Facebook Today</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-15-must-see-dolby-atmos-films-perfect-for-your-home-theater-experience/">Read more<span class="seo-reader-text">Top 15 Must-See Dolby Atmos Films Perfect for Your Home Theater Experience</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-complete-guide-to-navigating-lg-channels-effectively/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg" alt="The Complete Guide to Navigating LG Channels Effectively" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/disabling-closed-captions-in-your-amazon-prime-streams/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/DKr8VPBECw8uDUO8xCXOYn7HGc0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/turnoffamazonprimesubtitles-322f27a515f747aaa2c0a94db86e090f.jpg" alt="Disabling Closed Captions in Your Amazon Prime Streams" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-complete-guide-to-navigating-lg-channels-effectively/">
-                            The Complete Guide to Navigating LG Channels Effectively
+                        <a href="/disabling-closed-captions-in-your-amazon-prime-streams/">
+                            Disabling Closed Captions in Your Amazon Prime Streams
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Complete Guide to Navigating LG Channels Effectively</p>
+                            <p>This Article Describes Disabling Closed Captions in Your Amazon Prime Streams</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 12:59:59 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:12:31 GMT+0800">
                 
                     2024-08-19
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/the-complete-guide-to-navigating-lg-channels-effectively/">Read more<span class="seo-reader-text">The Complete Guide to Navigating LG Channels Effectively</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/disabling-closed-captions-in-your-amazon-prime-streams/">Read more<span class="seo-reader-text">Disabling Closed Captions in Your Amazon Prime Streams</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/insider-scoop-on-google-tv-streaming-box-anticipated-cost-launch-timeline-and-latest-tech-details/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/rjE_Z9yn_lOBR-EMJCbSfMqqXZk=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-TV-Streamer-small-d2649588425b442c8eb5ade64088b237.jpg" alt="Insider Scoop on Google TV Streaming Box - Anticipated Cost, Launch Timeline &amp; Latest Tech Details" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/uncover-the-solution-to-not-found-or-missing-cygwin1dll-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/jJrx8gbAccLZttWGcjaZi_c8G_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cygwin1-dll-error-message-eae788803649471b9be237bce0268ed1.png" alt="Uncover the Solution to &#39;Not Found&#39; Or Missing Cygwin1.dll Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/insider-scoop-on-google-tv-streaming-box-anticipated-cost-launch-timeline-and-latest-tech-details/">
-                            Insider Scoop on Google TV Streaming Box - Anticipated Cost, Launch Timeline &amp; Latest Tech Details
+                        <a href="/uncover-the-solution-to-not-found-or-missing-cygwin1dll-issues/">
+                            Uncover the Solution to &#39;Not Found&#39; Or Missing Cygwin1.dll Issues
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Insider Scoop on Google TV Streaming Box - Anticipated Cost, Launch Timeline &amp; Latest Tech Details</p>
+                            <p>This Article Describes Uncover the Solution to ‘Not Found’ Or Missing Cygwin1.dll Issues</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 12:59:57 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:12:30 GMT+0800">
                 
                     2024-08-19
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/insider-scoop-on-google-tv-streaming-box-anticipated-cost-launch-timeline-and-latest-tech-details/">Read more<span class="seo-reader-text">Insider Scoop on Google TV Streaming Box - Anticipated Cost, Launch Timeline &amp; Latest Tech Details</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/uncover-the-solution-to-not-found-or-missing-cygwin1dll-issues/">Read more<span class="seo-reader-text">Uncover the Solution to &#39;Not Found&#39; Or Missing Cygwin1.dll Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/1069/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/1068/">1068</a><a class="page-number" href="/page/1069/">1069</a><span class="page-number current">1070</span><a class="page-number" href="/page/1071/">1071</a><a class="page-number" href="/page/1072/">1072</a><span class="space">&hellip;</span><a class="page-number" href="/page/1277/">1277</a><a class="extend next" rel="next" href="/page/1071/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/1069/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/1068/">1068</a><a class="page-number" href="/page/1069/">1069</a><span class="page-number current">1070</span><a class="page-number" href="/page/1071/">1071</a><a class="page-number" href="/page/1072/">1072</a><span class="space">&hellip;</span><a class="page-number" href="/page/1343/">1343</a><a class="extend next" rel="next" href="/page/1071/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

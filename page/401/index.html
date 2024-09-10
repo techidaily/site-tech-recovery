@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-the-xinput13dll-file-is-absent-dilemma/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/40CAkSk37MvIWPrJtsEAjWPX1RI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-xinput1-3-dll-not-found-or-missing-errors-2624329-5c760415c9e77c00012f8110.jpg" alt="Solving the &#39;xinput1_3.dll File Is Absent&#39; Dilemma" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/easy-steps-merging-cells-across-multiple-columns-in-microsoft-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/bef0ee80271c03bca8fa1ceeb9bd487dbcf95a1c3cbd6d89762ee7396e9d66d9.jpg" alt="Easy Steps: Merging Cells Across Multiple Columns in Microsoft Excel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-the-xinput13dll-file-is-absent-dilemma/">
-                            Solving the &#39;xinput1_3.dll File Is Absent&#39; Dilemma
+                        <a href="/easy-steps-merging-cells-across-multiple-columns-in-microsoft-excel/">
+                            Easy Steps: Merging Cells Across Multiple Columns in Microsoft Excel
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving the ‘xinput1_3.dll File Is Absent’ Dilemma</p>
+                            <p>This Article Describes Easy Steps: Merging Cells Across Multiple Columns in Microsoft Excel</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:06:11 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:18:37 GMT+0800">
                 
                     2024-08-19
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/solving-the-xinput13dll-file-is-absent-dilemma/">Read more<span class="seo-reader-text">Solving the &#39;xinput1_3.dll File Is Absent&#39; Dilemma</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/easy-steps-merging-cells-across-multiple-columns-in-microsoft-excel/">Read more<span class="seo-reader-text">Easy Steps: Merging Cells Across Multiple Columns in Microsoft Excel</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722863973590-top-11-free-movie-downloading-sites-youll-love/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/b1-NxSBMWp3lknLN8MT4M3i6gRg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-with-tablet-and-headphones-on-train-629639549-59c3f06422fa3a00118b0616.jpg" alt="Top 11 Free Movie Downloading Sites You&#39;ll Love!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/google-pixel-watch-3-news-and-expected-price-release-date-specs-and-more-rumors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f7eb32e30dabd1ecde240ae4f390a8ba724185aa17a13d5ef1b9d86c145dc8b7.jpg" alt="Google Pixel Watch 3: News and Expected Price, Release Date, Specs; and More Rumors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722863973590-top-11-free-movie-downloading-sites-youll-love/">
-                            Top 11 Free Movie Downloading Sites You&#39;ll Love!
+                        <a href="/google-pixel-watch-3-news-and-expected-price-release-date-specs-and-more-rumors/">
+                            Google Pixel Watch 3: News and Expected Price, Release Date, Specs; and More Rumors
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Top 11 Free Movie Downloading Sites You’ll Love!</p>
+                            <p>This Article Describes Google Pixel Watch 3: News and Expected Price, Release Date, Specs; and More Rumors</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:06:10 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:18:36 GMT+0800">
                 
                     2024-08-19
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/1722863973590-top-11-free-movie-downloading-sites-youll-love/">Read more<span class="seo-reader-text">Top 11 Free Movie Downloading Sites You&#39;ll Love!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/google-pixel-watch-3-news-and-expected-price-release-date-specs-and-more-rumors/">Read more<span class="seo-reader-text">Google Pixel Watch 3: News and Expected Price, Release Date, Specs; and More Rumors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/master-the-art-of-fixing-an-http-500-internal-server-error-with-these-expert-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/VAOx2DfOpR4bVgnfCUxzvNObxMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/500-internal-server-error-explained-2622938-1485165a9b6942f09f2f5257682c0b6e.png" alt="Master the Art of Fixing an HTTP 500 Internal Server Error with These Expert Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722884770080-a-complete-guide-to-interpreting-your-windows-10-battery-status-report/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/panos-sakalakis-35NiG1dYjtM-unsplash-04ea0b8a952a4f028ff0c0f0dfd0ade8.jpg" alt="A Complete Guide to Interpreting Your Windows 10 Battery Status Report" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/master-the-art-of-fixing-an-http-500-internal-server-error-with-these-expert-tips/">
-                            Master the Art of Fixing an HTTP 500 Internal Server Error with These Expert Tips
+                        <a href="/1722884770080-a-complete-guide-to-interpreting-your-windows-10-battery-status-report/">
+                            A Complete Guide to Interpreting Your Windows 10 Battery Status Report
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Master the Art of Fixing an HTTP 500 Internal Server Error with These Expert Tips</p>
+                            <p>This Article Describes A Complete Guide to Interpreting Your Windows 10 Battery Status Report</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:06:08 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:18:34 GMT+0800">
                 
                     2024-08-19
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/master-the-art-of-fixing-an-http-500-internal-server-error-with-these-expert-tips/">Read more<span class="seo-reader-text">Master the Art of Fixing an HTTP 500 Internal Server Error with These Expert Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722884770080-a-complete-guide-to-interpreting-your-windows-10-battery-status-report/">Read more<span class="seo-reader-text">A Complete Guide to Interpreting Your Windows 10 Battery Status Report</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unveiling-oled-understanding-its-structure-and-functionality/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/376a21d7adf513ad247008e922e6f8963a8f68fa243f110f1e6012bff2388fa5.jpg" alt="Unveiling OLED: Understanding Its Structure and Functionality" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-iphone-calls-that-dont-sound-alarm-tips-and-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/hqlj-lmr0VgLfPq8N_0JWQnEnBg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-22f42188ea1243a19596053bffefa023.png" alt="Troubleshooting iPhone Calls That Don&#39;t Sound Alarm - Tips &amp; Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unveiling-oled-understanding-its-structure-and-functionality/">
-                            Unveiling OLED: Understanding Its Structure and Functionality
+                        <a href="/troubleshooting-iphone-calls-that-dont-sound-alarm-tips-and-solutions/">
+                            Troubleshooting iPhone Calls That Don&#39;t Sound Alarm - Tips &amp; Solutions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Unveiling OLED: Understanding Its Structure and Functionality</p>
+                            <p>This Article Describes Troubleshooting iPhone Calls That Don’t Sound Alarm - Tips &amp; Solutions</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:06:07 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:18:33 GMT+0800">
                 
                     2024-08-19
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/unveiling-oled-understanding-its-structure-and-functionality/">Read more<span class="seo-reader-text">Unveiling OLED: Understanding Its Structure and Functionality</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-iphone-calls-that-dont-sound-alarm-tips-and-solutions/">Read more<span class="seo-reader-text">Troubleshooting iPhone Calls That Don&#39;t Sound Alarm - Tips &amp; Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discord-username-update-how-to-alter-profile-images/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg" alt="Discord Username Update: How To Alter Profile Images" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/future-ready-education-identifying-the-ers-best-cities-to-visit-new-york-paris-and-tokyo/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac82437e197dd592c77a4c46e.jpg" alt="Future-Ready Education: Identifying the Er&#39;s Best Cities to Visit - New York, Paris, and Tokyo" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discord-username-update-how-to-alter-profile-images/">
-                            Discord Username Update: How To Alter Profile Images
+                        <a href="/future-ready-education-identifying-the-ers-best-cities-to-visit-new-york-paris-and-tokyo/">
+                            Future-Ready Education: Identifying the Er&#39;s Best Cities to Visit - New York, Paris, and Tokyo
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Discord Username Update: How To Alter Profile Images</p>
+                            <p>This Article Describes Future-Ready Education: Identifying the Er’s Best Cities to Visit - New York, Paris, and Tokyo</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:06:06 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:18:32 GMT+0800">
                 
                     2024-08-19
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/discord-username-update-how-to-alter-profile-images/">Read more<span class="seo-reader-text">Discord Username Update: How To Alter Profile Images</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/future-ready-education-identifying-the-ers-best-cities-to-visit-new-york-paris-and-tokyo/">Read more<span class="seo-reader-text">Future-Ready Education: Identifying the Er&#39;s Best Cities to Visit - New York, Paris, and Tokyo</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722856027151-overcoming-challenges-with-chatgpts-moderation-errors-strategies-and-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/zuGzzTbBHQikFNuFPo1UivnwX_s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-Chatbot-e66a5920fd6a4b2bbfa08661cf3d8ec4.jpg" alt="Overcoming Challenges with ChatGPT&#39;s Moderation Errors - Strategies and Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/8yh01orzw685GMPatK66uAeVAfI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-download-netflix-movies-on-laptop-c7098eeb47ee47d792c92816d4a08cb5.jpg" alt="How Can You Legally Download Netflix Titles for Offline Viewing on a Laptop?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722856027151-overcoming-challenges-with-chatgpts-moderation-errors-strategies-and-tips/">
-                            Overcoming Challenges with ChatGPT&#39;s Moderation Errors - Strategies and Tips
+                        <a href="/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/">
+                            How Can You Legally Download Netflix Titles for Offline Viewing on a Laptop?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming Challenges with ChatGPT’s Moderation Errors - Strategies and Tips</p>
+                            <p>This Article Describes How Can You Legally Download Netflix Titles for Offline Viewing on a Laptop?</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:06:05 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:18:31 GMT+0800">
                 
                     2024-08-19
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/1722856027151-overcoming-challenges-with-chatgpts-moderation-errors-strategies-and-tips/">Read more<span class="seo-reader-text">Overcoming Challenges with ChatGPT&#39;s Moderation Errors - Strategies and Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/">Read more<span class="seo-reader-text">How Can You Legally Download Netflix Titles for Offline Viewing on a Laptop?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/guide-successfully-running-android-applications-on-your-windows-10-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/701604b004132705bf965868821c3abaea38902fff791c6427ce40c1dc069beb.jpg" alt="Guide: Successfully Running Android Applications on Your Windows 10 PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-5-best-free-racing-games-without-internet-play-anywhere/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/RZqYQs7JM1A5IfTyLbmymPAuPP0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/offlinecars-forza6apex-featured-5bf38e9446e0fb0051c71dcb.jpg" alt="Top 5 Best Free Racing Games Without Internet | Play Anywhere!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/guide-successfully-running-android-applications-on-your-windows-10-pc/">
-                            Guide: Successfully Running Android Applications on Your Windows 10 PC
+                        <a href="/top-5-best-free-racing-games-without-internet-play-anywhere/">
+                            Top 5 Best Free Racing Games Without Internet | Play Anywhere!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Guide: Successfully Running Android Applications on Your Windows 10 PC</p>
+                            <p>This Article Describes Top 5 Best Free Racing Games Without Internet | Play Anywhere!</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:06:04 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:18:30 GMT+0800">
                 
                     2024-08-19
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/guide-successfully-running-android-applications-on-your-windows-10-pc/">Read more<span class="seo-reader-text">Guide: Successfully Running Android Applications on Your Windows 10 PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-5-best-free-racing-games-without-internet-play-anywhere/">Read more<span class="seo-reader-text">Top 5 Best Free Racing Games Without Internet | Play Anywhere!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/stream-now-expert-recommendations-of-20-essential-films-from-lifewire/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961da236a4542ceaa49684d0f3.jpg" alt="Stream Now: Expert Recommendations of 20 Essential Films From LifeWire" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/comprehensive-strategy-to-erase-all-correspondences-via-gmails-handy-mobile-app/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-delete-all-emails-in-gmail-app-67f80efd675447e7b7675becc7cbbab1.jpg" alt="Comprehensive Strategy to Erase All Correspondences via Gmail&#39;s Handy Mobile App" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/stream-now-expert-recommendations-of-20-essential-films-from-lifewire/">
-                            Stream Now: Expert Recommendations of 20 Essential Films From LifeWire
+                        <a href="/comprehensive-strategy-to-erase-all-correspondences-via-gmails-handy-mobile-app/">
+                            Comprehensive Strategy to Erase All Correspondences via Gmail&#39;s Handy Mobile App
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Stream Now: Expert Recommendations of 20 Essential Films From LifeWire</p>
+                            <p>This Article Describes Comprehensive Strategy to Erase All Correspondences via Gmail’s Handy Mobile App</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:06:03 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:18:29 GMT+0800">
                 
                     2024-08-19
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/stream-now-expert-recommendations-of-20-essential-films-from-lifewire/">Read more<span class="seo-reader-text">Stream Now: Expert Recommendations of 20 Essential Films From LifeWire</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/comprehensive-strategy-to-erase-all-correspondences-via-gmails-handy-mobile-app/">Read more<span class="seo-reader-text">Comprehensive Strategy to Erase All Correspondences via Gmail&#39;s Handy Mobile App</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/uniting-voice-and-email-how-to-connect-google-duo-with-gmail-efficiently/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45b0aad772e33e1d818e77a97.jpg" alt="Uniting Voice and Email: How to Connect Google Duo with Gmail Efficiently" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/secure-your-kids-online-experience-limiting-youtube-usage-on-an-ipad/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1e30b9de50d4ae50235fbe2427c86509d2c0711d92ede6d59da5c3ba818ec4d8.jpg" alt="Secure Your Kids&#39; Online Experience: Limiting YouTube Usage on an iPad" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/uniting-voice-and-email-how-to-connect-google-duo-with-gmail-efficiently/">
-                            Uniting Voice and Email: How to Connect Google Duo with Gmail Efficiently
+                        <a href="/secure-your-kids-online-experience-limiting-youtube-usage-on-an-ipad/">
+                            Secure Your Kids&#39; Online Experience: Limiting YouTube Usage on an iPad
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Uniting Voice and Email: How to Connect Google Duo with Gmail Efficiently</p>
+                            <p>This Article Describes Secure Your Kids’ Online Experience: Limiting YouTube Usage on an iPad</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:06:02 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:18:28 GMT+0800">
                 
                     2024-08-19
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/uniting-voice-and-email-how-to-connect-google-duo-with-gmail-efficiently/">Read more<span class="seo-reader-text">Uniting Voice and Email: How to Connect Google Duo with Gmail Efficiently</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/secure-your-kids-online-experience-limiting-youtube-usage-on-an-ipad/">Read more<span class="seo-reader-text">Secure Your Kids&#39; Online Experience: Limiting YouTube Usage on an iPad</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-5-most-effective-free-languages-apps-this-year/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg" alt="The 5 Most Effective Free Languages Apps This Year" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/pc-gamers-handbook-for-becoming-a-pro-in-pokemon-unite/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/iFyjS2rAXBEskClvNEHF6KCpyGg=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pokemonunite-13226c3338c8443fb0e39018f2fb542d.jpg" alt="PC Gamer&#39;s Handbook for Becoming a Pro in Pokémon Unite" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-5-most-effective-free-languages-apps-this-year/">
-                            The 5 Most Effective Free Languages Apps This Year
+                        <a href="/pc-gamers-handbook-for-becoming-a-pro-in-pokemon-unite/">
+                            PC Gamer&#39;s Handbook for Becoming a Pro in Pokémon Unite
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The 5 Most Effective Free Languages Apps This Year</p>
+                            <p>This Article Describes PC Gamer’s Handbook for Becoming a Pro in Pokémon Unite</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:06:01 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:18:27 GMT+0800">
                 
                     2024-08-19
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/the-5-most-effective-free-languages-apps-this-year/">Read more<span class="seo-reader-text">The 5 Most Effective Free Languages Apps This Year</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/pc-gamers-handbook-for-becoming-a-pro-in-pokemon-unite/">Read more<span class="seo-reader-text">PC Gamer&#39;s Handbook for Becoming a Pro in Pokémon Unite</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/400/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/399/">399</a><a class="page-number" href="/page/400/">400</a><span class="page-number current">401</span><a class="page-number" href="/page/402/">402</a><a class="page-number" href="/page/403/">403</a><span class="space">&hellip;</span><a class="page-number" href="/page/1277/">1277</a><a class="extend next" rel="next" href="/page/402/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/400/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/399/">399</a><a class="page-number" href="/page/400/">400</a><span class="page-number current">401</span><a class="page-number" href="/page/402/">402</a><a class="page-number" href="/page/403/">403</a><span class="space">&hellip;</span><a class="page-number" href="/page/1343/">1343</a><a class="extend next" rel="next" href="/page/402/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

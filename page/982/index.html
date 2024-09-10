@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/exclusive-insights-on-coming-google-phone-speculated-costs-release-schedule-and-performance-features/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/Jo4mnrs5lS0gqULHjPpUT9FYXk0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pixel-phone-37530f0d59de468fb1a7f6345bd7a276.png" alt="Exclusive Insights on Coming Google Phone - Speculated Costs, Release Schedule &amp; Performance Features" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-effectively-power-cycle-or-force-reboot-any-generic-ipad-model/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/nCZyvMKVIcc8HDOTYLCpcpthQBU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/daniel-romero--cCxgKIA5RA-unsplash-d3e34995e66b41ce917466a4fdf5df22.jpg" alt="How to Effectively Power Cycle or Force Reboot Any Generic iPad Model" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/exclusive-insights-on-coming-google-phone-speculated-costs-release-schedule-and-performance-features/">
-                            Exclusive Insights on Coming Google Phone - Speculated Costs, Release Schedule &amp; Performance Features
+                        <a href="/how-to-effectively-power-cycle-or-force-reboot-any-generic-ipad-model/">
+                            How to Effectively Power Cycle or Force Reboot Any Generic iPad Model
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Exclusive Insights on Coming Google Phone - Speculated Costs, Release Schedule &amp; Performance Features</p>
+                            <p>This Article Describes How to Effectively Power Cycle or Force Reboot Any Generic iPad Model</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:16:46 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:29:16 GMT+0800">
                 
                     2024-08-19
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/exclusive-insights-on-coming-google-phone-speculated-costs-release-schedule-and-performance-features/">Read more<span class="seo-reader-text">Exclusive Insights on Coming Google Phone - Speculated Costs, Release Schedule &amp; Performance Features</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-effectively-power-cycle-or-force-reboot-any-generic-ipad-model/">Read more<span class="seo-reader-text">How to Effectively Power Cycle or Force Reboot Any Generic iPad Model</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/diagnosing-and-repairing-screen-tremors-and-glitches-in-surface-pro-models/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoft-surface-pro-4-screen-flickering-ee1196d402054d0889714deb16c989af.jpg" alt="Diagnosing and Repairing Screen Tremors and Glitches in Surface Pro Models" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-tips-for-choosing-the-right-video-recording-gadget-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e1538a737ba31a5504b6070516.jpg" alt="Top Tips for Choosing the Right Video Recording Gadget: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/diagnosing-and-repairing-screen-tremors-and-glitches-in-surface-pro-models/">
-                            Diagnosing and Repairing Screen Tremors and Glitches in Surface Pro Models
+                        <a href="/top-tips-for-choosing-the-right-video-recording-gadget-a-comprehensive-guide/">
+                            Top Tips for Choosing the Right Video Recording Gadget: A Comprehensive Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Diagnosing and Repairing Screen Tremors and Glitches in Surface Pro Models</p>
+                            <p>This Article Describes Top Tips for Choosing the Right Video Recording Gadget: A Comprehensive Guide</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:16:45 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:29:15 GMT+0800">
                 
                     2024-08-19
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/diagnosing-and-repairing-screen-tremors-and-glitches-in-surface-pro-models/">Read more<span class="seo-reader-text">Diagnosing and Repairing Screen Tremors and Glitches in Surface Pro Models</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-tips-for-choosing-the-right-video-recording-gadget-a-comprehensive-guide/">Read more<span class="seo-reader-text">Top Tips for Choosing the Right Video Recording Gadget: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-tips-for-the-stop-0x00000078-phase0exception-bug/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/isn0ko2HLlTK7WUnMbUXQcunVqg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-bsod-windows-56a6faab3df78cf772913ee6.png" alt="Troubleshooting Tips for the STOP 0X00000078 Phase0Exception Bug" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/samsung-galaxy-z-flip-6-unveiled-specs-costs-launch-timeline-and-latest-updates/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7c9b8b27159acb247e2b395b.jpg" alt="Samsung Galaxy Z Flip 6 Unveiled: Specs, Costs, Launch Timeline &amp; Latest Updates" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-tips-for-the-stop-0x00000078-phase0exception-bug/">
-                            Troubleshooting Tips for the STOP 0X00000078 Phase0Exception Bug
+                        <a href="/samsung-galaxy-z-flip-6-unveiled-specs-costs-launch-timeline-and-latest-updates/">
+                            Samsung Galaxy Z Flip 6 Unveiled: Specs, Costs, Launch Timeline &amp; Latest Updates
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Tips for the STOP 0X00000078 Phase0Exception Bug</p>
+                            <p>This Article Describes Samsung Galaxy Z Flip 6 Unveiled: Specs, Costs, Launch Timeline &amp; Latest Updates</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:16:44 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:29:14 GMT+0800">
                 
                     2024-08-19
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/troubleshooting-tips-for-the-stop-0x00000078-phase0exception-bug/">Read more<span class="seo-reader-text">Troubleshooting Tips for the STOP 0X00000078 Phase0Exception Bug</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/samsung-galaxy-z-flip-6-unveiled-specs-costs-launch-timeline-and-latest-updates/">Read more<span class="seo-reader-text">Samsung Galaxy Z Flip 6 Unveiled: Specs, Costs, Launch Timeline &amp; Latest Updates</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-guide-to-disabling-security-pin-on-windows-11/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-10-pin-6a1d90ac402b41cf89828f032d8a4946.jpg" alt="Step-by-Step Guide to Disabling Security Pin on Windows 11" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722892020467-unlocking-secrets-of-the-2024-amazons-prime-event-essential-facts-revealed/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d7413beecc32c81165ba97ad08f.jpg" alt="Unlocking Secrets of the 2024 Amazons Prime Event – Essential Facts Revealed" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-guide-to-disabling-security-pin-on-windows-11/">
-                            Step-by-Step Guide to Disabling Security Pin on Windows 11
+                        <a href="/1722892020467-unlocking-secrets-of-the-2024-amazons-prime-event-essential-facts-revealed/">
+                            Unlocking Secrets of the 2024 Amazons Prime Event – Essential Facts Revealed
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Guide to Disabling Security Pin on Windows 11</p>
+                            <p>This Article Describes Unlocking Secrets of the 2024 Amazons Prime Event – Essential Facts Revealed</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:16:43 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:29:13 GMT+0800">
                 
                     2024-08-19
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/step-by-step-guide-to-disabling-security-pin-on-windows-11/">Read more<span class="seo-reader-text">Step-by-Step Guide to Disabling Security Pin on Windows 11</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722892020467-unlocking-secrets-of-the-2024-amazons-prime-event-essential-facts-revealed/">Read more<span class="seo-reader-text">Unlocking Secrets of the 2024 Amazons Prime Event – Essential Facts Revealed</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-upcoming-apple-audio-device-uncovered-projections-on-pricing-strategy-and-product-specs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff3e40a9a411ddbf297922d42.png" alt="The Upcoming Apple Audio Device Uncovered: Projections on Pricing Strategy &amp; Product Specs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/dragon-quest-chronology-the-correct-sequence-of-how-to-train-your-dragon-films/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b6dbcc18e11dc426bd1e06a708ba47abaebc27e7bce0a9cec47bbc5c1d004931.jpg" alt="Dragon Quest Chronology: The Correct Sequence of How to Train Your Dragon Films" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-upcoming-apple-audio-device-uncovered-projections-on-pricing-strategy-and-product-specs/">
-                            The Upcoming Apple Audio Device Uncovered: Projections on Pricing Strategy &amp; Product Specs
+                        <a href="/dragon-quest-chronology-the-correct-sequence-of-how-to-train-your-dragon-films/">
+                            Dragon Quest Chronology: The Correct Sequence of How to Train Your Dragon Films
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Upcoming Apple Audio Device Uncovered: Projections on Pricing Strategy &amp; Product Specs</p>
+                            <p>This Article Describes Dragon Quest Chronology: The Correct Sequence of How to Train Your Dragon Films</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:16:42 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:29:12 GMT+0800">
                 
                     2024-08-19
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/the-upcoming-apple-audio-device-uncovered-projections-on-pricing-strategy-and-product-specs/">Read more<span class="seo-reader-text">The Upcoming Apple Audio Device Uncovered: Projections on Pricing Strategy &amp; Product Specs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/dragon-quest-chronology-the-correct-sequence-of-how-to-train-your-dragon-films/">Read more<span class="seo-reader-text">Dragon Quest Chronology: The Correct Sequence of How to Train Your Dragon Films</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/bypassing-facebook-for-messages-tips-and-tricks-for-independent-usage/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg" alt="Bypassing Facebook for Messages: Tips and Tricks for Independent Usage" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-11-free-movie-downloading-sites-youll-love/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50b7aab7a2fe4029be64b0298.jpg" alt="Top 11 Free Movie Downloading Sites You&#39;ll Love" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/bypassing-facebook-for-messages-tips-and-tricks-for-independent-usage/">
-                            Bypassing Facebook for Messages: Tips and Tricks for Independent Usage
+                        <a href="/top-11-free-movie-downloading-sites-youll-love/">
+                            Top 11 Free Movie Downloading Sites You&#39;ll Love
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Bypassing Facebook for Messages: Tips and Tricks for Independent Usage</p>
+                            <p>This Article Describes Top 11 Free Movie Downloading Sites You’ll Love</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:16:40 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:29:10 GMT+0800">
                 
                     2024-08-19
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/bypassing-facebook-for-messages-tips-and-tricks-for-independent-usage/">Read more<span class="seo-reader-text">Bypassing Facebook for Messages: Tips and Tricks for Independent Usage</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-11-free-movie-downloading-sites-youll-love/">Read more<span class="seo-reader-text">Top 11 Free Movie Downloading Sites You&#39;ll Love</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/expert-insights-on-using-recuva-for-effective-file-recovery-solutions-detailed-overview/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/qKHiQdNICxYgEI_VsqibK261dMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/recuva-file-recovery-27e2092af18e4c9282f237fb8c129304.png" alt="Expert Insights on Using Recuva for Effective File Recovery Solutions - Detailed Overview" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/guide-sharing-your-printer-with-multiple-devices-through-effective-networking/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3daaeb866103686a0f1d6cb404.jpg" alt="Guide: Sharing Your Printer with Multiple Devices Through Effective Networking" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/expert-insights-on-using-recuva-for-effective-file-recovery-solutions-detailed-overview/">
-                            Expert Insights on Using Recuva for Effective File Recovery Solutions - Detailed Overview
+                        <a href="/guide-sharing-your-printer-with-multiple-devices-through-effective-networking/">
+                            Guide: Sharing Your Printer with Multiple Devices Through Effective Networking
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Expert Insights on Using Recuva for Effective File Recovery Solutions - Detailed Overview</p>
+                            <p>This Article Describes Guide: Sharing Your Printer with Multiple Devices Through Effective Networking</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:16:39 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:29:09 GMT+0800">
                 
                     2024-08-19
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/expert-insights-on-using-recuva-for-effective-file-recovery-solutions-detailed-overview/">Read more<span class="seo-reader-text">Expert Insights on Using Recuva for Effective File Recovery Solutions - Detailed Overview</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/guide-sharing-your-printer-with-multiple-devices-through-effective-networking/">Read more<span class="seo-reader-text">Guide: Sharing Your Printer with Multiple Devices Through Effective Networking</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-tutorial-how-to-correct-missing-coredll-error-message-swiftly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72bb938f97ddf7a9d42ff93268.jpg" alt="Step-by-Step Tutorial: How to Correct &#39;Missing Core.dll&#39; Error Message Swiftly" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/quick-tips-for-overcoming-the-d3dx-library-file-missing-error/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/X4jLeJEkcVBbkD4bbcPRCOAVKHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d3dx9_30-dll-error-message-7a7587487b5f45eaa72e265e06594f0b.png" alt="Quick Tips for Overcoming the D3DX Library File Missing Error" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-tutorial-how-to-correct-missing-coredll-error-message-swiftly/">
-                            Step-by-Step Tutorial: How to Correct &#39;Missing Core.dll&#39; Error Message Swiftly
+                        <a href="/quick-tips-for-overcoming-the-d3dx-library-file-missing-error/">
+                            Quick Tips for Overcoming the D3DX Library File Missing Error
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Tutorial: How to Correct ‘Missing Core.dll’ Error Message Swiftly</p>
+                            <p>This Article Describes Quick Tips for Overcoming the D3DX Library File Missing Error</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:16:38 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:29:08 GMT+0800">
                 
                     2024-08-19
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/step-by-step-tutorial-how-to-correct-missing-coredll-error-message-swiftly/">Read more<span class="seo-reader-text">Step-by-Step Tutorial: How to Correct &#39;Missing Core.dll&#39; Error Message Swiftly</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/quick-tips-for-overcoming-the-d3dx-library-file-missing-error/">Read more<span class="seo-reader-text">Quick Tips for Overcoming the D3DX Library File Missing Error</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/expert-advice-deactivating-facebook-application-on-your-android-device/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg" alt="Expert Advice: Deactivating Facebook Application on Your Android Device" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/apple-watch-series-8-release-date-specs-price-and-news/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7456b6ffbc01667561900748.png" alt="Apple Watch Series 8: Release Date, Specs, Price, and News" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/expert-advice-deactivating-facebook-application-on-your-android-device/">
-                            Expert Advice: Deactivating Facebook Application on Your Android Device
+                        <a href="/apple-watch-series-8-release-date-specs-price-and-news/">
+                            Apple Watch Series 8: Release Date, Specs, Price, and News
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Expert Advice: Deactivating Facebook Application on Your Android Device</p>
+                            <p>This Article Describes Apple Watch Series 8: Release Date, Specs, Price, and News</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:16:37 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:29:07 GMT+0800">
                 
                     2024-08-19
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/expert-advice-deactivating-facebook-application-on-your-android-device/">Read more<span class="seo-reader-text">Expert Advice: Deactivating Facebook Application on Your Android Device</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/apple-watch-series-8-release-date-specs-price-and-news/">Read more<span class="seo-reader-text">Apple Watch Series 8: Release Date, Specs, Price, and News</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/essential-quick-tricks-mastering-the-ios-shortcuts-feature-on-your-iphoneipad/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0d1178b868dfaacb16286760.jpg" alt="Essential Quick Tricks: Mastering the iOS Shortcuts Feature on Your iPhone/iPad" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/understanding-and-repairing-the-apple-watchs-touch-sensor-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/V7hugdoovXIkjXyztHf5JAGBM2w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/why-is-my-apple-watch-touch-screen-not-working-5188667-abc0aa7ac1e3451a9ef2c092a30805b3.jpg" alt="Understanding and Repairing the Apple Watch&#39;s Touch Sensor Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/essential-quick-tricks-mastering-the-ios-shortcuts-feature-on-your-iphoneipad/">
-                            Essential Quick Tricks: Mastering the iOS Shortcuts Feature on Your iPhone/iPad
+                        <a href="/understanding-and-repairing-the-apple-watchs-touch-sensor-issues/">
+                            Understanding and Repairing the Apple Watch&#39;s Touch Sensor Issues
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Essential Quick Tricks: Mastering the iOS Shortcuts Feature on Your iPhone&#x2F;iPad</p>
+                            <p>This Article Describes Understanding and Repairing the Apple Watch’s Touch Sensor Issues</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 13:16:36 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 13:29:05 GMT+0800">
                 
                     2024-08-19
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/essential-quick-tricks-mastering-the-ios-shortcuts-feature-on-your-iphoneipad/">Read more<span class="seo-reader-text">Essential Quick Tricks: Mastering the iOS Shortcuts Feature on Your iPhone/iPad</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/understanding-and-repairing-the-apple-watchs-touch-sensor-issues/">Read more<span class="seo-reader-text">Understanding and Repairing the Apple Watch&#39;s Touch Sensor Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/981/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/980/">980</a><a class="page-number" href="/page/981/">981</a><span class="page-number current">982</span><a class="page-number" href="/page/983/">983</a><a class="page-number" href="/page/984/">984</a><span class="space">&hellip;</span><a class="page-number" href="/page/1277/">1277</a><a class="extend next" rel="next" href="/page/983/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/981/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/980/">980</a><a class="page-number" href="/page/981/">981</a><span class="page-number current">982</span><a class="page-number" href="/page/983/">983</a><a class="page-number" href="/page/984/">984</a><span class="space">&hellip;</span><a class="page-number" href="/page/1343/">1343</a><a class="extend next" rel="next" href="/page/983/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

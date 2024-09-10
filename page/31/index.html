@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resetting-and-reinstalling-windows-on-your-dell-device-tips-and-techniques/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875700edcd569333cc9eed6a06.jpg" alt="Resetting and Reinstalling Windows on Your Dell Device: Tips &amp; Techniques" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/star-wars-marathon-mastery-the-ultimate-viewing-order-for-disney-plus/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3fa4aac3ca09a237127556c70.png" alt="Star Wars Marathon Mastery: The Ultimate Viewing Order for Disney Plus." class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resetting-and-reinstalling-windows-on-your-dell-device-tips-and-techniques/">
-                            Resetting and Reinstalling Windows on Your Dell Device: Tips &amp; Techniques
+                        <a href="/star-wars-marathon-mastery-the-ultimate-viewing-order-for-disney-plus/">
+                            Star Wars Marathon Mastery: The Ultimate Viewing Order for Disney Plus.
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resetting and Reinstalling Windows on Your Dell Device: Tips &amp; Techniques</p>
+                            <p>This Article Describes Star Wars Marathon Mastery: The Ultimate Viewing Order for Disney Plus.</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 02:55:27 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 16:39:44 GMT+0800">
                 
-                    2024-09-04
+                    2024-09-09
                 
             </span>
         </span>
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/resetting-and-reinstalling-windows-on-your-dell-device-tips-and-techniques/">Read more<span class="seo-reader-text">Resetting and Reinstalling Windows on Your Dell Device: Tips &amp; Techniques</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/star-wars-marathon-mastery-the-ultimate-viewing-order-for-disney-plus/">Read more<span class="seo-reader-text">Star Wars Marathon Mastery: The Ultimate Viewing Order for Disney Plus.</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solve-your-missing-d3dx9-library-error-step-by-step-fix-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfaeee292d2afe0ece59b7e568.jpg" alt="Solve Your Missing D3DX9 Library Error: Step-by-Step Fix Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-solution-for-error-0x80004005-a-complete-walkthrough/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/rSIZ981gaiglIQUucVH4nBv-3ZQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/errorcode0x80004005-047aa11751094d5888543c4ef77e7bcb.jpg" alt="Step-by-Step Solution for Error 0X80004005 - A Complete Walkthrough" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solve-your-missing-d3dx9-library-error-step-by-step-fix-guide/">
-                            Solve Your Missing D3DX9 Library Error: Step-by-Step Fix Guide
+                        <a href="/step-by-step-solution-for-error-0x80004005-a-complete-walkthrough/">
+                            Step-by-Step Solution for Error 0X80004005 - A Complete Walkthrough
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solve Your Missing D3DX9 Library Error: Step-by-Step Fix Guide</p>
+                            <p>This Article Describes Step-by-Step Solution for Error 0X80004005 - A Complete Walkthrough</p>
 
                         
                     </div>
@@ -779,9 +836,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 02:55:25 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 16:39:42 GMT+0800">
                 
-                    2024-09-04
+                    2024-09-09
                 
             </span>
         </span>
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/solve-your-missing-d3dx9-library-error-step-by-step-fix-guide/">Read more<span class="seo-reader-text">Solve Your Missing D3DX9 Library Error: Step-by-Step Fix Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-solution-for-error-0x80004005-a-complete-walkthrough/">Read more<span class="seo-reader-text">Step-by-Step Solution for Error 0X80004005 - A Complete Walkthrough</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/stream-your-way-through-fun-with-the-greatest-netflix-movies-for-kids/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg" alt="Stream Your Way Through Fun with the Greatest Netflix Movies for Kids" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/must-watch-queer-cinema-on-netflix-in-july-2024-our-picks/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/s2Q0zL9h6PL7BKPd___eOAKOfzY=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-92c9bcd3792548908be32c420bc4fa27.jpg" alt="Must-Watch Queer Cinema on Netflix in July 2024 - Our Picks!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/stream-your-way-through-fun-with-the-greatest-netflix-movies-for-kids/">
-                            Stream Your Way Through Fun with the Greatest Netflix Movies for Kids
+                        <a href="/must-watch-queer-cinema-on-netflix-in-july-2024-our-picks/">
+                            Must-Watch Queer Cinema on Netflix in July 2024 - Our Picks!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Stream Your Way Through Fun with the Greatest Netflix Movies for Kids</p>
+                            <p>This Article Describes Must-Watch Queer Cinema on Netflix in July 2024 - Our Picks!</p>
 
                         
                     </div>
@@ -843,9 +900,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 02:55:24 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 16:39:41 GMT+0800">
                 
-                    2024-09-04
+                    2024-09-09
                 
             </span>
         </span>
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/stream-your-way-through-fun-with-the-greatest-netflix-movies-for-kids/">Read more<span class="seo-reader-text">Stream Your Way Through Fun with the Greatest Netflix Movies for Kids</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/must-watch-queer-cinema-on-netflix-in-july-2024-our-picks/">Read more<span class="seo-reader-text">Must-Watch Queer Cinema on Netflix in July 2024 - Our Picks!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/switching-to-nocturnal-display-a-how-to-for-iphones/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f2127f27582290858df483758e7.jpg" alt="Switching to Nocturnal Display: A How-To for iPhones" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/comprehensive-guide-turning-off-pin-security-for-windows-11-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg" alt="Comprehensive Guide: Turning Off PIN Security for Windows 11 Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/switching-to-nocturnal-display-a-how-to-for-iphones/">
-                            Switching to Nocturnal Display: A How-To for iPhones
+                        <a href="/comprehensive-guide-turning-off-pin-security-for-windows-11-systems/">
+                            Comprehensive Guide: Turning Off PIN Security for Windows 11 Systems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Switching to Nocturnal Display: A How-To for iPhones</p>
+                            <p>This Article Describes Comprehensive Guide: Turning Off PIN Security for Windows 11 Systems</p>
 
                         
                     </div>
@@ -907,9 +964,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 02:55:22 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 16:39:39 GMT+0800">
                 
-                    2024-09-04
+                    2024-09-09
                 
             </span>
         </span>
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/switching-to-nocturnal-display-a-how-to-for-iphones/">Read more<span class="seo-reader-text">Switching to Nocturnal Display: A How-To for iPhones</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/comprehensive-guide-turning-off-pin-security-for-windows-11-systems/">Read more<span class="seo-reader-text">Comprehensive Guide: Turning Off PIN Security for Windows 11 Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolving-mapi32dll-file-not-found-comprehensive-troubleshooting-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c0052911cf681dfac2286fbe4f4.jpg" alt="Resolving &#39;Mapi32.dll&#39; File Not Found: Comprehensive Troubleshooting Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/navigating-through-notes-our-selection-of-the-top-10-apps-of-202n4/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1bbd0a3f8dc1d9288d108f379c03c690ea0ce4f3426715024680a4a4a0f123c3.jpg" alt="Navigating Through Notes: Our Selection of the Top 10 Apps of 202N4" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolving-mapi32dll-file-not-found-comprehensive-troubleshooting-guide/">
-                            Resolving &#39;Mapi32.dll&#39; File Not Found: Comprehensive Troubleshooting Guide
+                        <a href="/navigating-through-notes-our-selection-of-the-top-10-apps-of-202n4/">
+                            Navigating Through Notes: Our Selection of the Top 10 Apps of 202N4
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolving ‘Mapi32.dll’ File Not Found: Comprehensive Troubleshooting Guide</p>
+                            <p>This Article Describes Navigating Through Notes: Our Selection of the Top 10 Apps of 202N4</p>
 
                         
                     </div>
@@ -971,9 +1028,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 02:55:21 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 16:39:38 GMT+0800">
                 
-                    2024-09-04
+                    2024-09-09
                 
             </span>
         </span>
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/resolving-mapi32dll-file-not-found-comprehensive-troubleshooting-guide/">Read more<span class="seo-reader-text">Resolving &#39;Mapi32.dll&#39; File Not Found: Comprehensive Troubleshooting Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/navigating-through-notes-our-selection-of-the-top-10-apps-of-202n4/">Read more<span class="seo-reader-text">Navigating Through Notes: Our Selection of the Top 10 Apps of 202N4</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/amazon-prime-video-and-the-simple-process-of-subtitle-removal/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/turnoffamazonprimesubtitles-322f27a515f747aaa2c0a94db86e090f.jpg" alt="Amazon Prime Video and the Simple Process of Subtitle Removal" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effortlessly-resolve-wi-fi-authentication-challenges-on-android/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/WXpDyFxsBSHNTulWAC4lMYj-4m0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wifi-authentication-error-android-558b40269b274eed9466aefa95e7a43b.jpg" alt="Effortlessly Resolve Wi-Fi Authentication Challenges on Android" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/amazon-prime-video-and-the-simple-process-of-subtitle-removal/">
-                            Amazon Prime Video and the Simple Process of Subtitle Removal
+                        <a href="/effortlessly-resolve-wi-fi-authentication-challenges-on-android/">
+                            Effortlessly Resolve Wi-Fi Authentication Challenges on Android
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Amazon Prime Video and the Simple Process of Subtitle Removal</p>
+                            <p>This Article Describes Effortlessly Resolve Wi-Fi Authentication Challenges on Android</p>
 
                         
                     </div>
@@ -1035,9 +1092,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 02:55:20 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 16:39:37 GMT+0800">
                 
-                    2024-09-04
+                    2024-09-09
                 
             </span>
         </span>
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/amazon-prime-video-and-the-simple-process-of-subtitle-removal/">Read more<span class="seo-reader-text">Amazon Prime Video and the Simple Process of Subtitle Removal</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effortlessly-resolve-wi-fi-authentication-challenges-on-android/">Read more<span class="seo-reader-text">Effortlessly Resolve Wi-Fi Authentication Challenges on Android</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722869732105-solve-your-steam-dilemma-resolving-missing-dll-files-quickly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/db7a51fc88bb312b4c001dc26d2d013159de6bfbef053f36ef148640b15c567b.jpg" alt="Solve Your Steam Dilemma: Resolving Missing .dll Files Quickly" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/connecting-through-text-voice-and-video-using-whatsapp-seamlessly-on-your-mac/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec9a8fe5547dd855a218b2d27.jpg" alt="Connecting Through Text, Voice &amp; Video: Using WhatsApp Seamlessly on Your Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722869732105-solve-your-steam-dilemma-resolving-missing-dll-files-quickly/">
-                            Solve Your Steam Dilemma: Resolving Missing .dll Files Quickly
+                        <a href="/connecting-through-text-voice-and-video-using-whatsapp-seamlessly-on-your-mac/">
+                            Connecting Through Text, Voice &amp; Video: Using WhatsApp Seamlessly on Your Mac
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solve Your Steam Dilemma: Resolving Missing .dll Files Quickly</p>
+                            <p>This Article Describes Connecting Through Text, Voice &amp; Video: Using WhatsApp Seamlessly on Your Mac</p>
 
                         
                     </div>
@@ -1099,9 +1156,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 02:55:18 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 16:39:35 GMT+0800">
                 
-                    2024-09-04
+                    2024-09-09
                 
             </span>
         </span>
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/1722869732105-solve-your-steam-dilemma-resolving-missing-dll-files-quickly/">Read more<span class="seo-reader-text">Solve Your Steam Dilemma: Resolving Missing .dll Files Quickly</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/connecting-through-text-voice-and-video-using-whatsapp-seamlessly-on-your-mac/">Read more<span class="seo-reader-text">Connecting Through Text, Voice &amp; Video: Using WhatsApp Seamlessly on Your Mac</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722863728169-expert-analysis-of-western-digital-data-lifeguard-a-comprehensive-software-diagnostics-review/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f456d0da8fe799d1c6ecd8924.jpg" alt="Expert Analysis of Western Digital Data Lifeguard: A Comprehensive Software Diagnostics Review" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/does-microsoft-offer-a-cost-free-version-of-their-popular-word-processor/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/4LAWGdRhL5KUSVQ6A2SremFrAQ0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ed-hardie-xG02JzIBf7o-unsplash-dd8392d71fb84267a756ac47f1e26138.jpg" alt="Does Microsoft Offer a Cost-Free Version of Their Popular Word Processor?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722863728169-expert-analysis-of-western-digital-data-lifeguard-a-comprehensive-software-diagnostics-review/">
-                            Expert Analysis of Western Digital Data Lifeguard: A Comprehensive Software Diagnostics Review
+                        <a href="/does-microsoft-offer-a-cost-free-version-of-their-popular-word-processor/">
+                            Does Microsoft Offer a Cost-Free Version of Their Popular Word Processor?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Expert Analysis of Western Digital Data Lifeguard: A Comprehensive Software Diagnostics Review</p>
+                            <p>This Article Describes Does Microsoft Offer a Cost-Free Version of Their Popular Word Processor?</p>
 
                         
                     </div>
@@ -1163,9 +1220,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 02:55:16 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 16:39:33 GMT+0800">
                 
-                    2024-09-04
+                    2024-09-09
                 
             </span>
         </span>
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/1722863728169-expert-analysis-of-western-digital-data-lifeguard-a-comprehensive-software-diagnostics-review/">Read more<span class="seo-reader-text">Expert Analysis of Western Digital Data Lifeguard: A Comprehensive Software Diagnostics Review</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/does-microsoft-offer-a-cost-free-version-of-their-popular-word-processor/">Read more<span class="seo-reader-text">Does Microsoft Offer a Cost-Free Version of Their Popular Word Processor?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/top-11-motivational-films-that-will-uplift-your-spirits/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg" alt="Top 11 Motivational Films That Will Uplift Your Spirits" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/network-probing-techniques-your-comprehensive-handbook-for-web-site-pinging/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d09b9d43607b3861f48a7087e.jpg" alt="Network Probing Techniques: Your Comprehensive Handbook for Web Site Pinging" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/top-11-motivational-films-that-will-uplift-your-spirits/">
-                            Top 11 Motivational Films That Will Uplift Your Spirits
+                        <a href="/network-probing-techniques-your-comprehensive-handbook-for-web-site-pinging/">
+                            Network Probing Techniques: Your Comprehensive Handbook for Web Site Pinging
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Top 11 Motivational Films That Will Uplift Your Spirits</p>
+                            <p>This Article Describes Network Probing Techniques: Your Comprehensive Handbook for Web Site Pinging</p>
 
                         
                     </div>
@@ -1227,9 +1284,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 02:55:15 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 16:39:32 GMT+0800">
                 
-                    2024-09-04
+                    2024-09-09
                 
             </span>
         </span>
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/top-11-motivational-films-that-will-uplift-your-spirits/">Read more<span class="seo-reader-text">Top 11 Motivational Films That Will Uplift Your Spirits</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/network-probing-techniques-your-comprehensive-handbook-for-web-site-pinging/">Read more<span class="seo-reader-text">Network Probing Techniques: Your Comprehensive Handbook for Web Site Pinging</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/trouble-accessing-twitch-heres-how-to-know-if-its-a-service-disruption-or-local-problem/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twitchdown-71287ccb41b64eb19a607868887d3e34.jpg" alt="Trouble Accessing Twitch? Here&#39;s How to Know if It&#39;s a Service Disruption or Local Problem" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-wi-fi-connections-overcoming-authentication-errors-on-android-devices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a691177fb2bbb8430f5442ba8e06.jpg" alt="Mastering Wi-Fi Connections: Overcoming Authentication Errors on Android Devices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/trouble-accessing-twitch-heres-how-to-know-if-its-a-service-disruption-or-local-problem/">
-                            Trouble Accessing Twitch? Here&#39;s How to Know if It&#39;s a Service Disruption or Local Problem
+                        <a href="/mastering-wi-fi-connections-overcoming-authentication-errors-on-android-devices/">
+                            Mastering Wi-Fi Connections: Overcoming Authentication Errors on Android Devices
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Trouble Accessing Twitch? Here’s How to Know if It’s a Service Disruption or Local Problem</p>
+                            <p>This Article Describes Mastering Wi-Fi Connections: Overcoming Authentication Errors on Android Devices</p>
 
                         
                     </div>
@@ -1291,9 +1348,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 02:55:14 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 16:39:30 GMT+0800">
                 
-                    2024-09-04
+                    2024-09-09
                 
             </span>
         </span>
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/trouble-accessing-twitch-heres-how-to-know-if-its-a-service-disruption-or-local-problem/">Read more<span class="seo-reader-text">Trouble Accessing Twitch? Here&#39;s How to Know if It&#39;s a Service Disruption or Local Problem</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-wi-fi-connections-overcoming-authentication-errors-on-android-devices/">Read more<span class="seo-reader-text">Mastering Wi-Fi Connections: Overcoming Authentication Errors on Android Devices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/30/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/29/">29</a><a class="page-number" href="/page/30/">30</a><span class="page-number current">31</span><a class="page-number" href="/page/32/">32</a><a class="page-number" href="/page/33/">33</a><span class="space">&hellip;</span><a class="page-number" href="/page/1277/">1277</a><a class="extend next" rel="next" href="/page/32/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/30/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/29/">29</a><a class="page-number" href="/page/30/">30</a><span class="page-number current">31</span><a class="page-number" href="/page/32/">32</a><a class="page-number" href="/page/33/">33</a><span class="space">&hellip;</span><a class="page-number" href="/page/1343/">1343</a><a class="extend next" rel="next" href="/page/32/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

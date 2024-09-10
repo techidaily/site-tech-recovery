@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-19'>
                 
                     
-                        <a href="/common-fixes-for-when-windows-11-search-feature-fails-to-work-properly/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Common Fixes for When Windows 11 Search Feature Fails to Work Properly</span>
+                        <a href="/how-do-uber-prices-compare-with-traditional-taxis/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How Do Uber Prices Compare With Traditional Taxis?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1722852848015-boost-your-twitter-presence-learn-how-to-schedule-tweets-like-a-pro/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Boost Your Twitter Presence: Learn How to Schedule Tweets Like a Pro!</span>
+                        <a href="/expert-tips-correcting-the-d3dx927dll-missing-or-corrupt-file-issue/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Expert Tips: Correcting the &#39;d3dx9_27.dll Missing or Corrupt File&#39; Issue</span>
                         </a>
                     
               
                 
                     
-                        <a href="/a-complete-walkthrough-for-disabling-sticky-keys-on-your-pc/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">A Complete Walkthrough for Disabling Sticky Keys on Your PC</span>
+                        <a href="/effective-strategies-how-to-correctly-address-parse-errors-in-your-android-projects/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Effective Strategies: How to Correctly Address Parse Errors in Your Android Projects</span>
                         </a>
                     
               
                 
                     
-                        <a href="/gaining-more-likes-and-followers-on-instagram-easily/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Gaining More Likes and Followers on Instagram Easily</span>
+                        <a href="/top-8-recommended-dual-sim-applications/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Top 8 Recommended Dual SIM Applications</span>
                         </a>
                     
               
                 
                     
-                        <a href="/iphone-application-visibility-restoration-how-to-display-all-your-apps/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">IPhone Application Visibility Restoration: How to Display All Your Apps</span>
+                        <a href="/orderly-enjoyment-of-dragon-ball-saga-a-viewers-roadmap/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Orderly Enjoyment of Dragon Ball Saga - A Viewer&#39;s Roadmap</span>
                         </a>
                     
               
                 
                     
-                        <a href="/free-movie-entertainment-on-crackle-start-your-premium-free-viewing-experience/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Free Movie Entertainment on Crackle – Start Your Premium-Free Viewing Experience!</span>
+                        <a href="/monthly-exclusive-offers-on-verizon-phone-upgrades/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Monthly Exclusive Offers on Verizon Phone Upgrades</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fugetek-ft-568-test-drive-comprehensive-expert-analysis-of-a-premium-quality-selfie-stick/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fugetek FT-568 Test Drive: Comprehensive Expert Analysis of a Premium Quality Selfie Stick</span>
+                        <a href="/troubleshooting-guide-solving-non-functioning-apps-on-your-samsung-television/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Guide: Solving Non-Functioning Apps on Your Samsung Television</span>
                         </a>
                     
               
                 
                     
-                        <a href="/choosing-your-ideal-graphic-design-program-top-17-software-solutions-revealed/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Choosing Your Ideal Graphic Design Program: Top 17 Software Solutions Revealed</span>
+                        <a href="/home-audio-system-essentials-a-step-by-step-guide-for-newcomers/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Home Audio System Essentials: A Step-by-Step Guide for Newcomers</span>
                         </a>
                     
               
                 
                     
-                        <a href="/guide-to-connecting-oculus-quest-2-headset-for-android-and-ios-smartphones/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Guide to Connecting Oculus Quest 2 Headset for Android and iOS Smartphones</span>
+                        <a href="/latest-zoom-enhancements-updating-the-application-on-pc-and-mac-systems/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Latest Zoom Enhancements: Updating the Application on PC and Mac Systems</span>
                         </a>
                     
               
                 
                     
-                        <a href="/navigating-the-world-of-smart-televisions-a-guide-to-making-an-informed-decision-with-these-7-tips/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Navigating the World of Smart Televisions: A Guide to Making an Informed Decision with These 7 Tips</span>
+                        <a href="/how-to-sync-your-fortnite-identities-into-one-account-expert-advice/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How To Sync Your Fortnite Identities Into One Account – Expert Advice</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/1016/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/1015/">1015</a><a class="page-number" href="/categories/BestProducts/page/1016/">1016</a><span class="page-number current">1017</span><a class="page-number" href="/categories/BestProducts/page/1018/">1018</a><a class="page-number" href="/categories/BestProducts/page/1019/">1019</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/1183/">1183</a><a class="extend next" rel="next" href="/categories/BestProducts/page/1018/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/BestProducts/page/1016/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/BestProducts/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/1015/">1015</a><a class="page-number" href="/categories/BestProducts/page/1016/">1016</a><span class="page-number current">1017</span><a class="page-number" href="/categories/BestProducts/page/1018/">1018</a><a class="page-number" href="/categories/BestProducts/page/1019/">1019</a><span class="space">&hellip;</span><a class="page-number" href="/categories/BestProducts/page/1249/">1249</a><a class="extend next" rel="next" href="/categories/BestProducts/page/1018/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

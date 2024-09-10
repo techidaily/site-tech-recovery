@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/complete-guide-step-by-step-process-for-setting-up-windows-11-on-fresh-hardware/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b83c993e13cda25988d89dcf.png" alt="Complete Guide: Step-by-Step Process for Setting Up Windows 11 on Fresh Hardware" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/directinputdll-problems-with-microsoft-troubleshooting-tips-and-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/ZdAni6tZV_KNtFvIg3989M7gqG4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoft-directx-directinput-dll-error-message-5a8d6c23a18d9e00377a61ed.png" alt="DirectInput.dll Problems with Microsoft - Troubleshooting Tips and Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/complete-guide-step-by-step-process-for-setting-up-windows-11-on-fresh-hardware/">
-                            Complete Guide: Step-by-Step Process for Setting Up Windows 11 on Fresh Hardware
+                        <a href="/directinputdll-problems-with-microsoft-troubleshooting-tips-and-solutions/">
+                            DirectInput.dll Problems with Microsoft - Troubleshooting Tips and Solutions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Complete Guide: Step-by-Step Process for Setting Up Windows 11 on Fresh Hardware</p>
+                            <p>This Article Describes DirectInput.dll Problems with Microsoft - Troubleshooting Tips and Solutions</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 20 2024 11:27:41 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 20 2024 11:41:21 GMT+0800">
                 
                     2024-08-20
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/complete-guide-step-by-step-process-for-setting-up-windows-11-on-fresh-hardware/">Read more<span class="seo-reader-text">Complete Guide: Step-by-Step Process for Setting Up Windows 11 on Fresh Hardware</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/directinputdll-problems-with-microsoft-troubleshooting-tips-and-solutions/">Read more<span class="seo-reader-text">DirectInput.dll Problems with Microsoft - Troubleshooting Tips and Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-middle-earth-a-guide-to-watching-the-lord-of-the-rings-series-correctly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3e2b3b4586ff381edc3f172c9f4c5303488ce14f9b58f3299468bbd9f8415d3f.jpg" alt="Mastering Middle-Earth: A Guide to Watching the Lord of the Rings Series Correctly" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/android-16-rumors-revealed-anticipated-costs-release-schedule-tech-specs-what-to-expect/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863c20a3e0bedcec7b541e0029.jpg" alt="Android 16 Rumors Revealed: Anticipated Costs, Release Schedule, Tech Specs - What to Expect!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-middle-earth-a-guide-to-watching-the-lord-of-the-rings-series-correctly/">
-                            Mastering Middle-Earth: A Guide to Watching the Lord of the Rings Series Correctly
+                        <a href="/android-16-rumors-revealed-anticipated-costs-release-schedule-tech-specs-what-to-expect/">
+                            Android 16 Rumors Revealed: Anticipated Costs, Release Schedule, Tech Specs - What to Expect!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Mastering Middle-Earth: A Guide to Watching the Lord of the Rings Series Correctly</p>
+                            <p>This Article Describes Android 16 Rumors Revealed: Anticipated Costs, Release Schedule, Tech Specs - What to Expect!</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 20 2024 11:27:40 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 20 2024 11:41:20 GMT+0800">
                 
                     2024-08-20
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/mastering-middle-earth-a-guide-to-watching-the-lord-of-the-rings-series-correctly/">Read more<span class="seo-reader-text">Mastering Middle-Earth: A Guide to Watching the Lord of the Rings Series Correctly</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/android-16-rumors-revealed-anticipated-costs-release-schedule-tech-specs-what-to-expect/">Read more<span class="seo-reader-text">Android 16 Rumors Revealed: Anticipated Costs, Release Schedule, Tech Specs - What to Expect!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/d3dx940dll-errors-discover-how-to-restore-or-locate-missing-files/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba4a1808a078297c558520a47.png" alt="D3dx9_40.dll Errors? Discover How to Restore or Locate Missing Files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-tips-to-fix-the-missing-ftd2xxdll-error-message/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/9P88H1_bvpDONb-NNiA1aK50HsI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ftd2xx-dll-error-message-d0f71581045d4bf5ae00c466052a2f12.png" alt="Troubleshooting Tips to Fix the Missing Ftd2xx.dll Error Message" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/d3dx940dll-errors-discover-how-to-restore-or-locate-missing-files/">
-                            D3dx9_40.dll Errors? Discover How to Restore or Locate Missing Files
+                        <a href="/troubleshooting-tips-to-fix-the-missing-ftd2xxdll-error-message/">
+                            Troubleshooting Tips to Fix the Missing Ftd2xx.dll Error Message
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes D3dx9_40.dll Errors? Discover How to Restore or Locate Missing Files</p>
+                            <p>This Article Describes Troubleshooting Tips to Fix the Missing Ftd2xx.dll Error Message</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 20 2024 11:27:38 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 20 2024 11:41:19 GMT+0800">
                 
                     2024-08-20
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/d3dx940dll-errors-discover-how-to-restore-or-locate-missing-files/">Read more<span class="seo-reader-text">D3dx9_40.dll Errors? Discover How to Restore or Locate Missing Files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-tips-to-fix-the-missing-ftd2xxdll-error-message/">Read more<span class="seo-reader-text">Troubleshooting Tips to Fix the Missing Ftd2xx.dll Error Message</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-easily-navigate-and-use-googles-measure-application-for-android-devices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/aafo5a8PocEHHkn0HwTOUut7MiA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MeasureApp-Android-4771692-d81f971c4dc14557a408dc6027bf9d93.jpg" alt="How to Easily Navigate and Use Google&#39;s Measure Application for Android Devices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effective-steps-to-remove-your-pcs-system-repair-disc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/ALlLdPlK0nhyrSKTrZhz_J3x2vc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hard-drive-56a2cb273df78cf7727a0201.jpg" alt="Effective Steps to Remove Your PC&#39;s System Repair Disc" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-easily-navigate-and-use-googles-measure-application-for-android-devices/">
-                            How to Easily Navigate and Use Google&#39;s Measure Application for Android Devices
+                        <a href="/effective-steps-to-remove-your-pcs-system-repair-disc/">
+                            Effective Steps to Remove Your PC&#39;s System Repair Disc
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Easily Navigate and Use Google’s Measure Application for Android Devices</p>
+                            <p>This Article Describes Effective Steps to Remove Your PC’s System Repair Disc</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 20 2024 11:27:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 20 2024 11:41:17 GMT+0800">
                 
                     2024-08-20
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/how-to-easily-navigate-and-use-googles-measure-application-for-android-devices/">Read more<span class="seo-reader-text">How to Easily Navigate and Use Google&#39;s Measure Application for Android Devices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effective-steps-to-remove-your-pcs-system-repair-disc/">Read more<span class="seo-reader-text">Effective Steps to Remove Your PC&#39;s System Repair Disc</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/jointly-listening-to-songs-on-spotify-feasible-or-not/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e2799492e36ec293bae7933072be9.jpg" alt="Jointly Listening to Songs on Spotify: Feasible or Not?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/discord-not-working-heres-how-to-check-if-its-an-outage-or-your-network-problem/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-5025695-c342552e6c4c4383b284301c8b56d664.jpg" alt="Discord Not Working? Here&#39;s How to Check if It’s an Outage or Your Network Problem" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/jointly-listening-to-songs-on-spotify-feasible-or-not/">
-                            Jointly Listening to Songs on Spotify: Feasible or Not?
+                        <a href="/discord-not-working-heres-how-to-check-if-its-an-outage-or-your-network-problem/">
+                            Discord Not Working? Here&#39;s How to Check if It’s an Outage or Your Network Problem
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Jointly Listening to Songs on Spotify: Feasible or Not?</p>
+                            <p>This Article Describes Discord Not Working? Here’s How to Check if It’s an Outage or Your Network Problem</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 20 2024 11:27:36 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 20 2024 11:41:16 GMT+0800">
                 
                     2024-08-20
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/jointly-listening-to-songs-on-spotify-feasible-or-not/">Read more<span class="seo-reader-text">Jointly Listening to Songs on Spotify: Feasible or Not?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/discord-not-working-heres-how-to-check-if-its-an-outage-or-your-network-problem/">Read more<span class="seo-reader-text">Discord Not Working? Here&#39;s How to Check if It’s an Outage or Your Network Problem</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/enjoy-movies-and-shows-for-free-the-ultimate-list-of-alternatives-to-netflix/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/0euAyvd-_JAnrdlh3IBeoKfPhCM=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134454697-18e86fb3239041179d0f96a9f6646fdc.jpg" alt="Enjoy Movies &amp; Shows for Free! The Ultimate List of Alternatives to Netflix" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unveiling-the-key-distinctions-between-macs-and-pcs-a-comprehensive-insight/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f2a9c36b863ed5899c4ce463.jpg" alt="Unveiling the Key Distinctions Between Macs &amp; PCs: A Comprehensive Insight" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/enjoy-movies-and-shows-for-free-the-ultimate-list-of-alternatives-to-netflix/">
-                            Enjoy Movies &amp; Shows for Free! The Ultimate List of Alternatives to Netflix
+                        <a href="/unveiling-the-key-distinctions-between-macs-and-pcs-a-comprehensive-insight/">
+                            Unveiling the Key Distinctions Between Macs &amp; PCs: A Comprehensive Insight
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Enjoy Movies &amp; Shows for Free! The Ultimate List of Alternatives to Netflix</p>
+                            <p>This Article Describes Unveiling the Key Distinctions Between Macs &amp; PCs: A Comprehensive Insight</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 20 2024 11:27:35 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 20 2024 11:41:15 GMT+0800">
                 
                     2024-08-20
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/enjoy-movies-and-shows-for-free-the-ultimate-list-of-alternatives-to-netflix/">Read more<span class="seo-reader-text">Enjoy Movies &amp; Shows for Free! The Ultimate List of Alternatives to Netflix</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unveiling-the-key-distinctions-between-macs-and-pcs-a-comprehensive-insight/">Read more<span class="seo-reader-text">Unveiling the Key Distinctions Between Macs &amp; PCs: A Comprehensive Insight</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/top-rated-key-trackers-your-ultimate-selection/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bcaaab93f9b1c17f1267af060.png" alt="Top-Rated Key Trackers : Your Ultimate Selection" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-fix-mscorwksdll-not-found-or-missing-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/8RdjGwP77puIyLIU820M6vmmc1Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mscorwks-dll-error-message-5aa6a2aa875db90037fef419.png" alt="How to Fix Mscorwks.dll Not Found or Missing Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/top-rated-key-trackers-your-ultimate-selection/">
-                            Top-Rated Key Trackers : Your Ultimate Selection
+                        <a href="/how-to-fix-mscorwksdll-not-found-or-missing-errors/">
+                            How to Fix Mscorwks.dll Not Found or Missing Errors
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Top-Rated Key Trackers : Your Ultimate Selection</p>
+                            <p>This Article Describes How to Fix Mscorwks.dll Not Found or Missing Errors</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 20 2024 11:27:33 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 20 2024 11:41:14 GMT+0800">
                 
                     2024-08-20
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/top-rated-key-trackers-your-ultimate-selection/">Read more<span class="seo-reader-text">Top-Rated Key Trackers : Your Ultimate Selection</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-fix-mscorwksdll-not-found-or-missing-errors/">Read more<span class="seo-reader-text">How to Fix Mscorwks.dll Not Found or Missing Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/googles-next-gen-pixel-watch-3-unveiled-speculations-on-cost-and-features-ahead-of-release/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg" alt="Google&#39;s Next-Gen Pixel Watch 3 Unveiled: Speculations on Cost and Features Ahead of Release" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/easy-steps-to-correct-the-not-found-error-with-vcompdll-on-your-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/xlUBc4Ec7v7e9UaIUYUgzS2C7bI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vcomp-dll-error-message-5abb9f6d04d1cf0036cf9d8c.png" alt="Easy Steps to Correct the Not Found Error with vcomp.dll on Your PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/googles-next-gen-pixel-watch-3-unveiled-speculations-on-cost-and-features-ahead-of-release/">
-                            Google&#39;s Next-Gen Pixel Watch 3 Unveiled: Speculations on Cost and Features Ahead of Release
+                        <a href="/easy-steps-to-correct-the-not-found-error-with-vcompdll-on-your-pc/">
+                            Easy Steps to Correct the Not Found Error with vcomp.dll on Your PC
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Google’s Next-Gen Pixel Watch 3 Unveiled: Speculations on Cost and Features Ahead of Release</p>
+                            <p>This Article Describes Easy Steps to Correct the Not Found Error with vcomp.dll on Your PC</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 20 2024 11:27:32 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 20 2024 11:41:12 GMT+0800">
                 
                     2024-08-20
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/googles-next-gen-pixel-watch-3-unveiled-speculations-on-cost-and-features-ahead-of-release/">Read more<span class="seo-reader-text">Google&#39;s Next-Gen Pixel Watch 3 Unveiled: Speculations on Cost and Features Ahead of Release</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/easy-steps-to-correct-the-not-found-error-with-vcompdll-on-your-pc/">Read more<span class="seo-reader-text">Easy Steps to Correct the Not Found Error with vcomp.dll on Your PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/why-every-audiophile-should-consider-investing-in-a-quality-dac/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/nUJHlxdTbaibhh0oAWvmz_sUsaw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/analog-5ba14dca46e0fb0024f0692a.png" alt="Why Every Audiophile Should Consider Investing in a Quality DAC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/viewing-tips-accessing-the-roku-channel-on-non-roku-devices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab4424f88be5c51fa1662b48994.jpg" alt="Viewing Tips: Accessing The Roku Channel on Non-Roku Devices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/why-every-audiophile-should-consider-investing-in-a-quality-dac/">
-                            Why Every Audiophile Should Consider Investing in a Quality DAC
+                        <a href="/viewing-tips-accessing-the-roku-channel-on-non-roku-devices/">
+                            Viewing Tips: Accessing The Roku Channel on Non-Roku Devices
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Why Every Audiophile Should Consider Investing in a Quality DAC</p>
+                            <p>This Article Describes Viewing Tips: Accessing The Roku Channel on Non-Roku Devices</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 20 2024 11:27:31 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 20 2024 11:41:11 GMT+0800">
                 
                     2024-08-20
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/why-every-audiophile-should-consider-investing-in-a-quality-dac/">Read more<span class="seo-reader-text">Why Every Audiophile Should Consider Investing in a Quality DAC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/viewing-tips-accessing-the-roku-channel-on-non-roku-devices/">Read more<span class="seo-reader-text">Viewing Tips: Accessing The Roku Channel on Non-Roku Devices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-steps-for-resolving-xinput1nfdll-error-messages/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/40CAkSk37MvIWPrJtsEAjWPX1RI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-xinput1-3-dll-not-found-or-missing-errors-2624329-5c760415c9e77c00012f8110.jpg" alt="Troubleshooting Steps for Resolving xinput1_nf.dll Error Messages" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/an-in-depth-look-at-what-bing-really-is-and-how-it-works/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/WiITktZovnDBPiCagjr_COslKEk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1546726712-d2b743541530498994bce43b31e9d66d.jpg" alt="An In-Depth Look at What Bing Really Is and How It Works" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-steps-for-resolving-xinput1nfdll-error-messages/">
-                            Troubleshooting Steps for Resolving xinput1_nf.dll Error Messages
+                        <a href="/an-in-depth-look-at-what-bing-really-is-and-how-it-works/">
+                            An In-Depth Look at What Bing Really Is and How It Works
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Steps for Resolving xinput1_nf.dll Error Messages</p>
+                            <p>This Article Describes An In-Depth Look at What Bing Really Is and How It Works</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 20 2024 11:27:30 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 20 2024 11:41:09 GMT+0800">
                 
                     2024-08-20
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/troubleshooting-steps-for-resolving-xinput1nfdll-error-messages/">Read more<span class="seo-reader-text">Troubleshooting Steps for Resolving xinput1_nf.dll Error Messages</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/an-in-depth-look-at-what-bing-really-is-and-how-it-works/">Read more<span class="seo-reader-text">An In-Depth Look at What Bing Really Is and How It Works</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/278/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/277/">277</a><a class="page-number" href="/page/278/">278</a><span class="page-number current">279</span><a class="page-number" href="/page/280/">280</a><a class="page-number" href="/page/281/">281</a><span class="space">&hellip;</span><a class="page-number" href="/page/1277/">1277</a><a class="extend next" rel="next" href="/page/280/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/278/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/277/">277</a><a class="page-number" href="/page/278/">278</a><span class="page-number current">279</span><a class="page-number" href="/page/280/">280</a><a class="page-number" href="/page/281/">281</a><span class="space">&hellip;</span><a class="page-number" href="/page/1343/">1343</a><a class="extend next" rel="next" href="/page/280/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

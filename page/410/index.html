@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/understanding-the-page-not-found-mistake-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524efb6bb31d25ddff4661a97e.jpg" alt="Understanding the &#39;Page Not Found&#39; Mistake: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/decoding-the-mechanics-of-espnpluss-live-sports-and-content-delivery-on-demand/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg" alt="Decoding the Mechanics of ESPN+&#39;s Live Sports and Content Delivery on Demand" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/understanding-the-page-not-found-mistake-a-comprehensive-guide/">
-                            Understanding the &#39;Page Not Found&#39; Mistake: A Comprehensive Guide
+                        <a href="/decoding-the-mechanics-of-espnpluss-live-sports-and-content-delivery-on-demand/">
+                            Decoding the Mechanics of ESPN+&#39;s Live Sports and Content Delivery on Demand
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Understanding the ‘Page Not Found’ Mistake: A Comprehensive Guide</p>
+                            <p>This Article Describes Decoding the Mechanics of ESPN+’s Live Sports and Content Delivery on Demand</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:28 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:16:55 GMT+0800">
                 
                     2024-08-19
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/understanding-the-page-not-found-mistake-a-comprehensive-guide/">Read more<span class="seo-reader-text">Understanding the &#39;Page Not Found&#39; Mistake: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/decoding-the-mechanics-of-espnpluss-live-sports-and-content-delivery-on-demand/">Read more<span class="seo-reader-text">Decoding the Mechanics of ESPN+&#39;s Live Sports and Content Delivery on Demand</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ultimate-troubleshooting-tips-for-linking-a-samsung-blu-ray-remote-controller-to-hdtvs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg" alt="Ultimate Troubleshooting Tips for Linking a Samsung Blu-Ray Remote Controller to HDTVs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solving-the-unsecured-connection-message-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8774783d28d2d78a2030ac7e0dc1d6230634beecdba672087a8494366974e451.jpg" alt="Solving the &#39;Unsecured Connection&#39; Message: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ultimate-troubleshooting-tips-for-linking-a-samsung-blu-ray-remote-controller-to-hdtvs/">
-                            Ultimate Troubleshooting Tips for Linking a Samsung Blu-Ray Remote Controller to HDTVs
+                        <a href="/solving-the-unsecured-connection-message-a-step-by-step-guide/">
+                            Solving the &#39;Unsecured Connection&#39; Message: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Ultimate Troubleshooting Tips for Linking a Samsung Blu-Ray Remote Controller to HDTVs</p>
+                            <p>This Article Describes Solving the ‘Unsecured Connection’ Message: A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:27 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:16:53 GMT+0800">
                 
                     2024-08-19
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/ultimate-troubleshooting-tips-for-linking-a-samsung-blu-ray-remote-controller-to-hdtvs/">Read more<span class="seo-reader-text">Ultimate Troubleshooting Tips for Linking a Samsung Blu-Ray Remote Controller to HDTVs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solving-the-unsecured-connection-message-a-step-by-step-guide/">Read more<span class="seo-reader-text">Solving the &#39;Unsecured Connection&#39; Message: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-d3dx933dll-file-not-found-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/427fea3c10359a07e4c3e09328df761302c1e6c75fa0f9477ced64a556e7eef7.jpg" alt="Solving d3dx9_33.dll File Not Found: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-password-entry-woes-for-android-wi-fi-access/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/WXpDyFxsBSHNTulWAC4lMYj-4m0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wifi-authentication-error-android-558b40269b274eed9466aefa95e7a43b.jpg" alt="Troubleshooting Password Entry Woes for Android Wi-Fi Access" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-d3dx933dll-file-not-found-a-step-by-step-guide/">
-                            Solving d3dx9_33.dll File Not Found: A Step-by-Step Guide
+                        <a href="/troubleshooting-password-entry-woes-for-android-wi-fi-access/">
+                            Troubleshooting Password Entry Woes for Android Wi-Fi Access
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving d3dx9_33.dll File Not Found: A Step-by-Step Guide</p>
+                            <p>This Article Describes Troubleshooting Password Entry Woes for Android Wi-Fi Access</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:26 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:16:52 GMT+0800">
                 
                     2024-08-19
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/solving-d3dx933dll-file-not-found-a-step-by-step-guide/">Read more<span class="seo-reader-text">Solving d3dx9_33.dll File Not Found: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-password-entry-woes-for-android-wi-fi-access/">Read more<span class="seo-reader-text">Troubleshooting Password Entry Woes for Android Wi-Fi Access</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/debunking-greenwashing-how-eco-friendly-are-electric-autos-in-reality/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d762e94ab1bade24154e68d3e.jpg" alt="Debunking Greenwashing: How Eco-Friendly Are Electric Autos in Reality?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-roku-closed-captioning-feature-that-refuses-to-activate/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/5TA0uUEj3d0A_8FG2XepFc8tz6Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roku-closed-captioning-2005aa384a2845f29f42d4a420c77c6e.png" alt="Troubleshooting Roku Closed Captioning Feature That Refuses to Activate" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/debunking-greenwashing-how-eco-friendly-are-electric-autos-in-reality/">
-                            Debunking Greenwashing: How Eco-Friendly Are Electric Autos in Reality?
+                        <a href="/troubleshooting-roku-closed-captioning-feature-that-refuses-to-activate/">
+                            Troubleshooting Roku Closed Captioning Feature That Refuses to Activate
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Debunking Greenwashing: How Eco-Friendly Are Electric Autos in Reality?</p>
+                            <p>This Article Describes Troubleshooting Roku Closed Captioning Feature That Refuses to Activate</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:25 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:16:51 GMT+0800">
                 
                     2024-08-19
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/debunking-greenwashing-how-eco-friendly-are-electric-autos-in-reality/">Read more<span class="seo-reader-text">Debunking Greenwashing: How Eco-Friendly Are Electric Autos in Reality?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-roku-closed-captioning-feature-that-refuses-to-activate/">Read more<span class="seo-reader-text">Troubleshooting Roku Closed Captioning Feature That Refuses to Activate</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-chromecast-sound-problems-a-comprehensive-guide-for-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84bd18007683e60195b160e324.jpg" alt="Fixing Chromecast Sound Problems: A Comprehensive Guide for Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/revealing-the-curious-minds-how-to-spot-document-viewer-in-google-drive/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/cef699ffd22d6808899594afa50b73f9f6bcef39d36826c1b9832e7227280bd9.jpg" alt="Revealing the Curious Minds: How to Spot Document Viewer in Google Drive" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-chromecast-sound-problems-a-comprehensive-guide-for-users/">
-                            Fixing Chromecast Sound Problems: A Comprehensive Guide for Users
+                        <a href="/revealing-the-curious-minds-how-to-spot-document-viewer-in-google-drive/">
+                            Revealing the Curious Minds: How to Spot Document Viewer in Google Drive
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing Chromecast Sound Problems: A Comprehensive Guide for Users</p>
+                            <p>This Article Describes Revealing the Curious Minds: How to Spot Document Viewer in Google Drive</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:24 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:16:49 GMT+0800">
                 
                     2024-08-19
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/fixing-chromecast-sound-problems-a-comprehensive-guide-for-users/">Read more<span class="seo-reader-text">Fixing Chromecast Sound Problems: A Comprehensive Guide for Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/revealing-the-curious-minds-how-to-spot-document-viewer-in-google-drive/">Read more<span class="seo-reader-text">Revealing the Curious Minds: How to Spot Document Viewer in Google Drive</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discover-the-premier-6-super-mario-rpgs-to-dominate-on-your-computer/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/qSg6qbduhNwUAT7coS_JEPSiUCQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mario_Luigi_Wallpaper_screenshot-59b77f1b396e5a00103bdd39.jpg" alt="Discover the Premier 6 Super Mario RPGs to Dominate on Your Computer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/free-aesthetic-transformations-the-best-windows-11-themes-for-tech-savvy-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/aaf0974e4ab83d3cc5b35041225761e54de0f8418307a4877fba8e369a6e30f0.jpg" alt="Free Aesthetic Transformations: The Best Windows 11 Themes for Tech Savvy Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discover-the-premier-6-super-mario-rpgs-to-dominate-on-your-computer/">
-                            Discover the Premier 6 Super Mario RPGs to Dominate on Your Computer
+                        <a href="/free-aesthetic-transformations-the-best-windows-11-themes-for-tech-savvy-users/">
+                            Free Aesthetic Transformations: The Best Windows 11 Themes for Tech Savvy Users
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Discover the Premier 6 Super Mario RPGs to Dominate on Your Computer</p>
+                            <p>This Article Describes Free Aesthetic Transformations: The Best Windows 11 Themes for Tech Savvy Users</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:23 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:16:48 GMT+0800">
                 
                     2024-08-19
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/discover-the-premier-6-super-mario-rpgs-to-dominate-on-your-computer/">Read more<span class="seo-reader-text">Discover the Premier 6 Super Mario RPGs to Dominate on Your Computer</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/free-aesthetic-transformations-the-best-windows-11-themes-for-tech-savvy-users/">Read more<span class="seo-reader-text">Free Aesthetic Transformations: The Best Windows 11 Themes for Tech Savvy Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effective-ways-to-prevent-your-mac-from-entering-sleep-mode/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/yeEeOPurB4Cayvhze-UI0TXnjAQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-936160060-6954ff92dbec47e09edcdacedfc25caa.jpg" alt="Effective Ways to Prevent Your Mac From Entering Sleep Mode" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/remote-less-roku-control-techniques-for-seamless-viewing/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/d-rUObg-nE6_Z3dCf-oJYfKYbpE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tcl-6-series-roku-tv-lifestyle-5bb68f9146e0fb0026977d9a.jpg" alt="Remote-Less Roku Control Techniques for Seamless Viewing" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effective-ways-to-prevent-your-mac-from-entering-sleep-mode/">
-                            Effective Ways to Prevent Your Mac From Entering Sleep Mode
+                        <a href="/remote-less-roku-control-techniques-for-seamless-viewing/">
+                            Remote-Less Roku Control Techniques for Seamless Viewing
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Effective Ways to Prevent Your Mac From Entering Sleep Mode</p>
+                            <p>This Article Describes Remote-Less Roku Control Techniques for Seamless Viewing</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:21 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:16:47 GMT+0800">
                 
                     2024-08-19
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/effective-ways-to-prevent-your-mac-from-entering-sleep-mode/">Read more<span class="seo-reader-text">Effective Ways to Prevent Your Mac From Entering Sleep Mode</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/remote-less-roku-control-techniques-for-seamless-viewing/">Read more<span class="seo-reader-text">Remote-Less Roku Control Techniques for Seamless Viewing</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/access-a-world-of-literature-for-free-top-17-resources-for-book-downloads/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/927eab612ca9394a8dc7ea238a2f885f7ea9117faabc7f0454d2ab57936cb103.png" alt="Access a World of Literature for Free: Top 17 Resources for Book Downloads" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-apple-watchs-cellular-connection-effective-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/84a67b265f596974e97bfdda7a90a26dbf8d262c88616db568ebfae06dbc4deb.jpg" alt="Troubleshooting Apple Watch&#39;s Cellular Connection: Effective Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/access-a-world-of-literature-for-free-top-17-resources-for-book-downloads/">
-                            Access a World of Literature for Free: Top 17 Resources for Book Downloads
+                        <a href="/troubleshooting-apple-watchs-cellular-connection-effective-solutions/">
+                            Troubleshooting Apple Watch&#39;s Cellular Connection: Effective Solutions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Access a World of Literature for Free: Top 17 Resources for Book Downloads</p>
+                            <p>This Article Describes Troubleshooting Apple Watch’s Cellular Connection: Effective Solutions</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:20 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:16:46 GMT+0800">
                 
                     2024-08-19
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/access-a-world-of-literature-for-free-top-17-resources-for-book-downloads/">Read more<span class="seo-reader-text">Access a World of Literature for Free: Top 17 Resources for Book Downloads</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-apple-watchs-cellular-connection-effective-solutions/">Read more<span class="seo-reader-text">Troubleshooting Apple Watch&#39;s Cellular Connection: Effective Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolving-d3dx939dll-file-not-detected-comprehensive-troubleshooting-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/mdtz7YG-HzbOZ3kyLDCgMG4hT0w=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d3dx9_39-dll-error-message-59b27a1ec4124400107693a8.png" alt="Resolving &#39;D3DX9_39.dll File Not Detected&#39; - Comprehensive Troubleshooting Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-quick-travel-a-guide-to-the-teleport-feature-in-minecraft/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c77b2ab824b82342859c0a119.jpg" alt="Mastering Quick Travel: A Guide to the &#39;Teleport&#39; Feature in Minecraft" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolving-d3dx939dll-file-not-detected-comprehensive-troubleshooting-guide/">
-                            Resolving &#39;D3DX9_39.dll File Not Detected&#39; - Comprehensive Troubleshooting Guide
+                        <a href="/mastering-quick-travel-a-guide-to-the-teleport-feature-in-minecraft/">
+                            Mastering Quick Travel: A Guide to the &#39;Teleport&#39; Feature in Minecraft
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolving ‘D3DX9_39.dll File Not Detected’ - Comprehensive Troubleshooting Guide</p>
+                            <p>This Article Describes Mastering Quick Travel: A Guide to the ‘Teleport’ Feature in Minecraft</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:19 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:16:45 GMT+0800">
                 
                     2024-08-19
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/resolving-d3dx939dll-file-not-detected-comprehensive-troubleshooting-guide/">Read more<span class="seo-reader-text">Resolving &#39;D3DX9_39.dll File Not Detected&#39; - Comprehensive Troubleshooting Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-quick-travel-a-guide-to-the-teleport-feature-in-minecraft/">Read more<span class="seo-reader-text">Mastering Quick Travel: A Guide to the &#39;Teleport&#39; Feature in Minecraft</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/exploring-whether-the-papacy-has-adapted-to-modern-communication-with-email-usage/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/jBVYmCK8o7kU6_SXUFE-7K3qvYU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg" alt="Exploring Whether the Papacy Has Adapted to Modern Communication with Email Usage." class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/winning-against-sluggish-windows-11-effective-strategies-for-a-faster-computer/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87e98be5353e65c069e24fae8.jpg" alt="Winning Against Sluggish Windows 11: Effective Strategies for a Faster Computer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/exploring-whether-the-papacy-has-adapted-to-modern-communication-with-email-usage/">
-                            Exploring Whether the Papacy Has Adapted to Modern Communication with Email Usage.
+                        <a href="/winning-against-sluggish-windows-11-effective-strategies-for-a-faster-computer/">
+                            Winning Against Sluggish Windows 11: Effective Strategies for a Faster Computer
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Exploring Whether the Papacy Has Adapted to Modern Communication with Email Usage.</p>
+                            <p>This Article Describes Winning Against Sluggish Windows 11: Effective Strategies for a Faster Computer</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:18 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:16:44 GMT+0800">
                 
                     2024-08-19
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/exploring-whether-the-papacy-has-adapted-to-modern-communication-with-email-usage/">Read more<span class="seo-reader-text">Exploring Whether the Papacy Has Adapted to Modern Communication with Email Usage.</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/winning-against-sluggish-windows-11-effective-strategies-for-a-faster-computer/">Read more<span class="seo-reader-text">Winning Against Sluggish Windows 11: Effective Strategies for a Faster Computer</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/409/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/408/">408</a><a class="page-number" href="/page/409/">409</a><span class="page-number current">410</span><a class="page-number" href="/page/411/">411</a><a class="page-number" href="/page/412/">412</a><span class="space">&hellip;</span><a class="page-number" href="/page/1277/">1277</a><a class="extend next" rel="next" href="/page/411/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/409/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/408/">408</a><a class="page-number" href="/page/409/">409</a><span class="page-number current">410</span><a class="page-number" href="/page/411/">411</a><a class="page-number" href="/page/412/">412</a><span class="space">&hellip;</span><a class="page-number" href="/page/1343/">1343</a><a class="extend next" rel="next" href="/page/411/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

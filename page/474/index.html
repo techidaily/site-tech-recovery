@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/exploring-papal-correspondence-has-pope-francis-adopted-email-for-communication/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a037fe9e28d65cbe9fbebcdbb0.png" alt="Exploring Papal Correspondence: Has Pope Francis Adopted Email for Communication?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-ios-17-improves-over-previous-versions-should-you-update/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/BeYyt4bZGJcFn_oXomZjuw-ubIg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1304049667-315b1456a6e94527bed998bba5633e90.jpg" alt="How iOS 17 Improves Over Previous Versions - Should You Update?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/exploring-papal-correspondence-has-pope-francis-adopted-email-for-communication/">
-                            Exploring Papal Correspondence: Has Pope Francis Adopted Email for Communication?
+                        <a href="/how-ios-17-improves-over-previous-versions-should-you-update/">
+                            How iOS 17 Improves Over Previous Versions - Should You Update?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Exploring Papal Correspondence: Has Pope Francis Adopted Email for Communication?</p>
+                            <p>This Article Describes How iOS 17 Improves Over Previous Versions - Should You Update?</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:52:30 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:56 GMT+0800">
                 
                     2024-08-19
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/exploring-papal-correspondence-has-pope-francis-adopted-email-for-communication/">Read more<span class="seo-reader-text">Exploring Papal Correspondence: Has Pope Francis Adopted Email for Communication?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-ios-17-improves-over-previous-versions-should-you-update/">Read more<span class="seo-reader-text">How iOS 17 Improves Over Previous Versions - Should You Update?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/compatibility-guide-can-airpods-be-connected-to-the-nintendo-switch/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png" alt="Compatibility Guide: Can AirPods Be Connected to the Nintendo Switch?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/compare-ev-charging-stages-a-guide-to-level-1-level-2-and-rapid-charging-options/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b7baa33d4b10fe886a40e23c90cd05fef9558b48e747814e8f0bb0ff84874df4.jpg" alt="Compare EV Charging Stages: A Guide to Level 1, Level 2 and Rapid Charging Options" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/compatibility-guide-can-airpods-be-connected-to-the-nintendo-switch/">
-                            Compatibility Guide: Can AirPods Be Connected to the Nintendo Switch?
+                        <a href="/compare-ev-charging-stages-a-guide-to-level-1-level-2-and-rapid-charging-options/">
+                            Compare EV Charging Stages: A Guide to Level 1, Level 2 and Rapid Charging Options
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Compatibility Guide: Can AirPods Be Connected to the Nintendo Switch?</p>
+                            <p>This Article Describes Compare EV Charging Stages: A Guide to Level 1, Level 2 and Rapid Charging Options</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:52:29 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:55 GMT+0800">
                 
                     2024-08-19
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/compatibility-guide-can-airpods-be-connected-to-the-nintendo-switch/">Read more<span class="seo-reader-text">Compatibility Guide: Can AirPods Be Connected to the Nintendo Switch?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/compare-ev-charging-stages-a-guide-to-level-1-level-2-and-rapid-charging-options/">Read more<span class="seo-reader-text">Compare EV Charging Stages: A Guide to Level 1, Level 2 and Rapid Charging Options</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/pc-velocity-essentials-finding-the-perfect-processing-speed/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg" alt="PC Velocity Essentials: Finding the Perfect Processing Speed" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/keep-your-iphone-images-clean-up-icloud-storage-a-complete-tutorial/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63de7c46849c7b8605b7802d4.jpg" alt="Keep Your iPhone Images, Clean Up iCloud Storage: A Complete Tutorial" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/pc-velocity-essentials-finding-the-perfect-processing-speed/">
-                            PC Velocity Essentials: Finding the Perfect Processing Speed
+                        <a href="/keep-your-iphone-images-clean-up-icloud-storage-a-complete-tutorial/">
+                            Keep Your iPhone Images, Clean Up iCloud Storage: A Complete Tutorial
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes PC Velocity Essentials: Finding the Perfect Processing Speed</p>
+                            <p>This Article Describes Keep Your iPhone Images, Clean Up iCloud Storage: A Complete Tutorial</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:52:27 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:54 GMT+0800">
                 
                     2024-08-19
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/pc-velocity-essentials-finding-the-perfect-processing-speed/">Read more<span class="seo-reader-text">PC Velocity Essentials: Finding the Perfect Processing Speed</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/keep-your-iphone-images-clean-up-icloud-storage-a-complete-tutorial/">Read more<span class="seo-reader-text">Keep Your iPhone Images, Clean Up iCloud Storage: A Complete Tutorial</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/a-step-by-step-guide-setting-up-an-email-address-alias-on-gmail/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0b4d1113a2acbab23df9184b.jpg" alt="A Step-by-Step Guide: Setting Up an Email Address Alias on Gmail" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/identifying-causes-of-pdhdll-not-detected-and-how-to-resolve-them/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/o84y38wdtKuLflDX_G-xFVNrQS4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pdh-dll-error-message-5aeb4ac2a474be0036fa7514.PNG" alt="Identifying Causes of &#39;pdh.dll Not Detected&#39; And How to Resolve Them" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/a-step-by-step-guide-setting-up-an-email-address-alias-on-gmail/">
-                            A Step-by-Step Guide: Setting Up an Email Address Alias on Gmail
+                        <a href="/identifying-causes-of-pdhdll-not-detected-and-how-to-resolve-them/">
+                            Identifying Causes of &#39;pdh.dll Not Detected&#39; And How to Resolve Them
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes A Step-by-Step Guide: Setting Up an Email Address Alias on Gmail</p>
+                            <p>This Article Describes Identifying Causes of ‘pdh.dll Not Detected’ And How to Resolve Them</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:52:26 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:53 GMT+0800">
                 
                     2024-08-19
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/a-step-by-step-guide-setting-up-an-email-address-alias-on-gmail/">Read more<span class="seo-reader-text">A Step-by-Step Guide: Setting Up an Email Address Alias on Gmail</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/identifying-causes-of-pdhdll-not-detected-and-how-to-resolve-them/">Read more<span class="seo-reader-text">Identifying Causes of &#39;pdh.dll Not Detected&#39; And How to Resolve Them</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/social-media-success-how-to-swiftly-score-more-likes-and-followers-on-instagram/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a893720905506787f6d97b44b698d179a25.jpg" alt="Social Media Success: How to Swiftly Score More Likes and Followers on Instagram" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-get-internet-without-cable-or-phone/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/hEW360kiisz_0qwpDjgXzsO60yI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iStock-540839512-59a828a09abed5001112081b.jpg" alt="How to Get Internet Without Cable or Phone" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/social-media-success-how-to-swiftly-score-more-likes-and-followers-on-instagram/">
-                            Social Media Success: How to Swiftly Score More Likes and Followers on Instagram
+                        <a href="/how-to-get-internet-without-cable-or-phone/">
+                            How to Get Internet Without Cable or Phone
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Social Media Success: How to Swiftly Score More Likes and Followers on Instagram</p>
+                            <p>This Article Describes How to Get Internet Without Cable or Phone</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:52:25 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:52 GMT+0800">
                 
                     2024-08-19
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/social-media-success-how-to-swiftly-score-more-likes-and-followers-on-instagram/">Read more<span class="seo-reader-text">Social Media Success: How to Swiftly Score More Likes and Followers on Instagram</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-get-internet-without-cable-or-phone/">Read more<span class="seo-reader-text">How to Get Internet Without Cable or Phone</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722886091598-buzz-on-android-16-potential-specs-leak-predicted-pricing-and-tentative-release-timeline-teased/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad7205eab6f350d2eff8745d04c.jpg" alt="Buzz on Android 16: Potential Specs Leak, Predicted Pricing &amp; Tentative Release Timeline Teased!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mac-troubleshooting-guide-connecting-and-recognizing-external-screens/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/873b674ec1f0efe7c647278c79a47eb6f488c3e5dcbfa65f7cf3800d934e5b09.jpg" alt="Mac Troubleshooting Guide: Connecting and Recognizing External Screens" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722886091598-buzz-on-android-16-potential-specs-leak-predicted-pricing-and-tentative-release-timeline-teased/">
-                            Buzz on Android 16: Potential Specs Leak, Predicted Pricing &amp; Tentative Release Timeline Teased!
+                        <a href="/mac-troubleshooting-guide-connecting-and-recognizing-external-screens/">
+                            Mac Troubleshooting Guide: Connecting and Recognizing External Screens
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Buzz on Android 16: Potential Specs Leak, Predicted Pricing &amp; Tentative Release Timeline Teased!</p>
+                            <p>This Article Describes Mac Troubleshooting Guide: Connecting and Recognizing External Screens</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:52:24 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:51 GMT+0800">
                 
                     2024-08-19
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/1722886091598-buzz-on-android-16-potential-specs-leak-predicted-pricing-and-tentative-release-timeline-teased/">Read more<span class="seo-reader-text">Buzz on Android 16: Potential Specs Leak, Predicted Pricing &amp; Tentative Release Timeline Teased!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mac-troubleshooting-guide-connecting-and-recognizing-external-screens/">Read more<span class="seo-reader-text">Mac Troubleshooting Guide: Connecting and Recognizing External Screens</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-the-dsounddll-file-absence-issue-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465fd497be9c6686a8f2877ff5.jpg" alt="Solving the dsound.dll File Absence Issue: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/diy-fixes-overcoming-the-lack-of-display-on-your-xbox-one-system/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba610c7cb281d20c740b294fae.jpg" alt="DIY Fixes: Overcoming the Lack of Display on Your Xbox One System" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-the-dsounddll-file-absence-issue-a-step-by-step-guide/">
-                            Solving the dsound.dll File Absence Issue: A Step-by-Step Guide
+                        <a href="/diy-fixes-overcoming-the-lack-of-display-on-your-xbox-one-system/">
+                            DIY Fixes: Overcoming the Lack of Display on Your Xbox One System
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving the dsound.dll File Absence Issue: A Step-by-Step Guide</p>
+                            <p>This Article Describes DIY Fixes: Overcoming the Lack of Display on Your Xbox One System</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:52:23 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:50 GMT+0800">
                 
                     2024-08-19
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/solving-the-dsounddll-file-absence-issue-a-step-by-step-guide/">Read more<span class="seo-reader-text">Solving the dsound.dll File Absence Issue: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/diy-fixes-overcoming-the-lack-of-display-on-your-xbox-one-system/">Read more<span class="seo-reader-text">DIY Fixes: Overcoming the Lack of Display on Your Xbox One System</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/inside-information-and-speculations-surrounding-the-new-sony-car-model-afeela/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-car-afeela-prototype-small-afbf34badff94d6aad4c2a1e009012c9.jpg" alt="Inside Information and Speculations Surrounding the New Sony Car Model, Afeela" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/macbook-air-split-screen-hack-how-to-multitask-like-a-pro-without-buying-extras/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a1d76f74a4f77913c7df7881.jpg" alt="MacBook Air Split Screen Hack: How to Multitask Like a Pro Without Buying Extras" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/inside-information-and-speculations-surrounding-the-new-sony-car-model-afeela/">
-                            Inside Information and Speculations Surrounding the New Sony Car Model, Afeela
+                        <a href="/macbook-air-split-screen-hack-how-to-multitask-like-a-pro-without-buying-extras/">
+                            MacBook Air Split Screen Hack: How to Multitask Like a Pro Without Buying Extras
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Inside Information and Speculations Surrounding the New Sony Car Model, Afeela</p>
+                            <p>This Article Describes MacBook Air Split Screen Hack: How to Multitask Like a Pro Without Buying Extras</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:52:23 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:49 GMT+0800">
                 
                     2024-08-19
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/inside-information-and-speculations-surrounding-the-new-sony-car-model-afeela/">Read more<span class="seo-reader-text">Inside Information and Speculations Surrounding the New Sony Car Model, Afeela</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/macbook-air-split-screen-hack-how-to-multitask-like-a-pro-without-buying-extras/">Read more<span class="seo-reader-text">MacBook Air Split Screen Hack: How to Multitask Like a Pro Without Buying Extras</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/embark-on-a-social-media-adventure-with-the-worlds-top-66-twitter-travel-gurus-deals-and-tales/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/nLvXyE38DwOldvfZODG2jSm99ls=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-474327705-57c5b6885f9b5855e5cfa753.jpg" alt="Embark on a Social Media Adventure with The World’s Top 66 Twitter Travel Gurus, Deals &amp; Tales" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/samsung-unpacked-forecast-key-dates-breakthrough-news-and-rumor-roundup/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg" alt="Samsung Unpacked Forecast : Key Dates, Breakthrough News &amp; Rumor Roundup" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/embark-on-a-social-media-adventure-with-the-worlds-top-66-twitter-travel-gurus-deals-and-tales/">
-                            Embark on a Social Media Adventure with The World’s Top 66 Twitter Travel Gurus, Deals &amp; Tales
+                        <a href="/samsung-unpacked-forecast-key-dates-breakthrough-news-and-rumor-roundup/">
+                            Samsung Unpacked Forecast : Key Dates, Breakthrough News &amp; Rumor Roundup
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Embark on a Social Media Adventure with The World’s Top 66 Twitter Travel Gurus, Deals &amp; Tales</p>
+                            <p>This Article Describes Samsung Unpacked Forecast : Key Dates, Breakthrough News &amp; Rumor Roundup</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:52:21 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:48 GMT+0800">
                 
                     2024-08-19
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/embark-on-a-social-media-adventure-with-the-worlds-top-66-twitter-travel-gurus-deals-and-tales/">Read more<span class="seo-reader-text">Embark on a Social Media Adventure with The World’s Top 66 Twitter Travel Gurus, Deals &amp; Tales</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/samsung-unpacked-forecast-key-dates-breakthrough-news-and-rumor-roundup/">Read more<span class="seo-reader-text">Samsung Unpacked Forecast : Key Dates, Breakthrough News &amp; Rumor Roundup</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/decoding-teslas-autonomous-taxi-insight-into-predicted-pricing-availability-date-specifications-and-fresh-rumors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7bf85c351306cae77a65bd05.jpg" alt="Decoding Tesla’s Autonomous Taxi: Insight Into Predicted Pricing, Availability Date, Specifications and Fresh Rumors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ps5-slim-or-full-model-a-comprehensive-look-at-sonys-latest-consoles/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/8ZIeB3f_2cXHILh_2StFR0zCq7M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PS5-Slim-ff00c195f61a42309972eefc60cb0fb0.jpg" alt="PS5 Slim or Full Model? A Comprehensive Look at Sony&#39;s Latest Consoles" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/decoding-teslas-autonomous-taxi-insight-into-predicted-pricing-availability-date-specifications-and-fresh-rumors/">
-                            Decoding Tesla’s Autonomous Taxi: Insight Into Predicted Pricing, Availability Date, Specifications and Fresh Rumors
+                        <a href="/ps5-slim-or-full-model-a-comprehensive-look-at-sonys-latest-consoles/">
+                            PS5 Slim or Full Model? A Comprehensive Look at Sony&#39;s Latest Consoles
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Decoding Tesla’s Autonomous Taxi: Insight Into Predicted Pricing, Availability Date, Specifications and Fresh Rumors</p>
+                            <p>This Article Describes PS5 Slim or Full Model? A Comprehensive Look at Sony’s Latest Consoles</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:52:21 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 15:04:47 GMT+0800">
                 
                     2024-08-19
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/decoding-teslas-autonomous-taxi-insight-into-predicted-pricing-availability-date-specifications-and-fresh-rumors/">Read more<span class="seo-reader-text">Decoding Tesla’s Autonomous Taxi: Insight Into Predicted Pricing, Availability Date, Specifications and Fresh Rumors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ps5-slim-or-full-model-a-comprehensive-look-at-sonys-latest-consoles/">Read more<span class="seo-reader-text">PS5 Slim or Full Model? A Comprehensive Look at Sony&#39;s Latest Consoles</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/473/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/472/">472</a><a class="page-number" href="/page/473/">473</a><span class="page-number current">474</span><a class="page-number" href="/page/475/">475</a><a class="page-number" href="/page/476/">476</a><span class="space">&hellip;</span><a class="page-number" href="/page/1277/">1277</a><a class="extend next" rel="next" href="/page/475/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/473/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/472/">472</a><a class="page-number" href="/page/473/">473</a><span class="page-number current">474</span><a class="page-number" href="/page/475/">475</a><a class="page-number" href="/page/476/">476</a><span class="space">&hellip;</span><a class="page-number" href="/page/1343/">1343</a><a class="extend next" rel="next" href="/page/475/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"tech-recovery.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12761</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">13426</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discover-the-ultimate-list-of-12-complimentary-typing-lessons-across-ages/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/DJpX03Q4FDZYSDfA5XS0Kb2dw9w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-using-laptop-at-table-591404029-5a8d90eb642dca0036707cca.jpg" alt="Discover the Ultimate List of 12 Complimentary Typing Lessons Across Ages" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-ultimate-guide-to-spectacular-80s-flicks-you-cant-miss/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg" alt="The Ultimate Guide to Spectacular &#39;80S Flicks You Can&#39;t Miss" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discover-the-ultimate-list-of-12-complimentary-typing-lessons-across-ages/">
-                            Discover the Ultimate List of 12 Complimentary Typing Lessons Across Ages
+                        <a href="/the-ultimate-guide-to-spectacular-80s-flicks-you-cant-miss/">
+                            The Ultimate Guide to Spectacular &#39;80S Flicks You Can&#39;t Miss
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Discover the Ultimate List of 12 Complimentary Typing Lessons Across Ages</p>
+                            <p>This Article Describes The Ultimate Guide to Spectacular ‘80S Flicks You Can’t Miss</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:17:08 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:29:49 GMT+0800">
                 
                     2024-08-19
                 
@@ -741,7 +798,7 @@
         
     </div>
 
-    <a href="/discover-the-ultimate-list-of-12-complimentary-typing-lessons-across-ages/">Read more<span class="seo-reader-text">Discover the Ultimate List of 12 Complimentary Typing Lessons Across Ages</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-ultimate-guide-to-spectacular-80s-flicks-you-cant-miss/">Read more<span class="seo-reader-text">The Ultimate Guide to Spectacular &#39;80S Flicks You Can&#39;t Miss</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -757,21 +814,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-the-unsteady-and-wobbly-visuals-on-your-surface-pro-device/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoft-surface-pro-4-screen-flickering-ee1196d402054d0889714deb16c989af.jpg" alt="Fixing the Unsteady and Wobbly Visuals on Your Surface Pro Device" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/partnerships-and-collaborations/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/hFd1K6gYBVukVTsFTaHgMRU9zTg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-41-device-manager-4b9b2e4b2d1d4ce68da647dce9893389.png" alt="Partnerships &amp; Collaborations" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-the-unsteady-and-wobbly-visuals-on-your-surface-pro-device/">
-                            Fixing the Unsteady and Wobbly Visuals on Your Surface Pro Device
+                        <a href="/partnerships-and-collaborations/">
+                            Partnerships &amp; Collaborations
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing the Unsteady and Wobbly Visuals on Your Surface Pro Device</p>
+                            <p>This Article Describes Partnerships &amp; Collaborations</p>
 
                         
                     </div>
@@ -779,7 +836,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:17:07 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:29:48 GMT+0800">
                 
                     2024-08-19
                 
@@ -805,7 +862,7 @@
         
     </div>
 
-    <a href="/fixing-the-unsteady-and-wobbly-visuals-on-your-surface-pro-device/">Read more<span class="seo-reader-text">Fixing the Unsteady and Wobbly Visuals on Your Surface Pro Device</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/partnerships-and-collaborations/">Read more<span class="seo-reader-text">Partnerships &amp; Collaborations</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -821,21 +878,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/conquer-virtual-hiring-expert-advice-for-successful-skype-interviews-top-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d269684aea8711a00f6335b22f38.jpg" alt="Conquer Virtual Hiring: Expert Advice for Successful Skype Interviews - Top Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/navigating-privacy-settings-to-uncover-someones-professional-email/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/high-angle-blurred-view-of-pillars-in-world-map-shape-591407485-57d88e6a5f9b589b0a0a641b.jpg" alt="Navigating Privacy Settings to Uncover Someone&#39;s Professional Email" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/conquer-virtual-hiring-expert-advice-for-successful-skype-interviews-top-tips/">
-                            Conquer Virtual Hiring: Expert Advice for Successful Skype Interviews - Top Tips
+                        <a href="/navigating-privacy-settings-to-uncover-someones-professional-email/">
+                            Navigating Privacy Settings to Uncover Someone&#39;s Professional Email
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Conquer Virtual Hiring: Expert Advice for Successful Skype Interviews - Top Tips</p>
+                            <p>This Article Describes Navigating Privacy Settings to Uncover Someone’s Professional Email</p>
 
                         
                     </div>
@@ -843,7 +900,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:17:06 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:29:47 GMT+0800">
                 
                     2024-08-19
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/conquer-virtual-hiring-expert-advice-for-successful-skype-interviews-top-tips/">Read more<span class="seo-reader-text">Conquer Virtual Hiring: Expert Advice for Successful Skype Interviews - Top Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/navigating-privacy-settings-to-uncover-someones-professional-email/">Read more<span class="seo-reader-text">Navigating Privacy Settings to Uncover Someone&#39;s Professional Email</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/comparison/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/6g5JDO8Lu0fWrxjcvM1ESmI93f4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1311299813-e39f1ea25b9941db80cb33d0875016a8.jpg" alt="Comparison" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722873705608-top-7-most-popular-imessage-games-rank-your-picks/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/7toHf20GC8cEeAaAMmVhGyJcC5Q=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-695859288-5bbb651f4cedfd0026ab0a7d.jpg" alt="Top 7 Most Popular iMessage Games - Rank Your Picks!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/comparison/">
-                            Comparison
+                        <a href="/1722873705608-top-7-most-popular-imessage-games-rank-your-picks/">
+                            Top 7 Most Popular iMessage Games - Rank Your Picks!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Comparison</p>
+                            <p>This Article Describes Top 7 Most Popular iMessage Games - Rank Your Picks!</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:17:04 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:29:46 GMT+0800">
                 
                     2024-08-19
                 
@@ -933,7 +990,7 @@
         
     </div>
 
-    <a href="/comparison/">Read more<span class="seo-reader-text">Comparison</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722873705608-top-7-most-popular-imessage-games-rank-your-picks/">Read more<span class="seo-reader-text">Top 7 Most Popular iMessage Games - Rank Your Picks!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -949,21 +1006,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discover-the-7-most-effective-alarm-clock-apps-for-a-refreshing-morning-routine/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/duX3lrh_eXGcaM2-HTLu6BYEGbQ=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Womansleepingnexttophonealarmclock-1a2cf5594b24483aacf639f4365ff862.jpg" alt="Discover the 7 Most Effective Alarm Clock Apps for a Refreshing Morning Routine" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/easily-customize-your-email-footer-in-godaddy-mail-a-detailed-tutorial/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/ZQx1wgXFr5qZLiXKQQ3cr4W0AI0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pen-Signing-Paper-Tetra-Images-Getty-140193384-56a1c2d15f9b58b7d0c2595a.jpg" alt="Easily Customize Your Email Footer in Godaddy Mail - A Detailed Tutorial" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discover-the-7-most-effective-alarm-clock-apps-for-a-refreshing-morning-routine/">
-                            Discover the 7 Most Effective Alarm Clock Apps for a Refreshing Morning Routine
+                        <a href="/easily-customize-your-email-footer-in-godaddy-mail-a-detailed-tutorial/">
+                            Easily Customize Your Email Footer in Godaddy Mail - A Detailed Tutorial
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Discover the 7 Most Effective Alarm Clock Apps for a Refreshing Morning Routine</p>
+                            <p>This Article Describes Easily Customize Your Email Footer in Godaddy Mail - A Detailed Tutorial</p>
 
                         
                     </div>
@@ -971,7 +1028,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:17:03 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:29:45 GMT+0800">
                 
                     2024-08-19
                 
@@ -997,7 +1054,7 @@
         
     </div>
 
-    <a href="/discover-the-7-most-effective-alarm-clock-apps-for-a-refreshing-morning-routine/">Read more<span class="seo-reader-text">Discover the 7 Most Effective Alarm Clock Apps for a Refreshing Morning Routine</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/easily-customize-your-email-footer-in-godaddy-mail-a-detailed-tutorial/">Read more<span class="seo-reader-text">Easily Customize Your Email Footer in Godaddy Mail - A Detailed Tutorial</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1013,21 +1070,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/understanding-windows-10s-battery-status-tool-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca4fb179ccb3f421fcf0aa55a.jpg" alt="Understanding Windows 10&#39;S Battery Status Tool: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-osetupdll-absence-on-your-computer-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac080e870fc5542fba83032d5.jpg" alt="Resolving osetup.dll Absence on Your Computer: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/understanding-windows-10s-battery-status-tool-a-comprehensive-guide/">
-                            Understanding Windows 10&#39;S Battery Status Tool: A Comprehensive Guide
+                        <a href="/resolving-osetupdll-absence-on-your-computer-a-step-by-step-guide/">
+                            Resolving osetup.dll Absence on Your Computer: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Understanding Windows 10’S Battery Status Tool: A Comprehensive Guide</p>
+                            <p>This Article Describes Resolving osetup.dll Absence on Your Computer: A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -1035,7 +1092,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:17:02 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:29:44 GMT+0800">
                 
                     2024-08-19
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/understanding-windows-10s-battery-status-tool-a-comprehensive-guide/">Read more<span class="seo-reader-text">Understanding Windows 10&#39;S Battery Status Tool: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-osetupdll-absence-on-your-computer-a-step-by-step-guide/">Read more<span class="seo-reader-text">Resolving osetup.dll Absence on Your Computer: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solutions-for-the-d3dx934dll-file-cannot-be-located-error/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/yF0nZv7nRYG2Fd3K9ES5sMkhky0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d3dx9_34-dll-error-598c6676396e5a0010241dfa.png" alt="Solutions for the &#39;d3dx9_34.dll File Cannot Be Located&#39; Error" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/blown-away-by-emojis-10-startling-truths-you-need-to-see/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5c8fee31ed3df2a195c8af00.jpg" alt="Blown Away by Emojis? 10 Startling Truths You Need to See" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solutions-for-the-d3dx934dll-file-cannot-be-located-error/">
-                            Solutions for the &#39;d3dx9_34.dll File Cannot Be Located&#39; Error
+                        <a href="/blown-away-by-emojis-10-startling-truths-you-need-to-see/">
+                            Blown Away by Emojis? 10 Startling Truths You Need to See
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solutions for the ‘d3dx9_34.dll File Cannot Be Located’ Error</p>
+                            <p>This Article Describes Blown Away by Emojis? 10 Startling Truths You Need to See</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:17:01 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:29:43 GMT+0800">
                 
                     2024-08-19
                 
@@ -1125,7 +1182,7 @@
         
     </div>
 
-    <a href="/solutions-for-the-d3dx934dll-file-cannot-be-located-error/">Read more<span class="seo-reader-text">Solutions for the &#39;d3dx9_34.dll File Cannot Be Located&#39; Error</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/blown-away-by-emojis-10-startling-truths-you-need-to-see/">Read more<span class="seo-reader-text">Blown Away by Emojis? 10 Startling Truths You Need to See</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1141,21 +1198,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-solution-for-activating-roku-subtitlescaptions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/5TA0uUEj3d0A_8FG2XepFc8tz6Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roku-closed-captioning-2005aa384a2845f29f42d4a420c77c6e.png" alt="Step-by-Step Solution for Activating Roku Subtitles/Captions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/aqua-proofing-in-action-how-strong-is-iphone-15-against-liquids/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb071407495f0911dc7de431c6c41.jpg" alt="Aqua-Proofing in Action: How Strong Is iPhone 15 Against Liquids?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-solution-for-activating-roku-subtitlescaptions/">
-                            Step-by-Step Solution for Activating Roku Subtitles/Captions
+                        <a href="/aqua-proofing-in-action-how-strong-is-iphone-15-against-liquids/">
+                            Aqua-Proofing in Action: How Strong Is iPhone 15 Against Liquids?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Solution for Activating Roku Subtitles&#x2F;Captions</p>
+                            <p>This Article Describes Aqua-Proofing in Action: How Strong Is iPhone 15 Against Liquids?</p>
 
                         
                     </div>
@@ -1163,7 +1220,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:17:00 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:29:42 GMT+0800">
                 
                     2024-08-19
                 
@@ -1189,7 +1246,7 @@
         
     </div>
 
-    <a href="/step-by-step-solution-for-activating-roku-subtitlescaptions/">Read more<span class="seo-reader-text">Step-by-Step Solution for Activating Roku Subtitles/Captions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/aqua-proofing-in-action-how-strong-is-iphone-15-against-liquids/">Read more<span class="seo-reader-text">Aqua-Proofing in Action: How Strong Is iPhone 15 Against Liquids?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1205,21 +1262,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/can-you-submerge-your-iphone-15-pro-max-in-water/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/tjbZu8TyZ_Hgned3kiXPg5aRRR0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Wet-iPhone-Back-8662979-a71b5d4cea344ad6a70305a5c0b42723.jpeg" alt="Can You Submerge Your iPhone 15 Pro Max in Water?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/expert-tips-for-total-deletion-of-your-yahoo-mail-address/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/o9L5zceQQehIO2CUQVvR8ViwVus=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-terminating-yahoo-account-57f6b3c05f9b586c355390ec.jpg" alt="Expert Tips for Total Deletion of Your Yahoo Mail Address" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/can-you-submerge-your-iphone-15-pro-max-in-water/">
-                            Can You Submerge Your iPhone 15 Pro Max in Water?
+                        <a href="/expert-tips-for-total-deletion-of-your-yahoo-mail-address/">
+                            Expert Tips for Total Deletion of Your Yahoo Mail Address
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Can You Submerge Your iPhone 15 Pro Max in Water?</p>
+                            <p>This Article Describes Expert Tips for Total Deletion of Your Yahoo Mail Address</p>
 
                         
                     </div>
@@ -1227,7 +1284,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:16:59 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:29:41 GMT+0800">
                 
                     2024-08-19
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/can-you-submerge-your-iphone-15-pro-max-in-water/">Read more<span class="seo-reader-text">Can You Submerge Your iPhone 15 Pro Max in Water?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/expert-tips-for-total-deletion-of-your-yahoo-mail-address/">Read more<span class="seo-reader-text">Expert Tips for Total Deletion of Your Yahoo Mail Address</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/expertly-curated-phone-buying-destinations-find-your-perfect-device/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f1a263c48a30403473697d2181558146e92bb208f913d3a258e1502b44a08c19.jpg" alt="Expertly Curated Phone Buying Destinations: Find Your Perfect Device" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/navigate-through-skype-errors-expert-advice-for-better-connections/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f44d3a38cfaa7537d0961fac.png" alt="Navigate Through Skype Errors: Expert Advice for Better Connections" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/expertly-curated-phone-buying-destinations-find-your-perfect-device/">
-                            Expertly Curated Phone Buying Destinations: Find Your Perfect Device
+                        <a href="/navigate-through-skype-errors-expert-advice-for-better-connections/">
+                            Navigate Through Skype Errors: Expert Advice for Better Connections
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Expertly Curated Phone Buying Destinations: Find Your Perfect Device</p>
+                            <p>This Article Describes Navigate Through Skype Errors: Expert Advice for Better Connections</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 14:16:58 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 14:29:40 GMT+0800">
                 
                     2024-08-19
                 
@@ -1317,7 +1374,7 @@
         
     </div>
 
-    <a href="/expertly-curated-phone-buying-destinations-find-your-perfect-device/">Read more<span class="seo-reader-text">Expertly Curated Phone Buying Destinations: Find Your Perfect Device</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/navigate-through-skype-errors-expert-advice-for-better-connections/">Read more<span class="seo-reader-text">Navigate Through Skype Errors: Expert Advice for Better Connections</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1327,7 +1384,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/661/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/660/">660</a><a class="page-number" href="/page/661/">661</a><span class="page-number current">662</span><a class="page-number" href="/page/663/">663</a><a class="page-number" href="/page/664/">664</a><span class="space">&hellip;</span><a class="page-number" href="/page/1277/">1277</a><a class="extend next" rel="next" href="/page/663/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/661/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/660/">660</a><a class="page-number" href="/page/661/">661</a><span class="page-number current">662</span><a class="page-number" href="/page/663/">663</a><a class="page-number" href="/page/664/">664</a><span class="space">&hellip;</span><a class="page-number" href="/page/1343/">1343</a><a class="extend next" rel="next" href="/page/663/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
