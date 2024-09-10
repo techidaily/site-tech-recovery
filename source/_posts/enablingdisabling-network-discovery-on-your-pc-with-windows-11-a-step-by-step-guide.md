@@ -1,7 +1,7 @@
 ---
 title: "Enabling/Disabling Network Discovery on Your PC with Windows 11: A Step-by-Step Guide"
-date: 2024-09-04T02:58:33.631Z
-updated: 2024-09-05T02:58:33.631Z
+date: 2024-09-09T16:30:38.169Z
+updated: 2024-09-10T16:30:38.169Z
 categories:
   - BestProducts
 description: "This Article Describes Enabling/Disabling Network Discovery on Your PC with Windows 11: A Step-by-Step Guide"
@@ -9,6 +9,12 @@ excerpt: "This Article Describes Enabling/Disabling Network Discovery on Your PC
 thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc33817ba0857c51273b662cd.JPG
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enabling/Disabling Network Discovery on Your PC with Windows 11: A Step-by-Step Guide
 ### What to Know
 
@@ -31,20 +37,50 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 3. Select**Network & Internet settings** .  
 ![Selecting Network and Internet settings in Windows 10.](https://www.lifewire.com/thmb/hzAb1fly6wKEIUDRR7xImR89ae8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-turn-on-or-off-discovery-network-in-windows-10-9bc5681e91c24a8ca02cad8c7b13aed8.jpg)
 4. Scroll down a bit and choose**Network and Sharing Center** .  
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Network settings in Windows 10.](https://www.lifewire.com/thmb/qnolazVfasJbC970PLRkOphPJ3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-turn-on-or-off-discovery-network-in-windows-10-1a4eb35ff184483fbbc8900e3a625ff9.jpg)
 5. When[Control Panel](https://www.lifewire.com/control-panel-2625841) opens, select**Change advanced sharing settings** from the left menu.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 10 Control Panel network settings.](https://www.lifewire.com/thmb/vspgoHAgXFE9GTLJrOA8k7Xaiqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-turn-on-or-off-discovery-network-in-windows-10-ba43069cb90246c998756a627b40a8ae.jpg)
 6. Select**Turn on network discovery** to flip it on. To turn_off_ network discovery in Windows 10, choose**Turn off network discovery** .  
 ![Windows 10 network discovery settings.](https://www.lifewire.com/thmb/1sRkqQMn4YalJmeFZGoznJPvkB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-turn-on-or-off-discovery-network-in-windows-10-8beea7877c9c4399a61dafe0ddacfa74.jpg)  
  While here, you can also[turn file and printer sharing on and off](https://www.lifewire.com/windows-file-and-printer-sharing-818221) .
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. When finished, select**Save changes** . You can now close Control Panel and Settings.  
 ![Windows 10 Control Panel network discovery settings.](https://www.lifewire.com/thmb/K4SteWQHwkacaUCwBp9t7fdzrkw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-turn-on-or-off-discovery-network-in-windows-10-c725b34b5e164b928fe5cb5d3d355a69.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Does Windows 10 Network Discovery Mean?
 

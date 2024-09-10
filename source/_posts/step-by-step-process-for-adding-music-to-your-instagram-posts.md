@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Process for Adding Music to Your Instagram Posts
-date: 2024-09-04T03:02:25.161Z
-updated: 2024-09-05T03:02:25.161Z
+date: 2024-09-09T16:30:35.302Z
+updated: 2024-09-10T16:30:35.302Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Process for Adding Music to Your Instagram Posts
@@ -9,6 +9,12 @@ excerpt: This Article Describes Step-by-Step Process for Adding Music to Your In
 thumbnail: https://www.lifewire.com/thmb/pwzU1PAiM6nn29JIXj9EEkkDIGA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/badmusic-5ae71e92875db9003756c309.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Process for Adding Music to Your Instagram Posts
 
 Close 
@@ -33,6 +39,12 @@ Close
  You can select play icons to preview songs before adding one to your Story.  
 ![Using the Music icon to add a track to an Instagram story in the mobile app.](https://www.lifewire.com/thmb/eECemDOu1TRAWwq9LECyUBB45ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-add-music-to-instagram-video-4691372-648ba8d75cd44c8cad53c758a4c4f223.jpg)
 5. Tap**15** and choose the length of the track for your Story and tap**Done** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Track length is limited due to copyright restrictions. Instagram Stories are typically less than 15 seconds anyway so this limitation shouldn’t be an issue for many.
 6. Drag the white bar to select the part of the song you want to use and tap**Done** when you've made your selection.
 7. Tap the**Music** sticker to choose a different display style or hide the information altogether.  
@@ -44,12 +56,6 @@ Close
 10. When you're ready to share or publish the Story, tap**Share** .  
 ![Options for publishing or sharing an Instagram story in the mobile app.](https://www.lifewire.com/thmb/4k8ek_iSJRkAiCUe3KarqByx4SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-add-music-to-instagram-video-4691372-70e075578ac64b8ba4a2a6c8a3447218.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Add Spotify Music to an Instagram Story 
 
  Another option for sharing music to an Instagram story is to use the share link from Spotify. Here's how to do that.
@@ -61,23 +67,29 @@ Close
 ![Song sharing options in the Spotify mobile app.](https://www.lifewire.com/thmb/Ee46gPQCwIG_-4w2qvJmUkvkoew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-add-music-to-instagram-video-4691372-700037e60d4a489dba4be5d22e17bdf1.jpg)
 5. Choose**Stories** from the list to open a new Story in the Instagram app.
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 6. Edit your Story as you usually would, adding filters, text, etc.
 7. When you're ready, select**Your story** or the arrow to view other sharing options.
 8. Select**Share** when you've made your selection.  
 ![The Stories sharing option in the Spotify app for sharing a song in an Instagram Story.](https://www.lifewire.com/thmb/owc1AJmmJfKPBgGbbRKp1BBpTGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-add-music-to-instagram-video-4691372-cd7d2e4e7afc4e6d99765f9995b379f9.jpg)  
  The song you share in your Instagram story won't play automatically, but followers can tap**Play on Spotify** in your Story to listen directly in Spotify mobile app.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Add Music for Instagram Videos 
 
  In addition to allowing you to crop and add filters to videos, Instagram lets you add music to this type of content. The process is similar to adding music to an Instagram Story.
@@ -91,16 +103,10 @@ All video posts are published as Reels.
 ![Adding music to a video post in the Instagram mobile app.](https://www.lifewire.com/thmb/GC4rH4CFt0ZRVfY3axHl6SA_AL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-add-music-to-instagram-video-4691372-bb4e62867f944fa8b43401794f5f21be.jpg)
 5. Choose the way the song displays and the clip to play and make any other edits.
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 6. When you're happy with your work, select**Done** .
 7. Tap**Next** .
@@ -108,18 +114,18 @@ All video posts are published as Reels.
 ![Adjusting the way music displays before sharing a video post on the Instagram mobile app.](https://www.lifewire.com/thmb/KvWaS_RI-yZiFNaDAu4n6yGBrQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-add-music-to-instagram-video-4691372-efd8ee6360fa44c3a93eced552472ea0.jpg)  
 [  5 Best Free Video Editors for YouTube in 2024 ](https://www.lifewire.com/video-editor-for-youtube-4588689)
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Where to Find Music for Instagram Videos 
 
  If you’re adding music to your Instagram Story with the Music sticker, you don’t need to worry about finding tunes since the sticker provides access to a music library of current songs.

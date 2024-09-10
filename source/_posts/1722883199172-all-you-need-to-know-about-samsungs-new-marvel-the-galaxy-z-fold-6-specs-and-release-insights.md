@@ -1,0 +1,187 @@
+---
+title: "All You Need to Know About Samsung's New Marvel: The Galaxy Z Fold 6 Specs and Release Insights"
+date: 2024-09-09T16:32:05.729Z
+updated: 2024-09-10T16:32:05.729Z
+categories:
+  - BestProducts
+description: "This Article Describes All You Need to Know About Samsung's New Marvel: The Galaxy Z Fold 6 Specs and Release Insights"
+excerpt: "This Article Describes All You Need to Know About Samsung's New Marvel: The Galaxy Z Fold 6 Specs and Release Insights"
+thumbnail: https://thmb.techidaily.com/82206d914fca4236ea98cfd9aa8de4878e7651f5b583f7c9d1a03e80009ea26b.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## All You Need to Know About Samsung's New Marvel: The Galaxy Z Fold 6 Specs and Release Insights
+
+ In This Article
+
+* [Release Date](https://www.lifewire.com/#toc-galaxy-z-fold-6-release-date)
+* [Price](https://www.lifewire.com/#toc-galaxy-z-fold-6-price)
+* [Where to Buy](https://www.lifewire.com/#toc-where-to-buy)
+* [Specs and Features](https://www.lifewire.com/#toc-galaxy-z-fold-6-specs-and-features)
+* [Latest News](https://www.lifewire.com/#toc-the-latest-news-about-the-galaxy-z-fold-6)
+
+ The Samsung Z Fold 6 was announced at the[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event on July 10\. We've got everything you need to know, including its price and list of features.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Galaxy Z Fold 6 Release Date
+
+ The Z Fold 6 became available for pre-order immediately after the Unpacked event, with general availability starting July 24.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Galaxy Z Fold 6 Price
+
+ The Z Fold 6 starts at $1,899.99, a slight increase from the $1,799.99 Z Fold 5\. It's available in Silver Shadow, Pink, and Navy. Craft Black and Purity White are also available if you order directly from Samsung's website.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Where to Buy
+
+ You can get the Z Fold 6 directly from Samsung. It's also available at Amazon, Best Buy, and mobile service providers.
+
+[Buy on Amazon](https://www.amazon.com/SAMSUNG-Storage-Preorder-Unlocked-Smartphone/dp/B0D64YKWP1?tag=lifewire-onsite-prod-20&ascsubtag=8418354%7Cn177bdf75f036439fae5f30cbec95596120%7C) [Buy on Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-z-flip6%2Fbuy%2Fgalaxy-z-flip6-512gb-unlocked-sm-f741uakexaa%2F%3Fcid%3Dsem-mktg-pfs-mob-us-google-na-07102024-142315-%26ds%255Fe%3DGOOGLE-cr%3A0-pl%3A394179295-%26ds%255Fc%3DCN%7EB6-Core%255FID%7En%255FPR%7Ef2h24-b6%255FSB%7Esmart%255FPH%7Eresv%255FKS%7Eba%255FMK%7Eus%255FOB%7Econv%255FFS%7Elo%255FFF%7En%255FBS%7Emx%255FKM%7Eexact-%26ds%255Fag%3DID%7En%255FAG%7EB6-Core%255FAE%7Emass%255FAT%7Estads%255FMD%7Eh%255FPK%7Eroah%255FPB%7Egoogle%255FPL%7Esa360%255FCH%7Esearch%255FFF%7En-%26ds%255Fk%3Dsamsung%2Bgalaxy%2Bz%2Bflip%2B6%26gad%255Fsource%3D1%26gclid%3DCjwKCAjw4ri0BhAvEiwA8oo6F6JYGeq006RBM7DZSERQiJT2FKwaBK8YyoyHGnwysF%255FAJADFhitTqhoCSKYQAvD%255FBwE%26gclsrc%3Daw.ds)
+
+ _We [independently evaluate](https://www.lifewire.com/commerce-guidelines-and-mission-4157971) all of our recommendations. If you click on links we provide, we may receive compensation._
+
+![Galaxy Z Fold 6 features](https://www.lifewire.com/thmb/EaUg0KEkqX9X8h73F8etv7PJTCQ=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ZFold6Features-4576eb9282ce4effa110266142ad6083.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Samsung
+
+## Galaxy Z Fold 6 Specs and Features
+
+ The Samsung Galaxy Z Fold 6 is_slightly_ larger than its predecessor, but it's unlikely you'll notice. The main display remains at 7.6 inches, but the cover screen has grown by one-tenth of an inch to 6.3 inches. Both displays have a 120Hz variable refresh rate. The phone also weighs a little less, coming in at just under 240g vs. the 253g Fold 5.
+
+ Unlike the Z Flip 6, which got a larger battery this year, the Z Fold 6's is the same as its predecessor's: 4,400mAh. That's still a pretty big battery, and with a more efficient processor–the Snapdragon 8 Gen 3–the Fold 6 should see improved battery life even without more capacity.  
+
+ As for camera specs, there's a 4MP under-display lens and a 10MP option for selfies. Here's the rear triple camera setup:
+
+* 50MP wide
+* 12MP ultra-wide
+* 10MP telephoto with 3x optical zoom and 30x space zoom
+
+![Galaxy Z Fold 6](https://www.lifewire.com/thmb/jv0KCBUuJilr8B-ysqDfkhraQeE=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ZFold6-9a9469bd0783400f9945a13cc66e8c66.jpg)
+
+Samsung
+
+ The storage and RAM in the Z Fold 6 is identical to the Z Fold 5\. Options include 256GB, 512GB, and 1TB. All three are equipped with 12GB of RAM.
+
+ This phone ships with[Android 14](https://www.lifewire.com/android-14-7496192) and One UI 6.1.1\. Here are some notable software features:
+
+* The AI-powered[Google Gemini](https://www.lifewire.com/what-is-google-bard-7151624) has replaced Google Assistant. It's aware of context, so you can pull it up while viewing an image, video, or text to get relevant information.
+* The built-in Notes app can pull text out of PDF files and translate, transcript, and summarize your voice recordings with Note Assist.
+* Composer is a new feature built into Samsung Keyboard that can grasp your tone from past social media posts to help generate text that sounds more like you.
+* Sketch to image is a new feature that helps you generate images based on sketches you make with the S Pen.
+* To aid translations, Galaxy AI powers a new conversation mode that lets two people view translations in real time on the main and cover screens. And Live Translate works across some third-party calling apps in addition to the built-in Phone app.
+* Photo Assist provides AI-driven, image-editing tools.
+* Portrait Studio provides new looks for your images, like cartoon or watercolor styles.
+* Instant Slow-mo adds frames to existing videos to make them play back more slowly.
+
+[Samsung Galaxy Z Flip 6: Price, Release Date, Features, and News](https://www.lifewire.com/samsung-galaxy-z-flip-6-8621840)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Latest News About the Galaxy Z Fold 6
+
+ You can get[more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some more stories about Samsung while you wait for more news on their latest model.
+
+[Samsung Reveals New Galaxy Z Fold6 and Z Flip6](https://www.lifewire.com/samsung-reveals-new-galaxy-z-fold6-and-z-flip6-8675427)
+
+[Samsung Galaxy Watch 7: Price, Release Date, Specs, and News](https://www.lifewire.com/samsung-galaxy-watch-7-8607182)
+
+[Samsung Galaxy S25: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/samsung-galaxy-s25-8636730)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unleash-creativity-the-best-9-gif-recorders-to-preserve-windows-animation/"><u>[New] 2024 Approved Unleash Creativity The Best 9 GIF Recorders to Preserve Windows Animation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mplifying-impact-youtube-visibility-techniques-for-2024/"><u>[New] Amplifying Impact YouTube Visibility Techniques for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-decoding-silent-snapchat-user-possible-block/"><u>[New] Decoding Silent Snapchat User Possible Block</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-audible-annotators-top-selections-for-offline-text-conversion/"><u>[Updated] Audible Annotators Top Selections for Offline Text Conversion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unplugged-thrills-10-best-screen-free-gaming-on-android-devices/"><u>2024 Approved Unplugged Thrills 10 Best Screen-Free Gaming on Android Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-new-tesla-robotaxi-anticipated-launch-details-and-pricing-insights-revealed/"><u>All-New Tesla Robotaxi: Anticipated Launch Details & Pricing Insights Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-movie-streaming-applications-your-guide-to-endless-entertainment/"><u>Best Free Movie Streaming Applications – Your Guide to Endless Entertainment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-social-savvy-top-5-tips-for-a-more-effective-facebook-experience/"><u>Boost Your Social Savvy: Top 5 Tips for a More Effective Facebook Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-dealing-with-msidll-not-found-and-missing-msidll-issues/"><u>Comprehensive Fixes: Dealing with 'msi.dll Not Found' And 'Missing msi.dll' Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/considering-an-rtx-heres-why-you-should-make-the-leap/"><u>Considering an RTX? Here's Why You Should Make The Leap!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-homework-assistance-apps-for-kids-and-their-guardians/"><u>Discover the Best Homework Assistance Apps for Kids and Their Guardians</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-leading-note-taking-apps-of-2024-a-comprehensive-guide/"><u>Discover the Leading Note Taking Apps of 2024 – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-solutions-to-open-a-nonfunctional-media-disc-drive/"><u>DIY Solutions to Open a Nonfunctional Media Disc Drive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-and-efficient-method-for-moving-phone-data-to-your-windows-11-computer-with-mobile-transfer/"><u>Easy and Efficient Method for Moving Phone Data to Your Windows 11 Computer with Mobile Transfer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evaluating-chatgpt-plus-find-out-why-these-5-points-make-it-a-must-have-service/"><u>Evaluating ChatGPT Plus - Find Out Why These 5 Points Make It a Must-Have Service!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-these-13-engrossing-true-crime-podcast-episodes/"><u>Explore These 13 Engrossing True Crime Podcast Episodes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stream-games-from-nintendo-switch-on-your-tv-a-complete-tutorial/"><u>How To Stream Games From Nintendo Switch on Your TV - A Complete Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immerse-in-literature-without-spending-check-out-17-sites-with-free-book-downloads/"><u>Immerse in Literature Without Spending: Check Out 17 Sites with Free Book Downloads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-6s-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 6s with a Broken Screen?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-detailed-premiere-pro-full-screen-analysis/"><u>In 2024, Detailed Premiere Pro Full Screen Analysis</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-3-ways-to-download-youtubes-standardized-thumbnails/"><u>In 2024, Unlock 3 Ways to Download YouTube’s Standardized Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/introducing-google-bard-the-ultimate-guide-on-leveraging-googles-advanced-ai-chat-technology/"><u>Introducing Google Bard - The Ultimate Guide on Leveraging Google’s Advanced AI Chat Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mobile-mastery-embracing-invitations-for-joint-photographic-collections-with-iphone/"><u>Mobile Mastery: Embracing Invitations for Joint Photographic Collections with iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/most-favored-5-iphones-podcast-apps/"><u>Most Favored 5 iPhones Podcast Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-physical-remotes-required-expert-tips-for-operating-your-roku-display-using-unconventional-tools/"><u>No Physical Remotes Required: Expert Tips for Operating Your Roku Display Using Unconventional Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/optimizing-learning-outcomes-best-student-centric-ways-to-use-ai-chatbot/"><u>Optimizing Learning Outcomes: Best Student-Centric Ways to Use AI Chatbot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pc-strategies-for-successfully-playing-pokemon-unite/"><u>PC Strategies for Successfully Playing Pokémon Unite</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-android-wifi-connectivity-issues-a-guide-to-authenticating-correctly/"><u>Solving Android Wifi Connectivity Issues: A Guide to Authenticating Correctly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-making-your-hidden-wi-fi-visible-again/"><u>Step-by-Step Guide: Making Your Hidden Wi-Fi Visible Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-full-spectrum-of-apples-macos-versions-unveiled-a-detailed-exploration-guide/"><u>The Full Spectrum of Apple's macOS Versions Unveiled: A Detailed Exploration Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-new-age-smartphone-a-review-of-huawei-p10s-innovations/"><u>The New Age Smartphone? A Review of Huawei P10's Innovations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-navigating-apple-pay-on-your-wrist-apple-watch-edition/"><u>The Ultimate Guide to Navigating Apple Pay on Your Wrist – Apple Watch Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-instagrams-potential-effective-tags-to-skyrocket-your-exposure/"><u>Unlocking Instagram's Potential: Effective Tags to Skyrocket Your Exposure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903552020-x3daudiodll-disappeared-find-and-implement-reliable-solutions-now/"><u>x3daudio.dll Disappeared? Find and Implement Reliable Solutions Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/yahoo-messenger-discontinued-the-end-of-an-era-unveiling-its-history-and-reasoning-behind-closure/"><u>Yahoo! Messenger Discontinued: The End of an Era - Unveiling Its History and Reasoning Behind Closure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-one-stop-destination-downloading-comprehensive-guides-for-every-iphones-version-and-model/"><u>Your One-Stop Destination: Downloading Comprehensive Guides for Every iPhones Version & Model</u></a></li>
+</ul></div>

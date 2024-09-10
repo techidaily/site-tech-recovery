@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Secrets of Bass Management - Working Mechanism Explained
-date: 2024-09-04T02:57:32.751Z
-updated: 2024-09-05T02:57:32.751Z
+date: 2024-09-09T16:30:38.925Z
+updated: 2024-09-10T16:30:38.925Z
 categories:
   - BestProducts
 description: This Article Describes Unraveling the Secrets of Bass Management - Working Mechanism Explained
@@ -9,6 +9,12 @@ excerpt: This Article Describes Unraveling the Secrets of Bass Management - Work
 thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/anthem-speaker-set-menu-examples-aaa-58f8bed43df78ca159779250.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unraveling the Secrets of Bass Management - Working Mechanism Explained
  The home theater experience isn't complete without the thundering bass that shakes a room. However, after connecting the components and speakers, you can't turn everything on, raise the volume, and think you'll hear great home theater sound. It takes more than that.
 
@@ -24,8 +30,20 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 
 ![Example of Home Theater Speaker Setup Menu Spotlighting Bass Management](https://www.lifewire.com/thmb/EcqKOmPH0gALf98WV-BLn6H0s_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/anthem-speaker-set-menu-examples-aaa-58f8bed43df78ca159779250.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Anthem AV
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Implementing Bass Management
 
  A home theater system ([usually anchored by a home theater receiver](https://www.lifewire.com/set-up-home-theater-receiver-4119787) ) needs to distribute sound frequencies to the correct channels and speakers to replicate a cinema-like experience. Bass management provides this tool.
@@ -38,12 +56,36 @@ Anthem AV
 
 ![Home Theater Surround Sound Setup](https://www.lifewire.com/thmb/C2Ylgsm50obYhBhgkcAnDxWB1TI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/home-theater-surround-sound-setup-a-585c25c23df78ce2c3549b62.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  adventtr / Getty Images
 
  After you connect the speakers with (or without) a subwoofer, go into the home theater receiver's on-screen setup menu and find the speaker setup or configuration menu. There should be an option to tell the receiver which speakers and subwoofer are connected.
 
 ![Denon AVR-X2100W Speaker Configuration Menu](https://www.lifewire.com/thmb/XqLRWKHghkeKaDVYsaE9FsbOEdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-speaker-config-menu-alt-x-915893fe813c4bdaa043049af24e2a9b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Set Speaker/Subwoofer Signal Routing and Speaker Size
 
  After confirming the speaker setup, designate how to route sound frequencies between the speakers and subwoofer.
@@ -55,30 +97,12 @@ Anthem AV
 * Experiment with both floor-standing speaker options (mixed or subwoofer only) for low frequencies and hear what works best for you. You can always redo the settings.
 * If you have bookshelf-type speakers for the rest of the channels combined with a subwoofer, route all low frequencies to the subwoofer only. This takes the low-frequency load off the smaller speakers since they can't reproduce lower bass frequencies. If prompted, set all the speakers to small.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Subwoofer vs. LFE
 
  When deciding which of the above options to use, most movie soundtracks on DVD, Blu-ray Disc, and some streaming sources contain a specific[LFE (Low-Frequency Effects)](https://www.dolby.com/uploadedFiles/Assets/US/Doc/Professional/38%5FLFE.pdf) channel ([Dolby](https://www.lifewire.com/dolby-digital-ex-plus-1846885) and[DTS](https://www.lifewire.com/what-is-dts-1846889) surround formats).
 
 ![Denon AVR-X2100W Subwoofer LFE Settings Menu](https://www.lifewire.com/thmb/7EpelSRkJveIXdtBvouIVTmPduQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-subwoofer-lfe-x-9632c722beac467a90cbde08657c5b66.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The LFE channel contains specific, extremely low-frequency information that can only be passed through the receiver's subwoofer preamp output. If you tell the receiver you don't have a subwoofer, you won't have access to the specific low-frequency information encoded on that channel. However, other low-frequency information not encoded specifically to the LFE channel can be routed to other speakers.
 
 Many home theater receivers provide outputs for two subwoofers.
@@ -96,16 +120,16 @@ Onkyo USA
 ![Denon AVR-X2100W Audyssey Start Menu](https://www.lifewire.com/thmb/tRCkdzLv-ETPFNmhxKxJ8wJcwmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-audyssey-start-360-b-x-ffd76963d5094d27af404d824866d8ab.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Although there are variations in how each of these systems works, here is what they have in common:
 
@@ -116,21 +140,15 @@ Onkyo USA
 
  Although convenient for most setups, this method isn't always accurate. It can sometimes miscalculate speaker distance and the speaker/subwoofer frequency points, setting the center channel output too low or the subwoofer output too high. However, you can correct these manually after the fact, if desired.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Setting Bass Management Manually
 
  If you are more adventurous and have the time, you can implement bass management manually. To do this, besides setting the speaker configuration, signal routing, and size, you also need to set the crossover frequency.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Crossover Frequency Is and How to Set It
 
@@ -149,12 +167,6 @@ Onkyo USA
 
 ![Denon AVR-X2100W Crossover Settings Menu](https://www.lifewire.com/thmb/U0hvP3qoaLcpWMo4oNgfFZoQNFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denonp-avr-x2100w-crossover-alt-x-6b7312c6847d4b4baa35670e710b17ab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A useful tool in setting crossover points is a DVD or Blu-ray test disc that includes an audio test section, such as[Digital Video Essentials](https://www.amazon.com/Digital-Video-Essentials-Basics-Blu-ray/dp/B000V6LST0?tag=lifewire-onsite-prod-20&ascsubtag=4136746%7Cn1a0d219b82aa4a1997258ab762750e7b16%7C) .
 
 ## The Bottom Line

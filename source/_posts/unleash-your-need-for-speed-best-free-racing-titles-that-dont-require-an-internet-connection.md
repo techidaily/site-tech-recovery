@@ -1,0 +1,182 @@
+---
+title: "Unleash Your Need for Speed: Best Free Racing Titles That Don't Require an Internet Connection"
+date: 2024-09-09T16:32:38.523Z
+updated: 2024-09-10T16:32:38.523Z
+categories:
+  - BestProducts
+description: "This Article Describes Unleash Your Need for Speed: Best Free Racing Titles That Don't Require an Internet Connection"
+excerpt: "This Article Describes Unleash Your Need for Speed: Best Free Racing Titles That Don't Require an Internet Connection"
+thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a364f88560f34c633d621d6cbc.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Seamless Smartphone Casting: Connect and Watch on Your Fire Stick Now
+### What to Know
+
+* On your Fire TV, hold the**Home** button to bring up a new menu and select**Mirroring** .
+* On your Android smartphone, select**Settings** \>**Connected devices** \>**Cast** \> your Fire TV’s name.
+* To cast to Fire TV from a Samsung phone, swipe down and select**Smart View** \> your Fire TV’s name.
+
+ This page will walk you through the setup process to get your Amazon Fire TV Stick ready for casting, the instructions for casting from an Android mobile, and some additional options for Samsung phone users.
+
+## Can Android Stream to Fire TV Sticks?
+
+ Android smartphones and tablets can stream or cast to Amazon’s Fire TV Stick devices. Before Fire Sticks can receive a wireless broadcast from your Android device, you need to set them up properly.
+
+ Here’s how to prepare a Fire TV Stick for Android casting.
+
+1. Turn your Amazon Fire TV Stick on as usual and then press the**Home** button on the remote until a menu appears.  
+![Amazon Fire TV Stick Home screen.](https://www.lifewire.com/thmb/5jHRQ5T_KkfuawTO2i9KJ1TC97s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_cast-to-firestick-from-android-5203940-471dbdb7861344b69af918a7d2b1361b.jpg)
+2. Highlight**Mirroring** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Fire TV Stick menu with Mirroring highlighted.](https://www.lifewire.com/thmb/qKvb3gx91cEcIS_1ZuQVtyIHV8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_cast-to-firestick-from-android-5203940-07ee8331644e40548b51b0d8db7d6639.jpg)
+3. Press**Enter** on the Fire Stick remote to activate the**Mirroring** option.  
+Enter is the large circle button on the remote.  
+![Fire Stick menu with Mirroring tile highlighted from the shortcut menu.](https://www.lifewire.com/thmb/HHKPByl6ZToAKKsraJQX_cC2-Cs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_cast-to-firestick-from-android-5203940-699056d65c4445a68aba96493d4c6f19.jpg)
+4. The screen should now change and your Fire Stick is now primed and ready to receive a wireless casting signal.  
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Fire Stick Display Mirroring screen.](https://www.lifewire.com/thmb/UkfPkJTnj7o6Ibuc-AHVIGhFHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_cast-to-firestick-from-android-5203940-2717553df30541fb871ee1fef9b28d68.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Cast to Amazon Fire TV Stick From Android  
+
+ The process for casting to an Amazon Fire TV Stick from an Android smartphone or tablet varies depending on the device and[Android version](https://www.lifewire.com/android-versions-4173277) . Overall, the steps aren’t too different, though, and should like something like the following with maybe just a few visual changes here and there.
+5. Ensure that your Android smartphone or tablet is[connected to the same Wi-Fi network](https://www.lifewire.com/connecting-android-device-to-wifi-577618) as the Fire Stick.
+6. Open**Settings** and select**Connected devices** .  
+![Android home screen and Settings app with Connected devices highlighted.](https://www.lifewire.com/thmb/ES2KOfu0oXU9_Ki2t4Wm5jNy-aM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_cast-to-firestick-from-android-5203940-5b429840ed1a4f74baeeecc9087bf277.jpg)
+7. Select**Cast** . If your Fire TV Stick is visible on the list of devices, tap it to begin casting. If it's not, select the ellipsis icon in the top-right corner.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Android cast settings.](https://www.lifewire.com/thmb/_Hx3qqBZLyPwefeoz5hE17tXPpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_cast-to-firestick-from-android-5203940-952a7999d83442378f321bf6c95bdf14.jpg)
+8. Check the box next to**Enable wireless display** . This will make additional devices such as the Amazon Fire TV Stick visible in the Cast list.  
+ If you ever have trouble finding your Fire Stick when casting, repeat this step to make it visible again.
+9. Select the name of your Fire TV Stick.  
+![Android wireless display cast settings.](https://www.lifewire.com/thmb/YABRvBSzh5daotOFpjkzKZqaZ1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_cast-to-firestick-from-android-5203940-467c4af4f85948bbbcacf596028705d2.jpg)
+10. Your Android mobile device should now have its screen mirrored on your Fire TV on your TV. To end the casting session, tap the Fire TV Stick's name from the Cast menu once again.  
+![Fire TV and smart TV in the Android Cast settings.](https://www.lifewire.com/thmb/Rp1cb2dP4xTjlf6U0S9jQB6CBOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_cast-to-firestick-from-android-5203940-38efe25a67b64beab712699c9261c55b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Can You Cast to a Fire Stick From Samsung Phones?
+
+ The method for casting to a Fire Stick from a Samsung device is slightly different than the normal Android process as it uses[Samsung’s Smart View casting technology](https://www.lifewire.com/how-samsung-allshare-simplifies-media-streaming-1847358) .
+
+1. Make sure your Samsung device and your Fire TV Stick are on the same Wi-Fi network.
+2. Swipe down from the top of the screen to open the**Notifications** bar.
+3. Swipe left until you see the**Smart View** icon, and then tap it.
+4. Select your Fire TV Stick from the list of devices.  
+![Samsung Android cast options from Smart View.](https://www.lifewire.com/thmb/EHQGxcmXXyZ3MqSl-Sxz9IQi_4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_cast-to-firestick-from-android-5203940-96ac9e50f9964506aba90c5212958d70.jpg)  
+ If you don't see your Fire TV Stick from the list of available displays, try using the above steps for regular Android devices. The Fire TV may be hidden.
+5. Your Samsung device's screen should now be mirrored on your TV via your Amazon Fire TV Stick. To stop the mirroring, tap your Fire TV's name from the Smart View list again.
+
+[Do I Need a Streaming Device With a Smart TV?](https://www.lifewire.com/streaming-device-with-smart-tv-5209499)
+
+ FAQ
+
+* How do I cast to Fire Stick from an iPhone?  
+ One option is to use a screen-mirroring app like AirScreen to[AirPlay to a Fire Stick](https://www.lifewire.com/how-to-airplay-to-firestick-5202962) . Search for the AirScreen app from the Appstore and select**Get** \>**Open** . Next, download the AirScreen app on your iPhone and follow the instructions to choose your Fire Stick from the Control Center and mirror your iPhone.
+* How do I cast to a Fire Stick from my PC?  
+ First, activate mirroring on your Fire TV from**Settings** \>**Display & Audio** \>**Enable Display Mirroring** . On your Windows 10 PC, select the**Notifications** icon in the taskbar >**Expand** \>**Connect** \> and choose your Fire TV Stick from the list of available displays. On Windows 11, enter**Windows key + K** to open this menu.
+* How do I cast to Fire Stick from a Mac?  
+ To[cast to a Fire Stick](https://www.lifewire.com/cast-to-firestick-5190042) from a Mac, you need the help of a third-party mirroring app such as AirPlayMirror Receiver or AirScreen. Ensure both your Mac and Fire Stick are connected to the same Wi-Fi network and download your chosen mirroring app on both devices. On your Mac, click the AirPlay icon in the menu bar and choose your Fire Stick from the list of available devices.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-the-procedure-of-attaining-facebooks-blue-status-badge/"><u>[New] In 2024, Mastering the Procedure of Attaining Facebook's Blue Status Badge</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-high-quality-capture-software-pcmac/"><u>[New] Ultimate High-Quality Capture Software, PC/Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-cross-platform-guide-to-transforming-photographic-genders-online/"><u>[Updated] Cross-Platform Guide to Transforming Photographic Genders Online</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-dictate-your-destiny-free-logo-creation-from-template-files/"><u>[Updated] In 2024, Dictate Your Destiny - Free Logo Creation From Template Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-enhance-testimonial-credibility-and-impact/"><u>2024 Approved Strategies to Enhance Testimonial Credibility and Impact</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-7-alarm-clock-apps-available-today/"><u>Discover the Best 7 Alarm Clock Apps Available Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-booting-up-windows-10-on-your-new-pcs-drive/"><u>Easy Instructions for Booting Up Windows 10 on Your New PC's Drive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-communication-with-the-new-mozilla-thunderbird-update-52/"><u>Enhance Communication with the New Mozilla Thunderbird Update 52</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-steps-to-address-wmvcoredll-is-missing-errors-on-windows-systems/"><u>Essential Steps to Address 'wmvcore.dll Is Missing' Errors on Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/feel-empowered-and-motivated-with-these-11-top-films-to-watch-now/"><u>Feel Empowered & Motivated with These 11 Top Films to Watch Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-your-favorite-tumblr-songs-and-videos-for-free-on-mobile-and-desktop-devices/"><u>Get Your Favorite Tumblr Songs & Videos For Free on Mobile & Desktop Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-closed-captions-back-on-your-roku-device-a-guide/"><u>Getting Closed Captions Back on Your Roku Device - A Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-do-home-theatre-and-stereo-receivers-differ-in-performance/"><u>How Do Home Theatre and Stereo Receivers Differ in Performance?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correct-missing-or-inaccessible-winhttpdll-errors-efficiently/"><u>How to Correct Missing or Inaccessible Winhttp.dll Errors Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-your-stadia-headset-wont-connect/"><u>How to Fix It When Your Stadia Headset Won't Connect</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-choose-the-right-frames-per-second-30-vs-60/"><u>In 2024, How to Choose the Right Frames Per Second - 30 Vs. 60</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lag-fixing-made-simple-for-anthem/"><u>Lag Fixing Made Simple for Anthem</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/launching-your-first-product-critique-network-a-step-by-step-guide-for-2024/"><u>Launching Your First Product Critique Network A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-heat-management-how-to-accurately-check-your-laptops-temperature/"><u>MacBook Heat Management: How to Accurately Check Your Laptop's Temperature</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>New Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamp-your-chromecasts-look-learn-to-modify-the-desktop-images/"><u>Revamp Your Chromecast's Look - Learn to Modify the Desktop Images!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-streaming-share-your-favorites-between-chromecast-and-fire-stick/"><u>Seamless Streaming: Share Your Favorites Between Chromecast and Fire Stick</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/sharing-wisdom-the-art-of-insta-duplication-for-2024/"><u>Sharing Wisdom The Art of Insta Duplication for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-blue-tint-issues-on-screens-discover-these-8-remedies/"><u>Solving Blue Tint Issues on Screens - Discover These 8 Remedies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-for-resetting-your-iphone/"><u>Step-by-Step Instructions for Resetting Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-evolution-continues-with-apples-brand-new-iphone-launch-event/"><u>The Evolution Continues with Apple's Brand-New iPhone Launch Event</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-addressing-and-correcting-kernel32dll-complications-in-windows/"><u>The Ultimate Fix: Addressing and Correcting Kernel32.dll Complications in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-what-to-do-if-stadia-gaming-headset-connection-fails/"><u>Troubleshooting Steps: What To Do If Stadia Gaming Headset Connection Fails</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-starters-manual-mastering-the-basics-of-household-sound-systems/"><u>Ultimate Starter's Manual: Mastering the Basics of Household Sound Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-repairing-the-avcodecdll-missing-error-a-comprehensive-guide/"><u>Understanding and Repairing the Avcodec.dll Missing Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-wireless-protocols-a-guide-to-80211be-80211ax-and-more/"><u>Understanding Wireless Protocols: A Guide to 802.11Be, 802.11Ax, and More</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/verizons-role-in-shaping-the-present-landscape-of-5g-networks/"><u>Verizon's Role in Shaping the Present Landscape of 5G Networks</u></a></li>
+</ul></div>
