@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Performing a Hard Reset on All Lenovo Laptop Models
-date: 2024-09-09T16:43:36.790Z
-updated: 2024-09-10T16:43:36.790Z
+date: 2024-09-13T22:43:40.186Z
+updated: 2024-09-15T17:33:46.446Z
 categories:
   - BestProducts
 description: This Article Describes Expert Tips for Performing a Hard Reset on All Lenovo Laptop Models
@@ -9,23 +9,11 @@ excerpt: This Article Describes Expert Tips for Performing a Hard Reset on All L
 thumbnail: https://www.lifewire.com/thmb/Fq16m0NQY-_nhfott8MIvMaFiI8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/christian-salas-DjGRskJdBws-unsplash-972e0e380ece40ceb4fdfdedb3fbc7e2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keyboard Malfunctions? Here's How to Get It Back in Working Order
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9 Ways to Fix the Problem
 
  A number of issues could be causing the keyboard to stop typing. Here are some solutions we've seen work:  
@@ -50,12 +38,6 @@ thumbnail: https://www.lifewire.com/thmb/Fq16m0NQY-_nhfott8MIvMaFiI8=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -69,12 +51,6 @@ thumbnail: https://www.lifewire.com/thmb/Fq16m0NQY-_nhfott8MIvMaFiI8=/400x300/fi
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bryan Natanael / Unsplash
 
  FAQ
@@ -104,8 +80,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,48 +89,25 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-mastering-logo-design-10-keys-to-podcast-prominence-for-2024/"><u>[New] Mastering Logo Design 10 Keys to Podcast Prominence for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-sweeping-vistas-with-your-iphone-social-media-360-tips-for-2024/"><u>[New] Sweeping Vistas with Your iPhone Social Media 360 Tips for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-androids-best-practice-for-saving-gameplay-videos/"><u>[Updated] 2024 Approved Android's Best Practice for Saving Gameplay Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[Updated] In 2024, The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-key-to-dramatic-contrast-in-hdr-portrait-photography/"><u>[Updated] The Key to Dramatic Contrast in HDR Portrait Photography</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-barely-there-to-top-rated-the-youtube-growth-arc/"><u>2024 Approved From Barely There to Top Rated The Youtube Growth Arc</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-individual-to-institutional-growth-in-youtube-space/"><u>2024 Approved From Individual to Institutional Growth in YouTube Space</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-steps-to-activate-auto-hdr-feature-in-windows-11/"><u>2024 Approved Steps to Activate Auto-HDR Feature in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-to-correcting-missing-d3d9dll-error-codes/"><u>A Step-by-Step Guide to Correcting 'Missing' d3d9.dll Error Codes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asetek-unveils-groundbreaking-ai-enhanced-ecam-cooling-system-pioneering-production-via-advanced-3d-metal-additive-manufacturing-and-partnership-with-fabric1/"><u>Asetek Unveils Groundbreaking AI-Enhanced ECAM Cooling System - Pioneering Production via Advanced 3D Metal Additive Manufacturing and Partnership with Fabric8 Labs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-fixes-for-a-windows-computers-unresponsive-bluetooth-mouse/"><u>Common Fixes for A Windows Computer's Unresponsive Bluetooth Mouse</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-to-rectify-the-pdhdll-not-found-mistake/"><u>Comprehensive Solutions to Rectify the pdh.dll Not Found Mistake</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-and-enjoy-watch-apple-tvplus-content-on-any-screen-with-chromecast/"><u>Connect and Enjoy: Watch Apple TV+ Content on Any Screen with Chromecast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-8-alternative-messaging-platforms/"><u>Discover the Best 8 Alternative Messaging Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dissecting-zoom-glitches-technical-hurdles-or-user-connectivity-woes/"><u>Dissecting Zoom Glitches: Technical Hurdles or User Connectivity Woes?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-education-with-these-9-must-have-tech-tools-for-students/"><u>Elevate Your Education with These 9 Must-Have Tech Tools for Students</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-engagement-a-guide-to-adding-gifs-in-insta-responses/"><u>Enhance Your Engagement: A Guide to Adding GIFs in Insta Responses</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-picks-premier-apps-for-your-samsung-smart-tv/"><u>Expert Picks: Premier Apps for Your Samsung Smart TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-10-popular-and-free-email-providers-our-picks/"><u>Explore These 10 Popular and Free Email Providers – Our Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-functionality-of-digital-video-recorders-dvrs-a-comprehensive-guide/"><u>Exploring the Functionality of Digital Video Recorders (DVRs): A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fire-stick-and-projector-setup-made-easy-expert-connectivity-advice/"><u>Fire Stick & Projector Setup Made Easy: Expert Connectivity Advice</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-to-know-the-most-recent-macbook-from-apple-what-just-debuted/"><u>Get to Know the Most Recent MacBook From Apple - What Just Debuted?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-resolving-the-no-internet-access-problem-on-microsoft-surface-pro-devices/"><u>Guide: Resolving the 'No Internet Access' Problem on Microsoft Surface Pro Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-many-phone-generations-should-pass-before-an-upgrade/"><u>How Many Phone Generations Should Pass Before an Upgrade?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-physxloaderdll-is-missing-or-not-found-errors/"><u>How to Fix Physxloader.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722894483241-how-to-successfully-terminate-your-active-status-on-tiktok/"><u>How to Successfully Terminate Your Active Status on TikTok</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-free-divx-video-editors-top-6/"><u>In 2024, Cutting-Edge Free Divx Video Editors Top 6</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-free-resource-pack-high-quality-pp-samples/"><u>In 2024, The Ultimate Free Resource Pack High-Quality PP Samples</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-productivity-a-guide-to-effective-work-on-slack/"><u>Mastering the Art of Productivity: A Guide to Effective Work on Slack</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/personalize-your-casting-experience-setting-new-chromecast-wallpaper/"><u>Personalize Your Casting Experience: Setting New Chromecast Wallpaper</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-integrating-apple-homepod-and-tv-setup/"><u>Step-by-Step Instructions on Integrating Apple HomePod and TV Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-downloading-windows-7-compatible-keyboard-drivers/"><u>Step-by-Step Tutorial on Downloading Windows 7 Compatible Keyboard Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-getting-started-with-pokemon-go/"><u>The Ultimate How-To: Getting Started with Pokémon GO</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-dvd-bd-and-cd-drives-step-by-step-guide-to-resolve-unresponsive-slot-issues/"><u>Troubleshooting DVD, BD & CD Drives: Step-by-Step Guide to Resolve Unresponsive Slot Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-when-your-ipad-cant-access-wi-fi-networks/"><u>Troubleshooting Tips for When Your iPad Can’t Access Wi-Fi Networks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unboxing-the-line-messenger-a-detailed-user-experience-report/"><u>Unboxing the LINE Messenger: A Detailed User Experience Report</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-distinction-between-hulu-basic-plan-and-hulu-premium-service/"><u>Understanding The Distinction Between Hulu Basic Plan and Hulu Premium Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unified-contact-points-how-to-keep-one-phone-number-on-various-devices/"><u>Unified Contact Points: How to Keep One Phone Number on Various Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-6-key-factors-leading-to-constant-car-battery-issues/"><u>Unveiling 6 Key Factors Leading to Constant Car Battery Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-applee-recent-addition-the-newest-macbook-on-the-market/"><u>Unveiling Apple'e Recent Addition: The Newest MacBook on the Market</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-mystery-of-the-apple-car-insider-info-on-cost-schedule-and-features/"><u>Unveiling the Mystery of the Apple Car - Insider Info on Cost, Schedule, & Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-ultimate-resource-enjoying-fandango-entertainment-on-an-amazon-fire-stick-complete-guide/"><u>Your Ultimate Resource: Enjoying Fandango Entertainment on an Amazon Fire Stick - Complete Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-swift-fixes-to-rectify-non-sending-videos-on-the-social-networking-platform-iphoneandroid/"><u>[New] In 2024, Swift Fixes to Rectify Non-Sending Videos on the Social Networking Platform iPhone/Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-olyx-zones-the-creme-de-la-snowspeedcross/"><u>[New] OlyX-Zones The Crème De La Snowspeedcross</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722883199172-all-you-need-to-know-about-samsungs-new-marvel-the-galaxy-z-fold-6-specs-and-release-insights/"><u>All You Need to Know About Samsung's New Marvel: The Galaxy Z Fold 6 Specs and Release Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-itel-s23-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Itel S23.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boost-your-following-with-these-top-insta-apps/"><u>Boost Your Following with These Top Insta Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-selection-of-free-malware-defenders-2024-edition/"><u>Discover the Ultimate Selection of Free Malware Defenders - 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-gaming-experience-with-amd-radeon-v2410-video-card-drivers-download-guide/"><u>Enhance Your Gaming Experience with AMD Radeon v24.10 Video Card Drivers Download Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-can-you-tell-if-your-boss-is-watching-your-every-move-online/"><u>How Can You Tell If Your Boss Is Watching Your Every Move Online?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-tips-from-toms-hardware-experts/"><u>Mastering PC Building Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumored-details-of-the-next-apple-watch-model-x-expected-release-date-price-points-and-features/"><u>Rumored Details of the Next Apple Watch Model X: Expected Release Date, Price Points, and Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-what-to-do-if-your-amazon-firestick-remote-wont-work/"><u>Step-by-Step Solutions: What to Do If Your Amazon Firestick Remote Won't Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-all-the-game-tonight-getting-fubotv-working-on-fire-stick/"><u>Watch All the Game Tonight! Getting FuboTV Working on Fire Stick</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-blue-screen-blues-heres-how-to-end-the-loop-of-unexpected-reboots/"><u>Windows 10 Blue Screen Blues? Here's How to End the Loop of Unexpected Reboots!</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

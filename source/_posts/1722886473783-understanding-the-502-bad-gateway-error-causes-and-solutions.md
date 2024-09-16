@@ -1,7 +1,7 @@
 ---
 title: Understanding the 502 Bad Gateway Error - Causes & Solutions
-date: 2024-09-09T16:37:32.917Z
-updated: 2024-09-10T16:37:32.917Z
+date: 2024-09-14T22:28:35.323Z
+updated: 2024-09-16T01:35:23.005Z
 categories:
   - BestProducts
 description: This Article Describes Understanding the 502 Bad Gateway Error - Causes & Solutions
@@ -14,12 +14,6 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 
  Below are five ways to back up the data on your computer, whether it's photos, videos, documents, or any other file. Each method has its unique pros and cons, which we've listed below to help you make the right decision for your situation.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Store Files Online
 
  What We Like
@@ -45,12 +39,6 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 
 [19 of Our Favorite Free Cloud Storage Sites in 2024](https://www.lifewire.com/free-cloud-storage-1356638)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save It to an External Hard Drive
 
  What We Like
@@ -70,12 +58,6 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 
 [The Best External Hard Drives of 2024](https://www.lifewire.com/best-external-hard-drives-4050413)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Burn It to a CD, DVD, or Blu-Ray Disc
 
  What We Like
@@ -92,12 +74,6 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 
  Once the gold standard in data backup,[burning data to a disc](https://www.lifewire.com/best-free-burning-software-2438473) is now a much less popular, albeit still reliable, method of data backup. If your computer has an[optical disk drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) or you don't mind[purchasing an external one](https://www.lifewire.com/best-external-optical-drives-4584282) , this can be a simple and affordable way to back up data from your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save Data on a Flash Drive
 
  What We Like
@@ -117,25 +93,27 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 ![A USB Type-C flash drive plugged into a laptop](https://www.lifewire.com/thmb/o4zwAUdRXezBnmOA9P97SOEMdlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/USB_MusicSanDisk256GBUltraDualDriveGoUSBType-CFlashDrive-e849791982c74c769ea444bdd5bfbab4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Lifewire / Raymond Prince
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Save It to a NAS Device
 
  What We Like
@@ -183,8 +161,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,35 +170,12 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-amazing.techidaily.com/usb/"><u>揭曉：迅速且簡單的方法，如何逐一复制光碟到台式机或USB存储设备</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-for-connecting-nintendo-switch-device-to-your-television-screen/"><u>A Comprehensive Tutorial for Connecting Nintendo Switch Device to Your Television Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieving-fame-on-instagram-the-top-9-habits-of-stars-and-influencers/"><u>Achieving Fame on Instagram The Top 9 Habits of Stars and Influencers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/beginners-guide-to-best-entry-level-cams-2024/"><u>Beginner's Guide to Best Entry-Level Cams 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clearing-space-on-your-photoshop-scratch-disk-easy-fixes-and-tips/"><u>Clearing Space on Your Photoshop Scratch Disk – Easy Fixes and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-apples-tablet-os-updates-a-complete-reference-for-every-ipad-user/"><u>Decoding Apple's Tablet OS Updates: A Complete Reference for Every iPad User</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnose-and-cure-computer-crashes-with-these-proven-tips-for-stop-code-0x000003d/"><u>Diagnose and Cure Computer Crashes with These Proven Tips for Stop Code 0X00000^3D</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-elite-selection-of-17-laptops-dominating-2024/"><u>Discover the Elite Selection of 17 Laptops Dominating 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-video-editing-for-instagram-incorporating-background-music-effortlessly/"><u>DIY Video Editing for Instagram: Incorporating Background Music Effortlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-the-latest-nvidia-geforce-gtx-1650-super-graphics-driver-for-windows-11/"><u>Download the Latest NVIDIA GeForce GTX 1650 Super Graphics Driver for Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/elevating-visual-clarity-in-digital-facebook-broadcasts-for-2024/"><u>Elevating Visual Clarity in Digital Facebook Broadcasts for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elite-selection-of-android-smartwatch-apps-to-enhance-your-wearable-experience/"><u>Elite Selection of Android Smartwatch Apps to Enhance Your Wearable Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-your-discord-experience-with-custom-bot-additions/"><u>Enhancing Your Discord Experience with Custom Bot Additions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-picks-the-ultimate-selection-of-gratis-malware-defense-tools-2024-edition/"><u>Expert Picks: The Ultimate Selection of Gratis Malware Defense Tools - 2024 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-i-share-my-spotify-playlist-with-another-person-at-once/"><u>How Can I Share My Spotify Playlist With Another Person At Once?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-make-your-mac-detect-an-external-screen-tips-and-tricks/"><u>How to Make Your Mac Detect an External Screen: Tips and Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-quickly-solve-missing-mscorwksdll-errors-on-your-computer-best-practices/"><u>How to Quickly Solve Missing mscorwks.dll Errors on Your Computer – Best Practices</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-turn-off-games-for-you-recommendations-on-windows-11/"><u>How to Turn Off Games for You Recommendations on Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-and-solving-problems-understanding-why-car-speakers-might-stop-working/"><u>Identifying and Solving Problems: Understanding Why Car Speakers Might Stop Working</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy M34 5G</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-poco-c51-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Poco C51 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-pokemon-unite-a-beginners-guide-to-excellence/"><u>Mastering Pokémon Unite: A Beginner's Guide to Excellence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/no-more-silent-meetings-effective-ways-to-address-black-screens-in-facetime-chats/"><u>No More Silent Meetings: Effective Ways to Address Black Screens in FaceTime Chats</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solve-androids-parse-problems-a-guide-to-eight-crucial-corrections/"><u>Solve Android's Parse Problems: A Guide to Eight Crucial Corrections</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-x-men-film-viewing-lineup-from-beginning-to-end/"><u>The Definitive X-Men Film Viewing Lineup From Beginning to End</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-msodll-disappearance-messages-on-pc/"><u>Troubleshooting Tips for 'Mso.dll' Disappearance Messages on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-capturing-screenshots-on-your-hp-notebook-effortlessly/"><u>Ultimate Guide: Capturing Screenshots on Your HP Notebook Effortlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-no-cost-access-to-netflix-effective-strategies-revealed/"><u>Unlocking No-Cost Access to Netflix: Effective Strategies Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-behind-computers-blue-screen-of-death/"><u>Unraveling the Mystery Behind Computer's Blue Screen of Death</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-find-x7-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-boost-your-posts-10-powerful-hashtags-you-cant-ignore/"><u>[New] In 2024, Boost Your Posts 10 Powerful Hashtags You Can't Ignore</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722898350876-discover-the-greatest-free-defrag-solutions-of-2024-ranked/"><u>Discover the Greatest Free Defrag Solutions of 2024 - Ranked!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-moto-g84-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Moto G84 5G Face Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nokia-105-classic-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nokia 105 Classic Face Lock?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-securely-acquire-video-game-experiences-on-your-oculus-quest-2-headset/"><u>How to Securely Acquire Video Game Experiences on Your Oculus Quest 2 Headset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g23-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G23 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-effective-management-of-your-tweets-with-a-content-calendar/"><u>Step-by-Step Tutorial: Effective Management of Your Tweets with a Content Calendar</u></a></li>
 </ul></div>
+

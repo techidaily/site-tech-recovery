@@ -1,0 +1,162 @@
+---
+title: "In-Depth Walkthrough: Enabling and Customizing PiP Viewing on Your Android Device"
+date: 2024-09-13T16:25:44.036Z
+updated: 2024-09-15T21:34:24.078Z
+categories:
+  - BestProducts
+description: "This Article Describes In-Depth Walkthrough: Enabling and Customizing PiP Viewing on Your Android Device"
+excerpt: "This Article Describes In-Depth Walkthrough: Enabling and Customizing PiP Viewing on Your Android Device"
+thumbnail: https://thmb.techidaily.com/88c6b83c6e65598f301ec5b1e8fb9b13fd16a0c81d9ff03972a4b84d06ac7c03.jpg
+---
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Stop Receiving AMBER Alerts on Your Android Device Today
+### What to Know
+
+* Search**Settings** for**emergency alerts** , and then toggle off**AMBER alerts** .
+* Each version of Android is slightly different, but the steps below should get you to the right place.
+
+ This article explains how to turn off AMBER alerts on various versions of the Android operating system.  
+
+## How to Turn Off AMBER Alerts on Most Androids
+
+ The "emergency alerts" options is where you go on most Android devices to disable these alerts.
+
+ Some versions of Android use slightly different steps, but this should get you most of the way there.
+
+1. Open the**Settings** app. It should be on the Home Screen, but you can also find it through a search.
+2. Select**Notifications** . Or, if you see**Apps & notifications** , choose that instead.
+3. Select**Wireless emergency alerts** or**Advanced** \>**Emergency alerts** .  
+ Some versions of Android bury this option in a menu called**Advanced settings** .
+4. Tap the toggle next to**AMBER alerts** and anything else you want to turn off, like test alerts or notifications for extreme threats.  
+![The AMBER alerts toggle in Android Settings](https://www.lifewire.com/thmb/VdMK8CpGgsIxaUCa5fK8SNeXq8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/amber-alerts-android-4162530d8b1a4de19d5fbc3cef4f9614.png)  
+ There's also a toggle for**Vibration** . Disable that if you don't want your phone to vibrate for AMBER alerts.
+
+## How to Disable AMBER Alerts on Older Android Phones
+
+ Where you'll find the AMBER alert settings on your phone depends entirely on your Android version, and some phone makers modify the operating system even more. Try these steps if the above directions don't work on your device:
+
+### Samsung Galaxy S10 or Galaxy S9
+
+ If you have one of these phones, look through the Connections area of the Settings app to turn off AMBER alerts.  
+
+1. Go to**Settings** .
+2. Tap**Connections** .
+3. Tap**More connection settings** .
+4. Tap**Wireless Emergency Alerts** .  
+![Screenshots showing the location of Wireless Emergency Alerts on Galaxy S9 and S10.](https://www.lifewire.com/thmb/xqb7ohcTiPKHSPNJuEdh2522tBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002a_Amber_Alert-c2813db398aa4354bfcabc28d9b5de0d.jpg)
+5. Tap the**Settings** menu (three dots) for**Wireless Emergency Alerts** .  
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![The menu icon for Wireless Emergency Alerts on Samsung S9 and S10.](https://www.lifewire.com/thmb/J6I5ImobfQn9WnSdLZsPULHngqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003a_Amber_Alerts-2b888448aaa4450a9a7700362db7babd.jpg)
+6. From the options that appear, select**Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+7. Select**Alert types** .
+8. Tap the toggle next to any alert you want to disable.  
+![Where to disable Amber Alerts in Galaxy S9 and S10.](https://www.lifewire.com/thmb/0qhMlSLm0pnhBIA0drPY5D-janU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004a_Amber_Alerts-9751e7c6b8954b5cbc42552d050fcf92.jpg)
+
+### Directions for Other Android Phones
+
+ The alert settings on some phones are in the Messaging window.
+
+1. Open**Messaging** .
+2. Select the**Menu** button in the upper-right corner, and choose**Settings** .
+3. Select**More** under**Advanced** .
+4. Tap**Emergency alerts** at the bottom of the list of options.  
+![Screenshots show how to access Amber Alert notifications on older model Android devices.](https://www.lifewire.com/thmb/qYmF76CuNifnEDlOfbTc63wYs54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001a_Amber_Alert-f0470bccc55847a5b611f9246595afd6.jpg)
+5. Clear the checkbox next to**AMBER alerts** and anything else you're not interested in, like imminent extreme alerts and public safety alerts.
+
+ If you want to receive AMBER alerts without the loud noise that accompanies them, scroll down on the alerts menu and disable the**Alert sound** slider. You can leave**Alert vibration** on if you want the phone to vibrate when there is an alert or disable this setting for a text notification only.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## AMBER and Emergency Alerts Explained
+
+ The AMBER Alert system is a voluntary partnership between law enforcement, broadcasters, transportation agencies, and the wireless industry to inform citizens of serious child abduction cases in their area.
+
+ Wireless emergency alerts are sent by authorized government alerting authorities through your mobile carrier. Wireless customers do not pay any connection or data fees when receiving WEA messages.
+
+ Along with AMBER alerts, most phones feature settings for other types of notifications. Weather alerts include warnings sent for tsunamis, tornados, flash floods, hurricanes, and other extreme weather.
+
+ Presidential alerts will only occur during a national emergency. According to FEMA, Presidential alerts cannot be disabled.
+
+ FAQ
+
+* How do I turn off all notifications on Android?  
+ Notifications are turned off on an app-by-app basis. To disable notifications on the lock screen, go to**Settings** \> **Notifications** \> **Notifications on lock screen** . If you want to learn how to turn off notifications for each app, read how to so do here:[How to Turn off Notifications on Android](https://www.lifewire.com/turn-off-notifications-android-4590190) .
+* How do I see past notifications on Android?  
+ Go to**Settings** \> **Notifications** \> **Notification history** and toggle this feature on. If you are using an older version of Android, check out our article on[How to See the Notification History on Android](https://www.lifewire.com/see-the-notification-history-on-android-5093657) .
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-captivating-comic-relief-in-snapchat-graphics/"><u>[Updated] Captivating Comic Relief in Snapchat Graphics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-kickstart-profits-earnings-blueprint-for-periscope-novices/"><u>[Updated] Kickstart Profits Earnings Blueprint for Periscope Novices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-eliminating-the-suggest-next-function-on-instagram/"><u>Complete Guide: Eliminating the 'Suggest Next' Function on Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/exclusive-list-the-most-reliable-10-vimeo-downloader-apps-for-2024/"><u>Exclusive List The Most Reliable 10 Vimeo Downloader Apps for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disk-errors-with-advanced-windows-tools/"><u>Fixing Disk Errors with Advanced Windows Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a05-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A05 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-sony-xperia-1-v-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Sony Xperia 1 V Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-common-glitches-a-users-handbook-for-successful-instagram-story-uploads/"><u>Overcoming Common Glitches: A User’s Handbook for Successful Instagram Story Uploads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-screen-images-on-your-desktop-computer/"><u>Step-by-Step Guide: Capturing Screen Images on Your Desktop Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-checklist-what-to-know-when-shopping-for-a-used-ipad/"><u>The Ultimate Checklist: What to Know When Shopping for a Used iPad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-windows-11-search-issues-with-our-top-fixing-tips/"><u>Troubleshoot Windows 11 Search Issues with Our Top Fixing Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-trick-navigating-to-command-prompt-within-file-explorer-tabs/"><u>Ultimate Trick: Navigating to Command Prompt Within File Explorer Tabs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722886473783-understanding-the-502-bad-gateway-error-causes-and-solutions/"><u>Understanding the 502 Bad Gateway Error - Causes & Solutions</u></a></li>
+</ul></div>
+

@@ -1,0 +1,116 @@
+---
+title: Effective Strategies for Programming Your Twitter Content Calendar
+date: 2024-09-12T22:30:48.260Z
+updated: 2024-09-15T22:02:05.891Z
+categories:
+  - BestProducts
+description: This Article Describes Effective Strategies for Programming Your Twitter Content Calendar
+excerpt: This Article Describes Effective Strategies for Programming Your Twitter Content Calendar
+thumbnail: https://www.lifewire.com/thmb/4jmLsBRgyp5b6meI2wfMDpyuVSY=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+---
+
+## Effective Strategies for Programming Your Twitter Content Calendar
+
+Close 
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+###  What to Know
+
+* Tweetdeck used to be the best option, but it's no longer available for free.
+* Instead, use the X website: Click the**Post** button and prepare your post, and then click the**Calendar** icon.
+* Set the time and date, and then click**Confirm** and**Post** .
+
+ This article shows you how to schedule a post on X (formerly Twitter). Instructions apply to the web version.
+
+##  How to Post on X at a Specific Time and Date
+
+ If you won't be available to post an update at a specific time, or if you want to spread your updates over the course of the day, schedule your posts ahead of time to be sent out automatically whenever you want your posts to be seen.
+
+1. On the official X website, select the**Post** button.  
+![The Post button on the X website](https://www.lifewire.com/thmb/kODqtwgCG_utfhxJkeVCaUQfrjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Post-Button-9fb3a535f0774c7889c86d970aab3532.jpg)
+2. Type your post, including any pictures,[ hashtags](https://www.lifewire.com/what-is-a-hashtag-on-twitter-3486592) , or links.
+3. Select the**Calendar** icon below the text box.  
+![The Schedule button on a post in X](https://www.lifewire.com/thmb/vrJnjjD_DCHzo3kF2BhajO4xfQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Calendar-button-11f169a9f66a4db3b0e71bf23ed5ec85.jpg)
+4. Set the time and date you want your post to appear on your feed.  
+![The Scheduling window on X](https://www.lifewire.com/thmb/clkGGFkS34aHMm_kGrKS_TyiVvM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scheduling-e09c4715c3c44be7807245933c87304d.jpg)
+5. Click**Confirm** .  
+![The Confirm button in the X scheduling window](https://www.lifewire.com/thmb/0JlbmacV2cRTciboTAmepsQhjt4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Confirm-button-9c0a9c15e68646c5bbff3aaa701861ea.jpg)
+6. You can make any changes and confirm the date and time your post will go up. When you're ready, click**Schedule** .  
+![The Schedule button on X](https://www.lifewire.com/thmb/7_4sGTloRIVKknu-4Gb49dHNlm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Schedule-Button-a70aba374b9e4599b194e0c705d5a97a.jpg)
+7. The post will automatically appear on your feed at the scheduled time.
+
+##  Where to Find Your Scheduled Posts on X
+
+ Before scheduled posts go up, you can still view and edit them. Here's how.
+
+1. Click the**Post** button on the X website.  
+![The Post button on the X website](https://www.lifewire.com/thmb/kODqtwgCG_utfhxJkeVCaUQfrjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Post-Button-9fb3a535f0774c7889c86d970aab3532.jpg)
+2. Choose the**Calendar** icon.  
+![The Schedule button on a post in X](https://www.lifewire.com/thmb/vrJnjjD_DCHzo3kF2BhajO4xfQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Calendar-button-11f169a9f66a4db3b0e71bf23ed5ec85.jpg)
+3. Select**Scheduled Posts** at the bottom of the window.  
+![The "Scheduled Posts" option in the X scheduling window](https://www.lifewire.com/thmb/LRov2Y35CCFV1etxD_0QgQoM7Eo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scheduled-posts-61ca24c75a74413da23fb02c9e084390.jpg)
+4. You'll see a list of your scheduled post(s). Select the one you want to edit or reschedule.
+5. Adjust the text as needed; click the**Calendar** icon again to change when the post will go up.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+##  What Happened to Tweetdeck?
+
+ The best option for pre-writing posts used to be Tweetdeck, a free client that also let you manage several feeds and accounts simultaneously. It also supported scheduling when the Twitter website didn't.
+
+ However, when Twitter became X, Tweetdeck changed to "X Pro." Unfortunately, it also stopped being free. You can't use X Pro without an X Premium membership, which has a monthly fee.
+
+ Luckily, however, scheduling came to the web version of X, and Tweetdeck/X Pro aren't necessary.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[ Subscribe ](https://www.lifewire.com/#) 
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand 
+
+ Submit 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-transforming-moments-samsungs-time-lapse-tutorial/"><u>[New] In 2024, Transforming Moments Samsung's Time-Lapse Tutorial</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-keep-it-lighthearted-a-straightforward-guide-to-posting-gifs-on-instagram-for-2024/"><u>[New] Keep It Lighthearted A Straightforward Guide to Posting GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/assessing-the-moisture-resistance-capabilities-of-the-upcoming-iphone-generation/"><u>Assessing the Moisture Resistance Capabilities of the Upcoming iPhone Generation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-top-5-iphone-gps-apps-that-dominate-in-performance/"><u>Discover the Top 5 iPhone GPS Apps that Dominate in Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722898790286-fire-stick-woes-heres-how-to-get-your-remote-working-again/"><u>Fire Stick Woes? Here's How to Get Your Remote Working Again</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-free-photo-frame-video-downloads-for-2024/"><u>Mastering Free Photo Frame Video Downloads for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-articulation-guide-french-vibrance/"><u>Quick Articulation Guide: French Vibrance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-academic-advantages-with-microsofts-cost-saving-scholar-programs/"><u>Unlocking Academic Advantages with Microsoft's Cost-Saving Scholar Programs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-banner-blueprints-a-gamers-design-handbook/"><u>YouTube Banner Blueprints A Gamers' Design Handbook</u></a></li>
+</ul></div>
+

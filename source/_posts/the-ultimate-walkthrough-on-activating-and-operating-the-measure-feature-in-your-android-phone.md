@@ -1,0 +1,122 @@
+---
+title: The Ultimate Walkthrough on Activating and Operating the Measure Feature in Your Android Phone
+date: 2024-09-12T01:58:21.623Z
+updated: 2024-09-15T18:33:08.860Z
+categories:
+  - BestProducts
+description: This Article Describes The Ultimate Walkthrough on Activating and Operating the Measure Feature in Your Android Phone
+excerpt: This Article Describes The Ultimate Walkthrough on Activating and Operating the Measure Feature in Your Android Phone
+thumbnail: https://www.lifewire.com/thmb/aafo5a8PocEHHkn0HwTOUut7MiA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MeasureApp-Android-4771692-d81f971c4dc14557a408dc6027bf9d93.jpg
+---
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## The Ultimate Walkthrough on Activating and Operating the Measure Feature in Your Android Phone
+### What to Know
+
+* Install Google Measure. Choose a well-lit surface and move the phone until you see white dots. Select**Start Measuring** .
+* Tap**\+ (Plus)** to choose start and endpoints. Tap the check mark, then use the**Camera** icon to save the measurement.
+* You can change the unit display in**Settings** (the three dots) if necessary.
+
+ Unless you're very prepared, you probably don't travel with a measuring tape. That makes it hard to measure that piece of furniture you found at a flea market or figure out whether a shipping box will fit in your car's trunk. Fortunately, there's the handy Google Measure app.
+
+ Google discontinued the Measure app in 2021, so this article exists only for historical purposes. There are dozens of similar[measurement apps for Android](https://www.lifewire.com/best-measurement-apps-for-android-4770629) available in the Play Store.
+
+## How to Use the Google Measure App
+
+ Once you've installed the Google Measure app on your phone, it's easy to use. The first time will be a little different, because there are options you can set up (such as how you want Display Units displayed: imperial or metric). After that, you can jump straight into measuring things when you open the app.
+
+ App performance differs based on each phone manufacturer's implementation of ARCore, Google's AR development kit, the camera performance, and the version of Android on the phone.
+
+1. Download Google Measure from the Google Play store, then launch the app and give it permission to use your camera and phone storage.  
+ Google Measure works with any[ARCore compatible Android devices](https://developers.google.com/ar/discover/supported-devices#android%5Fplay) , such as Pixel smartphones, Nokia 6+ smartphones, and most LG and Samsung smartphones running Android 8.0 and higher. Please check compatibility before using the Google AR Measure app.
+2. Tap the**three dots** to open the settings. Change the units display as necessary.
+3. Tap above the settings pop-up to return to the app.
+4. Choose a well-lit, textured surface or item to measure. Items with defined edges work best.
+5. Move your phone around to activate the measuring features.
+6. Once you see a series of white dots appear over the item you're measuring and the hand disappears, the app is ready.
+7. Tap**Start measuring** (if this is your first time using the app; otherwise, proceed to the next step). A yellow circle and dot appear on the screen.  
+![three dot menu, moving phone around, start measuring](https://www.lifewire.com/thmb/r-aSe4yRYS4qsDwVX4AByDreQ5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-use-google-measure-on-android-4771692-9de5f34491064011a7b03d8483001400.jpg)
+8. Move the yellow dot to the starting point of your measurements by moving your phone. Tap the**+** **(Plus)** .
+9. Move the dot to the end point by moving your phone. The app shows the approximate distance between the start and end points.
+10. Tap the checkmark to finish the measurement. You can now save your measurements as an image or continue to measure the height of an item.
+11. To measure the height of an item, move the yellow dot to the starting point and tap the**Plus (+)** . A white dotted line will appear.
+12. Move your phone upwards to measure the height and tap the**Checkmark** .
+13. Tap the**Camera** icon to save your measurements to your Google Photos app.  
+![Measuring from the bottom of a door, the top of a door, and camera icon](https://www.lifewire.com/thmb/HYHSDqq0c_PApPjGs96NgjM2JJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-use-google-measure-on-android-4771692-47f3152c24d94b3481dc310d9d7455fc.jpg)
+
+## How Google Measure Uses AR to Work
+
+ The Google Measure app uses[ARcore](https://developers.google.com/ar) to translate real-world content virtually onto your phone. At a basic level, the[AR functionality](https://www.lifewire.com/applications-of-augmented-reality-2495561) in Android is tracking the position of your mobile device as it moves, then builds its own version of the real world. From there, it can use the digital recreation to insert virtual images, items, and more from the app that's using it.
+
+ For example, you might try redecorating your living room with the AR feature of the[Amazon Shopping app](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping) to see how furniture would look in your house. That way, you can visually decide if the new furniture will work in the space that's available to you.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Improve the Accuracy of Google Measure
+
+ There are a few tips you can use to increase the accuracy of the Measure app on your phone, including:
+
+* Make sure your item is in a well-lit area.
+* High-contrast items on a neutral background will work best.
+* Avoid reflections on the item to be measured and any shadows.
+* Update your Android device to ensure you've got the latest version of the OS.
+* Update your Measure app to ensure you've got the latest version.
+* Try angling your phone to change the line the app is measuring.
+
+[How to Use the Clipboard on Android Phones](https://www.lifewire.com/using-the-clipboard-on-android-phones-4766586)
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-a-youtube-empire-26-successful-techniques/"><u>[New] 2024 Approved Crafting a YouTube Empire 26 Successful Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smart-selective-blur-for-enhanced-mobile-photography/"><u>[New] Smart Selective Blur for Enhanced Mobile Photography</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-reestablishing-communication-with-a-non-responsive-obs-cam-for-2024/"><u>[Updated] Reestablishing Communication with a Non-Responsive OBS Cam for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-stifled-expression-sudden-copyright-breach/"><u>[Updated] Stifled Expression Sudden Copyright Breach</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-rideshare-apps-more-economical-than-traditional-taxis/"><u>Are Rideshare Apps More Economical than Traditional Taxis?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertly-tailored-shots-with-10-initial-free-customizable-lut-packages-for-2024/"><u>Expertly Tailored Shots with 10 Initial Free, Customizable LUT Packages for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improve-your-macos-performance-by-flushing-the-dns-cache/"><u>Improve Your macOS Performance by Flushing the DNS Cache</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-free-animated-logo-design-software/"><u>In 2024, Discover the Best Free Animated Logo Design Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-discover-the-best-practices-to-master-snapchats-video-timeline/"><u>In 2024, Discover the Best Practices to Master Snapchat's Video Timeline</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-outlooks-spell-check-malfunction-a-step-by-step-guide/"><u>Solving Outlook's Spell Check Malfunction: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-dealing-with-msvbvm50dll-not-found-or-missing-malfunction/"><u>Step-by-Step Solutions: Dealing with MSVBVM50.DLL Not Found or Missing Malfunction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-effective-management-of-your-tweets-with-a-content-calendar/"><u>Step-by-Step Tutorial: Effective Management of Your Tweets with a Content Calendar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-tecno-camon-20-premier-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Camon 20 Premier 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-for-users-with-locked-or-inactive-instagram-profiles/"><u>Troubleshooting for Users with Locked or Inactive Instagram Profiles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-elite-five-for-privacy-centric-email-solutions/"><u>Unveiling the Elite Five for Privacy-Centric Email Solutions</u></a></li>
+</ul></div>
+
