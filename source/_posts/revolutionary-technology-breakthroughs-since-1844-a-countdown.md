@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Technology Breakthroughs Since 1844: A Countdown"
-date: 2024-09-09T23:52:21.913Z
-updated: 2024-09-15T21:35:34.824Z
+date: 2024-09-18T19:16:07.970Z
+updated: 2024-09-21T01:59:14.276Z
 categories:
   - BestProducts
 description: "This Article Describes Revolutionary Technology Breakthroughs Since 1844: A Countdown"
@@ -58,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 EdnaM / Getty Images
@@ -78,13 +72,6 @@ EdnaM / Getty Images
 
  The personal computer we all know today exploded once IBM introduced the IBM PC in 1981\. Once businesses adopted it, the entire industry expanded to produce all the products we know and use today.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Global Positioning System — 1970s
 
 ![Satellite in foreground, Earth and rising Sun in background](https://www.lifewire.com/thmb/4j6-zIts28nfLPj-zcJ1Pt9zw3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1032649842-5c2d15de46e0fb0001ea64df.jpg)
@@ -93,9 +80,23 @@ EdnaM / Getty Images
 
  The system can triangulate data and pinpoint your location, and it powers the GPS devices and apps that people use now to get around.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Internet: ARPANET — 1973
 
 ![Arpanet Map from May 1973](https://www.lifewire.com/thmb/fsyBzcuavn9WlcR_Ve8EK_dlpro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Arpanet_map_1973-2983e062888f4a23a9ec989af0c6f487.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ARPANET /Public domain
 
@@ -109,6 +110,13 @@ ARPANET /Public domain
 
 ![San Francisco, California scenics](https://www.lifewire.com/thmb/JBcxbVh9X27hnW5roLmvGZOywbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/san-francisco--california-scenics-1048327060-238a789e54b94cf799aee655c2f19c1b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Robert Alexander / Getty Images
 
  Thanks to GPS (see above), getting lost is becoming a more and more rare occurrence.
@@ -119,16 +127,16 @@ ARPANET /Public domain
 
 [How to Plan an Alternate Route With Google Maps](https://www.lifewire.com/alternate-route-plan-google-maps-1616470)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Digital Camera — 1990s
 
 ![3rd Annual Kodak Awards, February 15, 2019](https://www.lifewire.com/thmb/cayBRtQKgfVN8wWhxkH2-SxSTwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3rd-annual-kodak-awards--february-15--2019-1125163754-9bc15e8e2dbe4be18b8ad4369c4a929d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Getty Images for Kodak Motion Picture & Entertainment / Getty Images
 
@@ -138,23 +146,9 @@ ARPANET /Public domain
 
  Digital cameras are everywhere now, from security cameras to smartphones and laptop and desktop computers. Even the least expensive product with a camera embedded in it is far better than those cameras from the early days.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Web Browser — 1994
 
 ![Mosaic web browser](https://www.lifewire.com/thmb/ZHIWa9h-A3m6SDVXmfSIkj-wQP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NCSA_Mosaic_Browser_Screenshot-2f1f4b065a284b37bb79f433cc515659.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Programm: National Center for Supercomputing Applications/CC0
 
@@ -213,21 +207,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-navigating-negative-space-how-to-flip-vids-on-instagram/"><u>[New] 2024 Approved Navigating Negative Space How to Flip Vids on Instagram</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-enhance-visibility-a-comprehensive-guide-to-video-tagging-for-2024/"><u>[New] Enhance Visibility A Comprehensive Guide to Video Tagging for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-professional-video-demos-harnessing-captivates-power/"><u>2024 Approved Professional Video Demos Harnessing Captivate's Power</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/anonymous-surveillance-methods-hiding-private-data-effectively-for-2024/"><u>Anonymous Surveillance Methods Hiding Private Data Effectively for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722902936100-apples-anticipated-touch-enabled-macbook-a-glimpse-into-its-potential-launch-date-cost-and-features/"><u>Apple's Anticipated Touch-Enabled MacBook: A Glimpse Into Its Potential Launch Date, Cost & Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/common-reasons-behind-apple-watch-touch-screen-issues-how-to-resolve-them/"><u>Common Reasons Behind Apple Watch Touch Screen Issues – How to Resolve Them</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-assessing-djis-flight-vision-tx-headset-performance/"><u>In 2024, Assessing DJI's Flight Vision TX Headset Performance</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/masterclass-in-timelapse-capture-via-gopro-studio-for-2024/"><u>Masterclass in Timelapse Capture via GoPro Studio for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-zlibdll-is-missing-challenges-with-easy-fixes/"><u>Overcoming 'zlib.dll Is Missing' Challenges with Easy Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solutions-to-resolve-dbghelpdll-file-missing-error/"><u>Solutions to Resolve 'dbghelp.dll' File Missing Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-exploration-of-modern-wi-fi-standards-discovering-802/"><u>Step by Step Exploration of Modern Wi-Fi Standards - Discovering 802</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-converting-grouped-jpegs-to-a-single-pdf-document/"><u>Step-by-Step Process: Converting Grouped JPEGs to a Single PDF Document</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010145659-step-by-step-tutorial-to-resolve-fifa-2pc-instability-issues-everything-you-need-to-know/"><u>Step-by-Step Tutorial to Resolve FIFA 2#PC Instability Issues - Everything You Need to Know!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-creatives-choice-exploring-17-superior-graphics-software-solutions/"><u>The Creatives' Choice: Exploring 17 Superior Graphics Software Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-5-pro-tips-to-perfectly-tag-videos-and-maximize-views/"><u>[Updated] In 2024, 5 Pro Tips to Perfectly Tag Videos and Maximize Views</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>[Updated] In 2024, The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-leading-digital-image-grabbers/"><u>[Updated] Leading Digital Image Grabbers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoid-lag-and-enhance-engagement-mastering-xboxs-zooming-features/"><u>2024 Approved Avoid Lag & Enhance Engagement Mastering Xbox's Zooming Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ceskoslovenske-pravidelnosti-top-20-konvertoru-videa-pro-windows-gratkovy-programovaci-oddil-bez-platu/"><u>Československé Pravidelnosti Top 20 Konvertorů Videa Pro Windows: Grátkový Programovací Oddíl Bez Platu</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-konvertisseur-and-uitkomsten/"><u>Gratis, Online Konvertisseur, and Uitkomsten.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a56s-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A56s 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-3gpp-m4a/"><u>Movavi: 가상 공간을 이용한 3GPP M4A 비주얼 자동화 - 무료</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformer-gratuitement-un-fichier-avi-en-format-flac-en-ligne-guerison-rapide-de-movavi/"><u>Transformer Gratuitement Un Fichier AVI en Format FLAC en Ligne - Guérison Rapide De Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-xr-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone XR</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tga-bmp/"><u>무료 인터넷 용인 - TGA 폴리스타일을 BMP으로 전환하기</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-photos-movavi/"><u>무세액의 Google Photos 아카이브에서 오띰민 비디오를 원자시 윙어 - Movavi 도구 사용</u></a></li>
 </ul></div>
 

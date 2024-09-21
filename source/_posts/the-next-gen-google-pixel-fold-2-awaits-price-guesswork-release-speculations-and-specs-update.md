@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen Google Pixel Fold 2 Awaits: Price Guesswork, Release Speculations and Specs Update"
-date: 2024-09-10T22:23:01.233Z
-updated: 2024-09-15T22:08:14.365Z
+date: 2024-09-18T02:01:16.240Z
+updated: 2024-09-20T23:58:32.168Z
 categories:
   - BestProducts
 description: "This Article Describes The Next-Gen Google Pixel Fold 2 Awaits: Price Guesswork, Release Speculations and Specs Update"
@@ -52,13 +52,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -69,22 +62,15 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display
 
@@ -106,17 +92,38 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 MySmartPrice
 
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -125,19 +132,6 @@ MySmartPrice
  The Pixel 9 Pro might come with more RAM this year. An unnamed source with access to a purported Pixel 9 Pro (via[Rozetked](https://rozetked.me/news/33143-eksklyuziv-zhivye-foto-google-pixel-9-pro-ot-rozetked) ) claims the phone will have an additional 4 GB of RAM compared to last year's device, shooting it up to 16 GB of total memory.
 
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
 
@@ -162,14 +156,14 @@ MySmartPrice
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-trends-that-triumph-making-your-instagram-content-viral/"><u>[New] 2024 Approved Trends That Triumph Making Your Instagram Content Viral</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pubg-voice-transformation-hacks/"><u>[Updated] PUBG Voice Transformation Hacks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-and-install-asus-screen-drivers-in-a-flash/"><u>Download & Install ASUS Screen Drivers in a Flash</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-legacy-of-yahoo-messenger-and-insights-into-its-end-date/"><u>Exploring the Legacy of Yahoo! Messenger and Insights Into Its End Date</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-v27-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo V27 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-livestream-quality-decision-opt-for-streamlabs-or-obs/"><u>In 2024, Livestream Quality Decision Opt for Streamlabs or OBS?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mozilla-thunderbird-update-version-52-features-and-improvements/"><u>Mozilla Thunderbird Update: Version 52 Features and Improvements</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolve-your-wpcapdll-file-not-found-issues-step-by-step-guide/"><u>Resolve Your WPCapDLL File Not Found Issues - Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-note-30i-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix Note 30i Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-propel-your-productivity-with-mematic-tech/"><u>[New] In 2024, Propel Your Productivity with Mematic Tech</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essayer-le-genie-de-la-retouche-photo-movavi-gratuitement-sur-votre-ordinateur/"><u>Essayer Le Génie De La Retouche Photo Movavi Gratuitement Sur Votre Ordinateur</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-user-friendly-nature-of-amazon-lunas-game-streaming-platform/"><u>Exploring the User-Friendly Nature of Amazon Luna's Game Streaming Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-et-precis-top-des-edits-photographiques-ai-integrez-lia-dans-votre-retouche/"><u>Gratuit Et Précis : Top Des Edits Photographiques AI - Intégrez L'IA Dans Votre Retouche</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s17-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S17 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-thought-processes-mematic-app/"><u>In 2024, Transform Your Thought Processes - Mematic App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/live-streaming-the-champions-league-a-comprehensive-guide/"><u>Live Streaming the Champions League: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revamp-your-rust-projects-pro-tips-for-fixing-unresponsiveness/"><u>Revamp Your Rust Projects: Pro Tips for Fixing Unresponsiveness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-gadget-analysis/"><u>Tom's Tech Review: Comprehensive Gadget Analysis</u></a></li>
 </ul></div>
 

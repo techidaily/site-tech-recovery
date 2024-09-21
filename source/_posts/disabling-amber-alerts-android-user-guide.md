@@ -1,7 +1,7 @@
 ---
 title: "Disabling AMBER Alerts: Android User Guide"
-date: 2024-09-12T16:51:27.703Z
-updated: 2024-09-15T18:57:47.121Z
+date: 2024-09-19T23:57:40.738Z
+updated: 2024-09-20T22:40:51.372Z
 categories:
   - BestProducts
 description: "This Article Describes Disabling AMBER Alerts: Android User Guide"
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
  Where you'll find the AMBER alert settings on your phone depends entirely on your Android version, and some phone makers modify the operating system even more. Try these steps if the above directions don't work on your device:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Samsung Galaxy S10 or Galaxy S9
 
  If you have one of these phones, look through the Connections area of the Settings app to turn off AMBER alerts.  
@@ -53,22 +60,22 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 ![The menu icon for Wireless Emergency Alerts on Samsung S9 and S10.](https://www.lifewire.com/thmb/J6I5ImobfQn9WnSdLZsPULHngqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003a_Amber_Alerts-2b888448aaa4450a9a7700362db7babd.jpg)
 6. From the options that appear, select**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Select**Alert types** .
 8. Tap the toggle next to any alert you want to disable.  
 ![Where to disable Amber Alerts in Galaxy S9 and S10.](https://www.lifewire.com/thmb/0qhMlSLm0pnhBIA0drPY5D-janU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004a_Amber_Alerts-9751e7c6b8954b5cbc42552d050fcf92.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Directions for Other Android Phones
@@ -81,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 4. Tap**Emergency alerts** at the bottom of the list of options.  
 ![Screenshots show how to access Amber Alert notifications on older model Android devices.](https://www.lifewire.com/thmb/qYmF76CuNifnEDlOfbTc63wYs54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001a_Amber_Alert-f0470bccc55847a5b611f9246595afd6.jpg)
 5. Clear the checkbox next to**AMBER alerts** and anything else you're not interested in, like imminent extreme alerts and public safety alerts.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to receive AMBER alerts without the loud noise that accompanies them, scroll down on the alerts menu and disable the**Alert sound** slider. You can leave**Alert vibration** on if you want the phone to vibrate when there is an alert or disable this setting for a text notification only.
 
@@ -137,13 +137,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-harnessing-testimonials-for-genuine-brand-connection/"><u>[Updated] 2024 Approved Harnessing Testimonials for Genuine Brand Connection</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-from-novice-to-influencer-a-step-by-step-fb-live-blueprint/"><u>[Updated] From Novice to Influencer A Step-by-Step FB Live Blueprint</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciding-when-its-time-to-leave-a-digital-gathering-place/"><u>Deciding When It’s Time to Leave a Digital Gathering Place</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-fix-the-failed-to-initialize-problem-with-battleye-services/"><u>Effective Solutions to Fix the 'Failed To Initialize' Problem with BattlEye Services</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ignoring-my-printer-what-to-do/"><u>Ignoring My Printer - What to Do?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-tutorial-handling-and-preventing-photoshops-scratch-disk-full-warning/"><u>Master Tutorial: Handling and Preventing Photoshop's 'Scratch Disk Full' Warning</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/repair-techniques-to-fix-visual-anomalies-like-discoloration-and-distortion-in-computer-display/"><u>Repair Techniques to Fix Visual Anomalies Like Discoloration and Distortion in Computer Display</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-free-ssd-and-hdd-diagnostic-apps-as-of-july-2024/"><u>The Ultimate List of Free SSD & HDD Diagnostic Apps as of July 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-blackout-brilliance-minute-edition-for-2024/"><u>[Updated] Blackout Brilliance Minute Edition for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-highlighting-progress-in-photo-shooting-algorithms/"><u>[Updated] In 2024, Highlighting Progress in Photo Shooting Algorithms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-youtube-thumbnails-for-mac-professionals/"><u>[Updated] The Art of YouTube Thumbnails for Mac Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/webnsvavimovavi/"><u>「フリーなWebサービス：NSV形式をAVIに変換するためのMovaviオプション」</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/section-2a-understanding-pituitamo-secreting-tumors/"><u>Section 2A: Understanding Pituitamo-Secreting Tumors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformar-video-asf-al-apto-mp4-por-alta-calidad-guia-completa-y-gratuita-herramienta-de-conversion-en-linea-de-movavi/"><u>Transformar Video ASF Al Apto MP4 Por Alta Calidad, Guía Completa Y Gratuita - Herramienta De Conversión en Línea De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformer-facilement-et-gratuitement-votre-fichier-pcx-en-png-en-utilisant-lediteur-en-ligne-de-movavi/"><u>Transformer Facilement Et Gratuitement Votre Fichier PCX en PNG en Utilisant L'éditeur en Ligne De Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ais-name-purpose-usage-and-price-in-light-of-musks-revelation-on-grok/"><u>Understanding AI's Name - Purpose, Usage & Price in Light of Musk's Revelation on Grok</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/web-gratis-tta-movavi-t1726233822718354/"><u>제공된 자동화를 사용하여 Web上で Gratis TTA 변환: Movavi 지원</u></a></li>
 </ul></div>
 

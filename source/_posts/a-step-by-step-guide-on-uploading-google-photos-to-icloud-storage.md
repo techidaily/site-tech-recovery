@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Uploading Google Photos to iCloud Storage
-date: 2024-09-12T22:59:50.385Z
-updated: 2024-09-16T00:07:42.917Z
+date: 2024-09-14T03:38:57.434Z
+updated: 2024-09-20T19:32:25.898Z
 categories:
   - BestProducts
 description: This Article Describes A Step-by-Step Guide on Uploading Google Photos to iCloud Storage
@@ -34,13 +34,6 @@ Close
 
  Currently, the only way to move your Google Photos over is to download them to your computer and then upload them to iCloud. There are three ways to do this, depending on how many items you want to copy over.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Download Everything at Once
 
 [ Google Takeout](https://www.lifewire.com/what-is-google-takeout-4173795) is a free tool from Google built specifically for this purpose. Here's how to download all your Google Photos data to prepare for the transfer:
@@ -49,19 +42,6 @@ Close
 2. To export just your photos and videos, click**Deselect all** .  
 ![The Deselect all button highlighted in Google Takeout.](https://www.lifewire.com/thmb/p4IqdBEj0I2na538iKEeBDA6PLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TransferGooglePhotostoiCloud-annotated-2a4121c0566249e39083ecbf0c75cdad.jpg)
 3. Scroll down and check**Google Photos** .  
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Google Photos section of Google Takeout highlighted.](https://www.lifewire.com/thmb/syK6WxKXvcA704nO0sBFor8Jjzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-TransferGooglePhotostoiCloud-annotated-36ea0935db70436b8bf432e54e9d8cc7.jpg)  
  Select**All photo albums included** to change what Google Takeout should download. Saving everything from your account could take a while and might be excessive if you really just want to transfer specific albums to iCloud.
@@ -72,6 +52,20 @@ Close
 7. You'll get an email from Google Takeout when the files are ready to save to your computer. When the download is ready, save the ZIP file to your computer by pressing**Download** , and then unzip its contents to see all your downloaded photos and videos.  
 ![A pending Google Photos export on the Google Takeout page](https://www.lifewire.com/thmb/y-gT6gept8EWkJqTkSUV5dKTt_Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-takeout-export-49d703ee63ec4870b7d437ad632a6537.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Export Specific Photos and Videos Only
 
  Don't want to transfer_all_ your Google Photos data? We mentioned how to export certain albums above, but you can also download each item you want to put in iCloud. Here's how it works from the Google Photos website:
@@ -81,26 +75,13 @@ Close
 ![Where to select an individual picture to export in Google Photos.](https://www.lifewire.com/thmb/RQWYARjBtZ9r35sU-1v0TPcMWjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-TransferGooglePhotostoiCloud-annotated-63fc73b85b9b4e6fb06557561b0e2dd3.jpg)
 3. Press**Shift** +**d** on your keyboard. Or, go to the**three-dot menu** and choose**Download** .  
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The menu where you'll find the Download button in Google Photos.](https://www.lifewire.com/thmb/YrZrANf5D3RmUPrz6emI8K_v5Ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-TransferGooglePhotostoiCloud-annotated-64242f2901384a569a679f121939fd90.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Export From Your Phone
@@ -112,13 +93,6 @@ Close
 3. Select an app to send the photos through, like your email or a messaging service you can access on a computer.  
 ![Emailing images in Google Photos](https://www.lifewire.com/thmb/tzthUKKpkNxgJNWEtU4hZImCFoE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/share-images-google-photos-aeaa717a347c4e118721ca5f3aa7fa13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Is the Best Way to Move My Google Photos Into iCloud?
 
  With your Google Photos exported, you can now import them into iCloud. The easiest way to import photos into iCloud is through the iCloud website. Here's how:
@@ -127,8 +101,23 @@ Close
 2. From the**Library** tab, select the**cloud** icon on the right.  
 ![The Library tab and upload button in iCloud Photos](https://www.lifewire.com/thmb/HQtHaQvdrjVYJyeCB4yk96rz4iE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/icloud-photos-7e448b16dd48483ab3624824f38edc91.png)
 3. Find the folder you exported your Google Photos items to and then choose what to import into iCloud.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Two photos selected for upload to iCloud](https://www.lifewire.com/thmb/NviFEx3x3YwtVuNJRpaJ-_qfBzk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/icloud-images-uploaded-6a62cfdd9ea8486189ed8c52c7054fe5.png)  
  You might have to do some consolidation to make all your Google Photos files exist in the same folder for easy upload.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -166,16 +155,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-essential-insight-the-most-efficient-snipping-software-for-windows/"><u>[Updated] Essential Insight The Most Efficient Snipping Software for WINDOWS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-explore-the-power-of-easy-video-editing-in-photos-and-windows-11-for-2024/"><u>[Updated] Explore the Power of Easy Video Editing in Photos & Windows 11 for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-find-x7-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Find X7 Ultra to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-editing-perfecting-transitions-in-kinemaster/"><u>Advanced Editing Perfecting Transitions in Kinemaster</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-ussd-how-does-unstructured-supplementary-service-data-work/"><u>Demystifying USSD: How Does Unstructured Supplementary Service Data Work?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Pro Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-ground-to-sky-discovering-mavic-pro-wonders/"><u>In 2024, From Ground to Sky - Discovering Mavic Pro Wonders</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-xs-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone XS Max Without Passcode Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-time-online-comprehensive-steps-for-using-wayback-machine/"><u>Navigating Time Online: Comprehensive Steps for Using Wayback Machine</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-changing-your-login-credentials-on-formerlytwitter/"><u>Step-by-Step Instructions for Changing Your Login Credentials on FormerlyTwitter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-the-best-laser-etching-devices/"><u>Ultimate Selection: The Best Laser Etching Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-call-capturing-on-windowsmac-the-comprerances-list/"><u>[Updated] Efficient Call Capturing on Windows/Mac - The Comprerances' List</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-humorous-hits-lifetime-access-to-memes/"><u>[Updated] In 2024, Humorous Hits Lifetime Access to Memes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-understanding-absence-of-direct-messages/"><u>[Updated] In 2024, Understanding Absence of Direct Messages</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-selecting-the-ultimate-5-game-chat-devices-for-2024/"><u>[Updated] Selecting the Ultimate 5 Game Chat Devices for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-plus-reviewed-is-it-worth-adding-to-your-digital-toolbox/"><u>ChatGPT Plus Reviewed: Is It Worth Adding to Your Digital Toolbox?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vs-gasoline-vehicles-understanding-superior-ev-performance-factors/"><u>Electric vs Gasoline Vehicles: Understanding Superior EV Performance Factors</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhance-your-livestreams-with-manycam-leading-choice-for-virtual-camera-technology/"><u>Enhance Your Livestreams with ManyCam - Leading Choice for Virtual Camera Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-yt-music-streams-into-videos/"><u>In 2024, Incorporating YT Music Streams Into Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-significance-of-analytics-in-youtube-rank-enhancement/"><u>In 2024, The Significance of Analytics in YouTube Rank Enhancement</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-technique-correcting-errors-when-d3dx9cuestionado-esta-ausente-o-no-encontrado/"><u>Master the Technique: Correcting Errors When D3dx9_cuestionado Está Ausente O No Encontrado</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-find-x7-ultra-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Find X7 Ultra Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-vpn-error-code-800-on-clients-and-servers/"><u>Troubleshooting Guide: Resolving VPN Error Code 800 on Clients & Servers</u></a></li>
 </ul></div>
 

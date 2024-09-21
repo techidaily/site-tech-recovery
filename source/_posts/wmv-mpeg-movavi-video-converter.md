@@ -1,7 +1,7 @@
 ---
 title: 免費在網上 WMV 轉為 MPEG - 使用 Movavi Video Converter
-date: 2024-09-12 15:15:58
-updated: 2024-09-13 11:28:37
+date: 2024-09-18T23:02:02.209Z
+updated: 2024-09-21T05:29:45.921Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/134b4c3950f92b62491adfc9a2cfa838e49057f0eead8f917808b4db67b3f9f1.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -235,6 +242,19 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -309,6 +329,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -406,6 +433,13 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -510,6 +544,13 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -536,11 +577,27 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-circular-captures-iphone-filmmaking-tips-for-social-media/"><u>[New] In 2024, Circular Captures IPhone Filmmaking Tips for Social Media</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-evil-genius-2-no-sound/"><u>[Solved] Evil Genius 2 No Sound</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-auroras-role-in-enhancing-image-contrast/"><u>[Updated] Aurora's Role in Enhancing Image Contrast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-cinematic-trailer-collection/"><u>2024 Approved Ultimate Cinematic Trailer Collection</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cost-free-web-based-convertor-for-vob-and-flac-files-by-movavi/"><u>Cost-Free Web-Based Convertor for VOB and FLAC Files by Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-convertitore-pbm-online-movavi-trasforma-i-tuoi-file-senza-costi/"><u>Gratuito Convertitore PBM Online - Movavi: Trasforma I Tuoi File Senza Costi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-ou-com-preco-a-selecao-completa-dos-melhores-cartoes-de-festas-online-em-formato-digital/"><u>Gratuito Ou Com Preço: A Seleção Completa Dos Melhores Cartões De Festas Online Em Formato Digital</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-download-converter-de-ogv-para-gif-sem-custo-ferramenta-online-livre/"><u>Movavi: Download Converter De OGV Para GIF Sem Custo - Ferramenta Online Livre</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapidly-upgrade-intel-g3000-in-win11-systems/"><u>Rapidly Upgrade Intel G3000 in Win11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformez-votre-connexion-gsm-en-une-liaison-sans-fil-gratuit-grace-a-movavi-titre-seo-percutant-et-equivalent-au-precedent/"><u>Transformez Votre Connexion GSM en Une Liaison Sans Fil Gratuit Grâce À Movavi - Titre SEO Percutant Et Équivalent Au Précédent</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tv-mp3-movavi/"><u>오토바이오 TV 프로그램을 MP3로 전환: 원격 응용 - Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Tutorial Passo-a-Passo Para Redução Do Tamanho Dos Arquivos De Som WAV Usando Ferramentas Da Movavi
-date: 2024-09-12 10:15:15
-updated: 2024-09-13 10:35:13
+date: 2024-09-13T21:13:50.203Z
+updated: 2024-09-21T04:10:33.375Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb81eaf0425c85e3bbe8a07c5a.jpg
@@ -222,6 +222,13 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -278,6 +285,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -309,6 +323,19 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -394,6 +421,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Double-cliquez sur la valeur **REG\_DWORD EnablePrefetcher**.
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -492,6 +526,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment obtenir 60 fps dans un jeu ?
 
 Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer votre système en général, mais voici ce que vous pouvez faire :
@@ -536,11 +577,26 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-apex-series-select-7-top-fps-games/"><u>[New] In 2024, Apex Series Select 7 Top FPS Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unlocking-full-hd-magic-for-your-twitter-vidz/"><u>[New] In 2024, Unlocking Full HD Magic for Your Twitter Vidz</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-leaderboard-scratcher-youtube-trending-analysis-for-2024/"><u>[Updated] Essential Leaderboard Scratcher YouTube Trending Analysis for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertissez-votre-fichier-mp2-en-mouvideo-format-mov-sans-cout-avec-movavi-online/"><u>Convertissez Votre Fichier MP2 en Mouvidéo Format (MOV) Sans Coût Avec Movavi - Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descubre-los-editores-de-sonido-sin-costo-en-pc-y-mac-elegante-y-potente-soluciones-gratuita/"><u>Descubre Los Editores De Sonido Sin Costo en PC Y Mac, Elegante Y Potente Soluciones Gratuita</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-lexmark-printer-software-update/"><u>Effortless Lexmark Printer Software Update</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/identifying-top-economical-iosandroid-live-streaming-tools/"><u>Identifying Top Economical iOS/Android Live Streaming Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-transforming-youtube-sounds-into-high-quality-wav-files/"><u>In 2024, Transforming YouTube Sounds Into High-Quality WAV Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/med-slik-teknik-ligner-du-til-et-billede-pa-live-videoen-nye-metoder-for-brugerne-i-nu/"><u>Med Slik Teknik Ligner Du Til Et Billede På Live-Videoen – Nye Metoder For Brugerne I Nu!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ogv-to-avi-converter-free-online-transcoder-with-movavi-technology/"><u>OGV to AVI Converter - Free Online Transcoder with Movavi Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformer-video-mov-en-image-animee-gif-sans-frais-gratuit-avec-moovavi/"><u>Transformer Vidéo MOV en Image Animée GIF Sans Frais - Gratuit Avec Moovavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/ultimate-selection-of-8-stealth-downloads-for-2024/"><u>Ultimate Selection of 8 Stealth Downloads for 2024</u></a></li>
+</ul></div>
+

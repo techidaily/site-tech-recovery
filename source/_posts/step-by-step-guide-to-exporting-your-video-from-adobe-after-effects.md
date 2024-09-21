@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Exporting Your Video From Adobe After Effects
-date: 2024-09-12 14:47:31
-updated: 2024-09-13 11:37:39
+date: 2024-09-14T01:22:24.986Z
+updated: 2024-09-21T01:07:02.792Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/a8037b9cb425e19a9ec57f5feba58cc91bfb4e98ab568e20793fc881abc0b40e.jpg
@@ -184,6 +184,13 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler les paramètres graphiques d'un jeu
 
 Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aider à optimiser votre expérience de jeu. En voici trois que vous devriez vérifier dans le menu des paramètres du jeu avant de jouer.
@@ -253,6 +260,19 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -407,9 +427,23 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -458,6 +492,19 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -536,11 +583,28 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-vr-accessories-unleashed-in-depth-reviews/"><u>[Updated] 2024 Approved VR Accessories Unleashed In-Depth Reviews</u></a></li>
+<li><a href="https://facebook.techidaily.com/balancing-convenience-vs-security-with-facebook-as-a-login-option/"><u>Balancing Convenience vs Security with Facebook as a Login Option</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-your-vob-files-to-mkv-for-free-on-the-web-using-movavis-simple-tools/"><u>Convert Your VOB Files to MKV for Free on the Web Using Movavi’s Simple Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-your-avi-files-into-wmv-format-effortlessly-with-movavi/"><u>Free Online Converter: Transform Your AVI Files Into WMV Format Effortlessly with Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>In 2024, Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/les-consequences-juridiques-de-lenregistrement-audio-sans-autorisation/"><u>Les Conséquences Juridiques De L’Enregistrement Audio Sans Autorisation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lifelike-livestreaming-should-streamers-trust-softwares-or-systems/"><u>Lifelike Livestreaming Should Streamers Trust Softwares or Systems?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nuze-online-translatoren-voor-apng-fiches-professioneel-en-gratis-met-movavi-konvertierer/"><u>Nuze Online Translatoren Voor APNG-Fiches: Professioneel en Gratis Met Movavi Konvertierer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/riconverti-formati-video-converti-file-f4v-in-avi-online-e-gratuito-con-movavi/"><u>Riconverti Formati Video: Converti File F4V in AVI Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rmvb-to-mp3-online-free-converter-movavi/"><u>RMVB to MP3 Online Free Converter - Movavi</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-shoot-and-upload-immersive-footage-on-fb-for-2024/"><u>The Ultimate Guide to Shoot & Upload Immersive Footage on FB for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformation-gratuite-daif-a-ligne-de-commande-movavi/"><u>Transformation Gratuite D'AIF À Ligne De Commande - Movavi</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/ultimate-guide-to-the-most-effective-16-youtube-intros-for-2024/"><u>Ultimate Guide to the Most Effective 16 YouTube Intros for 2024</u></a></li>
+</ul></div>
+

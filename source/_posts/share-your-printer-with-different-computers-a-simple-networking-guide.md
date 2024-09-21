@@ -1,7 +1,7 @@
 ---
 title: Share Your Printer with Different Computers - A Simple Networking Guide
-date: 2024-09-12T16:26:15.142Z
-updated: 2024-09-15T23:03:58.895Z
+date: 2024-09-20T06:30:35.533Z
+updated: 2024-09-20T21:20:16.867Z
 categories:
   - BestProducts
 description: This Article Describes Share Your Printer with Different Computers - A Simple Networking Guide
@@ -72,13 +72,6 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 9. Use several buttons (volume, etc.) to see if your remote can now control the device.
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Manual Code Search
 
  Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
@@ -92,10 +85,16 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Programming via IR Learning
@@ -120,6 +119,13 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 1. Select or enter your Logitech Harmony Universal Remote Control model number**.**
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -172,15 +178,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/opyright-laws-and-screencasting-of-online-video-platforms-youtube/"><u>[New] Copyright Laws and Screencasting of Online Video Platforms (YouTube)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screen-recording-on-macos-ahead-with-bandicam-or-camtasia-for-2024/"><u>[Updated] Screen Recording on MacOS Ahead with Bandicam or Camtasia for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-boost-your-studying-on-windows/"><u>8 Ways to Boost Your Studying on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvdwinmeg/"><u>完全ガイド：DVD作成用WinMEGダウンロード手順と戦略</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-determine-which-friends-shared-your-post-on-facebook/"><u>How to Determine Which Friends Shared Your Post on Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-ms-store-malfunctions-error-code-0x80072f17-solution/"><u>Mending MS Store Malfunctions: Error Code 0X80072f17 Solution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-correcting-missing-or-not-detected-mfplatdll-errors/"><u>Step-by-Step Solutions for Correcting 'Missing or Not Detected' Mfplat.dll Errors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-tier-tips-for-naming-your-podcast-right-plus-inspiring-title-ideas-countdown/"><u>Top-Tier Tips for Naming Your Podcast Right + Inspiring Title Ideas Countdown</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-no-matches-found-error-on-bumble/"><u>Ultimate Guide: Resolving 'No Matches Found' Error on Bumble</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/worth-the-switch-evaluating-if-uber-offers-better-savings-than-traditional-taxis/"><u>Worth the Switch?: Evaluating if Uber Offers Better Savings Than Traditional Taxis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-discover-the-1-5-editors-perfect-for-your-macos-sierra-setup/"><u>[New] 2024 Approved Discover the #1-#5 Editors Perfect for Your MacOS Sierra Setup</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-pathway-to-profitability-navigating-youtube-adsense/"><u>[Updated] The Pathway to Profitability Navigating YouTube AdSense</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-craft-your-story-with-vscos-editing-power-tools/"><u>2024 Approved Craft Your Story with VSCO’s Editing Power Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-audio-systems-home-theater-vs-stereo-receiver-features/"><u>Comparing Audio Systems: Home Theater Vs. Stereo Receiver Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-easily-remove-apps-from-your-samsung-entertainment-system/"><u>Expert Advice: Easily Remove Apps From Your Samsung Entertainment System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-the-holy-see-connected-by-email-under-pope-francis-leadership/"><u>Is the Holy See Connected by Email Under Pope Francis' Leadership?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leading-photographic-restoration-solutions-of-2024-evaluating-their-strengths-and-weaknesses/"><u>Leading Photographic Restoration Solutions of 2024: Evaluating Their Strengths and Weaknesses</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-t-mobiles-local-network-roaming-features/"><u>Navigating Through T-Mobile's Local Network Roaming Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ordered-guide-how-to-sequence-your-dragon-ball-viewing-experience/"><u>Ordered Guide: How to Sequence Your Dragon Ball Viewing Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-content-creation-insights-into-generative-ai-implementation/"><u>Revolutionizing Content Creation: Insights Into Generative AI Implementation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionizing-streaming-the-arrival-of-the-chromecast-with-google-tv-say-goodbye-to-fire-tv/"><u>Revolutionizing Streaming: The Arrival of the Chromecast with Google TV - Say Goodbye to Fire TV!</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-sustainable-wlanextexe-operation/"><u>Techniques for Sustainable WLANEXT.EXE Operation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-key-trackers-revealed-the-ultimate-guide/"><u>Top-Rated Key Trackers Revealed: The Ultimate Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-neon-text-generators-for-instant-results/"><u>Updated The Best Free Neon Text Generators for Instant Results</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-guide-to-the-ins-and-outs-of-amazons-prime-day-sale-in-2eighty-four/"><u>Your Guide to the Ins and Outs of Amazon's Prime Day Sale in 2Eighty-Four</u></a></li>
 </ul></div>
 

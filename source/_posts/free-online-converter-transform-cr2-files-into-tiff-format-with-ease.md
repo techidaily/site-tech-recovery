@@ -1,7 +1,7 @@
 ---
 title: "Free Online Converter: Transform CR2 Files Into TIFF Format with Ease"
-date: 2024-09-12 18:30:32
-updated: 2024-09-13 10:16:27
+date: 2024-09-19T04:06:36.203Z
+updated: 2024-09-20T21:10:42.025Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/00e2371654f4a507433e61a71e16acad038e975f76e67d8ab6a2071887eda993.jpg
@@ -228,6 +228,13 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -305,6 +312,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -395,6 +409,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -410,6 +431,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -467,6 +495,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -536,11 +571,30 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-optimizing-your-livestream-youtube-twitch-with-obs/"><u>[New] Optimizing Your Livestream YouTube, Twitch with OBS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722995914606-solved-davinci-resolve-wont-open-on-windows-pc/"><u>[SOLVED] DaVinci Resolve Won't Open on Windows PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-sims-chronicles-uncut-expert-techniques-to-preserve-the-heart-of-your-gaming-life-in-sims-4/"><u>[Updated] 2024 Approved Sims Chronicles Uncut Expert Techniques to Preserve the Heart of Your Gaming Life in Sims 4</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-creators-guide-turn-viewers-into-paychecks/"><u>[Updated] The Creator’s Guide Turn Viewers Into Paychecks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-cost-effective-streaming-on-low-cost-pcs/"><u>2024 Approved Cost-Effective Streaming on Low-Cost PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discord-hitch-how-to-diagnose-whether-its-an-outage-or-personal-internet-issues/"><u>Discord Hitch? How to Diagnose Whether It’s an Outage or Personal Internet Issues.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eseguirai-con-successo-la-tua-conferenza-su-google-meet-una-guida-comprehensive-alliscrizione-e-allutilizzo/"><u>Eseguirai Con Successo La Tua Conferenza Su Google Meet: Una Guida Comprehensive All'Iscrizione E All'Utilizzo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ethereal-escapades-vr-film-adventures/"><u>Ethereal Escapades VR Film Adventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/faites-de-votre-caf-une-plateforme-web-gratuite-grace-a-movavi-guerilla-seo/"><u>Faites De Votre CAF Une Plateforme Web Gratuite Grâce À Movavi - Guérilla SEO</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-ape-files-into-m4a-format-with-movavi/"><u>Free Online Conversion: Transforming APE Files Into M4A Format with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-professional-results-with-movavi-photo-editor-secure-yours-today/"><u>Get Professional Results with Movavi Photo Editor - Secure Yours Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-verbale-konvertor-wav-naar-mp4-bestaan-online-movavi/"><u>Gratuit Verbale Konvertor: WAV Naar MP4 Bestaan Online - Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ten-minute-bulgaria-language-learning-fast/"><u>Ten-Minute Bulgaria: Language Learning Fast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-i-tuoi-file-webm-in-formato-3gp-senza-costi-gratuitamente-con-convertitore-webm-3gp-di-movavi/"><u>Trasforma I Tuoi File WEBM in Formato 3GP Senza Costi, Gratuitamente Con Convertitore WebM-3GP Di Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avi-mp4/"><u>무료 인터넷 스트리밍: AVI 파일을 MP4에 전환하는 방법 - 모바이비</u></a></li>
+</ul></div>
+

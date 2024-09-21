@@ -1,7 +1,7 @@
 ---
 title: Electrodiagnostic Studies, Including Electromyography (EMG) and Nerve Conduction Velocity (NCV), Are Used to Diagnose the Extent and Location of Ulnar Nerve Injuries.
-date: 2024-09-11 13:44:26
-updated: 2024-09-13 12:56:21
+date: 2024-09-17T03:50:41.119Z
+updated: 2024-09-21T03:31:12.097Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f0772ca21d903055c2189241e19.jpg
@@ -176,6 +176,19 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -210,9 +223,29 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -253,6 +286,13 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -372,6 +412,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -536,11 +583,28 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-key-to-combining-linktree-and-tiktok-biographies/"><u>[New] In 2024, The Key to Combining Linktree and TikTok Biographies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-creations-unique-and-chic-minecraft-dwellings/"><u>[New] In 2024, Top Creations Unique and Chic Minecraft Dwellings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-free-youtube-channel-art-templates-find-them-here/"><u>[Updated] Free YouTube Channel Art Templates - Find Them Here!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-definition-gaming-with-lg-27ud68-monitor-review/"><u>[Updated] High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-profit-pioneering-transforming-youtube-views-into-vast-revenue-on-mobile/"><u>[Updated] Profit Pioneering Transforming YouTube Views Into Vast Revenue on Mobile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-video-de-flv-a-3gp-sin-costo-mediante-la-herramienta-online-de-movavi/"><u>Convertir Video De Flv a 3Gp Sin Costo Mediante La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/estrategias-simplificadas-para-reducir-videos-descubra-como-usar-movavi/"><u>Estrategias Simplificadas Para Reducir Vídeos: Descubra Cómo Usar Movavi</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-12-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 12? How to Fix it?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/kostenlos-konvertierung-von-3gp-zu-mpeg-via-web-profi-losung-mit-movavi/"><u>Kostenlos Konvertierung Von 3GP Zu MPEG via Web - Profi-Lösung Mit Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-no-cost-audiovideo-transformation-convert-flac-to-mpeg-4-without-hesitation/"><u>Movavi's No-Cost Audio/Video Transformation: Convert Flac to Mpeg-4 Without Hesitation</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/savory-scenes-from-tiktok-kitchens-recipes-to-try-now-for-2024/"><u>Savory Scenes From TikTok Kitchens Recipes to Try Now for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-avi-to-aac-file-conversion-fast-and-free-with-our-online-tool/"><u>Seamless AVI to AAC File Conversion - Fast & Free with Our Online Tool!</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xperia-1-v-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xperia 1 V on Mac?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zaklady-virtualni-kamery-obs-v-aplikacich-rozsireny-pruvodce-zacitlivejsi-technologii-2024/"><u>Základy Virtuální Kamery OBS v Aplikacích: Rozšířený Průvodce Začítlivější Technologii 2024</u></a></li>
+</ul></div>
+

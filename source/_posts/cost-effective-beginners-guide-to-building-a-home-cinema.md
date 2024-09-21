@@ -1,7 +1,7 @@
 ---
 title: Cost-Effective Beginner's Guide to Building a Home Cinema
-date: 2024-09-10T17:56:38.039Z
-updated: 2024-09-15T22:22:43.137Z
+date: 2024-09-16T16:12:25.316Z
+updated: 2024-09-21T06:14:30.391Z
 categories:
   - BestProducts
 description: This Article Describes Cost-Effective Beginner's Guide to Building a Home Cinema
@@ -57,24 +57,31 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
@@ -106,10 +113,10 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype for Computers
@@ -132,6 +139,13 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -145,10 +159,10 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 7: Reinstall Skype
@@ -159,25 +173,11 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
 
@@ -224,18 +224,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-comprehensible-guide-downloading-safe-free-vlc-on-macos/"><u>[New] The Comprehensible Guide Downloading Safe, Free VLC on macOS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-best-10-elements-that-enthrall-filmora-users/"><u>[Updated] In 2024, The Best 10 Elements That Enthrall Filmora Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-reinstatement-protocols-for-snaps-for-2024/"><u>[Updated] Quick Reinstatement Protocols for Snaps for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-much-will-you-pay-for-elite-gaming-the-declassified-x670e-by-evga-demands-over-1300/"><u>How Much Will You Pay for Elite Gaming? The Declassified X670E by EVGA Demands Over $1,300</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-14-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 14 Plus?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-bogus-friend-requests-online/"><u>Identifying Inauthentic Connections: A Guide to Recognizing Bogus Friend Requests Online</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/dology-incorporating-youtube-playlists-into-a-websites-structure-for-2024/"><u>Methodology Incorporating YouTube Playlists Into a Website's Structure for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/need-to-locate-your-email-follow-this-handy-guide/"><u>Need to Locate Your Email? Follow This Handy Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/personalize-your-home-streaming-a-detailed-walkthrough-to-alter-chromecast-backgrounds/"><u>Personalize Your Home Streaming: A Detailed Walkthrough to Alter Chromecast Backgrounds</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-techniques-for-efficiently-taking-screenshots-on-your-hp-device/"><u>Simple Techniques for Efficiently Taking Screenshots on Your HP Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/surviving-rough-seas-assessing-the-waterproof-features-of-the-iphone-15-pro-max/"><u>Surviving Rough Seas: Assessing the Waterproof Features of the iPhone 15 Pro Max</u></a></li>
-<li><a href="https://facebook.techidaily.com/uncover-most-watched-videos-on-facebook-today/"><u>Uncover Most Watched Videos on Facebook Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unexpected-situations-solved-regain-access-to-your-ipad-without-the-original-password/"><u>Unexpected Situations Solved: Regain Access to Your iPad Without the Original Password</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-enliven-youtube-images-a-burst-of-neon-flair/"><u>[New] Enliven YouTube Images A Burst of Neon Flair</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing-for-2024/"><u>[New] From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-richest-video-content-star-on-earth-for-2024/"><u>[New] The Richest Video Content Star on Earth for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-creating-perfect-360-photos-on-iphone/"><u>2024 Approved Creating Perfect 360 Photos on iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726225970704-trp-movavi/"><u>自由流量線上轉換TRP卡片 - MOVAVI</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-nokia-c210-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nokia C210 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fight-tech-face-off-console-vs-arcade-joysticks/"><u>Fight Tech Face-Off: Console Vs. Arcade Joysticks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-flv-files-into-high-quality-flac-format-with-ease/"><u>Free Online Converter: Transform FLV Files Into High-Quality FLAC Format with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gebruik-movavi-voor-vrije-online-omzetting-van-ape-in-aiff-zelfstandig-onderhoud/"><u>Gebruik Movavi Voor Vrije Online Omzetting Van APE in AIFF - Zelfstandig Onderhoud</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-conversione-da-mov-a-mp3-online-con-moovavi-comandare-il-tuo-flusso-audio/"><u>Gratuito Conversione Da MOV a MP3 Online Con Moovavi - Comandare Il Tuo Flusso Audio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-your-content-on-vimeo-free-plus-or-pro-in-2024/"><u>Mastering Your Content on Vimeo Free, Plus or Pro, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mpg-to-webm-conversion-tool-convert-videos-for-free-with-movavi/"><u>MPG to WebM Conversion Tool - Convert Videos for Free with Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-tecno-camon-30-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Tecno Camon 30 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-3-methods-to-alter-your-video-background-comprehensive-guide/"><u>Top 3 Methods to Alter Your Video Background: Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ding-finesse-imovie-videos-meeting-youtube-standards/"><u>Uploading Finesse IMovie Videos Meeting YouTube Standards</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-free-tod-mov-movavi/"><u>자동 양식 생성을 위한 Online Free TOD MOV 교대 - Movavi 기법</u></a></li>
 </ul></div>
 

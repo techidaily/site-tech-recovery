@@ -1,7 +1,7 @@
 ---
 title: Anticipate Samsung's Big Reveal – Top Announcements, Potential Leaks & Expected Breakthroughs Covered
-date: 2024-09-13T23:53:24.873Z
-updated: 2024-09-15T21:54:57.581Z
+date: 2024-09-19T18:55:09.098Z
+updated: 2024-09-20T19:51:35.567Z
 categories:
   - BestProducts
 description: This Article Describes Anticipate Samsung's Big Reveal – Top Announcements, Potential Leaks & Expected Breakthroughs Covered
@@ -41,15 +41,22 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### July 2024 Unpacked Event
 
@@ -68,19 +75,6 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
  The Galaxy Buds come in two types. The main difference is that the regular Galaxy Buds 3 are an open type (the buds sit against your ear canal), while the Buds 3 are canal-type (the buds fit inside your ear canal). Both versions have dynamic equalization and noise-canceling, along with 24-bit audio, but only the Buds 3 Pro have a two-way speaker.
 
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest Samsung News
 
@@ -107,17 +101,17 @@ thumbnail: https://www.lifewire.com/thmb/YQFOK9y5bChN-wmK4RMXpQ4T6bU=/400x300/fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained/"><u>[Updated] 2024 Approved Engage and Inspire Viewers - Animated Subscribers in Filmora Explained</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-insights-on-preserving-ps4-gaming-history/"><u>[Updated] In-Depth Insights on Preserving PS4 Gaming History</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-the-mystery-of-non-exporting-srt-in-premiere/"><u>2024 Approved Unraveling the Mystery of Non-Exporting SRT in Premiere</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/command-prompt-mastery-for-windows-10-8-7-and-beyond/"><u>Command Prompt Mastery for Windows 10, 8, 7 & Beyond</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-home-cinema-premium-hitachi-4k-uhd-tvs-with-direct-roku-connectivity/"><u>Enhance Your Home Cinema: Premium Hitachi 4K UHD TVs with Direct Roku Connectivity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-online-presence-unlocking-the-power-of-facebook-with-five-smart-tactics/"><u>Enhance Your Online Presence: Unlocking the Power of Facebook with Five Smart Tactics</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-does-the-corsair-i500-mini-pc-stack-up-a-comprehensive-reception-and-assessment/"><u>How Does the Corsair I500 Mini PC Stack Up? A Comprehensive Reception and Assessment</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-look-at-uploading-images-to-youtube/"><u>In 2024, A Comprehensive Look at Uploading Images to YouTube</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-p40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel P40 FRP Bypass</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-handling-missing-or-undetected-avcodecdll-errors/"><u>Troubleshooting Steps for Handling Missing or Undetected Avcodec.dll Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-your-logitech-device-for-windows-11-compatibility-and-solutions/"><u>Troubleshooting Your Logitech Device for Windows 11 Compatibility and Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290316129-ai-8/"><u>가장 좋은 무료 AI 이미지 회상 도구: 8개 권장 리스트</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-essential-hashtags-propel-your-posts-to-the-top-for-2024/"><u>[Updated] Essential #Hashtags Propel Your Posts to the Top for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focus-freshness-the-ultimate-clear-image-software-guide/"><u>2024 Approved Focus Freshness The Ultimate Clear Image Software Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-spark-10-4g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Spark 10 4G Unlock Without Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cost-effective-beginners-guide-to-building-a-home-cinema/"><u>Cost-Effective Beginner's Guide to Building a Home Cinema</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-viewing-apples-pages-files-on-your-pc-without-an-app/"><u>Guide: Viewing Apple's Pages Files on Your PC Without an App</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-poco-f5-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Poco F5 5G FRP Without Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-lameencdll-dll-file-problems-in-your-audacity-mp3-conversion-tasks/"><u>Solving the lame_enc.dll DLL File Problems In Your Audacity MP3 Conversion Tasks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-best-free-music-streaming-services-for-iphone-and-android-users/"><u>Top 7 Best Free Music Streaming Services for iPhone & Android Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/transform-your-mobile-browser-with-crystal-clear-videos/"><u>Transform Your Mobile Browser with Crystal-Clear Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-how-ai-enhances-paperclip-arrangement-techniques/"><u>Understanding How AI Enhances Paperclip Arrangement Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-do-if-microsoft-installer-dll-is-unavailable-or-lost/"><u>What to Do If Microsoft Installer DLL Is Unavailable or Lost?</u></a></li>
 </ul></div>
 

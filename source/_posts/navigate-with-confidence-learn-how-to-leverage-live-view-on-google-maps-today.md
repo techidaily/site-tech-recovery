@@ -1,7 +1,7 @@
 ---
 title: "Navigate with Confidence: Learn How to Leverage Live View on Google Maps Today"
-date: 2024-09-12T20:59:38.040Z
-updated: 2024-09-15T23:52:40.754Z
+date: 2024-09-17T19:22:45.558Z
+updated: 2024-09-20T18:10:31.315Z
 categories:
   - BestProducts
 description: "This Article Describes Navigate with Confidence: Learn How to Leverage Live View on Google Maps Today"
@@ -56,10 +56,16 @@ Close
 ![Live View with directions in Google Maps](https://www.lifewire.com/thmb/1YLs4JwGMQgkJNu0XocZYSoF1a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-Use-Live-View-on-Google-Maps-15820dc3196c4e118c305edd3919b8d9.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Switch Between Live and Map View Automatically
@@ -71,10 +77,10 @@ Close
 ![Google Maps showing Navigation chosen in Settngs and Live View toggle ](https://www.lifewire.com/thmb/bWHD2Hj5liPzMW7cDlHMq7_0ZA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-Use-Live-View-on-Google-Maps-d7dfa94d9d8c4ab4831a1c56b79b4d5e.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To turn on this setting while navigating, exit **Live View** , swipe up in 2D map view, and select **Settings** . Then, turn on the toggle for **Live View** below Walking Options.
@@ -121,20 +127,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-cryptic-snapshots-advanced-concealed-image-recording-on-snapchat/"><u>[New] In 2024, Cryptic SnapShots Advanced Concealed Image Recording on Snapchat</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-illustrator-way-adding-realistic-blur-to-your-pics-for-2024/"><u>[Updated] The Illustrator Way Adding Realistic Blur to Your Pics for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-unveiled-process-how-to-save-instagram-videos-with-computermac-os/"><u>2024 Approved The Unveiled Process How to Save Instagram Videos with Computer/Mac OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-command-line-efficiency-with-these-powerful-linux-utilities/"><u>Boost Your Command-Line Efficiency with These Powerful Linux Utilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/climbing-the-apple-tv-ladder-essential-techniques-for-top-search-results/"><u>Climbing the Apple TV Ladder: Essential Techniques for Top Search Results</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/command-prompt-mastery-for-windows-10-8-7-and-beyond/"><u>Command Prompt Mastery for Windows 10, 8, 7 & Beyond</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crucial-8-points-to-ponder-prior-to-investing-in-a-desktop-workstation/"><u>Crucial 8 Points to Ponder Prior to Investing in a Desktop Workstation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminate-chromecast-audio-latency-a-step-by-step-guide/"><u>Eliminate Chromecast Audio Latency – A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/free-youtube-channel-art-templates-for-2024/"><u>Free YouTube Channel Art Templates for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-pair-your-airpods-with-the-nintendo-switch-console/"><u>How to Pair Your AirPods with the Nintendo Switch Console</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oneplus-11r-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked OnePlus 11R Phone?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ating-the-path-to-youtube-video-co-creation-and-partnerships-for-2024/"><u>Navigating the Path to YouTube Video Co-Creation & Partnerships for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigating-through-facebooks-recent-content-policy-shifts/"><u>Navigating Through Facebook's Recent Content Policy Shifts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-15-best-free-uninstallers-enhance-your-pc-experience/"><u>Top 15 Best Free Uninstallers: Enhance Your PC Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-ios-18-cost-free-upgrade-advanced-features-guide-and-recent-developments/"><u>Unveiling iOS 18: Cost-Free Upgrade, Advanced Features Guide, and Recent Developments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exclusive-guide-choosing-among-top-9-free-logo-creators/"><u>[Updated] 2024 Approved Exclusive Guide Choosing Among Top 9 Free Logo Creators</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units/"><u>2024 Approved Navigating the Thrilling World of Drone Racing & Premium FPV Units</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/assessing-dji-phantom-3-professionals-performance/"><u>Assessing DJI Phantom 3 Professional's Performance</u></a></li>
+<li><a href="https://fox-http.techidaily.com/capturing-action-on-faces-using-picsarts-blur-feature/"><u>Capturing Action on Faces Using Picsart's Blur Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-the-atomic-heart-catastrophe-mastering-startup-survival-tactics/"><u>Conquering the 'Atomic Heart' Catastrophe: Mastering Startup Survival Tactics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-flv-file-to-m4a-format-free-online-converter-by-movavi/"><u>Convert FLV File to M4A Format - Free Online Converter by Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effektiv-movavi-mac-prosesserer-full-formatet-konvertering-fra-avi-mp4-flv-med-perfekt-kompatibilitet/"><u>Effektiv Movavi Mac Prosesserer - Full-Formatet Konvertering Fra AVI, MP4, FLV Med Perfekt Kompatibilitet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ejecutando-seleccion-de-regiones-para-screenshots-en-windows-11-como-comenzar/"><u>Ejecutando Selección De Regiones Para Screenshots en Windows 11 - Cómo Comenzar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-mp3-to-webm-online-converter-by-movavi-effortless-audio-file-conversion/"><u>Free MP3-to-WebM Online Converter by Movavi: Effortless Audio File Conversion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-omzettingen-van-amv-bestandjes-het-beste-beheer-programma-movavi/"><u>Gratis Online Omzettingen Van AMV-Bestandjes: Het Beste Beheer Programma - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuita-conversao-de-arquivos-pcx-para-web-ferramenta-online-do-movavi/"><u>Gratuita Conversão De Arquivos PCX Para Web: Ferramenta Online Do Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/internet-cemiyetinde-soylenceki-videoden-ses-cikarma-asagidaki-2-yaklasim/"><u>İnternet Cemiyeti'nde Söylenceki Video'den Ses Çıkarma - Aşağıdaki 2 Yaklaşım</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-persistent-crashing-issue-in-the-king-of-fighters-xv-for-windows-users/"><u>Resolving the Persistent Crashing Issue in The King of Fighters XV for Windows Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y78t-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y78t</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-persistent-asus-webcam-failures/"><u>Troubleshooting Persistent Asus Webcam Failures</u></a></li>
 </ul></div>
 

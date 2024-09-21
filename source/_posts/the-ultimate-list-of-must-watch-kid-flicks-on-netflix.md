@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Must-Watch Kid Flicks on Netflix
-date: 2024-09-12T22:45:28.886Z
-updated: 2024-09-15T17:06:10.450Z
+date: 2024-09-16T18:43:08.344Z
+updated: 2024-09-21T04:55:53.388Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Must-Watch Kid Flicks on Netflix
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -72,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -91,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -106,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -133,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -163,15 +163,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-bloodthirsty-horror-your-ultimate-8-zombie-game-compilation-for-2024/"><u>[New] Bloodthirsty Horror Your Ultimate 8 Zombie Game Compilation for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-accelerated-learning-for-effective-nvidia-screener-use-for-2024/"><u>[Updated] Accelerated Learning for Effective NVIDIA Screener Use for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-effective-habits-to-monitor-and-record-gotomeetings/"><u>[Updated] Effective Habits to Monitor and Record GoToMeetings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonious-hush-managing-music-on-pc-mac/"><u>2024 Approved Harmonious Hush Managing Music on PC, Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-cinematography-guide-8-insider-secrets-to-professional-video-creation/"><u>2024 Approved IPhone Cinematography Guide 8 Insider Secrets to Professional Video Creation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-for-downloading-and-using-fonts-on-ios-devices/"><u>A Comprehensive Tutorial for Downloading and Using Fonts on iOS Devices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-xr-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone XR Without Previous Owner?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/keep-your-mobile-number-off-public-repositories-a-step-by-step-guide-for-android-users/"><u>Keep Your Mobile Number Off Public Repositories: A Step-by-Step Guide for Android Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-d3dx925dll-error-effective-strategies-and-tips/"><u>Troubleshooting Missing d3dx9_25.dll Error: Effective Strategies and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-smartwatches-capabilities-and-innovations-unveiled/"><u>Understanding Smartwatches: Capabilities & Innovations Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-speedy-tracking-visuals-plus-voices/"><u>[New] Speedy Tracking Visuals + Voices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-of-15-zero-cost-uninstall-tools-for-smooth-software-removal/"><u>Discover the Ultimate List of 15 Zero-Cost Uninstall Tools for Smooth Software Removal</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-enhanced-network-performance-with-the-extollo-lansocket-1500-fast-efficient-and-power-enabling-designs-examined/"><u>Experience Enhanced Network Performance with the Extollo LANSocket 1500 - Fast, Efficient & Power-Enabling Designs Examined</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-pixel-phase-9-a-glimpse-into-future-specs-pricing-and-expected-debut-date/"><u>Google Pixel Phase 9 - A Glimpse Into Future Specs, Pricing & Expected Debut Date.</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-trends-everyday-jargon-and-what-they-mean/"><u>Linguistic Trends: Everyday Jargon and What They Mean</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/subtle-volume-lessening-masterclass-using-lumafusion/"><u>Subtle Volume Lessening Masterclass Using Lumafusion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ins-and-outs-of-wireless-connectivity-exploring-the-roaming-policy-of-t-mobiles-metro-plan/"><u>The Ins and Outs of Wireless Connectivity: Exploring the Roaming Policy of T-Mobile's Metro Plan</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-wont-open-or-eject-problems-with-your-optical-drive/"><u>The Ultimate Fix for Won't Open or Eject Problems with Your Optical Drive</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-crackling-sound-issues-with-the-logitech-g-pro-x-mic-on-pc-tips/"><u>Troubleshooting and Repairing Crackling Sound Issues with the Logitech G Pro X Mic on PC - Tips</u></a></li>
 </ul></div>
 

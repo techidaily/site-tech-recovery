@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Essentials: Preparing Yourself Before Purchasing a Smartwatch"
-date: 2024-09-15T02:02:51.378Z
-updated: 2024-09-15T20:46:15.504Z
+date: 2024-09-14T07:16:17.167Z
+updated: 2024-09-21T00:43:37.957Z
 categories:
   - BestProducts
 description: "This Article Describes Top 5 Essentials: Preparing Yourself Before Purchasing a Smartwatch"
@@ -44,18 +44,18 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -66,19 +66,6 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -86,6 +73,13 @@ Apple, Inc / USPTO
  By making these beams of sound small and focused, the user can hear audio from the device without other people nearby—even people within a foot or two of the wearer—picking it up. That means the user doesn't need to wear earbuds or headphones to listen to music or make phone calls.
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Microphones for Commands, User Identification, and Callibration
 
@@ -118,15 +112,12 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>[Updated] In 2024, Monetizing Your Passion From YouTube Gamer to Entrepreneur</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-thrifty-aerial-assemblies-top-drones-for-(500/"><u>2024 Approved Thrifty Aerial Assemblies Top Drones for <$500</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conversion-de-dvd-gratis-a-hevch265-mp4-pasos-faciles-y-metodos-de-alta-calidad/"><u>Conversión De DVD Gratis a HEVC/H.265 MP4: Pasos Fáciles Y Métodos De Alta Calidad</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/curious-about-chatgpt-plus-see-why-signing-up-can-be-worth-every-penny-top-5-reasons-explained/"><u>Curious About ChatGPT Plus? See Why Signing Up Can Be Worth Every Penny - Top 5 Reasons Explained!</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-remedies-for-fixing-persistent-restart-problems-in-windows-11-and-10/"><u>Effective Remedies for Fixing Persistent Restart Problems in Windows 11 & 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-insights-on-whatsapp-alternative-the-line-app/"><u>Expert Insights on WhatsApp Alternative - The Line App</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/humorhub-quick-and-quirky-images/"><u>HumorHub Quick & Quirky Images</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/multi-photo-sharing-easy-steps-to-post-several-images-on-facebook/"><u>Multi-Photo Sharing: Easy Steps to Post Several Images on Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-is-folding-discover-possible-prices-and-launch-dates-for-samsungs-anticipated-galaxy-z-flip-nplus-with-rumored-hardware-upgrades/"><u>The Future Is Folding: Discover Possible Prices and Launch Dates for Samsung's Anticipated Galaxy Z Flip N+ with Rumored Hardware Upgrades</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-google-pixel-8-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Google Pixel 8 Pro Device</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-motion-with-precision-how-to-choose-between-30-and-60fps/"><u>[Updated] Capturing Motion with Precision How to Choose Between 30 and 60Fps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-elite-e-commerce-destinations-for-specialty-wrapping-art/"><u>2024 Approved Elite E-Commerce Destinations for Specialty Wrapping Art</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726225817943-mp3wav-movavi/"><u>免費移動MP3到WAV - 使用Movavi 音頻轉換工具在線上進行</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-wtv-a-mpeg-online-de-forma-gratuita-con-movavi/"><u>Convertir WTV a MPEG Online De Forma Gratuita Con Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-a38-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo A38 Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-facetime-visibility-fixing-the-mysterious-blackout-problem/"><u>Revive FaceTime Visibility – Fixing the Mysterious Blackout Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformar-archivos-raw-en-imagenes-jpg-gratuitas-con-movavi/"><u>Transformar Archivos RAW en Imágenes JPG Gratuitas Con Movavi</u></a></li>
 </ul></div>
 

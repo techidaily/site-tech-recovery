@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Trick: How To Effortlessly Set An Alias On Google Mail"
-date: 2024-09-12T18:01:46.280Z
-updated: 2024-09-16T00:42:27.262Z
+date: 2024-09-18T00:25:42.719Z
+updated: 2024-09-21T05:22:11.028Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Trick: How To Effortlessly Set An Alias On Google Mail"
@@ -56,18 +56,24 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -90,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -108,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
@@ -133,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -163,16 +169,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-top-10-instagram-grid-makers-to-create-visually-appealing-grids/"><u>[New] 2024 Approved Top 10 Instagram Grid Makers to Create Visually Appealing Grids</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-free-vs-paid-youtubes-exclusive-picks-for-superior-opening-tutorials/"><u>[New] In 2024, Free vs Paid YouTube's Exclusive Picks for Superior Opening Tutorials</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speed-kings-and-queens-key-moments-from-the-short-track-games/"><u>[Updated] Speed Kings and Queens Key Moments From the Short Track Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-wi-fi-mesh-systems-really-an-upgrade-or-just-hype/"><u>Are Wi-Fi Mesh Systems Really an Upgrade, or Just Hype?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-set-up-the-magic-mouse-utility-software-on-your-pc/"><u>Download and Set Up the Magic Mouse Utility Software on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essentials-unveiled-a-buyers-guide-to-picking-the-perfect-smartwatch-top-5-tips/"><u>Essentials Unveiled: A Buyer's Guide to Picking the Perfect Smartwatch - Top 5 Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premium-mac-image-transformer/"><u>Premium Mac Image Transformer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-watch-7-launch-info-pricing-availability-and-key-features-revealed/"><u>Samsung Galaxy Watch 7 Launch Info: Pricing, Availability & Key Features Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolving-missing-msvcr8dll-error-messages-efficiently/"><u>Step-by-Step Guide: Resolving 'Missing MSVCR8_DLL' Error Messages Efficiently</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-distinctions-between-augmented-reality-virtual-reality-mixed-reality-and-extended-reality/"><u>Understanding The Distinctions Between Augmented Reality, Virtual Reality, Mixed Reality, and Extended Reality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-potential-profile-video-elevation/"><u>[New] Unleashing Potential Profile Video Elevation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-customizing-windows-photos-to-enjoy-music-on-every-picture/"><u>[Updated] In 2024, Customizing Windows Photos to Enjoy Music on Every Picture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beaming-login-logout-directions/"><u>2024 Approved Beaming Login / Logout Directions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-amvmp4/"><u>網路無關痛癢 - 以Movavi AMV到MP4自由轉換</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/accelerate-seo-growth-using-cookiebots-advanced-tools/"><u>Accelerate SEO Growth Using Cookiebot's Advanced Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/acer-laptop-factory-restoration-expert-tutorial-for-beginners/"><u>Acer Laptop Factory Restoration – Expert Tutorial for Beginners</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descargas-gratuitas-de-conversion-como-transformar-archivos-m4a-en-mp3-sin-costo-adicional/"><u>Descargas Gratuitas De Conversión: Cómo Transformar Archivos M4A en MP3 Sin Costo Adicional</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/edit-videos-anywhere-with-videoproc-the-ultimate-download-for-smartphones/"><u>Edit Videos Anywhere with VideoProc: The Ultimate Download for Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-wav-file-w64-into-mp3-format-by-movavi/"><u>Free Online Converter: Transform WAV File (W64) Into MP3 Format by Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-coding-and-tank-battles-with-djis-robomasters-s1-an-in-depth-analysis-and-review/"><u>Mastering Coding and Tank Battles with DJI's Robomasters S1: An In-Depth Analysis & Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mov-to-aac-conversion-tool-quick-and-easy-free-upload/"><u>MOV to AAC Conversion Tool - Quick & Easy Free Upload</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-free-online-png-converter-convert-arw-files-with-ease/"><u>Movavi's Free Online PNG Converter: Convert ARW Files with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-silence-diagnosing-and-fixing-a-non-operational-roku-tv-setup/"><u>Overcoming Silence: Diagnosing and Fixing a Non-Operational Roku TV Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transcodage-gratuit-de-fichiers-m4b-a-mkv-guide-complet-sur-movavi/"><u>Transcodage Gratuit De Fichiers M4B À MKV : Guide Complet Sur Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforme-seus-amvs-em-mp4-gratuitamente-online-com-o-conversor-do-movavi/"><u>Transforme Seus AMVs Em MP4 Gratuitamente Online Com O Conversor Do Movavi</u></a></li>
 </ul></div>
 

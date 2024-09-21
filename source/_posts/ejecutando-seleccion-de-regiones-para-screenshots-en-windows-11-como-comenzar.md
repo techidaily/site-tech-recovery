@@ -1,7 +1,7 @@
 ---
 title: Ejecutando Selección De Regiones Para Screenshots en Windows 11 - Cómo Comenzar
-date: 2024-09-12 19:25:45
-updated: 2024-09-13 11:10:42
+date: 2024-09-13T21:57:15.691Z
+updated: 2024-09-21T03:44:16.375Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
@@ -222,6 +222,13 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -235,6 +242,13 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -403,6 +417,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
@@ -455,6 +476,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -467,6 +495,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -536,11 +571,25 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-10-music-videos-on-facebook-how-to-make-a-facebook-song-video/"><u>[New] Top 10 Music Videos on Facebook | How to Make A Facebook Song Video?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dissecting-youtubes-user-commentary/"><u>[Updated] In 2024, Dissecting YouTubes' User Commentary</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aiff-movavi/"><u>直接網路免費AIFF視頻切換服務 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comment-transformer-facilement-et-sans-frais-votre-fichier-m4a-en-3gp-sur-internet-via-movavi-guide-pratique/"><u>Comment Transformer Facilement Et Sans Frais Votre Fichier M4A en 3GP Sur Internet via Movavi : Guide Pratique</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-moto-g84-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Moto G84 5G Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mouvavi-editeur-video-acheter-en-confiance-avec-des-offres-allechantes-et-des-transactions-fermes/"><u>Mouvavi Éditeur Vidéo - Acheter en Confiance Avec Des Offres Alléchantes Et Des Transactions Fermes</u></a></li>
+<li><a href="https://win-top.techidaily.com/mover-imagenes-webp-a-formato-bmp-sin-costo-utilizando-el-conversor-en-linea-de-movavi/"><u>Mover Imágenes WEBP a Formato BMP Sin Costo Utilizando El Conversor en Línea De Movavi</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/poll-power-players-guide-quintessential-voting-simulations-for-2024/"><u>Poll Power Players' Guide Quintessential Voting Simulations for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-a-nonfunctional-webcam-on-an-hp-laptop-in-windows-11/"><u>Solving the Issue of a Nonfunctional Webcam on an HP Laptop in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforma-tus-archivos-mp4-gratuitamente-en-webm-con-el-servicio-de-conversion-rapida-de-movavi/"><u>Transforma Tus Archivos MP4 Gratuitamente en WEBM Con El Servicio De Conversión Rápida De Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/what-you-ought-to-consider-before-purchasing-a-smart-tv/"><u>What You Ought to Consider Before Purchasing a Smart TV</u></a></li>
+</ul></div>
+

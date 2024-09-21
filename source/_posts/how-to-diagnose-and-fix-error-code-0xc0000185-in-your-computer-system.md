@@ -1,7 +1,7 @@
 ---
 title: How to Diagnose and Fix Error Code 0Xc0000185 in Your Computer System
-date: 2024-09-13T01:03:03.396Z
-updated: 2024-09-15T16:04:12.660Z
+date: 2024-09-15T00:20:53.397Z
+updated: 2024-09-20T22:37:40.879Z
 categories:
   - BestProducts
 description: This Article Describes How to Diagnose and Fix Error Code 0Xc0000185 in Your Computer System
@@ -53,25 +53,19 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 1. **Take it apart.** You can take your iPhone apart to dry out the wet parts. Separate the parts to air dry or leave them in a bag of rice for a day or two and then re-assemble the device.  
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try the Experts on Saving a Wet iPhone
 
  Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
 
 1. **Try a repair company.** If none of these tactics work, there are[iPhone repair](https://www.lifewire.com/repair-options-cracked-iphone-screen-2000276) companies that specialize in saving water-damaged iPhones. A little time at your favorite search engine can put you in touch with a number of good vendors.
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Check for Water Damage in a Used iPhone or iPod
 
@@ -89,10 +83,10 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Waterproof iPhones: iPhone 7 and Newer
@@ -132,15 +126,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-quest-for-video-perfection-debating-between-bandicam-and-camtasia/"><u>[New] 2024 Approved The Quest for Video Perfection Debating Between Bandicam & Camtasia</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-create-identity-a-quick-walkthrough-of-customizing-your-youtube-url/"><u>[Updated] In 2024, Create Identity A Quick Walkthrough of Customizing Your YouTube Url</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/end-apple-musics-auto-play-feature-a-comprehensive-guide/"><u>End Apple Music's Auto-Play Feature: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-check-a-macbooks-temperature/"><u>How to Check a MacBook's Temperature</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unblocking-video-sharing-how-to-solve-fb-chat-issues-for-iphonesandroid/"><u>In 2024, Unblocking Video Sharing How to Solve FB Chat Issues for iPhones/Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/multiple-image-uploads-on-facebook-a-step-by-step-guide/"><u>Multiple Image Uploads on Facebook: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecting-sound-with-advanced-audacity-methods-for-2024/"><u>Perfecting Sound with Advanced Audacity Methods for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/power-tools-mastering-the-art-of-taking-screenshots-in-windows-11/"><u>Power Tools: Mastering the Art of Taking Screenshots in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-motorola-g54-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Motorola G54 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-caption-implementation-essentials-for-2024/"><u>YouTube Caption Implementation Essentials for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fifa-footage-analysis-trendy-video-patterns/"><u>[Updated] 2024 Approved FIFA Footage Analysis Trendy Video Patterns</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-android-streaming-virtual-reality-content/"><u>2024 Approved Mastering Android Streaming Virtual Reality Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-to-resolve-the-netflix-ui-800-3-error/"><u>Comprehensive Solutions to Resolve the Netflix UI-800-3 Error</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oppo-reno-11f-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Oppo Reno 11F 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722896182125-master-the-art-of-communication-top-free-online-tools-for-learning-sign-language-uncover-16-picks/"><u>Master the Art of Communication: Top Free Online Tools for Learning Sign Language – Uncover 16 Picks!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification-for-2024/"><u>The Ultimate iPad Slow Motion Techniques for Filming and Video Modification for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transitioning-joy-cons-from-xbox-to-windows-pcs/"><u>Transitioning Joy-Cons From Xbox to Windows PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-fixing-propsysdll-not-detected-errors/"><u>Troubleshooting Tips for Fixing 'Propsys.dll' Not Detected Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/updating-your-chromecast-screen-a-step-by-step-guide/"><u>Updating Your Chromecast Screen: A Step-by-Step Guide</u></a></li>
 </ul></div>
 
