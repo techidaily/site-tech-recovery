@@ -1,7 +1,7 @@
 ---
 title: Share Your Printer with Different Computers - A Simple Networking Guide
-date: 2024-09-20T06:30:35.533Z
-updated: 2024-09-20T21:20:16.867Z
+date: 2024-09-26T08:06:35.657Z
+updated: 2024-09-26T21:20:09.977Z
 categories:
   - BestProducts
 description: This Article Describes Share Your Printer with Different Computers - A Simple Networking Guide
@@ -26,6 +26,19 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 [How to Program an RCA Universal Remote](https://www.lifewire.com/program-rca-universal-remote-5201320)
 
  Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Direct Code Entry
 
@@ -55,6 +68,13 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 7. Press the**Stop** button to save the code.
 8. Test several functions on the remote and see if they work for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Brand Code Search
 
  Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
@@ -72,6 +92,13 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 9. Use several buttons (volume, etc.) to see if your remote can now control the device.
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Manual Code Search
 
  Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
@@ -84,19 +111,6 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 4. If the power on your TV or device turns off, the remote has found the correct Code. Press**Stop** to save the code.
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Programming via IR Learning
 
  If supported, the IR learning method requires placing your universal remote and the remote of a device you wish to control so that they are pointing at each other. This process allows IR control light beams to transmit from the original device remote to the universal remote.
@@ -107,6 +121,13 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 4. Repeat these steps for every function you wish to run, such as volume down, channel up, channel down, and input selection.
 
  This process is long and tedious, especially if you have several devices you want to control. However, if you don't have access to the remote control codes or other methods fail, you may be able to use the IR learning process as your last result, provided your Universal Remote supports this programming option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Programming via PC
 
@@ -119,13 +140,6 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 1. Select or enter your Logitech Harmony Universal Remote Control model number**.**
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -176,5 +190,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-advanced-editing-perfecting-transitions-in-kinemaster-for-2024/"><u>[New] Advanced Editing Perfecting Transitions in Kinemaster for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-auditing-for-accuracy-youtube-monetization-compliance/"><u>[Updated] In 2024, Auditing for Accuracy YouTube Monetization Compliance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-the-easy-path-to-professional-looking-youtube-shorts/"><u>[Updated] The Easy Path to Professional-Looking YouTube Shorts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/awaken-with-ease-the-ultimate-list-of-our-favorite-alarm-clock-apps/"><u>Awaken with Ease: The Ultimate List of Our Favorite Alarm Clock Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claim-your-prize-participate-in-openais-innovative-error-tracking-mission/"><u>Claim Your Prize: Participate in OpenAI's Innovative Error Tracking Mission</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-androids-brain-exploring-machine-learning-in-phones/"><u>Decoding Android's Brain: Exploring Machine Learning in Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-future-the-most-recent-leaks-and-expectations-for-the-2021-samsung-galaxy-s-series/"><u>Decoding the Future: The Most Recent Leaks and Expectations for the 2021 Samsung Galaxy S Series</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-interactions-learn-the-tricks-of-incorporating-moving-images-into-instagram-dialogue/"><u>Elevate Your Interactions: Learn the Tricks of Incorporating Moving Images Into Instagram Dialogue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-world-of-free-online-fax-options-for-businesses-and-individuals/"><u>Explore the World of Free Online Fax Options for Businesses and Individuals</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x100-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X100 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-facebook-image-search-to-find-someone/"><u>How to Use Facebook Image Search to Find Someone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimal-times-and-techniques-for-deactivating-your-ex-twitter-follows/"><u>Optimal Times & Techniques for Deactivating Your Ex-Twitter Follows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-strategies-unlocking-success-in-royal-match/"><u>Step-by-Step Strategies: Unlocking Success in 'Royal Match'</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-techniques-to-harvest-gif-images-directly-from-fb/"><u>Unveiling Techniques to Harvest GIF Images Directly From FB</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Collection of Iconic '80S Flicks - Watch Now!
-date: 2024-09-08T17:47:41.403Z
-updated: 2024-09-15T19:41:24.752Z
+date: 2024-09-23T08:18:39.058Z
+updated: 2024-09-27T00:13:12.117Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Collection of Iconic '80S Flicks - Watch Now!
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  This article explains how to select every Gmail email at once from the desktop website. Doing so lets you apply a new label to the selected messages, bulk-delete emails,[mark them as read](https://www.lifewire.com/how-to-mark-email-read-in-gmail-1171945) , and more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select All Emails in Gmail
 
  Once you find the emails you want to manage, highlighting all of them is a simple, two-step process.
@@ -31,8 +38,23 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 2. Right below the search bar and above your emails, click the**checkbox** to select all the messages that are currently displayed. Or, select the**arrow** next to this checkbox to choose the types of emails to be selected, such as Read, Unread, Starred, or Unstarred.  
 ![Screenshot of Select All button in Gmail](https://www.lifewire.com/thmb/nDxAo7ifTPWhhJHpwNwtDS2jSIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_select-all-messages-in-a-gmail-label-collection-or-search-1172098-5baea535c9e77c002636c2bc.jpg)  
  At this point, you have only selected the messages that are visible on the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. To select every email in Gmail, including those that are not currently displayed, look at the top of your email list for an additional button, and select it. It look like this:**Select all \[#\] conversations in \[label\]** .  
 ![A list of emails selected in Gmail](https://www.lifewire.com/thmb/4VAxqfY1MDMB8VrzP3z18uSp99Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-gmail-messages-59c38ca927ab46cbb225ebda805c03cc.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Select All Gmail Emails From a Search
 
@@ -46,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 ![Gmail emails highlighted from a search](https://www.lifewire.com/thmb/n2qAQZOsSxNaeRsOvsrHDnmIFoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-conversations-match-search-b3214279e6b44aa89ebcfb82199b23f9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Can Do With Selected Emails
@@ -111,5 +133,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-mastering-powerdirector-software/"><u>[New] The Complete Guide to Mastering PowerDirector Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-innovative-methods-for-mac-screenshot-format-change/"><u>[Updated] Innovative Methods for Mac Screenshot Format Change</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-skype-call-capture-the-most-effective-free-and-paid-approaches/"><u>[Updated] Skype Call Capture The Most Effective Free & Paid Approaches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-one-fortnite-profile-the-ultimate-guide-to-account-consolidation/"><u>All About One Fortnite Profile: The Ultimate Guide to Account Consolidation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-normalizdll-not-found-mishaps-on-your-computer/"><u>How to Recover From 'Normaliz.dll Not Found' Mishaps on Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-narzo-60x-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme Narzo 60x 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-list-for-screen-clarity-top-7-android-adblockers/"><u>In 2024, The Essential List for Screen Clarity Top 7 Android AdBlockers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolve-incessant-windows-11-reboots-a-comprehensive-guide-with-11-effective-solutions/"><u>Resolve Incessant Windows 11 Reboots: A Comprehensive Guide with 11 Effective Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-meta-quest-meta-quest-3-unveiling-the-release-schedule-pricing-insights-and-device-specifications/"><u>The Complete Guide to Meta Quest ([Meta Quest 3]): Unveiling the Release Schedule, Pricing Insights & Device Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-value-of-implementing-a-wi-fi-mesh-network-worth-the-cost/"><u>The Value of Implementing a Wi-Fi Mesh Network - Worth the Cost?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-variations-between-ntsc-pal-and-secam-video-formats-how-to-switch-and-compatibility-across-regions/"><u>The Variations Between NTSC, PAL, & SECAM Video Formats: How to Switch and Compatibility Across Regions</u></a></li>
+</ul></div>
 

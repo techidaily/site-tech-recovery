@@ -1,7 +1,7 @@
 ---
 title: "Discover the Next Big Thing: IPhone 17 Rumored Specs, Pricing & Expected Drop Date"
-date: 2024-09-19T03:07:58.916Z
-updated: 2024-09-20T23:09:11.935Z
+date: 2024-09-21T23:05:53.619Z
+updated: 2024-09-26T23:39:44.905Z
 categories:
   - BestProducts
 description: "This Article Describes Discover the Next Big Thing: IPhone 17 Rumored Specs, Pricing & Expected Drop Date"
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
 
  Like in previous years, there will be several models: iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, and iPhone 17 Slim.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 A September 2025 release date seems like a lock.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone 17 Price Rumors
 
@@ -69,13 +83,6 @@ A September 2025 release date seems like a lock.
 * Physically larger phones
 * More AI features.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Screen
 
  The iPhone 17 series screen is rumored to receive three notable upgrades.
@@ -87,21 +94,22 @@ A September 2025 release date seems like a lock.
  Lastly,[MacRumors shares a Chinese report](https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/) that the iPhone 17 screen will use a new, "super-hard anti-reflective layer" to prevent scratches and screen damage, replacing the current ceramic shield technology.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Face ID
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Processor and Chips
 
@@ -120,13 +128,6 @@ A September 2025 release date seems like a lock.
  Additionally,[MacRumors also says to expect](https://www.macrumors.com/2024/01/04/kuo-iphone-17-to-feature-24mp-front-facing-camera/) that the selfie camera on the front of iPhone 17 models will offer 24-megapixel resolution, up from 12 megapixels on the iPhone 15.  
 
  Lastly, noted Apple analyst Kuo Ming-Chi suggests that[the camera lenses on the iPhone 17 will be built using 6 elements](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) , up from 5 on current models, which will improve image quality, especially in low-light situations.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Phone Size
 
@@ -163,5 +164,24 @@ A September 2025 release date seems like a lock.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-conquering-vr-lexicon-for-beginners/"><u>[New] Conquering VR Lexicon for Beginners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fb-content-takedown-what-are-your-rights-and-recourse/"><u>[Updated] 2024 Approved FB Content Takedown What Are Your Rights and Recourse?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unearthing-the-hidden-an-orderly-guide-to-covert-youtube-videos/"><u>[Updated] Unearthing the Hidden An Orderly Guide to Covert YouTube Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-f54-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy F54 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/arranging-your-dragon-ball-marathon-a-complete-order-guide/"><u>Arranging Your Dragon Ball Marathon: A Complete Order Guide</u></a></li>
+<li><a href="https://fox-within.techidaily.com/django-boosted-with-bootstrap-4-the-ultimate-black-admin-by-creative-tim/"><u>Django Boosted with Bootstrap 4 - The Ultimate Black Admin by Creative Tim</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-using-the-measure-app-on-android-smartphones/"><u>Effective Techniques for Using the Measure App on Android Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-these-excellent-choices-for-free-email-accounts-top-10-list/"><u>Explore These Excellent Choices for Free Email Accounts (Top 10 List)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-whether-the-papacy-has-adapted-to-modern-communication-with-email-usage/"><u>Exploring Whether the Papacy Has Adapted to Modern Communication with Email Usage.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v29-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo V29</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-ev-home-charging-essential-tips-and-techniques-everyone-should-know/"><u>Mastering EV Home-Charging: Essential Tips and Techniques Everyone Should Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-pen-pad-glitches/"><u>Overcoming Windows Pen-Pad Glitches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx939dll-file-not-detected-comprehensive-troubleshooting-guide/"><u>Resolving 'D3DX9_39.dll File Not Detected' - Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-take-when-you-dont-see-new-emails-coming-into-your-yahoo-account/"><u>Steps to Take When You Don't See New Emails Coming Into Your Yahoo Account</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/television-or-projector-unraveling-the-best-for-4k-viewing-pleasure-for-2024/"><u>Television or Projector? Unraveling the Best for 4K Viewing Pleasure for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-guide-to-the-best-lgbtqplus-tv-shows-on-netflix-july-2eticket/"><u>Your Guide to the Best LGBTQ+ TV Shows on Netflix - July 2E_ticket</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Interruptions Highlight the Risks of Government Relying Too Much on Major Tech Companies
-date: 2024-09-13T21:38:32.737Z
-updated: 2024-09-15T16:53:31.054Z
+date: 2024-09-20T22:09:57.678Z
+updated: 2024-09-27T08:32:10.382Z
 categories:
   - BestProducts
 description: This Article Describes How Microsoft Interruptions Highlight the Risks of Government Relying Too Much on Major Tech Companies
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 
  This article explains how to disable Amber alerts on an iPhone. It also covers how to turn off similar government alerts, including emergency, public safety, and test alerts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Disable Amber Alerts and Other iPhone Emergency Alerts
 
  You're just a few taps away from shutting down these notifications, but be sure to keep reading to learn why we recommend keeping Amber alerts turned on.
@@ -31,6 +38,13 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 2. Scroll to the bottom of the screen to find the section labeled**Government Alerts** . Amber alerts and Public Safety Alerts are set to on/green by default; tap a toggle to switch that alert off.
 3. Tap**Emergency Alerts** for a few other options. From there, you can control emergency alerts without affecting the option you chose for Amber alerts in the last step. This is also how you stop emergency alerts from bypassing silent mode.  
 ![The Settings, Notifications, and Emergency Alerts screens on an iPhone](https://www.lifewire.com/thmb/k4Pdtou2x8ooq0Bqd1UnlBWO_KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-amber-alerts-bc193ddbd3c24bd895b61242e22ca176.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Got an Apple Watch?[Check out how to avoid notification overload](https://www.lifewire.com/avoid-notification-overload-apple-watch-1999672) , including notifications from emergency alerts.
 
@@ -41,10 +55,10 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
  There is no way to block or silence Amber alerts except by turning them off. As for emergency alerts, there is a toggle called**Always Play Sound** that you can turn off (see Step 3 above). Doing this prevents the sound from coming through your phone when you're in silent mode.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Change Emergency and Amber Alert Tones on iPhone?
@@ -56,10 +70,10 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 [How to Turn Off SOS on an iPhone 14](https://www.lifewire.com/iphone-14-turn-off-sos-8630001)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why You Shouldn't Disable Amber and Emergency Alerts on iPhone
@@ -106,5 +120,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-8-best-zombie-games-for-2024/"><u>[Updated] The 8 Best Zombie Games for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-10-windows-11-webcam-capturers/"><u>[Updated] Top 10 Windows 11 Webcam Capturers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-anticipated-product-launch-when-and-what-we-might-see/"><u>Apple's Anticipated Product Launch: When and What We Might See</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/browsing-undercover-comprehensive-techniques-to-remain-undetected-online/"><u>Browsing Undercover: Comprehensive Techniques to Remain Undetected Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-correcting-the-coredll-couldnt-be-loaded-message/"><u>Comprehensive Guide: Correcting the 'Core.dll Couldn't Be Loaded' Message</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-ieee-80211-variants-from-ax-to-bgn-standards-explored/"><u>Decoding IEEE 802.11 Variants: From Ax to B/G/N Standards Explored</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-12-pro-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 12 Pro 4G Without Password | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagrams-most-active-hours/"><u>Mastering Instagram's Most Active Hours</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-the-oculus-quist-2-premium-vr-adventures-for-a-fantastic-deal/"><u>Mastering the Oculus Quist 2: Premium VR Adventures for a Fantastic Deal!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalize-your-pc-with-easy-windows-11-taskbar-color-tweaks/"><u>Personalize Your PC with Easy Windows 11 Taskbar Color Tweaks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-13-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 13 mini Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolving-audio-and-analyze-problems-in-winx-hd-video-converter-pro-error-solutions-guide/"><u>Resolving Audio & Analyze Problems in WinX HD Video Converter Pro - Error Solutions Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-adding-extra-storage-by-attaching-an-external-drive-to-xbox-one/"><u>Step-by-Step Tutorial: Adding Extra Storage by Attaching an External Drive to Xbox One</u></a></li>
+</ul></div>
 

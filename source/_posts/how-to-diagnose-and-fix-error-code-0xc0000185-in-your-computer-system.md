@@ -1,7 +1,7 @@
 ---
 title: How to Diagnose and Fix Error Code 0Xc0000185 in Your Computer System
-date: 2024-09-15T00:20:53.397Z
-updated: 2024-09-20T22:37:40.879Z
+date: 2024-09-21T22:37:40.581Z
+updated: 2024-09-26T22:19:44.924Z
 categories:
   - BestProducts
 description: This Article Describes How to Diagnose and Fix Error Code 0Xc0000185 in Your Computer System
@@ -31,6 +31,13 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Don't Do This to a Wet iPhone
 
  If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
@@ -54,10 +61,10 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try the Experts on Saving a Wet iPhone
@@ -66,6 +73,13 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 
 1. **Try a repair company.** If none of these tactics work, there are[iPhone repair](https://www.lifewire.com/repair-options-cracked-iphone-screen-2000276) companies that specialize in saving water-damaged iPhones. A little time at your favorite search engine can put you in touch with a number of good vendors.
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Check for Water Damage in a Used iPhone or iPod
 
@@ -83,10 +97,10 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Waterproof iPhones: iPhone 7 and Newer
@@ -124,5 +138,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-secret-sauce-to-never-miss-a-moment-on-youtube/"><u>[New] 2024 Approved The Secret Sauce to Never Miss a Moment on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-access-royalty-free-beats-for-your-vlog-and-more/"><u>[Updated] 2024 Approved Access Royalty-Free Beats for Your Vlog & More</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audible-annotators-top-selections-for-offline-text-conversion/"><u>[Updated] Audible Annotators Top Selections for Offline Text Conversion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-shot-solidity-choose-the-right-mobile-tripod/"><u>[Updated] In 2024, Shot Solidity Choose the Right Mobile Tripod</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-tech-savvy-approach-to-saving-your-insta-content/"><u>2024 Approved The Tech-Savvy Approach to Saving Your Insta Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-performance-by-deleting-cache-on-android-phones-and-tablets/"><u>Boost Performance by Deleting Cache on Android Phones and Tablets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehve-guide-to-removing-dirt-and-grime-from-a-mechanical-keyboard/"><u>Comprehve Guide to Removing Dirt & Grime From a Mechanical Keyboard</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-photography-top-tips-for-better-iphoneipad-shots/"><u>Enhancing Photography: Top Tips for Better iPhone/iPad Shots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ready-for-applecups-date-speculations-and-key-points-to-watch-out-for/"><u>Get Ready for Apple'cups - Date, Speculations & Key Points to Watch Out For</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hear-from-happy-mac-users/"><u>Hear From Happy Mac Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-honor-magic5-ultimate-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor Magic5 Ultimate Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-share-your-mac-display-with-any-television-using-airplay-a-comprehensive-guide/"><u>How to Seamlessly Share Your Mac Display with Any Television Using AirPlay - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-accelerated-viewer-of-best-images-in-os/"><u>In 2024, Accelerated Viewer of Best Images in OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-microsoft-windows-acpi-battery-driver-problems-with-new-update/"><u>Resolving Microsoft Windows ACPI Battery Driver Problems with New Update</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-missing-msstdfmtdll-file-issue-a-comprehensive-guide/"><u>Resolving the 'Missing msstdfmt.dll File' Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-must-have-journaling-mobile-applications/"><u>Top 6 Must-Have Journaling Mobile Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-must-see-selection-premier-news-curator-platforms/"><u>Your Must-See Selection: Premier News Curator Platforms</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Must-Watch Kid Flicks on Netflix
-date: 2024-09-16T18:43:08.344Z
-updated: 2024-09-21T04:55:53.388Z
+date: 2024-09-24T08:29:29.781Z
+updated: 2024-09-27T11:15:12.212Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Must-Watch Kid Flicks on Netflix
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -91,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -106,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -119,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -128,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Was this page helpful?
@@ -161,5 +168,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-drone-deals-ready-to-buy/"><u>[New] Best Drone Deals Ready to Buy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-mastering-instatunes-navigating-copyright-laws/"><u>[Updated] Mastering InstaTunes Navigating Copyright Laws</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-adobes-jestful-journey-to-meme-making/"><u>2024 Approved Adobe's Jestful Journey to Meme-Making</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-apples-forthcoming-car-cost-details-release-schedule-specifications-and-recent-speculations/"><u>All You Need to Know About Apple's Forthcoming Car: Cost Details, Release Schedule, Specifications, and Recent Speculations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900972367-get-your-windows-11-search-back-on-track-expert-solutions-inside/"><u>Get Your Windows 11 Search Back on Track – Expert Solutions Inside</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-reliable-and-trusted-is-winx-dvd-ripper-amongst-the-community/"><u>How Reliable and Trusted Is WinX DVD Ripper Amongst the Community?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-s23-tactical-edition-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy S23 Tactical Edition to Mac? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-procuring-growls-and-whispers-audio-packages/"><u>New 2024 Approved Procuring Growls and Whispers Audio Packages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequential-superhero-saga-your-step-by-step-guide-to-the-x-men-movie-marathon/"><u>Sequential Superhero Saga: Your Step-by-Step Guide to the X-Men Movie Marathon</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-when-your-iphones-qr-scanner-stops-responding/"><u>Top 10 Solutions When Your iPhone's QR Scanner Stops Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-issues-with-your-hp-laptops-webcam-on-windows-10/"><u>Troubleshooting Guide: Resolving Issues with Your HP Laptop's Webcam on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/undo-a-misrepost-on-tiktok-easy-fixes-for-common-mistakes/"><u>Undo a Misrepost on TikTok - Easy Fixes for Common Mistakes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Wireless Technology: Comprehensive Insights Into the 802.11 Series (Be, Ax, Ac)"
-date: 2024-09-19T02:41:26.762Z
-updated: 2024-09-21T00:10:55.058Z
+date: 2024-09-19T21:18:52.035Z
+updated: 2024-09-26T16:41:46.319Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Wireless Technology: Comprehensive Insights Into the 802.11 Series (Be, Ax, Ac)"
@@ -43,23 +43,9 @@ Lifewire
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 802.11aj
 
  Known as the China Millimeter Wave, this standard applies in China and is a rebranding of 802.11ad for use in certain areas of the world. The goal is to maintain backward compatibility with 802.11ad.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 802.11ah
 
@@ -74,10 +60,10 @@ Lifewire
  Keep in mind when distances are mentioned that ranges can be greatly impacted by obstacles that block the signal, so the range mentioned refers to situations where there is absolutely no interference.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 802.11ac (Wi-Fi 5)
@@ -94,6 +80,13 @@ Lifewire
 
  While 802.11n offers significant bandwidth improvement from previous standards and is widely supported, the use of multiple signals may interfere with nearby 802.11b/g-based networks.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 802.11g (Wi-Fi 3)
 
  In 2002 and 2003, WLAN products supporting a newer standard called 802.11g emerged. 802.11g attempts to combine the best of both 802.11a and 802.11b. 802.11g supports bandwidth up to 54 Mbps and uses the 2.4 GHz frequency for greater range. 802.11g is backward compatible with 802.11b, meaning that 802.11g[access points](https://www.lifewire.com/wireless-access-point-816545) will work with 802.11b wireless[network adapters](https://www.lifewire.com/definition-of-adapter-817585) and vice versa.
@@ -101,6 +94,13 @@ Lifewire
  This standard is supported by essentially all wireless devices and network equipment in use today, and it's an expensive option. However, the entire network slows to match any 802.11b devices on the network.
 
  802.11g is also unofficially referred to as_Wi-Fi 3_ .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 802.11a (Wi-Fi 2)
 
@@ -119,6 +119,13 @@ Lifewire
  802.11b uses the same_unregulated_ radio signaling frequency (2.4[GHz](https://www.lifewire.com/story-of-hertz-megahertz-and-gigahertz-818308) ) as the original 802.11 standard. Vendors often prefer using these frequencies to lower their production costs. Being unregulated, 802.11b gear can incur interference from microwave ovens, cordless phones, and other appliances using the same 2.4 GHz range. However, by installing 802.11b gear at a reasonable distance from other appliances, interference can easily be avoided.
 
  802.11b is also unofficially referred to as_Wi-Fi 1_ .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What About Bluetooth and the Rest?
 
@@ -197,5 +204,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-apex-of-high-res-viewing-best-4k-screens-on-macs/"><u>[New] In 2024, The Apex of High-Res Viewing - Best 4K Screens on Macs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-preventing-frame-skips-in-live-obs-broadcasts/"><u>[Updated] 2024 Approved Preventing Frame Skips in Live OBS Broadcasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-green-grounds-a-selection-of-free-downloadable-videography-sets/"><u>2024 Approved Green Grounds A Selection of Free, Downloadable Videography Sets</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-crystal-clear-visuals-on-the-hisense-50h8f-4k-hdr-smart-television/"><u>Budget-Friendly, Crystal Clear Visuals on the Hisense 50H8F 4K HDR Smart Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expand-your-horizons-on-ig-how-to-showcase-entire-pictures-without-cropping/"><u>Expand Your Horizons on IG: How to Showcase Entire Pictures Without Cropping</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-disabling-voice-control-on-your-samsung-flat-screen-television/"><u>Expert Tips for Disabling Voice Control on Your Samsung Flat-Screen Television</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 7/iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-motherboard-selection-understanding-essential-7-aspects/"><u>Mastering Motherboard Selection: Understanding Essential 7 Aspects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-wizardry-behind-android-intellect-a-deep-dive-into-its-core/"><u>The Wizardry Behind Android Intellect: A Deep Dive Into Its Core</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-do-different-led-colors-on-my-playstation-4-controller-indicate/"><u>What Do Different LED Colors on My PlayStation 4 Controller Indicate?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11driverkit-for-xbox-one-gaming-controllers/"><u>Win11DriverKit for Xbox One Gaming Controllers</u></a></li>
+</ul></div>
 

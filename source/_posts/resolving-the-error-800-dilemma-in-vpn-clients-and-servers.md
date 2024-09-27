@@ -1,7 +1,7 @@
 ---
 title: Resolving the Error 800 Dilemma in VPN Clients and Servers
-date: 2024-09-08T20:12:19.812Z
-updated: 2024-09-15T16:40:29.529Z
+date: 2024-09-25T06:57:39.306Z
+updated: 2024-09-27T02:42:06.644Z
 categories:
   - BestProducts
 description: This Article Describes Resolving the Error 800 Dilemma in VPN Clients and Servers
@@ -56,6 +56,13 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
 
 ![Firefox clear all history screen](https://www.lifewire.com/thmb/Z-PhwIX7FXMCbSNS9MF4E7XIaL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-cache-clear-all-d35c19a29c2b45fbaead6f80f0231835.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don't forget to choose**Everything** from the**Time range to clear** section, assuming that's your intent.
 
  Follow these steps to get to that screen through the Firefox settings menu:
@@ -63,6 +70,14 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
 1. In Firefox's menu button (the three-lined hamburger icon), select**Settings** .  
 ![The Firefox menu in Windows](https://www.lifewire.com/thmb/D8-cMayZxLKdXZ4-m6_U2i0-W0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-menu-2516fa793c7c4037b7195c85ad0ad39e.png)
 2. Choose**Privacy & Security** from the left, then scroll to**Cookies and Site Data** on the right.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select**Clear Data** .  
 ![A screenshot of Firefox Privacy & Security settings with the Clear Data button highlighted](https://www.lifewire.com/thmb/305zytHAvtTSwvpHVrJleyrOKPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-clear-cache-2617980-fcf21f4998eb49a4ba554b437480495b.jpg)
 4. In the Clear Data screen that opens, select**Cached Web Content** . The other option, if selected, will delete the cookies in Firefox.  
@@ -80,6 +95,13 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
 3. Enable the**Cached images and files** (Android) or**Cache** (iOS) option.
 4. On Android, tap**Delete browsing data** \>**DELETE** . On iOS, choose**Clear Private Data** \>**OK** .  
 ![The Delete Browsing Data page in the Firefox mobile app for Android](https://www.lifewire.com/thmb/h3_ObyxwRdAaReHNosMmb_LzDyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firefox-purge-cache-mobile-app-1b775b500ac147f187f9deda636db566.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Firefox Focus Can Now Block Cross-Site Cookie Tracking](https://www.lifewire.com/how-to-use-firefox-focus-4588143)
 
@@ -100,6 +122,13 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
 3. Pick a timeframe to delete, such as**All history** , then tap**Clear History** .  
 ![The Safari Clear History screen on iPhone](https://www.lifewire.com/thmb/u987Oij4-TyOMAjmwZ7rRYWH6R8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-safari-clear-all-history-5691796f4ca448ecb44737cecb5d6c86.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Purge Cache in Opera
 
  In Opera, clearing the cache is done via the**Clear browsing data** section that's part of**Settings** .
@@ -115,15 +144,22 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
 3. Choose**All time** at the top to delete the entire cache.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Opera automatically selects all items you can delete, including**Cached images and files** . Confirm that you want to erase the chosen items.
 5. Select**Clear data** .  
 ![The Clear Browsing Data window in the Opera web browser](https://www.lifewire.com/thmb/a2NGZuHErqbxjviG1W2pkmcJYv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-clear-browsing-data-54dc8193e8224f8b885847ed0216a607.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clear Cache in the Opera Mobile Browser
 
@@ -135,15 +171,15 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
 ![Opera app settings on Android](https://www.lifewire.com/thmb/k-fGiILPYFuEpQtNKay5z5yoKaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-settings-android-a71130d7b6fe4e449df607988b2dc828.png)
 4. Tap the items you want to clear. To erase just the cache, choose**Cached images and files** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select**Clear data** on Android, or**Clear** on iOS.  
 ![Opera app Settings, Privacy & Security, and Clear Data screens](https://www.lifewire.com/thmb/R2V9Xdno9Yjf7y80Bd1ca8duVpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opera-cache-purge-android-app-1b5d8f0113b7474b8d5f92bc5a170a00.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Clear Browsing Data for Edge
 
@@ -162,13 +198,6 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
 3. To purge the browsing cache in Edge, make sure**Cached images and files** is selected, then click**Clear now** . You can also clear the cookies, browsing history, and more.  
 ![The cached images and files option chosen in the Edge delete browsing data prompt](https://www.lifewire.com/thmb/xxLrSqvF_B_JmonmgYMDBwmToSQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-clear-cache-files-98bb06bbb1354b76b7ebec2211543348.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Clear Cache in the Edge Mobile Browser
 
  Here's how to delete cache files from the Edge mobile app:
@@ -182,13 +211,6 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
 5. Tap**Clear data** on Android. For iOS, choose**Clear now** and then confirm by tapping the same button.  
 ![The Clear browsing data screen in the Edge app for Android](https://www.lifewire.com/thmb/mdg7Etrp3a_lQksNf9_Gcxd5eUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edge-privacy-security-settings-clear-data-e60e864e45314736b2c09e1cba79603c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Delete Vivaldi's Browser Cache
 
  Clear the cache in Vivaldi from the**Delete Browsing Data**  area. As with most browsers, the**Ctrl** +**Shift** +**Del** (Windows) or**Command** +**Shift** +**Delete** (Mac) shortcut is the quickest way there, but the menu works, too:
@@ -198,19 +220,6 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
 2. Pick a timeframe, such as**All Time** , then choose**Cache** from the list. As you can see, you can also erase cookies, downloads, site settings, and more, if you select those items.  
 ![Vivaldi's delete browsing data prompt with Cache chosen](https://www.lifewire.com/thmb/Jjrlk86CVOssGYmvryE3K6CN8As=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2024-06-14071603-4800e7bd1a44431e82ae862d0d118ad4.png)
 3. Choose**Delete** .
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Clear Cache in the Vivaldi Mobile Browser
 
@@ -242,6 +251,13 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
  Regardless of why you want to do it, clearing your browser's cache is easy to do in all the popular browsers in use today.
 
  As mentioned above, the quickest way to pull up the "cache clearing" or "browsing data" section in your browser is via**Ctrl** +**Shift** +**Del** (Windows) or**Command** +**Shift** +**Delete** (Mac) but see one of the sections above for the exact steps involved in clearing your specific browser's cache.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More About Clearing Caches in Web Browsers
 
@@ -289,5 +305,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-rival-tools-that-outclass-sharex/"><u>[New] 2024 Approved Rival Tools that Outclass ShareX</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-core-elements-of-zd-soft-recording-features/"><u>[Updated] 2024 Approved The Core Elements of ZD Soft Recording Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-flash-dramatization-structure/"><u>[Updated] In 2024, Flash Dramatization Structure</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-cinematic-creator-win8-studio/"><u>2024 Approved Cinematic Creator Win8 Studio</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-does-vidma-stack-up-as-a-screen-recorder/"><u>2024 Approved How Does Vidma Stack Up as a Screen Recorder?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-crafting-your-own-home-theater-projector-screen/"><u>DIY Guide: Crafting Your Own Home Theater Projector Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-setup-tips-for-combining-samsung-soundbar-and-external-subwoofer/"><u>Easy Setup Tips for Combining Samsung Soundbar and External Subwoofer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-smooth-out-freezing-frames-and-hiccups-in-pc-fortnite-battles/"><u>How to Smooth Out Freezing Frames and Hiccups in PC Fortnite Battles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-or-android-the-ultimate-guide-to-making-the-right-choice-for-your-needs/"><u>IPhone or Android? The Ultimate Guide to Making the Right Choice for Your Needs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-tricks-revealed-how-to-put-an-end-to-irritating-message-bombardments/"><u>IPhone Tricks Revealed: How to Put an End to Irritating Message Bombardments</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-the-best-video-editor-for-mac-splice/"><u>New Download the Best Video Editor for Mac Splice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-tv-troubleshooting-how-to-use-smartphone-apps-instead-of-a-remote/"><u>Roku TV Troubleshooting: How to Use Smartphone Apps Instead of a Remote</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-enhancing-your-iphone-typography-with-custom-fonts/"><u>Step-by-Step Instructions: Enhancing Your iPhone Typography with Custom Fonts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-guide-to-capturing-pc-moments-with-apowersoft-for-2024/"><u>The Ultimate Guide to Capturing PC Moments with Apowersoft for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-new-convenience-adjusting-settings-on-roku-tv-via-touchscreen-options/"><u>Unlocking New Convenience: Adjusting Settings on Roku TV via Touchscreen Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-screen-shot-techniques-learn-the-four-key-strategies/"><u>Windows 11 Screen Shot Techniques - Learn the Four Key Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-civi-3-disney-100th-anniversary-edition-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Disney 100th Anniversary Edition Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
 

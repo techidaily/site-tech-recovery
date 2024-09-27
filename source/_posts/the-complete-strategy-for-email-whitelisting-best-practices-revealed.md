@@ -1,7 +1,7 @@
 ---
 title: The Complete Strategy for Email Whitelisting - Best Practices Revealed
-date: 2024-09-17T07:29:32.228Z
-updated: 2024-09-21T02:40:15.301Z
+date: 2024-09-20T07:56:41.016Z
+updated: 2024-09-27T09:03:40.471Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Strategy for Email Whitelisting - Best Practices Revealed
@@ -44,16 +44,10 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
  Open your Spam box by selecting**Spam** from the navigation bar, and find your friend's email. You'll see a Spam label at the top of the email. Click the**x** next to the label to remove it.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add a Non-Spam Filter
@@ -63,6 +57,14 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
 1. From your inbox screen, select**Settings** (gear icon).  
 ![The Settings gear in Gmail](https://www.lifewire.com/thmb/R_L8KfpWhrbFl8lfSpnLMSe10B8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001a-how-to-forward-your-gmail-email-to-another-email-address-1171906-34faee4a26e44bf0867acc095a8227b2.jpg)
 2. Select**See all settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "See All Settings" button in Gmail](https://www.lifewire.com/thmb/vFVY1fT96fGXDU3EV8O9uy4WeM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002a-how-to-forward-your-gmail-email-to-another-email-address-1171906-3571b33b927f4a3f91dd47069852ff1c.jpg)
 3. Select**Filters and Blocked Addresses** from the navigation links at the top.  
 ![Gmail settings with "Filters and blocked addresses" highlighted](https://www.lifewire.com/thmb/XIRFoWfmoZf89F_5JImdTgh8gUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filtersandblockedaddressesannotated-4cbb2fbb83744f909beedaa558c98bb8.jpg)
@@ -75,13 +77,6 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
 ![Gmail filter settings with "Never send it to spam" and "Create Filter" highlighted](https://www.lifewire.com/thmb/0pksvQktOdYwQ_RHEgemit0DiWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Neversendtospamannotated-f034f64023fc464a8c2a44282cf7cc55.jpg)
 7. Once you're done, you'll see the new filter show up in the list of filters.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Safelist Yahoo Emails
 
  Safelisting an email address in Yahoo is similar to Gmail. Either add the email address to your Yahoo contacts or[create a filter](https://www.lifewire.com/set-up-filter-yahoo-mail-1167129) .
@@ -91,6 +86,19 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
  In Yahoo Mail, select the**Contacts card icon** in the upper right corner of your Inbox. Select**New Contact** in the left navigation pane.
 
 ![Screenshot of the Add Contact form in Yahoo Mail](https://www.lifewire.com/thmb/04F4MMEZyubz0eT9rDSBfJi5Vjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-whitelist-email-addresses-4588603-5-5c7f4f95c9e77c00012f82f9.png)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Complete the**Add Contact** form with your friend's name and email address. Select**Save** to save the new contact. Yahoo will no longer place incoming emails from this email address to your Spam box.
 
@@ -103,16 +111,23 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
 2. Select**Filters** from the left navigation menu then**Add new filters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot of Add new filters in Yahoo Settings](https://www.lifewire.com/thmb/zhht3NT9ESGlhuyAlu4AfXBVRMk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-whitelist-email-addresses-4588603-10-f0e3428bb24b431db2c36b74e57a5987.png)
 3. In the**Add a new filter** form, give the filter a name and fill out the domain or the email address you want to safelist. Select**Save** twice to activate the new filter.  
 ![Screenshot of adding a new filter in Yahoo](https://www.lifewire.com/thmb/wdjoMDtN1zZ9t7nIeMURoQWsll0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-whitelist-email-addresses-4588603-11-1e90405d264d4fcb9f192d77bb550e4d.png)
 4. The filter now appears in the list of filters in the**Filters** window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This filter move the incoming email from that address directly to your Inbox by default.
 
@@ -141,16 +156,10 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
  Any email from an address or domains in the Safe Senders list go directly to your Inbox.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comcast Email Safelist
@@ -158,13 +167,6 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
  Comcast, otherwise branded as Xfinity, is one of the most popular Internet Service Providers in the country. For this reason, many people may need to safelist their friends using that service.
 
  If you sign up for it, Xfinity provides customers with a free email account. There are several ways to safelist your friends with Xfinity.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Add an Xfinity Contact
 
@@ -185,10 +187,26 @@ thumbnail: https://www.lifewire.com/thmb/JRByYCMuCbvSjz0hsdRMMZJdLWA=/400x300/fi
 1. Select the**gear icon** in the upper right corner and click or tap**Settings** .  
 ![Screenshot of settings in Xfinity Mail](https://www.lifewire.com/thmb/tke3_qVbfBAj1Bln8C1VQEyBr7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-whitelist-email-addresses-4588603-12-90e7b9f373a942fa9c48ba689d8a89f2.png)
 2. Select**Filter Rules** , under**Mail** in the left navigation pane, then the**Add New Rule** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of adding new rules in Xfinity Mail](https://www.lifewire.com/thmb/BMW04b_pPIGnrxmniem2hRonO3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-whitelist-email-addresses-4588603-13-81a16660f1a6477a8b63fe32782a6b90.png)
 3. Make the**Rule Name** your friend's name. Select**Add condition** and choose**Sender/From** . In the**Contains** field, type the email address or domain to safelist.  
 ![Screenshot of adding a new rule in Xfinity Mail](https://www.lifewire.com/thmb/cV8hZYQypsP8f_uC_foBaC9AJGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-whitelist-email-addresses-4588603-14-1426ce02076f40afb18ce38b2061b717.png)
 4. Select the**Add action** link then**Keep** . Save the new rule.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of adding an action to a rule in Xfinity Mail](https://www.lifewire.com/thmb/1fva1KXb-V0T_udxD2-N05IJKZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-whitelist-email-addresses-4588603-15-c756a2d751b54284af99321e42bdb8c6.png)
 5. Once you're done, you'll see your new filter show up under**Mail Filter Rules** in Xfinity Mail settings.
 
@@ -231,5 +249,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-offworld-trading-company-analysis-mastering-the-ruthless-business-game/"><u>Comprehensive Offworld Trading Company Analysis - Mastering the Ruthless Business Game</u></a></li>
+<li><a href="https://network-issues.techidaily.com/driver-disruption-ends-nvidia-display-works/"><u>Driver Disruption Ends: Nvidia Display Works</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-solutions-for-overcoming-facetime-screen-blackouts/"><u>Expert Advice: Solutions for Overcoming FaceTime Screen Blackouts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/garmins-innovative-ultra-30-review-full-capabilities-examined/"><u>Garmin's Innovative Ultra 30 Review Full Capabilities Examined</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-inauthentic-connections-the-guide-to-detecting-phony-social-network-invites/"><u>Identifying Inauthentic Connections: The Guide to Detecting Phony Social Network Invites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastery-of-autoplay-functionality-in-fb-video-streams/"><u>In 2024, Mastery of Autoplay Functionality in Fb Video Streams</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-understanding-pexelscom-a-resource-for-high-quality-creative-commons-images/"><u>New Understanding Pexels.com A Resource for High-Quality, Creative Commons Images</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/pioneering-gear-insights-with-toms-electronic-expertise/"><u>Pioneering Gear Insights with Tom's Electronic Expertise</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-g310-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia G310</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-how-to-recover-or-locate-d3dx928dll-when-lost/"><u>Troubleshooting: How to Recover or Locate d3dx9_28.dll When Lost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uber-vs-cab-fares-which-is-the-more-economical-choice-for-your-journey/"><u>Uber Vs. Cab Fares: Which Is the More Economical Choice for Your Journey?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-repairing-your-stuck-cd-dvd-and-blu-ray-drives/"><u>Ultimate Guide: Repairing Your Stuck CD, DVD, and Blu-Ray Drives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-selecting-the-perfect-phone-case-for-you/"><u>Ultimate Guide: Selecting the Perfect Phone Case for You</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-full-potential-mac-plus-obs-plus-streamlabs/"><u>Unlock Full Potential Mac + OBS + Streamlabs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-online-potential-by-enabling-browser-cookies/"><u>Unlocking Your Online Potential by Enabling Browser Cookies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-flip-and-spin-16-top-rated-free-avi-video-rotation-tools-you-need-to-know/"><u>Updated In 2024, Flip and Spin 16 Top-Rated Free AVI Video Rotation Tools You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/which-is-better-exploring-the-advantages-of-ipad-mini-over-ipad-air/"><u>Which Is Better? Exploring the Advantages of iPad Mini over iPad Air</u></a></li>
+</ul></div>
 

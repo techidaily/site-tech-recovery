@@ -1,7 +1,7 @@
 ---
 title: Google Pixel Phase 9 - A Glimpse Into Future Specs, Pricing & Expected Debut Date.
-date: 2024-09-08T23:15:35.096Z
-updated: 2024-09-15T21:37:57.819Z
+date: 2024-09-25T21:07:03.413Z
+updated: 2024-09-27T04:04:03.931Z
 categories:
   - BestProducts
 description: This Article Describes Google Pixel Phase 9 - A Glimpse Into Future Specs, Pricing & Expected Debut Date.
@@ -35,6 +35,13 @@ thumbnail: https://www.lifewire.com/thmb/Jo4mnrs5lS0gqULHjPpUT9FYXk0=/400x300/fi
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Price Rumors
 
  We haven't seen any rumors or leaks about what the Pixel 9 will cost. For now, we'll assume pricing will match that of the Pixel 8 lineup. However, with the addition of an XL model, we're really only able to take a guess.
@@ -61,28 +68,15 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display
@@ -96,10 +90,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Performance
@@ -107,16 +101,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cameras
@@ -166,5 +154,20 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-battle-of-broadcasting-is-obs-or-twitch-studio-superior/"><u>[New] Battle of Broadcasting Is OBS or Twitch Studio Superior?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-swift-snapshots-on-the-social-network/"><u>[New] In 2024, Swift Snapshots on the Social Network</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-comparing-reels-and-stories-whats-your-preference/"><u>[Updated] In 2024, Comparing Reels & Stories What's Your Preference?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-swiftsoundphone-apps-top-10-for-rapid-music/"><u>2024 Approved SwiftSoundphone Apps Top 10 for Rapid Music</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-closer-look-at-the-worlds-most-visited-internet-destinations-ranked/"><u>A Closer Look at the World's Most Visited Internet Destinations: Ranked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detailed-solutions-for-when-you-cant-find-d3dx9nineteen-twentysevendll-on-your-system/"><u>Detailed Solutions for When You Can't Find d3dx9_nineteen-twentyseven.dll on Your System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-trasforma-i-tuoi-file-mts-in-formato-mp4-con-queste-semplici-istruzioni/"><u>Gratis: Trasforma I Tuoi File MTS in Formato MP4 Con Queste Semplici Istruzioni</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-pro-keyboard-problem-heres-how-you-can-repair-it/"><u>MacBook Pro Keyboard Problem? Here's How You Can Repair It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-and-easy-troubleshooting-for-the-elusive-d3dx934dll-file/"><u>Quick & Easy Troubleshooting for the Elusive d3dx9_34.dll File</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/by-step-guide-how-to-convert-youtube-streaming-into-a-free-screencast/"><u>Step by Step Guide How To Convert YouTube Streaming Into a Free Screencast</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-13-mini-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 13 mini With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-documents-the-ultimate-list-of-free-pdf-editors-july-2024-edition/"><u>Unlock the Power of Documents: The Ultimate List of Free PDF Editors, July 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-this-selection-of-10-free-alternatives-to-netflix-without-breaking-the-bank/"><u>Watch This Selection of 10 FREE Alternatives to Netflix, Without Breaking the Bank</u></a></li>
+</ul></div>
 

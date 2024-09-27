@@ -1,7 +1,7 @@
 ---
 title: "Embracing Innovation: The Exciting World of Verizon 5G"
-date: 2024-09-11T16:02:49.292Z
-updated: 2024-09-16T01:40:00.487Z
+date: 2024-09-25T05:38:22.034Z
+updated: 2024-09-27T00:40:35.023Z
 categories:
   - BestProducts
 description: "This Article Describes Embracing Innovation: The Exciting World of Verizon 5G"
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Price Rumors
 
  We haven't seen any rumors or leaks about what the Pixel 9 will cost. For now, we'll assume pricing will match that of the Pixel 8 lineup. However, with the addition of an XL model, we're really only able to take a guess.
@@ -51,6 +58,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Pixel 9 Features
 
@@ -75,22 +89,15 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cameras
@@ -99,31 +106,24 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 MySmartPrice
 
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -154,5 +154,24 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-darktable-pro-finding-the-best-paired-editor-for-2024/"><u>[New] Darktable Pro Finding the Best Paired Editor for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-can-you-change-your-voice-magically-explore-alternative-tools/"><u>[Updated] Can You Change Your Voice Magically? Explore Alternative Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-navigating-the-new-norm-earnings-in-vlogging/"><u>[Updated] In 2024, Navigating the New Norm Earnings in Vlogging</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-transform-your-online-presence-on-tiktok-in-5-easy-steps-for-2024/"><u>[Updated] Transform Your Online Presence on TikTok in 5 Easy Steps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-leveraging-the-strengths-of-ez-grabber-software/"><u>2024 Approved Leveraging the Strengths of EZ Grabber Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-luminous-leaders-top-5-monitors-that-bring-shades-to-life/"><u>2024 Approved Luminous Leaders Top 5 Monitors That Bring Shades to Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-proven-techniques-to-elevate-your-chatgpt-experience/"><u>5 Proven Techniques to Elevate Your ChatGPT Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-complete-guide-to-understanding-and-correcting-504-gateway-timeouts/"><u>A Complete Guide to Understanding & Correcting 504 Gateway Timeouts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-connection-guide-how-to-play-nintendo-switch-on-your-hdtv/"><u>Easy Connection Guide: How to Play Nintendo Switch on Your HDTV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-a-lost-or-inaccessible-ftd2xxdll-file-effectively/"><u>How to Recover a Lost or Inaccessible ftd2xx.dll File Effectively</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-your-studies-with-affordable-dell-prices-student-discount-strategies/"><u>Maximize Your Studies with Affordable Dell Prices: Student Discount Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-windows-11s-protectorate-hurdle-for-file-modification-rights/"><u>Overcoming Windows 11'S Protectorate Hurdle for File Modification Rights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-6-networks-maximizing-biz-potential-for-2024/"><u>Premium 6 Networks Maximizing Biz Potential for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-of-getting-your-money-back-from-a-steam-purchase/"><u>Step-by-Step Process of Getting Your Money Back From a Steam Purchase</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-18-handy-ios-shortcuts-app-tricks-and-tips/"><u>Top 18 Handy iOS Shortcuts App Tricks & Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-fixing-missing-rockalldlldll-errors/"><u>Troubleshooting Steps for Fixing Missing Rockalldll.dll Errors</u></a></li>
+</ul></div>
 

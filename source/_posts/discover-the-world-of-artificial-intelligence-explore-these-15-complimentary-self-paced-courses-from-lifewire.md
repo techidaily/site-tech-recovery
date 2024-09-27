@@ -1,7 +1,7 @@
 ---
 title: "Discover the World of Artificial Intelligence: Explore These 15 Complimentary, Self-Paced Courses From Lifewire"
-date: 2024-09-17T01:38:59.299Z
-updated: 2024-09-20T16:51:32.432Z
+date: 2024-09-21T22:34:39.318Z
+updated: 2024-09-27T01:22:17.682Z
 categories:
   - BestProducts
 description: "This Article Describes Discover the World of Artificial Intelligence: Explore These 15 Complimentary, Self-Paced Courses From Lifewire"
@@ -41,6 +41,19 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
 
  You may want to consult a[USB Physical Compatibility Chart](https://www.lifewire.com/usb-physical-compatibility-chart-2624585) for a reference on what-fits-with-what.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Interconnected Device Speeds
 
  Older USB 1.1 devices and cables are, for the most part, physically compatible with USB 2.0 hardware. However, the only way to reach USB 2.0 transmission speeds is if all devices and cables being connected to each other support USB 2.0.
@@ -50,6 +63,13 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
  USB 2.0 devices and cables used with USB 3.0 devices and cables, assuming they're physically compatible, will operate at the lower USB 2.0 speed.
 
  In other words, the transmission speed falls to the older of the two technologies. This makes sense, since you can't pull USB 3.0 speeds out of a USB 2.0 cable, nor can you get USB 2.0 transmission speeds using a USB 1.1 cable.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## USB On-the-Go (OTG)
 
@@ -90,12 +110,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-expert-picks-for-superior-steadicams-in-aerial-cinema/"><u>[New] Expert Picks for Superior Steadicams in Aerial Cinema</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-tv-for-virtual-concerts/"><u>[New] Ultimate TV for Virtual Concerts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-edge-quick-frame-gatherer-5-for-2024/"><u>[Updated] Leading Edge Quick Frame Gatherer #5 for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-filming-techniques-on-tiktok-platforms-for-2024/"><u>[Updated] Mastering Filming Techniques on TikTok Platforms for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2021s-most-anticipated-wearable-dissecting-potential-costs-launch-dates-and-specs-for-the-new-apple-watch-series-x/"><u>2021'S Most-Anticipated Wearable: Dissecting Potential Costs, Launch Dates, and Specs for the New Apple Watch Series X</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/authenticating-successfully-the-pathway-to-an-instagram-blue-checkmark/"><u>Authenticating Successfully: The Pathway to an Instagram Blue Checkmark</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-moto-g24-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g84-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G84 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-asus-rog-phone-8-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Asus ROG Phone 8 Phones? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-exclusive-discounts-on-verizon-phone-plans/"><u>Latest Exclusive Discounts on Verizon Phone Plans</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-communication-join-us-for-the-samsung-phone-reveal-ceremony/"><u>Revolutionize Your Communication – Join Us for the Samsung Phone Reveal Ceremony</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-soundbar-woes-heres-how-to-bring-it-back-from-the-dead/"><u>Samsung Soundbar Woes? Here's How to Bring It Back From the Dead</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-childn-online-experience-with-easy-discord-controls-setup/"><u>Secure Your Child'n Online Experience with Easy Discord Controls Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-duckduckgo-how-secure-and-private-is-this-alternative-search-platform/"><u>Understanding DuckDuckGo: How Secure and Private Is This Alternative Search Platform?</u></a></li>
+<li><a href="https://discover-great.techidaily.com/winxdvd-free-edition-excellente-solution-multiformats-transformez-votre-dvd-en-mp4avi-compatible-avec-iphone-and-android/"><u>WinXDVD Free Edition: Excellente Solution Multiformats - Transformez Votre DVD en MP4/AVI Compatible Avec iPhone & Android</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving Issues with Unresponsive DVD, BD & CD Drives"
-date: 2024-09-19T01:24:26.948Z
-updated: 2024-09-20T20:49:53.176Z
+date: 2024-09-24T22:21:26.834Z
+updated: 2024-09-26T18:23:06.149Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Tips: Resolving Issues with Unresponsive DVD, BD & CD Drives"
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -92,12 +106,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-editors-showdown-filmora-vs-democracy-creator-features-for-2024/"><u>[Updated] Professional Editors Showdown Filmora Vs. Democracy Creator Features for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transforming-fb-videos-into-mp3-files/"><u>[Updated] Transforming Fb Videos Into MP3 Files</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-take-your-fb-visibility-to-new-heights-proven-seo-strategies-reviewed/"><u>2024 Approved Take Your FB Visibility to New Heights Proven SEO Strategies Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-laptop-lifespan-with-windows-11-battery-reports-a-step-by-step-tutorial-for-efficient-usage/"><u>Boost Your Laptop Lifespan with Windows 11 Battery Reports: A Step-by-Step Tutorial for Efficient Usage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-your-visibility-10-techniques-to-go-viral-on-instagram-quickly/"><u>Boosting Your Visibility: 10 Techniques to Go Viral on Instagram Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-netgear-default-passwords-guide-july-update-2024/"><u>Comprehensive NETGEAR Default Passwords Guide - July Update 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-v27-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo V27 Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-redmi-note-12-proplus-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi Redmi Note 12 Pro+ 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-blaze-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Blaze Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keeping-your-macbook-awake-tips-to-stop-it-from-going-to-sleep-with-closed-lid/"><u>Keeping Your MacBook Awake: Tips to Stop It From Going to Sleep with Closed Lid</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-internet-to-find-someone-elses-phone-number-a-comprehensive-guide/"><u>Navigating the Internet to Find Someone Else's Phone Number - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-cheat-sheet-on-finding-your-dream-mobile-case/"><u>The Complete Cheat Sheet on Finding Your Dream Mobile Case</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tunetracker-outside-of-dacast-realm/"><u>TuneTracker Outside of DaCast Realm</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mkv-mjpeg-movavi/"><u>オンラインでセッションレス・MKV MJPEG変換を実現しよう！ - Movavi デモンストレーション</u></a></li>
+</ul></div>
 

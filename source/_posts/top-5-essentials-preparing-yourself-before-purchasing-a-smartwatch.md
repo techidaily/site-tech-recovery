@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Essentials: Preparing Yourself Before Purchasing a Smartwatch"
-date: 2024-09-14T07:16:17.167Z
-updated: 2024-09-21T00:43:37.957Z
+date: 2024-09-22T22:06:56.809Z
+updated: 2024-09-26T20:26:59.843Z
 categories:
   - BestProducts
 description: "This Article Describes Top 5 Essentials: Preparing Yourself Before Purchasing a Smartwatch"
@@ -45,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Features
@@ -56,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -66,6 +79,13 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -74,18 +94,18 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -110,5 +130,26 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-top-5-list-ps3-games-on-windows-platforms-for-2024/"><u>[New] Ultimate Top 5 List PS3 Games on Windows Platforms for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-discover-the-best-5-devices-to-stream-and-record-sessions/"><u>[Updated] 2024 Approved Discover the Best 5 Devices to Stream & Record Sessions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-exclusive-tools-to-elevate-your-horizontal-and-vertical-igtv-posts/"><u>[Updated] Exclusive Tools to Elevate Your Horizontal and Vertical IGTV Posts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-instant-impact-facebook-vids-for-2024/"><u>[Updated] Instant Impact Facebook Vids for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-pairings-blending-tracks-with-cubase-essentials/"><u>[Updated] Perfect Pairings Blending Tracks with Cubase Essentials</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-bouncie-smart-gps-tracker-an-insightful-review-of-an-easy-to-use-and-economical-vehicle-tracking-solution/"><u>Evaluating Bouncie Smart GPS Tracker - An Insightful Review of an Easy-to-Use and Economical Vehicle Tracking Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/exploring-10-factors-that-lead-to-automatic-dimming-of-your-iphone-screen/"><u>Exploring 10 Factors That Lead to Automatic Dimming of Your iPhone Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-lightened-up-heres-how-to-switch-back-to-dark-mode/"><u>Facebook Lightened Up? Here’s How to Switch Back to Dark Mode!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-people-lookup-6-quick-techniques-to-easily-find-someone/"><u>Facebook People Lookup: 6 Quick Techniques to Easily Find Someone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-activating-two-factor-verification-on-twitch-for-added-safety/"><u>Guide to Activating Two-Factor Verification on Twitch for Added Safety</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immersive-audio-awaits-discover-the-best-15-dolby-atmos-films-to-stream-at-home/"><u>Immersive Audio Awaits: Discover the Best 15 Dolby Atmos Films to Stream at Home</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-budget-friendly-gopro-purchases-guide/"><u>In 2024, Budget-Friendly GoPro Purchases Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-audio-for-digital-unboxing-scenes/"><u>Mastering Audio for Digital Unboxing Scenes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-macos-finder-adjusting-visibility-options-for-main-and-sub-folders/"><u>Mastering macOS Finder: Adjusting Visibility Options for Main and Sub-Folders</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-smart-home-companptions-which-fits-your-lifestyle-alexa-or-google-assistant/"><u>Navigating Smart Home Companptions: Which Fits Your Lifestyle - Alexa or Google Assistant?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pairing-problem-try-these-6-solutions-for-an-unresponsive-apple-watch/"><u>Pairing Problem? Try These 6 Solutions for an Unresponsive Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-halting-haldll-errors-in-windows-operating-systems/"><u>Step-by-Step Guide: Halting hal.dll Errors in Windows Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-educational-apps-dominating-the-learning-scene/"><u>Top 8 Educational Apps Dominating the Learning Scene</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/windows-10-vobmp4/"><u>Windows 10用: VOBファイルを効率よくMP4形式に変換する究極ガイド</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Technology Breakthroughs Since 1844: A Countdown"
-date: 2024-09-18T19:16:07.970Z
-updated: 2024-09-21T01:59:14.276Z
+date: 2024-09-25T05:44:37.186Z
+updated: 2024-09-26T19:42:06.390Z
 categories:
   - BestProducts
 description: "This Article Describes Revolutionary Technology Breakthroughs Since 1844: A Countdown"
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 
 ![Old television on stand, in front of curtain](https://www.lifewire.com/thmb/sT1Lb9obt08EDKCn3w7CXCy6tE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/old-television-on-stand--in-front-of-curtain-200453943-001-293b961ae282457791c4eed589eff3cb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Steven Errico / Getty Images
 
  Before appointment TV and binge-watching, movie theaters were king. They’re still the best venue for seeing blockbuster films, but the invention of the television paved the way for the home entertainment we enjoy now. The first TV sets were black and white; then came color TVs and the ever-convenient remote control.
@@ -56,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/43693d1bcddc3757eef24651324be62efb3dc8d54
 ## Personal Computers — 1970s
 
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 EdnaM / Getty Images
 
@@ -81,10 +81,10 @@ EdnaM / Getty Images
  The system can triangulate data and pinpoint your location, and it powers the GPS devices and apps that people use now to get around.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Internet: ARPANET — 1973
@@ -92,10 +92,10 @@ EdnaM / Getty Images
 ![Arpanet Map from May 1973](https://www.lifewire.com/thmb/fsyBzcuavn9WlcR_Ve8EK_dlpro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Arpanet_map_1973-2983e062888f4a23a9ec989af0c6f487.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ARPANET /Public domain
@@ -109,13 +109,6 @@ ARPANET /Public domain
 ## GPS Navigation — 1990s
 
 ![San Francisco, California scenics](https://www.lifewire.com/thmb/JBcxbVh9X27hnW5roLmvGZOywbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/san-francisco--california-scenics-1048327060-238a789e54b94cf799aee655c2f19c1b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Robert Alexander / Getty Images
 
@@ -131,13 +124,6 @@ ARPANET /Public domain
 
 ![3rd Annual Kodak Awards, February 15, 2019](https://www.lifewire.com/thmb/cayBRtQKgfVN8wWhxkH2-SxSTwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3rd-annual-kodak-awards--february-15--2019-1125163754-9bc15e8e2dbe4be18b8ad4369c4a929d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Getty Images for Kodak Motion Picture & Entertainment / Getty Images
 
  Technically, the first digital camera was invented by Kodak in the 1970s. It took a while before the technology made its way into the ancestors of the products we use today.
@@ -146,9 +132,29 @@ ARPANET /Public domain
 
  Digital cameras are everywhere now, from security cameras to smartphones and laptop and desktop computers. Even the least expensive product with a camera embedded in it is far better than those cameras from the early days.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Web Browser — 1994
 
 ![Mosaic web browser](https://www.lifewire.com/thmb/ZHIWa9h-A3m6SDVXmfSIkj-wQP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NCSA_Mosaic_Browser_Screenshot-2f1f4b065a284b37bb79f433cc515659.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Programm: National Center for Supercomputing Applications/CC0
 
@@ -164,9 +170,23 @@ ARPANET /Public domain
 
  From connecting with the people you went to high school to planning protests against the government, Facebook brings people together. Of course, it also causes all sorts of strife, including hate speech and “fake news,” which the platform struggles to contain.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Modern Smartphone — 2007
 
 ![Steve Jobs Unveils Apple iPhone At MacWorld Expo](https://www.lifewire.com/thmb/sdGuvRRk_ow4aOyoLK4f3ibKOwo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steve-jobs-unveils-apple-iphone-at-macworld-expo-72959794-9b26521ca5f743119fc6b509d51ec8cc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  David Paul Morris / Getty Images
 
@@ -205,5 +225,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-iphone-hdr-photography-tips-and-tricks-for-2024/"><u>[Updated] IPhone HDR Photography Tips & Tricks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precise-guide-to-navigating-adobe-cloud-then-comparing-other-methods/"><u>2024 Approved Precise Guide to Navigating Adobe Cloud, Then Comparing Other Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehhavie-guide-to-shopping-for-top-notch-televisions-from-research-to-purchase/"><u>A Comprehhavie Guide to Shopping for Top-Notch Televisions: From Research to Purchase</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-z50-ultra-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nubia Z50 Ultra to New Android? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-realme-narzo-60-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Realme Narzo 60 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protect-your-twitch-presence-a-comprehensive-tutorial-on-enabling-two-factor-authentication/"><u>Protect Your Twitch Presence: A Comprehensive Tutorial on Enabling Two-Factor Authentication</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-not-secured-connection-warnings-a-step-by-step-guide/"><u>Resolving 'Not Secured Connection' Warnings: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-your-imessage-connection-on-iphone-easy-steps-to-address-the-signed-out-error/"><u>Restore Your iMessage Connection on iPhone: Easy Steps to Address the Signed Out Error</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722986342797-solving-sony-vegas-stability-issues-no-more-unwanted-shutdowns/"><u>Solving Sony Vegas Stability Issues - No More Unwanted Shutdowns</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fixes-get-your-paramountplus-up-and-running-on-firestick-again/"><u>Step-by-Step Fixes: Get Your Paramount+ Up and Running on Firestick Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-acquiring-digital-novels-through-the-iphoneipads-bookstore-application/"><u>Step-by-Step Instructions: Acquiring Digital Novels Through the iPhone/iPad's Bookstore Application</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-diy-approach-understanding-and-exiting-your-iphones-bootloader-state/"><u>The DIY Approach: Understanding and Exiting Your iPhone's Bootloader State</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iendly-settings-for-repeated-online-videos/"><u>TV-Friendly Settings for Repeated Online Videos</u></a></li>
+</ul></div>
 

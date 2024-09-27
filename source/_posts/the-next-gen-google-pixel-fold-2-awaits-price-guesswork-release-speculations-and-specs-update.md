@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen Google Pixel Fold 2 Awaits: Price Guesswork, Release Speculations and Specs Update"
-date: 2024-09-18T02:01:16.240Z
-updated: 2024-09-20T23:58:32.168Z
+date: 2024-09-24T01:37:47.092Z
+updated: 2024-09-26T23:38:00.013Z
 categories:
   - BestProducts
 description: "This Article Describes The Next-Gen Google Pixel Fold 2 Awaits: Price Guesswork, Release Speculations and Specs Update"
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
@@ -52,6 +59,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -60,13 +74,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **AI tools** : New software features like text-to-image conversion and smart auto-reply abilities are expected to come with the Pixel 9, although these functions might be reserved for the Pro models. A few of these AI capabilities might process on the device, meaning more privacy and quicker results.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Pixel 9 Specs and Hardware
 
@@ -82,6 +89,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
@@ -92,38 +106,17 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 MySmartPrice
 
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -132,6 +125,13 @@ MySmartPrice
  The Pixel 9 Pro might come with more RAM this year. An unnamed source with access to a purported Pixel 9 Pro (via[Rozetked](https://rozetked.me/news/33143-eksklyuziv-zhivye-foto-google-pixel-9-pro-ot-rozetked) ) claims the phone will have an additional 4 GB of RAM compared to last year's device, shooting it up to 16 GB of total memory.
 
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
 
@@ -154,5 +154,26 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-android-users-discover-the-top-youtube-video-clips-for-2024/"><u>[New] Android Users, Discover the Top YouTube Video Clips for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/reaking-the-mold-pushing-a-video-into-hot-water/"><u>[New] Breaking the Mold Pushing a Video Into Hot Water</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-tips-for-creating-and-editing-snapchat-duos/"><u>[Updated] 2024 Approved Quick Tips for Creating and Editing Snapchat Duos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y78plus-t1-edition-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y78+ (T1) Edition to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-battle-between-ipad-mini-and-ipad-air-performance-design-and-more/"><u>Decoding the Battle Between iPad Mini and iPad Air – Performance, Design, and More</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-for-transferring-printed-files-to-your-computer-via-scanner/"><u>Easy Tips for Transferring Printed Files to Your Computer via Scanner</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-on-how-to-link-your-samsung-remote-control-to-the-tv/"><u>Easy Tutorial on How to Link Your Samsung Remote Control to the TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-lowdown-on-samsung-z-fold-4-expected-arrival-cost-analysis-and-complete-specs-overview/"><u>Get the Lowdown on Samsung Z Fold 4 - Expected Arrival, Cost Analysis, and Complete Specs Overview</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-setup-the-most-recent-nvidia-driver-updates-for-optimal-performance/"><u>How to Fetch and Setup the Most Recent Nvidia Driver Updates for Optimal Performance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-websites-your-source-for-legal-skype-ringtones/"><u>In 2024, Leading Websites Your Source for Legal Skype Ringtones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/join-the-fun-with-tiktok-duel-videos-an-easy-how-to-guide/"><u>Join the Fun with TikTok Duel Videos: An Easy How-To Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-audio-editor-windows-mac/"><u>New 2024 Approved 10 Best Audio Editor Windows, Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-troubleshooting-tips-for-airpods-not-resetting-correctly/"><u>Step-by-Step Troubleshooting Tips for AirPods Not Resetting Correctly</u></a></li>
+<li><a href="https://fox-http.techidaily.com/streamline-audio-podcasts-made-easy-for-iphones-for-2024/"><u>Streamline Audio Podcasts Made Easy for iPhones for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-5-premium-no-cost-malware-scrubbers-for-2n4/"><u>The Ultimate List: 5 Premium, No-Cost Malware Scrubbers for 2N4</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-cooling-devices-to-prevent-overheating/"><u>Top Cooling Devices to Prevent Overheating</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-walkthrough-on-how-to-play-pokemon-go/"><u>Ultimate Step-by-Step Walkthrough on How to Play 'Pokémon Go'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-in-mozilla-thunderbird-update-discover-version-nkib/"><u>What's New in Mozilla Thunderbird Update - Discover Version Nkib</u></a></li>
+</ul></div>
 

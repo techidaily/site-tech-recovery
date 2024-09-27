@@ -1,7 +1,7 @@
 ---
 title: "All You Need to Know About the Next Google Pixel: Anticipated Price, Launch Date & Specs - Rumors Included"
-date: 2024-09-15T06:08:51.140Z
-updated: 2024-09-21T02:28:09.517Z
+date: 2024-09-25T11:18:46.678Z
+updated: 2024-09-27T01:32:25.828Z
 categories:
   - BestProducts
 description: "This Article Describes All You Need to Know About the Next Google Pixel: Anticipated Price, Launch Date & Specs - Rumors Included"
@@ -36,26 +36,40 @@ thumbnail: https://thmb.techidaily.com/09bf8f46c612c175c9c1b70882f85f23e4a357208
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -74,18 +88,18 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -110,5 +124,21 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-music-magic-for-instagram-a-guide/"><u>[New] 2024 Approved Music Magic for Instagram A Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-live-setup-in-minutes-for-2024/"><u>[New] Instagram Live Setup in Minutes for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-channel-branding-mastery-securing-a-loyal-youtube-subscriber-base/"><u>[Updated] 2024 Approved Channel Branding Mastery Securing a Loyal YouTube Subscriber Base</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-camon-20-premier-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Camon 20 Premier 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-extensive-review-capturing-every-angle-with-gear-360/"><u>2024 Approved Extensive Review Capturing Every Angle with Gear 360</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-introduces-the-ultimate-protection-with-the-iconic-mjolnir-ups-a-new-era-of-innovative-psus/"><u>Asus Introduces the Ultimate Protection with the Iconic Mjolnir UPS: A New Era of Innovative PSUs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-key-contrasts-between-ht-receivers-and-stereo-equipment-for-optimal-sound/"><u>Deciphering the Key Contrasts Between HT Receivers & Stereo Equipment for Optimal Sound</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vehicles-a-short-history-lesson/"><u>Electric Vehicles: A Short History Lesson</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-8-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus ROG Phone 8 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/premium-cellphone-discounts-and-promotions-by-verizon-for-this-period/"><u>Premium Cellphone Discounts and Promotions by Verizon for This Period</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-rockaldlldll-error-a-comprehensive-guide/"><u>Resolving Rockaldll.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-psn-understanding-outages-vs-personal-connection-issues/"><u>Troubleshooting PSN: Understanding Outages vs Personal Connection Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-successful-syncing-of-your-firestick-remote/"><u>Ultimate Guide: Successful Syncing of Your Firestick Remote</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-a15-4g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy A15 4G Device</u></a></li>
+</ul></div>
 

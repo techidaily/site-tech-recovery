@@ -1,7 +1,7 @@
 ---
 title: All You Need to Know About the Upcoming iPhone - Price Guesses, Release Window, Spec Sheet Sneak Peeks & The Latest Gossip
-date: 2024-09-09T01:22:42.543Z
-updated: 2024-09-16T00:12:55.645Z
+date: 2024-09-23T01:26:33.839Z
+updated: 2024-09-26T19:27:18.158Z
 categories:
   - BestProducts
 description: This Article Describes All You Need to Know About the Upcoming iPhone - Price Guesses, Release Window, Spec Sheet Sneak Peeks & The Latest Gossip
@@ -38,9 +38,23 @@ thumbnail: https://www.lifewire.com/thmb/4JF7qUBTJD5y8_t0HlqDGBrtOGs=/400x300/fi
 
  Like in previous years, there will be several models: iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, and iPhone 17 Slim.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 A September 2025 release date seems like a lock.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone 17 Price Rumors
 
@@ -55,13 +69,6 @@ A September 2025 release date seems like a lock.
 ## Pre-Order Information
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPhone 17 Specs & Features
 
@@ -91,10 +98,10 @@ A September 2025 release date seems like a lock.
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Processor and Chips
@@ -104,16 +111,10 @@ A September 2025 release date seems like a lock.
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Camera
@@ -163,5 +164,26 @@ A September 2025 release date seems like a lock.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-hues-in-online-beauty-videos/"><u>[Updated] 2024 Approved Harmonizing Hues in Online Beauty Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-mac-screen-saving-the-shortcut-guide/"><u>[Updated] 2024 Approved Mastering Mac Screen Saving The Shortcut Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-experts-guide-to-screencast-mastery-and-impactful-content/"><u>[Updated] 2024 Approved The Expert's Guide to Screencast Mastery and Impactful Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-minute-drama-framework-plan/"><u>[Updated] Minute Drama Framework Plan</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-connection-woes-with-paramountplus-streaming-on-firestick/"><u>Diagnosing and Repairing Connection Woes with Paramount+ Streaming on Firestick</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-problems-with-logitech-webcamsmics/"><u>Diagnosing and Repairing Problems with Logitech Webcams/Mics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-mirror-your-computer-monitor-on-tv-with-googles-chromecast-device/"><u>Easy Steps to Mirror Your Computer Monitor on TV with Google's Chromecast Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-entertainment-on-a-budget-9-affordable-substitutes-to-netflix/"><u>Enjoy Entertainment on a Budget: 9 Affordable Substitutes to Netflix</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-note-30i-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Note 30i FRP Bypass Instantly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-rumored-apple-automobile-pricing-details-debut-dates-and-technical-data-explored/"><u>Inside the Rumored Apple Automobile: Pricing Details, Debut Dates & Technical Data Explored</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-202-similar-problem/"><u>Introducing the 202 # Similar Problem</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterpiece-models-best-of-the-computer-world-for-2024/"><u>Masterpiece Models Best of the Computer World for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-wi-fi-protocols-with-ease-unraveling-the-secrets-of-ieees-80211-be-ax-ac-bng-and-a/"><u>Navigating Wi-Fi Protocols with Ease: Unraveling the Secrets of IEEE's 802.11 Be, Ax, Ac, B/N/G, and A</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-non-installing-java-in-windows-environment/"><u>Solutions for Non-Installing Java in Windows Environment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-shared-calendars-organizing-your-busy-family-life-with-ease/"><u>The Best Shared Calendars: Organizing Your Busy Family Life with Ease</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-showdown-proven-best-scanners-for-photos-and-documents/"><u>The Ultimate Showdown: Proven Best Scanners for Photos & Documents</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-wpcapdll-is-missing-effective-solutions-and-tips/"><u>Troubleshooting 'WPCap.dll Is Missing': Effective Solutions and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-why-your-ipad-is-unable-to-locate-or-connect-to-a-printer/"><u>Troubleshooting: Why Your iPad Is Unable to Locate or Connect to a Printer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-apple-watch-series-8-launch-timeline-detailed-features-and-pricing-info/"><u>Unveiling the Apple Watch Series 8: Launch Timeline, Detailed Features & Pricing Info</u></a></li>
+</ul></div>
 

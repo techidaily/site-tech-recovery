@@ -1,7 +1,7 @@
 ---
 title: Strategies for Gaining TrustedInstaller Consent on Your Windows 11 Machine
-date: 2024-09-18T18:46:41.023Z
-updated: 2024-09-21T01:17:50.895Z
+date: 2024-09-20T01:23:10.900Z
+updated: 2024-09-27T08:25:41.361Z
 categories:
   - BestProducts
 description: This Article Describes Strategies for Gaining TrustedInstaller Consent on Your Windows 11 Machine
@@ -43,6 +43,13 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 ## Screenshot Part of the Screen
@@ -61,10 +68,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -76,10 +83,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -89,6 +96,13 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -134,5 +148,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-explore-the-best-apps-for-effortless-youtube-to-webm-conversion/"><u>[New] 2024 Approved Explore the Best Apps for Effortless YouTube to WebM Conversion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-ranking-the-best-ios-devices-tools-to-download-fb-movies-and-tunes/"><u>[New] In 2024, Ranking the Best iOS Devices' Tools to Download FB Movies & Tunes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-eliminating-expenses-gain-access-to-final-cut-pro/"><u>2024 Approved Eliminating Expenses Gain Access to Final Cut Pro</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-inside-the-craft-of-creating-vr-films/"><u>2024 Approved Inside The Craft of Creating VR Films</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-ace-2-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Ace 2 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/clarifying-output-impedance-what-you-need-to-know/"><u>Clarifying Output Impedance – What You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-honor-x50i-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Honor X50i To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-boost-and-optimize-a-lagging-internet-connection/"><u>How To Boost And Optimize A Lagging Internet Connection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-preventing-spam-texts-on-ios-devices/"><u>Step-by-Step Guide: Preventing Spam Texts on iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-premier-maximilian-documentary-selection-for-july-2024-our-expert-picks/"><u>The Premier Maximilian Documentary Selection for July 2024 - Our Expert Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-virtual-meetings-the-ultimate-guide-to-using-google-duo-within-gmail/"><u>Transforming Virtual Meetings: The Ultimate Guide to Using Google Duo Within Gmail</u></a></li>
+</ul></div>
 
