@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of PS5 Gaming - Achieve a Smooth 120 FPS Experience
-date: 2024-09-13T19:05:57.597Z
-updated: 2024-09-15T23:13:28.962Z
+date: 2024-10-01T16:10:11.544Z
+updated: 2024-10-02T16:28:55.865Z
 categories:
   - BestProducts
 description: This Article Describes Unlock the Full Potential of PS5 Gaming - Achieve a Smooth 120 FPS Experience
@@ -32,14 +32,45 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
 
@@ -50,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/16a9b35c6bd9fc401c0908fd1a1024fa5ae9f4d4f
  You'll also need an HDMI 2.1 cable. You can use the HDMI cable that comes with the PS5, which is a 2.1\. However, if you're using a different cord (because the included one wasn't long enough, for example), you'll need to make sure it's that type.
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
 
@@ -102,5 +126,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-indispensable-top-vr-movie-adventures/"><u>[New] Indispensable Top VR Movie Adventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breaking-down-royal-match-how-many-hierarchical-levels-does-it-feature/"><u>Breaking Down Royal Match: How Many Hierarchical Levels Does It Feature?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-15-recommended-bootable-antivirus-solutions-without-the-price-tag/"><u>Discover 15 Recommended Bootable Antivirus Solutions Without the Price Tag</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-on-quora-your-comprehensive-guide-to-poe-and-chatbot-interaction/"><u>Exploring AI on Quora: Your Comprehensive Guide to Poe & Chatbot Interaction</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-x90s-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo X90S Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/join-the-conversation-a-complete-guide-to-engaging-in-twitter-chats/"><u>Join the Conversation: A Complete Guide to Engaging in Twitter Chats</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kindle-or-fire-tablet-deciding-which-device-is-right-for-you/"><u>Kindle or Fire Tablet - Deciding Which Device Is Right for You?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-lockout-try-these-hacks/"><u>Microsoft Store Lockout? Try These Hacks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a38-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A38 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revive-your-iphones-photography-skills-fixing-the-focus-problem/"><u>Revive Your iPhone's Photography Skills: Fixing the Focus Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-correcting-the-infamous-code-19-issue-on-your-computer/"><u>Step-by-Step Solution: Correcting the Infamous Code 19 Issue on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-to-prevent-and-repair-permanent-imprints-on-screens/"><u>Step-by-Step Solutions to Prevent and Repair Permanent Imprints on Screens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-essential-discount-warehouses-master-the-art-of-savings/"><u>Top 6 Essential Discount Warehouses: Master the Art of Savings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-affordable-headphones-your-ultimate-guide/"><u>Top-Rated Affordable Headphones : Your Ultimate Guide</u></a></li>
+</ul></div>
 

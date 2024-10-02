@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Blueprint: Playing Pokémon Unite on a PC"
-date: 2024-09-14T17:53:48.825Z
-updated: 2024-09-15T20:35:08.204Z
+date: 2024-09-27T16:44:36.889Z
+updated: 2024-10-02T16:48:56.466Z
 categories:
   - BestProducts
 description: "This Article Describes Beginner's Blueprint: Playing Pokémon Unite on a PC"
@@ -34,12 +34,43 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 2. Then, navigate to**Screen and Video** .  
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
 
@@ -50,19 +81,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
  You'll also need an HDMI 2.1 cable. You can use the HDMI cable that comes with the PS5, which is a 2.1\. However, if you're using a different cord (because the included one wasn't long enough, for example), you'll need to make sure it's that type.
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
 
@@ -108,5 +126,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-pioneering-the-pathway-personal-youtube-videos-in-google-accounts/"><u>[New] 2024 Approved Pioneering the Pathway Personal YouTube Videos in Google Accounts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-power-of-visual-effects-in-editing/"><u>[New] Exploring the Power of Visual Effects in Editing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-stop-automated-post-proposals-on-instagram-for-2024/"><u>[Updated] Stop Automated Post Proposals on Instagram for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-final-list-top-blu-ray-players-for-pcmacos-enthusiasts/"><u>2024 Approved Final List Top Blu-Ray Players for PC/macOS Enthusiasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficient-techniques-for-mass-email-picking-in-googles-mail-service/"><u>Efficient Techniques for Mass Email Picking in Google's Mail Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/future-visionary-tech-exploring-the-premier-smart-glasses-for-2econd-quarter-of-2024/"><u>Future Visionary Tech: Exploring the Premier Smart Glasses for 2Econd Quarter of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-tiktok-when-its-not-responding-correctly/"><u>How To Repair TikTok When It's Not Responding Correctly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-xs-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone XS screen lock without data loss?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-at-apples-new-domestic-ai-companion-anticipated-features-cost-estimates-and-release-timeline/"><u>Inside Look at Apple's New Domestic AI Companion: Anticipated Features, Cost Estimates, & Release Timeline</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-cross-platform-usage-running-android-programs-seamlessly-on-windows-10/"><u>Mastering Cross-Platform Usage: Running Android Programs Seamlessly on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-cortana-glitches-with-these-effective-troubleshooting-techniques/"><u>Say Goodbye to Cortana Glitches with These Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-capturing-screen-images-on-hp-devices/"><u>Step-by-Step Tutorial: Capturing Screen Images on HP Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-hook-it-game-winning-podcast-beginnings-for-2024/"><u>The Hook-It Game Winning Podcast Beginnings for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-wav-to-mov-movavi/"><u>무료로 Online 사용: WAV to MOV 변환기 – Movavi에서 단순한 가이드!</u></a></li>
+</ul></div>
 

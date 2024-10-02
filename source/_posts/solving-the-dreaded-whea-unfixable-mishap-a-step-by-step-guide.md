@@ -1,7 +1,7 @@
 ---
 title: "Solving the Dreaded WHEA Unfixable Mishap: A Step-by-Step Guide"
-date: 2024-09-08T22:41:39.933Z
-updated: 2024-09-15T16:34:04.938Z
+date: 2024-09-30T16:00:18.171Z
+updated: 2024-10-02T16:37:06.039Z
 categories:
   - BestProducts
 description: "This Article Describes Solving the Dreaded WHEA Unfixable Mishap: A Step-by-Step Guide"
@@ -44,16 +44,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Open Command Prompt Using Power User Menu
@@ -77,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 7, Vista, or XP
@@ -94,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -101,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
  To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
 
@@ -113,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -163,5 +164,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-streamline-and-stand-out-twitters-video-directive/"><u>[New] In 2024, Streamline and Stand Out Twitter's Video Directive</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-charting-out-your-audience-youtubes-blueprint/"><u>[Updated] 2024 Approved Charting Out Your Audience YouTube's Blueprint</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-your-content-with-effortlessly-added-youtube-subtitles/"><u>[Updated] Enhancing Your Content with Effortlessly Added YouTube Subtitles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-paving-the-way-to-a-more-engaging-profile-adding-linktree-on-tiktok/"><u>[Updated] Paving the Way to a More Engaging Profile Adding Linktree on TikTok</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-methods-to-get-the-web-in-your-living-room-theater-system/"><u>DIY Methods to Get the Web in Your Living Room Theater System</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-picks-of-2024-the-ultimate-smartwatch-showdown/"><u>Elite Picks of 2024: The Ultimate Smartwatch Showdown</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-sound-capture-on-your-meta-quest-gaming-headset-essential-tips/"><u>Enhancing Sound Capture on Your Meta Quest Gaming Headset: Essential Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/freedom-from-wires-and-phone-lines-innovative-methods-for-getting-online-anywhere/"><u>Freedom From Wires and Phone Lines: Innovative Methods for Getting Online Anywhere</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-poco-x5-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Poco X5 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-amd-radeon-software-unresponsiveness-dilemma/"><u>How to Resolve AMD Radeon Software Unresponsiveness Dilemma</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-gaming-space-on-xbox-one-by-adding-a-portable-storage-solution/"><u>Maximize Gaming Space on Xbox One by Adding a Portable Storage Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-system-issues-the-definitive-guide-to-using-chkdsk-on-windows-systems/"><u>Navigating System Issues: The Definitive Guide to Using Chkdsk on Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issues-with-installing-and-downloading-age-of-empires-iv-from-the-microsoft-store/"><u>Resolved: Issues with Installing and Downloading Age of Empires IV From the Microsoft Store</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-4201-glitch-in-genshin-impact-a-comprehensive-guide/"><u>Resolving the 4201 Glitch in Genshin Impact: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-a-drowned-device-masterful-methods-for-restoring-moisture-affected-iphones-and-ipods/"><u>Reviving a Drowned Device: Masterful Methods for Restoring Moisture-Affected iPhones and iPods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-iphone-15-tips-for-a-successful-reboot/"><u>Reviving Your iPhone 15: Tips for a Successful Reboot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-dnssddll-error-on-your-computer/"><u>Troubleshooting the Missing dnssd.dll Error on Your Computer</u></a></li>
+</ul></div>
 

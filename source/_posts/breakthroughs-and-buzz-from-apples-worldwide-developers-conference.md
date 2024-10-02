@@ -1,7 +1,7 @@
 ---
 title: Breakthroughs & Buzz From Apple’s Worldwide Developers Conference
-date: 2024-09-13T00:51:40.275Z
-updated: 2024-09-15T16:20:20.286Z
+date: 2024-09-25T16:21:17.279Z
+updated: 2024-10-02T16:45:34.523Z
 categories:
   - BestProducts
 description: This Article Describes Breakthroughs & Buzz From Apple’s Worldwide Developers Conference
@@ -49,6 +49,13 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 
  The Worldwide Developer Conference (WWDC) is always free to attend online, with a free stream of the event directly from Apple's website.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Expected Product Announcements
 
  At WWDC 2025, we expect a full roster of software announcements for iOS, iPadOS, macOS, and others. Apple typically announces the new software and opens betas before the new operating systems launch in the fall.
@@ -62,22 +69,15 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 * visionOS 3
 * watchOS 11
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Did Apple Announce at WWDC 2024?
 
  Apple's announcements at WWDC 2024 covered almost its entire product line. Here are some highlights:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Intelligence
@@ -100,6 +100,19 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 
 ![Craig Federighi presenting Apple Intelligence at WWDC 2024](https://www.lifewire.com/thmb/BefGKFzBYosp9OtqdyiAXeMzGYs=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Intelligence-splash-6ac7ec605d574e898ce65ba1ab424e42.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apple, Inc
 
 ### iOS 18
@@ -115,10 +128,10 @@ Apple, Inc
  The iPad is getting the same updates to Photos, Messages, and more as iOS.[iPadOS 18](https://www.lifewire.com/ipados-18-8558715) also has its own upgrades, like a Notes app that will clean up your handwriting. The refined Calculator app will also show a history of your calculations and solves equations as you type or write them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### macOS 15 (Sequoia)
@@ -149,13 +162,6 @@ Apple, Inc
 
  Finally, the Training Load option is for athletes preparing for events. It keeps an eye on your workouts and identifies trends to make sure you're making progress and not overdoing it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Latest News About Apple
 
  While you can always [read the latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest involving Apple in particular.
@@ -183,5 +189,24 @@ Apple, Inc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-level-up-your-instagram-posts-with-expert-edits/"><u>[New] 2024 Approved Level Up Your Instagram Posts with Expert Edits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c02-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C02</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-key-sound-editing-solutions-for-video-bloggers/"><u>2024 Approved Key Sound Editing Solutions for Video Bloggers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crucial-factors-you-shouldnt-ignore-when-purchasing-a-smart-television/"><u>Crucial Factors You Shouldn't Ignore When Purchasing a Smart Television</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/easy-storage-solutions-for-androidmac-snaps-on-devices/"><u>Easy Storage Solutions for Android/Mac Snaps on Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-seamless-installation-of-new-apple-ios-releases/"><u>Expert Advice for Seamless Installation of New Apple iOS Releases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-extract-to-temp-folder-error-1152-on-win/"><u>Fixing 'Extract to Temp Folder Error 1152' On Win</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pova-5-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8610-driver-update-for-multiple-windows-versions-including-11-8-7-xp-and-vista/"><u>HP Officejet Pro ˈ8610 Driver Update for Multiple Windows Versions Including 11, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722879531870-ipad-pro-m4-vs-macbook-air-m3-whats-the-difference/"><u>IPad Pro M4 vs MacBook Air M3: What's the Difference?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/locating-your-macbooks-model-id-a-step-by-step-guide/"><u>Locating Your MacBook's Model ID: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-software-updates-keeping-zoom-current-on-windows-and-macos-systems/"><u>Navigating Software Updates: Keeping Zoom Current on Windows and macOS Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/syncing-up-hp-printer-with-pc-settings/"><u>Syncing Up HP Printer with PC Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-must-play-android-and-ios-gaming-apps/"><u>Top 8 Must-Play Android & iOS Gaming Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncovering-email-contact-information-with-respectful-practices/"><u>Uncovering Email Contact Information with Respectful Practices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/uniting-technologies-mondly-plus-pearson-buttons-fusion/"><u>Uniting Technologies: Mondly + Pearson Buttons Fusion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-samsung-galaxy-z-fold-7-price-predictions-release-forecast-and-specs-revealed/"><u>Upcoming Samsung Galaxy Z Fold 7 - Price Predictions, Release Forecast & Specs Revealed</u></a></li>
+</ul></div>
 

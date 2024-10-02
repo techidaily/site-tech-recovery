@@ -1,7 +1,7 @@
 ---
 title: How to Diagnose and Fix Error Code 0Xc0000185 in Your Computer System
-date: 2024-09-21T22:37:40.581Z
-updated: 2024-09-26T22:19:44.924Z
+date: 2024-09-30T16:52:33.925Z
+updated: 2024-10-02T16:59:32.765Z
 categories:
   - BestProducts
 description: This Article Describes How to Diagnose and Fix Error Code 0Xc0000185 in Your Computer System
@@ -31,19 +31,19 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Don't Do This to a Wet iPhone
 
  If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
 
 1. **Never turn it on.** If your iPhone is water damaged,**never try to turn it on or wake it** . You may be tempted to do that to see if it still works, but doing that can short out its electronics and damage them even more. In fact, you should avoid anything that could cause the electronics to function, like getting notifications that light up the screen. If your phone was off when it got wet, you're fine. If your device was on,[turn it off](https://www.lifewire.com/turn-off-your-iphone-2000114) (this is a little risky, but it's better than leaving it on with all functions running).
 2. **Don't use a hair dryer.** While this technique has worked for some people, you can also damage your device or spread the water around more. It's best to avoid fans for the same reason. Don't leave your device on a radiator, either. That will get much[too hot and could damage the phone in other ways](https://www.lifewire.com/red-iphone-battery-icon-help-2000272) .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Advanced Techniques for Fixing a Wet iPhone
 
@@ -61,10 +61,10 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try the Experts on Saving a Wet iPhone
@@ -75,10 +75,10 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Check for Water Damage in a Used iPhone or iPod
@@ -89,19 +89,19 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 
 [The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software Tips for Dealing with a Wet iPhone
 
  After you've dried your iPhone or iPod, it may start up just fine and work as though nothing happened. But many people encounter some software problems when they first try using it. Try these tips, which also apply to[iPod touch](https://www.lifewire.com/ipod-touch-everything-to-know-1999772) and iPad, for dealing with some of the common problems:
 
 * [What To Do with an iPhone That Won't Turn On](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281)
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Waterproof iPhones: iPhone 7 and Newer
 
@@ -140,22 +140,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-secret-sauce-to-never-miss-a-moment-on-youtube/"><u>[New] 2024 Approved The Secret Sauce to Never Miss a Moment on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-access-royalty-free-beats-for-your-vlog-and-more/"><u>[Updated] 2024 Approved Access Royalty-Free Beats for Your Vlog & More</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-audible-annotators-top-selections-for-offline-text-conversion/"><u>[Updated] Audible Annotators Top Selections for Offline Text Conversion</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-shot-solidity-choose-the-right-mobile-tripod/"><u>[Updated] In 2024, Shot Solidity Choose the Right Mobile Tripod</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-tech-savvy-approach-to-saving-your-insta-content/"><u>2024 Approved The Tech-Savvy Approach to Saving Your Insta Content</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-performance-by-deleting-cache-on-android-phones-and-tablets/"><u>Boost Performance by Deleting Cache on Android Phones and Tablets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehve-guide-to-removing-dirt-and-grime-from-a-mechanical-keyboard/"><u>Comprehve Guide to Removing Dirt & Grime From a Mechanical Keyboard</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-photography-top-tips-for-better-iphoneipad-shots/"><u>Enhancing Photography: Top Tips for Better iPhone/iPad Shots</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-ready-for-applecups-date-speculations-and-key-points-to-watch-out-for/"><u>Get Ready for Apple'cups - Date, Speculations & Key Points to Watch Out For</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/hear-from-happy-mac-users/"><u>Hear From Happy Mac Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-honor-magic5-ultimate-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor Magic5 Ultimate Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-share-your-mac-display-with-any-television-using-airplay-a-comprehensive-guide/"><u>How to Seamlessly Share Your Mac Display with Any Television Using AirPlay - A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-accelerated-viewer-of-best-images-in-os/"><u>In 2024, Accelerated Viewer of Best Images in OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-microsoft-windows-acpi-battery-driver-problems-with-new-update/"><u>Resolving Microsoft Windows ACPI Battery Driver Problems with New Update</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-missing-msstdfmtdll-file-issue-a-comprehensive-guide/"><u>Resolving the 'Missing msstdfmt.dll File' Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-must-have-journaling-mobile-applications/"><u>Top 6 Must-Have Journaling Mobile Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-must-see-selection-premier-news-curator-platforms/"><u>Your Must-See Selection: Premier News Curator Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comparing-the-gopro-max-360-and-hero-11-determining-the-superior-gopro-video-camera/"><u>[Updated] Comparing the GoPro Max 360 and Hero 11 Determining the Superior GoPro Video Camera</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-freed-images-public-domain-canvas/"><u>2024 Approved Freed Images Public Domain Canvas</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-fundamentals-of-gif-design-and-creation/"><u>2024 Approved The Fundamentals of GIF Design and Creation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-whats-new-in-ipados-18-comprehensive-guide-to-upcoming-releases-free-access-and-key-features/"><u>Discover What's New in IPadOS 18 - Comprehensive Guide to Upcoming Releases, Free Access & Key Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/future-leaders-ranking-the-best-self-driving-car-companies-of-2024/"><u>Future Leaders: Ranking the Best Self-Driving Car Companies of 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g04-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-transform-your-home-movies-essential-editing-techniques/"><u>In 2024, Transform Your Home Movies Essential Editing Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/locate-and-determine-your-macbooks-specific-model-id/"><u>Locate and Determine Your MacBook's Specific Model ID</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-slide-sharing-addressing-audio-interruptions-in-powerpoint-decks/"><u>Seamless Slide Sharing: Addressing Audio Interruptions in PowerPoint Decks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-configuring-your-apple-watch-with-gmail-access/"><u>Step-by-Step Guide: Configuring Your Apple Watch with Gmail Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722892515018-ultimate-guide-resolving-the-blue-screen-of-death-on-your-pc/"><u>Ultimate Guide: Resolving the Blue Screen of Death on Your PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncover-the-best-free-ultimate-3d-videos-playing-solutions/"><u>Uncover the Best Free, Ultimate 3D Videos Playing Solutions</u></a></li>
 </ul></div>
 

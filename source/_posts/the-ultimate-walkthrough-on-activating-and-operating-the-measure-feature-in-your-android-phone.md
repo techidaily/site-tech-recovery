@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Walkthrough on Activating and Operating the Measure Feature in Your Android Phone
-date: 2024-09-12T01:58:21.623Z
-updated: 2024-09-15T18:33:08.860Z
+date: 2024-09-30T16:26:12.929Z
+updated: 2024-10-02T16:13:44.285Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Walkthrough on Activating and Operating the Measure Feature in Your Android Phone
@@ -25,6 +25,19 @@ thumbnail: https://www.lifewire.com/thmb/aafo5a8PocEHHkn0HwTOUut7MiA=/400x300/fi
 
  Google discontinued the Measure app in 2021, so this article exists only for historical purposes. There are dozens of similar[measurement apps for Android](https://www.lifewire.com/best-measurement-apps-for-android-4770629) available in the Play Store.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the Google Measure App
 
  Once you've installed the Google Measure app on your phone, it's easy to use. The first time will be a little different, because there are options you can set up (such as how you want Display Units displayed: imperial or metric). After that, you can jump straight into measuring things when you open the app.
@@ -41,12 +54,33 @@ thumbnail: https://www.lifewire.com/thmb/aafo5a8PocEHHkn0HwTOUut7MiA=/400x300/fi
 7. Tap**Start measuring** (if this is your first time using the app; otherwise, proceed to the next step). A yellow circle and dot appear on the screen.  
 ![three dot menu, moving phone around, start measuring](https://www.lifewire.com/thmb/r-aSe4yRYS4qsDwVX4AByDreQ5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-use-google-measure-on-android-4771692-9de5f34491064011a7b03d8483001400.jpg)
 8. Move the yellow dot to the starting point of your measurements by moving your phone. Tap the**+** **(Plus)** .
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Move the dot to the end point by moving your phone. The app shows the approximate distance between the start and end points.
 10. Tap the checkmark to finish the measurement. You can now save your measurements as an image or continue to measure the height of an item.
 11. To measure the height of an item, move the yellow dot to the starting point and tap the**Plus (+)** . A white dotted line will appear.
 12. Move your phone upwards to measure the height and tap the**Checkmark** .
 13. Tap the**Camera** icon to save your measurements to your Google Photos app.  
 ![Measuring from the bottom of a door, the top of a door, and camera icon](https://www.lifewire.com/thmb/HYHSDqq0c_PApPjGs96NgjM2JJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-use-google-measure-on-android-4771692-47f3152c24d94b3481dc310d9d7455fc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Google Measure Uses AR to Work
 
@@ -55,10 +89,10 @@ thumbnail: https://www.lifewire.com/thmb/aafo5a8PocEHHkn0HwTOUut7MiA=/400x300/fi
  For example, you might try redecorating your living room with the AR feature of the[Amazon Shopping app](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping) to see how furniture would look in your house. That way, you can visually decide if the new furniture will work in the space that's available to you.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Improve the Accuracy of Google Measure
@@ -101,5 +135,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-boosting-youtube-income-using-studio-anywhere-anyhow/"><u>[New] Boosting YouTube Income Using Studio Anywhere, Anyhow</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-visuals-that-stand-out-top-10-ig-grid-making-innovations/"><u>[Updated] 2024 Approved Visuals that Stand Out Top 10 IG Grid Making Innovations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypass-propstsydll-undetectable-problem-optimized-fix-strategies-for-users/"><u>Bypass 'Propstsy.dll' Undetectable Problem – Optimized Fix Strategies for Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-samsungs-advanced-galaxy-z-fold-model-x-pricing-upcoming-launch-and-specifications-covered/"><u>Comprehensive Guide: Samsung's Advanced Galaxy Z Fold Model X - Pricing, Upcoming Launch & Specifications Covered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evaluating-playstation-nworth-four-critical-factors-that-make-it-a-must-have-gaming-device/"><u>Evaluating PlayStation nWorth: Four Critical Factors That Make It a Must-Have Gaming Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-missing-msodll-error-comprehensive-guidance-and-tips-for-quick-recovery/"><u>Fix Missing mso.dll Error - Comprehensive Guidance & Tips for Quick Recovery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone XS Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-cinematography-using-luts-for-polished-colors/"><u>In 2024, Perfecting Cinematography Using Luts for Polished Colors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/kid-friendly-gaming-discover-7-amazing-online-adventures/"><u>Kid-Friendly Gaming: Discover 7 Amazing Online Adventures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/methods-to-rectify-obs-fullscreen-crash/"><u>Methods to Rectify OBS Fullscreen Crash</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-essential-fitness-journaling-apps-for-your-training/"><u>Top 10 Essential Fitness Journaling Apps for Your Training</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-silencing-videos-advanced-techniques-for-audio-removal/"><u>Ultimate Guide to Silencing Videos: Advanced Techniques for Audio Removal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-streaming-disneyplus-on-your-tv-using-chromecast/"><u>Ultimate Guide to Streaming Disney+ on Your TV Using Chromecast</u></a></li>
+</ul></div>
 

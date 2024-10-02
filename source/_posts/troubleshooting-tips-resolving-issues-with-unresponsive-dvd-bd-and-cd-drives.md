@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving Issues with Unresponsive DVD, BD & CD Drives"
-date: 2024-09-24T22:21:26.834Z
-updated: 2024-09-26T18:23:06.149Z
+date: 2024-09-29T16:00:22.867Z
+updated: 2024-10-02T16:38:21.264Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Tips: Resolving Issues with Unresponsive DVD, BD & CD Drives"
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why the Keyboard Quit Working
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
@@ -108,19 +108,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-editors-showdown-filmora-vs-democracy-creator-features-for-2024/"><u>[Updated] Professional Editors Showdown Filmora Vs. Democracy Creator Features for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-transforming-fb-videos-into-mp3-files/"><u>[Updated] Transforming Fb Videos Into MP3 Files</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-take-your-fb-visibility-to-new-heights-proven-seo-strategies-reviewed/"><u>2024 Approved Take Your FB Visibility to New Heights Proven SEO Strategies Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-laptop-lifespan-with-windows-11-battery-reports-a-step-by-step-tutorial-for-efficient-usage/"><u>Boost Your Laptop Lifespan with Windows 11 Battery Reports: A Step-by-Step Tutorial for Efficient Usage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boosting-your-visibility-10-techniques-to-go-viral-on-instagram-quickly/"><u>Boosting Your Visibility: 10 Techniques to Go Viral on Instagram Quickly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-netgear-default-passwords-guide-july-update-2024/"><u>Comprehensive NETGEAR Default Passwords Guide - July Update 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-v27-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo V27 Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-redmi-note-12-proplus-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi Redmi Note 12 Pro+ 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-blaze-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Blaze Pro 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/keeping-your-macbook-awake-tips-to-stop-it-from-going-to-sleep-with-closed-lid/"><u>Keeping Your MacBook Awake: Tips to Stop It From Going to Sleep with Closed Lid</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-internet-to-find-someone-elses-phone-number-a-comprehensive-guide/"><u>Navigating the Internet to Find Someone Else's Phone Number - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-cheat-sheet-on-finding-your-dream-mobile-case/"><u>The Complete Cheat Sheet on Finding Your Dream Mobile Case</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tunetracker-outside-of-dacast-realm/"><u>TuneTracker Outside of DaCast Realm</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mkv-mjpeg-movavi/"><u>オンラインでセッションレス・MKV MJPEG変換を実現しよう！ - Movavi デモンストレーション</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-datadeliverer-analyst-take/"><u>[New] DataDeliverer Analyst Take</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-best-practices-in-choosing-tiktok-wallpapers-for-2024/"><u>[Updated] Best Practices in Choosing TikTok Wallpapers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-probing-into-the-integration-of-real-and-digital-in-mixed-reality/"><u>[Updated] Probing Into the Integration of Real and Digital in Mixed Reality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-6-networks-maximizing-biz-potential/"><u>2024 Approved Premium 6 Networks Maximizing Biz Potential</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-to-choose-a-phone-case-that-fits-your-style-and-needs-perfectly/"><u>Discover How to Choose a Phone Case That Fits Your Style and Needs Perfectly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-visuals-the-dynamic-duo-of-gpt-4-and-dall-e/"><u>From Text to Visuals: The Dynamic Duo of GPT-4 & DALL-E</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-xlivedll-file-disappearances-and-errors/"><u>How To Recover From Xlive.dll File Disappearances and Errors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-save-photo-from-video-in-windows-10-photos-app-for-2024/"><u>How to Save Photo From Video in Windows 10 Photos App for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macos-icons-and-colors-made-simple-customizing-folders-with-ease/"><u>MacOS Icons and Colors Made Simple: Customizing Folders with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-pairing-process-in-depth-tips-for-connecting-with-bose-soundlink/"><u>Master the Pairing Process: In-Depth Tips for Connecting with Bose Soundlink</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/movand/"><u>MOV形式のデジタルビデオを別の形式に簡単に変換するスキル&ツール集</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revive-your-frozen-macbook-air-proven-solutions-and-tips-for-successful-thawing/"><u>Revive Your Frozen MacBook Air: Proven Solutions and Tips for Successful Thawing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y200e-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y200e 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-your-home-entertainment-personalize-chromecast-with-new-wallpapers/"><u>Transforming Your Home Entertainment: Personalize Chromecast with New Wallpapers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-modern-connectivity-the-impact-of-facebook-twitter-instagram-and-youtube-on-our-lives/"><u>Understanding Modern Connectivity: The Impact of Facebook, Twitter, Instagram and YouTube on Our Lives</u></a></li>
 </ul></div>
 

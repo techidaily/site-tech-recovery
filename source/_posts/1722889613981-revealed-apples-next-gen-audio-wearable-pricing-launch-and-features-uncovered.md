@@ -1,7 +1,7 @@
 ---
 title: "Revealed: Apple's Next-Gen Audio Wearable - Pricing, Launch & Features Uncovered"
-date: 2024-09-13T00:10:18.504Z
-updated: 2024-09-16T01:48:52.039Z
+date: 2024-09-30T16:13:59.847Z
+updated: 2024-10-02T16:12:20.036Z
 categories:
   - BestProducts
 description: "This Article Describes Revealed: Apple's Next-Gen Audio Wearable - Pricing, Launch & Features Uncovered"
@@ -33,6 +33,13 @@ In This Article
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Will the Foldable iPhone Be Released?
 
  Jeff Pu, an analyst at Haitong International Securities,[says Apple's first flip phone could come out](https://www.forbes.com/sites/ewanspence/2024/05/09/apple-folding-iphone-ipad-macbook-release-date/?sh=3862dfed1e98) in 2026\. This is backed up by a[2024 report from The Information](https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone) and the Taiwanese newspaper_United Daily News_ which,[according to Patently Apple](https://www.patentlyapple.com/2024/02/a-new-supply-chain-report-claims-that-apples-foldable-iphone-project-is-still-in-the-works-with-vision-pro-team-members-now.html) , reports that part of the[Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) team is working on the foldable iPhone project with the intention of a 2026-2027 launch.
@@ -55,6 +62,13 @@ Patent US8929085B2.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
@@ -70,6 +84,13 @@ We don’t expect a foldable iPhone until at least 2026.
  However, if they opt for a clamshell design where the single screen splits in two, we could be looking at a much more affordable phone (but still more pricey than your typical iPhone). If the rumors are true that Apple will have two foldables, clamshell and vertical, expect various prices depending not only on storage and screen size but also on the fold type.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iPhone Fold concept.
 
@@ -90,13 +111,6 @@ Michal Dufka
  Given a larger phone could resemble a tablet, it makes sense that it would support the[Apple Pencil](https://www.lifewire.com/review-apple-pencil-3887601) . The latest version currently works only on a small selection of iPads, but expect a new version for the foldable iPhone (unless it's more of a flip phone than a tablet).
 
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foldable iPhone Specs and Hardware
 
@@ -123,10 +137,10 @@ Michal Dufka
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest News About the Foldable iPhone
@@ -152,5 +166,16 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-stream-friendly-free-tunes-vault-fb/"><u>[New] In 2024, Stream-Friendly Free Tunes Vault (FB)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-instagram-stories/"><u>[Updated] 2024 Approved Unlock the Full Potential of Instagram Stories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unique-conversation-starters-for-streaming/"><u>[Updated] In 2024, Unique Conversation Starters for Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/common-problems-and-solutions-for-amazon-fire-tv-remotes/"><u>Common Problems and Solutions for Amazon Fire TV Remotes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-instant-impression-audiovisual-capture/"><u>In 2024, Instant Impression Audiovisual Capture</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-printing-obstacles-guiding-you-when-your-ipad-fails-to-find-its-printer-partner/"><u>Overcoming Printing Obstacles: Guiding You When Your iPad Fails to Find Its Printer Partner</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-and-easy-techniques-for-taking-screenshots-on-desktop-computers/"><u>Quick and Easy Techniques for Taking Screenshots on Desktop Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-for-deleting-dns-information-on-mac-computers/"><u>The Ultimate How-To for Deleting DNS Information on Mac Computers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-note-30i-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Note 30i Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>
 

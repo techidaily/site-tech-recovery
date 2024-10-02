@@ -1,7 +1,7 @@
 ---
 title: "SMS Insight: Techniques to Know If Someone Reads Your Texts"
-date: 2024-09-23T00:05:23.627Z
-updated: 2024-09-27T05:44:10.455Z
+date: 2024-09-26T16:39:34.718Z
+updated: 2024-10-02T16:09:30.093Z
 categories:
   - BestProducts
 description: "This Article Describes SMS Insight: Techniques to Know If Someone Reads Your Texts"
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
  Here's how to tell if someone read your text on Android and iOS smartphones. This article also covers WhatsApp, Facebook Messenger, and Instagram.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Read Receipts on iPhone
 
  On an iPhone, read receipts are the only way to tell if someone read a text you sent from Messages,[the default texting app for iOS](https://www.lifewire.com/imessage-apples-free-texting-app-1999185) . If you and your recipient activate read receipts, the word**Read** will be seen under the most recent message, along with the time the message was read.
@@ -44,7 +37,27 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 4. Others are notified when you read their messages. If your recipient also enabled read receipts, you'll see**Read** beneath your message along with the time it was read.  
 ![Turning on Read Receipts on an iPhone](https://www.lifewire.com/thmb/adwssPUIufZ67_obqOx2EVuaR_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-read-my-text-message-4148206-8285a2a3097b4c5a8e2f3884553f75f1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't want people to know that when you read their messages,[turn off read receipts on your iPhone or Android](https://www.lifewire.com/turn-read-receipts-on-or-off-on-iphone-and-android-5074420) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Read Receipts on Android Smartphones
 
@@ -59,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 3. Tap the toggle next to the read receipts options, which might be called**Send read receipts** ,**Read receipts** , or**Request receipt** , depending on the device you have.  
 ![The Google Messages menu, Settings screen, and RCS chats options](https://www.lifewire.com/thmb/B7JVQg4q7aeE8dmAE_ap6ttFnuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-read-receipts-rcs-chats-19d035e50fc3487ba50f8d7d782765fa.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WhatsApp Read Receipts
 
  WhatsApp uses built-in read receipts. The status of sent messages[is tracked through check marks next to messages](https://www.lifewire.com/how-to-track-messages-with-whatsapp-check-marks-4781495) . One grey check mark means the message was sent; two grey check marks mean the message was delivered, and two blue check marks mean the message was read.
@@ -66,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
  Read receipts are turned on by default, but it's a toggle you can switch on and off. If you've turned off[WhatsApp read receipts](https://www.lifewire.com/whatsapp-read-receipts-ticks-3426871) , follow that guide to learn how to start using this feature again.
 
  WhatsApp read receipts are a two-way street. If you disable read receipts to prevent others from knowing you read their messages, you won't know when they read yours.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### WhatsApp Message Details
 
@@ -75,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 2. Tap and hold the message, then select**Info** . Depending on your device, you might need to select the**three-dot** menu first.
 3. If read receipts aren't disabled, you'll see the exact time your message was delivered and read.  
 ![Message details in WhatsApp](https://www.lifewire.com/thmb/kKfFfjrRV6uuvyv_nzBN_LBJWxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-read-my-text-message-4148206-69a5bd8788d44fe2ad7afbdcda9ae3e4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Messenger Read Receipts
 
@@ -95,22 +115,8 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![The Chats, menu, and settings in the Facebook Messenger app for Android](https://www.lifewire.com/thmb/-ps7dMRHQclfLVgQWYJGmoAfjQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-messenger-app-settings-ac60afcaccab437aaa235122cf6cebc8.png)
 4. Choose**Read receipts** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Tap the toggle next to**Show read receipts** so it turns on.  
 ![The Privacy and security screen and read receipts toggle in the Facebook Messenger app](https://www.lifewire.com/thmb/bbHvAPlOyTbtWcVcsFhlUuuQUy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/read-receipts-facebook-messenger-c45c63e4858e4a67b967003f10089270.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Facebook Messenger app provides detailed indicators about the delivery and read status each time you send a message. When your message is actively sending, you'll briefly see a blue circle. When it's sent, you'll see a blue circle with a checkmark. When it's delivered, you'll see a filled-in blue circle. Finally, when it's read, you'll see a small version of your recipient's profile image below the message.
 
@@ -162,22 +168,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-digital-dynamo-women-the-fastest-growing-female-channel-owners/"><u>[New] 2024 Approved Digital Dynamo Women The Fastest-Growing Female Channel Owners</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-premier-platforms-to-rework-classic-ps3-titles-for-2024/"><u>[Updated] Premier Platforms to Rework Classic PS3 Titles for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-rethinking-content-strategy-with-instagrams-new-order/"><u>2024 Approved Rethinking Content Strategy with Instagram's New Order</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-efficiency-with-the-secret-window-to-all-files-on-windows/"><u>Boost Your Efficiency with The Secret Window to All Files on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-rtx-what-you-need-to-know-about-next-gen-graphics-cards/"><u>Deciphering RTX: What You Need to Know About Next-Gen Graphics Cards</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-8-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 8 Plus</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-v29e-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo V29e to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/hulu-vs-hulu-plus-whats-the-difference/"><u>Hulu Vs. Hulu Plus: What's the Difference?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y36i-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y36i to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionary-apple-iphone-release-whats-new-and-exciting/"><u>Revolutionary Apple iPhone Release: What's New and Exciting</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/stay-powered-all-day-with-the-moto-g-play-a-balance-of-great-battery-and-competent-specs-reviewed/"><u>Stay Powered All Day with the Moto G Play - A Balance of Great Battery and Competent Specs Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-troubleshooting-resolving-jscriptdll-errors-on-your-pc/"><u>Step-by-Step Troubleshooting: Resolving Jscript.dll Errors on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tackling-the-mystery-of-bsod-stop-code-0x0000007b-strategies-for-a-smooth-fix/"><u>Tackling the Mystery of BSOD STOP Code 0X0000007B: Strategies for a Smooth Fix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-evolution-of-5g-spotlight-on-verizons-innovations/"><u>The Evolution of 5G: Spotlight on Verizon's Innovations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-expert-guides-and-reviews/"><u>Tom's Tech Insights: Expert Guides and Reviews</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-mystery-understanding-the-blue-screen-of-death-and-its-significance/"><u>Unveiling the Mystery: Understanding the Blue Screen of Death and Its Significance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insta-twist-techniques-crafting-compelling-content-with-camera-angles/"><u>[Updated] 2024 Approved Insta Twist Techniques Crafting Compelling Content with Camera Angles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-heart-of-video-magic-10-key-edits-in-filmora/"><u>[Updated] The Heart of Video Magic 10 Key Edits in Filmora</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/4k-clarity-comes-closer-with-asuss-innovative-mg28uq-display/"><u>4K Clarity Comes Closer with ASUS's Innovative MG28UQ Display</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-the-dots-how-to-sync-ps-vr-headset-with-windows-or-macos/"><u>Connecting the Dots: How to Sync PS VR Headset with Windows or macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/contacting-the-snapchat-help-desk-a-comprehensive-guide/"><u>Contacting the Snapchat Help Desk: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-nokia-g22-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Nokia G22 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-first-steps-in-vector-art-exploring-kinds-applications/"><u>In 2024, First Steps in Vector Art Exploring Kinds, Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lenovo-pc-mastery-a-step-by-step-walkthrough-for-full-system-restoration/"><u>Lenovo PC Mastery: A Step-by-Step Walkthrough for Full System Restoration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimizing-your-fb-live-on-zoom-stream-for-2024/"><u>Optimizing Your FB Live on Zoom Stream for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stay-updated-with-zoom-on-your-computer-comprehensive-guide-for-both-windows-and-mac-users/"><u>Stay Updated with Zoom on Your Computer: Comprehensive Guide for Both Windows and Mac Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-creating-your-first-duet-video-on-tiktok/"><u>Step-by-Step Guide: Creating Your First Duet Video on TikTok</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-process-for-successful-obs-integration-on-macos/"><u>Step-by-Step Process for Successful OBS Integration on macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-checklist-purging-backdrops-with-affinity-photo/"><u>The Essential Checklist Purging Backdrops with Affinity Photo</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-of-samsungs-galaxy-a71-5g-balancing-performance-with-affordability-against-top-flagships/"><u>The Ultimate Review of Samsung's Galaxy A71 5G: Balancing Performance with Affordability Against Top Flagships</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-collection-the-507-most-creative-instagram-post-texts-2024-edition/"><u>Ultimate Collection: The 507 Most Creative Instagram Post Texts, 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-to-fix-stop-code-0x0000007b-and-end-those-bsod-issues/"><u>Ultimate Troubleshooting Tips to Fix STOP Code 0X0000007B and End Those BSOD Issues</u></a></li>
 </ul></div>
 

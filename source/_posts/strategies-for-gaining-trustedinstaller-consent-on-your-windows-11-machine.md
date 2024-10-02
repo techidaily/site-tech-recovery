@@ -1,7 +1,7 @@
 ---
 title: Strategies for Gaining TrustedInstaller Consent on Your Windows 11 Machine
-date: 2024-09-20T01:23:10.900Z
-updated: 2024-09-27T08:25:41.361Z
+date: 2024-09-28T16:55:31.808Z
+updated: 2024-10-02T16:38:06.827Z
 categories:
   - BestProducts
 description: This Article Describes Strategies for Gaining TrustedInstaller Consent on Your Windows 11 Machine
@@ -33,6 +33,13 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -44,10 +51,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
@@ -68,10 +75,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -82,13 +89,6 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -98,10 +98,10 @@ thumbnail: https://www.lifewire.com/thmb/bN_F8h8TKTX1N0seGbQ341fq0Y0=/400x300/fi
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
@@ -150,16 +150,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-explore-the-best-apps-for-effortless-youtube-to-webm-conversion/"><u>[New] 2024 Approved Explore the Best Apps for Effortless YouTube to WebM Conversion</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-ranking-the-best-ios-devices-tools-to-download-fb-movies-and-tunes/"><u>[New] In 2024, Ranking the Best iOS Devices' Tools to Download FB Movies & Tunes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-eliminating-expenses-gain-access-to-final-cut-pro/"><u>2024 Approved Eliminating Expenses Gain Access to Final Cut Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-inside-the-craft-of-creating-vr-films/"><u>2024 Approved Inside The Craft of Creating VR Films</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-ace-2-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Ace 2 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/clarifying-output-impedance-what-you-need-to-know/"><u>Clarifying Output Impedance – What You Need to Know</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-honor-x50i-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Honor X50i To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-boost-and-optimize-a-lagging-internet-connection/"><u>How To Boost And Optimize A Lagging Internet Connection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-preventing-spam-texts-on-ios-devices/"><u>Step-by-Step Guide: Preventing Spam Texts on iOS Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-premier-maximilian-documentary-selection-for-july-2024-our-expert-picks/"><u>The Premier Maximilian Documentary Selection for July 2024 - Our Expert Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforming-virtual-meetings-the-ultimate-guide-to-using-google-duo-within-gmail/"><u>Transforming Virtual Meetings: The Ultimate Guide to Using Google Duo Within Gmail</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-roadmap-views-subscribers-and-money-on-youtube/"><u>[New] 2024 Approved The Ultimate Roadmap Views, Subscribers & Money on Youtube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-building-a-compelling-cinematic-snippet/"><u>[New] Building a Compelling Cinematic Snippet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-musics-big-screen-facebooks-top-ten-vids/"><u>[Updated] 2024 Approved Music's Big Screen Facebook's Top Ten Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unlock-flawless-facetime-call-recordings-a-complete-walkthrough/"><u>[Updated] Unlock Flawless FaceTime Call Recordings A Complete Walkthrough</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-pathway-to-stellar-intros-on-mobile-devices/"><u>[Updated] Your Pathway to Stellar Intros on Mobile Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-virtual-horizons-the-future-of-filmmaking/"><u>2024 Approved Virtual Horizons The Future of Filmmaking</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comparing-apple-music-and-google-play-music-which-is-the-supreme-leader-in-streaming-services/"><u>Comparing Apple Music and Google Play Music: Which Is the Supreme Leader in Streaming Services?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decode-the-502-bad-gateway-mistake-comprehensive-troubleshooting-guide/"><u>Decode the 502 Bad Gateway Mistake: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-expected-costs-and-capabilities-of-the-next-gen-apple-home-automation-companion/"><u>Discover Expected Costs & Capabilities of the Next-Gen Apple Home Automation Companion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-hack-opening-an-iphone-sim-card-panel-sans-ejector-pin/"><u>Expert Hack: Opening an iPhone SIM Card Panel Sans Ejector Pin</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-missing-vcompdll-errors-expert-tips-and-techniques/"><u>Fixing Missing Vcomp.dll Errors: Expert Tips & Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971033529-get-your-broadcom-bluetooth-software-for-windows-1187-systems-today/"><u>Get Your Broadcom Bluetooth Software for Windows 11/8/7 Systems Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ideal-locations-to-shop-for-smartphones-and-cell-phones/"><u>Ideal Locations to Shop for Smartphones and Cell Phones</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-xiaomi-redmi-k70-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Xiaomi Redmi K70 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oneplus-nord-n30-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your OnePlus Nord N30 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-release-of-apple-watch-series-8-specs-revealed-and-how-much-it-will-cost-you/"><u>Inside the Release of Apple Watch Series 8 – Specs Revealed and How Much It Will Cost You</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-tracking-opened-emails-a-step-by-step-guide-for-gmail-users/"><u>Mastering the Art of Tracking Opened Emails: A Step-by-Step Guide for Gmail Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/professional-tricks-to-correct-the-red-eye-glance-captured-in-pet-imagery/"><u>Professional Tricks to Correct the Red-Eye Glance Captured in Pet Imagery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resetting-the-time-settings-on-your-amazon-kindle-paperwhite-device/"><u>Resetting the Time Settings on Your Amazon Kindle Paperwhite Device</u></a></li>
 </ul></div>
 

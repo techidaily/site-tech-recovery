@@ -1,7 +1,7 @@
 ---
 title: "Comparing Cat5 Vs. Cat6 Ethernet Cables: Key Factors and Performance"
-date: 2024-09-11T20:16:40.021Z
-updated: 2024-09-15T18:02:05.505Z
+date: 2024-09-27T16:18:56.522Z
+updated: 2024-10-02T16:12:16.693Z
 categories:
   - BestProducts
 description: "This Article Describes Comparing Cat5 Vs. Cat6 Ethernet Cables: Key Factors and Performance"
@@ -50,6 +50,13 @@ Monoprice
 
  They gave broader options for shielding, too, though the thicker cables in those cases can make them a little harder to route through narrower gaps or in larger quantities.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance: Cat6 Is Faster and Better Made
 
  Cat5
@@ -71,6 +78,13 @@ Monoprice
  Cat5 cables are a much older, slower standard, limited to a maximum of 100 Mbps on Ethernet cables up to 100 meters. That speed will cover just about any device with an Ethernet port from the past 20 years, so compatibility isn't a problem. But faster networks are increasingly common today, and 100 Mbps is considerably slower than even older[Wi-Fi standards](https://www.lifewire.com/what-is-wi-fi-2377430) .
 
  Cat6 Ethernet cables support Gigabit Ethernet (1,000 Mbps) for cables up to 100 m long, but if you keep the cable running under 55 m, you can enjoy 10,000 Mbps. You'll need hardware that supports that speed in your router/switch and connected devices to take full advantage, but the option is there for those transferring massive data collections around a local network.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Shielding: Cat6 Has More Options, but It's Thicker
 
@@ -96,16 +110,16 @@ Monoprice
  This protection is only really relevant in busy apartment buildings, offices, and data centers where there are many other electronic devices and Ethernet cables around. It doesn't really hurt, either, but that additional shielding and wire thickness can make the installation and transport of Cat6 a little more tricky.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
+<span id="1982456">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Futureproofing: Cat6 Will Eventually Replace Cat5
@@ -130,10 +144,10 @@ Monoprice
  Cat6 is also backward compatible with Cat5, so you can just start replacing your cables with Cat6 piecemeal if you prefer. It'll all function just fine, but when you finally replace all networking hardware with faster gear, you'll be able to use the new Cat6 speed to its full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final Verdict
@@ -175,5 +189,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-device-guide-for-google-meet-access-for-2024/"><u>[Updated] Device Guide for Google Meet Access for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>2024 Approved Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-free-premiere-pro-templates-for-2024/"><u>Best Free Premiere Pro Templates for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-account-protection-learn-how-to-modify-your-facebook-password-easily/"><u>Enhance Account Protection: Learn How to Modify Your Facebook Password Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-utilizing-androids-swift-settings-shortcut-for-maximum-productivity/"><u>Expert Tips for Utilizing Android's Swift Settings Shortcut for Maximum Productivity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/friendly-fun-on-the-go-strategies-for-teaming-up-in-pokemon-go-adventures/"><u>Friendly Fun On-the-Go! Strategies for Teaming Up in Pokémon GO Adventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-craft-a-professional-email-signature-on-godaddy-webmail-complete-guide/"><u>How To Craft A Professional Email Signature On GoDaddy Webmail - Complete Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-insiders-guide-to-concealed-snap-content/"><u>In 2024, The Insider's Guide to Concealed Snap Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-connectivity-fixing-airpods-that-refuse-to-reset/"><u>Overcoming Connectivity: Fixing AirPods That Refuse to Reset</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-disguise-in-online-consent-forms/"><u>The Art of Disguise in Online Consent Forms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-instagram-djs-playlist-tailoring-sounds-for-stories/"><u>The Instagram DJ's Playlist Tailoring Sounds for Stories</u></a></li>
+</ul></div>
 

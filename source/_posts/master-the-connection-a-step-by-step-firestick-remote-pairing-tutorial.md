@@ -1,7 +1,7 @@
 ---
 title: "Master the Connection: A Step-by-Step Firestick Remote Pairing Tutorial"
-date: 2024-09-10T00:33:27.606Z
-updated: 2024-09-15T16:41:01.687Z
+date: 2024-09-30T16:35:56.116Z
+updated: 2024-10-02T16:31:00.635Z
 categories:
   - BestProducts
 description: "This Article Describes Master the Connection: A Step-by-Step Firestick Remote Pairing Tutorial"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -34,8 +41,24 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
@@ -48,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -98,5 +121,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-seize-control-of-your-viewing-experience-these-top-6-free-youtube-short-downloaders/"><u>[New] In 2024, Seize Control of Your Viewing Experience These Top 6 Free YouTube Short Downloaders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nine-must-have-technologies-for-online-privacy-protection/"><u>[New] Nine Must-Have Technologies for Online Privacy Protection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/broadcast-like-a-ghost-anonymous-instagram-strategies-for-2024/"><u>Broadcast Like a Ghost Anonymous Instagram Strategies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-much-a-youtube-promotion-for-2024/"><u>How Much a YouTube Promotion for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nubia-red-magic-8s-proplus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nubia Red Magic 8S Pro+ Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inspecting-readership-of-your-google-docs-a-guide-to-identifying-document-viewers/"><u>Inspecting Readership of Your Google Docs: A Guide to Identifying Document Viewers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mastering-dvd-viewing-the-best-free-windows-11-dvd-decoding-tools-explained/"><u>Mastering DVD Viewing: The Best Free Windows 11 DVD Decoding Tools Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-sync-issues-with-chromecast-audio-devices/"><u>Quick Fixes for Sync Issues with Chromecast Audio Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-mobile-payments-learn-how-to-make-purchases-easily-using-apple-pay-on-an-apple-watch/"><u>Seamless Mobile Payments: Learn How to Make Purchases Easily Using Apple Pay on an Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-clearing-your-macos-dns-cache/"><u>Step-by-Step Guide: Clearing Your macOS DNS Cache</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stop-unwanted-auto-play-on-apple-music-user-guide/"><u>Stop Unwanted Auto-Play on Apple Music – User Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-genesis-of-smart-machines-diving-into-when-ai-was-first-conceived/"><u>The Genesis of Smart Machines: Diving Into When AI Was First Conceived</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-setting-up-and-mastering-slack-reminder-notifications/"><u>Ultimate Guide: Setting Up & Mastering Slack Reminder Notifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-advanced-analytics-using-metas-ai-in-your-instagram-game-plan/"><u>Unlocking Advanced Analytics: Using Meta's AI in Your Instagram Game Plan</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-features-and-cost-efficiency-of-the-sony-xbr65x850f-tv/"><u>Unpacking the Features and Cost Efficiency of the Sony XBR65X850F TV.</u></a></li>
+</ul></div>
 

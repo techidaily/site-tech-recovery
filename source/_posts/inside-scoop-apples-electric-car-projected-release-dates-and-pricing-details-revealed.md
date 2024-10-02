@@ -1,7 +1,7 @@
 ---
 title: "Inside Scoop: Apple's Electric Car Projected Release Dates & Pricing Details Revealed"
-date: 2024-09-09T21:27:41.882Z
-updated: 2024-09-15T23:22:50.980Z
+date: 2024-09-28T16:48:06.349Z
+updated: 2024-10-02T16:31:25.188Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Scoop: Apple's Electric Car Projected Release Dates & Pricing Details Revealed"
@@ -40,22 +40,35 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -66,13 +79,6 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -81,11 +87,31 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -110,5 +136,21 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://solve-hot.techidaily.com/abbyy-und-tangro-steigern-sie-die-prozesssicherheit-im-dokumenteneingang-fur-ein-nahtloses-management/"><u>ABBYY Und Tangro®: Steigern Sie Die Prozesssicherheit Im Dokumenteneingang Für Ein Nahtloses Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/add-a-layer-of-defense-to-your-inbox-how-to-activate-gmails-2sv/"><u>Add a Layer of Defense to Your Inbox: How to Activate Gmail's 2SV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-personal-email-information-a-comprehensive-guide/"><u>Discovering Personal Email Information: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-pros-and-cons-of-signal-vs-whatsapp-privacy-measures/"><u>Exploring the Pros & Cons of Signal Vs. WhatsApp Privacy Measures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-moto-e13-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola Moto E13 online without jailbreak</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-picart-technique-for-clean-images/"><u>In 2024, The Ultimate PicArt Technique for Clean Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/los-mejores-programas-gratuitos-de-copia-de-dvd-al-mac-revisados-en-2024/"><u>Los Mejores Programas Gratuitos De Copia De DVD Al Mac Revisados en 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/pro-tips-on-podcast-titling-and-a-collection-of-over-50-engaging-names-for-2024/"><u>Pro Tips on Podcast Titling & A Collection of Over 50 Engaging Names for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-start-tutorial-setting-up-your-new-echo-dot-device/"><u>Quick Start Tutorial: Setting Up Your New Echo Dot Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-with-a-malfunctioning-tiktok-app/"><u>Solving Common Issues with a Malfunctioning TikTok App</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-premium-wedding-films-online-youtube-and-vimeo-for-2024/"><u>Top 9 Premium Wedding Films Online Youtube & Vimeo for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-z-flip-5-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy Z Flip 5 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-fixing-color-inaccuracies-and-image-warping-in-digital-screens/"><u>Troubleshooting Tips for Fixing Color Inaccuracies & Image Warping in Digital Screens</u></a></li>
+</ul></div>
 

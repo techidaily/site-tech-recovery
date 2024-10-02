@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Email Experience: How to Eliminate Every Message From Gmail Instantly"
-date: 2024-09-21T07:22:28.634Z
-updated: 2024-09-27T06:05:34.393Z
+date: 2024-09-25T16:05:09.631Z
+updated: 2024-10-02T16:00:30.066Z
 categories:
   - BestProducts
 description: "This Article Describes Streamlining Your Email Experience: How to Eliminate Every Message From Gmail Instantly"
@@ -31,42 +31,30 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 2. Select**Filters and Blocked Addresses** .  
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Filters and Blocked Addresses tab in Gmail](https://www.lifewire.com/thmb/_9xw1NUAlMHL7bAlPahggss4cK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faaa046e0fb0001ebdc0d.jpg)
 3. Select**Create a new filter** . If you already have many filters, you'll have to scroll down to find this link.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Create a new filter link in Gmail Settings](https://www.lifewire.com/thmb/Z8V002m1EnNEr2YpSfPZ7gQVu08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faab746e0fb0001684468.jpg)
 4. A dialog box appears. In the**From** field, type the email address you want to allow. Be sure to type the full email address, like**<example@yahoo.com>** . To allow every email address from a particular domain, type just that domain name, like**@yahoo.com** .  
 ![Create filter button in Gmail Settings](https://www.lifewire.com/thmb/29dJifNpYRnjrjyXfT4lLR8fBlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faad846e0fb0001d3e73e.jpg)
 5. At the bottom of the dialog box, select**Create filter.**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. On the next screen, tell Gmail what to do with the email address or domain you just indicated. To do so, select**Never send it to Spam** . To finish the process, select**Create filter** .  
 ![Create filter button in list of actions for Gmail filtered addresses](https://www.lifewire.com/thmb/VEgNOcD2Fld-QtjqcJqPPJfqPmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2fab2dc9e77c0001125823.jpg)
 7. If you want to allow more than one email address or domain, you need not repeat these steps for each one. Instead, put a vertical bar (and a space before and after it) between the separate accounts, as follows:**<person1@example.com>** |**<person2@anotherexample.com>** |**@example2.com** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Start With an Email Message
 
@@ -78,10 +66,17 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 3. With the email address now auto-filled for you in the**From** field, follow steps 5 and 6 above.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional Gmail Filtering Tips
@@ -121,19 +116,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cinematicwave-win8-software/"><u>[New] 2024 Approved CinematicWave Win8 Software</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ideal-matches-mac-and-pc-video-decoders-freepaid/"><u>[New] 2024 Approved Ideal Matches Mac & PC Video Decoders (FREE/PAID)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-integrated-guide-for-mobile-and-pc-session-records/"><u>[New] 2024 Approved Integrated Guide for Mobile & PC Session Records</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-10plus-best-online-screen-capture-platforms/"><u>[Updated] 2024 Approved Top 10+ Best Online Screen Capture Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-about-samsung-unpacked-2025-reveal-dates-breaking-news-latest-gadgets-and-exclusive-teasers/"><u>All About Samsung Unpacked 2025: Reveal Dates, Breaking News, Latest Gadgets & Exclusive Teasers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beyond-the-surface-assessing-the-genuine-sustainability-of-electric-vehicles/"><u>Beyond The Surface: Assessing the Genuine Sustainability of Electric Vehicles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-analysis-of-the-western-digital-data-lifeguard-a-users-guide/"><u>Comprehensive Analysis of the Western Digital Data Lifeguard: A User's Guide</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/cookiebot-driven-automation-enhance-your-sites-user-engagement/"><u>Cookiebot-Driven Automation: Enhance Your Site's User Engagement</u></a></li>
-<li><a href="https://article-posts.techidaily.com/direct-path-from-srt-to-sub/"><u>Direct Path From SRT to SUB</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-solve-launchdll-not-detected-problems-on-your-computer/"><u>How to Correctly Solve 'Launch.dll Not Detected' Problems on Your Computer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-saga-selection-the-top-10-best-action-adventure-games/"><u>In 2024, Saga Selection The Top 10 Best Action-Adventure Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/nine-vital-tech-products-to-power-your-educational-journey-successfully/"><u>Nine Vital Tech Products to Power Your Educational Journey Successfully</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/remedying-obs-fullscreen-disruption-for-2024/"><u>Remedying OBS Fullscreen Disruption for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-how-to-achieve-privacy-with-background-blur-in-google-meet/"><u>Step-by-Step Instructions on How to Achieve Privacy with Background Blur in Google Meet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-v30t-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-a05s-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel A05s Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-for-setting-up-a-personalized-email-footer-with-godaddys-mail-service/"><u>Easy Tips for Setting Up a Personalized Email Footer with GoDaddy's Mail Service</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/everything-about-instagram-explained-simply/"><u>Everything About Instagram Explained Simply</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-samsungs-galaxy-s21-release-stripping-back-to-enhance-functionality/"><u>Expert Insights on Samsung's Galaxy S21 Release: Stripping Back to Enhance Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-instagram-a-comprehensive-guide/"><u>Exploring the World of Instagram: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-max-on-apple-tv/"><u>How to Get Max on Apple TV</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-labyrinas-explore-worlds-through-new-languages/"><u>Linguistic Labyrinas: Explore Worlds Through New Languages</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-samsung-galaxy-f14-5g-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy F14 5G, is it possible?</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/share-your-digital-flipbook-creations-with-friends-on-flipbuildercom/"><u>Share Your Digital Flipbook Creations with Friends on FlipBuilder.com</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-running-android-apps-seamlessly-on-windows-10-systems/"><u>Step-by-Step Tutorial: Running Android Apps Seamlessly on Windows 10 Systems</u></a></li>
 </ul></div>
 

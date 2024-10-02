@@ -1,7 +1,7 @@
 ---
 title: Share Your Printer with Different Computers - A Simple Networking Guide
-date: 2024-09-26T08:06:35.657Z
-updated: 2024-09-26T21:20:09.977Z
+date: 2024-10-01T16:42:46.495Z
+updated: 2024-10-02T16:32:11.910Z
 categories:
   - BestProducts
 description: This Article Describes Share Your Printer with Different Computers - A Simple Networking Guide
@@ -26,19 +26,6 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 [How to Program an RCA Universal Remote](https://www.lifewire.com/program-rca-universal-remote-5201320)
 
  Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Direct Code Entry
 
@@ -69,10 +56,16 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 8. Test several functions on the remote and see if they work for your device.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Brand Code Search
@@ -93,10 +86,10 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Manual Code Search
@@ -111,6 +104,13 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 4. If the power on your TV or device turns off, the remote has found the correct Code. Press**Stop** to save the code.
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Programming via IR Learning
 
  If supported, the IR learning method requires placing your universal remote and the remote of a device you wish to control so that they are pointing at each other. This process allows IR control light beams to transmit from the original device remote to the universal remote.
@@ -121,13 +121,6 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 4. Repeat these steps for every function you wish to run, such as volume down, channel up, channel down, and input selection.
 
  This process is long and tedious, especially if you have several devices you want to control. However, if you don't have access to the remote control codes or other methods fail, you may be able to use the IR learning process as your last result, provided your Universal Remote supports this programming option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Programming via PC
 
@@ -140,6 +133,13 @@ thumbnail: https://www.lifewire.com/thmb/3sZ7VdlWFbzY_CJb-_fPw5E-ODI=/400x300/fi
 1. Select or enter your Logitech Harmony Universal Remote Control model number**.**
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -192,21 +192,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-advanced-editing-perfecting-transitions-in-kinemaster-for-2024/"><u>[New] Advanced Editing Perfecting Transitions in Kinemaster for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-auditing-for-accuracy-youtube-monetization-compliance/"><u>[Updated] In 2024, Auditing for Accuracy YouTube Monetization Compliance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-easy-path-to-professional-looking-youtube-shorts/"><u>[Updated] The Easy Path to Professional-Looking YouTube Shorts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/awaken-with-ease-the-ultimate-list-of-our-favorite-alarm-clock-apps/"><u>Awaken with Ease: The Ultimate List of Our Favorite Alarm Clock Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claim-your-prize-participate-in-openais-innovative-error-tracking-mission/"><u>Claim Your Prize: Participate in OpenAI's Innovative Error Tracking Mission</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-androids-brain-exploring-machine-learning-in-phones/"><u>Decoding Android's Brain: Exploring Machine Learning in Phones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-future-the-most-recent-leaks-and-expectations-for-the-2021-samsung-galaxy-s-series/"><u>Decoding the Future: The Most Recent Leaks and Expectations for the 2021 Samsung Galaxy S Series</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-interactions-learn-the-tricks-of-incorporating-moving-images-into-instagram-dialogue/"><u>Elevate Your Interactions: Learn the Tricks of Incorporating Moving Images Into Instagram Dialogue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-world-of-free-online-fax-options-for-businesses-and-individuals/"><u>Explore the World of Free Online Fax Options for Businesses and Individuals</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-x100-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X100 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-use-facebook-image-search-to-find-someone/"><u>How to Use Facebook Image Search to Find Someone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/optimal-times-and-techniques-for-deactivating-your-ex-twitter-follows/"><u>Optimal Times & Techniques for Deactivating Your Ex-Twitter Follows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-strategies-unlocking-success-in-royal-match/"><u>Step-by-Step Strategies: Unlocking Success in 'Royal Match'</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unveiling-techniques-to-harvest-gif-images-directly-from-fb/"><u>Unveiling Techniques to Harvest GIF Images Directly From FB</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system-for-2024/"><u>[New] Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-the-art-of-evading-youtube-copyright-claims/"><u>[New] In 2024, Mastering the Art of Evading YouTube Copyright Claims</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-mobile-magic-transform-your-snaps-at-zero-cost-for-2024/"><u>[Updated] Mobile Magic Transform Your Snaps at Zero Cost for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-practices-for-video-game-archiving-on-playstation-4-for-2024/"><u>Best Practices for Video Game Archiving on PlayStation 4 for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-c67-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme C67 4G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-google-bard-which-is-better/"><u>ChatGPT Vs. Google Bard: Which Is Better?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-correcting-ieframedll-errors-on-your-pc/"><u>Expert Advice: Correcting Ieframe.dll Errors on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-troubleshooting-and-repairing-common-tv-malfunctions/"><u>Expert Tips for Troubleshooting and Repairing Common TV Malfunctions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-handling-and-fixing-msvbvm50dll-file-errors/"><u>Expert Tips on Handling and Fixing MSVBVM50.DLL File Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-a-broken-wi-fi-link-on-the-microsoft-surface-series/"><u>Fixing a Broken Wi-Fi Link on the Microsoft Surface Series</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-safely-create-backup-copies-of-your-dvds-with-winx-dvd-copy-software/"><u>How to Safely Create Backup Copies of Your DVDs with WinX DVD Copy Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-f5-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco F5 5G Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-your-adventures-with-our-selection-of-top-rated-travel-planning-apps-8-picks/"><u>Master Your Adventures with Our Selection of Top-Rated Travel Planning Apps (8 Picks)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/non-commercial-balloons-such-as-hot-air-balloons-and-gas-balloons-that-meet-the-requirements-set-out-in-casr-part-91-general-operating-and-flight-rules-subp192/"><u>Non Commercial Balloons, Such as Hot Air Balloons and Gas Balloons, that Meet the Requirements Set Out in CASR Part 91 – General Operating & Flight Rules (Subpart 6).</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-digital-playgrounds-7-fantastic-sites-for-kids-enjoyment/"><u>The Best Digital Playgrounds: 7 Fantastic Sites for Kids' Enjoyment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-troubleshooting-windows-bsod-issues/"><u>The Complete Guide to Troubleshooting Windows BSOD Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-how-digital-video-recorders-work-a-complete-guide/"><u>Understanding How Digital Video Recorders Work: A Complete Guide</u></a></li>
 </ul></div>
 

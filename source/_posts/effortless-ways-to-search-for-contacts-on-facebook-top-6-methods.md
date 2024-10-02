@@ -1,7 +1,7 @@
 ---
 title: Effortless Ways to Search for Contacts on Facebook – Top 6 Methods
-date: 2024-09-20T19:22:23.645Z
-updated: 2024-09-26T16:11:28.403Z
+date: 2024-09-29T16:48:12.345Z
+updated: 2024-10-02T16:13:00.767Z
 categories:
   - BestProducts
 description: This Article Describes Effortless Ways to Search for Contacts on Facebook – Top 6 Methods
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/hxWpzKcN-BiBu9bvDiyxKnNO4Us=/400x300/fi
 
  This article explains how to delete the[DNS cache](https://www.lifewire.com/what-is-a-dns-cache-817514) on a Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the macOS Flush DNS Command
 
  If you’re experiencing internet connectivity issues, you may be able to fix them by resetting the[DNS](https://www.lifewire.com/what-is-dns-domain-name-system-2625855) cache with a[Terminal command](https://www.lifewire.com/mac-terminal-commands-4774997) . It should only take a few moments.  
@@ -43,10 +36,10 @@ thumbnail: https://www.lifewire.com/thmb/hxWpzKcN-BiBu9bvDiyxKnNO4Us=/400x300/fi
  This command only works in[macOS](https://www.lifewire.com/what-is-macos-4691239) 10.12 Sierra and newer. If you have an older version, check the next section for the correct command.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Type your password and then press**return** . The DNS cache will be reset immediately, but there will be no message to that effect. When a new line appears, it indicates the command has been carried out.  
@@ -54,10 +47,17 @@ thumbnail: https://www.lifewire.com/thmb/hxWpzKcN-BiBu9bvDiyxKnNO4Us=/400x300/fi
 The password will not appear in Terminal as you type it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Flush DNS on Mac OS X
@@ -72,10 +72,10 @@ The password will not appear in Terminal as you type it.
 * **Tiger** : lookupd -flushcache
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does Flushing DNS Do?
@@ -126,22 +126,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-messenger-maestros-guide-to-capturing-social-media-videos/"><u>[New] 2024 Approved The Messenger Maestro's Guide to Capturing Social Media Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-content-youtube-thumbnail-artistry-on-mac/"><u>[New] Elevate Your Content YouTube Thumbnail Artistry on Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-melody-mixin-adding-tracks-to-snapchat-vids-for-2024/"><u>[New] Melody Mixin' Adding Tracks to Snapchat Vids for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ransforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing-for-2024/"><u>[New] Transforming YouTube Content Advanced Strategies to Perfect Videos After Publishing for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-insiders-look-at-top-9-free-platforms-for-designing-youtube-logos/"><u>[Updated] Insider's Look at Top 9 FREE Platforms for Designing YouTube Logos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-speedy-social-media-collage-crafting-strategies/"><u>2024 Approved Speedy Social Media Collage Crafting Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-tool-to-overcome-isolation-and-solitude/"><u>ChatGPT as a Tool to Overcome Isolation and Solitude</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/collaborative-playlist-creation-how-to-share-music-on-spotify-with-your-pals/"><u>Collaborative Playlist Creation: How to Share Music on Spotify with Your Pals</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/custom-building-vs-off-the-shelf-pc-which-option-fits-you-perfectly/"><u>Custom Building vs Off-the-Shelf PC: Which Option Fits You Perfectly?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-guide-setting-up-your-own-wireless-home-theater-in-the-dorm/"><u>DIY Guide: Setting Up Your Own Wireless Home Theater in the Dorm</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-does-pope-francis-stay-connected-in-the-digital-age-through-email-or-other-means/"><u>How Does Pope Francis Stay Connected in the Digital Age: Through Email or Other Means?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-ps4-sync-easy-steps-to-link-your-controller/"><u>Mastering PS4 Sync: Easy Steps to Link Your Controller</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-how-to-fix-the-fat-file-system-issue-in-windows-10/"><u>Resolved: How to Fix the FAT File System Issue in Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-quickest-quality-nine-fixes-to-enhance-your-video-on-pc/"><u>The Quickest Quality: Nine Fixes to Enhance Your Video on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-irreversibly-deleting-your-yahoo-mail-profile/"><u>The Ultimate Walkthrough for Irreversibly Deleting Your Yahoo Mail Profile</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-our-premier-picks-for-premium-no-fee-email-solutions-top-10/"><u>Unveiling Our Premier Picks for Premium, No-Fee Email Solutions (Top 10)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-new-in-ios-and-macos-exploring-apples-latest-innovations-at-wwdc-2025/"><u>What's New in iOS and macOS? Exploring Apple's Latest Innovations at WWDC 2025</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-srt-audio-file-handling-for-oses/"><u>[New] SRT Audio File Handling for OSes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capture-audio-waveforms-and-vocal-tracks/"><u>[Updated] In 2024, Capture Audio Waveforms & Vocal Tracks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-prime-day-alert-hunt-down-ultimate-discounts-on-must-have-technology/"><u>Amazon Prime Day Alert: Hunt Down Ultimate Discounts on Must-Have Technology</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/becoming-a-snapshot-wizard-top-positions-for-iphone-photos/"><u>Becoming a Snapshot Wizard Top Positions for iPhone Photos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/definitive-answers-to-streamlining-your-fortnite-experience-by-cutting-out-lags/"><u>Definitive Answers to Streamlining Your Fortnite Experience by Cutting Out Lags</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-your-digital-communication-crafting-a-professional-email-signature-on-godaddys-webmail-platform/"><u>Enhancing Your Digital Communication: Crafting a Professional Email Signature on GoDaddy's Webmail Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/error-0x80070570-explained-fixing-the-issue-step-by-step/"><u>Error 0X80070570 Explained: Fixing the Issue Step-by-Step</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-revolutionize-your-workflow-the-top-7-digital-tokens-makers/"><u>In 2024, Revolutionize Your Workflow - The Top 7 Digital Tokens Makers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-productivity-top-7-note-taking-apps-tailored-for-your-ipad-experience/"><u>Mastering Productivity: Top 7 Note-Taking Apps Tailored for Your iPad Experience</u></a></li>
+<li><a href="https://discover-able.techidaily.com/quick-guide-how-to-save-whatsapp-audio-calls-across-your-smartphone-and-desktop/"><u>Quick Guide: How to Save WhatsApp Audio Calls Across Your Smartphone & Desktop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/share-your-ps5-gaming-adventures-a-comprehensive-how-to-guide/"><u>Share Your PS5 Gaming Adventures - A Comprehensive How-To Guide</u></a></li>
 </ul></div>
 

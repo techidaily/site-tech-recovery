@@ -1,7 +1,7 @@
 ---
 title: Cost-Effective Beginner's Guide to Building a Home Cinema
-date: 2024-09-22T18:57:30.994Z
-updated: 2024-09-26T18:49:10.846Z
+date: 2024-10-01T16:01:55.796Z
+updated: 2024-10-02T16:33:08.418Z
 categories:
   - BestProducts
 description: This Article Describes Cost-Effective Beginner's Guide to Building a Home Cinema
@@ -37,6 +37,13 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -50,10 +57,10 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Check Your Network Connection
@@ -70,18 +77,18 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
@@ -91,10 +98,10 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
@@ -113,25 +120,11 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Skype for Computers
 
@@ -153,13 +146,6 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -171,6 +157,13 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
  Otherwise, continue with Step 7 below for some other options.
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 7: Reinstall Skype
 
@@ -185,6 +178,13 @@ thumbnail: https://www.lifewire.com/thmb/nrL1_Bx7jUrDH4zxC5RJrI9rpQY=/300x200/fi
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
 
@@ -231,19 +231,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-aural-enhancement-for-your-inshot-clips/"><u>[New] Aural Enhancement for Your Inshot Clips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-direct-from-twitter-posting-engaging-video-content-on-snapchat-for-2024/"><u>[New] Direct From Twitter Posting Engaging Video Content on Snapchat for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-engagement-through-best-thumbnail-practices/"><u>[Updated] 2024 Approved Boost Engagement Through Best Thumbnail Practices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-in-depth-samsung-picture-editor-features-and-proscons/"><u>[Updated] 2024 Approved In-Depth Samsung Picture Editor Features and Pros/Cons</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/bluetooth-revolution-on-the-road-how-lihan-lhfm1039-enhances-your-car-audio-experience/"><u>Bluetooth Revolution on the Road: How LIHAN LHFM1039 Enhances Your Car Audio Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-contrast-what-sets-roku-express-apart-from-the-classic-roku-stick/"><u>Decoding the Contrast: What Sets Roku Express Apart From the Classic Roku Stick?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tricks-to-grab-screenshots-quickly-on-any-hp-laptop-model/"><u>Expert Tricks to Grab Screenshots Quickly on Any HP Laptop Model</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-sony-xperia-1-v-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-picsart-unveiled-full-analysis-and-step-by-step-tutorial/"><u>In 2024, PicsArt Unveiled Full Analysis & Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-blog.techidaily.com/inside-scoop-reasons-behind-the-delay-of-assassins-creed-valhalla-unveiled/"><u>Inside Scoop: Reasons Behind the Delay of Assassin's Creed Valhalla Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/july-2024s-full-collection-of-linksys-original-network-passwords/"><u>July 2024'S Full Collection of Linksys Original Network Passwords</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-gen-pixel-fold-2-uncovering-the-costs-release-details-and-speculated-features/"><u>The Next-Gen Pixel Fold 2? Uncovering the Costs, Release Details, and Speculated Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-enhancing-communication-at-work-through-slack/"><u>The Ultimate How-To: Enhancing Communication at Work Through Slack</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-9-essential-technology-gadgets-for-students-academic-success/"><u>Top 9 Essential Technology Gadgets for Students' Academic Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-making-history-a-present-using-camera-roll-in-snaps/"><u>[New] 2024 Approved Making History a Present - Using Camera Roll in Snaps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-efficient-movie-recording-strategies-across-desktops-and-handhents/"><u>[New] Efficient Movie Recording Strategies Across Desktops and Handhents</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-thumbnails-the-ultimate-guide-to-optimal-youtube-sizes-for-2024/"><u>[New] Top Thumbnails The Ultimate Guide to Optimal YouTube Sizes for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-20-best-youtube-thumbnail-fonts-to-make-your-video-stunning/"><u>[Updated] 2024 Approved 20 Best YouTube Thumbnail Fonts to Make Your Video Stunning</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-screen-recording-mi-11-edition-for-2024/"><u>[Updated] Mastering Screen Recording Mi 11 Edition for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elite-women-gaming-leaders-top-10-on-yt/"><u>2024 Approved Elite Women Gaming Leaders Top 10 On YT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-root-of-poor-video-experiences-with-zoom/"><u>Exploring the Root of Poor Video Experiences with Zoom</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-your-xbox-one-when-you-see-no-signal-quick-and-easy-fixes/"><u>Fixing Your Xbox One When You See 'No Signal': Quick and Easy Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-motorola-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Motorola .</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-honor-90-lite-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor 90 Lite Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-your-roku-television-sans-remote-tips-and-tricks/"><u>Navigating Your Roku Television Sans Remote - Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-workflow-essential-strategies-for-effective-use-of-slack-at-work/"><u>Revolutionize Your Workflow: Essential Strategies for Effective Use of Slack at Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-triple-monitor-display-with-pc/"><u>Step-by-Step Guide: Setting Up Your Triple Monitor Display with PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-true-environmental-impact-of-e-vehicles-a-comprehensive-review/"><u>Unveiling the True Environmental Impact of E-Vehicles: A Comprehensive Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-new-innovative-phones-from-samsung/"><u>Unveiling: New Innovative Phones From Samsung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/winning-in-pokemon-unite-tips-and-techniques-revealed/"><u>Winning in Pokémon Unite: Tips and Techniques Revealed</u></a></li>
 </ul></div>
 

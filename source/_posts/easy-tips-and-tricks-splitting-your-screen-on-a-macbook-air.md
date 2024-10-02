@@ -1,7 +1,7 @@
 ---
 title: "Easy Tips & Tricks: Splitting Your Screen on a MacBook Air"
-date: 2024-09-15T02:06:33.008Z
-updated: 2024-09-15T16:29:18.099Z
+date: 2024-09-27T16:46:44.125Z
+updated: 2024-10-02T16:31:18.751Z
 categories:
   - BestProducts
 description: "This Article Describes Easy Tips & Tricks: Splitting Your Screen on a MacBook Air"
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 
  Split View is only available for[macOS 10.15 Catalina](https://www.lifewire.com/macos-catalina-4692636) or later. On older versions of macOS, you’ll need to use a different method to access a similar feature, explained below. If you still can’t access it, make sure your MacBook Air’s system software is up to date.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Shortcut for Split Screen on Mac?
 
  Having more than one monitor is essential if you regularly work with multiple windows or apps at the same time on your MacBook Air. However, if you don’t have access to an external monitor, macOS has a built-in solution: Split View.
@@ -40,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 3. Depending on what you selected, your current window will be on the left or right of the screen.  
 ![Selecting second window in Mac Split View.](https://www.lifewire.com/thmb/XPbpubdxX7CxXrliBPngZg5V6TQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-do-split-screen-on-a-macbook-air-d085becc70464af4af4070b3b8db178d.jpg)
 4. On the other half of the screen, you’ll see all of your other open windows. Click the one you want to view, and it should snap into place beside the original window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Split view between Lifewire and Apple home pages on Google Chrome for Mac.](https://www.lifewire.com/thmb/x9FQUuRcpsMmovvnN_-Se9XX1OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-do-split-screen-on-a-macbook-air-01c3445392a446f3918a88fe65f6e04f.jpg)
 5. To switch window positions, click and drag one to the left or right. The windows should swap places.  
 ![Swapping window positioning in Mac Split View.](https://www.lifewire.com/thmb/GAwIa1w8f77NK8-gBbBHusTCjRY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-do-split-screen-on-a-macbook-air-cfa17d37feff42d497f36d89c8511b4c.jpg)
@@ -47,8 +62,30 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
  In macOS Monterey (12.0) and later, you can also swap out apps in Split View and make either pane switch to full screen.  
 ![Adjusting window sizing in Mac Split View with window border highlighted](https://www.lifewire.com/thmb/ky3DzDBOWrxCjrhndHnTSpdFrq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resizewindowborder-8af934138964454391c58ee55601ccf8.jpg)
 7. To exit Split View, hover over the top of the screen until the grey menu bar reappears. Next, hover over the green circle button and select**Exit Full Screen** . Alternatively, you can click the green circle button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![MacBook Air website with Exit Full Screen highlighted](https://www.lifewire.com/thmb/RVpGTM72IBamY9sxdq9WmLr-0W0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Exitfullscreen-e847fb5e1a44486a981675dd367db301.jpg)  
  Sometimes, exiting full screen will cause one of your windows to disappear. If this happens to you, it’s most likely because something put the window in a separate view in[Mission Control.](https://www.lifewire.com/assign-mac-apps-to-open-in-specific-desktop-space-2260812) On your keyboard, tap**F3** (it looks like a series of rectangles) to open Mission Control, and you should see your lost window in the bar at the top of your screen.  
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [How to Connect a MacBook Air to a Monitor](https://www.lifewire.com/connect-monitor-to-macbook-air-5192977)  
 
 ## How to Open Other Apps in Split View
@@ -76,20 +113,13 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 ![Selecting Mission Control from Mac System Preferences.](https://www.lifewire.com/thmb/70YcgJiWcCWWw-8xubpZZzUJapI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MissionControl-c80efa1f457e4e39a0ce93d76f1bfeb2.jpg)
    11. Ensure**Displays have separate Spaces** is selected.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mission Control settings in Mac System Preferences with "Displays have separate Spaces" highlighted](https://www.lifewire.com/thmb/KZRt3NLpeVf-QkSjk6E3D8vx96s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayshaveseparatefaces-f4ce44168f12424f9a0739d255350714.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  FAQ
@@ -130,5 +160,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>[New] 2024 Approved Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-efficiently-cut-out-distractions-in-your-iphone-photography/"><u>[Updated] In 2024, Efficiently Cut Out Distractions in Your iPhone Photography</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-newly-rumored-foldable-iphone-price-release-dates-and-features-explored/"><u>All You Need To Know About The Newly Rumored Foldable iPhone: Price, Release Dates & Features Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-ps5-performance-for-ultra-smooth-visuals-at-120-frames-per-second/"><u>Boosting PS5 Performance for Ultra-Smooth Visuals at 120 Frames Per Second</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-restarting-electronics-without-electricity-indications/"><u>Expert Advice: Restarting Electronics Without Electricity Indications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-accelerated-adventures-fastest-flash-games-on-devices/"><u>In 2024, Accelerated Adventures Fastest Flash Games on Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevate-your-instagram-aesthetic-with-new-and-old-filters/"><u>In 2024, Elevate Your Instagram Aesthetic with New and Old Filters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-googles-technique-for-crystal-clear-speech-translation/"><u>In 2024, Google's Technique for Crystal Clear Speech Translation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rewind-designers-toolkit/"><u>In 2024, Rewind Designer's Toolkit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-t2x-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo T2x 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx940dll-the-ultimate-guide-to-correct-the-missing-file-mishap/"><u>Resolving d3dx9_40.dll: The Ultimate Guide to Correct the 'Missing File' Mishap</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-correcting-steams-write-disk-failure/"><u>Troubleshooting and Correcting Steam's Write Disk Failure</u></a></li>
+</ul></div>
 

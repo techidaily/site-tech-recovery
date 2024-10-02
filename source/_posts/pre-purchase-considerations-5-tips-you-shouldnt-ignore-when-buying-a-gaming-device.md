@@ -1,7 +1,7 @@
 ---
 title: "Pre-Purchase Considerations: 5 Tips You Shouldn't Ignore When Buying a Gaming Device"
-date: 2024-09-20T06:12:51.721Z
-updated: 2024-09-26T16:18:15.035Z
+date: 2024-09-26T16:53:23.020Z
+updated: 2024-10-02T16:43:05.526Z
 categories:
   - BestProducts
 description: "This Article Describes Pre-Purchase Considerations: 5 Tips You Shouldn't Ignore When Buying a Gaming Device"
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 
  This article explains how to make an appointment using the Apple Store App. You can make an appointment for product demos, workshops, and (in most cases) repairs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Schedule an Appointment From the Apple Support App
 
  The Apple Support app provides troubleshooting and contact information, and it's the fastest way to get a Genius Bar appointment, especially if you own several Apple devices.
@@ -40,31 +33,19 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 ![The "My Devices," "Repairs & Physical Damage," and problem options in the Apple Support app](https://www.lifewire.com/thmb/UlwcbBbGGUKP7TBki_iBvOT4Dgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-01-26333c8d674d49e19071966928058213.jpg)
 5. Select**View Locations** under**Bring in for Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select an Apple Store from the map, and then choose**Schedule** .  
 ![The "View Locations" and "Schedule" buttons in the Apple Support app](https://www.lifewire.com/thmb/cB9ItxxAZXnwcwJmMXziGbxmnUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-02-2194ff8238d744b4a17213561151e3b2.jpg)
 7. On the next screen, pick an available date and time.
-8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
-![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
+![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
 ## Using the Apple Store App to Make Appointments
 
@@ -77,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 4. Search for your closest Apple Store, or select one under**Nearby Stores** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Choose**Make a reservation** under**Genius Bar** .
@@ -88,6 +69,14 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
  If you have the Apple Support app on your phone, the Apple Store app will direct you there instead of the website.  
 ![A Store, the "Make a reservation" link, and the "Tell us what's happening" field in the Apple Store app](https://www.lifewire.com/thmb/ircG1uYJS77_UHCiiZH0GISmswg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-02-e508d0091eb04923ba10576b908d07ad.jpg)
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
@@ -96,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/8fe26e0805ce05f014893fbbb4d4db477ab6f4023
 12. Review your reservation date and time, and then select**Reserve now** to confirm.  
 ![Appointment scheduling in the Apple Store app](https://www.lifewire.com/thmb/0DQo_2TNcmLggPBm0e9UGISsEXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_make-apple-store-appointment-with-app-1999600-efc9e969642f4e5886401ca69a1eba64.jpg)
 13. Your appointment is set. You'll receive a confirmation at your email address (and by phone, if you entered it in Step 10).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [How to Fix An iPhone That Won't Turn Off](https://www.lifewire.com/fix-iphone-wont-turn-of-4134989)
 
@@ -135,20 +131,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-igtv-your-ultimate-tutorial/"><u>[New] 2024 Approved Unveiling IGTV Your Ultimate Tutorial</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-essence-of-elongated-images-through-iphone-writings/"><u>[New] The Essence of Elongated Images Through iPhone’ Writings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/electrify-your-knowledge-exploring-the-varied-speeds-of-level-1-to-level-3-electric-vehicle-chargers/"><u>Electrify Your Knowledge: Exploring the Varied Speeds of Level 1 to Level 3 Electric Vehicle Chargers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/every-game-for-the-new-playstation-vr2-a-comprehensive-listing/"><u>Every Game for the New PlayStation VR2: A Comprehensive Listing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-for-deleting-temporary-files-in-windows-10-systems/"><u>Expert Tips for Deleting Temporary Files in Windows 10 Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-creative-potential-with-windows-11-movie-maker/"><u>In 2024, Unlock Your Creative Potential with Windows 11 Movie Maker</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leveraging-tools-to-extract-mp3s-from-popular-video-platforms-like-pinterest-for-2024/"><u>Leveraging Tools to Extract MP3s From Popular Video Platforms Like Pinterest for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-review-of-vn-video-editor-mobile-app-for-2024/"><u>New The Ultimate Review of VN Video Editor Mobile App for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-comctl32dll-file-absent-step-by-step-guide/"><u>Resolving 'Comctl32.dll' File Absent - Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/securing-a-blue-tick-on-x-essential-steps-for-account-verification/"><u>Securing a Blue Tick on X: Essential Steps for Account Verification</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-keyboard-fixing-non-working-directional-buttons/"><u>Troubleshoot Your Keyboard: Fixing Non-Working Directional Buttons</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-unavailable-d3d9dll-malfunction/"><u>Troubleshooting the Unavailable D3D9.DLL Malfunction</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unblocking-techniques-reaching-out-to-unknown-numbers/"><u>Unblocking Techniques: Reaching Out to Unknown Numbers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-concept-of-wi-fi-calls-on-your-smartphone/"><u>Unraveling the Concept of Wi-Fi Calls on Your Smartphone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-most-compelling-5-ios-podcast-solutions-for-2024/"><u>[New] Most Compelling 5 iOS Podcast Solutions for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-to-tranquility-with-gpt/"><u>A Guide to Tranquility with GPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beginning-with-x-a-detailed-walkthrough-of-setting-up-a-new-account/"><u>Beginning with X: A Detailed Walkthrough of Setting Up a New Account</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-performers-the-leading-8k-camera-lineup-for-2024/"><u>Best Performers The Leading 8K Camera Lineup for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-12-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 12 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-path-to-discord-mac-installation-explained/"><u>Easy Path to Discord: Mac Installation Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-way-to-repair-your-hard-drive-with-windows-chkdsk-command/"><u>Effective Way to Repair Your Hard Drive with Windows' Chkdsk Command</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-pdhdll-not-found-a-step-by-step-solution-manual-for-users-and-developers/"><u>Fixing 'Pdh.dll Not Found' - A Step-by-Step Solution Manual for Users and Developers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-find-x7-ultra-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo Find X7 Ultra Location | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimized-video-recording-fixed-asus-usb-camera-for-win10-users/"><u>Optimized Video Recording: Fixed ASUS USB Camera for Win10 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps4-user-guide-how-to-effortlessly-capture-screen-moments/"><u>PS4 User Guide: How to Effortlessly Capture Screen Moments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-emergence-and-influence-of-artificial-intelligence-on-global-progress/"><u>The Emergence and Influence of Artificial Intelligence on Global Progress</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-66-twitter-accounts-for-unbeatable-travel-deals-and-tips/"><u>Top 66 Twitter Accounts for Unbeatable Travel Deals and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-remove-vertical-line-defects-in-samsung-televisions/"><u>Troubleshooting Steps to Remove Vertical Line Defects in Samsung Televisions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-streaming-technology-and-its-hardware/"><u>Understanding Streaming Technology and Its Hardware</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-why-the-xbox-one-elite-series-2-controller-is-a-historic-gaming-breakthrough/"><u>Unveiling Why the Xbox One Elite Series 2 Controller Is a Historic Gaming Breakthrough</u></a></li>
 </ul></div>
 

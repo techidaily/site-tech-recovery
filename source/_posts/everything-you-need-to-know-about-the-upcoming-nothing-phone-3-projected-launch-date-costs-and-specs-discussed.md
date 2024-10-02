@@ -1,7 +1,7 @@
 ---
 title: "Everything You Need to Know About the Upcoming Nothing Phone 3: Projected Launch Date, Costs, and Specs Discussed"
-date: 2024-09-14T18:40:35.723Z
-updated: 2024-09-15T16:35:43.055Z
+date: 2024-09-27T16:22:11.971Z
+updated: 2024-10-02T16:44:40.057Z
 categories:
   - BestProducts
 description: "This Article Describes Everything You Need to Know About the Upcoming Nothing Phone 3: Projected Launch Date, Costs, and Specs Discussed"
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c
 
 We're betting on a July 2025 release date for the Nothing Phone 3.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nothing Phone 3 Price Rumors
 
  Since release and ordering details are slim to none, pricing information is still forthcoming as well.
@@ -54,19 +61,33 @@ Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Nothing Phone 3 Specs and Features
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Newer Chip (but Just How New)?
@@ -81,22 +102,15 @@ Lifewire / Rob LeFebvre
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Signature Glyph, Improved
@@ -108,13 +122,6 @@ Lifewire / Rob LeFebvre
 Nothing OS 2.0.
 
 Nothing
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### An Action Button
 
@@ -155,5 +162,20 @@ Nothing
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-screen-capture-central-apowsort-vs-competitors-explored/"><u>[Updated] In 2024, Screen Capture Central Apowsort vs Competitors Explored</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sharpen-aesthetic-focus-learning-border-techniques-for-insta-videos/"><u>2024 Approved Sharpen Aesthetic Focus Learning Border Techniques for Insta-Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-is-itop-a-must-have-screencast-tool/"><u>In 2024, Is ITop a Must-Have Screencast Tool?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-blueprint-for-mastering-picsart/"><u>In 2024, The Ultimate Blueprint for Mastering PicsArt</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-investing-in-a-blu-ray-player-worth-it-today/"><u>Is Investing in a Blu-Ray Player Worth It Today?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-worth-moving-to-ios-17-an-in-depth-review/"><u>Is It Worth Moving to iOS 17: An In-Depth Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pros-and-cons-of-upgrading-your-device-to-ios-17/"><u>Pros and Cons of Upgrading Your Device to iOS 17</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/save-money-on-streaming-these-10-no-cost-services-beat-netflix/"><u>Save Money on Streaming: These 10 No-Cost Services Beat Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solution-for-streaming-glitches-getting-paramountplus-to-work-on-hd-home-entertainment-systems/"><u>Solution for Streaming Glitches: Getting Paramount+ to Work on HD Home Entertainment Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-disabling-your-security-pin-in-windows-11/"><u>Step-by-Step Guide: Disabling Your Security PIN in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-apex-of-narrative-content-youtubes-finest-in-23-for-2024/"><u>The Apex of Narrative Content YouTube’s Finest in '23 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/visionaries-choice-for-watching-vr-for-2024/"><u>Visionaries' Choice for Watching VR for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-12-pro-4g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 12 Pro 4G Phone Network-Ready</u></a></li>
+</ul></div>
 
