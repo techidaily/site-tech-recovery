@@ -1,7 +1,7 @@
 ---
 title: "Public Bathroom Diagnostics: How One Man's Trip Leads to Innovative Health Assessments | ZDNet"
-date: 2024-09-28T16:34:37.164Z
-updated: 2024-10-02T16:58:51.332Z
+date: 2024-10-05T20:59:51.969Z
+updated: 2024-10-07T19:45:08.549Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,22 +131,18 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-backwards-play-iphones-unique-reverse-feature/"><u>[New] Backwards Play IPhone's Unique Reverse Feature</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-beginners-bane-the-top-8-youtube-errors-you-shouldnt-commit/"><u>[Updated] 2024 Approved Beginner's Bane The Top 8 Youtube Errors You Shouldn't Commit</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-gopro-filming-made-simple-a-comprehensive-guide/"><u>2024 Approved Professional GoPro Filming Made Simple A Comprehensive Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-shots-on-iphone-time-lapse-recording-guide/"><u>2024 Approved Swift Shots on iPhone Time-Lapse Recording Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-netflix-buffering-problems-a-comprehensive-guide/"><u>How to Fix Netflix Buffering Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-refresh-windows-11-the-easy-way/"><u>How To Refresh Windows 11 [The Easy Way]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-windows-installation-issues-on-non-gpt-drives/"><u>How to Resolve Windows Installation Issues on Non-GPT Drives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-and-repair-windows-10s-nonfunctional-spotlight-feature/"><u>How to Restore and Repair Windows 10'S Nonfunctional Spotlight Feature</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-smart-8-hd-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Smart 8 HD Without PUK Codes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-precision-in-every-frame-top-9-tips-for-vr-filmmaking/"><u>In 2024, Precision in Every Frame Top 9 Tips for VR Filmmaking</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/kb3197954-windows-11-updates-not-working-solved/"><u>KB3197954: Windows 11 Updates Not Working [Solved]</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/master-the-art-of-fast-internet-sharing-using-d-links-powerline-technology-your-step-by-step-guide/"><u>Master the Art of Fast Internet Sharing Using D-Link's Powerline Technology - Your Step by Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-quick-shot-on-your-hp-laptopdesktop-top-two-hassle-free-techniques-unveiled/"><u>Mastering Quick Shot on Your HP Laptop/Desktop: Top Two Hassle-Free Techniques Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-conversion-to-gif-format/"><u>Mastering the Art of Image Conversion to GIF Format</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps4-quietness-dilemma-addressed-effortless-steps-for-enabling-sound-again/"><u>PS4 Quietness Dilemma Addressed: Effortless Steps for Enabling Sound Again</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-tips-for-successfully-installing-latest-sata-drivers-in-windows-environments/"><u>Quick Tips for Successfully Installing Latest SATA Drivers in Windows Environments</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-mastering-autotune-a-step-by-step-guide-for-audacity-users/"><u>Updated 2024 Approved Mastering Autotune A Step-by-Step Guide for Audacity Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-is-aurora-hdr-setting-photography-trends-in-2024/"><u>[New] Is Aurora HDR Setting Photography Trends, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-optimize-visual-output-with-free-luts-in-your-obs-studio-setup/"><u>[Updated] In 2024, Optimize Visual Output with Free LUTs in Your OBS Studio Setup</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-scrutinizing-the-importance-of-honesty-in-online-self-portraits/"><u>2024 Approved Scrutinizing the Importance of Honesty in Online Self-Portraits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-not-found-or-missing-solving-the-msxml4dll-error/"><u>Dealing with 'Not Found' Or 'Missing': Solving the MsXML4.dll Error</u></a></li>
+<li><a href="https://article-files.techidaily.com/deconstructing-digital-dimensions-the-trios-unique-traits-vr-ar-and-mr/"><u>Deconstructing Digital Dimensions The Trio's Unique Traits (VR, AR, & MR)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-image-quality-tips-for-upgrading-your-apple-devices-photography/"><u>Enhancing Image Quality: Tips for Upgrading Your Apple Device's Photography</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-tecno-spark-20-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Tecno Spark 20 to Another | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-ultimate-handbook-audio-notes-101/"><u>In 2024, The Ultimate Handbook Audio Notes 101</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-apples-futuristic-foldable-phone-anticipated-cost-scheduled-release-key-specs-and-exciting-rumors/"><u>Inside Scoop on Apple's Futuristic Foldable Phone - Anticipated Cost, Scheduled Release, Key Specs & Exciting Rumors!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-friendly-techniques-a-beginners-guide-to-handling-rar-compression-formats/"><u>Mac Friendly Techniques: A Beginner's Guide to Handling RAR Compression Formats</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-how-to-download-and-update-your-dell-sound-card-drivers/"><u>Quick Guide: How to Download and Update Your Dell Sound Card Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essentials-of-handling-page-not-available-mistakes-on-websites-strategies-to-resolve/"><u>The Essentials of Handling 'Page Not Available' Mistakes on Websites: Strategies to Resolve</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-setting-up-a-wireless-connection-from-computer-to-speaker/"><u>Ultimate Tutorial: Setting Up a Wireless Connection From Computer to Speaker</u></a></li>
 </ul></div>
 

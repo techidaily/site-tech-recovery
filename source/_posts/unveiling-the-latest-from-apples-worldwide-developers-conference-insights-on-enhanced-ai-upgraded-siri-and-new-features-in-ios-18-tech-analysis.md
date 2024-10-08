@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest From Apple's Worldwide Developers Conference: Insights on Enhanced AI, Upgraded Siri & New Features in iOS 18 | Tech Analysis"
-date: 2024-09-30T16:40:32.603Z
-updated: 2024-10-02T16:00:12.593Z
+date: 2024-10-06T21:37:26.159Z
+updated: 2024-10-07T17:38:18.593Z
 tags:
   - apple
 categories:
@@ -68,13 +68,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -94,10 +87,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -114,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,6 +123,19 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,13 +147,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -160,10 +166,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -218,17 +224,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-visual-content-reimagined-apple-music-inclusion/"><u>[New] 2024 Approved Visual Content Reimagined Apple Music Inclusion</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-enhance-your-gopro-videos-time-lapse-guide/"><u>[New] Enhance Your GoPro Videos Time-Lapse Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-reanimated-warfare-gameplay-excellence-in-the-undead-genre-for-2024/"><u>[New] Reanimated Warfare Gameplay Excellence in the Undead Genre for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-for-popular-screen-recorder-zd-soft/"><u>[Updated] 2024 Approved Ultimate Guide for Popular Screen Recorder ZD Soft</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-complete-analysis-of-gecatas-play-recorder/"><u>[Updated] Complete Analysis of Gecata's Play Recorder</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/advanced-strategies-to-enhance-inbox-efficiency-using-gmails-filter-system-and-additional-email-handles/"><u>Advanced Strategies to Enhance Inbox Efficiency Using Gmail's Filter System and Additional Email Handles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-integration-techniques-for-a-playstation-controller-connection/"><u>Effortless Integration Techniques for a PlayStation ^Controller Connection</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/from-creators-to-viewers-a-roadmap-for-uploading-vids-on-facebook-for-2024/"><u>From Creators to Viewers A Roadmap for Uploading Vids on Facebook for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gear-up-for-the-latest-playstation-model-released-date-estimates-cost-breakdowns-tech-specs-and-where-to-shop/"><u>Gear Up for the Latest PlayStation Model: Released Date Estimates, Cost Breakdowns, Tech Specs, and Where to Shop</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-disabling-the-continuous-play-feature-in-apple-music-app/"><u>Guide: Disabling the Continuous Play Feature in Apple Music App</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-itel-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Itel FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-showdown-comparing-features-of-the-ps5-slim-to-full-ps5-model/"><u>PS5 Showdown: Comparing Features of the PS5 Slim to Full PS5 Model</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-crafting-success-on-youtube-standard-studio-or-beta/"><u>[New] Crafting Success on YouTube Standard Studio or Beta</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-deciphering-how-tseries-benefits-from-youtube/"><u>[New] Deciphering How TSeries Benefits From YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevating-social-interactions-a-complete-gif-guide-for-snapchat-users-for-2024/"><u>[New] Elevating Social Interactions A Complete Gif Guide for Snapchat Users for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-essential-strategies-in-crafting-compelling-testimonials-for-2024/"><u>[New] Essential Strategies in Crafting Compelling Testimonials for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-20-racing-games-for-bicyclists-for-2024/"><u>[New] Top 20 Racing Games for Bicyclists for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comment-transformer-votre-audio-mp3-en-video-mkv-facilement-sur-movavi-astuces-gratuites-et-rapides/"><u>Comment Transformer Votre Audio MP3 en Vidéo MKV Facilement Sur Movavi : Astuces Gratuites Et Rapides</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-de-archivo-mp4-a-wmv-sin-fines-de-lucro-en-linea-herramientas-gratuitas-de-movavi-para-la-conversion-de-video/"><u>Conversión De Archivo MP4 a WMV Sin Fines De Lucro en Línea - Herramientas Gratuitas De Movavi Para La Conversión De Vídeo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-wav-to-mp3-converter-by-movavi-convert-audio-files-in-minutes/"><u>Free Online WAV to MP3 Converter by Movavi: Convert Audio Files in Minutes!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p40plus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P40+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/listen-up-write-it-down-comprehensive-guide-to-free-audio-to-text-apps-for-android-and-ios-for-2024/"><u>Listen Up, Write It Down Comprehensive Guide to Free Audio-to-Text Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726226605936-movavi-vob/"><u>Movavi 提供免費網路下載VOB檔 - 全球可用!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/podcasting-made-simple-easy-steps-to-capture-live-streams-for-2024/"><u>Podcasting Made Simple Easy Steps to Capture Live Streams for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-c53-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/produce-personalized-video-content-easily-with-movavi-tools/"><u>Produce Personalized Video Content Easily with Movavi Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-top-9-cutting-edge-cinemagraph-creation-tools/"><u>The Ultimate List: Top 9 Cutting-Edge Cinemagraph Creation Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tittlinga-14-at-grafiklopande-top-fotbollsprogram-alternativ-for-windows-10-2024/"><u>Tittlinga 14 Åt Grafiklöpande - Top Fotbollsprogram Alternativ För Windows 10, 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-free-video-editing-apps-for-macos-boost-your-project-with-the-best/"><u>Top Free Video Editing Apps for macOS: Boost Your Project with the Best!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-mkv-in-mov-online-e-gratis-con-mediacraft-macchina-del-cinema-digital/"><u>Trasforma MKV in MOV Online E Gratis Con MediaCraft - Macchina Del Cinema Digital</u></a></li>
 </ul></div>
 

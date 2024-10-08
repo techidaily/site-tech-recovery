@@ -1,7 +1,7 @@
 ---
 title: "Why iPhone 1 # Exercise: When an Auditor Tests Account Balances for Overstatements, Which Sampling Method Would Typically Be Used? Is It (a) Stratified Random, (B) Systematic, or (C) Haphazard?"
-date: 2024-09-30T16:31:40.891Z
-updated: 2024-10-02T16:54:59.646Z
+date: 2024-10-02T23:53:44.573Z
+updated: 2024-10-07T18:36:42.854Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -118,10 +125,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -134,19 +141,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -166,10 +160,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -224,14 +218,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/omedy-classics-a-curated-15-channel-collection-for-humor-for-2024/"><u>[New] Comedy Classics A Curated 15-Channel Collection for Humor for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy Z Flip 5 FRP?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-you-secure-an-official-verified-emblem-on-instagram/"><u>How Can You Secure an Official Verified Emblem on Instagram?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-making-compelling-media-previews-for-channels/"><u>In 2024, Making Compelling Media Previews for Channels</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-users-guide-setting-up-two-displays-seamlessly/"><u>Mac Users Guide: Setting Up Two Displays Seamlessly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/maximize-capacity-effective-techniques-for-retrieving-disk-space-from-linux-vms-on-virtualbox/"><u>Maximize Capacity: Effective Techniques for Retrieving Disk Space From Linux VMs on VirtualBox</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-for-successful-downloading-of-latest-ios-update/"><u>Steps for Successful Downloading of Latest iOS Update</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-latest-on-samsung-z-fold-4-specs-revealed-expected-price-points-and-launch-date/"><u>The Latest on Samsung Z Fold 4: Specs Revealed, Expected Price Points, and Launch Date</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-metaversal-musings-a-preamble-of-inspirational-thoughts/"><u>[New] In 2024, Metaversal Musings A Preamble of Inspirational Thoughts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sleep-soundly-top-aspers-techniques-unveiled/"><u>[Updated] 2024 Approved Sleep Soundly Top Asper's Techniques Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-soundscapes-synergy-video-and-music-pairing/"><u>2024 Approved Soundscapes Synergy Video and Music Pairing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-auto-start-feature-in-apple-music-tips-and-tricks/"><u>Disabling Auto-Start Feature in Apple Music - Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-securely-clear-icloud-pictures-and-retain-them-on-your-iphone/"><u>How to Securely Clear iCloud Pictures & Retain Them on Your iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/immersive-film-experience-photography-plus-music/"><u>Immersive Film Experience Photography + Music</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-iphone-photography-mastery-of-macro-and-close-up-details/"><u>In 2024, Perfecting iPhone Photography Mastery of Macro and Close-Up Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/perfect-order-for-enjoying-all-the-superman-feature-films/"><u>Perfect Order for Enjoying All the Superman Feature Films</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-on-configuring-all-types-of-electronics-using-one-remote/"><u>Ultimate Tutorial on Configuring All Types of Electronics Using One Remote</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/why-youtube-tv-is-a-game-changer-in-streaming/"><u>Why YouTube TV Is a Game-Changer in Streaming</u></a></li>
 </ul></div>
 

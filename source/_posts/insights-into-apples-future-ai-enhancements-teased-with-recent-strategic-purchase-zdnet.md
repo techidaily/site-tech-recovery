@@ -1,7 +1,7 @@
 ---
 title: "Insights Into Apple's Future: AI Enhancements Teased with Recent Strategic Purchase | ZDNet"
-date: 2024-09-27T16:35:09.337Z
-updated: 2024-10-02T16:58:59.610Z
+date: 2024-09-30T19:20:59.000Z
+updated: 2024-10-07T19:39:40.655Z
 tags:
   - apple
 categories:
@@ -53,10 +53,16 @@ Contacts? Synced. Apps? Synced. Widgets? Synced. Browser tabs? Synced. Maps/dire
 Essentially, I'm asking for the ability to move seamlessly between the two OSes without having to make the switch manually or configure anything. It should be that simple, and Google could make it so.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Better Wear OS integration
@@ -68,10 +74,10 @@ As it stands, I have to use two different apps on my phone to view data from my 
 Android/Wear OS integration is clunky and currently, there's no way around that. Google needs to make it possible to view data seamlessly not only on Android but on ChromeOS too. Don't make users have to work for something that should be simple.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Smoother graphics and better animations
@@ -85,10 +91,10 @@ I'm not saying this aspect of Android is bad, but it certainly lags behind iOS. 
 I will say, however, that the Android 15 betas show an OS capable of smoother animations. Pull down the Notification Shade on both Android 14 and Android 15, and you'll see that Android 15 is considerably smoother.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Better marketing in major markets
@@ -100,10 +106,10 @@ Although Android might have more global market share, it'll never top iOS in the
 It's not too late for Google to start promoting Android 15\. When Android ads do arrive, it's generally too late. Google should do itself a solid and start promoting the upcoming release now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. More elegant hardware
@@ -146,24 +152,24 @@ Given Google's resources, it shouldn't be hard for it to lift Android in such a 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-social-broadcast-battleground-fb-live-yt-live-twitvision/"><u>[New] Social Broadcast Battleground FB Live, YT Live, TwitVision</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-curated-selection-of-best-ps3-simulators-pc-edition-for-2024/"><u>[Updated] Expert-Curated Selection of Best PS3 Simulators (PC Edition) for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-expertly-curated-facebooks-1-10-plays-for-2024/"><u>[Updated] Expertly Curated Facebook's #1-#10 Plays for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-blueprint-for-successful-biographies-top-tips-and-techniques-from-experts/"><u>[Updated] In 2024, The Blueprint for Successful Biographies Top Tips & Techniques From Experts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-11-pro-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 11 Pro Max</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/busting-common-glitches-repairing-the-spell-correction-tool-in-outlook/"><u>Busting Common Glitches: Repairing the Spell Correction Tool in Outlook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-7-alarm-clock-apps-you-shouldnt-miss/"><u>Discover the Best 7 Alarm Clock Apps You Shouldn't Miss</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevating-photo-clarity-mastering-iphoneipad-camera-settings/"><u>Elevating Photo Clarity: Mastering iPhone/iPad Camera Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ensuring-a-secure-gaming-experience-for-children-setting-up-discords-parental-guidance-features/"><u>Ensuring a Secure Gaming Experience for Children: Setting Up Discord’s Parental Guidance Features</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-basic-to-advanced-understanding-dynamic-range-imaging/"><u>From Basic to Advanced Understanding Dynamic Range Imaging</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-you-know-if-theyve-checked-your-messages-uncover-the-secrets/"><u>How Can You Know If They've Checked Your Messages? Uncover the Secrets!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-fix-coredll-is-missing-errors-on-your-computer/"><u>Step-by-Step Guide to Fix 'Core.dll Is Missing' Errors on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-splitscreen-views-on-your-macbook-air/"><u>Step-by-Step Guide: Mastering Splitscreen Views on Your MacBook Air</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-how-to-give-the-perfect-steam-gift/"><u>The Ultimate Guide: How to Give the Perfect Steam Gift</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-file-deletion-via-command-line-in-windows-11/"><u>The Ultimate Tutorial for File Deletion via Command Line in Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-the-corsair-h115i-on-latest-windows-systems-win-8-10-and-11-solutions/"><u>Troubleshooting the Corsair H115i on Latest Windows Systems - Win 8, 10 & 11 Solutions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unleash-your-videos-full-potential-with-these-seo-mastery-tips-for-2024/"><u>Unleash Your Videos' Full Potential with These SEO Mastery Tips for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-best-bang-for-your-buck-top-filmmaking-software-for-low-budgets-for-2024/"><u>Updated Best Bang for Your Buck Top Filmmaking Software for Low Budgets for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/viewing-guide-the-superman-film-series-viewing-sequence-explained/"><u>Viewing Guide: The Superman Film Series - Viewing Sequence Explained</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-a-complete-walkthrough-of-vlc-capture-settings/"><u>[New] 2024 Approved A Complete Walkthrough of VLC Capture Settings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-listening-to-your-favorite-talk-shows/"><u>[New] 2024 Approved Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Listening to Your Favorite Talk Shows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-behind-the-scenes-how-to-log-overwatch-games/"><u>[New] In 2024, Behind the Scenes How to Log Overwatch Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unveiling-top-8-interactive-gloves-in-vr-for-2024/"><u>[New] Unveiling Top 8 Interactive Gloves in VR for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-editors-insight-to-seamless-lut-integration-in-premiere/"><u>[Updated] The Editor's Insight to Seamless LUT Integration in Premiere</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-the-new-apple-watch-series-eight-when-its-out-what-to-expect-and-pricing-info/"><u>Comprehensive Guide: The New Apple Watch Series Eight - When It's Out, What to Expect & Pricing Info</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/curious-about-chatgpt-plus-see-why-signing-up-can-be-worth-every-penny-top-5-reasons-explained/"><u>Curious About ChatGPT Plus? See Why Signing Up Can Be Worth Every Penny - Top 5 Reasons Explained!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-7-most-effective-wakeup-apps-for-your-smartphone/"><u>Discover the 7 Most Effective Wakeup Apps for Your Smartphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-insights-on-whatsapp-alternative-the-line-app/"><u>Expert Insights on WhatsApp Alternative - The Line App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-manually-restart-your-windows-system-using-safe-mode-options/"><u>How To Manually Restart Your Windows System Using Safe Mode Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/multi-photo-sharing-easy-steps-to-post-several-images-on-facebook/"><u>Multi-Photo Sharing: Easy Steps to Post Several Images on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-up-your-auditory-game-how-to-add-ringtones-and-sounds-that-stand-out-on-android-for-2024/"><u>Step Up Your Auditory Game How to Add Ringtones & Sounds that Stand Out on Android for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-fix-robloxs-error-403-in-a-windows-sphere/"><u>Strategies to Fix Roblox's Error 403 in a Windows Sphere</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-is-folding-discover-possible-prices-and-launch-dates-for-samsungs-anticipated-galaxy-z-flip-nplus-with-rumored-hardware-upgrades/"><u>The Future Is Folding: Discover Possible Prices and Launch Dates for Samsung's Anticipated Galaxy Z Flip N+ with Rumored Hardware Upgrades</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-latest-techniques-for-rectifying-echoes-and-delays-your-guide/"><u>The Latest Techniques for Rectifying Echoes & Delays - Your Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-how-to-make-your-content-trend-on-tiktok-in-10-steps/"><u>The Ultimate Guide: How to Make Your Content Trend on TikTok in 10 Steps</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unpack-the-value-proposition-behind-joining-walmartplus-today/"><u>Unpack the Value Proposition Behind Joining Walmart+ Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-all-the-game-tonight-getting-fubotv-working-on-fire-stick/"><u>Watch All the Game Tonight! Getting FuboTV Working on Fire Stick</u></a></li>
 </ul></div>
 

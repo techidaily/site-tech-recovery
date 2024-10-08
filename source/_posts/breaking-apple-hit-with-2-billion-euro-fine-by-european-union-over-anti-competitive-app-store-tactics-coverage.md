@@ -1,7 +1,7 @@
 ---
 title: "Breaking: Apple Hit with 2 Billion Euro Fine by European Union Over Anti-Competitive App Store Tactics | Coverage"
-date: 2024-10-01T16:20:10.532Z
-updated: 2024-10-02T16:14:21.048Z
+date: 2024-09-30T17:08:42.645Z
+updated: 2024-10-07T17:50:29.285Z
 tags:
   - apple
 categories:
@@ -79,10 +79,16 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -124,10 +130,10 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -193,18 +199,17 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-key-points-to-consider-when-navigating-tiktok-web-on-macos/"><u>[New] 2024 Approved Key Points to Consider When Navigating TikTok Web on macOS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors/"><u>[New] Unpacking the Performance A Complete Guide to LG BP350 Monitors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-expertly-navigate-the-cloud-of-content-with-best-screen-recording-tools/"><u>[Updated] Expertly Navigate the Cloud of Content with Best Screen Recording Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-halt-and-rewind-mastering-live-streams-on-twitch/"><u>2024 Approved Halt & Rewind Mastering Live Streams on Twitch</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-integration-of-srt-files-in-windows-macos/"><u>2024 Approved Seamless Integration of SRT Files in Windows, MacOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bridging-the-gap-the-ultimate-tutorial-on-linking-amazons-firestick-to-your-phones-wifi/"><u>Bridging the Gap: The Ultimate Tutorial on Linking Amazon's Firestick to Your Phone's WiFi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-way-to-enjoy-indiana-jones-movies-back-to-back/"><u>Easy Way to Enjoy Indiana Jones Movies Back to Back</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-compliance-rules-for-thriving-on-youtube-for-2024/"><u>Essential Compliance Rules for Thriving on YouTube for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-repairing-color-inaccuracies-and-visual-deformities-in-your-pc-screens/"><u>Expert Tips for Repairing Color Inaccuracies and Visual Deformities in Your PC Screens</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-the-nt-autologin-failure-with-no-spinlock-available-issue/"><u>Fixing the NT AUTOLOGIN FAILURE with No SPIN_LOCK Available Issue</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-12-pro-max-5-ways-to-get-into-a-locked-iphone-12-pro-max-by-drfone-ios/"><u>Locked Out of iPhone 12 Pro Max? 5 Ways to get into a Locked iPhone 12 Pro Max</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/savor-these-10-delicious-and-inspiring-culinary-series-on-netflix/"><u>Savor These 10 Delicious and Inspiring Culinary Series on Netflix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-basics-what-is-an-rtx-graphics-card-and-how-it-works/"><u>Understanding the Basics: What Is an RTX Graphics Card and How It Works</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-fine-tuning-your-frames-with-videoleap/"><u>[New] 2024 Approved Fine-Tuning Your Frames with Videoleap</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-deciphering-the-secrets-to-your-personalized-tiktok-code/"><u>[New] Deciphering the Secrets to Your Personalized TikTok Code</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-job-interviews-with-confidence-and-competence/"><u>[Updated] Navigating Job Interviews with Confidence and Competence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-list-of-top-8-wallpapers-for-macbooks/"><u>2024 Approved Exclusive List of Top 8 Wallpapers for MacBooks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-peeking-at-public-posts-on-instagram-without-registering/"><u>A Beginner's Guide to Peeking at Public Posts on Instagram without Registering</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-pinterest-and-boost-your-facebook-pages-visibility-a-how-to-guide/"><u>Connect Pinterest and Boost Your Facebook Page's Visibility - A How-To Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defend-your-computer-15-recommended-free-bootable-malware-defense-programs/"><u>Defend Your Computer: 15 Recommended Free Bootable Malware Defense Programs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-art-of-ai-creation-using-free-dall-e-3-on-microsoft-bing/"><u>Discover the Art of AI Creation: Using Free DALL-E 3 on Microsoft Bing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-a58-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo A58 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/julys-hot-list-trending-programs-to-binge-on-discoveryplus-now/"><u>July's Hot List: Trending Programs to Binge on Discovery+ Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/probing-into-youtubes-decision-making-for-prominent-remarks-for-2024/"><u>Probing Into YouTube's Decision-Making for Prominent Remarks for 2024</u></a></li>
 </ul></div>
 

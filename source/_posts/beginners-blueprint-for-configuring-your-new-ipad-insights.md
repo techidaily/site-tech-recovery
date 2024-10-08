@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Blueprint for Configuring Your New iPad: Insights"
-date: 2024-10-01T16:01:20.355Z
-updated: 2024-10-02T16:52:46.102Z
+date: 2024-10-01T23:30:29.462Z
+updated: 2024-10-07T23:17:36.440Z
 tags:
   - apple
 categories:
@@ -40,18 +40,18 @@ Jason Hiner/ZDNET
 
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Photo features
 
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -67,6 +67,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
@@ -78,6 +91,13 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -94,10 +114,10 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What will come later
@@ -106,23 +126,9 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Genmoji
 
@@ -166,22 +172,22 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-frameworks-amplify-your-youtube-vision/"><u>[Updated] 2024 Approved Free Frameworks Amplify Your YouTube Vision</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-eliminate-quiet-vids-tweet-audio-revival/"><u>[Updated] In 2024, Eliminate Quiet Vids Tweet Audio Revival</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-elite-eight-polishing-pictures-through-premium-grid-makers/"><u>[Updated] In 2024, Elite Eight Polishing Pictures Through Premium Grid Makers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-all-inclusive-list-of-prime-no-money-streaming-applications-and-software/"><u>2024 Approved All-Inclusive List of Prime No-Money Streaming Applications & Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypassing-limits-your-step-by-step-psp-game-boy-emulation/"><u>Bypassing Limits: Your Step-by-Step PSP Game Boy Emulation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/caught-in-the-act-tiktoks-flawed-algorithm-promotes-outdated-stories/"><u>Caught in the Act: TikTok's Flawed Algorithm Promotes Outdated Stories</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decode-and-defeat-a-comprehensive-guide-to-fixing-kernel-data-faults/"><u>Decode and Defeat: A Comprehensive Guide to Fixing Kernel Data Faults</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-a-missing-page-error-http-404-and-remedies-for-quick-recovery/"><u>Decoding a Missing Page Error (HTTP 404) & Remedies for Quick Recovery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-hype-around-new-google-pixel-timepiece-price-predictions-launch-windows-and-rumored-innovations/"><u>Exploring The Hype Around New Google Pixel Timepiece - Price Predictions, Launch Windows & Rumored Innovations</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovating-sound-quality-top-6-recommendations-for-streamers/"><u>Innovating Sound Quality Top 6 Recommendations for Streamers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-the-art-of-oral-explanitations-and-slides/"><u>Mastering the Art of Oral Explanitations & Slides</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-9-crucial-tech-devices-for-academic-success/"><u>The Ultimate List of 9 Crucial Tech Devices for Academic Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-battle-between-neo-qled-vs-oled-televisions/"><u>Understanding the Battle Between Neo QLED vs OLED Televisions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-how-espnpluss-cutting-edge-streaming-platform-enhances-your-sports-viewing-journey/"><u>Unraveling How ESPN+'s Cutting-Edge Streaming Platform Enhances Your Sports Viewing Journey</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722878425073-unveiling-the-secrets-of-metro-by-t-mobiles-extensive-coverage-and-unlimited-options/"><u>Unveiling the Secrets of Metro by T-Mobile's Extensive Coverage and Unlimited Options.</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-list-of-educational-animation-software/"><u>Updated 2024 Approved The Ultimate List of Educational Animation Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-ultimate-checklist-getting-the-fandango-app-running-on-fire-stick/"><u>Your Ultimate Checklist: Getting the Fandango App Running on Fire Stick</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-full-spectrum-review-of-obs-screen-recording/"><u>[New] 2024 Approved The Full Spectrum Review of OBS Screen Recording</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-looms-labyrinth-navigating-screen-record-art-for-2024/"><u>[New] Loom's Labyrinth Navigating Screen Record Art for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-3d-software-for-dynamic-youtube-intros/"><u>[Updated] 2024 Approved Best 3D Software for Dynamic YouTube Intros</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>[Updated] 2024 Approved The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-starting-out-key-equipment-and-software-for-vlogging/"><u>2024 Approved Starting Out Key Equipment & Software for Vlogging</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-create-and-share-voicemail-memos-using-your-iphone/"><u>Easy Ways to Create and Share Voicemail Memos Using Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-multitasking-a-beginners-guide-to-using-picture-in-picture-on-android/"><u>Enhancing Multitasking: A Beginner's Guide to Using Picture-in-Picture on Android</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-a18-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo A18 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness/"><u>In 2024, How To Keep Your Audience Engaged Top 6 Strategies for Higher YouTube Stickiness</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-most-anticipated-facebook-trends-for-24/"><u>In 2024, The Most Anticipated Facebook Trends for '24</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/next-generation-apple-watch-ultra-2-anticipated-features-release-schedule-and-price-estimates-revealed/"><u>Next Generation Apple Watch Ultra 2: Anticipated Features, Release Schedule, and Price Estimates Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resetting-your-samsung-tv-comprehensive-instructions-and-tips/"><u>Resetting Your Samsung TV – Comprehensive Instructions and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-mfc42dll-file-not-found-issue-a-step-by-step-guide/"><u>Resolving the mfc42.dll File Not Found Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-fix-for-when-mss32dll-is-unavailable-on-windows-machines/"><u>The Definitive Fix for When MSS32.DLL Is Unavailable on Windows Machines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutorial-on-monitoring-the-temperature-of-your-macbook/"><u>Tutorial on Monitoring the Temperature of Your MacBook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unfolding-the-samsung-galaxy-z-fold-7-launch-details-pricing-specifications-and-latest-leaks/"><u>Unfolding the Samsung Galaxy Z Fold 7: Launch Details, Pricing, Specifications & Latest Leaks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zoom-control-mastery-expandcontract-images-with-iphone-or-ipad-touch-gestures/"><u>Zoom Control Mastery: Expand/Contract Images with iPhone or iPad Touch Gestures</u></a></li>
 </ul></div>
 

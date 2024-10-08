@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Waterproof Wearables - Comprehensive Analysis by Tech Experts | ZDNET
-date: 2024-09-25T16:11:23.046Z
-updated: 2024-10-02T16:33:01.741Z
+date: 2024-10-05T21:55:38.389Z
+updated: 2024-10-07T16:31:31.399Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ Cons
 * May be too large for small wrists
 
 ## Apple Watch Ultra 2
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best smartwatch overall
 
@@ -178,13 +171,6 @@ Cons
 
 ## Samsung Galaxy Watch 7
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best Samsung smartwatch for smaller wrists
 
 Samsung's latest smartwatch for the masses, the Galaxy Watch 7, was unveiled along with the Galaxy Watch Ultra at its 2024 Unpacked event in Paris in July. The Watch 7 is available in two smaller sizes compared to the [Watch 6 series](https://www.zdnet.com/article/3-surprising-features-that-sold-me-on-the-samsung-galaxy-watch-6-classic/), 44 and 40 mm, so it is likely to appeal to most Galaxy phone owners with smaller wrists. The Watch Ultra is a large 47mm watch designed for those with larger wrists. 
@@ -212,6 +198,13 @@ Pros
 Cons 
 * Less than two days of battery life
 * Limited sleep details
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Watch SE
 
@@ -247,19 +240,6 @@ Pros
 Cons 
 * Expensive
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Garmin Venu 3S
 
 ### Best Garmin smartwatch alternative
@@ -293,6 +273,13 @@ Cons
 
 ## Amazfit Balance
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best basic, budget smartwatch
 
 One company that continues to push the limits of what you can buy for just over $200 is Amazfit. The Amazfit Balance offers an elegantly designed smartwatch with Amazon Alexa support and the ability to answer calls via a Bluetooth connection to your watch, just like all other non-cellular smartwatches. It runs the latest Zepp OS 3.0 operating system, built for a lean and mean experience.
@@ -324,13 +311,6 @@ Cons
 
 ## Withings ScanWatch 2
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best hybrid smartwatch
 
 Withings is focused on providing advanced health and wellness products with the ScanWatch series available to capture data from your wrist. The Withings ScanWatch 2 continues to provide 30 day battery life in a hybrid watch with support for Android and iOS smartphones.
@@ -344,6 +324,13 @@ With a hybrid design, the Withings ScanWatch 2 has standard analog watch hands o
 **Withings ScanWatch 2 tech** **specs:** **Display:** 0.63-inch OLED| **Battery life:** 30 days | **Dimensions:** 42 x 42 x 11 mm | **Weight:** 52.6 grams | **Water resistance:** 5 ATM | **LTE Cellular option:** No
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best smartwatch?
 
@@ -362,6 +349,13 @@ If you're an Android user, you may prefer a Samsung Galaxy Watch Ultra -- the ne
 | Garmin Venu 3S             | $450      | 10 days          | 41mm                  |
 | Amazfit Balance            | $220      | 14 days          | 46mm                  |
 | Withings ScanWatch 2       | $350      | 30 days          | 38 and 42mm           |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which is the right smartwatch for you?
 
@@ -386,10 +380,10 @@ However, finding the best smartwatch for you can be more complicated, especially
 | Withings ScanWatch 2          | A hybrid watch that looks like a standard watch with analog hands, but underneath this elegant exterior is the power of the Withings health and wellness ecosystem.                                                                              |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Factors to consider when buying a smartwatch
@@ -412,20 +406,14 @@ All of the smartwatches included in this list were chosen based on how they perf
 
 For a deeper look into our testing process, check out our comprehensive [smartwatch testing methodology](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/).
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there any smartwatches I should avoid?
 
@@ -455,6 +443,13 @@ You absolutely can! However, most of their screens are too small to type on, so 
 
 Garmin watches support quick-response text messaging via a connected Android smartphone. Apple restricts third-party text messaging on the iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you use a cellular Apple Watch as a standalone device?
 
 While you can leave your iPhone at home while you run, go to the store, or stroll on the beach, you must have an iPhone turned on and connected to the internet at this other location. This is one reason why connecting to an iPhone and switching to an Android makes the Apple Watch useless with an Android phone.
@@ -468,10 +463,10 @@ Health and fitness tracking have been the areas with the most innovations and im
 These smartwatches can also serve as capable GPS sports watches to track the details of your outdoor activities. Exercise guidance is provided on the watch with connected health applications on your smartphone so you can keep track of your progress, too.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's the future of wearable technology?
@@ -489,13 +484,6 @@ All smartwatches today integrate advanced heart rate sensors, temperature sensor
 Google acquired Fitbit, and now the Fitbit ecosystem is deeply incorporated into the Pixel Watch experience. This includes helpful insights, personalized running workouts based on your sleep, activity, and lifestyle, and more practical and helpful feedback to optimize your health and wellness.
 
 Apple has advanced its health monitoring technology, and the upcoming watchOS 11 will bring even more capability with detailed data measurements in its Vitals application. Training Load will also be coming with this next version of the operating system, challenging the likes of Garmin, Coros, and Polar with this advanced fitness metric.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can smartwatches monitor blood sugar?
 
@@ -571,20 +559,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-flipping-through-frames-instagrams-video-reversal-wizardry-for-2024/"><u>[New] Flipping Through Frames Instagram's Video Reversal Wizardry for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solved-download-directx-12-for-windows-10/"><u>[SOLVED] Download DirectX 12 for Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solved-only-3d-settings-in-nvidia-control-panel/"><u>[Solved] Only 3D Settings in NVIDIA Control Panel</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-video-editing-virtuosity-mastering-the-fade-inout/"><u>[Updated] 2024 Approved Video Editing Virtuosity Mastering the Fade-In/Out</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-taking-screenshots-on-mac-5-methods/"><u>[Updated] Taking Screenshots on Mac [5 Methods]</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/brainiacs-guide-to-best-gk-quizzes-online/"><u>Brainiac's Guide to Best GK Quizzes Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-x50iplus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor X50i+ Unlock Without Password</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-supreme-recommendations-best-ios-tone-designers/"><u>In 2024, Supreme Recommendations Best iOS Tone Designers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unveiling-the-reasons-behind-missing-shorts-thumbnails/"><u>In 2024, Unveiling the Reasons Behind Missing Shorts Thumbnails</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/maximizing-video-sharing-adding-imovie-clips-to-vimeo/"><u>Maximizing Video Sharing Adding iMovie Clips to Vimeo</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-12-mini-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 12 mini</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-clearing-icon-cache-in-windows-7-8-and-vista/"><u>Simple Steps to Clearing Icon Cache in Windows 7, 8 & Vista</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-steps-find-and-restore-deleted-word-files-on-windows-10-a-visual-guide/"><u>Simple Steps: Find and Restore Deleted Word Files on Windows 10 - A Visual Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-reviving-a-malfunctioning-logitech-k780-keyboard/"><u>Step-by-Step Guide to Reviving a Malfunctioning Logitech K780 Keyboard</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-clearing-your-google-chrome-browser-cache/"><u>Step-by-Step Guide: Clearing Your Google Chrome Browser Cache</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-deep-dive-into-durecorders-full-range-for-2024/"><u>[New] A Deep Dive Into DuRecorder's Full Range for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-amazon-prime-series-most-liked-and-watched-on-twitter/"><u>[New] In 2024, The Ultimate Amazon Prime Series Most Liked & Watched on Twitter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-srt-text-conversion-a-modern-how-to/"><u>[New] Quick SRT Text Conversion A Modern How-To</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-revolutionary-videography-toolset-for-vimeo-users-for-2024/"><u>[New] Revolutionary Videography Toolset for Vimeo Users for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-master-your-video-transforming-youtube-to-avi/"><u>[Updated] Master Your Video Transforming YouTube to AVI</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-life-in-stunning-form-with-iphones-essential-10-composition-guidelines/"><u>In 2024, Capture Life in Stunning Form with iPhone's Essential 10 Composition Guidelines</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-key-approaches-to-elicit-trust-in-product-reviews-through-videography/"><u>In 2024, Key Approaches to Elicit Trust in Product Reviews Through Videography</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protect-access-with-ease-the-ultimate-tutorial-for-encrypting-zip-archives-on-windows-pcs/"><u>Protect Access with Ease: The Ultimate Tutorial for Encrypting ZIP Archives on Windows PCs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/purchase-your-own-bitraser-the-ultimate-usb-drive-data-wipe-tool/"><u>Purchase Your Own BitRaser: The Ultimate USB Drive Data Wipe Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tutorial-launching-windows-10s-group-policy-tool-easily/"><u>Quick Tutorial: Launching Windows 10'S Group Policy Tool Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-verticalhorizontal-monitor-alignment-problems-on-your-desktop-easy-fixes-and-tips/"><u>Resolving Vertical/Horizontal Monitor Alignment Problems on Your Desktop - Easy Fixes and Tips!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-windows-10-dpc-watchdog-errors-effectively/"><u>Resolving Windows 10 DPC Watchdog Errors Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-sharing-with-windows-11-display-phone-pictures-on-your-desktop/"><u>Seamless Sharing with Windows 11 - Display Phone Pictures on Your Desktop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-determining-available-storage-on-your-windows-10-pc/"><u>Step-by-Step Guide: Determining Available Storage on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-and-controlling-your-printer-on-windows-11/"><u>Step-by-Step Guide: Setting Up and Controlling Your Printer on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-win-ps-sync-a-quick-fix-guide/"><u>Streamlining Win-PS Sync: A Quick Fix Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-widget-issues-in-windows-11/"><u>Troubleshooting Tips: Resolving Widget Issues in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutorial-how-to-insert-notes-into-windows-11-folder-structures/"><u>Tutorial: How to Insert Notes Into Windows 11 Folder Structures</u></a></li>
 </ul></div>
 

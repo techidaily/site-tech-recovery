@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated iPhone 12 & Pro Protective Covers: Expert Picks - ZDNet"
-date: 2024-09-30T16:59:24.273Z
-updated: 2024-10-02T16:10:59.557Z
+date: 2024-10-02T20:01:23.816Z
+updated: 2024-10-07T23:45:36.666Z
 tags:
   - apple
 categories:
@@ -45,20 +45,13 @@ Cons
 * Slightly pricey
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pela case
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best iPhone 12 case overall
 
@@ -79,13 +72,6 @@ Pros
 
 Cons 
 * Pricier
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Silicone Case with MagSafe
 
@@ -140,13 +126,6 @@ Cons
 
 ## Casetify cases
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best customizable iPhone 12 case
 
 Casetify cases fit well, protect your phone, and can be easily customized. You can enter up to 12 characters to with your choice from six fonts, four layouts, and 17 colors. There are also dozens of case color and texture options for some of the models.
@@ -167,13 +146,6 @@ Pros
 
 Cons 
 * May still yellow over time
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ESR Air Armor
 
@@ -201,13 +173,6 @@ Pros
 Cons 
 * Price varies
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Incipio Organicore
 
 ### Best eco-friendly iPhone 12 case
@@ -230,6 +195,13 @@ Pros
 
 Cons 
 * May show scratches easily
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Nomad Rugged case
 
@@ -256,6 +228,13 @@ Pros
 Cons 
 * Fingerprints may show up easily
 * Colors may not be vibrant against a darker color phone
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Speck Presidio Edition
 
@@ -294,6 +273,13 @@ The case has a camera lens "lip" to make sure that the camera does not get scrat
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best iPhone case?
 
 The best iPhone 12 case is the Pela case, chosen for its environmental safety, drop protection, biodegradable quality, and tactile feel. In the table below, I compare price to drop protection level for each case above.
@@ -326,6 +312,13 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Speck Products Presidio Edition   | The best slim iPhone 12 case                                                          |
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What should I look for in an iPhone case?
 
 If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll likely want to protect it. There are many features you can look for, but I consider protection, size, style, and features the most important:
@@ -335,9 +328,23 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 * **Style:** Custom cases, like Casetify cases, emphasize personalization, while cases made of leather or compostable materials emphasize lifestyle choices or texture preferences. Your phone case can be a reflection of you and your values. Make sure to choose a case that feels good and looks good -- chances are, you'll be looking at it a lot.
 * **Features:** The cases on this list come with a number of added features, including antimicrobial protection and MagSafe compatibility.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does wireless charging work with a case?
 
 Wireless charging does work with phone cases. Almost all of the cases on this list are MagSafe-compatible. Usually, cases with a slimmer profile are more likely to be compatible. Most cases specify whether or not they are MagSafe-compatible, so make sure to check out the product specifications to verify if wireless charging works with the case of your choice. 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which case is best for iPhone 12?
 
@@ -347,27 +354,20 @@ The Pela case is my favorite because it combines drop protection with environmen
 
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the safest case for iPhone 12 Pro?
 
 The Pela case is made out of non-toxic materials and has been tested for safety. It's free of phthalates, BPA, cadmium, and lead and is verified to meet child safety standards in the U.S., Canada, Europe, Australia, and New Zealand. You can compost it in a home composting environment or an industrial composting facility. Each case on this list keeps your phone safe to varying degrees.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do you need a case for iPhone 12?
 
 Apple markets the iPhone 12 as durable enough to handle tough use. However, if you want to avoid scratches and cracks, you need a case. The iPhone is slick, which means it's easy to drop. You can survive without a case, but if you want to keep your iPhone in the best shape possible, you should go with a case.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 12 cases worth considering?
 
@@ -409,16 +409,22 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-effortless-timelapse-on-ipad-capturing-for-2024/"><u>[New] Effortless Timelapse on iPad Capturing for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-engineering-basics-embrace-adobes-fading-techniques/"><u>2024 Approved Audio Engineering Basics Embrace Adobe’s Fading Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-surge-in-popularity-for-electric-automobiles/"><u>Decoding the Surge in Popularity for Electric Automobiles</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discover-the-art-of-vocal-variation-for-enhanced-gameplay-experience-free-guide/"><u>Discover the Art of Vocal Variation for Enhanced Gameplay Experience (Free Guide)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-of-15-no-cost-windows-11-customization-skins/"><u>Discover the Ultimate List of 15 No-Cost Windows 11 Customization Skins</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enjoy-fandango-films-from-your-living-room-guide-to-streaming-on-apple-tv/"><u>Enjoy Fandango Films From Your Living Room: Guide to Streaming on Apple TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722859863847-get-ahead-of-the-curve-with-info-on-apples-next-gen-iphone-price-specs-and-launch-date-rumors/"><u>Get Ahead of the Curve with Info on Apple’s Next-Gen iPhone: Price, Specs & Launch Date Rumors!</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/instant-fix-resetting-windows-update-issues/"><u>Instant Fix: Resetting Windows Update Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-call-issues-what-to-do-when-your-samsung-galaxy-watch-wont-ring/"><u>Troubleshooting Call Issues: What to Do When Your Samsung Galaxy Watch Won't Ring</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-easy-youtube-animation-subscribe-bars-in-filmora-for-2024/"><u>[New] Crafting Easy YouTube Animation Subscribe Bars in Filmora for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-video-producers-digital-command-center-for-2024/"><u>[New] Discovering Video Producers' Digital Command Center for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-buy-1-million-youtube-views-safely-from-trusted-providers-for-2024/"><u>[New] How to Buy 1 Million YouTube Views Safely From Trusted Providers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-chronoscape-controls-rewinding-iphone-footage-efficiently/"><u>[New] In 2024, Chronoscape Controls Rewinding iPhone Footage Efficiently</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streammastery-101-the-beginners-path-to-livestrancing-podcasts/"><u>2024 Approved StreamMastery 101 The Beginner's Path to Livestrancing Podcasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-vobflv/"><u>無料で使えるMovavi VOBとFLV形式を変更する方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-archivos-mp3-al-formato-de-alto-rango-flac-online-sin-coste-movavi/"><u>Convertir Archivos MP3 Al Formato De Alto Rango FLAC Online Sin Coste - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gif-to-tiff-konvertierung-online-kostenlos-movavi/"><u>GIF-to-TIFF Konvertierung Online Kostenlos - Movavi</u></a></li>
+<li><a href="https://article-helps.techidaily.com/google-meet-zoom-tips-maximizing-participant-visibility-for-2024/"><u>Google Meet Zoom Tips Maximizing Participant Visibility for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-90-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor 90 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-oggmp3/"><u>Movavi: OGG音源を無料でMP3に簡単変換 - オンラインツール</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-no-cost-web-service-change-your-mxf-videos-to-wmv-quickly-and-easily/"><u>Movavi's No-Cost Web Service: Change Your MXF Videos to WMV Quickly and Easily!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/simplified-terms-for-users-today/"><u>Simplified Terms for Users Today</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-m14-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-12-apps-para-compartir-pantallas-descubra-la-mejor-opcion-de-movavi/"><u>Top 12 Apps Para Compartir Pantallas: Descubra La Mejor Opción De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-i-file-wmv-in-mp4-o-3gp-online-senza-costi-convertwmvasyougo/"><u>Trasforma I File WMV in MP4 O 3GP Online Senza Costi - ConvertWMVAsYouGo!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726227699216-mp4ogv-movavi/"><u>무료 MP4/OGV 변환기를 사용하여 온라인 영상을 향상시키는 방법: Movavi의 효율적인 도구</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unbeatable May 2024 Promotions on AT&T Mobile Plans | ZDNet's Top Picks
-date: 2024-09-25T16:05:56.094Z
-updated: 2024-10-02T16:09:30.060Z
+date: 2024-10-03T18:57:52.481Z
+updated: 2024-10-07T21:13:17.769Z
 tags:
   - apple
 categories:
@@ -125,13 +125,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -164,13 +157,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7edfde58-3192-4628-8e7b-42c56a313acd%7Cdtp&dtb=1)
@@ -186,10 +172,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
@@ -206,6 +192,13 @@ This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these Apple deals?
 
 While researching the best Apple deals, we scoured the web and checked out promotional prices offered by major US retailers, including Amazon, Target, Best Buy, and Walmart. 
@@ -220,10 +213,16 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -246,6 +245,13 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -291,19 +297,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-non-appearing-thumbnails-in-youtube-shorts/"><u>[New] In 2024, Fixing Non-Appearing Thumbnails in YouTube Shorts</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-asus-rog-phone-7-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Asus ROG Phone 7 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>2024 Approved Flight Dynamics Unveiling Bebop’s Parrot Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-video-editing-software-picks-for-your-projects/"><u>Discover the Best Video Editing Software Picks for Your Projects</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/drone-shipping-suspension-at-walmart-impact-on-operations-in-ca-az-sc/"><u>Drone Shipping Suspension at Walmart: Impact on Operations in CA, AZ, SC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-motorola-moto-g-5g-2023-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-curve-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze Curve 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/insider-scoop-on-google-tv-streaming-box-anticipated-cost-launch-timeline-and-latest-tech-details/"><u>Insider Scoop on Google TV Streaming Box - Anticipated Cost, Launch Timeline & Latest Tech Details</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/making-your-stories-more-accessible-a-captioning-guide-for-2024/"><u>Making Your Stories More Accessible A Captioning Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/monitoring-shares-find-out-who-spread-your-message-on-facebook-today/"><u>Monitoring Shares: Find Out Who Spread Your Message on Facebook Today</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-previewed-fb-activity-is-it-safe-or-not/"><u>Navigating Previewed FB Activity Is It Safe or Not?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-navigating-lg-channels-effectively/"><u>The Complete Guide to Navigating LG Channels Effectively</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-solving-504-gateway-errors-quickly/"><u>Troubleshooting Tips for Solving 504 Gateway Errors Quickly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-beginners-pathway-utilizing-fade-transitions/"><u>[Updated] In 2024, Beginner's Pathway Utilizing Fade Transitions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-seamless-desktop-capture-high-quality-free-windowsmac-software/"><u>[Updated] In 2024, Seamless Desktop Capture High-Quality Free Windows/Mac Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-scenes-how-apples-m1-max-attachments-work/"><u>2024 Approved Behind-the-Scenes How Apple’s M1 Max Attachments Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-your-world-of-entertainment-how-to-enable-apple-tv-on-firestick/"><u>Connect Your World of Entertainment: How to Enable Apple TV on Firestick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crucial-considerations-when-purchasing-your-next-smart-television/"><u>Crucial Considerations When Purchasing Your Next Smart Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/data-friendly-messaging-tips-to-stay-within-your-mobile-limits/"><u>Data-Friendly Messaging Tips to Stay Within Your Mobile Limits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-guide-screen-capture-on-windows-8-devices/"><u>Expert Guide Screen Capture on Windows 8 Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-overcome-connection-problems-in-lost-ark-gameplay/"><u>Guide to Overcome Connection Problems in Lost Ark Gameplay</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-14-pro-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 14 Pro Properly | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximize-your-wallet-with-top-notch-apple-deals-on-prime-day/"><u>Maximize Your Wallet with Top-Notch Apple Deals on Prime Day</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-wearables-5-considerations-when-picking-a-tracker/"><u>Navigating the World of Wearables: 5 Considerations When Picking a Tracker</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ins-and-outs-of-t-mobiles-local-network-roaming-options-at-home/"><u>The Ins and Outs of T-Mobile’s Local Network Roaming Options at Home</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-technique-to-unite-separate-spotify-playlists-into-a-perfect-mix/"><u>The Insider’s Technique to Unite Separate Spotify Playlists Into a Perfect Mix</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-guide-to-generating-ideal-youtube-titles-on-a-shoestring/"><u>The Ultimate Guide to Generating Ideal YouTube Titles on a Shoestring</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-13-mini-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 13 mini from iCloud</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-childrens-films-streaming-on-netflix/"><u>Top-Rated Children's Films Streaming on Netflix</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unboxing-high-fidelity-gaming-recorders-for-2024/"><u>Unboxing High-Fidelity Gaming Recorders for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-history-of-yahoo-messenger-and-exploring-reasons-behind-its-discontinuation/"><u>Unveiling the History of Yahoo Messenger & Exploring Reasons Behind Its Discontinuation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-are-pope-franciss-preferred-methods-of-digital-correspondence/"><u>What Are Pope Francis's Preferred Methods of Digital Correspondence?</u></a></li>
 </ul></div>
 

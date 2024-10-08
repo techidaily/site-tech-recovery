@@ -1,7 +1,7 @@
 ---
 title: "Fourth of July Special Offers: Exclusive Discounts on Smartphones and Plans | TechRadar"
-date: 2024-09-26T16:00:48.020Z
-updated: 2024-10-02T16:24:44.309Z
+date: 2024-10-04T19:59:42.875Z
+updated: 2024-10-07T21:41:48.568Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Security and privacy implications
@@ -88,13 +88,6 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Competitive app marketplace:** If iOS is opened to third-party app stores, it could break Apple's monopoly on app distribution and create a more competitive environment where different app marketplaces fight for developer and consumer attention.
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple ecosystem transformation
 
 Should the DOJ prevail, changes to the App Store, Apple's services, and other "Super Apps," as named in the complaint, could affect everything from developer profits to consumer spending habits.
@@ -109,6 +102,13 @@ The changes could also lead to increased innovation and competition in markets s
 
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open standards and protocols and the increase of open-source software on Apple platforms
 
 With a requirement for sideloading and allowing third-party app stores and a need for providing more open access to APIs, the call for open standards and increased use of open-source software on Apple platforms may also gain momentum. This shift toward openness will enhance interoperability across devices and challenge Apple's long-standing paradigms of exclusivity and controlled ecosystems. 
@@ -119,10 +119,10 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -136,10 +136,10 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -178,22 +178,22 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-dial-up-dislikes-flip-the-script-with-square-content-creation/"><u>[New] Dial Up Dislikes? Flip the Script with Square Content Creation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-your-playlist-on-demand-selecting-6-elite-free-apps-for-downloading-youtube-music/"><u>[New] Your Playlist on Demand - Selecting 6 Elite Free Apps for Downloading YouTube Music</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-practices-for-youtube-outro-design-for-2024/"><u>[Updated] Best Practices for YouTube Outro Design for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effortless-group-video-chat-with-androids-facetime/"><u>[Updated] Effortless Group Video Chat with Android's Facetime</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-system-setup-with-tomsystemhardware/"><u>Advanced System Setup with TomSystemHardware</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficiently-navigate-gmail-the-top-30-keyboard-shortcut-secrets/"><u>Efficiently Navigate Gmail: The Top 30 Keyboard Shortcut Secrets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-the-missing-d3dx925dll-issue-on-your-pc-easily/"><u>Fix the Missing d3dx9_25.dll Issue on Your PC Easily!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/google-pixel-10-speculations-expected-price-range-arrival-date-and-tech-spec-rumors-unpacked/"><u>Google Pixel 10 Speculations: Expected Price Range, Arrival Date & Tech Spec Rumors Unpacked</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-arrange-personalized-technical-support-at-the-apple-stores-genius-bar/"><u>How to Arrange Personalized Technical Support at the Apple Store's Genius Bar</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-how-to-watch-multiple-youtube-videos-at-one-time/"><u>In 2024, How To Watch Multiple YouTube Videos at One Time?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximizing-gaming-experience-on-xbox-one-connect-and-use-an-extra-drive/"><u>Maximizing Gaming Experience on Xbox One: Connect and Use an Extra Drive</u></a></li>
-<li><a href="https://windows11.techidaily.com/overhauling-windows-11-camera-glitch-fix-for-error-code-a00f425d/"><u>Overhauling Windows 11 Camera Glitch: Fix for Error Code A00F425D</u></a></li>
-<li><a href="https://article-tips.techidaily.com/powerdirector-unboxed-a-complete-review-users/"><u>PowerDirector Unboxed A Complete Review Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-ftd2xxdll-file-not-detected-a-step-by-step-solution-guide/"><u>Resolving the ftd2XX.dll File Not Detected: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-steps-mastering-the-art-of-background-blurring-on-google-meet/"><u>Simple Steps: Mastering the Art of Background Blurring on Google Meet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-generation-awaits-inside-information-on-the-rumored-samsung-galaxy-z-fold-7s-features-and-expected-value/"><u>The Next Generation Awaits: Inside Information on the Rumored Samsung Galaxy Z Fold 7'S Features and Expected Value</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-picks-for-virtual-reality-gaming-software-2023-guide/"><u>Top Picks for Virtual Reality Gaming Software - 2023 Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-cut-through-competition-advanced-techniques-for-instagram-ready-videos/"><u>[New] In 2024, Cut Through Competition Advanced Techniques for Instagram-Ready Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-comprehensive-insight-into-the-ultra-clear-lg-monitor-for-2024/"><u>[Updated] Comprehensive Insight Into the Ultra-Clear LG Monitor for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[Updated] In 2024, From Idea to Impact Top 8 Online Courses for New Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-novices-route-to-revenue-in-the-youtube-realm/"><u>[Updated] The Novice's Route to Revenue in the YouTube Realm</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-entertainment-awaits-your-guide-to-8-fantastic-roku-channels/"><u>Free Entertainment Awaits: Your Guide to 8 Fantastic Roku Channels</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-latest-geforce-rtx-the-blood-of-olympus-or-blood-of-the-gods-is-a-term-used-in-greek-mythology-to-describe-an-event-that-occurs-when-all-of-the-sons69/"><u>Get the Latest GeForce RTX The '''''Blood of Olympus''''' (Or Blood of the Gods) Is a Term Used in Greek Mythology to Describe an Event that Occurs when All of the Sons and Daughters of Zeus Are Dead: It Signifies the End of the World, or ''Apotheosis''.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-pope-francis-manage-digital-messaging-within-the-holy-see/"><u>How Does Pope Francis Manage Digital Messaging Within The Holy See?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sonic-storytelling-in-instagram-visuals/"><u>In 2024, Sonic Storytelling in Instagram Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-highlight-trail-from-skatescape-2022/"><u>In 2024, The Ultimate Highlight Trail From Skatescape 2022</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/logitech-keyboard-shortcuts-capturing-your-screen-effortlessly/"><u>Logitech Keyboard Shortcuts: Capturing Your Screen Effortlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-new-skills-with-ease-unveiling-the-best-learning-apps-of-2024/"><u>Mastering New Skills with Ease: Unveiling the Best Learning Apps of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-how-to-refresh-a-powerpoint-file/"><u>Step-by-Step Instructions on How to Refresh a PowerPoint File</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-secrets-of-openais-bug-bounty-scheme-tips-for-active-contributors/"><u>Unlocking the Secrets of OpenAI’s Bug Bounty Scheme: Tips for Active Contributors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-of-snapchats-pictographic-language-the-definitive-emoji-key/"><u>Unraveling the Mystery of Snapchat's Pictographic Language: The Definitive Emoji Key</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-are-memes-and-how-do-they-spread-online/"><u>What Are Memes and How Do They Spread Online?</u></a></li>
 </ul></div>
 

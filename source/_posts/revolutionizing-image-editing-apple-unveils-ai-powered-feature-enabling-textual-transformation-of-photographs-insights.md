@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Image Editing: Apple Unveils AI-Powered Feature Enabling Textual Transformation of Photographs - Insights"
-date: 2024-09-27T16:33:13.512Z
-updated: 2024-10-02T16:20:15.266Z
+date: 2024-09-30T20:59:49.049Z
+updated: 2024-10-07T23:27:58.752Z
 tags:
   - apple
 categories:
@@ -45,16 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -62,10 +56,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -83,10 +83,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -96,16 +96,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -142,21 +136,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-revolutionize-your-content-with-innovative-tagging-approaches/"><u>[New] 2024 Approved Revolutionize Your Content with Innovative Tagging Approaches</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-simplified-methods-capturing-powerpoint-talks/"><u>[New] Simplified Methods Capturing PowerPoint Talks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars/"><u>2024 Approved How to Skip the Slip-Ups The 8 Must-Avoid Mistakes for New YouTube Stars</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-wireless-link-up-of-samsung-soundbar-with-televisions/"><u>Comprehensive Guide to Wireless Link-Up of Samsung Soundbar With Televisions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decode-the-401-access-denied-error-tips-for-immediate-rectification/"><u>Decode the 401 Access Denied Error: Tips for Immediate Rectification</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-poco-c51-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Poco C51 to iPad | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-social-strategies-android-and-iphones-most-effective-fb-apps/"><u>In 2024, Top Social Strategies Android & iPhone's Most Effective FB Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-powershell-to-gauge-file-sizes-in-os/"><u>Leveraging PowerShell to Gauge File Sizes in OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-new-login-security-updating-passwords-on-the-previously-labeled-x-platform/"><u>Mastering New Login Security: Updating Passwords on the Previously Labeled X Platform</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-how-to-convert-digital-videos-into-cartoons/"><u>New In 2024, How to Convert Digital Videos Into Cartoons?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revamped-tweeting-learn-how-to-set-a-strong-new-passcode-for-your-x-profile/"><u>Revamped Tweeting? Learn How to Set a Strong, New Passcode for Your X Profile</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-ps-vr-headset-with-a-computer/"><u>Step-by-Step Guide: Setting Up Your PS VR Headset with a Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-best-free-roku-options-for-viewers/"><u>The Ultimate List: Best Free Roku Options for Viewers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/uniting-tech-giants-apples-siri-and-microsoft-writes/"><u>Uniting Tech Giants: Apple's Siri & Microsoft' Writes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-creme-de-la-creme-5-prime-offroad-and-circuit-car-games-of-2024-no-internet-required/"><u>Unveiling the Crème De La Crème: 5 Prime Offroad and Circuit Car Games of 2024 – No Internet Required</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-battle-for-your-tv-time-tivo-vs-comcasts-x1/"><u>Updated In 2024, The Battle for Your TV Time TiVo vs Comcasts X1</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/conquer-call-of-duty-warzone-glitches-mastering-error-6328-hacks-for-players/"><u>Conquer Call of Duty Warzone Glitches: Mastering Error 6328 Hacks for Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/game-storage-solutions-for-xbox-enthusiasts-mastering-external-drive-usage/"><u>Game Storage Solutions for Xbox Enthusiasts: Mastering External Drive Usage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-develop-a-different-name-for-your-main-gmail-account/"><u>How To Develop A Different Name For Your Main Gmail Account</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cheap-yet-superior-gaming-keyboard-guide-under-100/"><u>In 2024, Cheap, Yet Superior Gaming Keyboard Guide Under $100</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-graphics-settings-to-resolve-stuttering-in-pc-version-of-fortnite/"><u>Optimizing Graphics Settings to Resolve Stuttering in PC Version of Fortnite</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-wpcpatdll-file-absence-a-comprehensive-guide/"><u>Resolving WPCPAT.DLL File Absence: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steam-game-return-strategies-mastering-the-art-of-securing-a-successful-refund/"><u>Steam Game Return Strategies: Mastering the Art of Securing a Successful Refund</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-fixing-stop-code-stop-0x0000007b-bsod-errors/"><u>Step-by-Step Solutions for Fixing Stop Code STOP 0X0000007B BSOD Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-secrets-behind-your-pcs-spontaneous-awakening-on-windows-11-unveiled/"><u>The Secrets Behind Your PC's Spontaneous Awakening on Windows 11 Unveiled</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-rated-free-mkv-cutting-software-for-2024/"><u>Top-Rated Free MKV Cutting Software for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-edge-40-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Motorola Edge 40 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-toms-hardware-reviews/"><u>Unveiling Gadgets with Tom's Hardware Reviews</u></a></li>
 </ul></div>
 

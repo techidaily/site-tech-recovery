@@ -1,7 +1,7 @@
 ---
 title: Amazon's Must-Have Bargains of August 2E, Sourced Directly for Maximum Value!
-date: 2024-09-29T16:36:09.499Z
-updated: 2024-10-02T16:28:53.443Z
+date: 2024-10-03T22:06:32.803Z
+updated: 2024-10-07T22:06:12.030Z
 tags:
   - apple
 categories:
@@ -37,13 +37,6 @@ Jason Hiner/ZDNET
 * [Bose SoundLink Flex Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-SoundLink-Bluetooth-Portable-Waterproof%2Fdp%2FB099TJGJ91%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB099TJGJ91%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $109 (save $40)
 * [Asus Tuf Gaming A16 2024 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-TUF-Gaming-Laptop-165Hz%2Fdp%2FB0CRCWY9VT%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CRCWY9VT%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $1,300 (save $500)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Amazon tech deals
 
 Jason Hiner/ZDNET
@@ -58,10 +51,10 @@ Jason Hiner/ZDNET
 * [JBL Tune Flex Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FJBL-Tune-Flex-Wireless-Cancelling%2Fdp%2FB0C1QNRGHC%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0C1QNRGHC%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $50 (save $50)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Amazon TV deals
@@ -75,6 +68,13 @@ Jason Hiner/ZDNET
 * [Sony 65-inch OLED 4K Ultra Bravia 8 TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-Exclusive-Features-PlayStation-K-65XR80%2Fdp%2FB0CVQ6YLH7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $1,1998 (save $502)
 * [LG 75-inch QNED80T LED Smart TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-75-Inch-Processor-AI-Powered-75QNED80TUC%2Fdp%2FB0CVSK2F85%3Fref%3Ddlx%5Fdeals%5Fdg%5Fdcl%5FB0CVSK2F85%5Fdt%5Fsl14%5Fd5%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $1,197 (save $203)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best Amazon robot vacuum deals
 
 Maria Diaz/ZDNET
@@ -86,6 +86,13 @@ Maria Diaz/ZDNET
 * [Eufy L60 Robot Vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Feufy-Vacuum-Suction-Navigation-Cleaning%2Fdp%2FB0CDB56ZWV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $200 (save $80 with on-page coupon)
 * [Roborock S8 Pro Ultra Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $950 (save $650)
 * [Roborock Q8 Max Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Froborock-Q8-Max-Navigation-Multi-Level%2Fdp%2FB0C7VFD9Q4%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Fcontent-id%3Damzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%3Aamzn1.sym.60b0c4ef-0fd2-46d0-8724-84b6f746d062%26crid%3D37DMVM6CIU4Y0%26cv%5Fct%5Fcx%3Drobot%2Bvacuum%26dib%3DeyJ2IjoiMSJ9.A4bejnO1HqJM%5FozbrGpsoYI205q99h9DoNEZVmg9dNI-ILQl1J-mSnznl4IKQtzDgOTGYo%5Fa7rpT3PH-A2Mpiw.a4a0hgwCDw4CmRSsqS2wHRhfJu%5FuKKwf5z-r8S-VJok%26dib%5Ftag%3Dse%26keywords%3Drobot%2Bvacuum%26pd%5Frd%5Fi%3DB0C7VFD9Q4%26pd%5Frd%5Fr%3Dc5436de8-abf5-4537-95f0-9cc48163f596%26pd%5Frd%5Fw%3DOlqAp%26pd%5Frd%5Fwg%3DQ2Iuk%26pf%5Frd%5Fp%3D60b0c4ef-0fd2-46d0-8724-84b6f746d062%26pf%5Frd%5Fr%3DAKHVV8K35XC7VV3MS5S3%26qid%3D1723557736%26sbo%3DRZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D%26sprefix%3Drobot%2Bvacuum%2B%2Caps%2C104%26sr%3D1-20-f853d353-bf33-45e7-b5c2-2cb2b31abc9b-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0742b2d5-6455-4cf2-9e79-c9e92162c382%7Cdtp&dtb=1) for $320 (save $280)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best Amazon home deals
 
@@ -102,13 +109,6 @@ Maria Diaz/ZDNET
 
 ##   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these Amazon deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -116,10 +116,10 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -174,14 +174,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-content-conundrums-finding-elusive-vids/"><u>[New] Social Media Content Conundrums Finding Elusive Vids</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-seamless-video-editing-on-windows-11-platform/"><u>2024 Approved Seamless Video Editing on Windows 11 Platform</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-f54-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy F54 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/instructions-for-removing-the-daily-headlines-from-windows-11s-interface/"><u>Instructions for Removing the Daily Headlines From Windows 11'S Interface</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/livestream-essentials-experience-the-athletic-glory-of-the-2n24-summer-olympics-from-anywhere/"><u>Livestream Essentials: Experience the Athletic Glory of the 2N24 Summer Olympics From Anywhere</u></a></li>
-<li><a href="https://techidaily.com/remove-samsung-lock-screen-without-password-samsung-galaxy-a24-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung Lock Screen without Password(Samsung Galaxy A24)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-issues-with-unresponsive-optical-drives-a-step-by-step-guide/"><u>Solving Issues with Unresponsive Optical Drives: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steams-best-kept-secret-expert-tips-for-effectively-sending-and-sharing-game-codes-as-presents/"><u>Steam's Best-Kept Secret: Expert Tips for Effectively Sending and Sharing Game Codes as Presents</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722880398457-streamline-your-music-experience-by-merging-spotify-playlists-heres-how/"><u>Streamline Your Music Experience by Merging Spotify Playlists – Here's How!</u></a></li>
+<li><a href="https://facebook.techidaily.com/stay-fight-on-facebooks-defiant-message-against-exiting/"><u>'Stay, Fight On': Facebook's Defiant Message Against Exiting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-strategic-boxes-opened-marketing-excellence/"><u>[Updated] Strategic Boxes Opened Marketing Excellence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-mac-visuals-plus-acoustics-scribing-tool/"><u>[Updated] Ultimate Mac Visuals + Acoustics Scribing Tool</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-a-step-by-step-guide-for-sharing-camera-roll-pictures-on-snapchat/"><u>2024 Approved A Step by Step Guide for Sharing Camera Roll Pictures on Snapchat</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/changing-the-locks-on-your-updatedx-profile-easily/"><u>Changing the Locks on Your UpdatedX Profile Easily</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-most-innovative-tv-streaming-apps-dominating-202/"><u>Discover the Most Innovative TV Streaming Apps Dominating 202</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-whats-inside-in-depth-analysis-of-the-forthcoming-foldable-iphone-with-release-dates-and-specs-insights/"><u>Discover What's Inside: In-Depth Analysis of the Forthcoming Foldable iPhone with Release Dates and Specs Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-z-fold-5-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy Z Fold 5 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-11-pro-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 11 Pro In Different Conditionsin</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-window-11-screenshots-with-these-4-approaches/"><u>Mastering the Art of Window 11 Screenshots with These 4 Approaches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903926910-msxml4dll-missing-heres-how-you-can-resolve-it/"><u>Msxml4.dll Missing? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tips-for-effortless-image-snapshots-on-xbox-one-gaming-console/"><u>Quick Tips for Effortless Image Snapshots on Xbox One Gaming Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-how-to-play-pokemon-unite-successfully/"><u>Step-by-Step Tutorial on How to Play Pokémon Unite Successfully</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/winx-dvd-ripper-complete-edition-updated-history-and-new-capabilities-revealed/"><u>WinX DVD Ripper Complete Edition Updated History & New Capabilities Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-vr-ultimate-guide-connecting-ps-vr-console-with-your-personal-computer/"><u>Wireless VR: Ultimate Guide - Connecting PS VR Console with Your Personal Computer</u></a></li>
 </ul></div>
 

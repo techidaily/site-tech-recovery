@@ -1,7 +1,7 @@
 ---
 title: Banish Email Clutter with One Clever Hack - Say Goodbye to Complex Filters and Multiple Accounts | Tips by ZDNet
-date: 2024-09-25T16:11:33.397Z
-updated: 2024-10-02T16:07:01.957Z
+date: 2024-10-01T23:11:13.330Z
+updated: 2024-10-07T17:58:50.267Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,16 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,18 +154,20 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/budget-radar-alertness-choose-from-these-cost-effective-devices-like-passport-s55-as-per-our-latest-google-search-recommendations/"><u>'Budget Radar Alertness': Choose From These Cost Effective Devices Like Passport S55, As Per Our Latest Google Search Recommendations</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/erfect-your-mobile-shoot-expert-picks-of-the-best-9-cam-gear/"><u>[New] Perfect Your Mobile Shoot Expert Picks of the Best 9 Cam Gear</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-pushing-boundaries-with-iphones-motion-blur-capabilities-for-2024/"><u>[New] Pushing Boundaries with iPhone’s Motion-Blur Capabilities for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-guide-to-tracking-your-youtube-progress/"><u>[Updated] In 2024, The Essential Guide to Tracking Your YouTube Progress</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-are-product-assessments-online-content-sold/"><u>2024 Approved Are Product Assessments Online Content Sold?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-smart-7-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Smart 7 Unlock Without Password</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-auto-play-on-apple-music-a-step-by-step-guide/"><u>Disabling Auto-Play on Apple Music: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-4-smartphone-tools-to-transform-your-house-with-a-fresh-coat-of-paint/"><u>Discover the Best 4 Smartphone Tools to Transform Your House with a Fresh Coat of Paint</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-66-tweeters-to-follow-for-incredible-deals-and-stories-in-the-world-of-travel/"><u>Discover the Best 66 Tweeters to Follow for Incredible Deals and Stories in the World of Travel</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-6s-plus-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 6s Plus Display? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-t2-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo T2 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macos-apps-and-security-solving-cannot-be-opened-because-developer-cant-be-verified/"><u>MacOS Apps & Security: Solving 'Cannot Be Opened Because Developer Can't Be Verified'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722903512032-overcoming-android-communication-glitches-no-more-missed-texts/"><u>Overcoming Android Communication Glitches: No More Missed Texts!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-apple-music-enhancement-for-exquisite-videos/"><u>[New] Apple Music Enhancement for Exquisite Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-what-is-the-difference-between-youtube-and-dailymotion/"><u>[New] In 2024, What Is the Difference Between YouTube and Dailymotion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-adding-borders-to-videos/"><u>[Updated] 2024 Approved Mastering Instagram Adding Borders to Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-optimal-6-crafted-urban-home-concepts/"><u>[Updated] Optimal 6 Crafted Urban Home Concepts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-streamlining-video-production-mastering-the-use-of-obs-and-zoom/"><u>2024 Approved Streamlining Video Production Mastering the Use of OBS & Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/amass-a-thousand-tactics-for-monthly-instagram-following/"><u>Amass a Thousand Tactics for Monthly Instagram Following</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eseguirai-con-successo-la-tua-conferenza-su-google-meet-una-guida-comprehensive-alliscrizione-e-allutilizzo/"><u>Eseguirai Con Successo La Tua Conferenza Su Google Meet: Una Guida Comprehensive All'Iscrizione E All'Utilizzo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/faites-de-votre-caf-une-plateforme-web-gratuite-grace-a-movavi-guerilla-seo/"><u>Faites De Votre CAF Une Plateforme Web Gratuite Grâce À Movavi - Guérilla SEO</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-guide-reestablishing-inbuilt-printer-and-scanning-functions-in-windows-10-os/"><u>Fix Guide: Reestablishing Inbuilt Printer and Scanning Functions in Windows 10 OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-ape-files-into-m4a-format-with-movavi/"><u>Free Online Conversion: Transforming APE Files Into M4A Format with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-professional-results-with-movavi-photo-editor-secure-yours-today/"><u>Get Professional Results with Movavi Photo Editor - Secure Yours Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-verbale-konvertor-wav-naar-mp4-bestaan-online-movavi/"><u>Gratuit Verbale Konvertor: WAV Naar MP4 Bestaan Online - Movavi</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-enjoy-premium-video-artwork-download-at-no-cost-today/"><u>In 2024, Enjoy Premium Video Artwork - Download at No Cost Today!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-cost-web-tool-transform-your-m4v-files-into-mp4-with-moviemaker-pro/"><u>No-Cost Web Tool: Transform Your M4V Files Into MP4 with MovieMaker Pro</u></a></li>
 </ul></div>
 

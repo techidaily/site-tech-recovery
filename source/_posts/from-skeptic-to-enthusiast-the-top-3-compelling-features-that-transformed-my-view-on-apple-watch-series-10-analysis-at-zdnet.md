@@ -1,7 +1,7 @@
 ---
 title: "From Skeptic to Enthusiast: The Top 3 Compelling Features That Transformed My View on Apple Watch Series 10 | Analysis at ZDNET"
-date: 2024-09-28T16:01:04.769Z
-updated: 2024-10-02T17:04:30.690Z
+date: 2024-10-06T16:27:45.661Z
+updated: 2024-10-07T22:35:38.321Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ The Apple Watch Series 10 got its first big redesign since the launch of the Ser
 
 We didn't get a redesigned Apple Watch Ultra, as Apple is expected to focus on internal updates rather than the physical look, but we did see a new Satin Black finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Extra health tracking: sleep apnea
 
 Jason Hiner/ZDNET
@@ -53,10 +60,10 @@ The Apple Watch's sleep apnea detection isn't expected to be immediately availab
 Apple also announced new WatchOS 11 features for the Apple Watch, including offline maps and water features like Depth, Water Temperature, and Tides. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New Apple Watch finishes
@@ -70,10 +77,10 @@ The Apple Watch Series 10 is available in Jet Black, Rose Gold, and Silver Alumi
 The Apple Watch Series 10 starts at $399, available for pre-order today, with general availability on September 20\. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What we didn't get with the Apple Watch Series 10
@@ -81,10 +88,10 @@ The Apple Watch Series 10 starts at $399, available for pre-order today, with ge
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Blood oxygen tracking has yet to return
@@ -96,13 +103,6 @@ Unfortunately, the new Apple Watch models didn't bring back the blood oxygen mon
 **Also: [Here's one big reason I'm sticking with my Apple Watch Series 7 and forgoing the Series 10](https://www.zdnet.com/article/heres-one-big-reason-im-sticking-with-my-apple-watch-series-7-and-forgoing-the-series-10/)**
 
 Currently, the Apple Watch Series 9 and Ultra don't have the blood oxygen sensor enabled, so users looking to upgrade from an older model (Apple Watch Series 6, 7, 8, and Ultra) should know they'll likely lose that feature until Apple resolves its issue.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. No hypertension capabilities yet
 
@@ -142,21 +142,17 @@ Many users have expected Apple to release blood pressure monitoring on the Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exclusive-online-cam-dance-duels/"><u>[Updated] Exclusive Online Cam Dance Duels</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-streamline-vimeo-video-publicity-tactics-for-2024/"><u>[Updated] Streamline Vimeo Video Publicity Tactics for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-9gag-pathway-to-piling-up-popular-memes/"><u>2024 Approved The 9GAG Pathway to Piling Up Popular Memes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-s23-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy S23 Ultra without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-free-backup-programs-of-the-year-a-curated-list-with-expert-reviews/"><u>Best Free Backup Programs of the Year: A Curated List with Expert Reviews</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discord-not-working-are-we-all-offline-or-is-the-problem-at-your-end/"><u>Discord Not Working – Are We All Offline, or Is the Problem at Your End?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726028384396-fc2/"><u>FC2動画・生中継ソフトウェアのベスト：自由で優れたオプションをご案内します！</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-add-music-to-instagram-posts/"><u>How to Add Music to Instagram Posts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-13-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 13? Find the Best Solution Here</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-look-at-applen-home-innovator-estimated-cost-launch-schedule-specifications-and-latest-rumors/"><u>Inside Look at Apple'n Home Innovator: Estimated Cost, Launch Schedule, Specifications, and Latest Rumors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/line-app-assessment-a-closer-look-at-its-user-experience-and-capabilities/"><u>LINE App Assessment: A Closer Look at Its User Experience & Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-privacy-in-virtual-realms-essential-settings-for-fortifying-security-on-your-quest-vr-setup/"><u>Mastering Privacy in Virtual Realms: Essential Settings for Fortifying Security on Your Quest VR Setup</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/screenmasterrevolution-next-gen-recording-software-for-2024/"><u>ScreenMasterRevolution Next-Gen Recording Software for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-troubleshooting-windows-code-39-problems/"><u>Step-by-Step Guide: Troubleshooting Windows Code 39 Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-11-on-screen-keyboard-control-instructions-for-activationdeactivation/"><u>Windows 11 On-Screen Keyboard Control: Instructions for Activation/Deactivation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-apps-and-programs-for-image-video-integration/"><u>[New] Best Apps and Programs for Image Video Integration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-5-ways-to-record-youtube-live-stream-for-2024/"><u>[New] Top 5 Ways to Record YouTube Live Stream for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-visionary-gear-best-10-lenses-for-sharp-images/"><u>2024 Approved Visionary Gear Best 10 Lenses for Sharp Images</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-interactive-games-on-the-internet-for-little-ones-to-enjoy/"><u>Best Interactive Games on the Internet for Little Ones to Enjoy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-fidelity-webcams-for-professional-podcasting/"><u>In 2024, High-Fidelity Webcams for Professional Podcasting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-access-free-picturing-content-streams/"><u>In 2024, Mastering Access Free Picturing Content Streams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-twitter-utility-programs-for-enhanced-social-media-mastery/"><u>Leading Twitter Utility Programs for Enhanced Social Media Mastery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prolific-fiction-top-gpt-fueled-techniques-for-dynamic-characters/"><u>Prolific Fiction: Top GPT-Fueled Techniques for Dynamic Characters</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-x50-gt-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor X50 GT to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-solutions-for-resolving-wireless-adapteraccess-point-issues/"><u>Top 10 Solutions for Resolving Wireless Adapter/Access Point Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-binkw32dll-files-for-smooth-media-playback/"><u>Troubleshooting Missing BinkW32.dll Files for Smooth Media Playback</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/which-is-better-for-privacy-the-in-depth-comparison-of-signal-vs-whatsapp/"><u>Which Is Better for Privacy? The In-Depth Comparison of Signal vs WhatsApp</u></a></li>
 </ul></div>
 

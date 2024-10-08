@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look at Apple's New AI-Powered M3 MacBook Air: Tech for Everyone Has Finally Arrived | ZDNET Insights"
-date: 2024-09-28T16:42:40.562Z
-updated: 2024-10-02T16:57:22.722Z
+date: 2024-10-03T23:00:27.863Z
+updated: 2024-10-07T17:10:46.245Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 ---
@@ -68,10 +75,16 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -79,13 +92,6 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -115,6 +121,13 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Cinebench CPU/GPU benchmark (higher is better)
 
 ---
@@ -143,19 +156,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -171,10 +171,10 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -249,18 +249,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-inbox-management-skills-a-guide-to-creating-smart-filters-and-handling-additional-contact-information-on-gmail/"><u>Elevate Your Inbox Management Skills: A Guide to Creating Smart Filters and Handling Additional Contact Information on Gmail</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-installation-realtek-8188cu-wireless-network-adapter-drivers-on-windows-10-7/"><u>Free Installation: Realtek 8188CU Wireless Network Adapter Drivers on Windows 10, 7</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-python24dll-disappearance-expert-tips-and-tricks/"><u>How to Recover From 'Python24.dll' Disappearance: Expert Tips and Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-a-503-error-a-complete-guide-for-webmasters/"><u>How to Resolve a 503 Error: A Complete Guide for Webmasters</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transform-ads-with-green-screen-and-subs/"><u>In 2024, Transform Ads with Green Screen & Subs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ted-sign-offs-for-the-savvy-viewer/"><u>Scripted Sign-Offs for the Savvy Viewer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sony-playstation-showdown-ps5-versus-ps5-slim-an-in-depth-comparison/"><u>Sony PlayStation Showdown: PS5 versus PS5 Slim - An In-Depth Comparison</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-running-crusader-kings-ii-solutions-to-game-not-launching-problems/"><u>Successfully Running Crusader Kings II: Solutions to Game Not Launching Problems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-apples-giant-leap-an-in-depth-look-at-the-iphone-12-mini/"><u>Unboxing Apple's Giant Leap: An In-Depth Look at the iPhone 12 Mini</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-smart-tvs-what-does-it-mean-to-have-a-tv-with-internet-capabilities/"><u>Understanding Smart TVs: What Does It Mean to Have a TV with Internet Capabilities?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-videos-like-a-pro-download-splice-for-mac/"><u>Updated In 2024, Edit Videos Like a Pro Download Splice for Mac</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-vn-video-editor-pro-apk-a-professional-level-video-editing-experience/"><u>Updated In 2024, VN Video Editor Pro Apk A Professional-Level Video Editing Experience?</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-a38-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo A38</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-29-cost-free-youtube-sound-extractors-free-youtube-audio-downloads/"><u>[Updated] In 2024, 29 Cost-Free YouTube Sound Extractors Free YouTube Audio Downloads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-whispers-from-the-past-secrets-unveiled-in-age-old-texts-for-2024/"><u>[Updated] Whispers From the Past Secrets Unveiled in Age-Old Texts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-new-ps-portal-coming-soon-date-price-list-hardware-specs-and-buying-options/"><u>All You Need to Know About the New PS Portal: Coming Soon Date, Price List, Hardware Specs, and Buying Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-to-the-airwaves-how-to-access-fm-radios-on-smartphones/"><u>Connecting to the Airwaves: How to Access FM Radios on Smartphones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertidor-gratuito-de-archivos-aifc-a-formato-compatible-mediante-movavi/"><u>Convertidor Gratuito De Archivos AIFC a Formato Compatible Mediante Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-picks-high-performance-miniature-pc-units-for-serious-gamers/"><u>Expert Picks: High-Performance Miniature PC Units for Serious Gamers</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-moto-g84-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G84 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-realme-gt-5-240wmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme GT 5 (240W)Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/huawei-mediapad-m5-analyzed-ultimate-performance-for-video-and-audio-lovers/"><u>Huawei MediaPad M5 Analyzed: Ultimate Performance for Video & Audio Lovers!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-pro-vs-macbook-air-a-comprehensive-review-of-their-distinctive-qualities/"><u>IPad Pro Vs. MacBook Air - A Comprehensive Review of Their Distinctive Qualities</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/real-time-streaming-excellence-instagram-and-obs-unite/"><u>Real-Time Streaming Excellence Instagram and OBS Unite</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-lost-shelldll-files-expert-advice-on-how-to-rectify-missing-dlls-error/"><u>Reviving Lost Shell.dll Files: Expert Advice on How to Rectify Missing DLLs Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-enabling-and-using-screen-mirroring-features-on-samsung-smart-tvs/"><u>Ultimate Guide: Enabling and Using Screen Mirroring Features on Samsung Smart TVs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-se-2020-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone SE (2020) Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 

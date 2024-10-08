@@ -1,7 +1,7 @@
 ---
 title: M3 Apple Silicon Revolutionizes Computing – Discover Its Far-Reaching Effects Beyond MacBooks & iMacs
-date: 2024-09-28T16:36:13.734Z
-updated: 2024-10-02T16:47:49.330Z
+date: 2024-10-01T18:17:13.716Z
+updated: 2024-10-07T16:57:44.859Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,10 +54,10 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -75,10 +75,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -92,10 +92,10 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -140,22 +140,24 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimizing-color-depth-and-gradients-for-obs/"><u>[Updated] 2024 Approved Optimizing Color Depth and Gradients for OBS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-comedy-mastering-kinemaster/"><u>[Updated] Crafting Comedy Mastering KineMaster</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-imovie-secrets-captivating-your-audience-from-the-start/"><u>[Updated] IMovie Secrets Captivating Your Audience From the Start</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-3d-software-for-dynamic-youtube-intros/"><u>[Updated] In 2024, Best 3D Software for Dynamic YouTube Intros</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/accurate-sensors-that-measure-temperature-humidity-rainfall-wind-speed-barometric-pressure-and-uv-index/"><u>Accurate Sensors that Measure Temperature, Humidity, Rainfall, Wind Speed, Barometric Pressure, and UV Index.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/dealing-with-blue-screen-errors-caused-by-win32ksys-in-windows-systems/"><u>Dealing with Blue Screen Errors Caused by Win32k.sys in Windows Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-connect-and-chat-with-whatsapp-on-mac-os-x/"><u>Guide to Connect and Chat with WhatsApp on Mac OS X</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-reactivating-night-light-functionality-for-windows-users-version-1011/"><u>Guide: Reactivating Night Light Functionality for Windows Users (Version 10/11)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-share-your-laptop-screen-on-the-big-screen-using-googles-cast-technology/"><u>How to Share Your Laptop Screen on the Big Screen Using Google's Cast Technology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-verizon-is-shaping-the-new-era-of-wireless-technology-with-its-5g-network/"><u>How Verizon Is Shaping the New Era of Wireless Technology with Its 5G Network</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-lively-film-reader-assessment/"><u>In 2024, Lively Film Reader Assessment</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/journey-to-unlicensed-beauty-open-source-portfolits/"><u>Journey to Unlicensed Beauty Open-Source Portfolits</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ordered-journey-through-x-men-cinematic-universe-a-step-by-step-guide/"><u>Ordered Journey Through X-Men Cinematic Universe: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-troubleshooting-when-your-wii-console-cant-read-discs/"><u>Solving Common Issues: Troubleshooting When Your Wii Console Can't Read Discs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-navigating-ipados-upgrades-and-evolution/"><u>Step-by-Step Guide to Navigating iPadOS Upgrades and Evolution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-breakdown-of-windows-10s-battery-diagnostic-feature-and-its-benefits/"><u>The Ultimate Breakdown of Windows 10'S Battery Diagnostic Feature and Its Benefits</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-ev-bev-phev-and-fcev-key-differences-explained/"><u>Understanding EV, BEV, PHEV, and FCEV: Key Differences Explained</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-ugly-side-of-digital-video-profits/"><u>[New] 2024 Approved The Ugly Side of Digital Video Profits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-cost-efficient-sky-companions-drone-guide-(500-for-2024/"><u>[New] Cost-Efficient Sky Companions Drone Guide <$500 for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-video-appeal-crafting-unforgettable-thumbnail-images/"><u>[Updated] 2024 Approved Elevate Video Appeal Crafting Unforgettable Thumbnail Images</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-breakdown-of-12-youtubes-best-in-class-gaming-openings/"><u>[Updated] The Ultimate Breakdown of 12 YouTube's Best-in-Class Gaming Openings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-vintage-racing-spectacles-top-five-for-2024/"><u>[Updated] Vintage Racing Spectacles Top Five for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-auditory-anchors-exploring-the-art-of-sound-blending/"><u>2024 Approved Auditory Anchors Exploring the Art of Sound Blending</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-essential-guide-to-free-pdf-editors-top-13-selections/"><u>2024'S Essential Guide to Free PDF Editors - Top 13 Selections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/adding-a-pin-it-button-to-boost-engagement-on-your-facebook-page/"><u>Adding a Pin It Button to Boost Engagement on Your Facebook Page</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-change-the-time-setting-on-an-amazon-kindle-paperwhite-simplified/"><u>How To: Change The Time Setting On An Amazon Kindle Paperwhite Simplified</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hulu-vs-huluplus-identifying-unique-perks-of-each-streaming-service/"><u>Hulu Vs. Hulu+: Identifying Unique Perks of Each Streaming Service</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-magic-5-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor Magic 5 Pro Device SIM</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-igtv-masterpieces-top-editing-software-showcased/"><u>In 2024, IGTV Masterpieces Top Editing Software Showcased</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>New In 2024, Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/screen-mirroring-simplified-connect-your-devices-to-an-lg-smart-tv-seamlessly/"><u>Screen Mirroring Simplified: Connect Your Devices to an LG Smart TV Seamlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-zoom-tips-for-efficient-chromebook-use/"><u>Top 10 Zoom Tips for Efficient Chromebook Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trouble-connecting-to-psn-check-if-your-connection-or-the-network-is-at-fault/"><u>Trouble Connecting to PSN? Check if Your Connection or the Network Is at Fault</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-a-missing-msstdfmtdll-file-issue/"><u>Troubleshooting Steps for Resolving a Missing msstdfmt.dll File Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-how-to-address-and-correct-the-mfc42ddll-not-found-issue/"><u>Troubleshooting Tips: How to Address and Correct the 'mfc42d.dll Not Found' Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-408-request-timeout-error-causes-and-resolutions/"><u>Understanding the 408 Request Timeout Error: Causes and Resolutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks From ZDNET
-date: 2024-09-26T17:06:46.569Z
-updated: 2024-10-02T17:02:44.750Z
+date: 2024-10-05T18:56:07.330Z
+updated: 2024-10-07T22:19:49.737Z
 tags:
   - apple
 categories:
@@ -34,16 +34,16 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
+<span id="1743243">
 					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -56,31 +56,25 @@ By default, the following file types offer Quick Actions from within the Finder 
 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
 
@@ -109,10 +103,10 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -165,24 +159,19 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-1-5-best-url-trimmer-tools-for-youtube-videos/"><u>[New] In 2024, 1-5 Best URL Trimmer Tools for YouTube Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-optimizing-screen-recording-on-iphoneipad-for-2024/"><u>[Updated] Optimizing Screen Recording on iPhone/iPad for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-advanced-techniques-for-capturing-presentations/"><u>2024 Approved Advanced Techniques for Capturing Presentations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-sensational-tale-tiler-system/"><u>2024 Approved Sensational Tale Tiler System</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-beats-pure-dj-visuals-available-online/"><u>2024 Approved The Art of Beats Pure DJ Visuals Available Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-about-sony-2024-announcements-cutting-edge-news-and-inside-scoop-uncovered/"><u>All About Sony 2024: Announcements, Cutting-Edge News & Inside Scoop Uncovered</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-resolve-haldll-error-messages-on-various-windows-operating-systems/"><u>Effective Methods to Resolve Hal.dll Error Messages on Various Windows Operating Systems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-get-a-youtube-video-trending/"><u>How to Get a YouTube Video Trending</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-msodll-file-absent-issues-on-your-computer/"><u>How to Resolve mso.dll File Absent Issues on Your Computer</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-12-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 12 Pro Max without Security Questions?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-effortless-fusion-of-youtube-videos-with-flv-format/"><u>In 2024, Effortless Fusion of YouTube Videos with FlV Format</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-your-view-with-the-hp-envy-27-monitor/"><u>In 2024, Transforming Your View with the HP Envy 27 Monitor</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722846604888-insider-insights-on-teslas-robotaxi-unveiling-the-proposed-cost-launch-timeline-and-technical-details/"><u>Insider Insights on Tesla's Robotaxi: Unveiling the Proposed Cost, Launch Timeline & Technical Details</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/our-favourite-selection-of-five-superior-international-voice-apps-at-zero-cost/"><u>Our Favourite Selection of Five Superior International Voice Apps at Zero Cost!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/speeding-through-the-world-of-snapchat-emojis-a-rapid-reference-guide/"><u>Speeding Through the World of Snapchat Emojis: A Rapid Reference Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/split-cut-and-trim-avi-files-like-a-pro-a-beginners-guide/"><u>Split, Cut, and Trim AVI Files Like a Pro A Beginners Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-your-likes-across-all-tracks-in-spotify/"><u>Step-by-Step Guide: Removing Your Likes Across All Tracks in Spotify</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-viewing-conjuring-series-sequentially/"><u>The Ultimate Guide: Viewing 'Conjuring' Series Sequentially</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-charging-techniques-when-you-dont-have-a-charger/"><u>Ultimate Guide: Charging Techniques When You Don't Have a Charger</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-art-of-retention-capturing-gifs-from-social-media/"><u>[Updated] 2024 Approved The Art of Retention Capturing GIFs From Social Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-finest-lineup-top-7-aim-focused-titles/"><u>[Updated] In 2024, The Finest Lineup Top 7 Aim-Focused Titles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beat-netflix-ui-800-3-error-a-user-friendly-guide-to-get-back-in-action/"><u>Beat Netflix UI-800-3 Error - A User-Friendly Guide to Get Back in Action</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/easy-tutorial-creating-and-sharing-your-gotomeeting-recordings/"><u>Easy Tutorial: Creating and Sharing Your GoToMeeting Recordings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-glitches-ensuring-stable-gameplay-on-windows-with-the-witcher-3/"><u>Eliminating Glitches: Ensuring Stable Gameplay on Windows with 'The Witcher 3'</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-realme-gt-5-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Realme GT 5 Pro? Try These Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-solution-how-to-solve-magic-mouse-tracking-glitches/"><u>Quick Solution: How To Solve Magic Mouse Tracking Glitches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-configuring-automatic-login-on-your-pc/"><u>Step-by-Step Guide: Configuring Automatic Login on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-replacing-your-ipads-dead-battery/"><u>Step-by-Step Guide: Replacing Your iPad's Dead Battery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-turning-off-the-windows-11-live-tiles-feature/"><u>Step-by-Step Guide: Turning Off the Windows 11 Live Tiles Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-fixing-mscorwksdll-errors-in-windows-operating-systems/"><u>Step-by-Step Solution for Fixing mscorwks.dll Errors in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-fix-the-non-functional-touchpad-scroll-problem/"><u>Troubleshooting Windows 10: Fix the Non-Functional Touchpad Scroll Problem</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-assessment-unveiling-why-xbox-one-x-reigns-supreme-in-gaming-consoles/"><u>Ultimate Assessment: Unveiling Why Xbox One X Reigns Supreme in Gaming Consoles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/r-growth-strategy-dynamic-description-templates-for-youtube-success-for-2024/"><u>Viewer Growth Strategy Dynamic Description Templates for YouTube Success for 2024</u></a></li>
 </ul></div>
 

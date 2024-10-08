@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Wearable Showdown: Apple Watch Ultra Versus Series #8 – Determining The Ideal Purchase for You | ZDNET."
-date: 2024-09-28T17:06:11.908Z
-updated: 2024-10-02T16:02:08.615Z
+date: 2024-10-03T18:30:45.611Z
+updated: 2024-10-07T20:21:03.278Z
 tags:
   - apple
 categories:
@@ -44,28 +44,15 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Ultra if…
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. You're ready for a new Apple Watch design
@@ -79,10 +66,10 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You ride, hike or dive… a lot
@@ -92,13 +79,6 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -126,6 +106,13 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You're not ready to pay $799 for a watch
 
 The Apple Watch SE is the most affordable watch in Apple's lineup, with models [starting at $249](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-se&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). However, it lacks some of the key health features that the Series 8 and Ultra have -- such as ECG and blood oxygen level monitoring. 
@@ -135,6 +122,13 @@ The Series 8 [starts at $399](https://apple.sjv.io/c/159047/435031/7613?&sharedI
 For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), or for $429 you can pick up a [45mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Both of those prices are for an aluminum body and lack cellular connectivity. If you want to add cellular capabilities, you'll pay a $100 premium -- bringing the total to $499 and $529, respectively. 
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
 
@@ -184,24 +178,21 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-premium-free-fb-imagemotion-graphics-builder-for-2024/"><u>[New] Premium Free FB Image/Motion Graphics Builder for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-uploading-in-bulk-a-comprehensive-guide-to-multimedia-on-ig-for-2024/"><u>[Updated] Uploading in Bulk A Comprehensive Guide to Multimedia on IG for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-steps-to-prevent-thumbnail-absence-on-shorts-videos/"><u>2024 Approved Steps to Prevent Thumbnail Absence on Shorts Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-to-switch-off-sticky-keys-in-windows-os/"><u>A Comprehensive Tutorial to Switch Off Sticky Keys in Windows OS</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oneplus-12-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your OnePlus 12? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/browse-without-leaving-a-trace-in-depth-tutorial-for-incognito-mode-on-popular-browsers/"><u>Browse Without Leaving a Trace: In-Depth Tutorial for Incognito Mode on Popular Browsers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-tips-the-process-of-reversing-a-steam-game-purchase/"><u>Comprehensive Tips: The Process of Reversing A Steam Game Purchase</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-playability-eliminating-latency-issues-in-mass-effect-legendary-edition/"><u>Enhancing Playability: Eliminating Latency Issues in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/essential-english-top-100-words-to-watch-out-for/"><u>Essential English - Top 100 Words to Watch Out For</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722999375878-fix-discord-overlay-issues-simple-solutions-you-can-apply-today/"><u>Fix Discord Overlay Issues: Simple Solutions You Can Apply Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-repair-coredll-absent-from-system-files-errors/"><u>How to Address and Repair 'Core.dll' Absent From System Files Errors</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-m34-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy M34 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-how-to-manual-for-overcoming-a-web-sites-access-is-denied-hurdles/"><u>The Definitive How-To Manual for Overcoming a Web Site’s ‘Access Is Denied’ Hurdles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-inside-scoop-on-lgs-channel-strategies-critical-details-revealed/"><u>The Inside Scoop on LG's Channel Strategies: Critical Details Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-for-chromecast-update-procedures/"><u>The Ultimate Tutorial for Chromecast Update Procedures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/"><u>Top Savings on Apple Watches in April</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-focus-issues-solutions-when-your-iphone-camera-refuses-to-zoom/"><u>Troubleshooting Focus Issues: Solutions When Your iPhone Camera Refuses to Zoom</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ultimate-online-collaboration-conjurer-for-2024/"><u>Ultimate Online Collaboration Conjurer for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/whirling-installer-range-for-2024/"><u>Whirling Installer Range for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-interconnecting-platforms-sharing-tiktok-to-facebook/"><u>[Updated] In 2024, Interconnecting Platforms Sharing TikTok to Facebook</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoid-error-messages-effectively-resolving-mfc42dll-disappearance-problems/"><u>Avoid Error Messages: Effectively Resolving mfc42.dll Disappearance Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-computer-crashes-insights-into-the-notorious-blue-screen-of-death/"><u>Demystifying Computer Crashes: Insights Into the Notorious Blue Screen of Death</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-on-how-to-get-and-setup-new-apple-ios-version/"><u>Easy Tutorial on How To Get And Setup New Apple iOS Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-increase-disk-size-in-windows-carefully/"><u>How to Increase Disk Size in Windows Carefully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immerse-in-literature-without-spending-check-out-17-sites-with-free-book-downloads/"><u>Immerse in Literature Without Spending: Check Out 17 Sites with Free Book Downloads</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-8-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 8 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-f34-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy F34 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-your-budget-in-academia-tips-for-earning-a-tidal-educators-rebate/"><u>Maximizing Your Budget in Academia: Tips for Earning a Tidal Educator's Rebate</u></a></li>
+<li><a href="https://games-able.techidaily.com/pastport-mini-a-slice-of-nostalgic-playtime/"><u>PastPort Mini: A Slice of Nostalgic Playtime</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-presentation-with-personalized-typography-in-ae-projects-for-2024/"><u>Perfect Presentation with Personalized Typography in AE Projects for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-for-adding-music-to-your-instagram-posts/"><u>Step-by-Step Process for Adding Music to Your Instagram Posts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-essential-guide-to-posting-vimeo-on-instagram/"><u>The Essential Guide to Posting Vimeo on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-audio-issues-reset-procedures-for-samsung-soundbars-explained/"><u>Troubleshooting Audio Issues: Reset Procedures for Samsung Soundbars Explained</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
 

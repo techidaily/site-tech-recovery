@@ -1,7 +1,7 @@
 ---
 title: How Much Does Extreme Thinness Affect User Experience? An Inside Look at Apple's Lean iPads with a Remarkable 0.08-Inch Profile | Tech Analysis
-date: 2024-09-28T16:36:46.766Z
-updated: 2024-10-02T16:37:13.602Z
+date: 2024-10-06T22:30:27.961Z
+updated: 2024-10-07T22:56:00.519Z
 tags:
   - apple
 categories:
@@ -53,10 +53,16 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -70,13 +76,6 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -102,6 +101,19 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -113,10 +125,10 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -130,10 +142,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -170,16 +182,20 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-restoring-your-tiktok-profile-visibility/"><u>[New] In 2024, Restoring Your TikTok Profile Visibility</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-cut-the-chatter-capture-game-moments-easily/"><u>[Updated] Cut the Chatter Capture Game Moments Easily</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reactivating-your-iphoneipad-a-step-by-step-guide/"><u>Reactivating Your iPhone/iPad: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-s23-tactical-edition-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy S23 Tactical Edition Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/stay-incognito-how-to-stream-unnoticed-on-instagram/"><u>Stay Incognito How to Stream Unnoticed on Instagram</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ise-guide-to-optimizing-youtube-tagging-techniques-for-2024/"><u>Stepwise Guide to Optimizing YouTube Tagging Techniques for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-smsemail-combos-for-iphone-users-discover-top-picks-of-2024/"><u>The Best SMS/Email Combos for iPhone Users: Discover Top Picks of 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-upcoming-marvel-of-tech-insights-into-samsung-galaxy-z-fold-6-cost-launch-date-and-hardware/"><u>The Upcoming Marvel of Tech - Insights Into Samsung Galaxy Z Fold 6 Cost, Launch Date & Hardware</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722887138052-walkthrough-to-securing-lower-cost-on-microsoft-products-through-student-savings/"><u>Walkthrough to Securing Lower Cost on Microsoft Products Through Student Savings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-steps-should-you-take-if-your-wii-doesnt-read-game-discs/"><u>What Steps Should You Take if Your Wii Doesn't Read Game Discs?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-web-supplement-fb-stories-downloader-for-2024/"><u>[New] Web Supplement FB Stories Downloader for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-backdrop-bassline-tunes-to-enhance-media/"><u>[Updated] 2024 Approved Backdrop Bassline Tunes to Enhance Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-role-of-non-verbal-communication-in-interviewing-for-2024/"><u>[Updated] The Role of Non-Verbal Communication in Interviewing for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-12-pro-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 12 Pro to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-perfect-film-order-for-fans-of-taylor-swift/"><u>Discover the Perfect Film Order for Fans of Taylor Swift</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-m34-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy M34 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-solve-avidemux-no-audio-problem-updated-guide/"><u>In 2024, Solve Avidemux No Audio Problem Updated Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-2025-apple-developer-event-major-releases-and-updates-explored/"><u>Inside the 2025 Apple Developer Event: Major Releases & Updates Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-hunt-the-best-10-websites-to-assist-in-your-apartment-quest/"><u>Mastering the Hunt: The Best 10 Websites to Assist in Your Apartment Quest</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps5-versus-ps5-slim-the-ultimate-showdown-of-sony-consoles/"><u>PS5 Versus PS5 Slim - The Ultimate Showdown of Sony Consoles!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-remove-cannot-be-opened-unverified-developer-glitches-in-macos-systems/"><u>Steps to Remove 'Cannot Be Opened, Unverified Developer' Glitches in macOS Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-photographers-manual-how-to-crop-images-seamlessly-online-for-2024/"><u>The Photographer's Manual How To Crop Images Seamlessly Online for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-rectifying-steamdll-disappearance-issues/"><u>The Ultimate Guide to Rectifying Steam.dll Disappearance Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-essential-factors-for-choosing-the-right-smartwatch/"><u>Top 5 Essential Factors for Choosing the Right Smartwatch</u></a></li>
 </ul></div>
 

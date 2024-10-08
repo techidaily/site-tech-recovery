@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reviews Mobile Devices: A Peek Into Our Rigorous Testing Methodology"
-date: 2024-09-29T16:49:49.855Z
-updated: 2024-10-02T16:19:22.526Z
+date: 2024-10-06T19:40:10.483Z
+updated: 2024-10-07T22:20:38.319Z
 tags:
   - apple
 categories:
@@ -58,10 +58,10 @@ If your iPhone is one of these and is not running the latest version of iOS 15, 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### read this
@@ -75,10 +75,10 @@ I'd definitely check any banking and financial apps for any special process invo
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3\. Protect your data
@@ -107,13 +107,6 @@ Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  5\. Wiping the old iPhone
 
 OK, you've done that, your data is safe, you've got your new iPhone, and that's all set up and working fine. 
@@ -141,6 +134,13 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
@@ -149,16 +149,10 @@ Remember, once you start this process, there's no going back!
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
@@ -201,21 +195,14 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-iphone-7-proven-strategies-for-screen-capture/"><u>[New] In 2024, IPhone 7 Proven Strategies for Screen Capture</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elevate-your-facebook-profile-with-these-11-superior-tools/"><u>[Updated] In 2024, Elevate Your Facebook Profile with These 11 Superior Tools</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1-how-to-convert-any-youtube-video-into-flv-format-on-windows-without-restrictions/"><u>1. How to Convert Any YouTube Video Into FLV Format on Windows Without Restrictions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-the-0x80e70570-issue-in-your-device/"><u>Diagnosing & Repairing the '0X80e70570' Issue in Your Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-infrastructure-spotlight-on-superior-network-servers-and-server-racks-for-2e-top-picks/"><u>Elevate Your Infrastructure: Spotlight on Superior Network Servers and Server Racks for 2E - Top Picks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-nokia-130-music-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nokia 130 Music Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/method-to-resuscitate-windows-lost-scanning-capability/"><u>Method to Resuscitate Windows' Lost Scanning Capability</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-coredll-absent-mistake-on-your-computer/"><u>Step-by-Step Fix for Core.DLL Absent Mistake on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tech-advancements-vs-practicality-how-often-is-it-really-necessary-to-upgrade-your-phone/"><u>Tech Advancements Vs. Practicality: How Often Is It Really Necessary to Upgrade Your Phone?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-how-to-for-placing-several-waypoints-in-google-maps/"><u>The Complete How-To for Placing Several Waypoints in Google Maps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-running-dual-tasks-in-split-screen-mode-on-macbook-air-and-pro/"><u>The Ultimate Guide to Running Dual Tasks in Split Screen Mode on MacBook Air & Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-windows-10-when-your-co-processor-driver-goes-missing-fixed/"><u>Troubleshooting Steps for Windows 10 When Your Co-Processor Driver Goes Missing (Fixed)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-creating-flawless-dvd-copies-using-winx-dvd-copy-software/"><u>Ultimate Guide to Creating Flawless DVD Copies Using WinX DVD Copy Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-picking-your-ideal-motherboard-key-7-aspects/"><u>Ultimate Guide to Picking Your Ideal Motherboard - Key 7 Aspects</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-fcp-voice-over-essentials-mastering-the-basics/"><u>Updated 2024 Approved FCP Voice Over Essentials Mastering the Basics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-windows-video-calls-the-top-8-list/"><u>[Updated] 2024 Approved Best Windows Video Calls The Top 8 List</u></a></li>
+<li><a href="https://win-lab.techidaily.com/bypassing-banners-a-guide-to-hiding-promotions-in-windows-11s-enhanced-taskbar-feature-zdnet-insights/"><u>Bypassing Banners: A Guide to Hiding Promotions in Windows 11'S Enhanced Taskbar Feature | ZDNet Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Xiaomi support MKV video files?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-a-blue-screen-of-death-bsod/"><u>How to Fix a Blue Screen of Death (BSOD)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-azure-speech-recognition-efficiently/"><u>In 2024, Navigating Azure Speech Recognition Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-fix-tips-dealing-with-ui-800-3-user-interface-issue/"><u>Netflix Fix Tips: Dealing with UI-800-3 User Interface Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-frame-rate-issues-in-rainbow-six-extraction-a-comprehensive-guide/"><u>Solving Frame Rate Issues in Rainbow Six Extraction: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-enabling-gmails-double-security-layer/"><u>Step-by-Step Guide: Enabling Gmail's Double Security Layer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-5-iphone-gps-tools-you-should-be-using/"><u>The Best 5 iPhone GPS Tools You Should Be Using</u></a></li>
 </ul></div>
 

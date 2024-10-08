@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Various Network Configurations on macOS: Tips and Tricks for Enhanced Connectivity"
-date: 2024-09-27T16:55:34.450Z
-updated: 2024-10-02T16:38:45.132Z
+date: 2024-09-30T18:55:22.909Z
+updated: 2024-10-07T18:37:13.985Z
 tags:
   - apple
 categories:
@@ -54,6 +54,13 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
@@ -74,6 +81,13 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -83,13 +97,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -106,6 +113,13 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -133,19 +147,6 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -182,13 +183,6 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured
 
@@ -230,10 +224,16 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -241,13 +241,6 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -262,6 +255,13 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -292,20 +292,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/claiming-the-throne-in-electronic-sports-battles-the-in-depth-expert-evaluation-of-fifa-19/"><u>Claiming the Throne in Electronic Sports Battles: The In-Depth Expert Evaluation of FIFA 19</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g14-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Moto G14 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-blade-a73-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock ZTE Blade A73 5G Phone without Google Account?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterful-selection-8-top-free-3d-video-players-windows-and-mac-for-2024/"><u>Masterful Selection 8 Top Free 3D Video Players Windows & Mac for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-ultimate-fix-no-more-freezing-issues-on-pc/"><u>Pathfinder: Wrath of the Righteous Ultimate Fix - No More Freezing Issues on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-wi-fi-network-configuration-bridging-prompt-gaps/"><u>Perfecting Wi-Fi Network Configuration: Bridging Prompt Gaps</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-bluestacks-freezing-issues-quickly-with-these-5-simple-fixes/"><u>Resolve Bluestacks Freezing Issues Quickly with These 5 Simple Fixes</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revive-your-memories-with-top-iphone-picture-rescue-apps-for-deleting-photos/"><u>Revive Your Memories with Top iPhone Picture Rescue Apps for Deleting Photos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/skyrocket-minecraft-frames-per-second-expert-strategies-for-high-end-pc-optimization-updated/"><u>Skyrocket Minecraft Frames per Second: Expert Strategies for High-End PC Optimization - Updated</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-turning-off-microsofts-cortana-on-your-windows-10-device/"><u>Step-by-Step Guide: Turning Off Microsoft's Cortana on Your Windows 10 Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-how-to-pair-laptop-and-projector/"><u>Step-by-Step Tutorial on How to Pair Laptop and Projector</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-pdfs-with-ease-seamlessly-turn-them-into-excel-spreadsheets-now/"><u>Transform Your PDFs with Ease - Seamlessly Turn Them Into Excel Spreadsheets Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforming-your-iphone-into-a-portable-wi-fi-access-point-a-step-by-step-guide/"><u>Transforming Your iPhone Into a Portable Wi-Fi Access Point: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-fixing-non-functional-usb-ports-on-your-laptop/"><u>Troubleshooting Guide: Fixing Non-Functional USB Ports on Your Laptop</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-hp-deskjet-printing-errors-for-windows-11-users/"><u>Troubleshooting HP Deskjet Printing Errors for Windows 11 Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-frontline-designers-in-the-vr-landscape/"><u>[Updated] 2024 Approved Frontline Designers in the VR Landscape</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-virtual-horizons-ranking-top-vr-gaming-titles-for-2024/"><u>[Updated] Virtual Horizons Ranking Top VR Gaming Titles for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715860495350-2024-approved-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>2024 Approved Capturing Screen Content via Built-In Recorders in the Mate and P Series.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-techniques-for-text-overlays-in-igtv-content/"><u>2024 Approved Techniques for Text Overlays in IGTV Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-disconnecting-gadgets-from-the-google-home-interface/"><u>Comprehensive Guide: Disconnecting Gadgets From the Google Home Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-problems-when-playing-grand-theft-auto-5-online-mode/"><u>How to Fix Problems When Playing Grand Theft Auto 5 Online Mode</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-15-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/professional-workstations-elevated-with-amd-pro-8000-processor-family-and-integrated-npu-technology/"><u>Professional Workstations Elevated with AMD PRO 8000 Processor Family and Integrated NPU Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-cannot-be-installed-error-80240020-step-by-step-solutions/"><u>Resolving Windows 10 Cannot Be Installed: Error 80240020 – Step-by-Step Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-set-up-stable-diffusion-for-desktop-use-in-windows-through-gui/"><u>Step-by-Step Tutorial: Set Up Stable Diffusion for Desktop Use in Windows Through GUI</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-publicize-your-conversations-with-bard-an-ultimate-guide/"><u>Steps to Publicize Your Conversations with Bard: An Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/surprising-revelation-the-chevrolet-bolt-electric-vehicle-lives-on/"><u>Surprising Revelation: The Chevrolet Bolt Electric Vehicle Lives On</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/testing-the-bounds-of-creativity-my-experience-with-googles-latest-ai-powered-music-generation/"><u>Testing the Bounds of Creativity: My Experience with Google's Latest AI-Powered Music Generation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ssentials-of-stylistic-self-discovery-high-impact-for-2024/"><u>The Essentials of Stylistic Self-Discovery [High Impact] for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-evolution-continues-exploring-key-enhancements-in-gpt-4-over-gpt-35/"><u>The Evolution Continues: Exploring Key Enhancements in GPT-4 Over GPT-3.5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-of-virtual-reality-unleashed-qualcomms-snapdragon-xr2plus-drives-new-era-for-google-and-samsung-vr-devices/"><u>The Future of Virtual Reality Unleashed: Qualcomm's Snapdragon XR2+ Drives New Era for Google and Samsung VR Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/this-title-targets-users-looking-for-guidance-on-accessing-wwdc-content-as-well-as-highlights-what-insights-they-might-gain-from-attending-or-watching/"><u>This Title Targets Users Looking for Guidance on Accessing WWDC Content, as Well as Highlights What Insights They Might Gain From Attending or Watching.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-16-essential-nasa-technologies-integrated-into-daily-life/"><u>Top 16 Essential NASA Technologies Integrated Into Daily Life</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/which-smartphone-ecosystem-wins-comparing-iphones-to-android-devices/"><u>Which Smartphone Ecosystem Wins? Comparing iPhones to Android Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Saving iPhone Data via iCloud and Mac - Tips From ZDNet"
-date: 2024-09-28T17:00:19.885Z
-updated: 2024-10-02T16:02:43.877Z
+date: 2024-10-01T18:49:39.840Z
+updated: 2024-10-07T21:48:22.811Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ Image: Maria Diaz / ZDNet
 
 This option gives you access to your Apple ID, iCloud, and Purchases settings. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Tap on iCloud
 
 Image: Maria Diaz / ZDNet
@@ -38,13 +45,6 @@ Image: Maria Diaz / ZDNet
 
 Image: Maria Diaz / ZDNet
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 4: Enable iCloud Backup and select Back up Now
 
 Image: Maria Diaz / ZDNet
@@ -52,13 +52,6 @@ Image: Maria Diaz / ZDNet
 Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, select that, and your phone should start backing up to iCloud.
 
 5GB is not enough for a lot of us, especially if you've never backed up your iPhone. But you can choose what gets backed up to reduce the amount of data to upload to iCloud or buy more storage. If you're still over the limit and don't want to pay for a membership, then you can back up to a computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Here's how to back up your iPhone on a Mac
 
@@ -71,6 +64,13 @@ Image: Maria Diaz / ZDNet
 Image: Maria Diaz / ZDNet
 
 Gone are the days when iTunes was the go-to to get data out of your iPhone. Open **Finder** to view your iPhone in **Locations,** and there will be a snapshot of the current storage information, current iOS and any updates, and backup options.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Select Back up to this Mac and click on Back Up Now
 
@@ -92,26 +92,26 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 * iCloud+: 2TB of storage $9.99
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it better to back up iPhone on a computer or iCloud?
 
 Both options have their pros and cons, but I personally prefer a cloud service backup. I like having my photos and videos easily accessible through an app on my phone without occupying storage space. This beats having to get into a computer to find an old photo every time I want one. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Do I need to back up iPhone apps?
 
 Your purchased apps don't need to be backed up; that information is associated with your Apple ID, so they can be easily downloaded when you want them again. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is there another cloud service aside from iCloud?
 
@@ -149,15 +149,17 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-elite-workstations-for-peak-productivity/"><u>[Updated] 2024 Approved Elite Workstations for Peak Productivity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-game-on-with-mastery-the-2023-review-of-kinemaster-for-android/"><u>2024 Approved Game On with Mastery The 2023 Review of KineMaster for Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-you-struggling-with-blizzard-battlenet-understanding-the-difference-between-server-downtime-and-personal-connection-issues/"><u>Are You Struggling with Blizzard Battle.net? Understanding the Difference Between Server Downtime and Personal Connection Issues</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/din-fotobevis-tipsa-ner-pa-3-unika-satt-att-overfora-videokamernas-hintergrund/"><u>Din Fotobevis: Tipsa Ner På 3 Unika Sätt Att Överföra Videokamernas Hintergrund</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-free-enhancement-tool-for-pics-onlineapp/"><u>In 2024, Prime Free Enhancement Tool for Pics Online/App</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-artisans-guide-to-animation-enchantment/"><u>In 2024, The Artisan's Guide to Animation Enchantment</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/m4-mac-mini-preview-what-to-expect-in-price-release-dates-and-advanced-tech-details/"><u>M4 Mac Mini Preview: What to Expect in Price, Release Dates & Advanced Tech Details</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-challenges-ev-performance-in-extreme-thermal-environments/"><u>Navigating the Challenges: EV Performance in Extreme Thermal Environments</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-imessage-for-android-users-a-comprehensive-guide/"><u>Unlock iMessage for Android Users: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-moto-g13-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Motorola Moto G13 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-navigating-the-social-maze-tweets-plus-tumble-videos/"><u>[Updated] In 2024, Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-close-look-at-ai-dialogues-nine-major-issues-in-gpt/"><u>A Close Look at AI Dialogues: Nine Major Issues in GPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-closer-look-at-nhl-2019s-compelling-internet-game-dynamics/"><u>A Closer Look at NHL 2019'S Compelling Internet Game Dynamics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-of-360-degree-media/"><u>Behind the Scenes of 360-Degree Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevate-your-profile-game-strategies-for-fb-success-for-2024/"><u>Elevate Your Profile Game Strategies for FB Success for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expand-your-circle-of-acquaintances-5-innovative-apps-to-make-connections/"><u>Expand Your Circle of Acquaintances: 5 Innovative Apps to Make Connections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-accessing-contents-of-rar-compressed-folders-using-macos/"><u>Guide: Accessing Contents of .rar Compressed Folders Using macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enhance-account-safety-on-twitch-mastering-2fa-setup-and-use/"><u>How to Enhance Account Safety on Twitch: Mastering 2FA Setup and Use</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-12-mini-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 12 mini Waze | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-7-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 7 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/official-guide-how-to-bridge-your-smartphone-with-oculus-quest-2/"><u>Official Guide: How to Bridge Your Smartphone with Oculus Quest 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retracing-the-steps-of-googles-messaging-platform-google-hangouts-explained/"><u>Retracing the Steps of Google's Messaging Platform: Google Hangouts Explained</u></a></li>
 </ul></div>
 

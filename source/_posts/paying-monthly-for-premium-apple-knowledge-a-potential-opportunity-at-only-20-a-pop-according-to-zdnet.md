@@ -1,7 +1,7 @@
 ---
 title: "Paying Monthly for Premium Apple Knowledge: A Potential Opportunity at Only $20 a Pop, According to ZDNet."
-date: 2024-09-29T16:50:08.498Z
-updated: 2024-10-02T16:13:59.315Z
+date: 2024-10-01T16:46:51.213Z
+updated: 2024-10-07T17:32:33.201Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -62,13 +62,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -85,13 +78,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -104,6 +90,19 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does systemwide AI text generation work?
 
 Apple
@@ -115,6 +114,13 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -156,6 +162,13 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -170,13 +183,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,24 +224,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-conquering-camera-angst-the-ultimate-list-of-video-blogging-phobias/"><u>[New] 2024 Approved Conquering Camera Angst The Ultimate List of Video Blogging Phobias</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-photography-revolution-toolwizs-2023-app-insights/"><u>[New] Photography Revolution Toolwiz's 2023 App Insights</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-beginners-guide-to-elevating-auditory-experiences-on-youtube/"><u>[Updated] In 2024, A Beginner's Guide to Elevating Auditory Experiences on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-to-kinemasters-mastery-plus-10-superior-editing-counterparts/"><u>[Updated] Step-by-Step Guide to KineMaster's Mastery + 10 Superior Editing Counterparts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/accessing-apple-entertainment-adding-the-apple-tv-application-to-fire-stick/"><u>Accessing Apple Entertainment: Adding the Apple TV Application to Fire Stick</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avoiding-hassle-simple-steps-to-take-a-device-offline-on-google-home-setup/"><u>Avoiding Hassle: Simple Steps to Take a Device Offline on Google Home Setup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-these-10-popular-netflix-substitutes-for-free-viewing/"><u>Discover These 10 Popular Netflix Substitutes for Free Viewing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/harmonizing-your-hits-the-definitive-guide-to-merging-spotify-playlists-with-precision/"><u>Harmonizing Your Hits: The Definitive Guide to Merging Spotify Playlists with Precision</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-foremost-biodegradable-equipment-for-video-filming/"><u>In 2024, Foremost Biodegradable Equipment for Video Filming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-your-zoom-experience-compromised-by-user-error-lets-find-out/"><u>Is Your Zoom Experience Compromised by User Error? Let's Find Out!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-recording-made-easy-3-top-options-for-video-game-enthusiasts/"><u>New In 2024, Recording Made Easy 3 Top Options for Video Game Enthusiasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimizing-your-video-success-the-ultimate-guide-to-perfect-youtube-thumbnail-sizes/"><u>Optimizing Your Video Success: The Ultimate Guide to Perfect YouTube Thumbnail Sizes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/podcasts-intros-hook-up-listeners-with-podcast-intro-script/"><u>Podcasts Intros Hook Up Listeners With Podcast Intro Script</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/reading-retreat/"><u>Reading Retreat</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-directions-for-enabledisable-on-screen-typing-interface-in-microsofts-latest-os/"><u>Step-by-Step Directions for Enable/Disable On-Screen Typing Interface in Microsoft's Latest OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-installing-apple-tv-app-on-amazon-fire-stick/"><u>Step-by-Step Instructions: Installing Apple TV App on Amazon Fire Stick</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-content-creators-ally-exploring-9-benefits-of-integrating-chatgpt-into-your-workflow/"><u>The Content Creator's Ally: Exploring 9 Benefits of Integrating ChatGPT Into Your Workflow</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-insiders-blueprint-for-snagging-cheap-dell-computers-as-a-student/"><u>The Insider's Blueprint for Snagging Cheap Dell Computers as a Student</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-selection-of-enjoyable-online-games-tailored-for-children/"><u>The Ultimate Selection of Enjoyable Online Games Tailored for Children</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-maximizing-your-creations-uploading-imovie-videos-to-youtube/"><u>2024 Approved Maximizing Your Creations Uploading IMovie Videos to YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726227385899-rmvbwmvmovavi/"><u>無料で簡単！オンラインのRMVBとWMVファイルを変換：Movaviアプリ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprendere-il-bitrate-video-e-le-sue-implicazioni-tecniche-per-gli-utenti-del-2024-guida-dettagliata/"><u>Comprendere Il Bitrate Video E Le Sue Implicazioni Tecniche per Gli Utenti Del 2024 - Guida Dettagliata</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-libre-de-fichiers-aac-a-avi-en-ligne-avec-moovavi-suivez-le-guide-facile/"><u>Conversion Libre De Fichiers AAC À AVI en Ligne Avec Moovavi – Suivez Le Guide Facile</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exceptional-home-use-and-stylish-appeal-in-the-ultimate-guide-to-the-mohu-blade-tv-antenna-review/"><u>Exceptional Home Use & Stylish Appeal in the Ultimate Guide to the Mohu Blade TV Antenna Review</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-infinix-smart-7-hd-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Infinix Smart 7 HD Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mkv-to-flac-conversion-quick-guide-to-free-online-tools-by-movavi/"><u>MKV to FLAC Conversion: Quick Guide to Free Online Tools by Movavi</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-link-functional-print-device/"><u>Quick Link: Functional Print Device</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revitalize-windows-98me-print-job-performance/"><u>Revitalize Windows 98/ME Print Job Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/section-4c-qandas-on-neuroplasticity/"><u>Section 4C: Q&As on Neuroplasticity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/securing-personal-assets-guarding-your-vehicle-electronics-locks-and-plastics-against-wireless-vulnerabilities/"><u>Securing Personal Assets: Guarding Your Vehicle, Electronics, Locks, and Plastics Against Wireless Vulnerabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-video-tutorial-creation-handbook-with-movavi/"><u>Ultimate Video Tutorial Creation Handbook with Movavi</u></a></li>
 </ul></div>
 

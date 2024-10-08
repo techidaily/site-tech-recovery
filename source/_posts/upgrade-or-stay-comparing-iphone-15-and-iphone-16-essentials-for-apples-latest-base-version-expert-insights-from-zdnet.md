@@ -1,7 +1,7 @@
 ---
 title: Upgrade or Stay? Comparing iPhone 15 and iPhone 16 Essentials for Apple's Latest Base Version | Expert Insights From ZDNET
-date: 2024-09-29T16:05:46.408Z
-updated: 2024-10-02T16:19:50.200Z
+date: 2024-10-02T16:31:15.984Z
+updated: 2024-10-07T19:03:03.842Z
 tags:
   - apple
 categories:
@@ -45,6 +45,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
@@ -56,13 +63,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -91,10 +91,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -102,10 +108,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -116,6 +122,13 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -123,13 +136,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -165,24 +171,19 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-unveiling-six-techniques-to-screen-record-your-streamed-movies-on-macos-for-2024/"><u>[New] Unveiling Six Techniques to Screen Record Your Streamed Movies on MacOS for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2-steps-to-access-the-windows-11-startup-folder/"><u>2 Steps to Access the Windows 11 Startup Folder</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-shorts-dividing-profits-among-making-crew/"><u>2024 Approved YouTube Shorts Dividing Profits Among Making Crew</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-enabling-and-using-remote-desktop-in-windows-11/"><u>Complete Tutorial: Enabling and Using Remote Desktop in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diablo-iv-quest-for-optimal-fps-and-loot-drop-rates-pc-user-guides-and-fixes/"><u>Diablo IV Quest for Optimal FPS & Loot Drop Rates - PC User Guides & Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-set-up-adb-driver-on-windows/"><u>Easy Steps to Set Up ADB Driver on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-way-to-find-and-manage-your-startup-items-in-windows-11-step-by-step-instructions/"><u>Easy Way to Find & Manage Your Startup Items in Windows 11: Step-by-Step Instructions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-check-cpu-temp-on-windows-11/"><u>How to Check CPU Temp on Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-a18-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo A18 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/is-it-time-to-upgrade-a-detailed-comparison-of-the-galaxy-s24-ultra-and-s23-ultra/"><u>Is It Time to Upgrade? A Detailed Comparison of the Galaxy S24 Ultra and S23 Ultra</u></a></li>
-<li><a href="https://video-capture.techidaily.com/leading-video-call-applications-for-conference-success-for-2024/"><u>Leading Video Call Applications for Conference Success for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-launch-errors-for-baldurs-gate-iii-solutions-and-advice/"><u>Overcoming Launch Errors for Baldur's Gate III - Solutions and Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailor-your-tech-timetable-optimizing-windows-11s-update-processes/"><u>Tailor Your Tech Timetable: Optimizing Windows 11'S Update Processes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-list-of-9-best-online-mic-recorder-hacks-for-2024/"><u>The Ultimate List of 9 Best Online Mic Recorder Hacks for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-accelerate-your-windows-11-performance-to-peak-efficiency/"><u>Ultimate Guide: Accelerate Your Windows 11 Performance to Peak Efficiency</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unifying-device-configurations-a-guide-to-synchronizing-windows-aster-settings/"><u>Unifying Device Configurations: A Guide to Synchronizing Windows Aster Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-secrets-of-usb-selective-suspend-for-optimal-performance/"><u>Unraveling the Secrets of USB Selective Suspend for Optimal Performance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-auto-translate-youtube-videos-into-different-languages/"><u>Updated Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-full-insight-into-vsco-image-editing/"><u>[New] 2024 Approved Full Insight Into VSCO Image Editing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-android-collage-platforms/"><u>[New] Explore the Best Android Collage Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-people-to-subscribe-by-asking-the-right-way/"><u>[New] In 2024, How to Get People to Subscribe by Asking the Right Way</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-singing-fun-in-america-for-less-than-150/"><u>Budget-Friendly Singing Fun in America for Less than $150</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-free-cad-programs-for-designers/"><u>Essential Free CAD Programs for Designers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-handling-the-msodll-error-on-windows-systems/"><u>Expert Tips for Handling the mso.dll Error on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fall-guys-performance-optimization-overcoming-stutters-and-crashes-on-personal-computers/"><u>Fall Guys Performance Optimization: Overcoming Stutters and Crashes on Personal Computers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-a24-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy A24 Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-advrcntr2dll-file-not-found-in-nero-comprehensive-guide/"><u>Resolving the Advrcntr2.dll File Not Found in Nero - Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-missing-mfc42ddll-a-comprehensive-guide/"><u>Solving 'Missing mfc42d.dll': A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-the-windows-recovery-partition/"><u>Step-by-Step Guide: Removing the Windows Recovery Partition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-basics-of-net-neutrality-simplified-for-everyone/"><u>The Basics of Net Neutrality Simplified for Everyone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-m14-4g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy M14 4G Device Top 5 Picks to Remove Android Locks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Estrategias Eficaces Para Reducir La Carga De Código en Tu Streaming Con OBS
-date: 2024-09-13T21:16:37.806Z
-updated: 2024-09-20T17:49:36.296Z
+date: 2024-10-04T18:29:15.423Z
+updated: 2024-10-07T19:22:42.496Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/008f2e3ae8f25fe31431bd0f9eb00771fb7464648a04051f7a427b7d89dc9bcc.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -221,13 +228,6 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -273,16 +273,16 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -291,6 +291,19 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -321,10 +334,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
@@ -345,7 +358,21 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -382,13 +409,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -483,6 +503,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -495,6 +522,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -538,19 +572,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -584,5 +605,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-free-open-source-video-conferencing-solutions-the-ultimate-list-for-corporates-and-schools-for-2024/"><u>[Updated] Free, Open Source Video Conferencing Solutions The Ultimate List for Corporates & Schools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-a-detailed-look-at-vsco-features/"><u>2024 Approved Unleash Creativity A Detailed Look at VSCO Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-freeing-up-space-by-deleting-apps-on-samsung-smarttv/"><u>Expert Advice: Freeing Up Space by Deleting Apps on Samsung SmartTV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/high-definition-hitachi-4k-uhd-televisions-featuring-integrated-roku-smart-functionality/"><u>High-Definition Hitachi 4K UHD Televisions Featuring Integrated Roku Smart Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-transform-blu-ray-movie-soundtracks-into-mp3s-for-perfect-playlist-additions/"><u>How to Transform Blu-Ray Movie Soundtracks Into MP3s for Perfect Playlist Additions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/memo-menagerie-the-ultimate-list-of-meme-generators/"><u>Memo Menagerie The Ultimate List of Meme Generators</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-cropping-in-final-cut-pro-x-a-step-by-step-guide/"><u>New In 2024, Cropping in Final Cut Pro X A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-lava-blaze-2-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Blaze 2 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ins-and-outs-of-navigating-your-mobile-connection-on-the-go-with-t-mobiles-policy/"><u>The Ins and Outs of Navigating Your Mobile Connection on the Go with T-Mobile's Policy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-key-factors-to-evaluate-when-shopping-for-dash-cams/"><u>The Ultimate Checklist: Key Factors to Evaluate When Shopping for Dash Cams</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/trouble-with-dvds-in-windows-11-discover-the-easy-no-cost-ways-to-get-them-working-again/"><u>Trouble with DVDs in Windows 11? Discover the Easy, No-Cost Ways to Get Them Working Again!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-concept-what-exactly-is-involved-in-tagging-an-item-or-person/"><u>Unraveling the Concept: What Exactly Is Involved in Tagging an Item or Person?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-you-need-to-know-about-the-upcoming-samsung-galaxy-watch-7-price-points-availability-dates-and-key-features/"><u>What You Need to Know About the Upcoming Samsung Galaxy Watch 7 - Price Points, Availability Dates & Key Features</u></a></li>
+</ul></div>
 

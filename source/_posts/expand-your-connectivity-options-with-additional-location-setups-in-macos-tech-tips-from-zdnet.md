@@ -1,7 +1,7 @@
 ---
 title: Expand Your Connectivity Options with Additional Location Setups in macOS | Tech Tips From ZDNet
-date: 2024-09-26T16:37:22.772Z
-updated: 2024-10-02T16:41:36.203Z
+date: 2024-10-03T21:08:36.008Z
+updated: 2024-10-07T23:08:13.859Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ You can also turn on Airplane Mode directly from the Settings panel. Open Settin
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Travel Mode
 
 If you're traveling with your Vision Pro device, Travel Mode is where things start to get interesting. This mode's purpose is to stabilize the visuals in the device by turning off some of the tracking sensors. That way, external movement doesn't -- or at least, shouldn't -- disturb your screen. 
@@ -97,16 +90,22 @@ As mentioned above, Travel Mode and Airplane Mode are independent settings. That
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Planes, trains, automobiles - and boats
 
 While I have no intention of taking my Vision Pro out and about, I have had a chance to review the experiences shared by others online. Here are some thoughts for each of the vehicle types you're likely to be traveling in -- _as a passenger_. 
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Airplanes
 
@@ -118,6 +117,13 @@ You'll need to account for where the battery goes, where your [travel case](http
 
 That said, as long as you have enough battery power (or [spare batteries](https://www.apple.com/shop/product/MW283LL/A/apple-vision-pro-battery)), your experience on a plane should be fairly straightforward as this was a use case Apple clearly designed for. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Trains
 
 ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/) by train in the Seattle area. He, too, found the cramped quarters a bit of a challenge, because moving your arms is a bit tough when there's a good chance you'll whack the person sitting in the seat next to you. 
@@ -125,13 +131,6 @@ ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdn
 **Also: [I used the Apple Vision Pro for my 8-hour work day, and it left me wanting more](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/)**
 
 He also found that the lenses tended to fog up. While not necessarily a deal-killer, lens issues can be a serious problem when using the device, especially in a humid environment. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Automobiles
 
@@ -144,10 +143,10 @@ Highway travel, particularly on long stretches of the national highway system in
 Travel mode will certainly help, but expect it to blink in and out depending on what's going on outside the vehicle. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Shipboard travel
@@ -163,6 +162,13 @@ I've been on ships in rough seas, and here's the thing: You don't want to be wat
 I've also lived through devastating earthquakes. The [Loma Prieta earthquake](https://en.wikipedia.org/wiki/1989%5FLoma%5FPrieta%5Fearthquake) had a magnitude of 6.9, lasted approximately 15 seconds, and destroyed much of the San Francisco area. Sailing on rough seas is like being in a quake as large or larger than the Loma Prieta quake, but doing it for three, six, 12, or even 24 _hours_. 
 
 If you're sailing and the vessel is rolling or heaving, give up on the entertainment, and do your best not to hurl your lunch. In fact, try not to eat any lunch. Just hang in there until it's over. There will be time to watch _Avatar: The Way of Water_ in 3D another day, when the seas are calm and so is your stomach lining. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Situational awareness
 
@@ -219,22 +225,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unpacking-video-editing-excellence-is-inshot-at-the-top/"><u>[New] Unpacking Video Editing Excellence Is InShot at the Top?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-decelerating-action-the-ultimate-guide-to-ig-reels-slow-motion-for-2024/"><u>[Updated] Decelerating Action The Ultimate Guide to IG Reels’ Slow Motion for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-efficient-setup-ps4-streaming-and-recording-via-obs/"><u>2024 Approved Efficient Setup PS4 Streaming and Recording via OBS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choosing-your-ideal-graphic-design-program-top-17-software-solutions-revealed/"><u>Choosing Your Ideal Graphic Design Program: Top 17 Software Solutions Revealed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cookiebot-enabled-enhance-your-sites-user-experience-with-personalized-marketing/"><u>Cookiebot-Enabled: Enhance Your Site's User Experience with Personalized Marketing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-peasy-free-sms-apps-for-iphone-and-ipod-users-discover-them-now/"><u>Easy Peasy Free SMS Apps for iPhone & iPod Users: Discover Them Now</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-11-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 11 Pro Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-movie-entertainment-on-crackle-start-your-premium-free-viewing-experience/"><u>Free Movie Entertainment on Crackle – Start Your Premium-Free Viewing Experience!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fugetek-ft-568-test-drive-comprehensive-expert-analysis-of-a-premium-quality-selfie-stick/"><u>Fugetek FT-568 Test Drive: Comprehensive Expert Analysis of a Premium Quality Selfie Stick</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-connecting-oculus-quest-2-headset-for-android-and-ios-smartphones/"><u>Guide to Connecting Oculus Quest 2 Headset for Android and iOS Smartphones</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo Find N3 Flip</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-application-visibility-restoration-how-to-display-all-your-apps/"><u>IPhone Application Visibility Restoration: How to Display All Your Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/masterminds-in-making-words-comparing-notion-and-gpt-3/"><u>Masterminds in Making Words: Comparing Notion and GPT-3</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-smart-televisions-a-guide-to-making-an-informed-decision-with-these-7-tips/"><u>Navigating the World of Smart Televisions: A Guide to Making an Informed Decision with These 7 Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamline-software-maintenance-a-selection-of-top-11-gratis-program-update-tools/"><u>Streamline Software Maintenance: A Selection of Top 11 Gratis Program Update Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-of-amazons-latest-innovation-echo-show-10-gen-3-your-companion-that-follows-you-around/"><u>The Ultimate Review of Amazon's Latest Innovation - Echo Show 10, Gen 3 - Your Companion That Follows You Around</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-step-by-step-process-to-flush-browser-and-system-cache-in-windows-10/"><u>Ultimate Guide: Step-by-Step Process to Flush Browser and System Cache in Windows 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-selfie-to-world-stage-mastering-the-art-of-instagram-captions/"><u>[New] 2024 Approved Selfie to World Stage Mastering the Art of Instagram Captions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-virtual-enterprise-integrating-vr-tech-in-commerce/"><u>[New] 2024 Approved Virtual Enterprise Integrating VR Tech in Commerce</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-digital-visuals-8-creative-color-grading-ideas/"><u>[New] Digital Visuals 8 Creative Color Grading Ideas</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-video-shooting-equipment-list-what-you-need-to-start-recording-videos-for-2024/"><u>[New] YouTube Video Shooting Equipment List What You Need to Start Recording Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-standard-tokens-expanding-chatgpt-capabilities/"><u>Beyond Standard Tokens: Expanding ChatGPT Capabilities</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lenovo-ideapad-flex-5-spin-review-an-in-depth-analysis/"><u>Lenovo IdeaPad Flex 5 Spin Review: An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplifying-multitasking-with-androids-picture-in-picture-functionality/"><u>Simplifying Multitasking with Android's Picture-in-Picture Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-effective-solutions-for-non-functioning-samsung-soundbars/"><u>Solving Common Issues: Effective Solutions for Non-Functioning Samsung Soundbars</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-turning-off-closed-captions-on-amazon-prime-for-better-viewing/"><u>Step by Step: Turning Off Closed Captions on Amazon Prime for Better Viewing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-poco-f5-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Poco F5 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/top-25-instagram-hashtags-to-get-likes-and-followers-for-2024/"><u>Top 25 Instagram Hashtags to Get Likes and Followers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-capturing-images-with-your-computer-screen/"><u>Ultimate Guide: Capturing Images with Your Computer Screen</u></a></li>
 </ul></div>
 

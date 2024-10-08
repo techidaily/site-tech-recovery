@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Cluttered Emails Using a Single Trick - No Elaborate Rules or Multiple Accounts | ZDNET
-date: 2024-09-26T16:41:48.495Z
-updated: 2024-10-02T16:54:38.462Z
+date: 2024-10-04T21:34:16.488Z
+updated: 2024-10-07T21:45:23.310Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,16 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -116,10 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -160,17 +154,20 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-music-enhanced-whatsapp-expressions/"><u>[New] Music-Enhanced WhatsApp Expressions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-video-mastery-step-by-step-guide-to-cropping-and-exporting-for-insta/"><u>[Updated] 2024 Approved Video Mastery Step by Step Guide to Cropping and Exporting for Insta</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/live-recording-gadgets-for-youtube-content-creators-for-2024/"><u>Best Live Recording Gadgets for YouTube Content Creators for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dos-and-donts-when-cleaning-your-hdtv-a-comprehensive-walkthrough/"><u>Do's and Don’ts When Cleaning Your HDTV - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/easy-steps-to-safety-stellar-updates-backup-system/"><u>Easy Steps to Safety: Stellar Updates Backup System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-fixes-for-the-not-found-error-in-msi-dll-file/"><u>Essential Fixes for the Not Found Error in MSI DLL File</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-wma-to-ogg-converter-movavis-easy-online-tool/"><u>Free WMA to OGG Converter - Movavi's Easy Online Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-streaming-your-favorite-apps-from-apple-tv-to-amazon-fire-stick/"><u>Guide: Streaming Your Favorite Apps From Apple TV to Amazon Fire Stick</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-14-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 14 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-troubleshooting-a-complete-reference-for-pc-blue-screen-codes/"><u>Mastering Troubleshooting: A Complete Reference for PC Blue Screen Codes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-problem-step-by-step-guide-to-repairing-unresponsive-dvd-bd-and-cd-drives/"><u>Solving the Problem: Step-by-Step Guide to Repairing Unresponsive DVD, BD, and CD Drives</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-polishing-your-youtube-production-post-publishment/"><u>[New] 2024 Approved Polishing Your YouTube Production Post-Publishment</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-opening-and-managing-srt-files-seamlessly/"><u>[Updated] 2024 Approved Opening and Managing SRT Files Seamlessly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-display-selections-10-mac-list-for-2024/"><u>[Updated] Cutting-Edge Display Selections #10 Mac List for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-leading-8-streaming-services-dominating-2024/"><u>Discover the Leading 8 Streaming Services Dominating 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-for-successfully-refreshing-your-chromecast-firmware/"><u>Easy Tips for Successfully Refreshing Your Chromecast Firmware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-ussd-work-a-comprehensive-look-at-unstructured-supplementary-service-data/"><u>How Does USSD Work? A Comprehensive Look at Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30i-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30i to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-y100a-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Y100A Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/respecting-copyrights-when-converting-youtube-to-mp4-for-2024/"><u>Respecting Copyrights When Converting YouTube to MP4 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-techniques-for-efficiently-taking-screenshots-on-your-hp-device/"><u>Simple Techniques for Efficiently Taking Screenshots on Your HP Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-to-expanding-your-game-library-for-oculus-quest-2/"><u>Step-by-Step Process to Expanding Your Game Library for Oculus Quest 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899793705-the-etiquette-of-twitter-shares-retweet-vs-re-tweet-explained/"><u>The Etiquette of Twitter Shares: Retweet Vs. Re-Tweet Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-of-macos-a-closer-look-at-version-15-sequoia-release-date-insights-and-feature-highlights/"><u>The Future of macOS: A Closer Look at Version 15 Sequoia, Release Date Insights and Feature Highlights</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>Updated In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ultimate-manual-for-downloading-youtube-playlists-for-2024/"><u>Your Ultimate Manual for Downloading YouTube Playlists for 2024</u></a></li>
 </ul></div>
 

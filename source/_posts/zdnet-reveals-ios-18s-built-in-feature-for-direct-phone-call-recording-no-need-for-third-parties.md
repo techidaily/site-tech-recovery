@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals iOS 18'S Built-In Feature for Direct Phone Call Recording | No Need for Third Parties
-date: 2024-09-30T17:04:42.313Z
-updated: 2024-10-02T16:05:45.313Z
+date: 2024-10-06T18:11:31.447Z
+updated: 2024-10-07T20:18:25.976Z
 tags:
   - apple
 categories:
@@ -71,37 +71,25 @@ The transcription capability will support English, Spanish, French, German, Japa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-master-the-art-of-speedy-tiktok-content-for-2024/"><u>[New] Master the Art of Speedy TikTok Content for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-economical-android-communication-tools-list/"><u>[Updated] In 2024, Economical Android Communication Tools List</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ultimate-360-eye-exploration-test-for-2024/"><u>[Updated] Ultimate 360° Eye Exploration Test for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-thorough-analysis-for-easy-dynamic-range-photography/"><u>2024 Approved Thorough Analysis for Easy Dynamic Range Photography</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-the-audio-narrator-feature-in-your-samsung-television/"><u>Disabling the Audio Narrator Feature in Your Samsung Television</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-fixing-comctl32dll-not-found-error/"><u>Effective Solutions for Fixing 'Comctl32.dll Not Found Error'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/evaluating-lg-k92-5g-phone-are-its-benefits-merely-hype-around-5g/"><u>Evaluating LG K92 5G Phone: Are Its Benefits Merely Hype Around 5G?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-blurry-pictures-try-fixes-for-iphone-camera-focus-issues/"><u>Fixing Blurry Pictures? Try Fixes for iPhone Camera Focus Issues!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-paramountplus-streaming-problems-on-amazon-firestick-a-step-by-step-guide/"><u>Fixing Paramount+ Streaming Problems on Amazon Firestick - A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-best-of-home-workouts-top-yoga-channels-online/"><u>In 2024, The Best of Home Workouts Top Yoga Channels Online</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-me-firmware-troubleshooting/"><u>Intel ME Firmware Troubleshooting</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-microsoft-teams-a-step-by-step-guide-on-utilizing-copilot/"><u>Mastering Microsoft Teams: A Step-by-Step Guide on Utilizing Copilot</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/optimizing-zoom-conferences-the-power-of-filters/"><u>Optimizing Zoom Conferences The Power of Filters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-coredll-file-doesnt-exist-issue-on-your-pc/"><u>Resolving the 'Core.dll' File Doesn't Exist Issue on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-5-critical-considerations-prior-to-investing-in-an-older-model-ipad/"><u>The 5 Critical Considerations Prior to Investing in an Older-Model iPad</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-find-x7-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Find X7 FRP Bypass</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unboxing-review-the-premier-fugetek-ft-568-high-end-selfie-stick-explained/"><u>Unboxing Review: The Premier Fugetek FT-568 High-End Selfie Stick Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-zero-to-hero-on-twitter-live-for-2024/"><u>[New] From Zero to Hero on Twitter Live for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-get-acquainted-a-quick-guide-to-windows-11-basics/"><u>[New] Get Acquainted A Quick Guide to Windows 11 Basics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-integrating-obs-in-daily-skype-monitoring/"><u>[Updated] In 2024, Integrating OBS in Daily Skype Monitoring</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-zoom-mastery-embracing-intricate-screen-images/"><u>[Updated] Zoom Mastery Embracing Intricate Screen Images</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722859202980-evaluating-the-value-of-minecraft-realms-for-players/"><u>Evaluating the Value of Minecraft Realms for Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remove-built-in-apps-on-an-iphone-a-step-by-step-guide/"><u>How to Remove Built-In Apps on an iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/insights-into-what-codegpt-is-and-its-coding-potential/"><u>Insights Into What CodeGPT Is and Its Coding Potential</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-targus-docking-station-driver-software-quick-download-and-setup-instructions/"><u>Latest Targus Docking Station Driver Software: Quick Download & Setup Instructions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-applications-from-your-samsung-tv/"><u>Step-by-Step Guide: Removing Applications From Your Samsung TV</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-downloading-and-installing-hp-envy-5660-drivers/"><u>Step-by-Step Instructions for Downloading & Installing HP Envy 5660 Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-anticipated-google-pixel-tablets-release-timeline-unveiled-key-features-inside/"><u>The Anticipated Google Pixel Tablet's Release Timeline Unveiled - Key Features Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-fix-for-libcurldll-not-found-or-missing-expert-tips-and-tricks/"><u>The Complete Fix for 'libcurl.dll Not Found or Missing': Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-shoppers-list-for-picking-the-perfect-video-recording-solution/"><u>The Ultimate Shopper's List for Picking the Perfect Video Recording Solution</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

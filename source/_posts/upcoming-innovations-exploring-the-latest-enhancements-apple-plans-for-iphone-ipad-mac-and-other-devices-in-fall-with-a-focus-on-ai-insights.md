@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Innovations: Exploring the Latest Enhancements Apple Plans for iPhone, iPad, Mac, & Other Devices in Fall with a Focus on AI - Insights"
-date: 2024-09-26T16:51:56.992Z
-updated: 2024-10-02T16:26:31.920Z
+date: 2024-09-30T17:48:00.851Z
+updated: 2024-10-07T19:05:50.019Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -115,10 +115,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,22 +218,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dissecting-the-hidden-mechanics-behind-youtubes-popularity-index/"><u>[New] In 2024, Dissecting the Hidden Mechanics Behind YouTube's Popularity Index</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-note-13-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ace-the-art-of-tweaking-captions-and-tags-in-instagram/"><u>Ace the Art of Tweaking Captions & Tags in Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-to-purging-every-message-tips-for-total-email-removal-within-the-gmail-app/"><u>Complete Guide to Purging Every Message: Tips for Total Email Removal Within the Gmail App</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratis-dvd-region-lock-bypass-fur-windows-1087-wie-man-die-dvd-region-andert-kostenlos/"><u>Gratis DVD Region Lock Bypass Für Windows 10/8/7 - Wie Man Die DVD-Region Ändert Kostenlos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-create-and-manage-your-pinned-threads-in-insta-chats-effectively/"><u>How To Create & Manage Your Pinned Threads in Insta-Chats Effectively</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-s24plus-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy S24+ Phone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-tecno-camon-30-pro-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Tecno Camon 30 Pro 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-tecno-spark-20c-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Tecno Spark 20C to New Phone | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovations-in-mobile-photography-a-look-at-iphone-x/"><u>In 2024, Innovations in Mobile Photography A Look at iPhone X</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-deleted-alerts-how-to-find-previously-seen-messages-on-an-iphone/"><u>Navigating Deleted Alerts: How to Find Previously Seen Messages on an iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-gap-solutions-when-you-cant-find-or-use-facebook-marketplace/"><u>Navigating the Gap: Solutions When You Can't Find or Use Facebook Marketplace</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/simplifying-the-process-of-enabling-virtual-screen-on-meet-for-2024/"><u>Simplifying the Process of Enabling Virtual Screen on Meet for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-the-art-of-selfie-photography-with-professional-lights/"><u>Step-by-Step Guide: Mastering the Art of Selfie Photography with Professional Lights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/timeless-thread-triumphs-reddits-all-time-fave-list-top-10/"><u>Timeless Thread Triumphs Reddit’s All-Time Fave List (Top 10)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-solutions-for-libxml2dll-not-found-message-on-windows-computers/"><u>Troubleshooting and Solutions for 'libxml2.dll Not Found' Message on Windows Computers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-instant-travel-secrets-using-the-teleport-command-like-a-pro-in-minecraft/"><u>Unlock Instant Travel Secrets: Using the Teleport Command Like a Pro in Minecraft</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/raming-the-perfect-frame-talking-head-shot-essentials/"><u>[New] Framing the Perfect Frame Talking-Head Shot Essentials</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-expert-video-making-opt-for-studio-versus-beta-version-for-2024/"><u>[Updated] Expert Video Making Opt for Studio Versus Beta Version for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-starting-up-youtube-your-first-gear-list/"><u>[Updated] In 2024, Starting Up YouTube - Your First Gear List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-2024-elite-camcorders-best-buy-guide/"><u>[Updated] The 2024 Elite Camcorders - Best Buy Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-art-of-interaction-in-online-google-meet-spaces/"><u>2024 Approved The Art of Interaction in Online Google Meet Spaces</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-tools-for-monitoring-hashtags-on-twitter-a-comprehensive-guide/"><u>Best Tools for Monitoring Hashtags on Twitter: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-you-delete-the-original-apple-apps-installed-on-iphones/"><u>Can You Delete the Original Apple Apps Installed on iPhones?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-fixing-issues-with-an-inoperative-amazon-fire-tv-remote/"><u>Diagnosing and Fixing Issues with an Inoperative Amazon Fire TV Remote</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-rcs-texting-and-messaging-platforms/"><u>Exploring the World of RCS Texting and Messaging Platforms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-11-pro-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 11 Pro You Should Try Out</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-checklist-to-successful-video-marketing-with-tags/"><u>In 2024, The Ultimate Checklist to Successful Video Marketing with Tags</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/remote-free-tv-learn-easy-ways-to-operate-your-roku-screen-with-alternative-methods/"><u>Remote-Free TV: Learn Easy Ways to Operate Your Roku Screen with Alternative Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reveal-hidden-iphone-applications-with-simple-steps/"><u>Reveal Hidden iPhone Applications with Simple Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-videos-acoustic-appeal-on-youtube-for-2024/"><u>Streamline Your Video's Acoustic Appeal on YouTube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-the-leading-ceiling-audio-units-2024-edition/"><u>Ultimate Guide: The Leading Ceiling Audio Units - 2024 Edition</u></a></li>
 </ul></div>
 

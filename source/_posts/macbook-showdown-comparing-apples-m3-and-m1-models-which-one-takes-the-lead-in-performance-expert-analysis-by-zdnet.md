@@ -1,7 +1,7 @@
 ---
 title: "MacBook Showdown: Comparing Apple's M3 and M1 Models - Which One Takes the Lead in Performance? Expert Analysis by ZDNet"
-date: 2024-09-29T16:51:11.209Z
-updated: 2024-10-02T16:14:02.467Z
+date: 2024-10-03T23:40:16.171Z
+updated: 2024-10-07T21:05:31.937Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,13 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -89,10 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -102,6 +95,13 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,24 +166,17 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ehind-the-scenes-of-carminatis-youtube-earnings-for-2024/"><u>[New] Behind the Scenes of Carminati’s YouTube Earnings for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-virtual-reality-controller-guide/"><u>[New] In 2024, Ultimate Virtual Reality Controller Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-banishing-the-blank-screen-from-youtube-videos/"><u>[Updated] 2024 Approved Banishing the Blank Screen From YouTube Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-excellent-voice-capture-gadgets-top-7-list-2023/"><u>[Updated] Excellent Voice Capture Gadgets, Top 7 List 2023</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/culinary-waves-tiktoks-most-shared-meals-for-2024/"><u>Culinary Waves TikTok's Most Shared Meals for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-10-budget-friendly-alternatives-for-streaming-like-netflix/"><u>Discover 10 Budget-Friendly Alternatives for Streaming Like Netflix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-telegram-why-its-different-from-other-messaging-services/"><u>Exploring Telegram – Why It's Different From Other Messaging Services</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-androidandios-the-best-free-overlay-imaging-tools-top-10/"><u>In 2024, Android&iOS The Best FREE Overlay Imaging Tools (Top 10)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-change-ais-contribution-to-the-evolution-of-game-design/"><u>Navigating Change: AI's Contribution to the Evolution of Game Design</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx933dll-file-not-detected-a-step-by-step-guide/"><u>Resolving d3dx9_33.dll File Not Detected: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-salvaging-your-wet-ios-gadget-using-diy-fixes/"><u>Step-by-Step Solution: Salvaging Your Wet iOS Gadget Using DIY Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-ipad-sms-tutorial-send-and-receive-effortlessly/"><u>The Ultimate iPad SMS Tutorial: Send and Receive Effortlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-the-best-family-friendly-films-streaming-on-amazon-prime-video-in-july-2024/"><u>Top Picks: The Best Family-Friendly Films Streaming on Amazon Prime Video in July 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-resolving-uneven-colors-and-bent-appearances-on-monitors/"><u>Troubleshooting Techniques for Resolving Uneven Colors and Bent Appearances on Monitors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-impactful-role-of-ai-in-shaping-tomorrow/"><u>Unveiling the Impactful Role of AI in Shaping Tomorrow</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-ultimate-guide-to-free-movie-watching-on-youtube-in-july-2024/"><u>Your Ultimate Guide to Free Movie Watching on YouTube in July 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-creating-polished-video-content-in-captivate-for-2024/"><u>[Updated] Creating Polished Video Content in Captivate for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-the-secrets-of-auto-played-youtube-content-on-facebook-platform/"><u>[Updated] Unveiling the Secrets of Auto-Played YouTube Content on Facebook Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-jumpstart-your-collaboration-zooms-screen-share-essentials/"><u>2024 Approved Jumpstart Your Collaboration Zoom's Screen-Share Essentials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/code-error-43-cracked-easy-troubleshooting-and-fixes-at-hand/"><u>Code Error 43 Cracked: Easy Troubleshooting and Fixes at Hand</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-effects-of-memory-quickness-and-response-time-on-your-computers-performance/"><u>Decoding the Effects of Memory Quickness and Response Time on Your Computer's Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/engaging-mobile-adventures-top-puzzle-titles-similar-to-the-room-and-myst-for-ios-and-ipad/"><u>Engaging Mobile Adventures: Top Puzzle Titles Similar to 'The Room' & 'Myst' For iOS & iPad</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-fixes-for-csgo-login-errors-get-back-into-game-now/"><u>Essential Fixes for CSGO Login Errors - Get Back Into Game Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-m14-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy M14 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-srt-text-conversion-a-modern-how-to/"><u>In 2024, Quick SRT Text Conversion A Modern How-To</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-visual-impact-how-to-display-wide-photos-as-complete-images-on-instagram/"><u>Maximizing Visual Impact: How to Display Wide Photos as Complete Images on Instagram</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo Find X6 | Dr.fone</u></a></li>
 </ul></div>
 

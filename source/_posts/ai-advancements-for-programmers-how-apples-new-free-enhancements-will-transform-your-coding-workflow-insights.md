@@ -1,7 +1,7 @@
 ---
 title: "AI Advancements for Programmers: How Apple’s New Free Enhancements Will Transform Your Coding Workflow | Insights"
-date: 2024-09-27T16:06:11.304Z
-updated: 2024-10-02T17:08:39.184Z
+date: 2024-09-30T18:44:26.159Z
+updated: 2024-10-07T18:13:16.611Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -103,13 +103,6 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -119,6 +112,13 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 **Also: [How the iPhone 15 Pro Max challenges mirrorless cameras: We compare price and performance](https://www.zdnet.com/article/how-the-iphone-15-pro-max-challenges-mirrorless-cameras-we-compare-price-and-performance/)**
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
 
@@ -136,6 +136,13 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -149,13 +156,6 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -200,10 +200,10 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Looking to the future
@@ -262,20 +262,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-gauging-storage-capacity-for-full-length-films/"><u>[Updated] Gauging Storage Capacity for Full-Length Films</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-livestream-quality-decision-opt-for-streamlabs-or-obs-in-2024/"><u>[Updated] Livestream Quality Decision Opt for Streamlabs or OBS, In 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-best-practices-for-sensational-video-loops/"><u>2024 Approved Instagram's Best Practices for Sensational Video Loops</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revitalized-interview-questions-for-listener-involvement/"><u>2024 Approved Revitalized Interview Questions for Listener Involvement</u></a></li>
-<li><a href="https://driver-download.techidaily.com/asus-network-adapter-pce-ac56-driver-fixes-resolved-issues-on-windows-1087-systems/"><u>ASUS Network Adapter PCE-AC56 Driver Fixes - Resolved Issues on Windows 10/8/7 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-techniques-for-taking-screenshots-on-any-computer-desktop/"><u>Easy Techniques for Taking Screenshots on Any Computer Desktop</u></a></li>
-<li><a href="https://facebook.techidaily.com/explanation-for-not-here-status-on-app-chats/"><u>Explanation for 'Not Here' Status on App Chats</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-repair-critical-linkage-violation-stop-error-0x00000/"><u>How to Repair 'Critical Linkage Violation' - Stop Error 0X00000</u></a></li>
-<li><a href="https://facebook.techidaily.com/immediate-actions-restoring-your-inaccessible-social-network-id/"><u>Immediate Actions: Restoring Your Inaccessible Social Network ID</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android/"><u>In 2024, Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-keeping-your-tv-remote-germ-free-a-comprehensive-guide/"><u>Master the Art of Keeping Your TV Remote Germ-Free: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-rated-free-video-editors-for-beginners-no-experience-needed/"><u>New 2024 Approved Top-Rated Free Video Editors for Beginners No Experience Needed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/securing-a-time-slot-for-personal-assistance-at-any-apple-store-near-you/"><u>Securing a Time Slot for Personal Assistance at Any Apple Store Near You</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequential-screen-time-with-taylor-swift-in-film-and-tv/"><u>Sequential Screen Time with Taylor Swift in Film and TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-literary-gems-your-ultimate-list-of-sites-with-complimentary-e-books-top-17/"><u>Unlock Literary Gems: Your Ultimate List of Sites with Complimentary E-Books (Top 17)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebooks-vision-for-video-unpacking-the-short-form-movement/"><u>[Updated] 2024 Approved Facebook's Vision for Video Unpacking the Short Form Movement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-options-cheap-but-premium-4k-projector-systems/"><u>[Updated] Best Options Cheap but Premium 4K Projector Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-focus-on-subjects-only-efficient-backdrop-elimination-techniques/"><u>[Updated] Focus on Subjects Only Efficient Backdrop Elimination Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-lg-360-camera-full-review/"><u>[Updated] In 2024, LG 360 Camera Full Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-instructions-for-picking-background-scores-for-vlogs/"><u>[Updated] Step-by-Step Instructions for Picking Background Scores for Vlogs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-elite-video-cameras-for-2-point-zero-four-two/"><u>2024 Approved Unveiling the Elite Video Cameras for 2 Point Zero Four Two</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-instagram-hashtags-for-maximizing-reach-and-engagement/"><u>Essential Instagram Hashtags for Maximizing Reach and Engagement</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-tools-for-efficient-screen-recording-on-windows-os/"><u>In 2024, Free Tools for Efficient Screen Recording on Windows OS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-narzo-60-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Narzo 60 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-2024s-fresh-collection-of-standard-user-passwords-for-d-link-devices/"><u>July 2024'S Fresh Collection of Standard User Passwords for D-Link Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keeping-up-to-date-a-simple-way-to-update-a-smart-samsung-tvs-system/"><u>Keeping Up-to-Date: A Simple Way to Update a Smart Samsung TV's System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-troubleshooting-deciphering-and-fixing-the-notorious-code-10-errors/"><u>Navigating Through Troubleshooting: Deciphering and Fixing the Notorious Code 10 Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-physxloaderdll-file-not-detected-step-by-step-troubleshooting/"><u>Resolving 'PhysXLoader.dll' File Not Detected: Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-server-communication-breakdown-the-ultimate-fix-for-502-errors/"><u>Resolving Server Communication Breakdown: The Ultimate Fix for 502 Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-fixing-the-common-code-31-problems-in-windows-environments/"><u>Step-by-Step Guide: Fixing the Common Code 31 Problems in Windows Environments</u></a></li>
 </ul></div>
 

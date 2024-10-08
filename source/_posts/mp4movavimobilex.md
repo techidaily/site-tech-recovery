@@ -1,7 +1,7 @@
 ---
 title: MP4ファイルへのシームレス文字起こし手順：MovaviとMobilexの使い方
-date: 2024-09-16T19:30:54.776Z
-updated: 2024-09-21T04:34:32.438Z
+date: 2024-10-03T23:38:07.593Z
+updated: 2024-10-07T23:52:06.959Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39bbf16416336b018124bf2bc.jpg
@@ -211,10 +211,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installer DirectX 12
@@ -272,6 +272,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -333,6 +340,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
@@ -345,18 +359,18 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -365,6 +379,13 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -376,13 +397,6 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -393,6 +407,19 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -432,6 +459,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -440,13 +474,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -487,13 +514,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -522,6 +542,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -578,5 +605,23 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-circle-construction-in-minecraft-the-ultimate-guide-for-2024/"><u>[New] Circle Construction in Minecraft The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pixel-problems-non-existent-videos-on-a6400/"><u>[New] Pixel Problems Non-Existent Videos on A6400</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-blueprint-to-establishing-a-distinctive-marketing-persona/"><u>[Updated] In 2024, The Blueprint to Establishing a Distinctive Marketing Persona</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-smartphototech-ai-edition-advantages/"><u>[Updated] Leading SmartPhotoTech AI Edition Advantages</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-secure-and-spacious-our-compilation-of-best-20-free-cloud-services/"><u>[Updated] Secure & Spacious Our Compilation of Best 20 Free Cloud Services</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-magic-v2-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-securing-your-next-read-iphoneipad-and-the-books-app-purchase-guide/"><u>Essential Tips for Securing Your Next Read: IPhone/iPad and the Books App Purchase Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-conquering-the-world-of-pokemon-unite-with-ease/"><u>Expert Advice: Conquering the World of Pokémon Unite with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-picks-best-all-in-one-internet-gateways-of-the-year-2024-edition/"><u>Expert Picks: Best All-in-One Internet Gateways of the Year - 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enable-and-use-inbuilt-video-calling-apps-on-windows-devices/"><u>How to Enable and Use Inbuilt Video Calling Apps on Windows Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://discover-great.techidaily.com/solve-your-hevc-video-playback-problems-on-pc-with-these-proven-techniques/"><u>Solve Your HEVC Video Playback Problems on PC with These Proven Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-your-pinning-process-with-these-5-must-try-scheduling-solutions-on-pinterest/"><u>Streamline Your Pinning Process with These 5 Must-Try Scheduling Solutions on Pinterest</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tiktok-duet-creation-made-simple-your-ultimate-how-to/"><u>TikTok Duet Creation Made Simple: Your Ultimate How-To</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolve-libcurldll-missing-windows-error/"><u>Troubleshooting Guide: Resolve 'libcurl.dll Missing' Windows Error</u></a></li>
+</ul></div>
 

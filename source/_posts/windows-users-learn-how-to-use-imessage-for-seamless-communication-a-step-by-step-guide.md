@@ -1,7 +1,7 @@
 ---
 title: "Windows Users, Learn How to Use iMessage for Seamless Communication: A Step-by-Step Guide"
-date: 2024-09-30T17:07:50.192Z
-updated: 2024-10-02T16:44:11.476Z
+date: 2024-09-30T16:43:52.100Z
+updated: 2024-10-07T18:45:30.660Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -63,11 +56,25 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -85,13 +92,6 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -105,10 +105,10 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Start a new chat
@@ -116,13 +116,6 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -133,13 +126,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -152,6 +138,19 @@ You'll then be asked to grant the app access to your contacts, photo library, de
 At the next screen on your phone, tap the button for "Scan QR code." Scan the code in the Unison screen on your PC. Confirm the text string that appears on the screen. Your phone and PC should tell you that the pairing was successful. Tap Get Started in the iPhone app.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
 
@@ -170,6 +169,13 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,20 +213,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-and-channelizing-imovie-productions-on-youtube/"><u>[New] 2024 Approved Crafting and Channelizing iMovie Productions on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-iphones-quintet-of-premier-podcast-tools/"><u>[New] IPhone's Quintet of Premier Podcast Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlocking-vidmas-secrets-to-superior-screen-recording/"><u>[Updated] In 2024, Unlocking Vidma’s Secrets to Superior Screen Recording</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-professional-sound-capture-top-10-microphones/"><u>2024 Approved Professional Sound Capture Top 10 Microphones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-transition-how-to-convert-network-settings-from-public-to-private-in-windows-11/"><u>Effortless Transition: How to Convert Network Settings From Public to Private in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortlessly-connect-your-printer-to-laptop-both-wireless-and-cable-methods-covered/"><u>Effortlessly Connect Your Printer to Laptop - Both Wireless and Cable Methods Covered</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-gameplay-quality-overcoming-input-lag-on-your-additional-screen-while-using-windows-10-or-11/"><u>Enhancing Gameplay Quality: Overcoming Input Lag on Your Additional Screen While Using Windows 10 or 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-easily-connect-and-use-your-triple-screen-computer-system/"><u>Expert Advice: Easily Connect and Use Your Triple-Screen Computer System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-restore-functionality-eliminating-windows-error-code-0xa0abba-from-camcorders-and-webcams-in-os-1011/"><u>Expert Tips to Restore Functionality: Eliminating Windows Error Code 0XA0^ABBA From Camcorders and Webcams in OS 10/11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-and-quick-guide-how-to-safely-print-your-pdfs-without-hacking-risks/"><u>Free and Quick Guide: How to Safely Print Your PDFs Without Hacking Risks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-google-pixel-8-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Google Pixel 8 Pro FRP Locks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-your-seagate-hard-drive-up-and-running-on-a-windows-10-computer-quick-fix/"><u>How to Get Your Seagate Hard Drive Up and Running on a Windows 10 Computer [Quick Fix]</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-discord-access-challenges-quick-solutions-inside/"><u>Overcome Discord Access Challenges – Quick Solutions Inside!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionizing-portability-a-detailed-assessment-of-apples-iphone-12-mini-experience/"><u>Revolutionizing Portability: A Detailed Assessment of Apple's iPhone 12 Mini Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essential-guide-to-free-drive-diagnosis-apps-latest-picks/"><u>The Essential Guide to Free Drive Diagnosis Apps: Latest Picks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-efficient-obs-fb-streaming-techniques/"><u>[New] In 2024, Efficient OBS-FB Streaming Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-az-screen-recorder-comprehensive-app-review-and-alternative/"><u>[Updated] In 2024, AZ Screen Recorder | Comprehensive App Review & Alternative</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-elevating-your-youtube-presence-with-customized-subtitles/"><u>2024 Approved Elevating Your YouTube Presence with Customized Subtitles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-unique-and-functional-quirky-usb-charging-devices/"><u>Discover Unique and Functional Quirky USB Charging Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/early-launch-of-pixel-n-pro-unveiled-by-google-arriving-sooner-than-expected/"><u>Early Launch of Pixel N Pro Unveiled by Google, Arriving Sooner Than Expected!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhanced-mobile-management-why-keeping-usb-debug-mode-on-is-essential-for-android-users/"><u>Enhanced Mobile Management: Why Keeping USB Debug Mode On Is Essential for Android Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-appeal-of-the-light-phone-3s-simplicity-and-mechanical-features/"><u>Exploring the Appeal of the Light Phone 3'S Simplicity and Mechanical Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-bright-side-of-ios-15s-new-flashlight-the-reasons-i-admire-apple-even-more/"><u>Exploring the Bright Side of iOS 15'S New Flashlight – The Reasons I Admire Apple Even More</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-different-are-they-understanding-ultrasonic-and-optical-fingerprint-recognition-systems/"><u>How Different Are They? Understanding Ultrasonic and Optical Fingerprint Recognition Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-connect-your-android-device-in-windows-11-using-the-file-explorer-feature/"><u>How to Connect Your Android Device in Windows 11 Using the File Explorer Feature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-8-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 8 Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-x-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone X without the Previous Owner?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/pinpointing-your-place-in-youtubes-varied-landscapes/"><u>Pinpointing Your Place in YouTube's Varied Landscapes</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-evolution-of-electric-cars-an-engaging-overview/"><u>The Evolution of Electric Cars: An Engaging Overview</u></a></li>
 </ul></div>
 

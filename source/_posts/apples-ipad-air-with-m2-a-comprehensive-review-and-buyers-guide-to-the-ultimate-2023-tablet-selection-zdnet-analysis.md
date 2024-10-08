@@ -1,7 +1,7 @@
 ---
 title: "Apple's iPad Air with M2: A Comprehensive Review and Buyer's Guide to the Ultimate 2023 Tablet Selection | ZDNet Analysis"
-date: 2024-09-28T16:12:36.116Z
-updated: 2024-10-02T16:39:47.658Z
+date: 2024-10-01T19:24:39.930Z
+updated: 2024-10-07T21:40:54.228Z
 tags:
   - apple
 categories:
@@ -26,13 +26,6 @@ While the Apple Watch started as a [fitness tracker](https://www.zdnet.com/artic
 
 Based on my years of testing, my pick for the best Apple Watch overall is the [Apple Watch Ultra 2](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-medium-large-titanium%2F6574421.p%3FskuId%3D6574421&publisher_slug=itechdaily19598&exclusive=1), thanks to its large screen, 24-hour battery life, and emergency siren. Read on to find out which Apple Watch is best for you. However, the new Apple Watch Series 10 was just unveiled at [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/) on September 9 and will be available on September 20\. We'll be testing the new Apple Watch and will add our buying advice to this page as soon as we do.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Apple Watches of 2024
 
 Show less 
@@ -48,6 +41,13 @@ Pros
 Cons 
 * Too big for small wrists
 * Double the price of the base Apple Watch Series 9
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
 
@@ -81,7 +81,21 @@ Cons
 * Cellular connectivity costs extra
 * Not as durable as the Ultra 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Watch Series 9
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best Apple Watch for most people
 
@@ -114,10 +128,10 @@ Cons
 * Cellular connection requires a monthly fee
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Watch SE (2nd generation)
@@ -154,6 +168,13 @@ Cons
 
 ## Apple Watch Series 7
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best Apple Watch for unique colors
 
 When it first launched in fall 2021, the Apple Watch Series 7 brought key upgrades including a 20% larger screen, fast charging (0% to 80% in 45 minutes with a USB-C cable), a more durable face that's made out of crystal and is 50% thicker than the previous model, and IPX6 dust resistance. Those are features that still aren't available on the Apple Watch SE 2nd Gen. 
@@ -182,10 +203,10 @@ Cons
 * Same features as regular Series 9
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Watch Hermès
@@ -228,13 +249,6 @@ Having trouble deciding between Apple Watch models? Here's a quick summary of th
 | Apple Watch Series 7           | An Apple Watch in unique blue or green colors. The Apple Watch Series 7 is for sale in many places, and you can get a refurbished model for $200 to $275\. The best reason to get it is the fact that it comes in two unique colors you can't get in the Series 9.                |
 | Apple Watch Hermès             | An Apple Watch for dressing up as well as working out. For those who love the French luxury brand, this special edition of the Apple Watch features premium bands and exclusive watch faces for those who view their timepiece as a fashion accessory.                            |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best Apple Watch
 
 While all the Apple Watches on this list have a slew of health-tracking features and other useful apps, their differences are what you need to consider before buying one, including: 
@@ -254,13 +268,6 @@ All of the Apple Watches included in this list were chosen based on how they per
 
 For a deeper look into our testing process, check out our comprehensive [smartwatch testing methodology](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is new in the Apple Watch 10?
 
 Apple just announced the new Apple Watch Series 10 during its September event, and there are several notable features. First, the screen sizes are bigger (42 mm and 46 mm), and Apple said this is the thinnest Apple Watch to date, meaning it should be more comfortable on your wrist. 
@@ -277,13 +284,6 @@ The Apple Watch 10 costs $399 and is available Friday, September 20\. You can [p
 
 Yes, you need an iPhone to set up an Apple Watch. However, with all the models on this list, you can use the [Family Setup](https://support.apple.com/en-us/HT211768) option to have one iPhone set up watches for multiple members in your Apple family group -- even if they don't have an iPhone. You cannot use an iPad, a Mac, or a non-Apple smartphone to set up an Apple Watch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does the Apple Watch do?
 
 Fundamentally, all Apple Watches can track your steps and fitness data, display notifications from your iPhone, show basic information like weather, start timers, send and receive text messages, answer phone calls, and download useful apps. The latest versions have additional features and functionality, including sleep tracking, advanced health monitoring, car crash detection, and international emergency calling. 
@@ -296,6 +296,13 @@ Yes, many older Apple Watch are available to buy refurbished at places like [Bac
 
 The most important features to look for in the best Apple Watch models include advanced health sensors (ECG, blood oxygen, wrist temperature, etc.), connectivity options (is cellular included or extra, if you want the watch to work when an iPhone isn't nearby), battery life, and durability (water resistance, dust resistance, and a crystal face to resist cracking).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which is the best Apple Watch for fitness tracking?
 
 The best Apple Watch for fitness tracking is the Apple Watch Series 9 or the Apple Watch Ultra 2, which both come equipped with the widest variety of health sensors, including ECG, sleep tracking, heart and breathing functions, wrist temperature, and more.
@@ -304,16 +311,16 @@ The best Apple Watch for fitness tracking is the Apple Watch Series 9 or the App
 
 The Apple Watch Series 9 brings a 2,000-nit display (twice as bright as the Series 8), a new hands-free double-tap gesture, and the new S9 SiP, which makes the watch run faster and smoother. The Apple Watch Series 8 introduced a more scratch-resistant crystal face, a temperature sensor, next-gen motion tracking, crash detection, and emergency SOS (all of which are also included in the Series 9). These are all features that the Series 7 doesn't include, but it features two unique colors -- blue and green -- no longer available on either the Series 9 or the Series 8.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is the Apple Watch Ultra 2 worth the extra cost for outdoor enthusiasts?
 
 If you're someone who spends time hiking, doing triathlons, and involved in outdoor activities in extreme temperatures, rugged conditions, and lots of dust and water, the Apple Watch Ultra 2 may be worth the extra cost. Its design makes it more durable and water-resistant (up to 100m) than the other Apple Watch models, and it includes an Action Button for fine-tuning workouts and hikes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Apple Watch is best for kids?
 
@@ -328,13 +335,6 @@ In addition, you can use Apple's Family Setup to check your kid's location, set 
 You cannot use an Android phone to set up and pair with an Apple Watch, and there are no good workarounds for that. However, if you have an Android phone, there are several smartwatches you can choose from that offer most of the same features as an Apple Watch. The ones below are smartwatches that ZDNET has reviewed and rated well in our testing. 
 
 **More:** [**The best Android smartwatches**](https://www.zdnet.com/article/best-android-smartwatch/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When do Apple Watches go on sale?
 
@@ -388,18 +388,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-comprehensive-srt-handbook-for-enthusiasts/"><u>[New] 2024 Approved The Comprehensive SRT Handbook for Enthusiasts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-8-best-instagram-scheduler-for-android-and-iphone/"><u>[New] In 2024, 8 Best Instagram Scheduler for Android and iPhone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-navigate-lifes-challenges-with-these-15-engaging-activities-while-listening-to-podcasts-for-2024/"><u>[New] Navigate Life's Challenges with These 15 Engaging Activities While Listening to Podcasts for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-indoors-adopting-the-vibe-of-a-brighter-world/"><u>[Updated] 2024 Approved Indoors Adopting the Vibe of a Brighter World</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-users-guide-to-toggling-off-sticky-keys-functionality-on-windows-systems/"><u>A User's Guide to Toggling Off Sticky Keys Functionality on Windows Systems</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/accurate-age-reporting-tips-for-perfecting-your-tiktok-profile/"><u>Accurate Age Reporting Tips for Perfecting Your TikTok Profile</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/bring-charisma-to-your-stories-mastery-of-custom-emoji-use-on-instagram-for-2024/"><u>Bring Charisma to Your Stories Mastery of Custom Emoji Use on Instagram for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-overcoming-user-authentication-problems-http/"><u>Expert Tips for Overcoming User Authentication Problems (HTTP</u></a></li>
-<li><a href="https://windows11.techidaily.com/facing-down-rounded-corners-in-windows-11/"><u>Facing Down Rounded Corners in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-tutorial-on-creating-and-using-slack-alerts-for-deadlines/"><u>The Comprehensive Tutorial on Creating and Using Slack Alerts for Deadlines</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-and-enjoy-uninterrupted-gaming-with-these-tips-to-stop-robocop-rogue-city-crashes-on-your-computer/"><u>Troubleshoot and Enjoy Uninterrupted Gaming with These Tips to Stop RoboCop: Rogue City Crashes on Your Computer!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-memes-an-in-depth-look/"><u>Understanding Memes: An In-Depth Look</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-new-in-macos-15-sequoia-launch-date-and-exciting-features-revealed/"><u>What's New in macOS 15 Sequoia: Launch Date & Exciting Features Revealed!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-perfecting-google-meet-ppt-sessions-on-desktoptablet/"><u>[Updated] 2024 Approved Perfecting Google Meet PPT Sessions on Desktop/Tablet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-blueprint-entering-itunes-and-google-play-listings-for-2024/"><u>[Updated] The Blueprint Entering iTunes and Google Play Listings for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-edition-expert-advice-on-creating-compelling-video-edits/"><u>[Updated] Youtube Edition Expert Advice on Creating Compelling Video Edits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-gopros-deep-sea-capturing-unforgettable-underwater-scenes/"><u>2024 Approved GoPro's Deep Sea Capturing Unforgettable Underwater Scenes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smooth-surfaces-from-stability-handheld-tech-for-pros/"><u>2024 Approved Smooth Surfaces From Stability Handheld Tech for Pros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spice-up-your-feeds-text-based-meme-magic/"><u>2024 Approved Spice Up Your Feeds Text-Based Meme Magic</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beskaeftig-dig-med-gratis-filmskaber-til-windows-beste-og-lette-lydsspil-udnyttelse-for-pcerne-dine/"><u>Beskæftig Dig Med Gratis Filmskaber Til Windows: Beste Og Lette Lydsspil Udnyttelse for PC'erne Dine</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-hoe-mic-recordings-from-mp3-to-wav-on-windows-11-10-8-and-7/"><u>Convert Hoe Mic Recordings From MP3 to WAV on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-your-gif-images-to-ebgp-format-for-free-using-the-movavi-online-tool/"><u>Convert Your GIF Images to ebGp Format for Free Using the Movavi Online Tool!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertissez-un-fichier-mov-en-format-m4v-gratuitement-en-ligne-avec-moovavi/"><u>Convertissez Un Fichier MOV en Format M4V Gratuitement en Ligne Avec Moovavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expertise-in-action-mastering-iphone-silhouette-art/"><u>Expertise in Action Mastering iPhone Silhouette Art</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/flacweb-movavi/"><u>FLAC形式の音声ファイルを簡単にWeb上で無料変換: Movaviソリューション</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-redmi-note-12-pro-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Redmi Note 12 Pro 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-t2-pro-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo T2 Pro 5G FRP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-educational-hub-expert-strategies-and-advice-for-lifelong-learning/"><u>Movavi Educational Hub: Expert Strategies and Advice for Lifelong Learning</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/4k-2021/"><u>정식 4K 동영상 강조: 2021년에서 가장 훌륭한 고화질 형제 소개</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cd-windows-10-8-7/"><u>제공 무료 CD 굽기 소품 - Windows 10, 8, 7에서 작동하는 가장 나을 옵션</u></a></li>
 </ul></div>
 

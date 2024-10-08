@@ -1,7 +1,7 @@
 ---
 title: "Sending & Receiving iMessages on a Windows PC: A Comprehensive Guide"
-date: 2024-10-01T16:41:09.636Z
-updated: 2024-10-02T16:11:15.785Z
+date: 2024-10-02T17:34:46.661Z
+updated: 2024-10-07T20:14:44.465Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -68,13 +68,6 @@ Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings,
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -92,6 +85,13 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -99,10 +99,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -116,6 +116,13 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -146,10 +153,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -157,13 +164,6 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -207,17 +207,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-no-flair-just-facts-dissecting-recordcast/"><u>[Updated] 2024 Approved No Flair, Just Facts Dissecting RecordCast</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-why-virtual-reality-lack-of-content/"><u>[Updated] Why Virtual Reality Lack of Content?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/analyzing-the-impact-of-microsofts-recent-outages-a-wake-up-call-for-governments-to-limit-dependence-on-major-tech-firms/"><u>Analyzing the Impact of Microsoft's Recent Outages: A Wake-Up Call for Governments to Limit Dependence on Major Tech Firms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/character-arcs-and-relationships-fortified-by-chatgpt-methods/"><u>Character Arcs & Relationships Fortified by ChatGPT Methods</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convert-audiovideo-in-real-time-with-movavis-free-online-aacwma-tool/"><u>Convert Audio/Video in Real Time with Movavi's Free Online AAC/WMA Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-performance-metrics-tracking-on-windows/"><u>Enhancing Performance Metrics Tracking on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-your-computer-when-you-cant-find-wininetdll-file-a-comprehensive-guide/"><u>Fixing Your Computer When You Can’t Find Wininet.dll File: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-boost-your-gaming-experience-by-installing-an-ssd-in-the-ps5/"><u>How to Boost Your Gaming Experience by Installing an SSD in the PS5</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-v29-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on V29</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/itel-a70-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Itel A70 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-silent-shorter-showcase-ended/"><u>Settled Silent Shorter Showcase Ended</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-naccount/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest N_Account</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-guide-to-affordable-cloud-space-best-of-the-20/"><u>2024 Approved The Ultimate Guide to Affordable Cloud Space Best of the 20</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-xs-max-how-to-unlock-a-disabled-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>Disabled Apple iPhone XS Max How to Unlock a Disabled Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enable-or-disable-network-finding-feature-on-windows-10-a-comprehensive-guide/"><u>Enable or Disable Network Finding Feature on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-and-disabling-network-discovery-on-your-windows-10-pc-a-step-by-step-guide/"><u>Enabling and Disabling Network Discovery on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evaluating-the-wet-weather-defense-of-the-new-iphone-15-is-it-truly-waterproof/"><u>Evaluating the Wet Weather Defense of the New iPhone 15 – Is It Truly Waterproof?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-samsungs-latest-gem-revealed-the-galaxy-z-flip-7-expected-costs-launch-timeline-and-specs-inside/"><u>Get Ahead of the Curve: Samsung's Latest Gem Revealed! The Galaxy Z Flip 7 - Expected Costs, Launch Timeline and Specs Inside</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-adobes-path-to-perfection-the-premier-lut-list/"><u>In 2024, Adobe’s Path to Perfection The Premier LUT List</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-micro-mobility-universe-timelines-breaking-stories-and-hot-tips/"><u>Navigating the Micro-Mobility Universe: Timelines, Breaking Stories & Hot Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-black-screen-problem-in-obs-recording/"><u>Resolved: How to Fix the Black Screen Problem in OBS Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-bootmgr-missing-problem-a-step-by-step-guide/"><u>Solving the BOOTMGR Missing Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-mastering-bings-ai-features-on-android/"><u>The Ultimate Guide to Mastering Bing's AI Features on Android</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/ultimate-guide-selecting-8-exquisite-weddings-vids-for-2024/"><u>Ultimate Guide Selecting 8 Exquisite Weddings - Vids for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-ranking-the-best-top-5-video-editing-apps-for-iphone-users/"><u>Updated Ranking the Best Top 5 Video Editing Apps for iPhone Users</u></a></li>
 </ul></div>
 

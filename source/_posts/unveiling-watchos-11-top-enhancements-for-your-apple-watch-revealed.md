@@ -1,7 +1,7 @@
 ---
 title: "Unveiling WatchOS 11: Top Enhancements for Your Apple Watch Revealed"
-date: 2024-09-29T16:18:05.482Z
-updated: 2024-10-02T16:36:57.218Z
+date: 2024-10-01T20:20:08.077Z
+updated: 2024-10-07T16:08:48.046Z
 tags:
   - apple
 categories:
@@ -53,16 +53,10 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 Apple
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
@@ -81,13 +75,6 @@ The Photos face is one of the most popular faces on the Apple Watch, given its h
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double Tap now works with any app
 
 One of the biggest complaints with the [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) and [Ultra 2](https://www.zdnet.com/article/i-spent-a-week-with-the-apple-watch-ultra-2-and-heres-what-stood-out-the-most/) was how limited Double Tap was. Up until now, the feature has only worked in select apps that supported scrolling by tapping your fingers. But now, it's expanding to all apps and third-party apps with WatchOS 11\. Apple will also roll out the Double Tap API, which will let developers implement the feature in their apps.
@@ -96,9 +83,23 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -106,27 +107,20 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Tickets in your Wallet get an upgrade
 
@@ -166,20 +160,22 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-best-webcam-accessories-top-10-secure-solutions/"><u>[Updated] 2024 Approved Best Webcam Accessories Top 10 Secure Solutions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-final-step-delete-your-youtube-shorts-link/"><u>[Updated] The Final Step Delete Your YouTube Shorts Link</u></a></li>
-<li><a href="https://win11.techidaily.com/bluescreenview-explained-with-ease-and-clarity/"><u>BlueScreenView Explained with Ease and Clarity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-for-accessing-windows-11-safe-mode-when-f8-shortcut-doesnt-work-as-expected/"><u>Comprehensive Fixes for Accessing Windows 11 Safe Mode When F8 Shortcut Doesn't Work as Expected</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-eradicating-iphones-viruses-proven-techniques/"><u>Comprehensive Tutorial: Eradicating iPhones' Viruses - Proven Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-solutions-to-speed-up-your-sluggish-pc/"><u>Easy Solutions to Speed Up Your Sluggish PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-excessive-cpu-use-by-the-windows-modules-installer-in-windows-10-environments/"><u>Effective Solutions for Excessive CPU Use by the Windows Modules Installer in Windows 10 Environments</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-videography-policy-including-aspect-ratios-is-crucial/"><u>In 2024, Twitter's Videography Policy Including Aspect Ratios Is Crucial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-division-in-microsoft-excel-a-comprehensive-tutorial/"><u>Master Division in Microsoft Excel: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-network-troubles-heres-how-to-re-establish-connection/"><u>Minecraft Network Troubles? Here’s How to Re-Establish Connection!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/quick-pace-champions-2022-edition/"><u>Quick Pace Champions 2022 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-setting-up-a-vpn-on-windows-10-systems/"><u>Step-by-Step Instructions for Setting Up a VPN on Windows 10 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-activating-and-using-a-vpn-app-on-an-ipad-for-enhanced-privacy/"><u>Step-by-Step Tutorial: Activating and Using a VPN App on an iPad for Enhanced Privacy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-streamers-for-real-time-television-content-for-2024/"><u>Top 10 Streamers for Real-Time Television Content for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inverting-screen-time-with-android-videos/"><u>[New] Inverting Screen Time with Android Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715859915208-new-pinnacle-playtime-the-greatest-action-adventure-game-lineup-ever/"><u>[New] Pinnacle Playtime The Greatest Action-Adventure Game Lineup Ever!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-extract-and-save-video-previews-free-and-easy/"><u>[Updated] In 2024, Extract and Save Video Previews, Free & Easy</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/h-your-viewing-habit-with-essential-movie-channels-for-2024/"><u>Enrich Your Viewing Habit with Essential Movie Channels for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/from-smartphone-to-stardom-best-vertical-video-editing-apps-for-2024/"><u>From Smartphone to Stardom Best Vertical Video Editing Apps for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/idos-3-the-latest-dos-emulation-software-now-available-on-apples-app-store/"><u>IDOS 3: The Latest DOS Emulation Software Now Available on Apple's App Store</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y02t-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo Y02T?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-essential-microsoft-surface-pro-4-drivers-for-optimal-performance-on-windows-computers/"><u>Install Essential Microsoft Surface Pro 4 Drivers for Optimal Performance on Windows Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/most-anticipated-ios-18-benefit-for-dedicated-android-devotees/"><u>Most Anticipated iOS 18 Benefit for Dedicated Android Devotees</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/my-reasons-for-choosing-the-light-phone-3-the-ultimate-minimalist-smartphone-with-unique-design/"><u>My Reasons for Choosing the Light Phone 3: The Ultimate Minimalist Smartphone with Unique Design</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/outdated-phones-cant-support-android-auto-a-look-at-compatibility-changes/"><u>Outdated Phones Can't Support Android Auto: A Look at Compatibility Changes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revival-of-total-wireless-introducing-budget-friendly-5g-options/"><u>Revival of Total Wireless: Introducing Budget-Friendly 5G Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/risks-of-performing-a-factory-reset-on-your-pixel/"><u>Risks of Performing a Factory Reset on Your Pixel</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tailored-titling-techniques-for-impactful-youtube-channels-for-2024/"><u>Tailored Titling Techniques for Impactful YouTube Channels for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-androids-mobile-data-problem-8-expert-tips-for-a-quick-resolution/"><u>Troubleshooting Android's Mobile Data Problem: 8 Expert Tips for a Quick Resolution</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-compilation-of-ios-compatible-ps2-games/"><u>Ultimate Compilation of iOS-Compatible PS2 Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-google-fi-a-comparative-analysis-with-traditional-mobile-providers/"><u>Understanding Google Fi: A Comparative Analysis with Traditional Mobile Providers</u></a></li>
 </ul></div>
 

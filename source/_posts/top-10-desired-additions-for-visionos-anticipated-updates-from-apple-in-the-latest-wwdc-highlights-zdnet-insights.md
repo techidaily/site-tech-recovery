@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Desired Additions for VisionOS: Anticipated Updates From Apple in the Latest WWDC Highlights - ZDNet Insights"
-date: 2024-09-25T16:18:14.276Z
-updated: 2024-10-02T16:32:07.273Z
+date: 2024-10-06T19:48:06.218Z
+updated: 2024-10-07T23:35:49.465Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ Working in any of the virtual environments (I prefer Mount Hood) is great, but t
 I'd like the ability to create a passthrough opening that allows me to see the keyboard and the mouse (and I wouldn't mind one that lets me also see my coffee cup) while in virtual space. Ideally, an AI would be smart enough to recognize my keyboard (even if it's not Apple branded), but a reasonable first step would be merely allowing users to define passthrough zones by hand in the Vision Pro. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Less draconian media restrictions
@@ -72,13 +72,6 @@ Apple Vision Pro does not allow any screenshots of entertainment media. Period. 
 That precludes using the Vision Pro's mirror-to-Apple TV feature to help a person trying on the Vision Pro for the first time, because as soon as they drop into an entertainment app, it's no longer possible to see anything they're doing. It also precludes family members from watching Apple TV+ together, one on the Vision Pro and the others on the Apple TV. 
 
 Look, I get the whole piracy thing. But limiting even a single screenshot is overkill. Apple, please fix this. It makes it much harder to help you sell your products. Shutting down the ability to mirror any Apple TV+ content from the Vision Pro to the Apple TV is baffling. I, for example, subscribe to the Apple One Premier plan, which allows us to use Family Sharing to share among up to five people. So why is Apple blocking this capability on the Vision Pro? 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  5\. More native spatial apps
 
@@ -94,6 +87,19 @@ Apple currently allows just a few fully immersive environments. While the surfac
 
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. Larger play space boundary
 
 Right now, Apple limits the [total physical play space for virtual experiences to a 1.5-meter boundary](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences) around the initial position of the wearer's head. As a person moves closer to the bounds of that boundary, the virtual world recedes and environment passthrough is activated. 
@@ -107,10 +113,10 @@ There's more flexibility on the Quest 3\. Using a [fairly dangerous optional set
 Maybe, with VisionOS 2.0, Apple will allow for some flexibility in play space boundary size. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  8\. VR controller support
@@ -131,18 +137,18 @@ While many reviewers have described the Vision Pro's hand and eye tracking as "m
 
 This needs to improve, and I hope to see an upgrade in VisionOS 2.0\. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Find My support
 
 It's weird, but there's no Find My app for the Apple Vision Pro. You can't even download it. It's just not there. Now, given [how important it is to be able to use AirPods with the Vision Pro](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/) when around family members, I would think Find My (which regularly helps me find one or the other of my dropped AirPods) would be a necessity. But it's not available. 
 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Bonus: Better personas
 
@@ -186,24 +192,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-clear-distraction-free-viewing-of-old-youtube-content-for-2024/"><u>[New] Clear, Distraction-Free Viewing of Old YouTube Content for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-investigation-vlc-screen-capturer/"><u>[New] In 2024, Investigation VLC Screen Capturer</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-secure-your-animated-gifs-with-these-winning-recording-software-on-pc/"><u>[Updated] Secure Your Animated GIFs with These Winning Recording Software on PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-bringing-bytes-home-4-ways-to-transfer-data-pc/"><u>2024 Approved Bringing Bytes Home 4 Ways to Transfer Data PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-hacks-simplifying-the-process-of-meme-creation/"><u>2024 Approved Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-listeners-language-decoded-without-the-charge/"><u>2024 Approved Listeners' Language Decoded, Without the Charge</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-record-review-repeat-unveiling-top-5-browser-screen-recorders/"><u>2024 Approved Record, Review, Repeat Unveiling Top 5 Browser Screen Recorders</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/are-we-impressed-the-full-on-evaluation-of-inshot-app-for-2024/"><u>Are We Impressed? The Full-On Evaluation of InShot App for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bypassing-the-blues-effective-fixes-for-ntdlldll-complications-on-your-windows-system-windows-7-8-and-10/"><u>Bypassing the Blues: Effective Fixes for ntdll.dll Complications on Your Windows System (Windows 7, 8 & 10)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-reading-journey-indispensable-electronics-for-bibliophiles/"><u>Enhance Your Reading Journey: Indispensable Electronics for Bibliophiles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-your-crew-best-apps-for-making-new-friends-today/"><u>Find Your Crew: Best Apps for Making New Friends Today</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/incarceration-to-insightfulness-ranking-funniest-jailmates-on-social-media/"><u>Incarceration to Insightfulness Ranking Funniest Jailmates on Social Media</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/investigating-the-h2o-proof-capabilities-of-iphone-15-pro-max/"><u>Investigating the H2O Proof Capabilities of iPhone 15 Pro Max</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-issue-of-missing-msvcr100dll-a-step-by-step-guide/"><u>Resolving the Issue of Missing MSVCR100.DLL: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-device-wont-boot-a-guide-to-resolve-code-teacher-x10-issues/"><u>Solving the 'Device Won't Boot': A Guide to Resolve Code [Teacher] X10 Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tcl-introduces-enhanced-q-and-s-series-19-innovative-smart-tv-models-launched/"><u>TCL Introduces Enhanced Q and S Series: 19 Innovative Smart TV Models Launched</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-walkthrough-on-how-to-consolidate-all-your-fortnite-gaming-records-into-one-account/"><u>The Complete Walkthrough on How to Consolidate All Your Fortnite Gaming Records Into One Account</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/when-will-the-new-playstation-portal-arrive-prices-tech-specs-and-retail-outlets-uncovered/"><u>When Will the New PlayStation Portal Arrive? Prices, Tech Specs, and Retail Outlets Uncovered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conjuring-chronology-a-step-by-step-plan-for-enthusiasts-to-follow-the-horror-series-correctly/"><u>'Conjuring' Chronology: A Step-by-Step Plan for Enthusiasts to Follow the Horror Series Correctly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-gimp-tutorial-mastering-filters-and-layers/"><u>[New] In 2024, GIMP Tutorial Mastering Filters & Layers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-discover-the-best-phone-apps-to-improve-vocality-for-2024/"><u>[Updated] Discover the Best Phone Apps to Improve Vocality for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-guide-clearing-out-the-unwanted-space-around-images-with-affinity/"><u>2024 Approved The Ultimate Guide Clearing Out the Unwanted Space Around Images with Affinity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/change-someone-elses-password-in-windows-a-comprehensive-walkthrough/"><u>Change Someone Else’s Password in Windows – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-info.techidaily.com/copying-embedded-media-between-webpages-with-ease-insights-from-flipbuilders-platform/"><u>Copying Embedded Media Between Webpages with Ease: Insights From FlipBuilder's Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-techniques-to-expose-obscured-apps-on-apple-devices/"><u>Discover the Techniques to Expose Obscured Apps on Apple Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-to-recording-live-tv-and-streams-on-your-computer/"><u>Easy Guide to Recording Live TV & Streams on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-eliminating-screen-flicker-and-vibration-issues-in-surface-pro-units/"><u>Expert Advice: Eliminating Screen Flicker and Vibration Issues in Surface Pro Units</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-hot-40-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Hot 40</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-eliminating-unrequested-podcast-episodes-on-spotify-app/"><u>In 2024, Eliminating Unrequested Podcast Episodes on Spotify App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-full-potential-of-windows-11s-auto-hdr-feature/"><u>In 2024, Harnessing the Full Potential of Windows 11'S Auto HDR Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-overview-of-lg-channels-what-you-should-be-aware-of/"><u>In-Depth Overview of LG Channels – What You Should Be Aware Of</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-fix-authentication-hiccups-with-android-wlan/"><u>Mastering the Fix: Authentication Hiccups with Android WLAN</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealth-mode-for-gameplay-on-xbox-consoles/"><u>Stealth Mode for Gameplay on Xbox Consoles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-makes-telegram-a-preferred-chat-service-for-millions/"><u>What Makes Telegram a Preferred Chat Service for Millions?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/yahoo-mail-removal-explained-how-to-ensure-your-account-is-gone-forever/"><u>Yahoo! Mail Removal Explained: How To Ensure Your Account Is Gone Forever</u></a></li>
 </ul></div>
 

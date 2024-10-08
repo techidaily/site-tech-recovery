@@ -1,7 +1,7 @@
 ---
 title: 1. Scan and Convert CR2 RAW Photos to Editable PNG Images at No Cost with ImageConverters
-date: 2024-09-13T19:28:51.459Z
-updated: 2024-09-21T00:04:16.018Z
+date: 2024-10-01T19:57:15.060Z
+updated: 2024-10-07T17:14:37.408Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1c589761259a11d60427bc88.jpg
@@ -177,10 +177,10 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -228,6 +228,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -284,6 +291,13 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -351,13 +365,6 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -386,13 +393,6 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -424,6 +424,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
@@ -431,6 +438,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -499,6 +513,13 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
 Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, voici quelques conseils rapides :
@@ -513,6 +534,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment obtenir 60 fps dans un jeu ?
 
 Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer votre système en général, mais voici ce que vous pouvez faire :
@@ -524,10 +552,10 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 5. Installez les derniers pilotes pour votre carte graphique
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
@@ -537,13 +565,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -578,5 +599,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/month-exclusive-discounts-on-latest-apple-watch-models-you-cant-miss/"><u>[Month]: Exclusive Discounts on Latest Apple Watch Models You Can't Miss</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-8-most-popular-instagram-after-effects-packs/"><u>[Updated] 8 Most Popular Instagram After Effects Packs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-saving-instagrams-trending-videos-for-2024/"><u>[Updated] The Ultimate Guide to Saving Instagram's Trending Videos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-explained-a-look-into-its-corporate-parentage-and-founders/"><u>ChatGPT Explained: A Look Into Its Corporate Parentage and Founders</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-between-echo-dot-and-homepod-mini-similarities-and-contrasts-explained/"><u>Choosing Between Echo Dot and HomePod Mini - Similarities and Contrasts Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-fandango-streaming-the-ultimate-guide-to-access-from-your-apple-tv/"><u>Enjoy Fandango Streaming: The Ultimate Guide to Access From Your Apple TV</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-s18-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo S18 Pro FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-realme-narzo-n53-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Realme Narzo N53 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-showdown-discovering-the-unique-features-of-mini-and-air-variants/"><u>IPad Showdown: Discovering the Unique Features of Mini and Air Variants</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994116911-solving-your-diablo-immortal-troubles-no-more-pc-freezes/"><u>Solving Your Diablo Immortal Troubles – No More PC Freezes !</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722876874865-top-10-must-have-note-taking-apps/"><u>Top 10 Must-Have Note-Taking Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-text-message-problems-on-your-android-phone/"><u>Troubleshooting Text Message Problems on Your Android Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-order-of-transformers-movies-for-binge-watching/"><u>Ultimate Order of Transformers Movies for Binge-Watching</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uncovering-chatgpts-integrity-standpoint/"><u>Uncovering ChatGPT’s Integrity Standpoint</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-dvd-to-computer-the-easy-way-to-convert-and-store-your-favorite-movies-for-2024/"><u>Updated DVD to Computer The Easy Way to Convert and Store Your Favorite Movies for 2024</u></a></li>
+</ul></div>
 

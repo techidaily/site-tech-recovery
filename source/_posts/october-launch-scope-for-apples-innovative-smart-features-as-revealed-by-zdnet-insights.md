@@ -1,7 +1,7 @@
 ---
 title: October Launch Scope for Apple's Innovative Smart Features, as Revealed by ZDNet Insights
-date: 2024-09-25T16:37:25.815Z
-updated: 2024-10-02T17:06:28.445Z
+date: 2024-09-30T19:41:43.918Z
+updated: 2024-10-07T21:46:25.606Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,14 +128,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-masterclass-in-visualization-perfectly-cropped-instagram-videos-for-2024/"><u>[New] Masterclass in Visualization Perfectly Cropped Instagram Videos for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>[Updated] In 2024, The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-disclosure-ricoh-theta-s-inside-and-out/"><u>2024 Approved Full Disclosure Ricoh Theta S Inside & Out</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/educational-electronics-buying-guide-picking-the-right-device-for-study/"><u>Educational Electronics Buying Guide: Picking the Right Device for Study</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 6s?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y100ifrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y100iFRP Lock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/keyboard-magic-trick-learn-how-to-make-and-send-heart-symbols-instantly/"><u>Keyboard Magic Trick! Learn How to Make and Send Heart Symbols Instantly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-best-free-downloadable-car-racing-games-in-2-the-year-2024/"><u>Top 5 Best Free Downloadable Car Racing Games in 2 the Year 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-movie-recommendations-you-shouldnt-miss-watching-today-inspired-by-lifewire/"><u>Top Movie Recommendations You Shouldn't Miss Watching Today - Inspired by Lifewire</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exploring-high-speed-action-a-top-5-game-list-for-2024/"><u>[New] Exploring High-Speed Action A Top 5 Game List for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-beats-in-pictures-the-insta-storytelling-wave/"><u>[New] In 2024, Beats in Pictures The Insta Storytelling Wave</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-experts-guide-to-the-best-ipad-voice-recording-tools-3/"><u>2024 Approved Expert's Guide to the Best iPad Voice Recording Tools #3</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-ranking-the-best-free-vector-and-illustration-online-spots/"><u>2024 Approved Ranking the Best FREE Vector & Illustration Online Spots</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovery-of-four-cortana-succession-steps/"><u>Discovery of Four Cortana Succession Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-virtual-interactions-a-step-by-step-manual-on-using-the-meta-quest-microphone-effectively/"><u>Enhancing Virtual Interactions: A Step-by-Step Manual on Using the Meta Quest Microphone Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-sony-xperia-10-v-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Sony Xperia 10 V to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y17s-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y17s For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-the-line-messaging-app/"><u>In-Depth Analysis of the Line Messaging App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/inside-out-a-thorough-examination-of-dji-phantom-4/"><u>Inside Out A Thorough Examination of DJI Phantom 4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-voice-messaging-tutorial-how-to-effortlessly-share-audio-messages/"><u>IPhone Voice Messaging Tutorial: How to Effortlessly Share Audio Messages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-gimbals-and-tripods-for-youtube-starters/"><u>Professional Gimbals & Tripods for YouTube Starters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-selecting-a-quality-projector-what-you-need-to-know/"><u>The Ultimate Guide to Selecting a Quality Projector – What You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-with-google-pixel-buds-pro-2-price-forecasts-launch-dates-and-expert-rumors-unpacked/"><u>What's New with Google Pixel Buds Pro 2? Price Forecasts, Launch Dates, and Expert Rumors Unpacked</u></a></li>
 </ul></div>
 

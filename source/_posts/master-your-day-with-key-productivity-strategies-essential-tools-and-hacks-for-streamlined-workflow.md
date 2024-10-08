@@ -1,7 +1,7 @@
 ---
 title: "Master Your Day with Key Productivity Strategies: Essential Tools and Hacks for Streamlined Workflow"
-date: 2024-09-27T16:23:40.100Z
-updated: 2024-10-02T16:38:43.459Z
+date: 2024-09-30T21:51:58.921Z
+updated: 2024-10-07T18:55:51.364Z
 tags:
   - apple
 categories:
@@ -54,16 +54,16 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -81,6 +81,13 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -90,6 +97,13 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -108,10 +122,10 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
@@ -177,13 +191,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -192,13 +199,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -230,6 +230,13 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
@@ -249,13 +256,6 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -286,24 +286,17 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-smaller-brands-bigger-impacts-infographics/"><u>[New] 2024 Approved Smaller Brands, Bigger Impacts (Infographics)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-capture-the-world-with-these-leading-4k-cams/"><u>[New] Capture the World with These Leading 4K Cams</u></a></li>
-<li><a href="https://games-able.techidaily.com/2022-secretlab-titan-evo-assessment-unmatched-dominance-in-the-competitive-world-of-gaming-chairs-a-detailed-examination-by-zdnet/"><u>2022 Secretlab Titan Evo Assessment: Unmatched Dominance in the Competitive World of Gaming Chairs - A Detailed Examination by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-new-apple-smartband-pricing-insights-and-forecasted-release-timeline/"><u>All You Need to Know About the New Apple Smartband - Pricing Insights & Forecasted Release Timeline</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/correctly-setting-the-hour-changing-time-features-on-amazon-kindle-paperwhite/"><u>Correctly Setting the Hour: Changing Time Features on Amazon Kindle Paperwhite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899196262-enhance-your-online-presence-blur-your-google-meet-background-today/"><u>Enhance Your Online Presence: Blur Your Google Meet Background Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-difference-cat5-versus-cat6-networking-cable-options/"><u>Exploring the Difference: Cat5 Versus Cat6 Networking Cable Options</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-history-of-aols-aim-the-iconic-instant-messaging-service/"><u>Exploring the History of AOL's AIM: The Iconic Instant Messaging Service</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-the-most-out-of-your-apple-tv-expert-advice-for-peak-experience/"><u>Get the Most Out of Your Apple TV: Expert Advice for Peak Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-honor-100-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Honor 100.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>In 2024, The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/multi-bluetooth-speaker-sync-a-step-by-step-guide/"><u>Multi-Bluetooth Speaker Sync: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-easy-way-to-add-transitions-to-videos-for-2024/"><u>New Easy Way to Add Transitions to Videos for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unlock-pro-level-videos-top-free-online-video-editing-tools-for-2024/"><u>New Unlock Pro-Level Videos Top Free Online Video Editing Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/retrieving-steam-profile-id-step-by-step/"><u>Retrieving Steam Profile ID Step by Step</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-iphone-silent-mode-a-step-by-step-guide/"><u>Solving iPhone Silent Mode: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-creating-viral-reaction-videos-with-filmora/"><u>The Ultimate Guide to Creating Viral Reaction Videos with Filmora</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-sharers-a-guide-to-identifying-people-who-shared-your-facebook-content/"><u>Unveiling the Sharers: A Guide to Identifying People Who Shared Your Facebook Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-cost-effective-way-to-capture-every-frame-with-free-tools-for-2024/"><u>[New] The Cost-Effective Way to Capture Every Frame with Free Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-user-friendly-mac-gadget-visuals-and-voices-recorded/"><u>[Updated] 2024 Approved User-Friendly Mac Gadget Visuals & Voices Recorded</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-master-upside-down-and-sideways-iphone-photo-rotation/"><u>[Updated] Master Upside-Down and Sideways iPhone Photo Rotation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001539471-fifa-21-initialization-error-solved-ready-to-play-now/"><u>FIFA 21 Initialization Error Solved – Ready to Play Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-converter-para-amv-e-avi-em-video-movavi/"><u>Gratis Online Converter Para AMV E Avi Em Video - Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nubia-red-magic-8s-proplus-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nubia Red Magic 8S Pro+ to Another | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-window-11-slide-creators-discover-the-ultimate-list-of-2024s-best-software-solutions/"><u>Leading Window 11 Slide Creators: Discover the Ultimate List of 2024'S Best Software Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-video-edits-with-mpeg-stream-editor-mpte-a-comprehensive-guide-on-merging-cutting-and-splitting-vob-files-expert-tips-from-movavi/"><u>Mastering Video Edits with MPEG Stream Editor (MPTE): A Comprehensive Guide on Merging, Cutting and Splitting VOB Files - Expert Tips From Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/passo-a-passo-como-transformar-arquivos-nef-em-jpeg-usando-o-windows-ou-mac/"><u>Passo a Passo: Como Transformar Arquivos NEF Em JPEG Usando O Windows Ou Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-starting-your-own-podcast-production/"><u>Step-by-Step Guide to Starting Your Own Podcast Production</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformez-facilement-votre-fichier-pgm-en-png-gratuitement-avec-movavi/"><u>Transformez Facilement Votre Fichier PGM en PNG Gratuitement - Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-resolving-echo-is-offline-on-your-amazon-alexa-device/"><u>Troubleshooting Steps: Resolving 'Echo Is Offline' On Your Amazon Alexa Device</u></a></li>
 </ul></div>
 

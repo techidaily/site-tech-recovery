@@ -1,7 +1,7 @@
 ---
 title: Navigate iOS Tablets and Phones Using Only Your Gaze, Thanks to Apple's Latest Accessibility Innovation | ZDNET
-date: 2024-09-25T16:40:03.994Z
-updated: 2024-10-02T16:54:52.601Z
+date: 2024-10-01T17:33:17.666Z
+updated: 2024-10-07T22:57:51.329Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -64,10 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,16 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -136,16 +130,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-free-screen-recording-software-windows-and-mac/"><u>[New] 2024 Approved Free Screen Recording Software [Windows & Mac]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fastest-on-ice-olympic-highlights-in-short-track-events/"><u>[New] Fastest on Ice Olympic Highlights in Short Track Events</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-virtual-console-with-top-5-ps3-emulators/"><u>[Updated] 2024 Approved Mastering Virtual Console with Top 5 PS3 Emulators</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-audio-memo-fundamentals-a-complete-guidebook/"><u>[Updated] In 2024, Audio Memo Fundamentals A Complete Guidebook</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-prime-20-laugh-inducing-prison-jail-memes-to-elevate-social-media-experience/"><u>[Updated] In 2024, Prime 20 Laugh-Inducing Prison Jail Memes to Elevate Social Media Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-practices-for-finding-your-ideal-smartphone-selfie-accessory/"><u>Best Practices for Finding Your Ideal Smartphone Selfie Accessory</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-purging-all-correspondence-from-your-gmail-application/"><u>Comprehensive Tutorial - Purging All Correspondence From Your Gmail Application</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-the-excitement-unveiling-of-the-newest-apple-iphone/"><u>Experience the Excitement: Unveiling of the Newest Apple iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-guide-handling-the-problem-of-non-existent-or-lost-d3dx9nineteen-dll-file/"><u>Fix Guide: Handling the Problem of Non-Existent or Lost D3dx9_nineteen Dll File</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-i-mastered-crafting-an-intricate-3d-printed-plane-and-what-others-are-doing-too/"><u>How I Mastered Crafting an Intricate 3D Printed Plane - And What Others Are Doing Too!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-heat-equation-for-transient-analysis-in-one-dimension-is-tt-a-tx/"><u>The Heat Equation for Transient Analysis in One Dimension Is ∂T/∂t = Α ∂²T/∂x².</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beyond-vlc-a-deep-dive-into-media-players/"><u>[New] Beyond VLC A Deep Dive Into Media Players</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-efficient-strategies-to-log-facetime-discussions/"><u>[New] In 2024, Efficient Strategies to Log FaceTime Discussions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-effective-interview-techniques/"><u>[Updated] Mastering Effective Interview Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-guide-to-nikon-d7500-performance/"><u>2024 Approved Comprehensive Guide to Nikon D7500 Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-downloading-and-installing-nvidia-gtx-460-drivers-on-windows/"><u>Quick and Easy Guide: Downloading & Installing NVIDIA GTX 460 Drivers on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-ntldr-is-missing-blue-screen-comprehensive-troubleshooting-guide/"><u>Resolving the 'NTLDR Is Missing' Blue Screen: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/safeguard-personal-data-by-refreshing-settings-on-your-samsung-visual-unit/"><u>Safeguard Personal Data by Refreshing Settings on Your Samsung Visual Unit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-exploration-of-modern-wi-fi-standards-discovering-802/"><u>Step by Step Exploration of Modern Wi-Fi Standards - Discovering 802</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-creatives-choice-exploring-17-superior-graphics-software-solutions/"><u>The Creatives' Choice: Exploring 17 Superior Graphics Software Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tickling-titles-top-10-comedy-centric-youtube-short-ideas-for-2024/"><u>Tickling Titles Top 10 Comedy-Centric YouTube Short Ideas for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-epubor-applications-streamline-your-book-creation-process-with-advanced-software-tools/"><u>Top EPUBOR Applications: Streamline Your Book Creation Process with Advanced Software Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-boundaries-in-digital-conversations/"><u>Understanding Boundaries in Digital Conversations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Leap with ARM Architecture: Can It Surpass Apple's M1 in Computing Power?"
-date: 2024-09-29T16:24:04.376Z
-updated: 2024-10-02T16:23:31.813Z
+date: 2024-10-03T17:42:43.311Z
+updated: 2024-10-07T18:32:23.350Z
 tags:
   - apple
 categories:
@@ -49,16 +49,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
@@ -72,6 +66,13 @@ Apple's historical commitment to privacy can also give it a significant advantag
 Providing private or family-specific AI instances would further enhance privacy and personalized interactions. For example, HomePod could recognize individual voices and offer personalized responses, while Apple TV+ could recommend shows tailored to each user. AI can coordinate family schedules, manage activities, and send reminders. Robust privacy controls and advanced parental controls ensure secure and healthy digital environments for children.
 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
 
@@ -87,13 +88,6 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
 
 To meet the growing demand for fast application response times, I believe Apple should consider using AI-accelerated edge devices capable of handling complex AI tasks locally. This would help reduce latency and improve overall performance. Apple's vertically integrated supply chain will likely involve AI servers powered by M2 Ultra and M4 chips, especially within its data centers. This setup would ensure seamless integration with Apple's software and provide greater control over performance and security. Localized processing can be enabled by placing these devices strategically in regional and metropolitan data centers, reducing the reliance on internet bandwidth.
@@ -101,13 +95,6 @@ To meet the growing demand for fast application response times, I believe Apple 
 **Also: [AI at the edge: 5G and the Internet of Things see fast times ahead](https://www.zdnet.com/article/ai-at-the-edge-fast-times-ahead-for-5g-and-the-internet-of-things/)**
 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
 
@@ -120,10 +107,16 @@ AI can enhance contextual awareness by integrating with sensors and data sources
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
@@ -141,6 +134,13 @@ For Apple TV, AI could improve content discovery by recommending shows based on 
 Leveraging AI to enhance HomeKit's capabilities is essential, especially since HomeKit isn't a market leader in home automation. AI can offer smarter home automation by predicting user behavior to automate lights, thermostat settings, and security systems. 
 
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
 
@@ -184,18 +184,22 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-streamline-your-video-watching-experience-with-easy-timestamp-addition/"><u>[New] 2024 Approved Streamline Your Video Watching Experience with Easy Timestamp Addition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-preserve-and-access-your-favorite-discord-livestreams-easily/"><u>[New] How to Preserve and Access Your Favorite Discord Livestreams Easily</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-six-simplest-strategies-to-craft-your-mc-dwelling/"><u>[Updated] Six Simplest Strategies to Craft Your MC Dwelling</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-fixing-0xc00000f-error/"><u>A Comprehensive Guide to Fixing 0xC00000F Error</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-the-pros-and-cons-of-local-language-models/"><u>Deciphering the Pros and Cons of Local Language Models</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722842673523-easy-steps-for-setting-up-shared-access-to-your-printer-from-various-gadgets/"><u>Easy Steps for Setting Up Shared Access to Your Printer From Various Gadgets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enabling-extra-protection-a-guide-to-turning-on-gmails-2fa/"><u>Enabling Extra Protection: A Guide to Turning On Gmail's 2FA</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-x100-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo X100 Pro Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-x50-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor X50 Location | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/innovation-reveal-previewing-the-highlights-at-apples-next-iphone-launch/"><u>Innovation Reveal: Previewing the Highlights at Apple's Next iPhone Launch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-snapchats-language-decoding-emoji-significances-inside-out/"><u>Mastering Snapchat's Language: Decoding Emoji Significances Inside Out</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-best-online-coupon-sites-to-slash-your-spending/"><u>Unlocking the Best Online Coupon Sites to Slash Your Spending</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-go-to-selection-top-13-freebie-pdf-editors-showcased-in-july-2024/"><u>Your Go-To Selection: Top 13 Freebie PDF Editors Showcased in July 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-through-eyes-unseen-an-essential-vr-chronology/"><u>[New] Through Eyes Unseen An Essential VR Chronology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-virtual-producer-duel-for-2024/"><u>[Updated] Virtual Producer Duel for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284966525-dvd/"><u>無料 DVDコピーワンクラス解除ソフトウェア「窓の杜」使用方法</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-up-on-windows-update-troubles-defeating-0x800736cc/"><u>Easing Up on Windows Update Troubles: Defeating 0X800736CC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-convert-mmf-audio-files-to-mp3-for-free-using-movavis-web-based-tool/"><u>Effortlessly Convert MMF Audio Files to MP3 for Free Using Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-companys-media-management-with-movavi-secure-your-copyright-free-editing-toolkit/"><u>Elevate Your Company's Media Management with Movavi - Secure Your Copyright-Free Editing Toolkit!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-beat-nba-2k23-pc-lag-with-our-7-expert-tips/"><u>Fix Your Game: Beat NBA 2K23 PC Lag with Our 7 Expert Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-increase-video-luminance-and-beyond-expert-tips-and-tricks/"><u>How to Effectively Increase Video Luminance and Beyond: Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-conversor-on-line-gratis-para-transformar-archivos-gsm-en-formatos-mp3-sin-costo-alguno/"><u>Movavi - Conversor On-Line Gratis Para Transformar Archivos GSM en Formatos MP3 Sin Costo Alguno</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/scattare-gratuitamente-con-convertire-pef-di-movavi-la-tua-guida-completa/"><u>Scattare Gratuitamente Con Convertire PEF Di Movavi: La Tua Guida Completa</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-silence-after-windows-11-upgrade-audio-issues-fixed/"><u>Solved: Silence After Windows 11 Upgrade - Audio Issues Fixed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-merging-vob-format-videos-efficiently-with-just-five-simple-actions/"><u>Step-by-Step Guide: Merging VOB Format Videos Efficiently with Just Five Simple Actions</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pova-6-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 6 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformation-gratuite-de-fichiers-mov-en-mp4-en-ligne-avec-movavi-tutorial-complet/"><u>Transformation Gratuite De Fichiers MOV en MP4 en Ligne Avec Movavi – Tutorial Complet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/xp-pen-artist-16-pro-drawing-tablet-review/"><u>XP-Pen Artist 16 Pro Drawing Tablet Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726226595177-qtflv-movavi/"><u>オンラインで簡単QTファイルを無料FLVに変換: Movavi</u></a></li>
 </ul></div>
 

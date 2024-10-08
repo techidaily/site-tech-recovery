@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest AI Innovations at WWDC: Uninspiring Yet Welcome Changes You Should Know About - An Expert Opinion"
-date: 2024-09-26T17:10:18.521Z
-updated: 2024-10-02T16:54:05.530Z
+date: 2024-10-02T20:44:02.192Z
+updated: 2024-10-07T18:49:26.642Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +65,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -81,13 +88,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,16 +166,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-personalize-save-location-for-captured-mac-screen/"><u>[Updated] Personalize Save Location for Captured Mac Screen</u></a></li>
-<li><a href="https://facebook.techidaily.com/forums-fade-away-here-are-6-reasons-why/"><u>Forums Fade Away, Here Are 6 Reasons Why</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ignite-passion-an-essential-guide-to-10-motivational-films-for-2024/"><u>Ignite Passion An Essential Guide to 10 Motivational Films for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incremental-sound-dampening-strategy/"><u>In 2024, Incremental Sound Dampening Strategy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pc-malfunction-how-to-resolve-unexpected-shutdowns-in-video-games/"><u>PC Malfunction - How to Resolve Unexpected Shutdowns in Video Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pc-monitor-flipping-guide-a-simple-solution-unveiled/"><u>PC Monitor Flipping Guide: A Simple Solution Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-bluestacks-stability-issues-with-these-simple-fixes/"><u>Solve Your BlueStacks Stability Issues with These Simple Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/speed-up-minecraft-now-with-these-simple-tips/"><u>Speed Up Minecraft Now with These Simple Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-linking-your-pc-to-a-wireless-network-on-windows-10/"><u>Step-by-Step Guide: Linking Your PC to a Wireless Network on Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-successfully-setting-up-kodi-on-your-windows-11-pc/"><u>Step-by-Step Guide: Successfully Setting Up Kodi on Your Windows 11 PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-expert-tips-for-drone-racing-enthusiasts-and-premium-fpv-units/"><u>[Updated] In 2024, Expert Tips for Drone Racing Enthusiasts & Premium FPV Units</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-setup-guide-enabling-windows-copilot-on-your-personal-computers-and-mobile-gadgets/"><u>Easy Setup Guide: Enabling Windows Copilot on Your Personal Computers and Mobile Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-for-battery-life-extension-on-notebooks/"><u>Effective Techniques for Battery Life Extension on Notebooks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ensuring-permanence-in-the-ephemeral-web-the-importance-of-archiving-internet-content/"><u>Ensuring Permanence in the Ephemeral Web: The Importance of Archiving Internet Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guardianship-tactics-ensuring-safety-for-your-family-against-internet-swindles/"><u>Guardianship Tactics: Ensuring Safety for Your Family Against Internet Swindles</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y200e-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y200e 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improving-your-emails-how-gmail-adapts-for-ultimate-comfort-on-smartphones-tablets-and-phablets/"><u>Improving Your Emails: How Gmail Adapts for Ultimate Comfort on Smartphones, Tablets, and Phablets</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-ignite-interest-essential-youtube-video-concepts/"><u>In 2024, Ignite Interest Essential YouTube Video Concepts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/introducing-tiktoks-latest-features-engaging-group-conversations-and-fun-sticker-collection/"><u>Introducing TikTok's Latest Features: Engaging Group Conversations & Fun Sticker Collection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-1-new-york-times-quiz-solve-connection-puzzles-explore-insights-and-answers-386/"><u>July 1 New York Times Quiz: Solve Connection Puzzles - Explore Insights & Answers #386</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-22-edition-of-nyt-connections-insights-and-answers-unveiled-clue-407/"><u>July 22 Edition of 'NYT Connections': Insights & Answers Unveiled (Clue #407)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-8-insightful-nyt-connections-quiz-discover-todays-challenge-393/"><u>July 8 Insightful Nyt Connections Quiz: Discover Today's Challenge #393</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/june-11-new-york-times-puzzle-solutions-unlocking-the-clues-today/"><u>June 11 New York Times Puzzle Solutions: Unlocking the Clues Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-ups-solutions-ranking-the-ultimate-protectors-of-your-tech-2024-edition/"><u>Leading UPS Solutions: Ranking the Ultimate Protectors of Your Tech, 2024 Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solutions-to-pci-cryptography-module-driver-errors-resolved/"><u>Solutions to PCI Cryptography Module Driver Errors - Resolved!</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-cooperative-touchscreen-actions-in-windows/"><u>Troubleshooting Non-Cooperative Touchscreen Actions in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-wi-fi-6-technology-a-guide-to-the-new-standard-80211ax/"><u>Understanding Wi-Fi 6 Technology: A Guide to the New Standard 802.11AX</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-10-secure-online-forums-dedicated-to-meeting-fellow-netizens-for-2024/"><u>Updated 10 Secure Online Forums Dedicated to Meeting Fellow Netizens for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Apple WWDC: The Intriguing Aspects of the Freshly Launched New VisionOS N Features | Tech Analysis by ZDNET"
-date: 2024-09-30T16:39:26.669Z
-updated: 2024-10-02T16:45:08.187Z
+date: 2024-10-05T19:36:13.792Z
+updated: 2024-10-07T19:43:59.654Z
 tags:
   - apple
 categories:
@@ -42,18 +42,18 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -77,13 +77,6 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. New developer APIs
 
 There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, Apple is showcasing three new APIs developers can use to gain access to Apple technology. 
@@ -95,10 +88,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -108,13 +101,6 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -126,6 +112,13 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -134,6 +127,13 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -179,18 +179,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/1726030635795-windows-1110/"><u>「Windows 11・10両用」スクリーンキャプチャ手順入門：トップティッカーレシピ</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-video-creation-secrets-of-the-professionals-unveiled/"><u>2024 Approved YouTube Video Creation Secrets of the Professionals Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-on-how-to-give-steam-digital-presents/"><u>A Comprehensive Tutorial on How to Give Steam Digital Presents</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-review-assessing-the-effectiveness-of-western-digitals-datalifeguard-diagnostics/"><u>Expert Review: Assessing the Effectiveness of Western Digital's DataLifeGuard Diagnostics</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-netflix-up-and-running-again-on-your-lg-hdtv/"><u>How To Get Netflix Up and Running Again on Your LG HDTV</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-s17-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo S17 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-pdhdll-error-a-step-by-step-guide/"><u>Resolving pdh.dll Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a15-4g-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy A15 4G can't play MP4 video files</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-chrome-setup-in-windows-11-systems/"><u>Seamless Chrome Setup in Windows 11 Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-tecno-pova-6-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Tecno Pova 6 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-path-to-gaming-bliss-guide-to-drive-selection/"><u>The Path to Gaming Bliss: Guide to Drive Selection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-solving-zlibdll-not-found-problems-on-your-pc/"><u>Understanding and Solving zlib.dll Not Found Problems on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-syncing-songs-with-your-insta-videos-like-a-pro/"><u>Unlocking the Secrets: Syncing Songs with Your Insta Videos Like a Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-premium-motion-mastery-modules/"><u>[New] In 2024, Premium Motion Mastery Modules</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-youtube-end-screen-templates-for-content-makers/"><u>[Updated] Essential YouTube End Screen Templates for Content Makers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solutions-for-fixing-the-missing-launchdll-errors/"><u>Comprehensive Solutions for Fixing the Missing Launch.dll Errors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/editing-videos-on-mac-os-x-yosemite-a-beginners-guide-for-2024/"><u>Editing Videos on Mac OS X Yosemite A Beginners Guide for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/excel-basics-revealed-configuring-preferred-font-style-and-dimensions-for-fresh-spreadsheets/"><u>Excel Basics Revealed: Configuring Preferred Font Style and Dimensions for Fresh Spreadsheets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-bogus-friend-requests-online/"><u>Identifying Inauthentic Connections: A Guide to Recognizing Bogus Friend Requests Online</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 15 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-facebook-features-understanding-marketplace-availability-issues/"><u>Navigating Facebook Features: Understanding Marketplace Availability Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/need-to-locate-your-email-follow-this-handy-guide/"><u>Need to Locate Your Email? Follow This Handy Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalize-your-home-streaming-a-detailed-walkthrough-to-alter-chromecast-backgrounds/"><u>Personalize Your Home Streaming: A Detailed Walkthrough to Alter Chromecast Backgrounds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/surviving-rough-seas-assessing-the-waterproof-features-of-the-iphone-15-pro-max/"><u>Surviving Rough Seas: Assessing the Waterproof Features of the iPhone 15 Pro Max</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-70-lite-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor 70 Lite 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

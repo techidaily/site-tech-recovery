@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Privacy: Turn Off 'Discoverability' For iPhones via Apple Journal | Expert Advice on Safeguarding Your Device"
-date: 2024-10-01T16:24:57.882Z
-updated: 2024-10-02T16:45:43.744Z
+date: 2024-10-06T21:41:32.638Z
+updated: 2024-10-07T23:35:02.608Z
 tags:
   - apple
 categories:
@@ -56,10 +56,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -79,10 +79,16 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -97,13 +103,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -115,6 +114,13 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -140,6 +146,13 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -155,13 +168,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -218,21 +224,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-comparing-aurora-and-competitors-dynamic-range-effects/"><u>[New] 2024 Approved Comparing Aurora and Competitors' Dynamic Range Effects</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-adobe-photos-sway-decrease-a-crucial-feature/"><u>[Updated] Adobe Photos' Sway Decrease - A Crucial Feature?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-go-big-go-viral-channel-tiktok-trends-into-instagram-reels/"><u>[Updated] Go Big, Go Viral Channel TikTok Trends Into Instagram Reels</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-crafting-captivating-edu-vids-on-youtube-a-step-by-step-guide/"><u>[Updated] In 2024, Crafting Captivating Edu-Vids on YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-verdict-hero4-black-excellence/"><u>2024 Approved Full Verdict Hero4 Black Excellence</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-vivo-y200-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Vivo Y200</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-connect-your-vizio-television-to-wi-fi-effectively/"><u>Expert Advice: Connect Your Vizio Television to Wi-Fi Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-manually-initiating-a-fresh-start-of-your-pc-with-windows-safe-mode-activation/"><u>Expert Tips: Manually Initiating a Fresh Start of Your PC with Windows Safe Mode Activation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-you-tell-if-sonys-playstation-network-server-issues-affect-everyone-or-just-your-connection/"><u>How Can You Tell If Sony's PlayStation Network Server Issues Affect Everyone or Just Your Connection?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-elevate-your-drone-experience-with-these-essentials/"><u>In 2024, Elevate Your Drone Experience with These Essentials</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-activatedeactivate-windows-11s-touchscreen-input/"><u>Steps to Activate/Deactivate Windows 11'S Touchscreen Input</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-solutions-for-msidll-missing-error-on-your-computer/"><u>Ultimate Solutions for msi.dll Missing Error on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-hidden-advantages-priority-parking-and-carpool-lane-use-for-eco-friendly-drivers/"><u>Unlock Hidden Advantages: Priority Parking and Carpool Lane Use for Eco-Friendly Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-apple-m4-powered-mac-mini-latest-leaks-on-pricing-launch-timeline-and-technical-specifications/"><u>Upcoming Apple M4-Powered Mac Mini - Latest Leaks on Pricing, Launch Timeline & Technical Specifications</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-in-warfare-youtubes-elite-ten-for-2024/"><u>Women in Warfare YouTube’s Elite Ten for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-quick-zoomers-guide-to-clearer-instagram-narratives/"><u>[New] 2024 Approved The Quick-Zoomer's Guide to Clearer Instagram Narratives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-the-process-essential-techniques-and-strategies-for-green-screen-filmmaking-for-2024/"><u>[Updated] Mastering the Process Essential Techniques & Strategies for Green Screen Filmmaking for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/blur-the-scene-expert-tips-for-hiding-distractions-during-google-meets/"><u>Blur the Scene: Expert Tips for Hiding Distractions During Google Meets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-the-right-timing-how-regularly-should-you-consider-a-new-mobile-device/"><u>Determining The Right Timing: How Regularly Should You Consider a New Mobile Device?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-the-non-responsive-chatgpt-app-for-iphone-users-a-step-by-nstep-guide/"><u>Fixing the Non-Responsive ChatGPT App for iPhone Users - A Step-by-nStep Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hogwarts-legacy-wont-start-discover-8-key-solutions-to-get-you-gaming-again/"><u>Hogwarts Legacy Won't Start? Discover 8 Key Solutions to Get You Gaming Again</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-reno-9a-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Reno 9A?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-selection-of-20-dynamic-chatgpt-sessions-on-github/"><u>Premier Selection of 20 Dynamic ChatGPT Sessions on GitHub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-to-fix-when-xlivedll-is-not-detected-or-lost-in-windows/"><u>Solutions to Fix When Xlive.dll Is Not Detected or Lost in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-protected-content-a-comprehensive-solution-for-the-elusive-401-error-dilemma/"><u>Unlock Protected Content: A Comprehensive Solution for the Elusive 401 Error Dilemma</u></a></li>
 </ul></div>
 

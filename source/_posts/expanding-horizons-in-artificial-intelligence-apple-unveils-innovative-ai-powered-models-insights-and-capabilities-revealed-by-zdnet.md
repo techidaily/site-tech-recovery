@@ -1,7 +1,7 @@
 ---
 title: "Expanding Horizons in Artificial Intelligence: Apple Unveils Innovative AI-Powered Models - Insights & Capabilities Revealed by ZDNet"
-date: 2024-09-30T16:49:30.946Z
-updated: 2024-10-02T16:14:28.736Z
+date: 2024-09-30T16:38:45.654Z
+updated: 2024-10-07T18:57:15.229Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -56,10 +63,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -102,19 +109,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -126,6 +120,13 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -140,10 +141,10 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -176,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,22 +218,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-full-examination-evaluating-the-gecata-analyzer/"><u>[New] Full Examination Evaluating the Gecata Analyzer</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-interrupting-real-time-recording-on-quicktime-for-2024/"><u>[New] Interrupting Real-Time Recording on QuickTime for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/a-comprehensive-guide-to-refreshing-msi-drivers-for-windows-7810/"><u>A Comprehensive Guide to Refreshing MSI Drivers for Windows 7/8/10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-ai-amplifies-cybercrime-risks-exploring-5-ways-it-benefits-criminals/"><u>How AI Amplifies Cybercrime Risks - Exploring 5 Ways It Benefits Criminals</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-install-and-use-a-racing-steering-wheel-on-your-computer-a-complete-guide/"><u>How To Install And Use A Racing Steering Wheel On Your Computer - A Complete Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-solve-the-0x8070422-issue-during-windows-11-updates-detailed-steps/"><u>How to Solve the 0X80#70422 Issue During Windows 11 Updates [Detailed Steps]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-yuva-3-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Yuva 3 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/internet-shopping-protection-how-to-shop-securely-and-avoid-scams/"><u>Internet Shopping Protection: How to Shop Securely and Avoid Scams</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/language-model-showdown-insights-into-gpt-and-bert-differences/"><u>Language Model Showdown: Insights Into GPT and BERT Differences</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-msi-cam-repairs-advanced-fixes-to-get-your-camera-up-and-running-again-a-2024-insight/"><u>Mastering MSI Cam Repairs: Advanced Fixes to Get Your Camera Up & Running Again - A 2024 Insight</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-10-best-free-online-video-compressors-no-download/"><u>New 10 Best Free Online Video Compressors No Download</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-boot-up-roadblocks-in-windows-10-a-step-by-step-solution-to-unlocking-your-system-with-f8-safe-mode/"><u>Overcoming Boot-Up Roadblocks in Windows 10: A Step-by-Step Solution to Unlocking Your System with F8 Safe Mode</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-guide-resetting-your-yahoo-password-made-simple-and-secure/"><u>Quick Guide: Resetting Your Yahoo Password Made Simple and Secure</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rebuild-icon-cache-in-windows-7-windows-8-and-vista-easily/"><u>Rebuild Icon Cache in Windows 7, Windows 8 & Vista Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/skype-call-failed-on-windows-11-7-solved/"><u>Skype: Call Failed on Windows 11 / 7 [Solved]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-from-playtime-to-production-sims-4-video-capturing/"><u>[New] 2024 Approved From Playtime to Production Sims 4 Video Capturing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-parody-playground-top-10-laugh-out-loud-songs/"><u>[New] In 2024, Parody Playground Top 10 Laugh-Out-Loud Songs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-sync-your-storytelling-iphone-captures-words-and-pictures/"><u>[New] Sync Your Storytelling IPhone Captures Words and Pictures</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlinking-from-youtube-shorts-easy-and-permanent-for-2024/"><u>[New] Unlinking From YouTube Shorts - Easy and Permanent for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-fourfold-guide-to-podcasting-in-education-via-mac/"><u>[Updated] In 2024, Fourfold Guide to Podcasting in Education via Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-educational-apps-for-students-in-high-school-the-ultimate-list/"><u>Best Educational Apps for Students in High School - The Ultimate List!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-128gb-hold-extensive-video-content-in-2024/"><u>Can 128GB Hold Extensive Video Content, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/do-you-really-need-a-dac-in-your-audio-setup-lets-find-out/"><u>Do You Really Need a DAC in Your Audio Setup? Let's Find Out!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-breakdown-of-theta-s-specifications/"><u>In 2024, Comprehensive Breakdown of Theta S Specifications</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simplifying-sound-the-basics-of-audio-compression-and-quick-guide-on-making-your-recordings-tighter/"><u>Simplifying Sound: The Basics of Audio Compression & Quick Guide on Making Your Recordings Tighter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-incorporating-music-into-canva-projects/"><u>Step-by-Step Incorporating Music Into Canva Projects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-setting-up-post-timelines-on-twitter-with-x-tool/"><u>The Ultimate Guide to Setting Up Post Timelines on Twitter with X Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-waterproof-smartphone-protectors-2024/"><u>Top-Rated Waterproof Smartphone Protectors 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tracing-back-yahoo-messenger-origins-evolution-and-eventual-closure/"><u>Tracing Back Yahoo! Messenger: Origins, Evolution & Eventual Closure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-nintendo-switch-online-outage-whats-happening-and-how-to-fix-it/"><u>Troubleshooting: Nintendo Switch Online Outage – What's Happening and How to Fix It!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-d3dx92e26dll-file-missing-issues/"><u>Ultimate Guide: Resolving d3dx9_2e_26.dll File Missing Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/voice-command-showdown-comparing-the-pros-and-cons-of-alexa-and-google-assistant-for-users-like-you/"><u>Voice Command Showdown: Comparing the Pros and Cons of Alexa & Google Assistant for Users Like You</u></a></li>
 </ul></div>
 

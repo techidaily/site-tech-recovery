@@ -1,7 +1,7 @@
 ---
 title: "Live Updates From the Apple WWDC Keynote: Latest on AI Innovations with Siri and What's New in iOS 18 | TechSpot"
-date: 2024-09-25T17:01:29.996Z
-updated: 2024-10-02T16:21:54.173Z
+date: 2024-10-05T23:15:24.469Z
+updated: 2024-10-07T16:25:45.656Z
 tags:
   - apple
 categories:
@@ -83,27 +83,32 @@ ChatGPT will be available in iOS 18, iPadOS 18, and MacOS Sequoia later this yea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-professional-level-photo-enhancement-on-snapchat/"><u>[New] Professional-Level Photo Enhancement on Snapchat</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-secrets-to-premieres-full-screen-mode-for-2024/"><u>[Updated] Unveiling the Secrets to Premiere's Full Screen Mode for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-keeping-track-saving-insta-visuals-on-iphone/"><u>2024 Approved Keeping Track Saving Insta Visuals on iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-retrospective-on-yahoo-messengers-history-and-the-decision-to-shut-it-down/"><u>A Retrospective on Yahoo! Messenger's History & The Decision to Shut It Down</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-giants-gemini-and-chatgpt-unite/"><u>Comparing Giants: Gemini and ChatGPT Unite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-the-charging-problem-in-playstation-5-gaming-handsets/"><u>Diagnosing and Repairing the Charging Problem in PlayStation 5 Gaming Handsets</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6s-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6s Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-xr-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone XR Without a Home Button</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/most-popular-tweets-top-ten-hits-list/"><u>Most Popular Tweets Top Ten Hits List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-a-galaxy-of-stars-how-to-watch-all-star-wars-movies-in-order-on-disney-plus/"><u>Navigating Through a Galaxy of Stars: How to Watch All Star Wars Movies in Order on Disney Plus</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/nintendo-switch-photography-expert-tips-for-screen-shotting-and-video-clips/"><u>Nintendo Switch Photography: Expert Tips for Screen Shotting & Video Clips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/personalize-your-pc-experience-by-altering-taskbar-hues-in-windows-10/"><u>Personalize Your PC Experience by Altering Taskbar Hues in Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-access-and-edit-pages-documents-on-your-windows-or-mac-computer/"><u>Steps to Access and Edit Pages Documents on Your Windows or Mac Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-computer-boot-up-without-visual-output/"><u>Troubleshooting Tips: Computer Boot Up Without Visual Output</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-6-software-for-multilingual-video-aids/"><u>[New] Leading 6 Software for Multilingual Video Aids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-transforming-your-facebook-history-a-look-back-video-guide-for-2024/"><u>[New] Transforming Your Facebook History A Look Back Video Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-why-your-camera-stops-in-the-mid-action/"><u>[New] Understanding Why Your Camera Stops in the Mid-Action</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-financial-scale-one-million-youtube-viewers-pay/"><u>[Updated] The Financial Scale One Million YouTube Viewers' Pay</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-proven-3-step-framework-for-creating-persuasive-facebook-ad-content/"><u>2024 Approved Proven 3-Step Framework for Creating Persuasive Facebook Ad Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-your-tv-setup-for-a-memorable-super-bowl-showdown/"><u>Enhancing Your TV Setup for a Memorable Super Bowl Showdown</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-successfully-whitelisting-your-contact-information-in-email-marketing/"><u>Essential Tips for Successfully Whitelisting Your Contact Information in Email Marketing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-beyond-boundaries-revitalizing-vr-content/"><u>In 2024, Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/scholar-savvy-shopping-how-students-can-score-on-dell-deals/"><u>Scholar Savvy Shopping: How Students Can Score on Dell Deals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-mfplatdll-error-effective-solutions/"><u>Troubleshooting the 'Missing mfplat.dll' Error - Effective Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-amazing-free-preschool-activities-and-games/"><u>Ultimate List of Amazing Free Preschool Activities and Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-system-speed-top-12-free-disk-defragmenter-software-of-july-2024/"><u>Unlocking System Speed: Top 12 FREE Disk Defragmenter Software of July 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-the-method-for-taking-away-default-apps-installed-on-iphones/"><u>What's the Method for Taking Away Default Apps Installed on iPhones?</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

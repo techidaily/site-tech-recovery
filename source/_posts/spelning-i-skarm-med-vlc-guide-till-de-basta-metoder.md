@@ -1,7 +1,7 @@
 ---
 title: Spelning I Skärm Med VLC - Guide Till De Bästa Metoder
-date: 2024-09-17T07:29:21.802Z
-updated: 2024-09-21T07:24:44.287Z
+date: 2024-09-30T21:55:19.824Z
+updated: 2024-10-07T18:10:54.641Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f7029f1358b11e947d20dbef.jpg
@@ -176,11 +176,25 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -214,6 +228,19 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -227,6 +254,13 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -266,23 +300,9 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -324,6 +344,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -331,6 +358,13 @@ Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en m
 Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de la souris" dans la zone de recherche. Choisissez **Modifier l'affichage ou la vitesse du pointeur de la souris**. Dans la fenêtre qui s'ouvre, allez dans l'onglet **Options du pointeur** et décochez la case **Améliorer la précision du pointeur**.
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -347,6 +381,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -421,13 +462,6 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
@@ -444,13 +478,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -482,19 +509,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -528,6 +542,19 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -584,5 +611,26 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-transform-your-images-proven-pixlr-strategies/"><u>[New] Transform Your Images Proven Pixlr Strategies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-breaking-into-the-brainshare-how-to-hype-up-your-fb-content/"><u>[Updated] Breaking Into the Brainshare How to Hype Up Your FB Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-seas-silent-storytelling-mastering-gopro-footage-in-deep-waters/"><u>[Updated] In 2024, Sea's Silent Storytelling Mastering GoPro Footage in Deep Waters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breeze-through-it-the-10-simplest-methods-for-solving-typical-apple-pay-glitches/"><u>Breeze Through It: The 10 Simplest Methods for Solving Typical Apple Pay Glitches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722882260218-cant-get-your-ipad-and-printer-talking-lets-fix-that-now/"><u>Can't Get Your iPad and Printer Talking? Let's Fix That Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-on-your-phone-discover-why-it-may-not-be-necessary-to-install/"><u>ChatGPT on Your Phone: Discover Why It May Not Be Necessary to Install</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-repairing-coredll-error-and-restoring-your-system/"><u>Comprehensive Strategies for Repairing Core.dll Error and Restoring Your System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-to-enable-facebook-marketplace-on-your-account/"><u>Discover How to Enable Facebook Marketplace on Your Account</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-your-windows-onedrive-hurdles-now/"><u>Fix Your Windows OneDrive Hurdles Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-with-samsungs-latest-creation-insights-into-the-z-fold-6-cost-launch-date-and-tech-specs/"><u>Get Ahead of the Curve with Samsung's Latest Creation: Insights Into the Z Fold 6 Cost, Launch Date & Tech Specs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-find-x7-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo Find X7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y56 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-errors-with-the-absent-d3dx940-dynamic-link-library/"><u>Overcoming Errors with the Absent D3dx9_40 Dynamic Link Library</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-echo-is-offline-issues-on-your-amazon-alexa-device/"><u>Resolving 'Echo Is Offline' Issues on Your Amazon Alexa Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snippet-showcase-cinematic-samples-for-editing-artists-for-2024/"><u>Snippet Showcase Cinematic Samples for Editing Artists for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-rise-of-facebook-tracing-its-roots-fan-favorite-elements-and-crucial-platform-components/"><u>The Rise of Facebook: Tracing Its Roots, Fan-Favorite Elements, and Crucial Platform Components</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-15-gratis-einsteigerkursen-in-ki-ein-leitfaden-von-lifewire/"><u>Top 15 Gratis Einsteigerkursen in KI: Ein Leitfaden Von Lifewire</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-mystery-how-to-reset-forgotten-ipad-passcodes-and-passwords/"><u>Unlocking the Mystery: How To Reset Forgotten iPad Passcodes and Passwords</u></a></li>
+</ul></div>
 

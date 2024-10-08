@@ -1,7 +1,7 @@
 ---
 title: "Closing the Gap: How iPhones Can Match Android's AI Prowess with Four Key Features | Analysis by ZDNET"
-date: 2024-09-27T16:51:43.447Z
-updated: 2024-10-02T16:06:42.701Z
+date: 2024-10-01T23:14:37.754Z
+updated: 2024-10-07T21:01:42.198Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ All of the watches in this list have at least a certification for 5 ATM and/or a
 Based on both our hands-on testing and insights from experts, we named the [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) the best waterproof smartwatch overall due to its 10 ATM rating, diving certification, long battery life, storage capacity, high-quality titanium materials, [sleep-tracking capabilities](https://www.zdnet.com/article/how-to-sleep-better-with-the-apple-watch/), women's wellness features, and advanced workout metric feature suite. If you're not an Apple user, read on to see how watches from [Samsung](https://www.zdnet.com/article/best-android-smartwatch/) \-- including its newest [Galaxy Watch 6 Classic](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch6%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1) \-- [Garmin,](https://www.zdnet.com/article/best-garmin-watch/) Coros, and Suunto compare, to find the best waterproof smartwatch for your needs and your wrist. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The best waterproof smartwatches of 2024
@@ -53,13 +53,6 @@ Cons
 * May be too large for small wrists
 
 ## Apple Watch Ultra 2
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch overall
 
@@ -88,14 +81,14 @@ Pros
 Cons 
 * Less than two-day battery life
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Series 9
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch for most iPhone users
 
@@ -157,6 +150,13 @@ Pros
 Cons 
 * Expensive
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Garmin Venu 3S
 
 ### Best waterproof Garmin smartwatch for most people
@@ -186,10 +186,10 @@ Cons
 * Large display is likely to consumer more battery power
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Watch 6 Classic
@@ -226,10 +226,10 @@ Cons
 ## Coros Apex 2 Pro
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best waterproof smartwatch for long battery life
@@ -262,19 +262,6 @@ Cons
 * Questionable heart rate readings
 * One size available
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Suunto Race
 
 ### Best waterproof smartwatch with lap counter
@@ -290,6 +277,13 @@ Other data such as sleep tracking, HRV measurements, training load, and recovery
 **Suunto Race tech** **specs:** **Display:** 1.43-inch 466 x 466 pixels AMOLED| **Battery life:** 30 days | **Dimensions:** 49 x 49 x 13.3 mm | **Weight:** 69 grams | **Water resistance:** 100 meters | **LTE Cellular option:** No
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best waterproof smartwatch?
 
@@ -343,11 +337,31 @@ All of the smartwatches included in this list were chosen based on how they perf
 * **Workouts**: Smartwatch makers have embraced health and fitness so we take our smartwatch out for swimming in the pool or local lakes, running with GPS, rowing on the Hydrow, biking on trails, and walking with the family. GPS and heart rate data is tracked and then we evaluate the accuracy against proven GPS sports watches.
 * **Sleep and activity tracking:** Sleep tracking has improved with smartwatches over time and we evaluate them as compared to smart rings and other watches. Night time is also a good time to charge your smartwatch so you may choose not to use your watch to track sleep so your watch can serve faithfully all day and into the night.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you use a Samsung or Google watch with an iPhone?
 
 Google Wear OS watches used to work with both Android and iPhone devices, but the new Wear OS 4 and later watches from Samsung and Google only support Android smartphones. iPhone users should stick with the Apple Watch, while Android phone users should seriously consider a Google Pixel Watch or Samsung Galaxy Watch model.
 
 Garmin, Coros, and Suunto watches work flawlessly with both Android and iPhone devices.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can I text from a smartwatch?
 
@@ -355,25 +369,11 @@ You absolutely can! However, most of their screens are too small to type on, so 
 
 Garmin watches support quick-response text messaging via a connected Android smartphone. Apple restricts third-party text messaging on the iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can you use a cellular Apple Watch as a standalone device?
 
 While you can leave your iPhone at home while you run, go to the store, or stroll on the beach, you must have an iPhone turned on and connected to the internet at this other location. This is one reason why connecting to an iPhone and switching to an Android makes the Apple Watch useless with an Android phone.
 
 After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 6 or Watch 5 Pro running Wear OS powered by Samsung, many more apps can be used on the go, so you can leave the phone behind in most cases.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
 
@@ -429,22 +429,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-iphoneandroid-screen-capture-for-google-meet-participants/"><u>[New] 2024 Approved IPhone/Android Screen Capture for Google Meet Participants</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-unveiling-the-power-of-zoom-in-enhancing-your-youtube-experience/"><u>[New] Unveiling the Power of Zoom in Enhancing Your YouTube Experience</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-brighten-up-techniques-for-improving-video-lighting-on-youtube/"><u>[Updated] Brighten Up Techniques for Improving Video Lighting on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-masterful-modulation-how-to-switch-up-your-characters-speech-in-free-fire/"><u>2024 Approved Masterful Modulation How to Switch Up Your Character's Speech in Free Fire</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-taleshifters-academy-top-8-picks/"><u>2024 Approved Top Taleshifters Academy - Top 8 Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722861175751-anticipating-the-arrival-of-google-pixel-9-estimated-pricing-details-revealed/"><u>Anticipating the Arrival of Google Pixel 9 - Estimated Pricing Details Revealed!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparison-guide-exploring-key-differences-between-hulu-and-hulu-plus/"><u>Comparison Guide: Exploring Key Differences Between Hulu and Hulu +</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-identify-the-right-phone-shield-for-you/"><u>Expert Advice: How to Identify the Right Phone Shield for You</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-the-powerhouse-in-your-pocket-lightroom-for-2024/"><u>In-Depth Analysis The Powerhouse in Your Pocket - Lightroom for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/innovations-await-delving-into-sonys-state-of-play-2024-what-gamers-need-to-know/"><u>Innovations Await: Delving Into Sony's State of Play 2024 - What Gamers Need to Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/insta-viral-secrets-revealed-10-techniques-for-rapid-growth-and-popularity/"><u>Insta-Viral Secrets Revealed: 10 Techniques for Rapid Growth and Popularity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-market-9-essential-tips-for-selecting-the-right-dash-camera/"><u>Navigating the Market: 9 Essential Tips for Selecting the Right Dash Camera</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-final-cut-pro-voice-over-secrets-boost-your-audio-game/"><u>New In 2024, Final Cut Pro Voice Over Secrets Boost Your Audio Game</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-changing-your-facebook-account-password-securely/"><u>Step-by-Step Guide: Changing Your Facebook Account Password Securely</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-answer-can-you-link-airpods-with-your-nintendo-switch-for-audio-output/"><u>The Ultimate Answer: Can You Link AirPods with Your Nintendo Switch for Audio Output?</u></a></li>
-<li><a href="https://facebook.techidaily.com/top-5-technological-missteps-unveiled/"><u>Top 5 Technological Missteps Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-thumbnail-essentials-capture-and-create-on-mobile-devices/"><u>[New] 2024 Approved YouTube Thumbnail Essentials Capture and Create on Mobile Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-streamers-dilemma-obs-or-twitch-studio-in-2024/"><u>[New] The Ultimate Streamer's Dilemma OBS or Twitch Studio, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-gameplay-best-4k-hdmi-21-display-for-players/"><u>[New] Ultimate Gameplay Best 4K (HDMI 2.1) Display for Players</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-digital-footprints-on-instagram-effective-photo-watermarking-for-2024/"><u>[Updated] Digital Footprints on Instagram Effective Photo Watermarking for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-rhythm-on-rings-creating-tamil-ringtone-playlists/"><u>[Updated] In 2024, Rhythm on Rings Creating Tamil Ringtone Playlists</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-guide-how-to-pause-background-processes-and-boost-battery-life/"><u>Android Guide: How to Pause Background Processes and Boost Battery Life</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-on-restoring-default-settings-in-dell-machines/"><u>Complete Tutorial on Restoring Default Settings in Dell Machines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-humble-beginnings-to-social-media-powerhouse-exploring-the-appeal-and-main-aspects-of-facebook/"><u>From Humble Beginnings to Social Media Powerhouse: Exploring the Appeal & Main Aspects of Facebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enhance-iphone-call-quality-with-better-volume-control/"><u>How to Enhance iPhone Call Quality with Better Volume Control</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ordered-movie-marathon-how-to-enjoy-the-matrix-franchise-in-proper-sequence/"><u>Ordered Movie Marathon: How to Enjoy The Matrix Franchise in Proper Sequence</u></a></li>
+<li><a href="https://article-tips.techidaily.com/pinnacle-goggles-ranking-best-5-for-drone-flyers/"><u>Pinnacle Goggles Ranking Best 5 for Drone Flyers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/power-up-storage-ultimate-ps5-hard-drives-compared/"><u>Power Up Storage Ultimate PS5 Hard Drives Compared</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/prevent-nonstop-playback-in-apple-music-top-strategies-revealed/"><u>Prevent Nonstop Playback in Apple Music – Top Strategies Revealed</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-grammar-compendium-for-non-natives-top-9-techniques/"><u>The Ultimate Grammar Compendium for Non-Natives: Top 9 Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-or-not-found-dsounddll-issue/"><u>Troubleshooting the 'Missing' Or 'Not Found' dSound.dll Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-instagrams-verification-process-essential-techniques-and-advice/"><u>Unlocking Instagram's Verification Process: Essential Techniques and Advice</u></a></li>
 </ul></div>
 

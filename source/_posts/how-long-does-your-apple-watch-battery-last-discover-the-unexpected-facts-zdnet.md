@@ -1,7 +1,7 @@
 ---
 title: How Long Does Your Apple Watch Battery Last? Discover the Unexpected Facts | ZDNet
-date: 2024-09-26T16:33:23.569Z
-updated: 2024-10-02T16:22:39.832Z
+date: 2024-09-30T17:36:21.847Z
+updated: 2024-10-07T19:47:32.587Z
 tags:
   - apple
 categories:
@@ -79,16 +79,10 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -130,10 +124,10 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -199,22 +193,22 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-insight-into-dji-inspire-2-for-2024/"><u>[New] The Ultimate Insight Into DJI Inspire 2 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-high-quality-webcam-videos-with-best-editors-for-2024/"><u>[Updated] High-Quality Webcam Videos with Best Editors for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1726220627729-movavi-mp4/"><u>數碼影片相容：用 Movavi 電影轉換器即時免費MP4格式化指南</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-easy-way-enabling-the-hidden-file-navigator-tool-on-your-computer/"><u>Discover the Easy Way: Enabling the Hidden File Navigator Tool on Your Computer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1724766038972-dvddvd/"><u>DVDリッピングツールを使ったDVDコピーソフト徹底比較:おすすめアプリランキング</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-of-intels-high-speed-wifi-driver-centrino-advanced-n-6205/"><u>Easy Installation of Intel's High-Speed WiFi Driver - Centrino Advanced-N 6205</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-cost-free-options-with-microsoft-word-a-comprehensive-guide/"><u>Exploring Cost-Free Options with Microsoft Word: A Comprehensive Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-web-based-converter-transforming-aiff-files-into-ogg-format/"><u>Free Web-Based Converter: Transforming AIFF Files Into OGG Format</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-streamed-to-stored-a-users-handbook-on-making-spotify-lists-downloadable-for-offline-viewing/"><u>From Streamed to Stored: A User's Handbook on Making Spotify Lists Downloadable for Offline Viewing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-attribute-information-from-chatgpt-in-research-and-essays/"><u>How to Attribute Information From ChatGPT in Research and Essays</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-bridge-the-gap-between-samsung-earbuds-and-laptop-devices/"><u>How To Bridge The Gap Between Samsung Earbuds and Laptop Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-mouse-pad-not-working-in-windows-1087-fixed/"><u>Lenovo Mouse Pad Not Working in Windows 10/8/7 [FIXED]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-feature-sharing-live-play-in-sonys-next-gen-console/"><u>Mastering the Feature: Sharing Live Play in Sony's Next-Gen Console</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/techniques-for-overcoming-the-non-existent-normalizdll-error/"><u>Techniques for Overcoming the Non-Existent Normaliz.dll Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-harry-potter-movie-marathon-plan-watch-them-in-correct-order/"><u>The Ultimate Harry Potter Movie Marathon Plan – Watch Them In Correct Order!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-strategy-for-attracting-more-twitter-subscribers/"><u>The Ultimate Strategy for Attracting More Twitter Subscribers</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-additional-control-button-options-in-flip-book-production-with-flipbuildercom/"><u>Understanding Additional Control Button Options in Flip Book Production with FlipBuilder.com</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-charting-your-course-through-youtube-compliance/"><u>[New] 2024 Approved Charting Your Course Through YouTube Compliance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-behind-the-scenes-a-comprehensive-review-of-lgs-digital-cinema-31mu97-b-monitor/"><u>[New] Behind the Scenes A Comprehensive Review of LG's Digital Cinema 31MU97-B Monitor</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-from-bright-to-deep-premiere-pro-magic/"><u>[New] In 2024, From Bright to Deep Premiere Pro Magic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-asus-proart-a-high-end-display/"><u>[Updated] The Ultimate Guide to ASUS ProArt A High-End Display</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipate-the-revolutionary-samsung-z-fold-4-release-price-details-date-info-and-technical-specifications-revealed/"><u>Anticipate the Revolutionary Samsung Z Fold 4 Release – Price Details, Date Info, and Technical Specifications Revealed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/crafting-content-that-captivates-youtube-keyword-mastery/"><u>Crafting Content that Captivates YouTube Keyword Mastery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-slow-iphone-screen-turn-off-tips-to-speed-up-the-process/"><u>Dealing with Slow iPhone Screen Turn-Off: Tips to Speed Up the Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnose-and-resolve-stop-error-code-0x0000007b-a-detailed-walkthrough-for-windows-users/"><u>Diagnose & Resolve Stop Error Code 0X0000007B: A Detailed Walkthrough for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-history-and-impact-of-netflixs-former-dvd-rental-program/"><u>Discover the History and Impact of Netflix's Former DVD Rental Program</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immediate-must-watch-films-as-suggested-by-lifewire-experts/"><u>Immediate Must-Watch Films as Suggested by Lifewire Experts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-heights-with-dji-spark-the-small-drone-selfie-powerhouse/"><u>In 2024, Capture Heights with DJI Spark The Small Drone Selfie Powerhouse</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-link-lore-when-does-gear-give-way-to-grids/"><u>In 2024, Live Link Lore When Does Gear Give Way to Grids?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-woes-a-guide-to-repairing-missing-or-not-found-wpcapsddll-errors/"><u>Resolving the Woes: A Guide to Repairing 'Missing' Or 'Not Found' wpcapsd.dll Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-dll-not-found-issues-a-comprehensive-guide/"><u>Solving 'DLL Not Found' Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-guide-to-free-legal-movie-streaming-websites/"><u>The Essential Guide to Free, Legal Movie Streaming Websites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-power-of-command-line-a-cross-platform-approach-for-windows-operating-systems/"><u>Unlocking the Power of Command Line: A Cross-Platform Approach for Windows Operating Systems</u></a></li>
 </ul></div>
 

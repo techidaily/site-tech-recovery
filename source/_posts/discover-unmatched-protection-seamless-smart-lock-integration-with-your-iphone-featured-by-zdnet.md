@@ -1,7 +1,7 @@
 ---
 title: "Discover Unmatched Protection: Seamless Smart Lock Integration with Your iPhone, Featured by ZDNet"
-date: 2024-09-29T17:08:20.565Z
-updated: 2024-10-02T16:16:09.909Z
+date: 2024-09-30T21:17:25.154Z
+updated: 2024-10-07T19:48:34.235Z
 tags:
   - apple
 categories:
@@ -33,10 +33,16 @@ If you're the same way, keep reading. Plus, these tips also work for preparing y
 ## How to get your iPhone ready for iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check availability
@@ -91,13 +97,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Update your apps and free up space
 
 I recommend updating all your apps if you're the sort of person who has disabled automatic updates and forgets to do it manually. Running older apps on the new release could cause glitches and issues.
@@ -110,13 +109,6 @@ You need at least a gigabyte to carry out an update. Two to three GB of free spa
 
 iOS updates can delete apps to make space to install the update and then redownload the apps, but this makes the update take a lot of time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Back up your data
 
 I recommend having two backups of your data -- one in the cloud in case things go bad, and one on a PC or Mac in case things go really bad.
@@ -124,6 +116,13 @@ I recommend having two backups of your data -- one in the cloud in case things g
 Apple has a [support document](https://support.apple.com/en-us/HT203977) detailing how to make effective backups to iCloud on a Mac or PC.
 
 If you don't think you need to do this, imagine that your iPhone is erased right now. Everything is gone. Have you lost anything important? If the answer is yes, you need to make at least one backup.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Know your iCloud password
 
@@ -135,26 +134,33 @@ Don't know what it is? Now might be the [time to reset it](https://support.apple
 
 Also, if your local backup is encrypted, remember that you'll need that password if something goes wrong. Makes sure that's also saved somewhere other than on your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Charge your device
 
 While you can technically update iOS with only 50% battery, it's better to be safe than sorry and put it on a charger. Running out of power mid-update wouldn't be good.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Check your connectivity
 
 It is possible to update an iPhone over a sketchy internet connection, but it's far better and less frustrating to carry out the update over a fast, reliable connection.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Download the update
 
@@ -190,18 +196,24 @@ Now you're ready! Either wait for iOS to be downloaded and installed automatical
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaming-history-told-by-top-video-makers/"><u>[New] In 2024, Gaming History Told by Top Video Makers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ource-unlimited-stock-media-from-top-tier-4-youtube-channels-for-2024/"><u>[New] Source Unlimited Stock Media From Top-Tier 4 YouTube Channels for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/addressed-league-of-legends-online-connection-challenges/"><u>Addressed League of Legends Online Connection Challenges</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-hidden-gems-ios-17s-top-ten-upgrades-revealed/"><u>Discover the Hidden Gems: IOS 17'S Top Ten Upgrades Revealed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-online-image-converter-convert-pbm-files-to-jpg-format-with-movavi/"><u>Free Online Image Converter: Convert PBM Files to JPG Format with Movavi</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/from-gaming-to-adventure-the-power-of-the-new-polaroid-xs-100i-for-2024/"><u>From Gaming to Adventure, the Power of the New Polaroid XS 100I for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-factory-reset-windows-10-4-steps/"><u>How to Factory Reset Windows 10 [4 Steps]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-optimize-and-accelerate-your-sluggish-windows-10-pc-comprehensive-guide/"><u>How to Optimize and Accelerate Your Sluggish Windows 10 PC - Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-set-up-chromecast/"><u>How To Set Up Chromecast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-and-simple-steps-update-your-fb-passcode-instantly/"><u>Quick & Simple Steps: Update Your FB Passcode Instantly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-to-enhance-windows-11s-efficiency-learn-the-best-strategies/"><u>Quick Fixes to Enhance Windows 11'S Efficiency - Learn the Best Strategies!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-start-master-usb-tethering-with-windows-11-in-minutes/"><u>Quick Start: Master USB Tethering with Windows 11 in Minutes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-googles-augmented-reality-stickers-in-spotlight-a-comparative-analysis/"><u>[New] Google’s Augmented Reality Stickers in Spotlight - A Comparative Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-achieving-asmr-bliss-selecting-the-right-mic/"><u>[New] In 2024, Achieving ASMR Bliss Selecting the Right Mic</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-the-playstation-portable-unveiling-date-pricing-hardware-specs-and-purchase-locations/"><u>All About the PlayStation Portable: Unveiling Date, Pricing, Hardware Specs & Purchase Locations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-overcoming-the-jscriptdll-not-found-error/"><u>Comprehensive Guide: Overcoming the jscript.dll Not Found Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-ussd-an-insight-into-unstructured-supplementary-service-data/"><u>Demystifying USSD: An Insight Into Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-instagram-the-complete-breakdown-of-this-social-media-giant/"><u>Discovering Instagram: The Complete Breakdown of This Social Media Giant</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-easy-ways-to-tackle-error-0x80004005-on-your-computer-system/"><u>DIY: Easy Ways to Tackle Error 0X80004005 on Your Computer System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/does-the-iphone-15-pro-max-offer-water-resistance-features/"><u>Does the iPhone 15 Pro Max Offer Water Resistance Features?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-e-ink-cellphones-a-personal-guide-on-choosing-sustainable-and-comfortable-tech/"><u>Exploring E-Ink Cellphones: A Personal Guide on Choosing Sustainable & Comfortable Tech</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-understanding-your-needs-for-a-precise-vimeo-subscription-level/"><u>In 2024, Understanding Your Needs for a Precise Vimeo Subscription Level</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/m3-macbook-pro-breakdown-exploring-costs-tech-specs-and-when-it-hits-the-shelves/"><u>M3 MacBook Pro Breakdown: Exploring Costs, Tech Specs, and When It Hits the Shelves</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavijp2jpeg/"><u>Movaviのウェブ上で無料でJP2からJPEGへの容易なファイル変換ツール</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-the-best-pick-of-disneynoyce-films-currently-available-on-disneyplus/"><u>Navigate the Best Pick of Disneynoyce Films Currently Available on Disney+</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-reconnect-to-the-web/"><u>Nintendo Switch: Reconnect to the Web</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solve-your-authentication-problems-understanding-and-correcting-401-error-codes/"><u>Solve Your Authentication Problems - Understanding and Correcting 401 Error Codes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-switching-your-iphones-locale-settings/"><u>Step-by-Step Guide: Switching Your iPhone's Locale Settings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-assessment-of-google-nest-wi-fi-router-range-extenders-quick-connectivity-experience/"><u>The Ultimate Assessment of Google Nest Wi-Fi Router Range Extenders: Quick Connectivity Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-design-with-the-affordable-elegoo-neptune-x4-pro-for-only-284/"><u>Transform Your Design with the Affordable Elegoo Neptune X4 Pro for Only $284!</u></a></li>
+<li><a href="https://discover-great.techidaily.com/welcome-to-digiarty-software-inc-your-guide-to-winxdvd-solutions/"><u>Welcome to Digiarty Software, Inc. - Your Guide to WinXDVD Solutions</u></a></li>
 </ul></div>
 

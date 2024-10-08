@@ -1,7 +1,7 @@
 ---
 title: Samsung Leads with Galaxy AI as Tech Giants Face Regulatory Scrutiny in Global Innovation Rankings - ZDNet
-date: 2024-09-30T16:31:03.127Z
-updated: 2024-10-02T16:15:38.618Z
+date: 2024-10-05T23:35:17.536Z
+updated: 2024-10-07T20:47:22.385Z
 tags:
   - apple
 categories:
@@ -71,28 +71,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crop-companion-chronicles-best-agricultural-titles-with-pals/"><u>[New] 2024 Approved Crop Companion Chronicles Best Agricultural Titles with Pals</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-enlighten-your-images-mastering-iphone-photography-lighting/"><u>[Updated] Enlighten Your Images Mastering iPhone Photography Lighting</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-step-by-step-lenovo-laptop-screen-recording/"><u>[Updated] Step-by-Step Lenovo Laptop Screen Recording</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/achieving-authenticity-the-ultimate-guide-to-instagram-account-verification/"><u>Achieving Authenticity: The Ultimate Guide to Instagram Account Verification</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722902893406-discover-the-best-complimentary-email-providers-top-picks/"><u>Discover the Best Complimentary Email Providers, Top Picks!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-note-30-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Note 30 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/excel-at-web-development-top-free-html-tools-tailored-for-windows-enthusiasts/"><u>Excel at Web Development: Top Free HTML Tools Tailored for Windows Enthusiasts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/galaxy-a15-4g-messages-recovery-recover-deleted-messages-from-galaxy-a15-4g-by-fonelab-android-recover-messages/"><u>Galaxy A15 4G Messages Recovery - Recover Deleted Messages from Galaxy A15 4G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-calibrate-your-apple-watch-for-accurate-activity-recognition/"><u>How To Correctly Calibrate Your Apple Watch For Accurate Activity Recognition</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-15s-resistance-to-water-how-strong-is-it/"><u>IPhone 15'S Resistance to Water: How Strong Is It?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-video-conferencing-a-complete-guide-to-zoom-on-android-for-2024/"><u>Mastering Video Conferencing A Complete Guide to Zoom on Android for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-guide-to-motion-tracking-apps-on-mobile/"><u>New 2024 Approved The Ultimate Guide to Motion Tracking Apps on Mobile</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-before-investing-in-a-used-ipad-device/"><u>The Ultimate Checklist Before Investing in a Used iPad Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-conquering-skype-interviews-with-these-top-tips-of-2024/"><u>Ultimate Guide to Conquering Skype Interviews with These Top Tips of 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-invisible-wired-connections-windows-guide/"><u>Unmasking Invisible Wired Connections: Windows Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-aesthetic-alchemy-grading-with-colors-for-2024/"><u>[New] Aesthetic Alchemy Grading with Colors for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-guide-to-share-youtube-link-on-instagram-story/"><u>[New] Guide to Share YouTube Link on Instagram Story</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-epic-zombie-battles-our-favorites-revealed/"><u>[New] In 2024, Epic Zombie Battles Our Favorites Revealed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-inauthentic-affection-impacts-your-feeds-credibility/"><u>[New] In 2024, How Inauthentic Affection Impacts Your Feed's Credibility</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-securing-your-gameplay-on-windows-10-the-5-essentials/"><u>[Updated] In 2024, Securing Your Gameplay on Windows 10 The 5 Essentials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/15-top-reliability-software-tools-for-your-business-complimentary-and-paid-options/"><u>15 Top Reliability Software Tools for Your Business : Complimentary and Paid Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mkvgif-movavi/"><u>免費線上移動MKV到GIF - Movavi 高效率編輯器</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-editing-techniques-that-maximize-obs-potential/"><u>Advanced Editing Techniques That Maximize OBS Potential</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cambia-i-tuoi-file-m4v-a-mp4-gratuitamente-online-con-convertitore-rapido-di-movie-converter/"><u>Cambia I Tuoi File .M4v a .mp4 Gratuitamente Online Con Convertitore Rapido Di Movie Converter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/frontier-fighters-pinpointing-the-7-best-rts-battles-for-2024/"><u>Frontier Fighters Pinpointing the 7 Best RTS Battles for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-ou-com-preco-a-selecao-completa-dos-melhores-cartoes-de-festas-online-em-formato-digital/"><u>Gratuito Ou Com Preço: A Seleção Completa Dos Melhores Cartões De Festas Online Em Formato Digital</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-trasforma-immagini-pef-in-png-senza-costi-conversione-on-line-gratuita/"><u>Movavi: Trasforma Immagini PEF in PNG Senza Costi - Conversione On-Line Gratuita</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/os-melhores-programas-de-edicao-de-gif-em-2024-descober-os-14-mais-inovadores/"><u>Os Melhores Programas De Edição De GIF Em 2024: Descober Os 14 Mais Inovadores</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-email-failures-addressing-0x80072746-in-windows/"><u>Overcoming Email Failures: Addressing 0X80072746 in Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-form-spectacularity-compile-the-top-10-video-editing-tools/"><u>Short-Form Spectacularity Compile the Top 10 Video Editing Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-3-metodi-di-conversione-da-wma-a-mp3-piu-efficace/"><u>Top 3 Metodi Di Conversione Da WMA a MP3 Più Efficace</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

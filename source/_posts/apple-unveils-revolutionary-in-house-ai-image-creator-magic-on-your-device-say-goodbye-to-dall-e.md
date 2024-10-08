@@ -1,7 +1,7 @@
 ---
 title: Apple Unveils Revolutionary In-House AI Image Creator - Magic on Your Device, Say Goodbye to DALL-E!
-date: 2024-09-26T16:45:05.222Z
-updated: 2024-10-02T16:22:33.287Z
+date: 2024-09-30T18:51:18.039Z
+updated: 2024-10-07T21:41:55.308Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -89,10 +89,10 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,18 +131,17 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-maximizing-memory-storing-snapshots-in-photo-albums-from-snapchat/"><u>[New] Maximizing Memory Storing Snapshots in Photo Albums From Snapchat</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ace-your-youtube-livestreams-mastering-broadcast-techniques-using-wirecast-for-2024/"><u>[Updated] Ace Your Youtube Livestreams Mastering Broadcast Techniques Using WireCast for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-master-tweet-management-ultimate-list-of-unfollow-aids/"><u>[Updated] In 2024, Master Tweet Management Ultimate List of Unfollow Aids</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/be-first-in-line-for-samsungs-innovative-phone-launch-event-details-inside/"><u>Be First in Line for Samsung's Innovative Phone Launch Event: Details Inside</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-places-to-stream-your-favorite-games-without-paying-a-penny-in-202n4/"><u>Best Places to Stream Your Favorite Games Without Paying a Penny in 202N4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722881063818-discover-the-most-affordable-apple-watch-prices-of-month/"><u>Discover the Most Affordable Apple Watch Prices of [Month]</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expert-guidance-at-movavi-your-trusted-support-hub/"><u>Expert Guidance at Movavi - Your Trusted Support Hub</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-sending-files-from-printer-directly-to-your-desktop/"><u>Guide to Sending Files From Printer Directly to Your Desktop</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-zte-nubia-z60-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track ZTE Nubia Z60 Ultra by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-gt-3-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 3 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-maintaining-high-definition-clarity-while-uploading-your-videos-on-youtube/"><u>Step-by-Step Guide: Maintaining High Definition Clarity While Uploading Your Videos on YouTube</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-broadcasting-zoom-calls-to-a-tv-screen/"><u>Step-by-Step Tutorial for Broadcasting Zoom Calls to a TV Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-not-secured-network-alert-on-your-device/"><u>Troubleshooting the ‘Not Secured’ Network Alert on Your Device</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-from-ordinary-to-spectacular-making-wow-worthy-tiktok-videos-with-templates-for-2024/"><u>[Updated] From Ordinary to Spectacular Making Wow-Worthy TikTok Videos with Templates for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-shooting-stars-and-sedans-selecting-the-best-gear-for-sj4000/"><u>2024 Approved Shooting Stars & Sedans Selecting the Best Gear for SJ4000</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypassing-security-measures-how-to-remove-your-personal-unlock-key-on-windows-10/"><u>Bypassing Security Measures: How to Remove Your Personal Unlock Key on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/charge-off-moves-alternative-methods-to-power-up-your-phone-in-a-pinch/"><u>Charge-Off Moves: Alternative Methods to Power Up Your Phone in a Pinch</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-nyt-power-web-gameplay/"><u>Decoding the NYT Power Web Gameplay</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-my-ipad-wont-print-a-step-by-step-guide-for-frustrated-users/"><u>Fixing 'My iPad Won't Print': A Step-by-Step Guide for Frustrated Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/overview-of-magix-audio-enhancer-for-2024/"><u>Overview of MAGIX Audio Enhancer for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722894087737-top-5-free-video-call-apps-skype-alternatives-you-must-try/"><u>Top 5 Free Video Call Apps : Skype Alternatives You Must Try</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-unlocking-mac-files-with-unverified-developers/"><u>Troubleshooting: Unlocking Mac Files with Unverified Developers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncovering-details-on-the-newest-iphone-model-anticipated-costs-coming-out-dates-and-rumored-innovations-revealed/"><u>Uncovering Details on the Newest iPhone Model: Anticipated Costs, Coming-Out Dates & Rumored Innovations Revealed</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/vn-video-editor-pro-apk-a-professional-level-video-editing-experience-in-2024/"><u>VN Video Editor Pro Apk A Professional-Level Video Editing Experience, In 2024</u></a></li>
 </ul></div>
 

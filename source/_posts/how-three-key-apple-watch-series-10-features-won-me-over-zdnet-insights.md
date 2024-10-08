@@ -1,7 +1,7 @@
 ---
 title: How Three Key Apple Watch Series 10 Features Won Me Over | ZDNet Insights
-date: 2024-09-25T16:07:28.596Z
-updated: 2024-10-02T17:06:13.069Z
+date: 2024-10-06T18:49:26.144Z
+updated: 2024-10-07T17:08:20.850Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ The Apple Watch Series 10 got its first big redesign since the launch of the Ser
 We didn't get a redesigned Apple Watch Ultra, as Apple is expected to focus on internal updates rather than the physical look, but we did see a new Satin Black finish.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Extra health tracking: sleep apnea
@@ -60,10 +60,10 @@ The Apple Watch's sleep apnea detection isn't expected to be immediately availab
 Apple also announced new WatchOS 11 features for the Apple Watch, including offline maps and water features like Depth, Water Temperature, and Tides. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New Apple Watch finishes
@@ -76,22 +76,15 @@ The Apple Watch Series 10 is available in Jet Black, Rose Gold, and Silver Alumi
 
 The Apple Watch Series 10 starts at $399, available for pre-order today, with general availability on September 20\. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What we didn't get with the Apple Watch Series 10
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Blood oxygen tracking has yet to return
@@ -103,6 +96,13 @@ Unfortunately, the new Apple Watch models didn't bring back the blood oxygen mon
 **Also: [Here's one big reason I'm sticking with my Apple Watch Series 7 and forgoing the Series 10](https://www.zdnet.com/article/heres-one-big-reason-im-sticking-with-my-apple-watch-series-7-and-forgoing-the-series-10/)**
 
 Currently, the Apple Watch Series 9 and Ultra don't have the blood oxygen sensor enabled, so users looking to upgrade from an older model (Apple Watch Series 6, 7, 8, and Ultra) should know they'll likely lose that feature until Apple resolves its issue.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. No hypertension capabilities yet
 
@@ -142,24 +142,18 @@ Many users have expected Apple to release blood pressure monitoring on the Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-discovering-the-ideal-live-stream-provider-a-top-10-list/"><u>[Updated] 2024 Approved Discovering the Ideal Live Stream Provider A Top 10 List</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-saving-your-desktop-display-with-free-tech-tools/"><u>[Updated] 2024 Approved Saving Your Desktop Display with Free Tech Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-optimized-video-scale-to-mac-aspect-proportion/"><u>[Updated] Optimized Video Scale to Mac Aspect Proportion</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-crucial-aspects-you-need-to-assess-prior-to-purchasing-a-smartwatch/"><u>5 Crucial Aspects You Need to Assess Prior to Purchasing a Smartwatch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/effortless-method-to-post-sites-on-ig-storyposts-for-2024/"><u>Effortless Method to Post Sites on IG Story/Posts for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-problem-of-windows-update-error-0x8024401c-in-recent-windows-versions/"><u>How to Overcome the Persistent Problem of Windows Update Error 0X8024401c in Recent Windows Versions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-and-repair-broken-intel-raid-in-windows-systems-successfully/"><u>How to Restore and Repair Broken Intel RAID in Windows Systems Successfully</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-track-a-cell-phone-number-freely-and-legally/"><u>How to Track a Cell Phone Number [Freely and Legally]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-turn-off-automatic-windows-11-update-installations-in-just-a-few-steps/"><u>How to Turn Off Automatic Windows 11 Update Installations in Just a Few Steps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-expertise-in-editing-how-to-add-descriptive-texts-to-videos/"><u>In 2024, Expertise in Editing How to Add Descriptive Texts to Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolved-fixing-the-silent-console-how-to-restore-audio-on-your-ps4/"><u>Resolved: Fixing the Silent Console - How to Restore Audio on Your PS4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-you-must-format-the-disk-error-essential-steps/"><u>Resolving 'You Must Format the Disk' Error - Essential Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-connection-problems-making-your-seagate-external-work-with-windows-11/"><u>Resolving Connection Problems: Making Your Seagate External Work with Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-guide-switching-your-pcs-os-language-settings-in-windows-10/"><u>Simple Guide: Switching Your PC's OS Language Settings in Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-enhance-browser-safety-a-guide/"><u>Simple Steps to Enhance Browser Safety: A Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/skyrim-enhanced-performance-ultimate-fps-optimization-update-2024/"><u>Skyrim Enhanced Performance: Ultimate FPS Optimization Update, 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformation-gratuit-du-format-audio-fichier-opus-a-mp3-sur-movavi/"><u>Transformation Gratuit Du Format Audio : Fichier OPUS À MP3 Sur Movavi</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-essential-mobile-tips-for-saving-your-snapchat-videos/"><u>[New] Essential Mobile Tips for Saving Your Snapchat Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-elevating-web-visibility-with-close-up-techniques/"><u>[New] In 2024, Elevating Web Visibility with Close-Up Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-guide-to-creating-popularity-with-youtube-opens/"><u>[New] In 2024, Essential Guide to Creating Popularity with YouTube Opens</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-leading-the-pack-in-instagram-content-crafting-puzzle-feeds/"><u>[Updated] 2024 Approved Leading the Pack in Instagram Content Crafting Puzzle Feeds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-walkthrough-to-creating-subtitles-for-your-instagram-story-posts/"><u>A Beginner's Walkthrough to Creating Subtitles for Your Instagram Story Posts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-ps-vr-headset-to-windows-or-mac-a-comprehensive-tutorial/"><u>Connecting PS VR Headset to Windows or Mac - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuit-online-converteren-van-dts-naar-flac-movavi/"><u>Gratuit Online-Converteren Van DTS Naar FLAC - Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-6s-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 6s Plus or iPad?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-automating-your-tweets-with-advanced-scheduling-tools/"><u>Step-by-Step Guide: Automating Your Tweets with Advanced Scheduling Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-recover-lost-dbghelpdll-and-solve-registry-issues-on-windows/"><u>Steps to Recover Lost dBghelp.dll and Solve Registry Issues on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic-5-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic 5? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/switching-to-imessages-a-step-by-step-guide-for-android-users/"><u>Switching to iMessages: A Step-by-Step Guide for Android Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-evolutionary-story-of-ios-by-apple-unfolding-the-history-from-version-10-up-to-180/"><u>The Evolutionary Story of iOS by Apple: Unfolding the History From Version 1.0 up to 18.0</u></a></li>
 </ul></div>
 

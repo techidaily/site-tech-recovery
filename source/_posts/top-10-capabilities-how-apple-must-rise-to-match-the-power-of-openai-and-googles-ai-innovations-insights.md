@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Capabilities: How Apple Must Rise to Match the Power of OpenAI and Google's AI Innovations - Insights"
-date: 2024-09-30T16:37:03.378Z
-updated: 2024-10-02T16:14:17.377Z
+date: 2024-10-02T19:26:29.393Z
+updated: 2024-10-07T20:14:49.285Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,18 +131,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expertly-chosen-top-5-premium-drones-for-professionals/"><u>[New] Expertly Chosen Top 5 Premium Drones for Professionals</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-your-tv-experience-mastering-fb-live-and-roku/"><u>[Updated] Enhance Your TV Experience Mastering FB Live and Roku</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/embark-on-a-digital-communication-adventure-with-google-meet/"><u>Embark on a Digital Communication Adventure with Google Meet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-find-x7-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Find X7 Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-tweeted-vids-to-mp4wav-conversion/"><u>In 2024, Tweeted Vids to MP4/WAV Conversion</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-5-reaction-video-makers-you-should-try/"><u>New In 2024, Best 5 Reaction Video Makers You Should Try</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/speeding-up-windows-11-and-11s-troubleshooting-slow-boot-problems/"><u>Speeding Up Windows 11 and 11S: Troubleshooting Slow Boot Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stay-protected-while-torrenting-the-speedy-vpn-solutions-available-around-the-globe/"><u>Stay Protected While Torrenting: The Speedy VPN Solutions Available Around the Globe</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-downloading-and-creating-windows-7-iso-image/"><u>Step-by-Step Guide: Downloading & Creating Windows 7 ISO Image</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-easily-reset-your-apple-id-password/"><u>Step-by-Step Guide: Easily Reset Your Apple ID Password</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-first-steps-into-fortnite-gaming-on-your-computer/"><u>Step-by-Step Guide: First Steps Into Fortnite Gaming on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-or-deactivating-microsoft-edge-browser-on-windows-11/"><u>Step-by-Step Guide: Removing or Deactivating Microsoft Edge Browser on Windows 11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-direct-youtube-file-access-tips/"><u>[Updated] Direct YouTube File Access Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-skyline-artistry-review-studio-25-in-focus-2023-for-2024/"><u>[Updated] Skyline Artistry Review Studio 25 in Focus, 2023 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-vivo-y27s-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Vivo Y27s to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/alternative-connection-methods-for-your-logitech-wireless-mouse/"><u>Alternative Connection Methods for Your Logitech Wireless Mouse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-digitize-documents-scan-and-convert-with-ocr-technology-perfect-app-for-iphone-users/"><u>Efficiently Digitize Documents: Scan & Convert with OCR Technology - Perfect App for iPhone Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-addressing-and-repairing-your-lol-gameplay-connectivity-issues/"><u>Expert Advice: Addressing and Repairing Your LoL Gameplay Connectivity Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-apples-latest-launch-find-your-new-go-to-macbook-here/"><u>Exploring Apple's Latest Launch: Find Your New Go-To MacBook Here!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-upcoming-samsung-galaxy-z-fold-7-anticipated-launch-details-pricing-and-features/"><u>Exploring the Upcoming Samsung Galaxy Z Fold 7: Anticipated Launch Details, Pricing, and Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-9-proplus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 9 Pro+ to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-cutting-edge-imaging-a-shoppers-selection-process/"><u>In 2024, Navigating Cutting-Edge Imaging A Shopper's Selection Process</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-read-ahead-to-learn/"><u>Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-viral-videos-1mplus-audience-journey/"><u>Mastering the Art of Viral Videos 1M+ Audience Journey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/modern-alternative-to-traditional-faxing-discover-7-premium-free-platforms/"><u>Modern Alternative to Traditional Faxing - Discover 7 Premium-Free Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-new-samsung-galaxy-s25-anticipated-release-timeline-cost-estimates-and-technical-specifications/"><u>Sneak Peek at the New Samsung Galaxy S25 – Anticipated Release Timeline, Cost Estimates, and Technical Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-the-libgdk-win32-20-0dll-not-found-error-message/"><u>Step-by-Step Fix for The libgdk-win32-2.0-0.dll Not Found Error Message</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-your-iphones-blurry-images-by-correcting-the-autofocus-malfunction/"><u>Troubleshoot Your iPhone's Blurry Images by Correcting the Autofocus Malfunction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-mystery-behind-chatgpt-what-you-need-to-know/"><u>Unveiling the Mystery Behind ChatGPT - What You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-and-wired-how-to-link-nintendo-switch-to-tvs-smoothly/"><u>Wireless and Wired: How to Link Nintendo Switch to TVs Smoothly</u></a></li>
 </ul></div>
 

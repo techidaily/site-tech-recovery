@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your iPhone Experience: Tailoring the Control Center for iOS 18 (ZDNet)"
-date: 2024-09-30T16:38:10.496Z
-updated: 2024-10-02T16:46:49.758Z
+date: 2024-10-03T19:18:56.282Z
+updated: 2024-10-07T17:16:56.062Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -59,10 +59,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -77,6 +77,13 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -90,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,18 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-superior-camcorder-features-direct-look-up/"><u>[New] 2024 Approved Superior Camcorder Features – Direct Look-Up</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/dding-richness-youtube-videos-in-slideshows/"><u>[New] Adding Richness YouTube Videos in Slideshows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-hilarity-in-hd-the-best-photo-editing-tools-online/"><u>[New] Hilarity in HD The Best Photo Editing Tools Online</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-movavi-screencapture-pro-detailed-review-analysis/"><u>[Updated] Movavi ScreenCapture Pro Detailed Review Analysis</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-quick-guide-to-innovative-voice-personalization-techniques/"><u>[Updated] The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crucial-aspects-to-assess-before-picking-out-your-video-mapping-device/"><u>Crucial Aspects to Assess Before Picking Out Your Video Mapping Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disable-continuous-listening-in-apple-music-a-step-by-step-tutorial/"><u>Disable Continuous Listening in Apple Music - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-experience-the-magic-watching-harry-potter-films-in-chronological-order/"><u>How To Experience The Magic: Watching Harry Potter Films In Chronological Order</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/how-to-restore-your-apex-legends-voice-chat-expert-fixes-inside/"><u>How to Restore Your Apex Legends Voice Chat - Expert Fixes Inside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-your-cs-2-performance-strategies-to-fix-fps-dips-and-stutters-during-play/"><u>Maximize Your CS 2 Performance: Strategies to Fix FPS Dips & Stutters During Play</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-msvcrt10dll-file-absent-or-loss-issues/"><u>Resolving 'Msvcrt10.dll' File Absent or Loss Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/roku-on-the-road-enhancing-your-travel-and-school-stays-through-smart-streaming/"><u>Roku on the Road: Enhancing Your Travel and School Stays Through Smart Streaming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-safety-features-evaluated-in-syma-x8c/"><u>[New] Safety Features Evaluated in Syma X8C</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-transforming-your-media-expertise-in-itunes-recordings/"><u>[Updated] 2024 Approved Transforming Your Media Expertise in iTunes Recordings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-leverage-likes-and-brands-to-boost-ig-income/"><u>2024 Approved Leverage Likes and Brands to Boost IG Income</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mastering-zoom-audio-high-fidelity-and-unmuted-channels/"><u>2024 Approved Mastering Zoom Audio High Fidelity & Unmuted Channels</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-fixing-missing-mfc42dll-error-messages/"><u>Comprehensive Guide to Fixing Missing mfc42.dll Error Messages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-the-thrill-of-march-madness-and-final-four-with-our-live-mens-ncaa-radio-coverage/"><u>Experience the Thrill of March Madness & Final Four with Our Live Men's NCAA Radio Coverage!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-restoring-functionality-of-a-freezing-macbook-air/"><u>Expert Tips on Restoring Functionality of a Freezing MacBook Air</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-crafting-content-that-captivates-youtube-keyword-mastery/"><u>In 2024, Crafting Content that Captivates YouTube Keyword Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-process-a-comprehensive-tutorial-on-securing-new-ios-update-installations/"><u>Mastering the Process: A Comprehensive Tutorial on Securing New iOS Update Installations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fixes-to-correct-mscorwksdll-not-found-bugs-on-your-pc/"><u>Step-by-Step Fixes to Correct 'Mscorwks.dll Not Found' Bugs on Your PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-color-transformation-an-expert-written-by-dr-jane-smith-for-2024/"><u>The Art of Color Transformation An Expert' Written by Dr. Jane Smith for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-trick-for-removing-temporary-files-from-your-android-phone-or-tablet/"><u>The Ultimate Trick for Removing Temporary Files From Your Android Phone or Tablet</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-razr-40-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-16-no-cost-ways-to-master-sign-language-skills/"><u>Top 16 No-Cost Ways to Master Sign Language Skills</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-youtube-policies-limits-on-number-of-your-channels/"><u>Understanding YouTube Policies: Limits On Number Of Your Channels</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/uniting-the-social-media-titans-mastering-the-youtube-plus-tiktok-connection/"><u>Uniting the Social Media Titans Mastering the YouTube + TikTok Connection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-printer-software-compatible-with-windows-10-and-11/"><u>Update Your HP Printer Software: Compatible with Windows 10 and 11</u></a></li>
 </ul></div>
 

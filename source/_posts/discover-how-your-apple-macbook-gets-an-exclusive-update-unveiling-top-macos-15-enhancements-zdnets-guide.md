@@ -1,7 +1,7 @@
 ---
 title: "Discover How Your Apple MacBook Gets an Exclusive Update: Unveiling Top MacOS 15 Enhancements – ZDNet's Guide"
-date: 2024-09-25T16:40:34.315Z
-updated: 2024-10-02T16:55:38.106Z
+date: 2024-10-05T21:59:44.625Z
+updated: 2024-10-07T17:00:17.829Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -71,13 +71,6 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -89,13 +82,6 @@ Apple has played the long game when it comes to its virtual assistant, Siri. As 
 During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI assistant integrated into every thread of the UI, not a standalone app. Siri will have access to ChatGPT's LLM, allowing the AI to be functionally ready to communicate in a more natural context, following up with previous conversations and messages instead of providing full context in every single prompt. 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
 
@@ -109,6 +95,13 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -118,6 +111,13 @@ Safari will see a host of improvements powered by AI functionality, including an
 **Also: [ChatGPT privacy tips: Two important ways to limit the data you share with OpenAI](https://www.zdnet.com/article/chatgpt-privacy-tips-two-important-ways-to-limit-the-data-you-share-with-openai/)** 
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
 
@@ -130,10 +130,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -170,15 +170,24 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-can-you-create-animated-facebook-ads-with-high-roi/"><u>[New] 2024 Approved How Can You Create Animated Facebook Ads With High ROI?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/assassins-creed-odyssey-freezing-on-pc-2024-fix/"><u>Assassin's Creed Odyssey Freezing on PC - 2024 Fix</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/enhance-pc-video-life-with-windows-immersive-hdr-techniques/"><u>Enhance PC Video Life with Windows' Immersive HDR Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-g602-mice-software-for-windows-computers/"><u>Get the Latest Logitech G602 Mice Software for Windows Computers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-complete-factory-reset-on-your-dell-computer/"><u>Step-by-Step Guide: Complete Factory Reset on Your Dell Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-blue-screen-error-in-hell-divers-the-twin-heroes-ii-gameplay/"><u>The Ultimate Fix for 'Blue Screen' Error in Hell Divers: The Twin Heroes II Gameplay</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-essential-automation-tools-for-your-pinterest-content-strategy/"><u>Top 5 Essential Automation Tools for Your Pinterest Content Strategy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-9-solutions-for-non-charging-airpods-woes/"><u>Top 9 Solutions for Non-Charging AirPods Woes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-on-hooking-up-samsung-ie70-series-to-laptops/"><u>Ultimate Tutorial on Hooking Up Samsung IE70 Series to Laptops</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-building-and-managing-youtube-collaborative-projects/"><u>[Updated] In 2024, Strategies for Building & Managing YouTube Collaborative Projects</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-definitive-guide-to-affordable-video-calls-online-for-2024/"><u>[Updated] The Definitive Guide to Affordable Video Calls Online for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-borders-enhancing-images-with-style-on-social-platforms/"><u>2024 Approved Step By Step Borders Enhancing Images with Style on Social Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/5-best-4k-monitors-color-grading-for-2024/"><u>5 Best 4K Monitors Color Grading for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tech-support-resolving-problems-with-unresponsive-samsung-smart-television-applications/"><u>DIY Tech Support: Resolving Problems with Unresponsive Samsung Smart Television Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-snaps-expert-advice-on-finding-the-ultimate-camera-arm-companion/"><u>Elevate Your Snaps: Expert Advice on Finding the Ultimate Camera-Arm Companion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-strategies-to-achieve-professional-3d-text-in-photoshoot-for-2024/"><u>Expert Strategies to Achieve Professional 3D Text in Photoshoot for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/foremost-dialogue-maker-hub/"><u>Foremost Dialogue Maker Hub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-novice-to-pro-a-beginners-roadmap-to-playing-pokemon-unite-on-pc/"><u>From Novice to Pro: A Beginner's Roadmap to Playing Pokémon Unite on PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-3-simplified-ways-to-save-lenovo-screenshots/"><u>In 2024, 3 Simplified Ways to Save Lenovo Screenshots</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-t2-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo T2 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-show-and-hide-the-on-screen-keyboard-feature-in-windows-11/"><u>Mastering the Art of Show and Hide: The On-Screen Keyboard Feature in Windows 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoration-of-screen-preferences-achieved/"><u>Restoration of Screen Preferences Achieved</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamlessly-integrating-airpods-into-your-macbook-air-experience/"><u>Seamlessly Integrating AirPods Into Your MacBook Air Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-psn-account-securely/"><u>Step-by-Step Guide: Setting Up Your PSN Account Securely</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/triumph-over-tribal-speeches-mastering-the-worlds-toughest-languages/"><u>Triumph Over Tribal Speeches: Mastering the World's Toughest Languages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unboxing-samsungs-latest-innovation-the-galaxy-z-fold-series-6-pricing-details-and-release-schedule-revealed/"><u>Unboxing Samsung's Latest Innovation - The Galaxy Z Fold Series 6: Pricing Details and Release Schedule Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-biometric-identification-what-does-it-entail/"><u>Understanding Biometric Identification: What Does It Entail?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-t-mobiles-intra-network-wifi-roaming-strategy/"><u>Understanding T-Mobile’s Intra-Network WiFi Roaming Strategy</u></a></li>
 </ul></div>
 

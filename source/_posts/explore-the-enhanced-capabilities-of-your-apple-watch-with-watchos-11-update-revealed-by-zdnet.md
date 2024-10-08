@@ -1,7 +1,7 @@
 ---
 title: Explore the Enhanced Capabilities of Your Apple Watch with WatchOS 11 Update Revealed by ZDNet
-date: 2024-09-28T16:51:54.642Z
-updated: 2024-10-02T16:34:59.205Z
+date: 2024-10-06T20:53:45.831Z
+updated: 2024-10-07T21:49:26.247Z
 tags:
   - apple
 categories:
@@ -42,6 +42,13 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use Low Power Mode when you can
 
 I don't recommend using Low Power Mode all day since it limits the functionality of your Apple Watch, but in a pinch, it can squeeze out a lot more juice than you think. If you drop down to 40 percent by 2 p.m., your watch will last the remainder of the day without issue by using the feature.
@@ -59,10 +66,16 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -84,16 +97,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -101,6 +108,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -110,13 +124,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -124,13 +131,6 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 **How to:** On your Apple Watch, head to Settings > Siri and under "Ask Siri," choose "Listen For." From that list, tap the "Off" button. This will disable the mics and only let you trigger Siri by long-pressing the Digital Crown.
 
 Adrian Kingsley-Hughes/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
@@ -179,24 +179,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-from-conventional-to-cutting-edge-the-shift-from-rgb-to-srgb-for-2024/"><u>[New] From Conventional to Cutting-Edge The Shift From Rgb to Srgb for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/4k8k/"><u>「4Kと8Kの違いを理解して、スムーズなビッグファイルダウンロード方法を学ぶ！」</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-discover-engaging-youtube-threads/"><u>2024 Approved Discover Engaging YouTube Threads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-image-files-made-simple-online-desktop-and-terminal-steps/"><u>2024 Approved Youtube’s Image Files Made Simple Online, Desktop & Terminal Steps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/assembling-an-original-identification-alphanumeric/"><u>Assembling an Original Identification Alphanumeric</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-resolving-the-500-internal-server-mishap/"><u>Effective Solutions for Resolving the 500 Internal Server Mishap</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-online-presence-adding-an-eye-catching-email-signature-using-godaddys-web-mail-service/"><u>Enhance Your Online Presence: Adding an Eye-Catching Email Signature Using GoDaddy's Web Mail Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-project-your-games-on-big-screens-a-detailed-guide-to-connecting-nintendo-switch-to-tvs/"><u>How To Project Your Games on Big Screens: A Detailed Guide to Connecting Nintendo Switch to TVs</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Pro Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/ig-tunes-crafting-perfect-music-posts-for-2024/"><u>IG Tunes Crafting Perfect Music Posts for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-master-the-art-of-recording-lol-discover-3-essential-tips/"><u>In 2024, Master the Art of Recording LOL - Discover 3 Essential Tips</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-14-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 14 Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-pair-airpods-with-the-nintendo-switch-console/"><u>Is It Possible to Pair AirPods with the Nintendo Switch Console?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-repair-speedy-techniques-to-overcome-madden-22-errors/"><u>Mastering the Repair: Speedy Techniques to Overcome Madden 22 Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-network-connections-with-ease-a-windows-telnet-guide/"><u>Navigating Network Connections with Ease - A Windows Telnet Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/open-iphone-sim-card-with-everyday-objects-a-step-by-step-tutorial/"><u>Open iPhone SIM Card with Everyday Objects: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/smudge-proof-streaming-how-to-navigate-and-control-roku-without-the-need-for-a-traditional-remote/"><u>Smudge-Proof Streaming: How to Navigate and Control Roku Without the Need for a Traditional Remote</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-updating-zoom-version-for-pc-and-mac-users/"><u>Step-by-Step Guide: Updating Zoom Version for PC and Mac Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-computer-how-to-correctly-handle-ieframedll-errors/"><u>Troubleshooting Your Computer: How to Correctly Handle ieframe.dll Errors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-explore-the-finest-15-video-cameras-for-vlogging-success/"><u>[New] 2024 Approved Explore the Finest 15 Video Cameras for Vlogging Success</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unlock-views-essential-fonts-for-stellar-thumbnails/"><u>[New] 2024 Approved Unlock Views Essential Fonts for Stellar Thumbnails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/busting-myths-and-fixing-flaws-the-iphone-13s-top-six-trouble-spots/"><u>Busting Myths & Fixing Flaws: The iPhone 13'S Top Six Trouble Spots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-restoring-functionality-of-the-sennheiser-game-one-microphone/"><u>Diagnosing and Restoring Functionality of the Sennheiser Game One Microphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-correct-ieframedll-problems-on-your-pc/"><u>Effective Solutions to Correct ieframe.dll Problems on Your PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-your-fitness-routine-top-10-yoga-streams-unveiled-for-2024/"><u>Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-premier-british-shows-currently-airing-on-netflix-platforms/"><u>Explore Premier British Shows Currently Airing on Netflix Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-learn-all-about-the-rumored-google-pixel-10-and-its-expected-launch-timeline/"><u>Get Ahead of the Curve - Learn All About the Rumored Google Pixel 10 and Its Expected Launch Timeline!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-whatsapp-on-a-mac/"><u>How to Use WhatsApp on a Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-crafting-breathtaking-time-lapses-with-gopro/"><u>In 2024, The Ultimate Guide to Crafting Breathtaking Time-Lapses with GoPro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-s17t-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo S17t FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-magic-v2-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor Magic V2 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-the-ultimate-tech-resource/"><u>Inside Tom's Hardware: The Ultimate Tech Resource</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/marketing-leadership-update-gabriard-lukianchuk-joins-abbyy-c-suite-as-head-of-marketing/"><u>Marketing Leadership Update: Gabriard Lukianchuk Joins ABBYY C-Suite as Head of Marketing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-time-changes-a-detailed-walkthrough-for-your-amazon-kindle-paperwhite/"><u>Mastering Time Changes: A Detailed Walkthrough for Your Amazon Kindle Paperwhite</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-through-collective-media-on-messenger-for-2024/"><u>Navigating Through Collective Media on Messenger for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-sound-integration-how-to-link-a-computer-and-bluetooth-speakers-together/"><u>Seamless Sound Integration: How to Link A Computer and Bluetooth Speakers Together</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-11-no-cost-movies-downloads-best-free-film-websites/"><u>Top 11 No-Cost Movies Downloads: Best Free Film Websites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-mfc42dll-file-step-by-step-solutions/"><u>Troubleshooting The Missing mfc42.dll File - Step-by-Step Solutions</u></a></li>
 </ul></div>
 

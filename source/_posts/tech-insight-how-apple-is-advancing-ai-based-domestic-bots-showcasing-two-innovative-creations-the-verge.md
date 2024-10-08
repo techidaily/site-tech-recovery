@@ -1,7 +1,7 @@
 ---
 title: "Tech Insight: How Apple Is Advancing AI-Based Domestic Bots, Showcasing Two Innovative Creations | The Verge"
-date: 2024-09-28T16:46:51.934Z
-updated: 2024-10-02T16:51:26.383Z
+date: 2024-10-04T21:37:42.740Z
+updated: 2024-10-07T17:20:53.247Z
 tags:
   - apple
 categories:
@@ -40,13 +40,6 @@ I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Display     | 11-inch or 13-inch OLED with ProMotion (10Hz to 120Hz)                                                                                                                                                                                                                           |
@@ -62,10 +55,16 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the iPad Pro (2024)
@@ -73,13 +72,6 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 Over the past week and a half, I've used (or attempted to use) the 11-inch iPad Pro as my primary computer for work and as a secondary, entertainment-only device. When it wasn't paired to a Wi-Fi connection 90% of the time, it ran off my phone's T-Mobile hotspot. While Apple sells an [LTE version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9a66ad0a-f791-4269-9ffc-06e9fd4df3fc%7Cdtp&dtb=1) of the iPad Pro, my primary testing grounds for the device have been at home, a local café, and my work office -- nowhere adventurous enough to justify the always-connected upgrade.
 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
 
@@ -120,10 +112,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What I'd like to see in the next model
@@ -144,11 +136,31 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Final thought
 
 Apple's tablet lineup is ultimately (and has always been) confined by an operating system that promotes flexibility and ease of use over high-power multitasking. That balance may shift come WWDC, should the company pitch a more ambitious, AI-driven version of iPadOS.
 
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9a66ad0a-f791-4269-9ffc-06e9fd4df3fc%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -184,18 +196,24 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-quick-guide-merging-igtv-with-instagram-stories/"><u>[New] Quick Guide Merging IGTV with Instagram Stories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-user-guide-to-hdr-image-creation/"><u>2024 Approved IPhone User Guide to HDR Image Creation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-list-to-remember-reddits-highly-endorsed-top-threads/"><u>A List to Remember Reddit’s Highly Endorsed Top Threads</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/bitrecorder-analysis-with-other-solutions-for-2024/"><u>BitRecorder Analysis with Other Solutions for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/el-transformation-unleash-potential-with-tubebuddy/"><u>Channel Transformation Unleash Potential with TubeBuddy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/create-windows-11-recovery-usb-drive-to-reinstall/"><u>Create Windows 11 Recovery USB Drive to Reinstall</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crucial-5-platforms-and-tools-for-amplifying-your-twitch-streaming-success/"><u>Crucial 5 Platforms and Tools for Amplifying Your Twitch Streaming Success</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/leading-mini-pcs-for-hardcore-gamers-unveiled/"><u>Leading Mini PCs for Hardcore Gamers Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-adjusting-your-kindle-paperwhites-display-clock/"><u>Step-by-Step Guide: Adjusting Your Kindle Paperwhite's Display Clock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-25plus-zero-cost-system-maintenance-applications-for-optimal-performance/"><u>The Ultimate List: 25+ Zero-Cost System Maintenance Applications for Optimal Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-your-creative-spirit-from-images-to-videos-using-pixiz-for-2024/"><u>Unleash Your Creative Spirit From Images to Videos Using Pixiz for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unpack-rar-compressed-files-effortlessly-on-your-mac/"><u>Unpack RAR Compressed Files Effortlessly on Your Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-essential-guide-to-downloading-and-editing-whatsapp-alerts/"><u>[Updated] In 2024, The Essential Guide to Downloading & Editing WhatsApp Alerts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024-google-meet/"><u>2024 新版 Google Meet 錄影功能實用指南: 選擇最佳錄影技巧</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-control-over-your-youtube-viewing-rhythm/"><u>2024 Approved Master Control Over Your YouTube Viewing Rhythm</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-x100-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo X100 to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/m4vavi-movavi/"><u>網路上免收費的 M4V到AVI影片改編者 - Movavi之選</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-magic-5-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Magic 5 Pro</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/ai-driven-triumph-abbyy-achieves-60-revenue-surge-accolades-from-idc-marketscape/"><u>AI-Driven Triumph: ABBYY Achieves 60% Revenue Surge - Accolades From IDC MarketScape</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bazilasma-icin-en-fazla-muthis-olan-online-ve-ucretsiz-video-yaylama-programi/"><u>Bazılaşma Için En Fazla Müthiş Olan Online Ve Ücretsiz Video Yaylama Programı</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-se-2022-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone SE (2022)</u></a></li>
+<li><a href="https://games-able.techidaily.com/champion-mousepad-roundup-for-players/"><u>Champion Mousepad Roundup for Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-setup-guide-activating-movavi-on-your-mac-step-by-step-instructions/"><u>Easy Setup Guide: Activating Movavi on Your Mac - Step by Step Instructions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-online-converter-mp4-para-mp3-com-o-movavi-facil-e-eficiente/"><u>Gratuito Online: Converter MP4 Para MP3 Com O Movavi - Fácil E Eficiente</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/halt-real-time-audiovideo-capturing-on-apples-platform-for-2024/"><u>Halt Real-Time Audio/Video Capturing on Apple's Platform for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-photo-tweaking-picarts-tactical-background-stripping/"><u>In 2024, Professional Photo Tweaking PicArt's Tactical Background Stripping</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unleash-your-photo-and-video-potential-with-your-cellphones-webcam-features/"><u>In 2024, Unleash Your Photo & Video Potential with Your Cellphone's Webcam Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavimpeg-mp4/"><u>Movaviアプリを使ったフリーなMPEG ファイル変換 - MP4形式へ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-gratis-conversion-von-flvvob-dateien-mit-movavi-kostenlose-konvertierung/"><u>Online Gratis Conversion Von FLV/VOB Dateien Mit Movavi - Kostenlose Konvertierung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-playing-swf-videos-on-windows-11-10-8-and-7-with-ease/"><u>Step-by-Step Guide: Playing SWF Videos on Windows 11, 10, 8 & 7 with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-11-applicazioni-mac-per-masterizzare-i-disco-ottimizzate-per-la-scrittura-su-dvd/"><u>Top 11 Applicazioni Mac per Masterizzare I Disco Ottimizzate per La Scrittura Su DVD</u></a></li>
 </ul></div>
 

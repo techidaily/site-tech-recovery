@@ -1,7 +1,7 @@
 ---
 title: Apple Event Highlights - Introducing the Next-Gen iPad Air & The Powerful Apple Pencil Pro | ZDNet
-date: 2024-09-29T16:31:17.132Z
-updated: 2024-10-02T16:49:52.959Z
+date: 2024-10-03T20:42:53.673Z
+updated: 2024-10-07T16:56:41.279Z
 tags:
   - apple
 categories:
@@ -52,6 +52,13 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -67,13 +74,6 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -92,10 +92,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -104,15 +104,34 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -126,13 +145,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -168,24 +180,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-handheld-gyro-stabilization-upgrade-for-2024/"><u>[New] Handheld Gyro Stabilization Upgrade for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-world-of-haul-video-production/"><u>[Updated] Inside the World of Haul Video Production</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-small-spaces-big-flavor-6-miniature-east-asian-houses/"><u>2024 Approved Small Spaces, Big Flavor 6 Miniature East Asian Houses</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/access-local-fm-channels-using-your-smartphone-tips-for-iphoneandroid-users/"><u>Access Local FM Channels Using Your Smartphone: Tips for iPhone/Android Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-the-missing-fm20dll-error-message/"><u>Effective Solutions for the Missing 'FM20.DLL' Error Message</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/googles-new-pixel-tablet-release-timeline-features-and-hardware-breakdown/"><u>Google's New Pixel Tablet: Release Timeline, Features, and Hardware Breakdown</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-process-to-craft-memorable-gifs-from-any-youtube-video-on-devices/"><u>In 2024, Step-by-Step Process to Craft Memorable GIFs From Any YouTube Video on Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-shutterbug-secrets-perfecting-reflections-in-water/"><u>IPhone Shutterbug Secrets Perfecting Reflections in Water</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-sending-virtual-hugs-a-guide-to-typing-a-heart-emoji/"><u>Mastering the Art of Sending Virtual Hugs: A Guide to Typing a Heart Emoji</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-youtube-google-meet-live-broadcast-steps/"><u>Mastering YouTube Google Meet Live Broadcast Steps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-more-blank-pages-on-epson/"><u>No More Blank Pages on Epson</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sage-select-best-general-knowledge-channels/"><u>Sage Select Best General Knowledge Channels</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-setup-ultimate-tutorial-for-mirroring-content-to-lg-smart-televisions/"><u>Seamless Setup: Ultimate Tutorial for Mirroring Content to LG Smart Televisions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-coredll-cannot-be-found-problem-a-step-by-step-guide/"><u>Solving the 'Core.dll Cannot Be Found' Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamlining-your-im-experience-how-to-utilize-mozilla-thunderbirds-chatting-capabilities/"><u>Streamlining Your IM Experience - How to Utilize Mozilla Thunderbird's Chatting Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-trick-for-tweaking-previously-shared-content-on-instagram/"><u>The Ultimate Trick for Tweaking Previously Shared Content on Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-fixing-vertical-lines-appearing-on-samsung-displays/"><u>Troubleshooting Tips for Fixing Vertical Lines Appearing on Samsung Displays</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-32-free-backup-solutions-evaluated-and-compared-for-you/"><u>Ultimate List of 32 FREE Backup Solutions, Evaluated and Compared for You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/who-wins-in-originality-testing-3-different-chatbots-with-one-creative-task/"><u>Who Wins in Originality? Testing 3 Different Chatbots with One Creative Task</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-flash-moment-of-fame-analysis/"><u>2024 Approved Flash Moment of Fame Analysis</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unveiling-video-sharing-secrets-examining-igtv-and-youtube-in-depth/"><u>2024 Approved Unveiling Video Sharing Secrets Examining IGTV & YouTube in Depth</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-visibility-on-social-media-adding-a-pinterest-section-to-your-facebook-profile/"><u>Boosting Visibility on Social Media: Adding a Pinterest Section to Your Facebook Profile</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/converting-live-images-to-continuous-recordings/"><u>Converting Live Images to Continuous Recordings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-fifa-21-pc-freezes-and-crashes-a-complete-guide-to-stability/"><u>End FIFA 21 PC Freezes and Crashes: A Complete Guide to Stability</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-tantalizing-flavors-with-these-top-10-culinary-series-on-netflix/"><u>Explore Tantalizing Flavors with These Top 10 Culinary Series on Netflix</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-11-pro-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 11 Pro and iPad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-resolve-a-faulty-cmos-checksum-on-your-pc/"><u>How to Successfully Resolve a Faulty CMOS Checksum on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-ios-updates-a-comprehensive-guide-for-seamless-installation/"><u>Mastering iOS Updates: A Comprehensive Guide for Seamless Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-shift-control-with-easy-fixes/"><u>Reclaim Shift Control with Easy Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx933dll-error-a-comprehensive-guide/"><u>Resolving d3dx9_33.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-2023-guide-to-best-in-class-professionals-spinning-cameras-for-2024/"><u>The 2023 Guide to Best-in-Class Professionals' Spinning Cameras for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-corsair-keyboards-that-wont-illuminate-properly/"><u>Troubleshooting Tips for Corsair Keyboards That Won't Illuminate Properly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-cable-tv-vs-streaming-services-key-distinctions/"><u>Understanding Cable TV Vs. Streaming Services: Key Distinctions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unexpected-situations-solved-regain-access-to-your-ipad-without-the-original-password/"><u>Unexpected Situations Solved: Regain Access to Your iPad Without the Original Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleash-your-need-for-speed-best-free-racing-titles-that-dont-require-an-internet-connection/"><u>Unleash Your Need for Speed: Best Free Racing Titles That Don't Require an Internet Connection</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-magic-vs-2-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Magic Vs 2? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

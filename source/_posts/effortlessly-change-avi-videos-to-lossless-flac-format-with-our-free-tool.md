@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Change AVI Videos to Lossless FLAC Format with Our Free Tool
-date: 2024-09-19T17:50:18.689Z
-updated: 2024-09-21T05:02:19.098Z
+date: 2024-10-05T21:10:42.500Z
+updated: 2024-10-07T16:51:46.250Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227de663d1016dd55e7780d59f.jpg
@@ -176,6 +176,13 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -214,6 +221,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -221,6 +235,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -239,13 +260,6 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -331,14 +345,14 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -351,6 +365,13 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -387,6 +408,13 @@ Pour overclocker :
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver SysMain et Prefetch
 
 C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes essaient de vous aider à accéder plus rapidement aux données, mais ils ajoutent finalement des opérations inutiles qui ralentissent les jeux. Voici comment les désactiver :
@@ -415,14 +443,14 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -444,13 +472,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -496,6 +517,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -538,13 +566,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -578,5 +599,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-building-on-your-content-a-guide-to-stellar-videography-closures/"><u>[New] 2024 Approved Building on Your Content A Guide to Stellar Videography Closures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/airpods-apart-heres-the-mend-for-2024/"><u>Airpods Apart? Here's the Mend for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-uninstalling-the-copilot-feature-in-windows-11/"><u>Expert Tips for Uninstalling the Copilot Feature in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722973800528-get-the-new-nvidia-rtx-3080-graphics-card-driver-compatible-with-windows-1187-systems/"><u>Get the New NVIDIA RTX 3080 Graphics Card Driver - Compatible with Windows 11/8/7 Systems!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hardware-checkup-verify-if-your-cpu-supports-vanguards-performance-criteria/"><u>Hardware Checkup: Verify if Your CPU Supports Vanguard’s Performance Criteria</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-fix-av1-video-playback-issues-step-by-step-instructions-for-windows-1/"><u>How to Fix AV1 Video Playback Issues: Step-by-Step Instructions for Windows 1</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-y200-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y200 Phone that is Locked?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-11-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 11 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-upload-and-backup-your-google-images-onto-icloud-services/"><u>How to Upload and Backup Your Google Images Onto iCloud Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/insider-tips-for-upgrades-and-repairs-advice-straight-from-toms-hardware/"><u>Insider Tips for Upgrades and Repairs - Advice Straight From Tom's Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/priorities-when-purchasing-a-personal-video-game-handset/"><u>Priorities When Purchasing a Personal Video Game Handset</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-address-pdhdll-absence-issues-on-windows/"><u>Step-by-Step Guide to Address pdh.dll Absence Issues on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-what-to-look-for-before-investing-in-a-smart-tv/"><u>The Ultimate Checklist: What to Look For Before Investing in a Smart TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-gaining-a-blue-checkmark-on-instagram/"><u>The Ultimate Guide to Gaining a Blue Checkmark on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-fixing-not-found-msidll-file-problems/"><u>Troubleshooting Steps for Fixing 'Not Found' msi.dll File Problems</u></a></li>
+</ul></div>
 
