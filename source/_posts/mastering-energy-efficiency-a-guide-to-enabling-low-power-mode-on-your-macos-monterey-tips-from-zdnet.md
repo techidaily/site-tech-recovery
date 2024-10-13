@@ -1,7 +1,7 @@
 ---
 title: "Mastering Energy Efficiency: A Guide to Enabling Low Power Mode on Your macOS Monterey - Tips From ZDNet"
-date: 2024-10-02T17:46:19.962Z
-updated: 2024-10-07T16:38:10.503Z
+date: 2024-10-12T16:37:47.820Z
+updated: 2024-10-13T16:41:11.857Z
 tags:
   - apple
 categories:
@@ -31,16 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -58,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -77,10 +71,16 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -92,10 +92,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -140,22 +140,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-the-big-bucks-as-a-youtube-star/"><u>[New] In 2024, Earning the Big Bucks as a YouTube Star</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-launching-a-graphics-career-strategies-and-steps/"><u>[New] Launching a Graphics Career Strategies and Steps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-computer-monitor-recording-via-zdsoft/"><u>[New] Mastering Computer Monitor Recording via ZDSoft</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-social-sync-combining-ig-and-youtube-videos/"><u>2024 Approved Social Sync Combining IG and YouTube Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-approach-to-organizing-your-files-with-customized-finder-views/"><u>A Step-by-Step Approach to Organizing Your Files with Customized Finder Views</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-counting-the-rungs-in-royal-matchs-ladder/"><u>A Step-by-Step Guide: Counting the Rungs in Royal Match's Ladder</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/beginners-handbook-for-pc-users-initiating-a-tiktok-broadcast-for-2024/"><u>Beginner's Handbook for PC Users - Initiating a TikTok Broadcast for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-communication-with-8-superior-alternate-phone-number-app-options/"><u>Enhance Your Communication with 8 Superior Alternate Phone Number App Options</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-streaming-hulu-on-your-lg-smart-tv-effortlessly/"><u>Guide: Streaming Hulu on Your LG Smart TV Effortlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-reset-a-samsung-tv/"><u>How to Reset a Samsung TV</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-determining-the-perfect-aspect-ratio/"><u>In 2024, Determining the Perfect Aspect Ratio</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-14-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 14 Pro/iPad? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-overcoming-the-challenge-of-unable-to-complete-pc-reset-error-messages/"><u>Step-by-Step Guide: Overcoming the Challenge of 'Unable to Complete PC Reset' Error Messages</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolving-ksuserdll-missing-and-unavailable-issues-on-your-computer/"><u>Step-by-Step Guide: Resolving ksuser.dll Missing and Unavailable Issues on Your Computer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-epic-tale-retold-a-review-of-spyros-rekindled-saga-packed-with-unprecedented-worth/"><u>The Epic Tale Retold: A Review of Spyro's Rekindled Saga, Packed With Unprecedented Worth</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-youtube-ranks-elevating-your-content-with-premier-applications/"><u>Top 8 YouTube Ranks Elevating Your Content with Premier Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-system-settings-steps-to-bypass-or-modify-trustedinstaller-rights-in-windows-10/"><u>Unlocking System Settings: Steps to Bypass or Modify TrustedInstaller Rights in Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-master-the-art-of-vlogging-with-these-top-8-cameras/"><u>[New] Master the Art of Vlogging with These Top 8 Cameras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-prime-7-fps-titles-you-cant-miss/"><u>[Updated] 2024 Approved Prime 7 FPS Titles You Can't Miss</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-polaroid-camplus-pro-a-complete-action-recorder-review/"><u>[Updated] Polaroid Cam+ Pro A Complete Action Recorder Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-music-free-converters-for-youtube-and-mac-users/"><u>[Updated] Unlocking Music Free Converters for YouTube & Mac Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-cost-free-streaming-options-available-in-place-of-netflix/"><u>Best Cost-Free Streaming Options Available in Place of Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-the-rpcrt4dll-file-cannot-be-found-error/"><u>Easy Fixes for the 'rpcrt4.dll File Cannot Be Found' Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-and-tricks-to-correcting-bios-related-whea-issues/"><u>Expert Tips and Tricks to Correcting BIOS-Related WHEA Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-instructions-on-removing-the-enabled-sticky-keys-in-windows-environment/"><u>In-Depth Instructions on Removing the Enabled Sticky Keys in Windows Environment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-upcoming-playstation-portable-launch-timelines-budgeting-tips-tech-breakdown-and-stores-near-you/"><u>Inside the Upcoming PlayStation Portable Launch: Timelines, Budgeting Tips, Tech Breakdown & Stores Near You</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/m1s-impact-on-video-editing-software-performance-for-2024/"><u>M1's Impact on Video Editing Software Performance for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-pubg-effective-techniques-for-altering-your-vocal-presence/"><u>Mastering PUBG Effective Techniques for Altering Your Vocal Presence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-gmails-most-useful-keyboard-shortcuts-boost-your-efficiency-today/"><u>Ultimate List of Gmail's Most Useful Keyboard Shortcuts: Boost Your Efficiency Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-fluency-with-these-top-9-free-websites-for-learning-any-language/"><u>Unlock Fluency with These Top 9 Free Websites for Learning Any Language</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-full-potential-of-cloud-gaming-on-xbox-using-game-pass-ultimate-features/"><u>Unlocking the Full Potential of Cloud Gaming on Xbox Using Game Pass Ultimate Features</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
 </ul></div>
 

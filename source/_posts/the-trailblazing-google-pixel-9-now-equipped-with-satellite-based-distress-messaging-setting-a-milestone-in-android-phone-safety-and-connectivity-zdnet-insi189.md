@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2024-10-04T19:15:23.478Z
-updated: 2024-10-07T22:14:18.574Z
+date: 2024-10-06T16:50:32.298Z
+updated: 2024-10-13T16:03:30.885Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,17 +130,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-clear-youtube-watch-later-playlist-step-by-step/"><u>[New] 2024 Approved Clear YouTube Watch Later Playlist - [Step-by-Step]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sonic-overlay-for-serene-scenery-on-screens/"><u>[New] Sonic Overlay for Serene Scenery on Screens</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unlock-full-potential-of-obs-studio-for-android-devices/"><u>[Updated] 2024 Approved Unlock Full Potential of OBS Studio for Android Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-plating-aesthetics-capturing-delectable-dishes-on-screen/"><u>[Updated] Plating Aesthetics Capturing Delectable Dishes on Screen</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-subtle-art-of-dimming-sounds-via-audacity/"><u>2024 Approved Mastering the Subtle Art of Dimming Sounds via Audacity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparing-costs-does-ride-sharing-save-you-money-over-traditional-taxis/"><u>Comparing Costs: Does Ride-Sharing Save You Money Over Traditional Taxis?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminate-your-yahoo-email-account-permanently-with-this-essential-step-by-step-guide/"><u>Eliminate Your Yahoo Email Account Permanently with This Essential Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>In 2024, Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
-<li><a href="https://games-able.techidaily.com/innocn-gaming-monitor-budget-friendly-speedster/"><u>InnoCN Gaming Monitor: Budget-Friendly Speedster</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-how-to-correct-gsdll32dll-is-not-detected-issues/"><u>Troubleshooting: How to Correct 'gSDll32.DLL' Is Not Detected Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unite-your-circle-with-sync-playlist-features-on-spotify-a-step-by-step-tutorial/"><u>Unite Your Circle with Sync-Playlist Features on Spotify: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-times-ticking-off-align-it-back/"><u>Windows Time's Ticking Off? Align It Back!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unlocking-your-ps4s-potential-recording-strategies-for-gamers/"><u>[New] Unlocking Your PS4's Potential Recording Strategies for Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/12-best-free-defrag-software-tools-july-2024/"><u>12 Best Free Defrag Software Tools (July 2024)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-logitech-g910-driver-setup-for-pc/"><u>Download the Newest Logitech G910 Driver Setup for PC</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/etapes-detaillees-pour-creer-un-fichier-iso-de-votre-disque-dur-sur-windowsmac/"><u>Étapes Détaillées Pour Créer Un Fichier ISO De Votre Disque Dur Sur Windows/Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-crack-the-conundrum-of-car-radio-lockout-passwords/"><u>How to Crack the Conundrum of Car Radio Lockout Passwords</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-guide-to-hosting-regular-online-gatherings/"><u>In 2024, The Ultimate Guide to Hosting Regular Online Gatherings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/sony-bdp-s3700-overhaul-a-new-perspective-review/"><u>Sony BDP-S3700 Overhaul A New Perspective Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-high-speed-avi-format-translator-for-windows-11-users-achieve-perfect-lossless-video-conversion/"><u>Top-Rated, High-Speed AVI Format Translator for Windows 11 Users: Achieve Perfect Lossless Video Conversion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-how-to-fix-a-non-responsive-youtube-experience/"><u>Troubleshooting Tips: How to Fix a Non-Responsive YouTube Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-for-a-quick-reboot-of-your-new-iphone-15/"><u>Ultimate Troubleshooting Tips for a Quick Reboot of Your New iPhone 15</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-for-snapping-photos-of-gameplay-on-xbox-one/"><u>Ultimate Tutorial for Snapping Photos of Gameplay on Xbox One</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveiling-the-leading-free-stock-video-and-image-archives-for-2024/"><u>Unveiling the Leading Free Stock Video and Image Archives for 2024</u></a></li>
 </ul></div>
 

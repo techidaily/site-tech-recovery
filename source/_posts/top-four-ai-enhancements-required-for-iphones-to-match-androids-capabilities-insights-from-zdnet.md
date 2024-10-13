@@ -1,7 +1,7 @@
 ---
 title: Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet
-date: 2024-10-05T22:30:25.237Z
-updated: 2024-10-07T19:23:53.064Z
+date: 2024-10-07T17:33:32.061Z
+updated: 2024-10-13T16:09:45.721Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,22 +131,18 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-10-top-ranked-no-cost-image-format-switchers-jpg-to-gif/"><u>[Updated] 10 Top-Ranked No-Cost Image Format Switchers (JPG to GIF)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-bring-imagination-alive-start-with-microsofts-movie-maker-on-w11/"><u>[Updated] In 2024, Bring Imagination Alive Start with Microsoft's Movie Maker on W11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-split-between-panoramic-and-virtual-realities-for-2024/"><u>[Updated] The Split Between Panoramic & Virtual Realities for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-state-of-the-art-methods-for-documenting-digital-education/"><u>2024 Approved State-of-the-Art Methods for Documenting Digital Education</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-instructions-on-how-to-disable-and-delete-windows-11-copilot-feature/"><u>Easy Instructions on How to Disable and Delete Windows 11 Copilot Feature</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-unveiling-the-features-of-amazons-latest-kindle-paperwhite-your-perfect-digital-library/"><u>Expert Analysis: Unveiling the Features of Amazon's Latest Kindle Paperwhite - Your Perfect Digital Library</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-best-sites-for-watching-movies-without-paying-a-dime/"><u>Explore the Best Sites for Watching Movies Without Paying a Dime</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-7-plus-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 7 Plus Screen | Stellar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722900874791-lost-track-of-your-email-heres-how-you-can-find-it/"><u>Lost Track of Your Email? Here's How You Can Find It!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macbook-users-secret-prevent-automatic-sleep-mode-with-a-simply-closed-lid/"><u>MacBook Users' Secret: Prevent Automatic Sleep Mode with a Simply Closed Lid</u></a></li>
-<li><a href="https://driver-install.techidaily.com/perfected-acer-driver-setup-for-windows-11/"><u>Perfected Acer Driver Setup for Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/realms-no-more-archive-and-access-previously-played-landscapes/"><u>Realms No More: Archive and Access Previously Played Landscapes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-replacing-missing-keys-on-your-notebook/"><u>Step-by-Step Guide: Replacing Missing Keys on Your Notebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-process-of-chromecast-software-update-explained/"><u>The Complete Process of Chromecast Software Update Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-fixing-helperdll-missing-error/"><u>The Definitive Guide to Fixing 'Helper.dll Missing Error'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-helperdll-solutions-and-tips/"><u>Troubleshooting Missing Helper.dll: Solutions and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-beginners-handbook-mastering-your-home-sound-setup/"><u>Ultimate Beginner's Handbook: Mastering Your Home Sound Setup</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ecoding-youtubes-5-second-tales/"><u>[New] Decoding YouTube's 5-Second Tales</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-leveraging-video-conferencing-a-guide-to-zipping-up-zoom-and-gmail-integration/"><u>[New] In 2024, Leveraging Video Conferencing A Guide to Zipping Up Zoom and Gmail Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-restoring-functionality-to-your-computers-media-drives/"><u>Expert Advice: Restoring Functionality to Your Computer's Media Drives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-fixed-frames-to-dynamic-circles-in-videos/"><u>From Fixed Frames to Dynamic Circles in Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/"><u>Get Clarity Back in Photos: How To Repair iPhone Camera Focusing Problems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-elevate-your-playthroughs-secrets-of-ps3-video-capture/"><u>In 2024, Elevate Your Playthroughs Secrets of PS3 Video Capture</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-14-plus-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 14 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-wearables-a-buyers-guide-with-five-crucial-points-for-smartwatches/"><u>Navigating the World of Wearables: A Buyer's Guide with Five Crucial Points for Smartwatches</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-a24-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy A24 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/streamline-your-videos-5-best-free-compression-apps-for-ios-devices/"><u>Streamline Your Videos 5 Best Free Compression Apps for iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-essential-factors-you-need-to-know-before-investing-in-a-smart-tv/"><u>Top 7 Essential Factors You Need to Know Before Investing in a Smart TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-windows-11-shutdown/"><u>Troubleshooting Tips: Resolving Issues with Windows 11 Shutdown</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbeatable-apple-watch-offers-dont-miss-out-on-savings/"><u>Unbeatable Apple Watch Offers - Don't Miss Out on Savings!</u></a></li>
 </ul></div>
 

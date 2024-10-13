@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog"
-date: 2024-10-02T20:40:16.965Z
-updated: 2024-10-08T00:11:45.002Z
+date: 2024-10-10T17:19:22.310Z
+updated: 2024-10-13T16:21:35.610Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,16 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,20 +134,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-reimagining-cityscapes-the-integration-of-ecosystem-services/"><u>[New] 2024 Approved Reimagining Cityscapes The Integration of Ecosystem Services</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-strategic-hash-tags-to-launch-you-into-six-figures/"><u>[New] 2024 Approved Strategic Hash Tags to Launch You Into Six Figures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-places-online-watch-free-family-movies/"><u>Best Places Online: Watch Free Family Movies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-to-taking-perfect-screenshots-across-different-operating-systems/"><u>Complete Guide to Taking Perfect Screenshots Across Different Operating Systems</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/cut-the-stream-of-automatically-played-podcasts-in-spotify-for-2024/"><u>Cut the Stream of Automatically Played Podcasts in Spotify for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-chatgpt-pioneering-the-artificial-intelligence-frontier/"><u>Discovering ChatGPT: Pioneering the Artificial Intelligence Frontier</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-an-fm20dll-not-found-issue-on-windows-pcs/"><u>How to Correctly Handle an fm20.dll Not Found Issue on Windows PCs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-down-the-bottom-line-podcast-startup-costs/"><u>In 2024, Breaking Down the Bottom Line Podcast Startup Costs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-maximize-android-screen-brightness/"><u>In 2024, Maximize Android Screen Brightness</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mfc42ddll-error-expert-tips-to-find-and-repair-the-missing-file/"><u>mfc42d.dll Error: Expert Tips to Find and Repair the Missing File</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-remove-audio-from-video/"><u>New 2024 Approved How to Remove Audio From Video</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solution-steps-for-when-your-computer-says-missing-wpcapsdll/"><u>Solution Steps for When Your Computer Says 'Missing wpcaps.dll'</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/spotting-instagram-followers-lost-for-2024/"><u>Spotting Instagram Followers Lost for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/tailoring-watch-experience-on-youtube-with-speed-modifications-for-2024/"><u>Tailoring Watch Experience on YouTube with Speed Modifications for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-how-to-address-d3dx9-33dll-file-not-found-mishaps/"><u>Troubleshoot and Repair: How to Address D3DX9-33.dll File Not Found Mishaps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-social-streamers-guide-broadcast-from-phone-subscriber-free-edition/"><u>[New] Social Streamer's Guide Broadcast From Phone, Subscriber-Free Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-determining-view-counts-direct-effect-on-creator-revenue/"><u>[Updated] 2024 Approved Determining View Count's Direct Effect on Creator Revenue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-of-slomo-video-capture-tool/"><u>[Updated] In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimize-your-online-presence-youtube-to-dailymotion-video-migration/"><u>[Updated] Optimize Your Online Presence YouTube to Dailymotion Video Migration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoiding-phony-friend-requests-in-the-digital-realm-strategies-for-safety/"><u>Avoiding Phony Friend Requests in the Digital Realm: Strategies for Safety</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-online-movie-platforms-netflix-alternatives/"><u>Best FREE Online Movie Platforms: Netflix Alternatives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-you-successfully-stream-and-watch-netflix-content-using-the-nintendo-switch-platform/"><u>Can You Successfully Stream And Watch Netflix Content Using The Nintendo Switch Platform?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/capturing-magic-in-microphones-iphoneipad-tactics-for-superior-recordings-for-2024/"><u>Capturing Magic in Microphones IPhone/iPad Tactics for Superior Recordings for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-oled-how-organic-light-emitting-diodes-operate/"><u>Decoding OLED: How Organic Light-Emitting Diodes Operate</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-google-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Google Face Lock?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-customizing-your-gmail-inbox-with-unique-sounds/"><u>Guide: Customizing Your Gmail Inbox with Unique Sounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-difficulties-of-the-0x80072efd-error-a-comprehensive-fix-for-windows-10-users/"><u>Overcoming the Difficulties of the 0X80072EFD Error: A Comprehensive Fix for Windows 10 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722157800226-public-transit-directions/"><u>Public Transit Directions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-low-sound-issues-on-iphones-a-step-by-step-guide/"><u>Solving Low Sound Issues on iPhones: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-help.techidaily.com/the-ultimate-list-of-top-ranked-no-cost-video-compression-tools-compatible-with-both-pcs-and-macs/"><u>The Ultimate List of Top-Ranked, No-Cost Video Compression Tools Compatible with Both PCs & Macs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-15-fantastic-free-uninstaller-programs-to-clean-your-system/"><u>Top Picks: 15 Fantastic Free Uninstaller Programs to Clean Your System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-to-fix-the-error-of-absent-libeay32dll-file/"><u>Troubleshooting Tips to Fix the Error of Absent Libeay32.dll File</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-samsungs-plans-exclusive-insights-on-upcoming-releases-and-speculations/"><u>Unveiling Samsung's Plans - Exclusive Insights on Upcoming Releases & Speculations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/will-shifting-xbox-processor-to-arm-technology-boost-performance-and-future-proof-console-gaming/"><u>Will Shifting Xbox Processor to ARM Technology Boost Performance and Future-Proof Console Gaming?</u></a></li>
 </ul></div>
 

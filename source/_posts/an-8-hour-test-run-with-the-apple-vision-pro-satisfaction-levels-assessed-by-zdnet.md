@@ -1,7 +1,7 @@
 ---
 title: "An 8-Hour Test Run with the Apple Vision Pro: Satisfaction Levels Assessed by ZDNet"
-date: 2024-09-30T16:33:13.197Z
-updated: 2024-10-07T16:35:43.998Z
+date: 2024-10-06T17:17:42.232Z
+updated: 2024-10-13T17:01:34.962Z
 tags:
   - apple
 categories:
@@ -29,6 +29,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -69,10 +76,10 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -85,18 +92,24 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -106,13 +119,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -120,10 +126,10 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -162,18 +168,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-bank-balance-effective-tactics-for-mobile-video-money-making/"><u>[New] 2024 Approved Boosting Bank Balance Effective Tactics for Mobile Video Money-Making</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-art-of-sustaining-snapstreaks-for-hours-on-end/"><u>[New] 2024 Approved The Art of Sustaining Snapstreaks for Hours on End</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-zenith-project-hub-analysis/"><u>[New] Zenith Project Hub Analysis</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-essential-tools-for-youtube-live-broadcasting-reveal-the-7-key-apps/"><u>[Updated] Essential Tools for YouTube LIVE Broadcasting Reveal the 7 Key Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-eyes-february-release-for-revolutionary-vision-pro-introducing-the-markets-most-advanced-purchasing-experience-zdnet/"><u>Apple Eyes February Release for Revolutionary Vision Pro: Introducing the Market's Most Advanced Purchasing Experience | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bulk-up-your-iphones-memory-space-efficiently-with-these-decluttering-tips-exclusive-tricks-for-a-spacious-device/"><u>Bulk Up Your iPhone’s Memory Space Efficiently with These Decluttering Tips - Exclusive Tricks for a Spacious Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-a-detailed-comparison-for-your-next-upgrade-with-apple-techradar/"><u>Choosing Between iPhone 16 and iPhone 15: A Detailed Comparison for Your Next Upgrade with Apple | TechRadar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-exciting-new-functions-arriving-with-certain-apple-airpods-models-this-fall-according-to-zdnet/"><u>Discover the Exciting New Functions Arriving with Certain Apple AirPods Models This Fall, According to ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-gt-neo-5-se-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme GT Neo 5 SE Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-space-stewards-premium-service-review/"><u>In 2024, Optimal Space Stewards Premium Service Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pros-and-cons-of-moving-to-the-latest-model-iphone-16-pro-compared-with-the-iphone-14-pro-expert-analysis/"><u>Pros and Cons of Moving to the Latest Model: IPhone 16 Pro Compared with the iPhone 지오 14 Pro | Expert Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-elite-lineup-of-2024-expertly-vetted-and-assessed-ipad-pro-cases-zdnet-insights/"><u>Unveiling the Elite Lineup of 2024: Expertly Vetted & Assessed iPad Pro Cases | ZDNET Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-youtubes-frame-advantage-five-free-tools/"><u>[New] 2024 Approved Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-experts-selection-of-iphone-recording-aids-for-2024/"><u>[Updated] Expert's Selection of iPhone Recording Aids for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-list-of-powerful-instagram-hashtags/"><u>[Updated] The Ultimate List of Powerful Instagram Hashtags</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/downloading-and-installing-steelseries-arctis-5-headset-drivers-easily/"><u>Downloading and Installing SteelSeries Arctis 5 Headset Drivers Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-criteria-for-selecting-the-right-high-performance-gaming-machine/"><u>Essential Criteria for Selecting the Right High-Performance Gaming Machine</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-pdhdll-not-found-a-step-by-step-solution-manual-for-users-and-developers/"><u>Fixing 'Pdh.dll Not Found' - A Step-by-Step Solution Manual for Users and Developers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps4-user-guide-how-to-effortlessly-capture-screen-moments/"><u>PS4 User Guide: How to Effortlessly Capture Screen Moments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamers-dilemma-is-vlc-superior-to-mpc/"><u>Streamer's Dilemma Is VLC Superior to MPC?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-emergence-and-influence-of-artificial-intelligence-on-global-progress/"><u>The Emergence and Influence of Artificial Intelligence on Global Progress</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-66-twitter-accounts-for-unbeatable-travel-deals-and-tips/"><u>Top 66 Twitter Accounts for Unbeatable Travel Deals and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-streaming-technology-and-its-hardware/"><u>Understanding Streaming Technology and Its Hardware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027237111-youtube/"><u>YouTubeビデオの向き変更に必要な簡単ガイド - どのようにすれば実現できますか？</u></a></li>
 </ul></div>
 

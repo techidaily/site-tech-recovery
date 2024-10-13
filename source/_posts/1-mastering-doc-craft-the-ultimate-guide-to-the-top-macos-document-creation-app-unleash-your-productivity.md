@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2024-10-02T20:11:19.945Z
-updated: 2024-10-07T17:08:03.033Z
+date: 2024-10-10T16:48:32.978Z
+updated: 2024-10-13T16:25:25.530Z
 tags:
   - apple
 categories:
@@ -36,10 +36,16 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +69,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +86,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,22 +140,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-ascend-video-rankings-top-seo-gadgets-revealed/"><u>[New] 2024 Approved Ascend Video Rankings – Top SEO Gadgets Revealed</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-ultimate-size-solution-to-boost-your-videos-online-performance-for-2024/"><u>[New] The Ultimate Size Solution to Boost Your Video's Online Performance for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-total-spend-on-a-single-youtubers-ads/"><u>[Updated] Total Spend on a Single Youtuber's Ads</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-leveraging-visuals-snap-camera-for-team-discussions/"><u>2024 Approved Leveraging Visuals Snap Camera for Team Discussions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024s-ultimate-selection-of-ipad-air-cases-vetted-by-pro-reviews/"><u>2024'S Ultimate Selection of iPad Air Cases Vetted by Pro Reviews</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-nokia-c12-pro-frp-bypass-by-drfone-android/"><u>About Nokia C12 Pro FRP Bypass</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choosing-between-the-macbook-pro-and-macbook-air-a-comprehensive-guide/"><u>Choosing Between the MacBook Pro and MacBook Air: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/earn-a-150-apple-gift-card-when-buying-your-next-mac-or-ipad-for-education-zdnet/"><u>Earn a $150 Apple Gift Card When Buying Your Next Mac or iPad for Education | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-enable-and-use-built-in-screen-recording-feature-on-iphones-detailed-instructions/"><u>Easy Steps to Enable & Use Built-In Screen Recording Feature on iPhones - Detailed Instructions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ios-18-unleashed-a-step-by-step-guide-to-personalizing-your-iphone-control-center-insights-from-zdnet/"><u>IOS 18 Unleashed: A Step-by-Step Guide to Personalizing Your iPhone Control Center - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-setting-up-an-ipad-expert-advice-professionals/"><u>Step-by-Step Instructions for Setting Up an iPad: Expert Advice Professionals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-hidden-dangers-of-gpt-in-bank-security-and-pc-vulnerabilities/"><u>The Hidden Dangers of GPT in Bank Security & PC Vulnerabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-ipad-pro-protection-covers-comprehensive-analysis-and-ratings/"><u>Top-Rated iPad Pro Protection Covers - Comprehensive Analysis & Ratings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-the-fun-try-these-best-chatgpt-games-out/"><u>Unleash the Fun! Try These Best ChatGPT Games Out</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-xcover-6-pro-tactical-edition-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy XCover 6 Pro Tactical Edition Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/zdnet-exclusive-review-why-the-new-ipad-air-and-its-powerful-m2-processor-is-the-ideal-choice-for-modern-users/"><u>ZDNet Exclusive Review: Why the New iPad Air and Its Powerful M2 Processor Is the Ideal Choice for Modern Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-choice-android-sky-dumps-and-safes/"><u>[New] 2024 Approved Top Choice Android Sky Dumps & Safes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-videography-guide-size-matters/"><u>[Updated] 2024 Approved Instagram Videography Guide - Size Matters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-movie-magic-made-simple-a-step-by-step-guide/"><u>2024 Approved Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-adding-and-deleting-assemblies-with-custom-actions-for-enhanced-functionality/"><u>Comprehensive Guide: Adding and Deleting Assemblies with Custom Actions for Enhanced Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-the-dots-how-to-sync-ps-vr-headset-with-windows-or-macos/"><u>Connecting the Dots: How to Sync PS VR Headset with Windows or macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/contacting-the-snapchat-help-desk-a-comprehensive-guide/"><u>Contacting the Snapchat Help Desk: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/deutsche-telekom-ag/"><u>Deutsche Telekom AG</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/expert-hashtag-analyzers-for-social-media-giants-fbtweetig/"><u>Expert Hashtag Analyzers for Social Media Giants (FB/Tweet/IG)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-definition-footage-leading-cameras-of-2024/"><u>High Definition Footage Leading Cameras of 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-lava-blaze-curve-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Lava Blaze Curve 5G Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-info-on-meta-quest-light-projections-for-price-point-release-timeline-and-tech-specs/"><u>Insider Info on Meta Quest ^ Light: Projections for Price Point, Release Timeline, and Tech Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lenovo-pc-mastery-a-step-by-step-walkthrough-for-full-system-restoration/"><u>Lenovo PC Mastery: A Step-by-Step Walkthrough for Full System Restoration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stay-updated-with-zoom-on-your-computer-comprehensive-guide-for-both-windows-and-mac-users/"><u>Stay Updated with Zoom on Your Computer: Comprehensive Guide for Both Windows and Mac Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-creating-your-first-duet-video-on-tiktok/"><u>Step-by-Step Guide: Creating Your First Duet Video on TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-windows-ambiance-installing-from-the-ms-store/"><u>Transitioning Windows Ambiance: Installing From The MS Store</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-collection-the-507-most-creative-instagram-post-texts-2024-edition/"><u>Ultimate Collection: The 507 Most Creative Instagram Post Texts, 2024 Edition</u></a></li>
 </ul></div>
 

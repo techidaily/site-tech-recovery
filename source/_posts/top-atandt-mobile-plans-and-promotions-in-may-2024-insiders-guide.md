@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Plans & Promotions in May 2024 - Insider's Guide
-date: 2024-10-06T18:00:22.072Z
-updated: 2024-10-07T22:46:32.143Z
+date: 2024-10-06T17:12:57.660Z
+updated: 2024-10-13T17:20:47.462Z
 tags:
   - apple
 categories:
@@ -116,13 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -137,6 +130,13 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -148,10 +148,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -164,6 +164,13 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
@@ -173,10 +180,10 @@ It's true that carriers are the most aggressive with their offers when it's year
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -187,13 +194,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -244,20 +244,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-unraveling-the-cash-accumulation-through-viewers-attention/"><u>[New] 2024 Approved Unraveling the Cash Accumulation Through Viewers' Attention</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-panoramic-power-play-gear-vs-lgcam-showdown/"><u>[New] Panoramic Power Play Gear vs LGCam Showdown</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-elite-10-in-mac-gif-recording-apps/"><u>[Updated] In 2024, The Elite 10 in Mac GIF Recording Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-keeping-score-with-your-xbox-one-screenshots/"><u>2024 Approved Keeping Score with Your Xbox One Screenshots</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-fascinating-side-of-emojis-with-these-incredible-10-tidbits/"><u>Explore the Fascinating Side of Emojis with These Incredible 10 Tidbits</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722882495989-foldable-iphones-preview-of-potential-prices-release-dates-and-specs-while-we-sort-fact-from-fiction-in-latest-gossip/"><u>Foldable iPhones: Preview of Potential Prices, Release Dates and Specs While We Sort Fact From Fiction in Latest Gossip.</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nubia-red-magic-9-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 Pro 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-cpu-gaming-woes-resolved-with-latest-firmware-asus-introduces-fix-for-raptor-lake-variants/"><u>Intel CPU Gaming Woes Resolved with Latest Firmware - Asus Introduces Fix for Raptor Lake Variants</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-the-iphone-15-pro-max-waterproof/"><u>Is the iPhone 15 Pro Max Waterproof?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-14-pro-max-5-ways-to-get-into-a-locked-iphone-14-pro-max-by-drfone-ios/"><u>Locked Out of iPhone 14 Pro Max? 5 Ways to get into a Locked iPhone 14 Pro Max</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-ios-update-installation-expert-advice-on-how-to-get-the-most-out-of-apples-newest-features/"><u>Seamless iOS Update Installation: Expert Advice on How to Get The Most Out of Apple's Newest Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformative-technology-trends-since-1844-the-ultimate-list/"><u>Transformative Technology Trends Since 1844 - The Ultimate List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-bsod-error-on-your-pc/"><u>Ultimate Guide: Resolving the BSOD Error on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/water-resistance-in-apples-latest-gem-how-well-does-the-iphone-15-handle-moisture/"><u>Water Resistance in Apple's Latest Gem: How Well Does the iPhone 15 Handle Moisture?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-dish-on-titles-crafting-captivating-cookery-channel-names/"><u>[New] Dish on Titles Crafting Captivating Cookery Channel Names</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/earn-how-to-upload-music-to-your-youtube-channel/"><u>[New] Learn How to Upload Music to Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-winning-strategies-and-hashtags-for-youtubes-best-freefirers/"><u>2024 Approved Winning Strategies & Hashtags for YouTube's Best FreeFirers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-master-recorders-impact-on-efficient-screen-capturing/"><u>In 2024, Master Recorder's Impact on Efficient Screen Capturing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-zoom-down-or-is-it-you/"><u>Is Zoom Down... Or Is It You?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-royal-match-successfully-pro-gamer-secrets/"><u>Navigating Royal Match Successfully: Pro Gamer Secrets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-market-5-crucial-considerations-for-buying-a-new-console/"><u>Navigating the Market: 5 Crucial Considerations for Buying a New Console</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-fbm-hurdles-top-windows-troubleshooting-tips/"><u>No More FBM Hurdles: Top Windows Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-stuttering-screens-just-gameplay/"><u>No More Stuttering Screens, Just Gameplay</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-owc-mercury-pro-exceptional-hard-drive-offering-industry-leading-speeds/"><u>Review of OWC Mercury Pro: Exceptional Hard Drive Offering Industry-Leading Speeds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-monitoring-your-mobile-and-wifi-data-consumption/"><u>Step-by-Step Guide: Monitoring Your Mobile and WiFi Data Consumption</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-deleting-icloud-pictures-and-retaining-iphone-originals/"><u>The Ultimate Tutorial on Deleting iCloud Pictures and Retaining iPhone Originals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-free-web-based-html-coding-tools-for-pc-users/"><u>Top 8 Free Web-Based HTML Coding Tools for PC Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-strategies-for-creating-a-viral-sensation-on-youtube/"><u>Top 8 Strategies for Creating a Viral Sensation on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-walkthrough-how-to-erase-your-yahoo-mail-account-forever/"><u>Ultimate Walkthrough: How to Erase Your Yahoo Mail Account Forever</u></a></li>
 </ul></div>
 

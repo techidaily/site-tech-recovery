@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2024-10-06T00:10:57.604Z
-updated: 2024-10-07T19:40:10.362Z
+date: 2024-10-12T17:09:20.910Z
+updated: 2024-10-13T16:32:13.314Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -108,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -136,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -159,13 +159,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,16 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-enhancing-visual-appeal-with-instagrams-filters-and-effects/"><u>[New] Enhancing Visual Appeal with Instagram's Filters & Effects</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-dominate-digital-dialogue-the-top-10-masterful-igtv-practices-for-branding-success/"><u>[Updated] Dominate Digital Dialogue The Top 10 Masterful IGTV Practices for Branding Success</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation-for-2024/"><u>[Updated] Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-guide-to-gopro-cinematography-luts-15-best/"><u>2024 Approved The Ultimate Guide to GoPro Cinematography LUTs (15 Best)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-upcoming-pixel-buds-pro-2-specs-expected-cost-launch-date/"><u>All You Need to Know About the Upcoming Pixel Buds Pro 2 - Specs, Expected Cost, Launch Date</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-locating-photos-through-a-facebook-image-query/"><u>Effective Strategies for Locating Photos Through a Facebook Image Query</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-new-era-select-addons-and-browser-plugins-to-optimize-video-viewing-in-firefox/"><u>In 2024, Facebook's New Era Select Addons & Browser Plugins to Optimize Video Viewing in Firefox</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78t Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/smartwatch-shopping-guide-5-key-points-you-cant-ignore/"><u>Smartwatch Shopping Guide: 5 Key Points You Can't Ignore</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-diagnosing-and-repairing-a-non-powered-computer/"><u>The Ultimate Guide to Diagnosing and Repairing a Non-Powered Computer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-video-clarity-with-youtube-tools/"><u>[Updated] Optimizing Video Clarity with YouTube Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-to-craft-flawless-yt-thumbnails-for-2024/"><u>[Updated] Step-by-Step to Craft Flawless YT Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-market-mastery-strategys-first-impressions/"><u>2024 Approved Market Mastery Strategy's First Impressions</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-screen-locks-for-uninterrupted-presentations/"><u>Bypass Screen Locks for Uninterrupted Presentations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/customize-your-iphone-typography-with-easy-to-follow-font-download-instructions/"><u>Customize Your iPhone Typography with Easy-to-Follow Font Download Instructions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-playstation-5-variants-a-closer-look-at-ps5-slim-vs-full-size-console/"><u>Decoding PlayStation 5 Variants: A Closer Look at PS5 Slim Vs. Full-Size Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-elite-network-enclosures-and-servers-dominating-2024s-tech-scene/"><u>Discover Elite Network Enclosures and Servers Dominating 2024'S Tech Scene</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-to-measure-and-control-macbook-proceeding-overheating/"><u>Effective Techniques to Measure and Control MacBook Proceeding Overheating</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-customizing-your-windows-10-taskbar-color/"><u>Guide: Customizing Your Windows 10 Taskbar Color</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-pro-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 Pro 4G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-netflix-library-essential-teen-flicks-you-shouldnt-miss/"><u>Navigating the Netflix Library: Essential Teen Flicks You Shouldn’t Miss</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/overcoming-instagrams-video-length-restrictions-for-2024/"><u>Overcoming Instagram's Video Length Restrictions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-surface-pros-wi-fi-connectivity-problems-effectively/"><u>Resolving Surface Pro's Wi-Fi Connectivity Problems Effectively</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamlining-earnings-with-youtube-studio-techniques/"><u>Streamlining Earnings with Youtube Studio Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-5-best-fluid-simulation-games-for-you-for-2024/"><u>Top 5 Best Fluid Simulation Games for You for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-spotify-playlists-into-text-a-comprehensive-guide/"><u>Transforming Spotify Playlists Into Text: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-fixing-issues-with-ieframedll-errors-swiftly/"><u>Troubleshooting Techniques: Fixing Issues with Ieframe.Dll Errors Swiftly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-gif-maker-tools-for-seamless-loops/"><u>Updated Free GIF Maker Tools for Seamless Loops</u></a></li>
 </ul></div>
 

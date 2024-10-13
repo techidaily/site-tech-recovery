@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2024-10-05T20:24:16.278Z
-updated: 2024-10-07T17:52:37.785Z
+date: 2024-10-09T16:27:21.236Z
+updated: 2024-10-13T17:25:42.411Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,16 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,21 +134,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-the-future-of-content-navigating-video-landscapes-on-fb-for-2024/"><u>[New] The Future of Content Navigating Video Landscapes on FB for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-dreaming-in-color-the-revolutionary-hp-monitor-z32x-for-2024/"><u>[Updated] Dreaming in Color The Revolutionary HP Monitor, Z32X for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-navigating-youtube-to-facebook-sharing-pathways/"><u>2024 Approved Navigating YouTube to Facebook Sharing Pathways</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/activate-windows-xp-movie-creation-toolkit/"><u>Activate Windows XP Movie Creation Toolkit</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/clearing-up-the-focus-problems-in-your-iphone-photos-with-these-easy-steps/"><u>Clearing Up the Focus Problems in Your iPhone Photos with These Easy Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/defeating-the-formidable-fox-like-enemies-a-guide-for-botw-players/"><u>Defeating the Formidable Fox-Like Enemies: A Guide for BOTW Players</u></a></li>
-<li><a href="https://fox-links.techidaily.com/essential-20-open-source-montage-of-pubg-scenes-for-2024/"><u>Essential 20 Open Source Montage of PUBG Scenes for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-family-film-fun-the-ultimate-list-of-6-kids-movie-streaming-sites/"><u>Free Family Film Fun: The Ultimate List of 6 Kids’ Movie Streaming Sites</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-easily-upload-groups-of-photos-to-facebook-in-one-go/"><u>How To Easily Upload Groups of Photos to Facebook in One Go</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-organize-and-categorize-messages-in-gmail-with-labels/"><u>How to Organize & Categorize Messages in Gmail with Labels</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-tricks-to-faster-periscope-live-feeds/"><u>In 2024, Tricks to Faster Periscope Live Feeds</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/our-8-favorite-book-reading-apps-of-2024/"><u>Our 8 Favorite Book Reading Apps of 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-nspr4dll-missing-file-a-step-by-step-guide/"><u>Resolving nspr4.dll Missing File: A Step-by-Step Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-10plus-best-free-online-screen-recorders/"><u>Top 10+ Best Free Online Screen Recorders</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/up-to-date-tech-install-windows-10-v2004-and-conexant-drivers-for-optimal-pc-performance/"><u>Up-to-Date Tech: Install Windows 10 v2004 and Conexant Drivers for Optimal PC Performance</u></a></li>
-<li><a href="https://fox-access.techidaily.com/zero-degrees-to-glory-peak-sports-in-cold-climates/"><u>Zero Degrees to Glory Peak Sports in Cold Climates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-captivating-clips-incorporating-text-deformation-artistry-for-2024/"><u>[Updated] Captivating Clips Incorporating Text Deformation Artistry for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-ultimate-4k-desktop-screens-full-integration-and-touch/"><u>[Updated] In 2024, Ultimate 4K Desktop Screens Full Integration & Touch</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-quick-setup-for-flawless-time-lapses-on-ipad/"><u>2024 Approved Quick Setup for Flawless Time-Lapses on iPad</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reversing-macos-sierra-update-to-os-x-el-capitan/"><u>2024 Approved Reversing MacOS Sierra Update to OS X El Capitan</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/audiophiles-guide-to-fixing-soundless-stereo-receivers/"><u>Audiophile's Guide to Fixing Soundless Stereo Receivers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/live-recording-gadgets-for-youtube-content-creators-for-2024/"><u>Best Live Recording Gadgets for YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/budget-bounty-experience-elite-gadgets-and-apps-on-a-shoestring/"><u>Budget Bounty: Experience Elite Gadgets and Apps on a Shoestring</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722860067072-discover-the-latest-features-of-thunderbird-52-by-mozilla-enhance-your-communication/"><u>Discover the Latest Features of Thunderbird 52 by Mozilla - Enhance Your Communication</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-software-for-mastering-twitter-interactions/"><u>Essential Software for Mastering Twitter Interactions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-purchasing-ebooks-via-apple-books-on-your-ios-device/"><u>Guide: Purchasing eBooks via Apple Books on Your iOS Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a05-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A05</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/readers-choice-top-8-ebook-applications-to-enhance-your-reading-experience-in/"><u>Readers' Choice: Top 8 eBook Applications to Enhance Your Reading Experience In</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-breakdown-of-instagram-features-usage-and-more/"><u>The Ultimate Breakdown of Instagram: Features, Usage & More</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-topmate-c302-notebook-fan-pad-review-best-value-for-money-and-efficient-heat-regulation/"><u>The Ultimate Guide to TopMate C302 Notebook Fan Pad Review: Best Value for Money & Efficient Heat Regulation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-streaming-platforms-to-watch-a-comprehensive-guide/"><u>Top 8 Streaming Platforms to Watch : A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/troubleshooting-the-mm2-error-correcting-unprovisioned-sim-card-problems/"><u>Troubleshooting the MM2 Error: Correcting Unprovisioned SIM Card Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unifying-your-digital-world-how-to-access-your-phone-line-from-any-device-with-one-number/"><u>Unifying Your Digital World: How to Access Your Phone Line From Any Device with One Number</u></a></li>
 </ul></div>
 

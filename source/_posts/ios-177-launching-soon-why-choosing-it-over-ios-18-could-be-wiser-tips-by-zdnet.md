@@ -1,7 +1,7 @@
 ---
 title: IOS 17.7 Launching Soon! Why Choosing It Over iOS 18 Could Be Wiser - Tips by ZDNET
-date: 2024-10-01T20:33:05.790Z
-updated: 2024-10-07T22:52:17.972Z
+date: 2024-10-12T16:28:23.660Z
+updated: 2024-10-13T16:36:20.450Z
 tags:
   - apple
 categories:
@@ -39,16 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -62,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -87,16 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -141,21 +129,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/52215848-new-2024-approved-transform-spaceships-into-trees-youtubes-green-secrets-revealed/"><u>[New] 2024 Approved Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-5-innovative-mac-capturing-tools-not-bandicam/"><u>[New] In 2024, Top 5 Innovative Mac Capturing Tools, Not Bandicam</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-start-at-vectors-beginning-a-short-overview-of-forms-and-tools/"><u>2024 Approved Start at Vector's Beginning A Short Overview of Forms & Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-metaverse-meme-phenomenon-a-comprehensive-overview/"><u>2024 Approved The Metaverse Meme Phenomenon A Comprehensive Overview</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/android-blackout-heres-how-to-restore-your-devices-visibility/"><u>Android Blackout? Here's How to Restore Your Device's Visibility</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chuckle-inducing-snaps-applying-the-cartoon-face-effect-on-snapchat/"><u>Chuckle-Inducing Snaps Applying the Cartoon Face Effect on Snapchat</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722894435041-gmail-sync-errors-demystified-a-comprehensive-troubleshooting-guide/"><u>Gmail Sync Errors Demystified: A Comprehensive Troubleshooting Guide.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-fix-invisible-youtube-comments-understanding-and-correcting-common-issues/"><u>Guide to Fix Invisible YouTube Comments: Understanding & Correcting Common Issues</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-overcome-compatibility-issues-with-xbox-controllers-in-widows-operating-systems/"><u>How to Overcome Compatibility Issues with Xbox Controllers in Widows Operating Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-repair-a-malfunctioning-amazon-firestick-controller/"><u>How to Repair a Malfunctioning Amazon Firestick Controller?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-select-and-download-exclusive-tailored-audio-templates/"><u>In 2024, Select & Download Exclusive Tailored Audio Templates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-guide-rectifying-oleaut32dll-absence-on-your-pc/"><u>Master Guide: Rectifying OleAut32.dll Absence on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-changing-your-iphones-locale-settings/"><u>Step-by-Step Guide: Changing Your iPhone's Locale Settings</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-days-gone-stability-issues-for-optimal-play/"><u>Troubleshoot 'Days Gone' Stability Issues for Optimal Play</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unlocking-the-secret-behind-symbol-in-folders/"><u>Unlocking the Secret Behind '?' Symbol in Folders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-tips-how-to-restart-your-ipad-after-forgetting-its-security-code/"><u>Unlocking Tips: How to Restart Your iPad After Forgetting Its Security Code</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arrative-enhancements-the-process-of-infusing-text-into-your-video-content-for-2024/"><u>[New] Narrative Enhancements The Process of Infusing Text Into Your Video Content for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unlock-the-6th-richest-strategies-for-successful-ig/"><u>2024 Approved Unlock the 6Th Richest Strategies for Successful IG</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/50-best-free-photography-tools-for-the-web/"><u>50 Best Free Photography Tools for the Web</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-price-forecast-release-info-and-specs/"><u>All You Need to Know About the Upcoming Samsung Galaxy S25 - Price Forecast, Release Info, and Specs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/breakthrough-ideas-to-amplify-brand-impact-on-reddit-for-2024/"><u>Breakthrough Ideas to Amplify Brand Impact on Reddit for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-gps-enabled-ipad-tablets/"><u>Comprehensive Guide to GPS-Enabled iPad Tablets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-organizing-your-inbox-with-advanced-gmail-features/"><u>Expert Tips for Organizing Your Inbox with Advanced Gmail Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-origins-the-company-behind-chatgpts-innovation/"><u>Exploring the Origins: The Company Behind ChatGPT's Innovation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-14-pro-max-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 14 Pro Max to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-when-an-ipad-cant-find-or-print-with-any-printers/"><u>How to Fix When an iPad Can't Find or Print With Any Printers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-14-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-your-chatbot-revealing-too-much-neural-network-model-inversion-attacks-explained/"><u>Is Your Chatbot Revealing Too Much? Neural Network Model Inversion Attacks Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-american-sign-language-for-free-16-essential-resources/"><u>Learn American Sign Language For Free: 16 Essential Resources</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimizing-trailer-vibes-the-melody-essentials/"><u>Optimizing Trailer Vibes The Melody Essentials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rectifying-viewing-difficulties-a-guide-to-fix-paramountplus-app-issues-on-amazons-fire-tv/"><u>Rectifying Viewing Difficulties: A Guide to Fix Paramount+ App Issues on Amazon's Fire TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/shift-key-malfunction-diagnosis-and-effective-remedies-fixed/"><u>Shift Key Malfunction: Diagnosis and Effective Remedies [FIXED]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-distinctions-roku-express-versus-roku-stick/"><u>Unraveling the Distinctions: Roku Express Versus Roku Stick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-motivations-behind-embracing-electric-drives/"><u>Unraveling the Motivations Behind Embracing Electric Drives</u></a></li>
 </ul></div>
 

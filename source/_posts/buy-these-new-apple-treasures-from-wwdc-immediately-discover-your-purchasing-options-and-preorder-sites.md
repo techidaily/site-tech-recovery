@@ -1,7 +1,7 @@
 ---
 title: Buy These New Apple Treasures From WWDC Immediately! Discover Your Purchasing Options & Preorder Sites.
-date: 2024-10-06T20:41:45.597Z
-updated: 2024-10-07T23:08:44.915Z
+date: 2024-10-08T16:30:17.783Z
+updated: 2024-10-13T16:01:44.238Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ Cons
 ## MacBook Air M2 15-inch
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A refreshed MacBook Air
@@ -68,13 +68,6 @@ Cons
 * No display included
 * No keyboard or mouse included
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Mac Studio
 
 ### Tiny computer, big performance
@@ -99,14 +92,14 @@ Cons
 * Very, very expensive
 * Very large and heavy
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Mac Pro
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A serious workstation for serious professionals
 
@@ -120,15 +113,22 @@ Show Expert Take Show less
 
 If you recently made the switch from an Intel-based Mac to one with an M1 or M2 chipset, you might want to hold off on upgrading to these latest models. The M2 Ultra is a brand-new chip from Apple, and will have some growing pains as driver updates get released to smooth over bugs and other performance issues real-world users may have. These new devices are also on the more expensive side, so you might want to wait for a promotional sale or for when your M1/M2 Mac starts to have serious issues. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's the difference between the M2 Max and M2 Ultra?
 
 The biggest difference comes down to how many cores each chip has as well as the maximum amount of supported memory. The M2 Max supports up to 96GB of unified RAM and features an 8-core CPU and 10-core CPU. The M2 Ultra supports up to 192GB of unified memory and features a 24-core CPU, 60-core GPU, and 32-core Neural Engine. This means that the M2 Ultra can perform more processes per second, giving you higher performance over Intel and M1-based Apple models.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these be available?
@@ -175,16 +175,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-ultimate-guide-to-hyperlapse-storytelling/"><u>[New] 2024 Approved The Ultimate Guide to Hyperlapse Storytelling</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-skype-audiovideo-windows-and-mac-tips/"><u>[New] Capturing Skype Audio/Video Windows & Mac Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-compendium-of-psvr-2-titles-all-officially-revealed-games/"><u>Complete Compendium of PSVR 2 Titles: All Officially Revealed Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-issues-when-your-vehicles-audio-system-fails-what-could-be-wrong-with-the-speakers/"><u>Diagnosing Issues When Your Vehicle's Audio System Fails - What Could Be Wrong with the Speakers?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-starting-your-mac-in-system-repair-mode/"><u>Expert Tips for Starting Your Mac in System Repair Mode</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/latest-leaks-on-apples-next-gen-m4-mac-mini-price-insights-release-timeline-and-specs-preview/"><u>Latest Leaks on Apple's Next-Gen M4 Mac Mini - Price Insights, Release Timeline, and Specs Preview</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ize-engagement-and-impact-premier-tracking-applications-for-content-creators/"><u>Maximize Engagement and Impact Premier Tracking Applications for Content Creators</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pioneering-3-approaches-to-ipad-voice-capture/"><u>Pioneering 3 Approaches to iPad Voice Capture</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-scholarly-research-with-advanced-ai-tools-the-top-4-ways/"><u>Transforming Scholarly Research with Advanced AI Tools - The Top 4 Ways</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-a-guide-to-retrieving-historic-facebook-stories/"><u>[New] 2024 Approved A Guide to Retrieving Historic Facebook Stories</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-decoding-youtube-stats-efficiency-with-social-blades-advanced-analysis/"><u>[New] In 2024, Decoding YouTube Stats Efficiency with Social Blade's Advanced Analysis</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-pro-choice-top-picks-of-10-premium-vimeo-video-download-tools/"><u>2024 Approved Pro Choice Top Picks of 10 Premium Vimeo Video Download Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-setting-up-your-own-wireless-cinema-in-the-college-dorm/"><u>DIY Guide: Setting Up Your Own Wireless Cinema in the College Dorm</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-address-the-mapperdll-file-missing-problem-on-your-pc/"><u>Effective Ways to Address the mapper.dll File Missing Problem on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-efficient-techniques-to-effectively-clean-your-mechanical-keyboard/"><u>Expert Advice: Efficient Techniques to Effectively Clean Your Mechanical Keyboard</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-igtv-success-guide-three-methods-to-convert-and-share-videos/"><u>In 2024, IGTV Success Guide Three Methods to Convert and Share Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-your-step-by-step-apk-to-funimate-play/"><u>In 2024, Your Step-by-Step APK to Funimate Play</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-directx-d3d-creation-issues-a-step-by-step-tutorial/"><u>Solving DirectX D3D Creation Issues: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-star-trek-films-chronologically-a-step-by-step-plan/"><u>Watch Star Trek Films Chronologically - A Step-by-Step Plan</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Oppo K11 5G | Dr.fone</u></a></li>
 </ul></div>
 

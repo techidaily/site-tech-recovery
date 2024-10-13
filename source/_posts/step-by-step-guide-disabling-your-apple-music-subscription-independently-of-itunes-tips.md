@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling Your Apple Music Subscription Independently of iTunes - Tips"
-date: 2024-10-06T21:50:30.434Z
-updated: 2024-10-07T18:07:49.405Z
+date: 2024-10-06T16:42:32.862Z
+updated: 2024-10-13T16:51:55.229Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -69,6 +62,13 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -85,6 +85,13 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -92,10 +99,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -120,13 +127,6 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Pair your phone and computer
 
 You should then be asked to pair your phone and PC. Scan the QR code with your phone and tap the link to download and install the Unison mobile app from the Apple App Store.
@@ -146,10 +146,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -158,18 +158,18 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,22 +207,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-tandem-display-data-archiving/"><u>[Updated] In 2024, Tandem Display Data Archiving</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>2024 Approved The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725285937406-ai/"><u>時間を超えた記憶を活け直す：AIアプリで白黒画像をカラーに！</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cable-or-streaming-decoding-the-differences-in-home-entertainment-choices/"><u>Cable or Streaming? Decoding the Differences in Home Entertainment Choices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-stuck-scroll-wheel-on-laptop-touchpad-fixed/"><u>Dealing with Stuck Scroll Wheel on Laptop Touchpad [FIXED]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-fixes-for-when-your-system-cant-find-normalizdll/"><u>Effective Fixes for When Your System Can't Find Normaliz.dll</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-handbrake-problems-in-windows-10-or-11-discover-effective-workarounds-and-alternatives/"><u>Fixing Handbrake Problems in Windows 10 or 11? Discover Effective Workarounds & Alternatives</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-use-vlc-to-watch-almost-any-video-on-apple-tv/"><u>How to Use VLC to Watch Almost Any Video on Apple TV</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-11-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme 11 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-spectacular-visuals-the-power-of-tiktok-effects/"><u>In 2024, Spectacular Visuals The Power of TikTok Effects</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectify-omission-in-gfx-sensing/"><u>Rectify Omission in GFX Sensing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-picture-settings-for-a-samsung-4k-tv/"><u>The Best Picture Settings for a Samsung 4K TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-step-by-step-instructions-for-finding-ev-charging-points-on-google-maps/"><u>The Ultimate Step-by-Step Instructions for Finding EV Charging Points on Google Maps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-choice-off-the-grid-language-conversion-tools/"><u>Top 6 Choice Off-the-Grid Language Conversion Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/travel-through-internet-time-a-beginners-handbook-for-leveraging-the-power-of-wayback-machine/"><u>Travel Through Internet Time: A Beginner's Handbook for Leveraging the Power of Wayback Machine</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-cutting-edge-technology-in-the-current-ipad-series/"><u>Unveiling the Cutting-Edge Technology in the Current iPad Series</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-video-spin-perfecting-instagram-posts/"><u>[New] Mastering Video Spin Perfecting Instagram Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-turbo-speed-for-snapchat-newcomers-video-edition/"><u>[New] Turbo Speed for Snapchat Newcomers Video Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-5-budget-friendly-camcorders-with-hd-quality-for-2024/"><u>[Updated] Top 5 Budget-Friendly Camcorders with HD Quality for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-the-meta-quest-microphone/"><u>How to Use the Meta Quest Microphone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-z-flip-5-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy Z Flip 5 Phone Now with These Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-art-of-video-marketing-11-tips-to-skyrocket-fb-traffic/"><u>In 2024, The Art of Video Marketing 11 Tips to Skyrocket FB Traffic</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lifewire-curated-list-of-essential-movies-to-stream-today/"><u>Lifewire Curated List of Essential Movies to Stream Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-minecraft-performance-prevent-frequent-crashes-using-these-6-strategies/"><u>Master Minecraft Performance: Prevent Frequent Crashes Using These 6 Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/off-facebook-activity-expose-is-it-worth-the-scrutiny-in-2024/"><u>Off-Facebook Activity Exposé - Is It Worth The Scrutiny, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/projector-buying-101-key-aspects-to-assess-before-making-your-decision/"><u>Projector Buying 101: Key Aspects to Assess Before Making Your Decision</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-monitor-heat-on-your-macbook-device/"><u>Step-by-Step Guide to Monitor Heat on Your MacBook Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-4-essential-mobile-apps-for-efficient-home-painting-projects/"><u>Top 4 Essential Mobile Apps for Efficient Home Painting Projects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-resolving-iphone-updaterestore-error-code-4013/"><u>Troubleshooting Guide: Resolving iPhone Update/Restore Error Code 4013</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/updating-microsoft-powerpoint-a-quick-guide/"><u>Updating Microsoft PowerPoint - A Quick Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-does-wi-fi-calling-mean/"><u>What Does Wi-Fi Calling Mean?</u></a></li>
 </ul></div>
 

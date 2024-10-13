@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2024-10-03T18:04:52.035Z
-updated: 2024-10-07T21:55:32.275Z
+date: 2024-10-09T17:02:33.737Z
+updated: 2024-10-13T16:26:14.195Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Access Notifications & Focus
 
 In the System Preferences window (**Figure 1**), click Notifications & Focus.
@@ -41,10 +48,16 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -56,16 +69,16 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -84,19 +97,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -112,10 +112,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -160,18 +160,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-cutting-out-background-sounds-in-skype-chats/"><u>[Updated] 2024 Approved Cutting Out Background Sounds in Skype Chats</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-ultimate-iphone-guide-to-breathtaking-shadow-images/"><u>[Updated] 2024 Approved The Ultimate iPhone Guide to Breathtaking Shadow Images</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2021s-most-anticipated-wearable-dissecting-potential-costs-launch-dates-and-specs-for-the-new-apple-watch-series-x/"><u>2021'S Most-Anticipated Wearable: Dissecting Potential Costs, Launch Dates, and Specs for the New Apple Watch Series X</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp3wavaac-movavi/"><u>網路自由下無限MP3/WAV到AAC變更 - 利用Movavi音樂格式轉換工具</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/latest-exclusive-discounts-on-verizon-phone-plans/"><u>Latest Exclusive Discounts on Verizon Phone Plans</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-communication-join-us-for-the-samsung-phone-reveal-ceremony/"><u>Revolutionize Your Communication – Join Us for the Samsung Phone Reveal Ceremony</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-soundbar-woes-heres-how-to-bring-it-back-from-the-dead/"><u>Samsung Soundbar Woes? Here's How to Bring It Back From the Dead</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-your-childn-online-experience-with-easy-discord-controls-setup/"><u>Secure Your Child'n Online Experience with Easy Discord Controls Setup</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/simple-and-fast-youtube-download-wizard-the-ultimate-guide-to-easy-video-clipping/"><u>Simple and Fast YouTube Download Wizard - The Ultimate Guide to Easy Video Clipping!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-art-of-discerning-if-ones-friend-blocked-your-account-for-2024/"><u>The Art of Discerning if One's Friend Blocked Your Account for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-duckduckgo-how-secure-and-private-is-this-alternative-search-platform/"><u>Understanding DuckDuckGo: How Secure and Private Is This Alternative Search Platform?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-advanced-features-with-chatgpt-plus-understand-these-cuhre-9-motivations/"><u>Unlocking Advanced Features with ChatGPT Plus: Understand These Cuhre 9 Motivations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-fb-upload-strategies-for-mobile-and-desktop/"><u>[New] Facebook FB Upload Strategies for Mobile & Desktop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-ranked-apps-for-video-conferencing-and-collaboration-for-2024/"><u>[Updated] Top-Ranked Apps for Video Conferencing and Collaboration for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/abbyy-commits-to-a-greener-future-by-collaborating-with-the-national-forest-foundation-for-20k-tree-plantation-in-chippewa/"><u>ABBYY Commits to a Greener Future by Collaborating with the National Forest Foundation for 20K Tree Plantation in Chippewa</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/access-insta-content-anonymously-a-guide-to-non-account-browsing/"><u>Access Insta-Content Anonymously: A Guide to Non-Account Browsing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-exceptional-stores-for-buying-your-next-smartphone/"><u>Discover Exceptional Stores for Buying Your Next Smartphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-guide-to-boot-windows-10-on-your-recently-installed-hard-disk/"><u>Effortless Guide to Boot Windows 10 on Your Recently Installed Hard Disk</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/engage-audiences-flawlessly-with-live-screenshares-for-2024/"><u>Engage Audiences Flawlessly with Live Screenshares for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-solving-the-mystery-of-facetime-blackout-screens/"><u>Expert Advice on Solving the Mystery of Facetime Blackout Screens</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/high-end-spec-showdown-unveiling-the-true-potential-of-the-asus-rog-zephyrus-g16-for-gamers/"><u>High-End Spec Showdown: Unveiling the True Potential of the Asus ROG Zephyrus G16 for Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-link-your-ps-vr-headset-to-a-laptop-or-desktop-computer-successfully/"><u>How To Link Your PS VR Headset to a Laptop or Desktop Computer Successfully</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-manipulating-media-with-mastery-tools/"><u>In 2024, Manipulating Media with Mastery Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-apple-watch-series-4-an-enhanced-masterpiece/"><u>In-Depth Analysis of the Apple Watch Series 4: An Enhanced Masterpiece</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-combat-against-lynels-in-the-legend-of-zelda-breath-of-the-wild/"><u>Mastering Combat Against Lynels in The Legend of Zelda: Breath of the Wild</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-flashbook-designs-effortless-background-editing-on-flipbuildercom/"><u>Mastering FlashBook Designs: Effortless Background Editing on FlipBuilder.com</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-biometrics-and-its-revolutionary-applications/"><u>The Definitive Guide to Biometrics and Its Revolutionary Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-beloved-childrens-films-on-disneyplus-july-selection/"><u>Top Picks: Beloved Children's Films on Disney+ - July Selection</u></a></li>
 </ul></div>
 

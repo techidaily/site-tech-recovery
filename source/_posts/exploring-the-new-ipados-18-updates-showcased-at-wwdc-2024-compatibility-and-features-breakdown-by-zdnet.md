@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2024-10-05T20:17:11.679Z
-updated: 2024-10-07T16:53:50.152Z
+date: 2024-10-06T17:16:27.470Z
+updated: 2024-10-13T16:05:38.317Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,16 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -134,24 +128,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-embark-into-the-best-youtube-vr-content-ever/"><u>[New] 2024 Approved Embark Into the Best YouTube VR Content Ever!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-movement-with-music-instagrams-reel-synergy-guide/"><u>[New] Harmonizing Movement with Music Instagram's Reel Synergy Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-navigating-photo-curvature-techniques-in-ps-for-2024/"><u>[Updated] Navigating Photo Curvature Techniques in PS for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-color-enhancement-made-easy-the-role-of-luts-in-photos/"><u>2024 Approved Color Enhancement Made Easy The Role of LUTs in Photos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-racing-cameras-clash-is-black-hero-4-or-ghost-s-better/"><u>2024 Approved Racing Cameras Clash Is Black Hero 4 or Ghost-S Better?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-13c-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi 13C 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehve-solutions-to-overcome-the-504-gateway-timeout-hurdle/"><u>A Comprehve Solutions to Overcome the 504 Gateway Timeout Hurdle</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-error-code-0xa00f425d-in-windows-1e11-camera/"><u>Correcting Error Code: 0XA00F425D in Windows 1E11 Camera</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-no-cost-community-driven-dns-options-available-now/"><u>Discover the Best No-Cost, Community-Driven DNS Options Available Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-strategies-for-optimizing-your-super-bowl-viewing-experience-with-a-home-theater-system/"><u>Essential Strategies for Optimizing Your Super Bowl Viewing Experience with a Home Theater System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722901687951-get-ahead-of-tech-trends-dive-into-samsungs-2025-showcase-official-news-speculations-and-more/"><u>Get Ahead of Tech Trends: Dive Into Samsung's 2025 Showcase – Official News, Speculations & More</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-13-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-presentation-skills-using-ai-technologies/"><u>Innovating Presentation Skills Using AI Technologies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/leading-cable-modem-and-wifi-router-packages-reviewed/"><u>Leading Cable Modem and WiFi Router Packages Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-telnet-on-windows-a-step-by-step-guide/"><u>Mastering Telnet on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-install-applications-on-your-samsung-smart-tv/"><u>Steps to Install Applications on Your Samsung Smart TV</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-selecting-premium-webcam-recording-tools-for-microsofts-latest-os-windows-11/"><u>The Ultimate Guide to Selecting Premium Webcam Recording Tools for Microsoft's Latest OS, Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-wayback-machine-walkthrough-how-to-access-and-use-online-archives-efficiently/"><u>The Wayback Machine Walkthrough: How to Access and Use Online Archives Efficiently</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-your-iphones-blackout-blues-during-facetime-calls/"><u>Troubleshoot Your iPhone's Blackout Blues During FaceTime Calls</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-examining-video-sharing-platforms-the-vimeo-and-youtube-divide/"><u>[New] 2024 Approved Examining Video Sharing Platforms The Vimeo & YouTube Divide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ideal-sound-devices-for-digital-influencers/"><u>[New] 2024 Approved Ideal Sound Devices for Digital Influencers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-conquering-content-sharing-on-igtv-for-2024/"><u>[New] Conquering Content Sharing on IGTV for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhanced-cutting-techniques-for-professional-vimeo-media/"><u>[New] Enhanced Cutting Techniques for Professional Vimeo Media</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparison/"><u>Comparison</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquer-virtual-hiring-expert-advice-for-successful-skype-interviews-top-tips/"><u>Conquer Virtual Hiring: Expert Advice for Successful Skype Interviews - Top Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-7-most-effective-alarm-clock-apps-for-a-refreshing-morning-routine/"><u>Discover the 7 Most Effective Alarm Clock Apps for a Refreshing Morning Routine</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-11-pro-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-6-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 6</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-hopes-for-the-resurrection-festival/"><u>Multilingual Hopes for the Resurrection Festival</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pros-tips-capturing-slow-motion-on-gopro-hero-10-for-2024/"><u>Pro's Tips Capturing Slow Motion on GoPro Hero 10 for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y27s-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y27s FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-windows-10s-battery-status-tool-a-comprehensive-guide/"><u>Understanding Windows 10'S Battery Status Tool: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Insights on Pros and Cons From ZDNet Editors
-date: 2024-09-30T23:40:24.116Z
-updated: 2024-10-07T16:27:18.021Z
+date: 2024-10-09T17:39:05.681Z
+updated: 2024-10-13T16:56:23.962Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,22 +129,16 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-gleeful-loginsign-up-step-guide/"><u>[Updated] 2024 Approved Gleeful Login/Sign Up Step Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-bandicam-reconnaissance-a-comprehensive-review-of-its-features/"><u>[Updated] In 2024, Bandicam Reconnaissance A Comprehensive Review of Its Features</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-lenovo-thinkphone-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-understanding-every-windows-stop-code/"><u>Comprehensive Guide: Understanding Every Windows Stop Code</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-video-calls-easy-zoom-version-upgrade-instructions-for-windows-and-mac-os/"><u>Enhance Your Video Calls: Easy Zoom Version Upgrade Instructions for Windows and Mac OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-the-cannot-find-msvcrtdll-error-practical-strategies-and-fixes/"><u>Fix the 'Cannot Find msvcrt.dll' Error: Practical Strategies and Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-remove-the-onedrive-icon-from-file-explorer-in-windows-11/"><u>How to Remove the OneDrive Icon From File Explorer in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/maintaining-talk-order-strategic-use-of-twitch-bansunbans/"><u>Maintaining Talk Order: Strategic Use of Twitch Bans/Unbans</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-citing-ai-tools-how-to-credit-chatgpt-accurately/"><u>Mastering the Art of Citing AI Tools: How to Credit ChatGPT Accurately</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-class-not-found-error-with-efficient-solutions/"><u>Overcoming Windows 10 'Class Not Found' Error with Efficient Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reviving-the-fortunes-of-disappointed-sonos-owners-with-apples-help/"><u>Reviving the Fortunes of Disappointed Sonos Owners with Apple's Help</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-solutions-how-to-factory-reset-your-samsung-baritone-speaker/"><u>Simple Solutions: How to Factory Reset Your Samsung Baritone Speaker</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/strategies-for-getting-in-touch-with-unlisted-phone-contacts/"><u>Strategies for Getting in Touch with Unlisted Phone Contacts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y27-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y27 5G Location | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-samsung-displays-expert-advice-on-resetting-your-television/"><u>Troubleshooting Samsung Displays: Expert Advice on Resetting Your Television</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X50 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-web-access-top-methods-to-connect-without-traditional-broadband/"><u>Wireless Web Access: Top Methods to Connect without Traditional Broadband</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-behind-the-numbers-earnings-in-podcasting-for-2024/"><u>[New] Behind the Numbers Earnings in Podcasting for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-expertise-in-action-mastering-iphone-silhouette-art-for-2024/"><u>[Updated] Expertise in Action Mastering iPhone Silhouette Art for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722865882392-discover-the-hottest-max-series-offering-right-this-second/"><u>Discover the Hottest MAX Series Offering Right This Second!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-the-espn-streaming-service-operate-known-as-espnplus/"><u>How Does the ESPN Streaming Service Operate, Known as ESPN+?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remove-the-ai-assistant-copilot-from-windows-11-easy-steps-inside/"><u>How to Remove the AI Assistant Copilot From Windows 11 - Easy Steps Inside!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-itel-a60s-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Itel A60s Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-battery-life-on-windows-10-with-built-in-reporting-features/"><u>Maximizing Battery Life on Windows 10 with Built-In Reporting Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-maze-key-points-in-selecting-an-elite-gaming-pc/"><u>Navigating the Maze: Key Points in Selecting an Elite Gaming PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-honor-100-pro-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Honor 100 Pro.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-from-apple-probing-the-insider-talk-on-price-release-date-and-robot-capabilities/"><u>The Next Big Thing From Apple? Probing the Insider Talk on Price, Release Date & Robot Capabilities</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-list-for-seeking-no-cost-high-quality-vector-imagery-for-2024/"><u>The Ultimate List for Seeking No-Cost High-Quality Vector Imagery for 2024</u></a></li>
 </ul></div>
 

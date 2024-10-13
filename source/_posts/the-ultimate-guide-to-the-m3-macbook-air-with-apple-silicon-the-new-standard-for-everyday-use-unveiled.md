@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the M3 MacBook Air with Apple Silicon - The New Standard for Everyday Use Unveiled !
-date: 2024-10-02T17:39:50.580Z
-updated: 2024-10-07T17:41:01.566Z
+date: 2024-10-12T16:02:24.271Z
+updated: 2024-10-13T16:38:20.729Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -74,13 +74,6 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
@@ -88,10 +81,10 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -121,13 +114,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | Photo 3                      | 0:17     |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
 
@@ -171,6 +157,13 @@ Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 **A USB-C port on the right side:** With the M3 MacBook Air becoming more and more of a pro-capable laptop, the biggest thing that it needs is more expansion ports. The two USB-C 4 / Thunderbolt 3 ports limit the amount of pro-level things you can do with the machine without using cumbersome expansion docks and hubs. The fact that both of the USB-C ports are on the left side can also be awkward and inconvenient at times. Apple could solve both problems by simply adding one more USB-C port to the right side of the M3 MacBook Air. 
@@ -186,6 +179,13 @@ The M3 MacBook Air in Midnight now has the same anodized coating as the M3 MacBo
 Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca2bd4d6e-b885-4395-a878-1ce6720d9d63%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca2bd4d6e-b885-4395-a878-1ce6720d9d63%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final thought
 
@@ -243,21 +243,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-perfecting-your-rl-game-captures/"><u>[New] Perfecting Your RL Game Captures</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-acoustic-bridge-to-captivating-trailers-for-2024/"><u>[New] The Acoustic Bridge to Captivating Trailers for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-blueprint-for-obtaining-free-visual-aids/"><u>[New] The Blueprint for Obtaining Free Visual Aids</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/affordable-high-quality-tablet-picks-for-2n24-in-depth-analysis-and-ratings/"><u>Affordable High-Quality Tablet Picks for 2N24: In-Depth Analysis & Ratings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beyond-apple-and-tile-unveiling-the-superior-performance-of-a-non-big-tech-wallet-airtag/"><u>Beyond Apple and Tile: Unveiling the Superior Performance of a Non-Big Tech Wallet AirTag</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-upgrades-unveiling-the-distinct-features-of-apples-latest-airpods-4-series-insights-and-comparisons/"><u>Discover the Upgrades: Unveiling the Distinct Features of Apple's Latest AirPods 4 Series - Insights & Comparisons</u></a></li>
-<li><a href="https://fox-access.techidaily.com/economical-action-cams-for-savvy-shoppers/"><u>Economical Action Cams for Savvy Shoppers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-skeptic-to-enthusiast-the-top-3-compelling-features-that-transformed-my-view-on-apple-watch-series-10-analysis-at-zdnet/"><u>From Skeptic to Enthusiast: The Top 3 Compelling Features That Transformed My View on Apple Watch Series 10 | Analysis at ZDNET</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/harnessing-the-power-of-cookiebot-technology-for-effective-web-analytics-and-seo-strategies/"><u>Harnessing the Power of Cookiebot Technology for Effective Web Analytics and SEO Strategies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-enhance-visibility-top-9-thumbnail-design-tools-for-creators/"><u>In 2024, Enhance Visibility Top 9 Thumbnail Design Tools for Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-invisible-recorder-how-to-save-online-music-streams/"><u>In 2024, The Invisible Recorder How to Save Online Music Streams</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/keeping-up-with-your-circle-guide-on-sending-alerts-via-apple-watch/"><u>Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-universal-control-seamlessly-linking-your-ipad-and-mac-with-apples-magic-feature-a-comprehensive-guide-by-zdnet/"><u>Mastering Universal Control: Seamlessly Linking Your iPad and Mac with Apple’s Magic Feature - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximizing-iphone-experience-with-ios-16-unlocking-full-potential-of-the-redesigned-lock-screen-techzine/"><u>Maximizing iPhone Experience with iOS 16: Unlocking Full Potential of the Redesigned Lock Screen | TechZine</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-windows-11-shortcut-issues-for-f-keys/"><u>Resolve: Windows 11 Shortcut Issues for F Keys</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/scripted-temporal-displacements-in-film-production-for-2024/"><u>Scripted Temporal Displacements in Film Production for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-boosting-instagram-video-speed-onlinemobile/"><u>[Updated] 2024 Approved Boosting Instagram Video Speed Online/Mobile</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elicit-entertainment-giphys-meme-makers/"><u>[Updated] Elicit Entertainment Giphy's Meme Makers</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/winx-dvd-hd/"><u>官方WinX 應用程式集：無障礙下載，高品質的 DVD 導出工具和 HD 影片換行軟件</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-your-youtube-views-a-strategy-guide-for-2024/"><u>Boosting Your YouTube Views A Strategy Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/do-you-actually-receive-true-dolby-atmos-surround-sound-in-your-home-theater/"><u>Do You Actually Receive True Dolby Atmos Surround Sound in Your Home Theater?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-selection-of-highly-rated-no-cost-photo-manipulation-apps/"><u>Explore Our Selection of Highly-Rated No-Cost Photo Manipulation Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-missing-or-inaccessible-mfc71dll-error-a-comprehensive-guide/"><u>Fixing the Missing or Inaccessible mfc71.dll Error – A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-7-amazing-apps-for-seamless-notetaking-on-ipads-and-ipad-pro/"><u>The Ultimate Guide to 7 Amazing Apps for Seamless Notetaking on iPads & iPad Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-ultimate-list-of-tiktok-phenomena-on-twitter-for-2024/"><u>The Ultimate List of TikTok Phenomena on Twitter for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-language-models-using-gpt-3-in-python-environments/"><u>Unlocking the Power of Language Models: Using GPT-3 in Python Environments</u></a></li>
 </ul></div>
 

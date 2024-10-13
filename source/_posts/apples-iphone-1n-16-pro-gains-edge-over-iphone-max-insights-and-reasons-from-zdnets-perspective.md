@@ -1,7 +1,7 @@
 ---
 title: "Apple’s iPhone 1N 16 Pro Gains Edge over iPhone Max : Insights and Reasons From ZDNet's Perspective"
-date: 2024-10-01T23:59:50.315Z
-updated: 2024-10-07T19:37:53.007Z
+date: 2024-10-06T16:15:28.784Z
+updated: 2024-10-13T17:35:48.939Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -88,6 +88,19 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,16 +110,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -124,13 +131,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -172,15 +172,20 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-record-high-quality-discord-chats/"><u>[New] In 2024, How to Record High-Quality Discord Chats</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-seamless-techniques-to-share-your-screen-on-google-meet/"><u>[New] In 2024, Seamless Techniques to Share Your Screen on Google Meet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-aesthetic-video-upgrade-implement-lc-overlay-and-black-bars-on-facebook/"><u>[Updated] 2024 Approved Aesthetic Video Upgrade Implement LC Overlay & Black Bars on Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-recommendations-the-ultimate-list-of-5-premium-video-editors-unveiled/"><u>Expert Recommendations: The Ultimate List of 5 Premium Video Editors Unveiled</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-tecno-camon-20-premier-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Tecno Camon 20 Premier 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-samsung-galaxy-z-fold-7-anticipated-features-launch-timeline-cost-estimates-and-latest-leaks/"><u>Inside Samsung Galaxy Z Fold 7: Anticipated Features, Launch Timeline, Cost Estimates & Latest Leaks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/masterful-itinerary-crafting-the-top-8-mobile-planning-aids/"><u>Masterful Itinerary Crafting: The Top 8 Mobile Planning Aids</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-showdown-s24-ultra-vs-s23-ultra-specs-and-performance-review/"><u>Samsung Galaxy Showdown: S24 Ultra Vs. S23 Ultra Specs and Performance Review</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solving-connectivity-woes-the-ultimate-solution-for-windows/"><u>Solving Connectivity Woes: The Ultimate Solution for Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-what-you-need-to-know-about-the-new-google-tv-media-player-specs-and-release-timeline/"><u>Unveiling the Secrets: What You Need to Know About the New Google TV Media Player, Specs & Release Timeline!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-imagesplitter-pro/"><u>[Updated] In 2024, ImageSplitter Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-revolutionize-your-content-harnessing-the-power-of-fb-lives/"><u>[Updated] Revolutionize Your Content Harnessing the Power of FB Lives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-perfect-surge-protector-a-guide-for-your-gadgets/"><u>Choosing the Perfect Surge Protector: A Guide for Your Gadgets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tips-to-perfectly-edit-your-animal-companions-gaze-in-photographs/"><u>DIY Tips to Perfectly Edit Your Animal Companions' Gaze in Photographs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-cinematic-magic-a-step-by-step-tutorial-for-streaming-3d-movies-on-fandango-at-home/"><u>Experience Cinematic Magic: A Step-by-Step Tutorial for Streaming 3D Movies on Fandango at Home</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-t2-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo T2 5G FRP Locks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-integrate-multiple-playlists-on-spotify-for-ultimate-music-enjoyment/"><u>How to Seamlessly Integrate Multiple Playlists on Spotify for Ultimate Music Enjoyment</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-xsipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone XS/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-depth-comparison-which-is-superior-for-dvd-ripping-handbrake-or-winx/"><u>In-Depth Comparison: Which Is Superior for DVD Ripping - HandBrake or WinX?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipod/"><u>IPod対応の動画を簡単に変換して再生するための詳細ガイド</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-oleaut32dll-file-not-present-a-step-by-step-guide/"><u>Resolving oleAut32.dll File Not Present: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-addressing-and-repairing-mapi3ndll-not-found-errors/"><u>Step-by-Step Instructions for Addressing and Repairing 'Mapi3n.dll Not Found' Errors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlining-windows-photos-experience-with-music-and-aesthetic-filters/"><u>Streamlining Windows Photos Experience with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/telechargement-illimite-de-la-version-gratuite-du-ripper-dvd-sans-filigrane/"><u>Téléchargement Illimité De La Version Gratuite Du Ripper DVD Sans Filigrane</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-free-educational-apps-perfect-for-the-new-school-year/"><u>Top 7 Free Educational Apps Perfect for the New School Year</u></a></li>
 </ul></div>
 

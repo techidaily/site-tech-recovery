@@ -1,7 +1,7 @@
 ---
 title: "Windows Users' Guide: Sending/Receiving iMessages Made Easy with Step-by-Step Tips"
-date: 2024-10-02T16:48:58.505Z
-updated: 2024-10-07T22:05:38.355Z
+date: 2024-10-10T17:27:29.822Z
+updated: 2024-10-13T17:07:17.979Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -63,13 +56,6 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -77,16 +63,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -99,11 +79,25 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -117,6 +111,13 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -124,13 +125,6 @@ You can also start a new conversation. To do this, select one of your displayed 
 Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -152,13 +146,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -176,6 +163,13 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,18 +207,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-spectrum-physical-action-review/"><u>[Updated] Full Spectrum Physical Action Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-a-filmmakers-companion-for-advanced-lut-expertise/"><u>2024 Approved A Filmmaker's Companion for Advanced LUT Expertise</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-leaks-insights-on-samsung-galaxy-s2es-predicted-price-release-and-features/"><u>Deciphering Leaks: Insights on Samsung Galaxy S2e’s Predicted Price, Release & Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-access-configuring-quick-startup-feature-in-windows-os/"><u>Effortless Access: Configuring Quick Startup Feature in Windows OS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-future-of-ai-with-chatgpt-and-whisper-apis-the-impact-on-modern-enterprises/"><u>Explore the Future of AI with ChatGPT and Whisper APIs – The Impact on Modern Enterprises</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-magic-5-lite-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor Magic 5 Lite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-ipad-versions-equipped-with-built-in-navigation-systems/"><u>Identifying iPad Versions Equipped with Built-In Navigation Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-fundamentals-of-high-impact-asmr-filming-and-editing/"><u>In 2024, The Fundamentals of High-Impact ASMR Filming & Editing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-the-most-shared-stock-photos-and-backstories/"><u>In 2024, Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-with-confidence-learn-how-to-leverage-live-view-on-google-maps-today/"><u>Navigate with Confidence: Learn How to Leverage Live View on Google Maps Today</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-innovative-yt-tales-share-your-life-journey/"><u>[New] 5 Innovative YT Tales Share Your Life Journey</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-websites-for-modern-letterforms/"><u>[New] Pioneering Websites for Modern Letterforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-valheim-seeds-selection-and-cultivation-mastery-guide-for-2024/"><u>[New] Valheim Seeds Selection & Cultivation Mastery Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-from-raw-recordings-to-professional-vids-webcam-edition-for-2024/"><u>[Updated] From Raw Recordings to Professional Vids - Webcam Edition for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-for-setting-up-a-personalized-email-footer-with-godaddys-mail-service/"><u>Easy Tips for Setting Up a Personalized Email Footer with GoDaddy's Mail Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-digital-world-laptops-smartphones-and-literary-adventures-await/"><u>Exploring the Digital World: Laptops, Smartphones & Literary Adventures Await!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-instagram-a-comprehensive-guide/"><u>Exploring the World of Instagram: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-hp-laserjet-pro-mfp-m428fdw-driver-for-windows-operating-systems-windows-11107/"><u>Get the Latest HP LaserJet Pro MFP M428fdw Driver for Windows Operating Systems (Windows 11/10/7)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-max-on-apple-tv/"><u>How to Get Max on Apple TV</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lava-agni-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-tolkien-the-ideal-viewing-sequence-for-lord-of-the-rings/"><u>Mastering Tolkien: The Ideal Viewing Sequence for 'Lord of the Rings'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-latency-problems-in-valheim-a-guide-for-windows-users/"><u>Resolving Latency Problems in Valheim: A Guide for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899683097-step-by-step-guide-to-setting-up-your-own-in-home-karaoke-extravaganza/"><u>Step-by-Step Guide to Setting Up Your Own In-Home Karaoke Extravaganza!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-running-android-apps-seamlessly-on-windows-10-systems/"><u>Step-by-Step Tutorial: Running Android Apps Seamlessly on Windows 10 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-restoring-your-lenovo-laptop-to-its-original-settings/"><u>Ultimate Guide: Restoring Your Lenovo Laptop to Its Original Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-in-ipados-version-18-launch-details-cost-free-access-and-key-enhancements/"><u>What's New in iPadOS Version 18? Launch Details, Cost-Free Access & Key Enhancements!</u></a></li>
 </ul></div>
 

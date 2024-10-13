@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2024-10-03T18:13:00.526Z
-updated: 2024-10-07T19:43:05.730Z
+date: 2024-10-08T17:26:56.740Z
+updated: 2024-10-13T16:11:46.556Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +100,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +133,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,20 +187,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-tips-to-elevate-your-canva-projects-by-10x/"><u>[Updated] 2024 Approved Exclusive Tips to Elevate Your Canva Projects by 10X</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-googles-communication-legacy-an-insight-into-google-hangouts/"><u>Exploring Google's Communication Legacy: An Insight Into Google Hangouts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-master-free-online-and-offline-text-animations/"><u>How to Master Free Online & Offline Text Animations</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>In 2024, The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-c67-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme C67 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-capture-on-xbox-consoles/"><u>Mastering the Art of Image Capture on Xbox Consoles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pclaptop-editors-without-relying-on-inshot-for-2024/"><u>PC/Laptop Editors without Relying on Inshot for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-downloading-asus-laptop-trackpad-drivers-for-windows-10/"><u>Quick and Simple Guide: Downloading ASUS Laptop Trackpad Drivers for Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/retrieve-forgotten-notifications-on-ios-devices-tips-for-revisiting-old-messages/"><u>Retrieve Forgotten Notifications on iOS Devices: Tips for Revisiting Old Messages</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/should-you-assemble-your-own-pc-or-purchase-a-readymade-machine/"><u>Should You Assemble Your Own PC, Or Purchase a Readymade Machine?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-end-of-visual-shimmy-in-win11/"><u>The End of Visual Shimmy in Win11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-must-have-fitness-tracking-apps-for-your-2024-training-regimen/"><u>Top 10 Must-Have Fitness Tracking Apps for Your 2024 Training Regimen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-3-emerging-technology-trends-you-cant-ignore/"><u>Top 3 Emerging Technology Trends You Can't Ignore</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-cheatsheet-mastering-subway-surfers-top-strategies/"><u>Ultimate Cheatsheet: Mastering 'Subway Surfers' Top Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>[Updated] In 2024, From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/achieving-top-notch-clarity-recording-pro-tips-for-firestick-users/"><u>Achieving Top-Notch Clarity: Recording Pro Tips for Firestick Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-7-amazing-internet-games-your-little-ones-will-love/"><u>Discover 7 Amazing Internet Games Your Little Ones Will Love</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-audio-visual-sync-with-caption-addition-in-wmp/"><u>Elevate Audio-Visual Sync with Caption Addition in WMP</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elevating-visuals-by-attaching-youtube-music-tracks/"><u>Elevating Visuals by Attaching YouTube Music Tracks</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-15-plus-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 15 Plus from iCloud</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-full-potential-of-macs-preview-tool/"><u>In 2024, Unlocking Full Potential of Mac's Preview Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reactivating-a-dormant-snapchat-profile-a-step-by-step-guide/"><u>Reactivating a Dormant Snapchat Profile: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-superior-performance-of-evs-over-gas-powered-cars-explained/"><u>The Superior Performance of EVs Over Gas-Powered Cars Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-finding-and-restoring-erased-numbers-on-android-phones/"><u>The Ultimate Guide to Finding and Restoring Erased Numbers on Android Phones</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-everything-you-want-to-know-about-kapwing-video-translation/"><u>Updated Everything You Want To Know About Kapwing Video Translation</u></a></li>
 </ul></div>
 

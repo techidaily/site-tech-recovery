@@ -1,7 +1,7 @@
 ---
 title: "To Upgrade or Not: Pros & Cons of Switching to iPhone 16, According to Expert Reviewers at ZDNet"
-date: 2024-09-30T20:58:23.391Z
-updated: 2024-10-07T23:58:01.580Z
+date: 2024-10-08T17:01:51.618Z
+updated: 2024-10-13T16:38:38.331Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -54,10 +47,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -94,9 +87,23 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -116,13 +123,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
@@ -130,10 +130,10 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -176,21 +176,15 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-15-innovative-tools-perfecting-your-virtual-tone/"><u>[New] 2024 Approved Top 15 Innovative Tools Perfecting Your Virtual Tone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android/"><u>[New] Go Pro Simple Techniques for Captivating Slow Motion Videos on Android</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-straightforward-approach-to-mastering-simple-hdr-techniques-for-2024/"><u>[Updated] Straightforward Approach to Mastering Simple HDR Techniques for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-innovations-behind-samsungs-brand-new-mobile-devices/"><u>Discover the Innovations Behind Samsung's Brand New Mobile Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/easy-conversion-techniques-from-mp4-to-avi-files-via-the-handbrake-software/"><u>Easy Conversion Techniques From MP4 to AVI Files via the HandBrake Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-our-picked-selection-of-six-best-non-internet-translation-gadgets/"><u>Exploring Our Picked Selection of Six Best Non-Internet Translation Gadgets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/fast-fixes-streamlining-your-gotomeeting-record-keeping-for-2024/"><u>Fast Fixes Streamlining Your GoToMeeting Record Keeping for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-a-stubborn-amazon-echo-a-comprehensive-guide-to-reactive-responses/"><u>Fixing a Stubborn Amazon Echo: A Comprehensive Guide to Reactive Responses</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-12-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 12 mini?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-extensive-investigation-the-future-of-panorama-cams-with-samsung/"><u>In 2024, Extensive Investigation The Future of Panorama Cams with Samsung</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mp4-video-editing-software-with-cutting-capabilities/"><u>In 2024, Free MP4 Video Editing Software with Cutting Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inviting-ease-a-step-by-step-guide-to-joining-photo-shares-on-your-iphone/"><u>Inviting Ease: A Step-by-Step Guide to Joining Photo Shares on Your iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-like-a-pro-harnessing-live-view-technology-on-google-maps/"><u>Navigate Like a Pro: Harnessing Live View Technology on Google Maps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-options-the-ultimate-guide-to-choosing-the-finest-non-rooted-auto-clicker-apps-on-android/"><u>Navigating Through Options: The Ultimate Guide to Choosing the Finest Non-Rooted Auto Clicker Apps on Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-art-of-hidden-web-trails-in-top-browsers-like-chrome-edge-firefox-safari-and-opera/"><u>The Art of Hidden Web Trails in Top Browsers Like Chrome, Edge, Firefox, Safari, and Opera</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-absence-of-advanced-display-in-windows-11/"><u>[Corrected] Absence of Advanced Display in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-the-thrill-choosing-superior-cam-accessories/"><u>[New] Capture the Thrill Choosing Superior Cam Accessories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-framework-for-captivating-streams-on-youtube/"><u>[Updated] The Ultimate Framework for Captivating Streams on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/correcting-the-error-zlibdll-failure-to-load-on-your-system/"><u>Correcting the Error: 'Zlib.dll' Failure to Load on Your System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-issues-after-patching-the-escapists-game-on-windows-systems/"><u>How to Resolve Issues After Patching 'The Escapists' Game on Windows Systems</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-mastering-the-art-of-leaving-a-discord-server/"><u>In 2024, Mastering the Art of Leaving a Discord Server</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/optimal-distance-approach-to-professional-podcasts-for-2024/"><u>Optimal Distance Approach to Professional Podcasts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-and-simple-screen-capture-techniques-for-hp-laptop-owners/"><u>Quick and Simple Screen Capture Techniques for HP Laptop Owners</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-how-to-access-archived-web-pages-with-the-wayback-machine/"><u>Step-by-Step Tutorial on How to Access Archived Web Pages with the Wayback Machine</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-tiktok-duets/"><u>Ultimate Guide: Mastering the Art of TikTok Duets</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2024-09-30T22:15:33.340Z
-updated: 2024-10-07T16:54:40.811Z
+date: 2024-10-10T16:56:13.763Z
+updated: 2024-10-13T16:46:12.612Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -79,10 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,18 +134,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-step-by-step-guide-on-applying-cc-rights-effectively/"><u>[New] In 2024, A Step-by-Step Guide on Applying CC Rights Effectively</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-frame-rate-dilemma-30-vs-60-fps-in-video-production/"><u>[Updated] In 2024, Frame Rate Dilemma 30 Vs. 60 FPS in Video Production</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-screen-capturing-in-windows-11-unlock-these-4-proven-tricks/"><u>Effortless Screen Capturing in Windows 11? Unlock These 4 Proven Tricks!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-family-movies-to-stream-on-amazon-prime-video-during-the-month-of-july-2024/"><u>Essential Family Movies to Stream on Amazon Prime Video During the Month of July, 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/final-piece-of-the-puzzle-falls-into-place-for-mafia-ultimate-release-date/"><u>Final Piece of the Puzzle Falls Into Place for Mafia: Ultimate Release Date</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-motorola-moto-g24-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Motorola Moto G24 Phones? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-multitasking-media-setup-tips-for-using-pip-on-netflix/"><u>In 2024, Perfect Multitasking Media Setup Tips for Using PIP on Netflix</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/making-the-right-choice-for-your-media-needs-dvds-vs-blu-rays-vs-digital-is-it-time-to-upgrade/"><u>Making the Right Choice for Your Media Needs: DVDs Vs. Blu-Rays Vs. Digital - Is It Time to Upgrade?</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-free-to-use-the-top-10-public-domain-image-sites-for-2024/"><u>New Free to Use The Top 10 Public Domain Image Sites for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-pairings-accessories-for-a-superior-ps-vr2-experience/"><u>Perfect Pairings: Accessories for a Superior PS VR2 Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-infinix-gt-10-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix GT 10 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-12-no-cost-defragmentation-programs-july-2024-edition/"><u>Top 12 No-Cost Defragmentation Programs: July 2024 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watching-indiana-jones-saga-perfect-chronological-order-list/"><u>Watching Indiana Jones Saga - Perfect Chronological Order List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-all-you-need-to-know-about-instagram-video-limits/"><u>[New] 2024 Approved All You Need to Know About Instagram Video Limits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-get-verified-on-instagram-6-tips-to-grow-followers/"><u>[New] How to Get Verified on Instagram 6 Tips to Grow Followers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-viral-video-round-up-a-list-of-todays-favorites-on-fb/"><u>[New] Viral Video Round-Up A List of Today's Favorites on FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-measure-the-performance-of-igtv-videos/"><u>2024 Approved How to Measure the Performance of IGTV Videos?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazons-firestick-and-your-phones-wifi-the-comprehensive-guide-to-setting-them-up-together/"><u>Amazons Firestick and Your Phone's WiFi: The Comprehensive Guide to Setting Them Up Together</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-the-notorious-502-bad-gateway-error-on-websites-effectively/"><u>How to Resolve the Notorious 502 Bad Gateway Error on Websites Effectively</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-narrative-designers-den/"><u>In 2024, Supreme Narrative Designer's Den</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-dawns-exchanging-good-mornings-across-languages/"><u>International Dawns: Exchanging Good Mornings Across Languages</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-iphone-techniques-for-quick-video-reduction-for-2024/"><u>Learn iPhone Techniques for Quick Video Reduction for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-vs-pc-showdown-what-sets-them-apart-insights-into-their-unique-features/"><u>Mac Vs. PC Showdown: What Sets Them Apart? Insights Into Their Unique Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-shareable-gaming-snippets-an-insiders-guide-to-capturing-ps4-gameplay/"><u>Unlocking Shareable Gaming Snippets – An Insider's Guide to Capturing PS4 Gameplay</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 7 Tips for Optimizing UI/UX on Apple's VisionOS - Insights
-date: 2024-10-05T19:33:21.571Z
-updated: 2024-10-07T21:26:45.069Z
+date: 2024-10-12T16:08:51.901Z
+updated: 2024-10-13T17:07:22.920Z
 tags:
   - apple
 categories:
@@ -52,13 +52,6 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Identify your key moments
 
 Let's say you're a developer who has an existing app for the iPad. Let's say you want to bring said iPad app into VisionOS. The iPad app, by its nature, is flat and rectangular. But VisionOS allows users to see all around. Is there anything in your app that clearly lends itself to VRification? 
@@ -69,6 +62,13 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Adjust UI elements to accommodate the new environment
 
 Some UI elements translate directly from iPadOS to VisionOS, but others aren't an exact match. Apple has a [spatial design guidelines video](https://developer.apple.com/videos/play/wwdc2023/10072/) that's well worth watching to come up to speed. 
@@ -78,16 +78,10 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Utilize grid systems where appropriate
@@ -95,13 +89,6 @@ One area to pay particular attention to is when you use hover effects. When you 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
 
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
 
@@ -114,10 +101,16 @@ To that end, even if you're building a non-entertainment app that would normally
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Focus on key details, but don't overwhelm
@@ -125,6 +118,13 @@ And while you're at it, allow your users to control the sound, setting its volum
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
 
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
 
@@ -173,16 +173,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras/"><u>[New] 2024 Approved Discover the Best in Class Our List of 12 High-Performing Flip Cameras</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unwinding-watchlists-youtubes-route-for-playback-in-opposite-direction/"><u>[New] In 2024, Unwinding Watchlists YouTube's Route for Playback in Opposite Direction</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-unlock-creative-freedom-in-videos-the-art-of-audio-integration/"><u>2024 Approved Unlock Creative Freedom in Videos The Art of Audio Integration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazons-must-have-bargains-of-august-2e-sourced-directly-for-maximum-value/"><u>Amazon's Must-Have Bargains of August 2E, Sourced Directly for Maximum Value!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experts-roundup-the-ultimate-guide-to-choosing-a-premium-stylus-tablet-in-2021-insights/"><u>Experts Roundup: The Ultimate Guide to Choosing a Premium Stylus Tablet in 202([[1]] | Insights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratis-online-converter-para-de-mpeg-a-m4a-pelo-software-movavi-facil-e-seguro/"><u>Gratis Online Converter Para De MPEG a M4A Pelo Software Movavi - Fácil E Seguro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-free-yourself-from-microsofts-copilot-on-a-windows-11-machine/"><u>How To: Free Yourself From Microsoft's Copilot on a Windows 11 Machine</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/regional-guide-how-to-securely-store-your-drivers-license-in-apple-wallet-on-iphone/"><u>Regional Guide: How to Securely Store Your Driver's License in Apple Wallet on iPhone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revouninstaller-tutorial-master-the-art-of-forced-shutdown-for-windows-apps/"><u>RevoUninstaller Tutorial: Master the Art of Forced Shutdown for Windows Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-iphone-vpn-apps-of-the-year-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated iPhone VPN Apps of the Year: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-ranking-smart-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Smart Tablets - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-essential-list-6-free-online-platforms-for-youtube-short-downloads/"><u>[New] 2024 Approved Essential List 6 Free Online Platforms for YouTube Short Downloads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-promote-youtube-videos-without-paying/"><u>[New] 2024 Approved How to Promote YouTube Videos (Without Paying)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-windows-11-auto-hdr-how-to-turn-on-windows-11-auto-hdr/"><u>[Updated] Windows 11 Auto HDR How to Turn on Windows 11 Auto HDR</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-entertainment-how-students-can-enjoy-youtube-premium-for-less/"><u>Affordable Entertainment: How Students Can Enjoy YouTube Premium for Less</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cant-get-your-ipad-and-printer-talking-lets-fix-that-now/"><u>Can't Get Your iPad and Printer Talking? Let's Fix That Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidia-quadro-drivers-for-windows-11-direct-clipboard-handling-dch-support/"><u>Download NVIDIA Quadro Drivers for Windows 11 - Direct Clipboard Handling (DCH) Support</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/el-mejor-software-de-captura-de-pantalla-compatible-con-windows-1087-grabar-cualquier-parte-del-monitor-facilmente/"><u>El Mejor Software De Captura De Pantalla Compatible Con Windows 10/8/7 - Grabar Cualquier Parte Del Monitor Fácilmente</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guide-stop-unknown-numbers-from-disturbing-you-on-iphone/"><u>Essential Guide: Stop Unknown Numbers From Disturbing You on iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ev-owners-guide-to-extra-benefits-priority-parking-and-quick-pass-on-high-occupancy-vehicle-lanes/"><u>EV Owner's Guide to Extra Benefits: Priority Parking & Quick-Pass on High Occupancy Vehicle Lanes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-your-pc-now-the-ultimate-guide-to-resolving-shell32dll-not-found-dilemma/"><u>Fix Your PC Now: The Ultimate Guide to Resolving Shell32.dll Not Found Dilemma</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-s18-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo S18 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y36-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y36</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-x50-gt-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Honor X50 GT Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-linking-your-phone-to-google-chromecast/"><u>Step-by-Step Instructions for Linking Your Phone to Google Chromecast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-when-your-ipad-wont-pair-with-wi-fi-at-home-or-work/"><u>The Ultimate Fix for When Your iPad Won't Pair with Wi-Fi at Home or Work</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/travel-video-setup-must-have-items-checklist/"><u>Travel Video Setup Must-Have Items Checklist</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unpacking-samsung-2025-detailed-schedule-latest-tech-news-hype-and-speculations/"><u>Unpacking Samsung 2025: Detailed Schedule, Latest Tech News, Hype and Speculations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2024-10-03T19:36:37.183Z
-updated: 2024-10-07T22:04:19.493Z
+date: 2024-10-08T16:47:43.020Z
+updated: 2024-10-13T16:43:04.255Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -93,13 +86,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -109,16 +95,10 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -156,6 +136,13 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -169,10 +156,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -186,6 +173,13 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -226,24 +220,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-tech-tips-for-free-tv-show-recording-on-windows/"><u>[New] In 2024, Tech Tips for Free TV Show Recording on Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-monetary-outcomes-of-podcast-engagement-for-2024/"><u>[New] The Monetary Outcomes of Podcast Engagement for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-enhancing-tweets-adding-media-files/"><u>[Updated] Enhancing Tweets Adding Media Files</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-evaluating-youtubes-potential-monthly-earnings/"><u>2024 Approved Evaluating YouTube's Potential Monthly Earnings</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/deciding-between-an-amazon-fire-or-a-samsung-tablet-top-tips-for-making-the-right-choice/"><u>Deciding Between an Amazon Fire or a Samsung Tablet? Top Tips for Making the Right Choice</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-latest-upgrades-to-apple-carplay-from-the-2024-worldwide-developers-conference-key-features-revealed/"><u>Explore the Latest Upgrades to Apple CarPlay From the 2024 Worldwide Developers Conference - Key Features Revealed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-insignia-ns-pcy5bma2-drivers-for-compatible-windows-versions/"><u>Get the Latest Insignia NS-PCY5BMA2 Drivers for Compatible Windows Versions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-apple-music-enables-seamless-playlist-migration-between-apple-and-youtube-music-services/"><u>How Apple Music Enables Seamless Playlist Migration Between Apple and YouTube Music Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-guide-to-apples-new-studio-monitor-detailed-specs-unique-attributes-and-crucial-data-you-cant-miss-expert-analysis-from-zdnet/"><u>In-Depth Guide to Apple's New Studio Monitor: Detailed Specs, Unique Attributes & Crucial Data You Can't Miss | Expert Analysis From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rethinking-your-purchase-the-case-against-upgrading-to-iphone-16-why-consider-other-options/"><u>Rethinking Your Purchase: The Case Against Upgrading to iPhone 16. Why Consider Other Options?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionary-ipad-calculator-app-prompts-consideration-of-apple-pencil-investment-insights-from-zdnet/"><u>Revolutionary iPad Calculator App Prompts Consideration of Apple Pencil Investment - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-y200-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Y200</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/snag-the-apple-m2-macbook-air-for-just-800-before-prime-day-arrives-exclusive-deal-alert/"><u>Snag the Apple M2 MacBook Air for Just $800 Before Prime Day Arrives – Exclusive Deal Alert!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-15-best-no-cost-uninstallers-your-ultimate-guide/"><u>Top 15 Best No-Cost Uninstallers: Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/transforming-reading-experience-the-ultimate-2018-amazon-kindle-paperwhite-review/"><u>Transforming Reading Experience: The Ultimate 2018 Amazon Kindle Paperwhite Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-in-depth-testing-and-insights/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024: In-Depth Testing & Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-recording-guide-visuals-plus-vibrant-melodies-for-2024/"><u>Ultimate Recording Guide Visuals + Vibrant Melodies for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-behind-yesterdays-unsent-imessages-expert-analysis-by-zdnet/"><u>Unraveling the Mystery Behind Yesterday's Unsent iMessages - Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-im-holding-off-on-the-new-apple-m4-mac-mini-thanks-to-an-exclusive-mac-studio-perk-insights-from-zdnet/"><u>Why I'm Holding Off on the New Apple M4 Mac Mini Thanks to an Exclusive Mac Studio Perk - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-vivid-visuals-brush-up-your-youtube-beauty-videos/"><u>[New] Vivid Visuals Brush up Your YouTube Beauty Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-hidden-horizons-in-hand-drawn-harmony/"><u>[Updated] 2024 Approved Hidden Horizons in Hand-Drawn Harmony</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-blueprints-for-making-youtube-intro-videos-that-stick/"><u>[Updated] In 2024, Blueprints for Making YouTube Intro Videos that Stick</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leveraging-built-in-recorders-on-mate-1020-and-p2010-series-to-screen-capture-for-2024/"><u>[Updated] Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/6-effective-strategies-to-overcome-iphone-apple-watch-pairing-problems/"><u>6 Effective Strategies to Overcome iPhone-Apple Watch Pairing Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-by-step-premiere-pro-for-softening-soundtracks-for-2024/"><u>A Step-by-Step Premiere Pro for Softening Soundtracks for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/cannot-locate-content-http-status-code-404-error/"><u>Cannot Locate Content: HTTP Status Code 404 Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-repair-dealing-with-startup-problems-and-empty-screens-on-pcs/"><u>DIY Repair: Dealing with Startup Problems and Empty Screens on PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-comprehensive-reviews-at-your-brand-name/"><u>Exploring the Latest in Tech: Comprehensive Reviews at [Your Brand Name]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy F54 5G?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-tech-trends-the-critical-trio-to-monitor-and-beyond/"><u>Leading Tech Trends: The Critical Trio to Monitor and Beyond</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smart-choices-which-voice-assistant-fits-you-best-alexa-or-google/"><u>Smart Choices: Which Voice Assistant Fits You Best, Alexa or Google?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strategies-for-choosing-the-right-time-to-stop-following-on-formerly-twitter-accounts/"><u>Strategies for Choosing the Right Time to Stop Following on [Formerly Twitter] Accounts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-xinput13dll-files-for-smooth-gaming-experience/"><u>Troubleshooting Missing Xinput1_3.dll Files for Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-for-zlibdll-error-resolution/"><u>Ultimate Troubleshooting Tips for 'zlib.dll' Error Resolution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2024-10-04T20:42:45.222Z
-updated: 2024-10-07T16:04:42.503Z
+date: 2024-10-08T17:13:01.285Z
+updated: 2024-10-13T17:08:54.649Z
 tags:
   - apple
 categories:
@@ -130,13 +130,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -148,10 +141,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -165,15 +158,22 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
@@ -183,17 +183,17 @@ In general, there is no difference in how much money you save whether you shop o
 
 ZDNET experts split out the latest and greatest deals for you below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -244,20 +244,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-grids-the-finest-10-grid-software-for-2024/"><u>[New] Mastering Instagram Grids The Finest 10 Grid Software for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionizing-travel-a-dive-into-vr-tour-possibilities/"><u>[New] Revolutionizing Travel A Dive Into VR Tour Possibilities</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-quick-vimeo-transformation-tips-easy-to-create-gifs-for-2024/"><u>[Updated] Quick Vimeo Transformation Tips Easy-to-Create GIFs for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/8-best-free-html-editors-for-windows/"><u>8 Best Free HTML Editors for Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-on-transferring-spotify-playlist-data-into-editable-text-files/"><u>Complete Guide on Transferring Spotify Playlist Data Into Editable Text Files</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-picks-best-no-cost-polyglot-platforms-for-mastering-languages/"><u>Expert Picks: Best No-Cost Polyglot Platforms for Mastering Languages</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-hdd-evaluation-programs-the-2024-best-picks-for-optimal-performance/"><u>Free HDD Evaluation Programs: The 2024 Best Picks for Optimal Performance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-tame-a-buzzing-machine-fixing-problematic-computing-fans/"><u>How to Tame a Buzzing Machine: Fixing Problematic Computing Fans</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-from-srt-to-the-future-mastering-xmlssattml-transforms/"><u>In 2024, From SRT to the Future Mastering XML/SSA/TTML Transforms</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-v30t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme V30T Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>In 2024, Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-the-art-of-selfie-photography-with-ring-lights/"><u>Step-by-Step Guide: Mastering the Art of Selfie Photography with Ring Lights</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unveiling-synergy-youtube-content-on-facebook-network/"><u>Unveiling Synergy YouTube Content on Facebook Network</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mastering-filmora-scrn-a-comprehensive-guide-to-desktop-recording/"><u>Updated 2024 Approved Mastering Filmora Scrn A Comprehensive Guide to Desktop Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-apex-legends-solo-strategies-mastering-one-platform-at-a-time/"><u>[New] Apex Legends Solo Strategies Mastering One Platform at a Time</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveil-the-secrets-of-successful-fb-strategies-in-these-top-15-insight-tools/"><u>[New] Unveil the Secrets of Successful FB Strategies in These Top 15 Insight Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-max-360-vs-hero-11-gopro-cameras-face-off-for-2024/"><u>[Updated] Max 360 Vs. Hero 11 - GoPro Cameras Face Off for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-4k-leading-blu-ray-players-compared/"><u>2024 Approved Excellence in 4K Leading Blu-Ray Players Compared</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-supreme-4k-display-selection-the-best-of-ten/"><u>2024 Approved Supreme 4K Display Selection The Best of Ten</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-ussd-the-role-and-functions-of-unstructured-supplementary-service-data-in-telecommunications/"><u>Deciphering USSD - The Role and Functions of Unstructured Supplementary Service Data in Telecommunications</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lenovo-thinkphone-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Lenovo ThinkPhone PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-firmware-update-for-epson-wf-3620-download-and-installation-guide-for-windows-11-8-and-7-users/"><u>Latest Firmware Update for Epson WF-3620: Download and Installation Guide for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-a79-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A79 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-pairing-your-laptop-with-wireless-speakers/"><u>Step-by-Step Tutorial on Pairing Your Laptop with Wireless Speakers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tips-for-increasing-your-number-of-insta-followers-quickly/"><u>Tips for Increasing Your Number of Insta-Followers Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/travel-tech-essentials-utilizing-roku-for-hotel-or-school-wi-fi-networks/"><u>Travel Tech Essentials: Utilizing Roku for Hotel or School Wi-Fi Networks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-no-sound-issues-with-your-stereo-receiver/"><u>Troubleshooting Tips: Resolving No-Sound Issues with Your Stereo Receiver</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/which-phone-operating-system-suits-you-best-iphone-vs-android-showdown/"><u>Which Phone Operating System Suits You Best? IPhone vs Android Showdown.</u></a></li>
 </ul></div>
 

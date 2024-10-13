@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Workspace: Seamlessly Set Up a Second Monitor on Your M1 Mac Mini with Ease | Insights"
-date: 2024-09-30T18:10:35.071Z
-updated: 2024-10-07T16:00:50.974Z
+date: 2024-10-10T16:52:20.750Z
+updated: 2024-10-13T16:19:45.962Z
 tags:
   - apple
 categories:
@@ -44,16 +44,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,10 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +90,16 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,24 +136,14 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-environmentally-friendly-cinematography-tech/"><u>[Updated] 2024 Approved Elite Environmentally Friendly Cinematography Tech</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-deciding-filmora-vs-democracy-creator-for-2024/"><u>[Updated] Deciding Filmora Vs. Democracy Creator for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimizing-playback-speed-a-guide-for-spotify-users/"><u>[Updated] Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/15-stunning-picture-collage-concepts-move-over-with-movavi/"><u>15 Stunning Picture Collage Concepts - Move over with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-successful-messaging-using-mozilla-thunderbird/"><u>Comprehensive Strategies for Successful Messaging Using Mozilla Thunderbird</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-entertainment-with-smart-tv-bridging-your-htpc-and-home-theater/"><u>Enhancing Entertainment with Smart TV - Bridging Your HTPC and Home Theater</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-convert-stacks-of-jpeg-pictures-into-a-unified-pdf-format-easily/"><u>How to Convert Stacks of JPEG Pictures Into a Unified PDF Format Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-oppo-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Oppo .</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-14-plus-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 14 Plus After iOS Update? | Stellar</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-fb-pages-made-simple-top-8-tools-for-free-and-online-use/"><u>In 2024, FB Pages Made Simple Top 8 Tools for Free & Online Use</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-maximizing-classroom-impact-best-youtube-practices-for-educators/"><u>In 2024, Maximizing Classroom Impact Best YouTube Practices for Educators</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipad-pro-vs-macbook-air-which-is-superior-for-productivity-and-portability/"><u>IPad Pro Vs. MacBook Air - Which Is Superior for Productivity and Portability?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/network-security/"><u>Network Security</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-into-tomorrow-revel-in-the-unveiling-of-apples-latest-handheld-masterpiece/"><u>Step Into Tomorrow: Revel in the Unveiling of Apple's Latest Handheld Masterpiece</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-must-have-mobile-apps-for-tracking-your-diet-and-nutrition/"><u>Top 6 Must-Have Mobile Apps for Tracking Your Diet and Nutrition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-strategies-capturing-saving-and-sharing-ps4-experiences-for-2024/"><u>Top Strategies Capturing, Saving & Sharing PS4 Experiences for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tutorial-activating-and-using-split-view-on-macbook-air-easily/"><u>Tutorial: Activating and Using Split View on MacBook Air Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722897416927-vizio-tv-woes-heres-how-to-get-your-wi-fi-connection-back-up-and-running/"><u>Vizio TV Woes? Here's How to Get Your Wi-Fi Connection Back Up and Running!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-pre-purchase-checklist-important-qanda-for-potential-electric-vehicle-buyers/"><u>Your Pre-Purchase Checklist: Important Q&A for Potential Electric Vehicle Buyers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-exploring-holy-hymns-for-mobile-phones/"><u>2024 Approved Exploring Holy Hymns for Mobile Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-resolving-missing-shell-executables-dll-on-your-pc-a-detailed-tutorial/"><u>Diagnosing and Resolving Missing Shell Executables (DLL) on Your PC - A Detailed Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165321460-discover-the-best-idevice-gaming-without-internet-or-wi-fi/"><u>Discover the Best iDevice Gaming without Internet or Wi-Fi!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-the-potential-of-metas-ai-innovations-for-tomorrows-tech-landscape/"><u>Discovering the Potential of Meta's AI Innovations for Tomorrow’s Tech Landscape</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-guide-the-best-4-ringtone-providers/"><u>Exclusive Guide The Best 4 Ringtone Providers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722883514886-launching-soon-unveiling-the-latest-apple-ear-worn-gadget-pricing-and-release-info-inside/"><u>Launching Soon? Unveiling the Latest Apple Ear-Worn Gadget – Pricing & Release Info Inside!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolve-search-not-responding-on-windows-10-with-easy-fixes/"><u>Resolve 'Search Not Responding' On Windows 10 with Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-expert-guide-to-correcting-failed-windows-update-issues/"><u>Solving the Puzzle: Expert Guide to Correcting Failed Windows Update Issues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/transforming-ordinary-to-extraordinary-with-engaging-tiktok-unboxings/"><u>Transforming Ordinary to Extraordinary with Engaging TikTok Unboxings</u></a></li>
 </ul></div>
 

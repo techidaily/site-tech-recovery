@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2024-10-04T22:14:14.693Z
-updated: 2024-10-07T18:35:27.100Z
+date: 2024-10-06T16:21:08.576Z
+updated: 2024-10-13T17:16:51.878Z
 tags:
   - apple
 categories:
@@ -55,6 +55,13 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -72,10 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -115,10 +122,10 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -134,10 +141,10 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -155,13 +162,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -218,14 +218,19 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-decoding-facebook-capturing-and-keeping-status-videos-for-2024/"><u>[Updated] Decoding Facebook Capturing and Keeping Status Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elite-8-video-transformations-for-virtual-events/"><u>[Updated] In 2024, Elite 8 Video Transformations for Virtual Events</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-securing-your-periscope-footage-expert-techniques-revealed/"><u>2024 Approved Securing Your Periscope Footage Expert Techniques Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-update-or-change-the-built-in-browser-on-your-samsung-smart-tv/"><u>Easy Steps to Update or Change the Built-In Browser on Your Samsung Smart TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-correcting-a-lost-or-absent-helperdll-error/"><u>Effective Solutions for Correcting a Lost or Absent Helper.dll Error</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mobile-phone-networks-demystified-an-insight-into-service-providers/"><u>Mobile Phone Networks Demystified: An Insight Into Service Providers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-on-how-to-erase-your-yahoo-mail-address-forever/"><u>Step-by-Step Process on How to Erase Your Yahoo! Mail Address Forever</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mline-your-videos-acoustic-appeal-on-youtube-for-2024/"><u>Streamline Your Video's Acoustic Appeal on YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-couch-to-camera-earning-through-personal-vlogging/"><u>[New] In 2024, From Couch-to-Camera Earning Through Personal Vlogging</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-video-standards-focus-on-aspect-ratios/"><u>[Updated] 2024 Approved Twitter's Video Standards Focus on Aspect Ratios</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-skaldic-tales-ragnarok-reborn/"><u>2024 Approved Skaldic Tales Ragnarök Reborn</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nokia-c02-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nokia C02 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 7? | Stellar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-unlink-and-delete-your-yahoo-mail-profile-once-and-for-all/"><u>How To Unlink and Delete Your Yahoo Mail Profile Once & For All</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-8-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-updates-on-teslas-automaton-insights-into-launch-schedule-cost-projections-and-detailed-specifications/"><u>Latest Updates on Tesla's Automaton: Insights Into Launch Schedule, Cost Projections & Detailed Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-ring-price-release-date-specs-and-news/"><u>Samsung Galaxy Ring: Price, Release Date, Specs, and News</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solution-for-vertical-stripes-appearing-on-samsung-tv-a-step-by-step-approach/"><u>Solution for Vertical Stripes Appearing on Samsung TV: A Step by Step Approach</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/tips-to-improve-zooms-facebook-live-functionality-for-2024/"><u>Tips to Improve Zoom's Facebook Live Functionality for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tricks-for-a-successful-ipad-battery-upgrade/"><u>Ultimate Tricks for a Successful iPad Battery Upgrade</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-powerful-duo-in-depth-review-of-mobvois-ticwatch-pro-3-with-extended-battery-via-dual-screens-and-reliable-gps/"><u>Unveiling the Powerful Duo: In-Depth Review of Mobvoi's TicWatch Pro 3 with Extended Battery via Dual Screens and Reliable GPS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722889637101-xiaomis-anticipated-nothing-phone-3-unlocking-the-secrets-of-price-launch-date-and-cutting-edge-features/"><u>Xiaomi's Anticipated Nothing Phone 3 - Unlocking the Secrets of Price, Launch Date, and Cutting-Edge Features</u></a></li>
 </ul></div>
 

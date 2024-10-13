@@ -1,7 +1,7 @@
 ---
 title: "Apple Declares Your Gadget Vintage: A Guide to Legacy Tech & Future Updates | ZDNet"
-date: 2024-10-03T19:42:06.984Z
-updated: 2024-10-07T22:04:20.083Z
+date: 2024-10-08T17:37:17.397Z
+updated: 2024-10-13T16:32:58.288Z
 tags:
   - apple
 categories:
@@ -31,16 +31,10 @@ In this article, I'll show you how to take both screenshots and screen recording
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -70,10 +64,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -115,10 +109,10 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -168,18 +162,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-blueprint-for-traffic-boost-masterful-techniques-for-effective-fb-videos-for-2024/"><u>[New] The Blueprint for Traffic Boost Masterful Techniques for Effective FB Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-az-recorder-expert-series-app-deep-dives/"><u>[Updated] 2024 Approved AZ Recorder Expert Series App Deep Dives</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-precision-and-efficiency-incorporating-luts-in-after-effects-for-2024/"><u>[Updated] Precision and Efficiency Incorporating LUTs in After Effects for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-boomerangs-unveiled-your-how-to-guide-for-2024/"><u>[Updated] SnapChat Boomerangs Unveiled – Your How-To Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/electric-cars-unfolding-their-historical-saga/"><u>Electric Cars: Unfolding Their Historical Saga</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-lava-blaze-2-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Lava Blaze 2 Activity | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-p55t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel P55T to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-motorola-defy-2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Motorola Defy 2 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/melodies-of-matrimony-romantic-hits-for-the-big-moment-for-2024/"><u>Melodies of Matrimony Romantic Hits for the Big Moment for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-the-maze-of-gmail-archives-to-find-your-lost-emails-tips-inside/"><u>Navigate the Maze of Gmail Archives to Find Your Lost Emails - Tips Inside</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/open-source-gaming-soundtracks-library-for-2024/"><u>Open Source Gaming Soundtracks Library for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-repair-and-restart-a-stalled-mozilla-thunderbird-program/"><u>Steps to Repair and Restart a Stalled Mozilla Thunderbird Program</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-zoom-problems-when-does-the-fault-lie-with-the-app/"><u>Troubleshooting Zoom Problems: When Does the Fault Lie with the App?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-androids-low-cost-video-call-app-selection/"><u>[New] 2024 Approved Android's Low Cost Video Call App Selection</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-the-purpose-and-function-of-facebooks-status-emoji-for-2024/"><u>[Updated] Unlocking the Purpose and Function of Facebook's Status Emoji for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-augmenting-film-vistas-with-apple-playlist/"><u>2024 Approved Augmenting Film Vistas with Apple Playlist</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/climbing-the-ranks-of-instagram-popularity-key-strategies-to-amplify-your-follower-base/"><u>Climbing the Ranks of Instagram Popularity: Key Strategies to Amplify Your Follower Base</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-instructions-for-shutting-down-facebook-on-android-systems/"><u>Complete Instructions for Shutting Down Facebook on Android Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dynamic-movement-synopsis-overview/"><u>Dynamic Movement Synopsis Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-windows-code-31-problems-with-these-simple-fixes/"><u>Eliminate Windows Code 31 Problems with These Simple Fixes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-flawlessly-transform-mov-videos-into-high-quality-gifs-using-these-3-techniques/"><u>How to Flawlessly Transform MOV Videos Into High-Quality GIFs Using These 3 Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-exploring-top-tier-no-cost-webm-video-streamers-for-browsers/"><u>In 2024, Exploring Top-Tier, No-Cost WebM Video Streamers for Browsers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-connection-a-guide-to-detecting-external-displays-with-your-mac/"><u>Mastering the Connection: A Guide to Detecting External Displays with Your Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mi-drone-reviewed-capturing-landscapes-in-full-resolution/"><u>MI Drone Reviewed Capturing Landscapes in Full Resolution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/microsoft-word-woes-steps-to-take-when-your-files-wont-launch/"><u>Microsoft Word Woes: Steps to Take When Your Files Won't Launch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-vivo-y36-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Vivo Y36</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-your-computers-print-command-conundrum-with-effective-tips/"><u>Solving Your Computer's Print Command Conundrum with Effective Tips.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-strategies-for-successful-email-address-whitelist-setup/"><u>The Essential Strategies for Successful Email Address Whitelist Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ins-and-outs-of-roaming-on-a-single-carrier-how-it-works-at-t-mobile/"><u>The Ins and Outs of Roaming on a Single Carrier: How It Works at T-Mobile</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-pova-6-pro-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-solving-dbghookdll-file-absence/"><u>Troubleshooting: Solving dBghook.dll File Absence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unexpected-problems-how-to-resolve-invisible-wi-fi-network-issues/"><u>Unexpected Problems: How to Resolve Invisible Wi-Fi Network Issues</u></a></li>
 </ul></div>
 

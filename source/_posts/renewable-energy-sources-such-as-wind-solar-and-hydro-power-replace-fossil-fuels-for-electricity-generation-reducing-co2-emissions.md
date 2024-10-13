@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2024-10-04T17:14:26.739Z
-updated: 2024-10-07T20:48:19.642Z
+date: 2024-10-11T17:21:59.952Z
+updated: 2024-10-13T16:07:20.136Z
 tags:
   - apple
 categories:
@@ -77,10 +77,16 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -102,6 +108,13 @@ Then there's the [Samsung Galaxy S23](https://shop-links.co/link/?url=https%3A%2
 Many smartphones today capture 8K video directly into phone storage. These include the [Samsung Galaxy S23](https://www.zdnet.com/article/samsung-galaxy-s23-plus-review/) (8K was supported as far back as the [S20](https://www.zdnet.com/article/galaxy-s20-s20-plus-s20-ultra-prices-specs-release-date-and-more-you-need-to-know/)), the [Asus ZenFone 9](https://www.zdnet.com/article/asus-zenfone-9-review/), the [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-max-50-photos-that-show-what-the-new-camera-system-can-do/) can all record 8K video directly into the device.
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
 
@@ -129,13 +142,6 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -151,10 +157,10 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Object knowledge
@@ -200,10 +206,16 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Looking to the future
@@ -262,18 +274,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-other-formats/"><u>[New] The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Other Formats</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-from-raw-footage-to-final-product-using-windows-10-for-editing-success/"><u>[Updated] 2024 Approved From Raw Footage to Final Product Using Windows 10 for Editing Success</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1715939134573-updated-2024-approved-how-to-record-audio-with-audacity-on-mac/"><u>[Updated] 2024 Approved How to Record Audio with Audacity on Mac</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-edge-video-editing-programs-for-instagram-on-android-for-2024/"><u>[Updated] Top Edge Video Editing Programs for Instagram on Android for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-buyers-checklist-selecting-a-high-quality-projector-that-meets-your-needs/"><u>A Buyer's Checklist: Selecting a High-Quality Projector That Meets Your Needs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-practices-for-file-retrieval-a-thorough-review-of-recuvas-capabilities-and-features/"><u>Best Practices for File Retrieval: A Thorough Review of Recuva's Capabilities and Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-creativity-and-content-quality-harnessing-the-power-of-chatgpt/"><u>Boosting Creativity & Content Quality: Harnessing the Power of ChatGPT</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-dynamic-email-links-within-flipbook-presentations-using-flipbuilder/"><u>Creating Dynamic Email Links Within FlipBook Presentations Using FlipBuilder</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-11-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On OnePlus 11 5G?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-digital-tv-signal-enhancement-with-effective-in-house-antennas/"><u>Master the Art of Digital TV Signal Enhancement with Effective In-House Antennas</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-a-step-by-step-guide-on-addressing-hulu-error-code-rununk13/"><u>Solving the Mystery: A Step-by-Step Guide on Addressing Hulu Error Code RUNUNK13</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-choosing-top-cable-and-router-duos/"><u>The Ultimate Guide to Choosing Top Cable and Router Duos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-free-image-transformation-the-best-smartphone-editing-aids-unveiled/"><u>[New] Free Image Transformation The Best Smartphone Editing Aids Unveiled</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-chucklecircuit-meme-studio-free-download/"><u>[New] In 2024, ChuckleCircuit Meme Studio (Free Download!)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-transforming-industries-with-virtual-reality-applications/"><u>[Updated] Transforming Industries with Virtual Reality Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-resolving-a-whea-unrecoverable-fault/"><u>Complete Guide: Resolving a WHEA Unrecoverable Fault</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-error-code-0x80n070570-expert-guide-on-troubleshooting-and-fix/"><u>Decoding Error Code 0X80n070570: Expert Guide on Troubleshooting and Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-mingwm10dll-missing-errors-with-these-effective-techniques/"><u>Eliminate Mingwm10.dll Missing Errors with These Effective Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-and-repair-normalizdll-not-found-error-in-windows/"><u>How to Resolve and Repair 'Normaliz.dll Not Found' Error in Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-punpictures-pro-jestjokes-network/"><u>In 2024, PunPictures Pro JestJokes Network</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfecting-your-youtube-videos-for-igtv-integration-for-2024/"><u>Perfecting Your Youtube Videos for IGTV Integration for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resetting-your-newx-account-a-step-by-step-guide/"><u>Resetting Your NewX Account: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-networks-future-tracing-a-possible-rebrand/"><u>Social Network's Future: Tracing a Possible Rebrand</u></a></li>
 </ul></div>
 

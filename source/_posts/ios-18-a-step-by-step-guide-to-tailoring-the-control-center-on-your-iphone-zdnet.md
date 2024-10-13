@@ -1,7 +1,7 @@
 ---
 title: "IOS 18: A Step-by-Step Guide to Tailoring the Control Center on Your iPhone - ZDNet"
-date: 2024-10-02T22:29:38.320Z
-updated: 2024-10-07T19:48:34.029Z
+date: 2024-10-09T17:03:32.495Z
+updated: 2024-10-13T17:17:49.054Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,13 +57,6 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -71,10 +64,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -86,10 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -97,6 +90,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,14 +134,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-rise-above-top-tactics-for-a-standout-youtube-live-without-million-followers/"><u>[New] Rise Above Top Tactics for a Standout Youtube Live without Million Followers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cost-effective-beginners-guide-to-building-a-home-cinema/"><u>Cost-Effective Beginner's Guide to Building a Home Cinema</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-viewing-apples-pages-files-on-your-pc-without-an-app/"><u>Guide: Viewing Apple's Pages Files on Your PC Without an App</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-23-budget-friendly-methods-document-webinars-with-no-cost/"><u>In 2024, 23 Budget-Friendly Methods Document Webinars with No Cost</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-facebook-down-how-to-find-out-and-see-when-its-back-up/"><u>Is Facebook Down? How to Find Out and See When It's Back Up</u></a></li>
-<li><a href="https://games-able.techidaily.com/should-your-system-jump-on-nvidias-new-rtx-trend/"><u>Should Your System Jump on Nvidia's New RTX Trend?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphone-computer-connection-issues-with-these-simple-fixes/"><u>Solve Your iPhone-Computer Connection Issues with These Simple Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upgrade-your-typography-easy-tips-to-modify-fonts-in-windows-11/"><u>Upgrade Your Typography: Easy Tips to Modify Fonts in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-do-if-microsoft-installer-dll-is-unavailable-or-lost/"><u>What to Do If Microsoft Installer DLL Is Unavailable or Lost?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-uncovering-forgotten-facebook-episodes-cross-device-instructions/"><u>[New] In 2024, Uncovering Forgotten Facebook Episodes Cross-Device Instructions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/app-market-showdown-analyzing-differences-between-itunes-and-google-play-stores/"><u>App Market Showdown: Analyzing Differences Between iTunes and Google Play Stores</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cut-costs-effortlessly-our-curated-list-of-top-6-coupons-and-deal-sources/"><u>Cut Costs Effortlessly: Our Curated List of Top 6 Coupons & Deal Sources</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-in-house-dtv-reception-with-the-right-indoor-antenna-solutions/"><u>Enhance In-House DTV Reception with the Right Indoor Antenna Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-paso-a-paso-capturando-sonido-perfecto-en-tu-mac-con-software-de-audio-pro-gratis/"><u>Guía Paso a Paso: Capturando Sonido Perfecto en Tu Mac Con Software De Audio Pro Gratis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-viewing-vlc-versus-mx-comparison/"><u>In 2024, Streamlining Your Viewing VLC Versus MX Comparison</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-content-access-with-ai-enhanced-websites/"><u>Revolutionizing Content Access with AI-Enhanced Websites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-mfc42dll-cant-be-located-error-fixes/"><u>Step-by-Step Solutions for 'MFC42.dll' Can’t Be Located Error Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-narzo-n55-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme Narzo N55 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-apple-airtag-evaluation-ideal-tracking-device-for-iphone-owners/"><u>Top Apple AirTag Evaluation: Ideal Tracking Device for iPhone Owners</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-connection-guide-integrating-your-apple-homepod-with-television/"><u>Wireless Connection Guide: Integrating Your Apple HomePod with Television</u></a></li>
 </ul></div>
 

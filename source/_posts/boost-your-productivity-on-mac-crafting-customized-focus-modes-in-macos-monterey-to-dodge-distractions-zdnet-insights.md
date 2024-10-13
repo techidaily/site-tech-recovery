@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions | ZDNET Insights"
-date: 2024-09-30T23:16:30.575Z
-updated: 2024-10-07T23:35:00.394Z
+date: 2024-10-11T17:17:57.746Z
+updated: 2024-10-13T17:25:27.653Z
 tags:
   - apple
 categories:
@@ -28,23 +28,9 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -53,6 +39,13 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -63,10 +56,16 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -86,10 +85,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -105,6 +104,19 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,22 +160,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-easy-methods-for-downloading-vimeo-clips/"><u>[New] 2024 Approved Easy Methods for Downloading Vimeo Clips</u></a></li>
-<li><a href="https://article-files.techidaily.com/become-a-meme-wizard-with-these-9gag-strategies-for-2024/"><u>Become a Meme Wizard with These 9GAG Strategies for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-strategies-and-hacks-mastering-subway-surfers-top-10-ways/"><u>Best Strategies & Hacks: Mastering 'Subway Surfers' Top 10 Ways</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-world-of-artificial-intelligence-explore-these-15-complimentary-self-paced-courses-from-lifewire/"><u>Discover the World of Artificial Intelligence: Explore These 15 Complimentary, Self-Paced Courses From Lifewire</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-latest-in-pc-gear-with-toms-hardware-guides/"><u>Exploring the Latest in PC Gear with Tom's Hardware Guides</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-idea-to-book-a-guide-to-chatgpt-and-poetic-creation/"><u>From Idea to Book: A Guide to ChatGPT and Poetic Creation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-pdhdll-not-found-or-missing-errors/"><u>How to Fix Pdh.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 5G Phones with/without a PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-the-complete-fix-for-a-missing-processor-coprocessor-in-windows-tenth/"><u>Resolved! The Complete Fix for a Missing Processor Coprocessor in Windows Tenth</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-integration-of-google-home-into-your-pc-routine/"><u>Seamless Integration of Google Home Into Your PC Routine</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-error-in-moderation-issue-with-chatgpt-a-step-by-step-guide/"><u>Solving the 'Error in Moderation' Issue with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-finest-budget-friendly-photo-processors-online-for-2024/"><u>The Finest Budget-Friendly Photo Processors Online for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-netflix-screen-broadcasting-techniques/"><u>The Ultimate Tutorial on Netflix Screen Broadcasting Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722857388809-troubleshooting-steps-resolving-client-and-server-side-vpn-error-code-800/"><u>Troubleshooting Steps: Resolving Client & Server-Side VPN Error Code 800</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-comprehensive-list-of-trending-pop-tracks-for-cinematic-videos-2024-selection/"><u>Updated Comprehensive List of Trending Pop Tracks for Cinematic Videos (2024 Selection)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/updating-your-chromecast-a-step-by-step-guide-to-personalizing-the-wallpaper/"><u>Updating Your Chromecast: A Step-by-Step Guide to Personalizing the Wallpaper</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/videdit-mac/"><u>VidEdit Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comparative-journey-through-the-top-10-tv-streamers/"><u>[Updated] A Comparative Journey Through the Top 10 TV Streamers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>[Updated] Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-your-watch-experience-with-faster-instagram-videos/"><u>2024 Approved Enhance Your Watch Experience with Faster Instagram Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-inserting-tracks-in-youtube-playlists/"><u>2024 Approved Step-by-Step Inserting Tracks in YouTube Playlists</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bridging-operating-systems-a-comprehensive-guide-to-executing-android-apps-on-windows-10/"><u>Bridging Operating Systems: A Comprehensive Guide to Executing Android Apps on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-platforms-for-movie-streaming-and-download/"><u>Discover the Best Free Platforms for Movie Streaming and Download</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-listings-for-easy-access-to-youtube-intro-files/"><u>Essential Listings for Easy Access to YouTube Intro Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-update-detailed-breakdown-of-googles-newest-pixel-tab-release-and-advanced-specifications/"><u>Exclusive Update: Detailed Breakdown of Google's Newest Pixel Tab Release & Advanced Specifications</u></a></li>
+<li><a href="https://article-tips.techidaily.com/harness-the-power-of-mematic-for-notes/"><u>Harness the Power of Mematic for Notes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-v27-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo V27 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/julys-ultimate-list-of-gratis-disk-defraggers-ranking-the-top-12/"><u>July's Ultimate List of Gratis Disk Defraggers: Ranking the Top 12</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dpkgresourcelifecycleerror-how-to-correctly-resolve-dgbotdll-file-absent-issues/"><u>Solving the Dpkg_resource_lifecycle_error: How to Correctly Resolve dgBot.dll File Absent Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-essential-factors-to-evaluate-when-purchasing-your-new-desktop-computer/"><u>Top 8 Essential Factors to Evaluate When Purchasing Your New Desktop Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tip-fixing-the-video-cannot-load-error-code-224003/"><u>Troubleshooting Tip: Fixing the 'Video Cannot Load - Error Code 224003'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-pairing-your-samsung-earbuds-with-a-pc/"><u>Ultimate Guide: Pairing Your Samsung Earbuds with a PC</u></a></li>
 </ul></div>
 

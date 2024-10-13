@@ -1,7 +1,7 @@
 ---
 title: "Windows-Friendly iMessage Tips: Mastering Texts, Photos, Video Chats - Advice"
-date: 2024-10-04T20:06:58.499Z
-updated: 2024-10-07T16:13:36.909Z
+date: 2024-10-10T17:18:44.385Z
+updated: 2024-10-13T16:28:46.891Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -62,13 +55,6 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -86,24 +72,18 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -125,6 +105,13 @@ Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install Intel Unison
 
 To use Intel Unison, download and install the app from [the Microsoft Store](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26).
@@ -132,6 +119,13 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -152,10 +146,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -164,18 +158,18 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,21 +207,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-host-smart-and-cheap-your-guide-to-youtube-seminars/"><u>2024 Approved Host Smart and Cheap Your Guide to Youtube Seminars</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-beginners-tutorial-to-activating-and-using-2fa-feature-in-twitch-platform/"><u>A Beginner's Tutorial to Activating and Using 2FA Feature in Twitch Platform</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/breaking-down-knack-innovation-in-gaming-characters-vs-standard-game-plots/"><u>Breaking Down Knack: Innovation in Gaming Characters Vs. Standard Game Plots</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tactics-for-playing-pokemon-games-on-iphoneipad/"><u>Expert Tactics for Playing Pokémon Games on iPhone/iPad</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-tiers-of-royal-match-a-comprehensive-guide/"><u>Exploring the Tiers of 'Royal Match' - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-disabling-tailored-content-feed-for-you-on-instagram/"><u>Guide to Disabling Tailored Content Feed for You on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-apple-ios-update-in-iphones-could-expose-you-learn-to-hide-your-device-from-unwanted-attention-zdnet/"><u>How Apple iOS Update in iPhones Could Expose You: Learn To Hide Your Device From Unwanted Attention | ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-14-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 14 Pro | Stellar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100i-power-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo Y100i Power 5G Phone Without Password?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-activating-setup-mode-on-your-amazon-echo-dot/"><u>Step-by-Step Guide: Activating Setup Mode on Your Amazon Echo Dot</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/tout-savoir-pour-compresser-votre-video-en-ligne-gratuitement-methodes-rapides-et-efficaces/"><u>Tout Savoir Pour Compresser Votre Vidéo en Ligne Gratuitement - Méthodes Rapides Et Efficaces</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-enhancing-video-clarity-step-by-step/"><u>Ultimate Guide: Enhancing Video Clarity Step-by-Step</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-fixing-the-most-common-wireless-access-point-mistakes/"><u>Ultimate Guide: Fixing the Most Common Wireless Access Point Mistakes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-functionality-of-google-hangouts/"><u>Understanding the Functionality of Google Hangouts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722877614324-unstuck-from-a-frozen-screen-heres-how-to-revitalize-your-chromebook/"><u>Unstuck From a Frozen Screen? Here's How to Revitalize Your Chromebook</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-speed-vs-style-a-comprehensive-guide-to-tp-link-av200n-powerline-adapter/"><u>Unveiling Speed Vs. Style: A Comprehensive Guide to TP-Link AV200n Powerline Adapter</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-eye-catching-effects-top-10-editing-wonders-on-tiktok/"><u>[New] In 2024, Eye-Catching Effects Top 10 Editing Wonders on TikTok</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-attract-more-viewers-crafting-impressive-youtube-description-with-custom-templates/"><u>[Updated] 2024 Approved Attract More Viewers Crafting Impressive Youtube Description with Custom Templates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-subreddit-landscape-a-step-by-step-approach-for-2024/"><u>[Updated] Navigating the Subreddit Landscape A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfecting-your-winning-game-recording-strategy-on-w11-for-2024/"><u>[Updated] Perfecting Your Winning Game Recording Strategy on W11 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-subscriber-supremacy-youtubes-front-runners/"><u>[Updated] Subscriber Supremacy YouTube's Front-Runners</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-navigating-net-neutrality/"><u>A Comprehensive Guide to Navigating Net Neutrality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beat-the-bug-expert-advice-on-fixing-microsofts-error-code-0x80004005/"><u>Beat the Bug: Expert Advice on Fixing Microsoft's Error Code 0X80004005</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/blackout-blues-brighten-up-your-android-phones-display-with-these-fixes/"><u>Blackout Blues? Brighten Up Your Android Phone's Display with These Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-you-stream-music-together-on-spotify-in-real-time/"><u>Can You Stream Music Together on Spotify in Real-Time?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/home-entertainers-handbook-tips-for-planning-and-executing-an-epic-singalong-party-at-home/"><u>Home Entertainer's Handbook: Tips for Planning and Executing an Epic Singalong Party at Home</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-connect-an-apple-homepod-speaker-to-your-tv-unit/"><u>How To Seamlessly Connect An Apple HomePod Speaker to Your TV Unit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nubia-z50-ultra-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nubia Z50 Ultra Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-x9b-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor X9b Device</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intelligent-device-enhancement-through-intel-82579lm-driver-updates/"><u>Intelligent Device Enhancement Through Intel 82579LM Driver Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revitalize-your-ipad-a-users-manual-for-complete-device-reinitialization-across-various-models/"><u>Revitalize Your iPad: A User's Manual for Complete Device Reinitialization Across Various Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-most-reliable-encrypted-email-providers/"><u>Top 5 Most Reliable Encrypted Email Providers</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-7-locations-for-finding-and-downloading-free-kindle-wallpapers/"><u>Top 7 Locations for Finding & Downloading Free Kindle Wallpapers</u></a></li>
 </ul></div>
 
