@@ -1,7 +1,7 @@
 ---
 title: "Professional Insight: Microsoft Surface Pro 8 Evaluation - Tech Perspectives"
-date: 2024-10-05T20:37:52.695Z
-updated: 2024-10-07T19:12:50.362Z
+date: 2024-10-16T16:44:37.073Z
+updated: 2024-10-19T16:49:09.171Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -70,13 +77,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -93,6 +93,13 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -100,6 +107,13 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -126,6 +140,19 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -148,13 +175,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -167,21 +187,7 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -220,17 +226,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-breakdown-of-how-youtube-ad-revenue-works-cpm/"><u>[New] Breakdown of How YouTube Ad Revenue Works (CPM)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark/"><u>2024 Approved Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-battery-selection-guide-for-uavs/"><u>2024 Approved The Ultimate Battery Selection Guide for UAVs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pefpng-movavi/"><u>直接在線上自由轉Pef格式為png - Movavi的高效工具選擇</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-enhanced-development-your-blueprint-to-build-a-chatgpt-powered-web-site/"><u>AI-Enhanced Development: Your Blueprint to Build a ChatGPT-Powered Web Site</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-bargains-on-electronics-ipad-mini-and-4k-televisions-among-top-savings/"><u>Best Bargains on Electronics: IPad Mini & 4K Televisions Among Top Savings!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-konvertereen-van-m4a-naar-swf-professioneel-onlinedienst-by-movavi/"><u>Gratis Konvertereen Van M4A Naar SWF: Professioneel Onlinedienst by Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-itel-a60-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Itel A60 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-veiligheid-beoordeeld-professioneel-veiligheidssoftware-en-oplegsel/"><u>Movavi Veiligheid Beoordeeld: Professioneel Veiligheidssoftware en Oplegsel</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-mp3/"><u>Online 무료 MP3 영상을 오디오파일로 전환하세요 - 모바비</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/os-principais-programas-de-animacao-2d-em-2024-selecao-atualizada-do-movavi-com-12-opcoes-destacadas/"><u>Os Principais Programas De Animação 2D Em 2024: Seleção Atualizada Do Movavi Com 12 Opções Destacadas</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/speedy-solutions-correcting-sound-playback-errors-in-no-time/"><u>Speedy Solutions: Correcting Sound-Playback Errors in No Time</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-podcast-release-schedules-for-2024/"><u>[New] Mastering Podcast Release Schedules for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-virtual-spaces-easily-with-this-list-of-free-online-tools-for-2024/"><u>[Updated] Navigating Virtual Spaces Easily With This List of Free Online Tools for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cross-platform-tips-viewing-apples-pages-documents-on-your-pc/"><u>Cross-Platform Tips: Viewing Apple's Pages Documents on Your PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-exceptional-value-the-lenovo-tab-m10-fhdplus-2020-review-spectacular-screen-unbeatable-budget/"><u>Discover Exceptional Value: The Lenovo Tab M10 FHD+ (2020) Review - Spectacular Screen, Unbeatable Budget</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-watchlist-celebrating-pride-with-top-lgbtq-shows-on-netflix-this-july/"><u>Essential Watchlist: Celebrating Pride with Top LGBTQ Shows on Netflix This July</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expand-picture-size-maintain-original-quality-for-2024/"><u>Expand Picture Size - Maintain Original Quality for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-inner-workings-of-oled-displays-explained/"><u>Exploring the Inner Workings of OLED Displays Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-legally-watch-netflix-flicks-offline-on-your-laptop-device/"><u>How to Legally Watch Netflix Flicks Offline on Your Laptop Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-facebook-image-search/"><u>How to Use Facebook Image Search</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-motorola-edge-40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Motorola Edge 40 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lighter-browsing-experience-on-the-desktop-top-7-test-results/"><u>Lighter Browsing Experience on the Desktop: Top 7 Test Results</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/micromobility-sphere-update-major-milestones-current-news-chat-and-additional-facts/"><u>Micromobility Sphere Update: Major Milestones, Current News, Chat and Additional Facts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mouthwatering-moments-the-hottest-tiktok-food-videos-for-the-modern-kitchen-aficionado-for-2024/"><u>Mouthwatering Moments The Hottest TikTok Food Videos for the Modern Kitchen Aficionado for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reliable-hard-drive-care-with-western-digitals-data-lifeguard-a-user-friendly-review/"><u>Reliable Hard Drive Care with Western Digital's Data Lifeguard - A User-Friendly Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-0x800713f-mail-glitch/"><u>Resolving Windows' 0X800713F Mail Glitch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solve-your-iphones-focusing-issues-top-fixes-you-need/"><u>Solve Your iPhone's Focusing Issues: Top Fixes You Need</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-window-11-slow-to-shutdown-dilemma/"><u>Troubleshooting the Window 11 Slow-to-Shutdown Dilemma</u></a></li>
 </ul></div>
 

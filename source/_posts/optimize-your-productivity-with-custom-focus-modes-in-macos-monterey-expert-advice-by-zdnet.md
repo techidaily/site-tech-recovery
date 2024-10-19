@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Productivity with Custom Focus Modes in macOS Monterey | Expert Advice by ZDNET
-date: 2024-10-04T16:49:58.483Z
-updated: 2024-10-07T18:30:07.196Z
+date: 2024-10-18T16:15:41.486Z
+updated: 2024-10-19T16:34:37.418Z
 tags:
   - apple
 categories:
@@ -28,16 +28,16 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -46,19 +46,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -69,10 +56,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -91,6 +78,13 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -106,10 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -154,18 +148,21 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-secure-5-insta-story-watchers-selection-for-2024/"><u>[New] Secure 5 Insta Story-Watchers' Selection for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-unlocking-the-potential-twitter-to-snapchat-video-exchange/"><u>[New] Unlocking the Potential Twitter to Snapchat Video Exchange</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/direct-access-beholding-olympic-glory-in-real-time-during-2024-games/"><u>Direct Access: Beholding Olympic Glory in Real Time During 2024 Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-7-virtual-playgrounds-the-ultimate-game-selection-for-kids/"><u>Explore These 7 Virtual Playgrounds: The Ultimate Game Selection for Kids</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-a-crash-in-forza-horizon-4-when-playing-on-pc/"><u>How to Fix a Crash in Forza Horizon 4 When Playing on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Hot 40?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/lgs-monitor-revolution-the-complete-examination-of-a-4k-screen-for-2024/"><u>LG's Monitor Revolution The Complete Examination of a 4K Screen for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/m4v-to-gif-transformation-free-of-charge-online-with-movavi-video-editor/"><u>M4V to GIF Transformation Free of Charge Online with Movavi Video Editor</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/metaverse-and-multimeva-a-comparative-study-of-features-for-2024/"><u>Metaverse and Multimeva A Comparative Study of Features for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722889613981-revealed-apples-next-gen-audio-wearable-pricing-launch-and-features-uncovered/"><u>Revealed: Apple's Next-Gen Audio Wearable - Pricing, Launch & Features Uncovered</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-bsod-what-does-blue-screen-of-death-indicate/"><u>Understanding the BSOD: What Does 'Blue Screen of Death' Indicate?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unleash-your-vision-the-premier-6-for-artists-nfts/"><u>Unleash Your Vision The Premier 6 for Artists' NFTs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-basics-of-vlogging-gear-and-software/"><u>Unveiling the Basics of Vlogging Gear & Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-silverleaf-studio-exploring-lightroom-substitutes/"><u>2024 Approved Silverleaf Studio Exploring Lightroom Substitutes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breaking-down-pcl-xl-error-fixes/"><u>Breaking Down PCL XL Error Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dragon-ball-marathon-method-how-to-experience-the-anime-from-start-to-finish/"><u>Dragon Ball Marathon Method: How to Experience the Anime From Start to Finish</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ting-engagement-best-video-ideas-for-channels/"><u>Elevating Engagement Best Video Ideas for Channels</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a05-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A05 Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-stop-0x0000001d-nospinlockavailable/"><u>How to Fix STOP 0X0000001D (NO_SPIN_LOCK_AVAILABLE)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-razer-kraken-microphone-up-and-running-again/"><u>How to Get Your Razer Kraken Microphone Up and Running Again</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-f23-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo F23 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-20-unlimited-cloud-storage-solutions-up-to-1tb/"><u>In 2024, Top 20 Unlimited Cloud Storage Solutions, Up To 1TB</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalized-computing-choices-is-building-or-shopping-for-a-new-pc-best-for-you/"><u>Personalized Computing Choices: Is Building Or Shopping For A New PC Best for You?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps5-controller-woes-fix-the-non-charging-issue-in-minutes/"><u>PS5 Controller Woes? Fix the Non-Charging Issue in Minutes!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reap-benefits-of-new-gpu-driver-for-gtx-1050-ti/"><u>Reap Benefits of New GPU Driver for GTX 1050 Ti</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rescue-your-missing-texts-comprehensive-techniques-for-every-smartphone/"><u>Rescue Your Missing Texts: Comprehensive Techniques for Every Smartphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-battle-of-apple-tabs-analyzing-the-contrasts-between-ipad-mini-and-ipad-air/"><u>The Battle of Apple Tabs: Analyzing the Contrasts Between iPad Mini & iPad Air</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshoot-flaky-airdrop-links-simple-steps-to-solutions-for-2024/"><u>Troubleshoot Flaky AirDrop Links Simple Steps to Solutions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-resolving-missing-mscorwksdll-error-messages/"><u>Troubleshooting Tips for Resolving ‘Missing mscorwks.dll’ Error Messages</u></a></li>
 </ul></div>
 

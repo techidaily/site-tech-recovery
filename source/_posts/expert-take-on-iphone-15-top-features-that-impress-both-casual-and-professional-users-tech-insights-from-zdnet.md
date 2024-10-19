@@ -1,7 +1,7 @@
 ---
 title: "Expert Take on iPhone 15: Top Features That Impress Both Casual and Professional Users - Tech Insights From ZDNet"
-date: 2024-10-03T17:51:53.693Z
-updated: 2024-10-07T17:36:14.720Z
+date: 2024-10-15T16:58:20.600Z
+updated: 2024-10-19T16:32:21.843Z
 tags:
   - apple
 categories:
@@ -46,16 +46,16 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -74,10 +74,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -141,10 +141,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -161,13 +161,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -183,6 +176,13 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -218,24 +218,22 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/como-se-transforma-un-video-mkv-en-formato-hd-m2ts-sin-gastar-ni-un-centavo-guia-detallada/"><u>¿Cómo Se Transforma Un Video MKV en Formato HD M2TS Sin Gastar Ni Un Centavo: Guía Detallada</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-speaking-into-the-future-iphone-recordings/"><u>[New] 2024 Approved Speaking Into the Future - iPhone Recordings</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-unleashing-full-potential-of-zoom-with-chromebook/"><u>[New] 2024 Approved Unleashing Full Potential of Zoom with Chromebook</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-comparing-messaging-services-discord-versus-skype-revealed-for-2024/"><u>[Updated] Comparing Messaging Services Discord Versus Skype Revealed for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/aerial-visual-flux-free-lutts-for-dji-drones-then-pay-upgrade-for-2024/"><u>Aerial Visual Flux Free LUTTs for DJI Drones, Then Pay Upgrade for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/baixar-conversor-de-qt-para-gif-online-gratuito-movavi/"><u>Baixar Conversor De Qt Para GIF Online Gratuito - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eenvoudig-online-konverteren-van-alaw-naar-wav-met-movavi-gratuit/"><u>Eenvoudig Online Konverteren Van ALAW Naar WAV Met Movavi - Gratuit!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/electrodiagnostic-studies-including-electromyography-emg-and-nerve-conduction-velocity-ncv-are-used-to-diagnose-the-extent-and-location-of-ulnar-nerve-injur47/"><u>Electrodiagnostic Studies, Including Electromyography (EMG) and Nerve Conduction Velocity (NCV), Are Used to Diagnose the Extent and Location of Ulnar Nerve Injuries.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-find-and-install-the-correct-drivers-for-hp-laserjet-pro-m402n-on-a-windows-machine-a-comprehensive-guide/"><u>How to Find and Install the Correct Drivers for HP LaserJet Pro M402n on a Windows Machine - A Comprehensive Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-12-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi 12 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-dynamic-filters-transform-your-videos-digitally/"><u>In 2024, Implementing Dynamic Filters Transform Your Videos Digitally</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/creen-recording-tool-for-successful-youtubers/"><u>Pro Screen Recording Tool for Successful YouTubers</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rotando-videos-en-formatos-mp4-y-mov-con-eficacia-guia-de-moviavi/"><u>Rotando Vídeos en Formatos MP4 Y MOV Con Eficacia: Guía De MoviAVI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-making-your-videos-playable-on-itunes-using-movavi-video-converter-tools/"><u>Step-by-Step Tutorial: Making Your Videos Playable on iTunes Using Movavi Video Converter Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/titre-expert-en-retouches-photo-movavi-achetez-maintenant/"><u>Titre : Expert en Retouches Photo Movavi - Achetez Maintenant</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-21-essential-educational-tech-gadgets-and-apps-for-modern-instructors/"><u>Top 21 Essential Educational Tech Gadgets & Apps for Modern Instructors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225213776-wmaogg-movavi/"><u>オンラインで使いやすい WMA/Oggファイルの免費変換 - Movavi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>[Updated] 2024 Approved Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-explore-nature-on-android-best-animal-simulation-games/"><u>[Updated] In 2024, Explore Nature on Android Best Animal Simulation Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-integrating-visual-cues-a-guide-to-videography-annotations/"><u>[Updated] In 2024, Integrating Visual Cues A Guide to Videography Annotations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-walkthrough-on-reinitializing-your-latest-iphone-model-xs/"><u>A Comprehensive Walkthrough on Reinitializing Your Latest iPhone Model (Xs)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-right-voice-ai-alexa-vs-google-assistant/"><u>Choosing the Right Voice AI: Alexa Vs. Google Assistant</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-to-fixing-undetected-external-display-by-a-mac-computer/"><u>DIY Guide to Fixing Undetected External Display by a Mac Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009226723-fix-the-mordhau-game-crash-problem-with-these-simple-steps/"><u>Fix the Mordhau Game Crash Problem with These Simple Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-setting-up-your-apple-watch-with-gmail-integration/"><u>Guide: Setting up Your Apple Watch with Gmail Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-dts-play-fi-revolutionize-your-home-audio-experience/"><u>How Does DTS Play-Fi Revolutionize Your Home Audio Experience?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone X, Apples New iPhone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-a18-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo A18 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-cache-removal-on-your-android-phone-or-tablet/"><u>Mastering the Art of Cache Removal on Your Android Phone or Tablet</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-4k-video-editors-for-creators-for-2024/"><u>New Best 4K Video Editors for Creators for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-the-not-found-rockalldlldll-file-problem/"><u>Step-by-Step Guide: Correcting the Not Found 'Rockalldll.dll File' Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-smartwatch-functions-and-features/"><u>The Ultimate Guide to Smartwatch Functions & Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-latest-innovation-a-comprehensive-guide-to-the-features-of-the-airpods-pro-and-max/"><u>Unveiling Apple's Latest Innovation: A Comprehensive Guide to the Features of the AirPods Pro & Max</u></a></li>
 </ul></div>
 

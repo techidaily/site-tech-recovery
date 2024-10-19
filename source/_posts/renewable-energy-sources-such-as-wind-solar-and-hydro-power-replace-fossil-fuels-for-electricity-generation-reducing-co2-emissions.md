@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2024-10-11T17:21:59.952Z
-updated: 2024-10-13T16:07:20.136Z
+date: 2024-10-13T16:03:28.197Z
+updated: 2024-10-19T16:03:21.305Z
 tags:
   - apple
 categories:
@@ -29,6 +29,13 @@ Ever since, those attributes have defined all smartphones, save for one common s
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -76,19 +83,6 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2010: Smartphones meet narcism, a match made in heaven
 
 Smartphones have evolved with a cadence we're all familiar with. Each year, new capabilities have been added and features improved. Cameras evolved from 3.0MP cameras to 48-50MP monsters like the [iPhone 15 Pro Max](https://www.zdnet.com/article/should-you-buy-an-iphone-15-heres-how-my-wife-and-i-are-deciding/), [Google Pixel 8](https://www.zdnet.com/article/pixel-8-pro-vs-pixel-7-pro/), [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and [Asus ROG Phone 8](https://rog.asus.com/articles/smartphones/the-rog-phone-8-and-rog-phone-8-pro-beyond-gaming-with-a-slim-new-design/).
@@ -110,10 +104,10 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
@@ -142,6 +136,13 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -157,10 +158,10 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Object knowledge
@@ -204,19 +205,6 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -274,16 +262,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-free-image-transformation-the-best-smartphone-editing-aids-unveiled/"><u>[New] Free Image Transformation The Best Smartphone Editing Aids Unveiled</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-chucklecircuit-meme-studio-free-download/"><u>[New] In 2024, ChuckleCircuit Meme Studio (Free Download!)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-transforming-industries-with-virtual-reality-applications/"><u>[Updated] Transforming Industries with Virtual Reality Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-resolving-a-whea-unrecoverable-fault/"><u>Complete Guide: Resolving a WHEA Unrecoverable Fault</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-error-code-0x80n070570-expert-guide-on-troubleshooting-and-fix/"><u>Decoding Error Code 0X80n070570: Expert Guide on Troubleshooting and Fix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminate-mingwm10dll-missing-errors-with-these-effective-techniques/"><u>Eliminate Mingwm10.dll Missing Errors with These Effective Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-and-repair-normalizdll-not-found-error-in-windows/"><u>How to Resolve and Repair 'Normaliz.dll Not Found' Error in Windows</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-punpictures-pro-jestjokes-network/"><u>In 2024, PunPictures Pro JestJokes Network</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/perfecting-your-youtube-videos-for-igtv-integration-for-2024/"><u>Perfecting Your Youtube Videos for IGTV Integration for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resetting-your-newx-account-a-step-by-step-guide/"><u>Resetting Your NewX Account: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-networks-future-tracing-a-possible-rebrand/"><u>Social Network's Future: Tracing a Possible Rebrand</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-webcam-video-production-record-edit-and-export-guide/"><u>[New] In 2024, Webcam Video Production Record, Edit & Export Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-safeguarding-your-digital-footprint-on-youtube/"><u>[Updated] In 2024, Safeguarding Your Digital Footprint on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-soloists-path-to-trending-podcasts/"><u>2024 Approved The Soloist's Path to Trending Podcasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ehensive-list-of-top-9-free-video-channel-branding-aids-for-2024/"><u>Comprehensive List of Top 9 Free Video Channel Branding Aids for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-sound-card-drivers-with-simple-steps/"><u>Download & Update Sound Card Drivers with Simple Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-screen-capture-techniques-for-your-toshiba-laptop-a-step-by-step-guide/"><u>Effortless Screen Capture Techniques for Your Toshiba Laptop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-skyrim-adventure-revolutionary-frame-rate-boosting-update-launched/"><u>Elevate Your Skyrim Adventure: Revolutionary Frame Rate Boosting Update Launched</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-checking-and-updating-graphics-card-driver-versions-with-nvidia/"><u>Expert Tips for Checking & Updating Graphics Card Driver Versions with NVIDIA</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fast-track-windows-os-version-identification-guide/"><u>Fast Track Windows OS Version Identification Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-oculus-air-link-up-and-running-again-on-windows-step-by-step-fix/"><u>Getting Oculus Air Link Up and Running Again on Windows - Step-by-Step Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-clear-cache-on-windows-11/"><u>How to Clear Cache on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-connect-bluetooth-headphones-to-windows-11-pc/"><u>How to Connect Bluetooth Headphones to Windows 11 PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/influencer-impact-covid-misinformation-spread/"><u>Influencer Impact: Covid Misinformation Spread</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unveiling-the-mysteries-of-data-recovery-with-totan-at-stellar/"><u>Unveiling the Mysteries of Data Recovery with Totan at Stellar</u></a></li>
 </ul></div>
 

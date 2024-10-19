@@ -1,7 +1,7 @@
 ---
 title: "Battle of the Smartwatch Giants: Assessing the Pros and Cons of Samsung's Ultra Vs. Apple's Ultra – Making an Informed Purchase Decision with ZDNET"
-date: 2024-10-12T16:42:51.096Z
-updated: 2024-10-13T17:27:59.958Z
+date: 2024-10-13T16:12:34.936Z
+updated: 2024-10-19T16:51:16.366Z
 tags:
   - apple
 categories:
@@ -29,10 +29,16 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -96,10 +102,10 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,10 +119,10 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -153,20 +159,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ackle-typical-youtube-short-challenges-for-2024/"><u>[New] Tackle Typical YouTube Short Challenges for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-virtual-reality-games-oculus-vs-htc-vive-vs-playstation-vr-showdown/"><u>2024 Approved Top Virtual Reality Games Oculus vs HTC Vive vs PlayStation VR Showdown</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazon-prime-day-2024-a-comprehensive-guide-top-tips-and-insights/"><u>Amazon Prime Day 2024: A Comprehensive Guide - Top Tips and Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-access-and-enjoy-3d-movie-nights-with-fandango-right-in-the-comfort-of-your-living-room/"><u>How to Access and Enjoy 3D Movie Nights with Fandango, Right in the Comfort of Your Living Room</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-recover-deleted-mobile-numbers-from-your-android-device/"><u>How to Recover Deleted Mobile Numbers From Your Android Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-sony-xperia-10-v-by-fonelab-android-recover-data/"><u>How to recover lost data from Sony Xperia 10 V?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-zte-blade-a73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on ZTE Blade A73 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-topmusicreactionvids-yt-celebrity-highlights-2023/"><u>In 2024, TopMusicReactionVids YT Celebrity Highlights, 2023</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722875047394-iphone-or-android-a-comprehensive-guide-to-selecting-your-next-smartphone/"><u>IPhone or Android? A Comprehensive Guide to Selecting Your Next Smartphone.</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ring-video-captioning-on-youtube/"><u>Mastering Video Captioning on YouTube</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/missing-pages-alert-understanding-the-http-404-error/"><u>Missing Pages Alert: Understanding the HTTP 404 Error</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/razer-kiyo-webcam-review/"><u>Razer Kiyo Webcam Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-save-netflix-videos-onto-your-laptop/"><u>Step-by-Step: Save Netflix Videos Onto Your Laptop</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-the-most-outstanding-movies-on-disneyplus-today/"><u>Top Picks: The Most Outstanding Movies on Disney+ Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-11-user-manual-how-to-deactivate-the-built-in-news-widget/"><u>Windows 11 User Manual: How to Deactivate the Built-In News Widget</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instagrams-sideways-video-phenomenon-investigation-required/"><u>[New] Instagram's Sideways Video Phenomenon - Investigation Required</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-corsair-keyboard-software-and-drivers-for-windows-free-and-secure/"><u>Download Corsair Keyboard Software & Drivers for Windows - Free and Secure</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-conversion-techniques-for-changing-flv-videos-to-playable-xbox-types-mp4avimpegwmv/"><u>Easy Conversion Techniques for Changing FLV Videos to Playable Xbox Types (MP4/AVI/MPEG/WMV)</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-apple-iphone-xs-max-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Fake GPS On Apple iPhone XS Max For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nokia-xr21-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nokia XR21 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-urdu-mastery-daily-click-here/"><u>Quick Urdu Mastery Daily – Click Here!</u></a></li>
+<li><a href="https://facebook.techidaily.com/reclaiming-social-data-downloading-every-post-like-share/"><u>Reclaiming Social Data: Downloading Every Post, Like, Share</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-updating-your-atheros-wifi-network-adapter-on-windows-10/"><u>Step-by-Step Guide: Updating Your Atheros WiFi Network Adapter on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-how-to-turn-off-sticky-keys-functionality-in-windows-10-pictorial-guide/"><u>Step-by-Step Tutorial: How to Turn Off Sticky Keys Functionality in Windows 10 (Pictorial Guide)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sync-settings-across-devices-on-windows-11/"><u>Sync Settings Across Devices on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-manual-to-hxtsrexe-errors-in-windows-10-diagnosis-and-solutions-explored/"><u>The Insider's Manual to HxTsr.exe Errors in Windows 10 - Diagnosis and Solutions Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-non-responsive-keyboard-buttons-under-windows-os/"><u>The Ultimate Fix for Non-Responsive Keyboard Buttons Under Windows OS</u></a></li>
 </ul></div>
 

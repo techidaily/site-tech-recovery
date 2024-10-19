@@ -1,7 +1,7 @@
 ---
 title: Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet
-date: 2024-10-07T17:33:32.061Z
-updated: 2024-10-13T16:09:45.721Z
+date: 2024-10-13T16:47:41.646Z
+updated: 2024-10-19T17:18:20.533Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,18 +131,18 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ecoding-youtubes-5-second-tales/"><u>[New] Decoding YouTube's 5-Second Tales</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-leveraging-video-conferencing-a-guide-to-zipping-up-zoom-and-gmail-integration/"><u>[New] In 2024, Leveraging Video Conferencing A Guide to Zipping Up Zoom and Gmail Integration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-restoring-functionality-to-your-computers-media-drives/"><u>Expert Advice: Restoring Functionality to Your Computer's Media Drives</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-fixed-frames-to-dynamic-circles-in-videos/"><u>From Fixed Frames to Dynamic Circles in Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/"><u>Get Clarity Back in Photos: How To Repair iPhone Camera Focusing Problems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-elevate-your-playthroughs-secrets-of-ps3-video-capture/"><u>In 2024, Elevate Your Playthroughs Secrets of PS3 Video Capture</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-14-plus-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 14 Plus With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-wearables-a-buyers-guide-with-five-crucial-points-for-smartwatches/"><u>Navigating the World of Wearables: A Buyer's Guide with Five Crucial Points for Smartwatches</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-a24-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy A24 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/streamline-your-videos-5-best-free-compression-apps-for-ios-devices/"><u>Streamline Your Videos 5 Best Free Compression Apps for iOS Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-essential-factors-you-need-to-know-before-investing-in-a-smart-tv/"><u>Top 7 Essential Factors You Need to Know Before Investing in a Smart TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-windows-11-shutdown/"><u>Troubleshooting Tips: Resolving Issues with Windows 11 Shutdown</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unbeatable-apple-watch-offers-dont-miss-out-on-savings/"><u>Unbeatable Apple Watch Offers - Don't Miss Out on Savings!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-asmr-channel-discoveries/"><u>[Updated] In 2024, Essential ASMR Channel Discoveries</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-viral-verdict-twitters-top-10-threads-for-2024/"><u>[Updated] The Viral Verdict Twitter's Top 10 Threads for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-brief-look-into-netflixs-journey-from-physical-media-delivery-to-digital-streaming/"><u>A Brief Look Into Netflix's Journey From Physical Media Delivery to Digital Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/alternative-methods-to-view-programming-on-the-roku-platform-no-physical-player-required/"><u>Alternative Methods to View Programming on The Roku Platform, No Physical Player Required</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-online-movie-libraries-the-ultimate-list/"><u>Discover the Best Free Online Movie Libraries: The Ultimate List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-resolving-failed-to-set-user-settings-for-drivers-quickly-and-effectively/"><u>Expert Advice: Resolving 'Failed to Set User Settings for Drivers' Quickly and Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902235715-how-to-get-rid-of-pin-based-login-from-windows-11-detailed-steps-inside/"><u>How to Get Rid of Pin-Based Login From Windows 11 - Detailed Steps Inside!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y77t-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y77t Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-phone-stores-find-your-perfect-mobile-device/"><u>Top Phone Stores: Find Your Perfect Mobile Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-images-into-dynamic-visual-stories/"><u>Transform Your Images Into Dynamic Visual Stories</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-zte-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change ZTE IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

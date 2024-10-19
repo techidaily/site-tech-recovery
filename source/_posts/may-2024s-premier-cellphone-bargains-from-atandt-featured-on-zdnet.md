@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2024-10-08T17:13:01.285Z
-updated: 2024-10-13T17:08:54.649Z
+date: 2024-10-15T16:44:27.073Z
+updated: 2024-10-19T17:15:12.683Z
 tags:
   - apple
 categories:
@@ -130,6 +130,13 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -139,13 +146,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [AT&T 15W wireless charging pad: $10 (save $19) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html)
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
 
@@ -157,43 +157,43 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -244,19 +244,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-apex-legends-solo-strategies-mastering-one-platform-at-a-time/"><u>[New] Apex Legends Solo Strategies Mastering One Platform at a Time</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unveil-the-secrets-of-successful-fb-strategies-in-these-top-15-insight-tools/"><u>[New] Unveil the Secrets of Successful FB Strategies in These Top 15 Insight Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-max-360-vs-hero-11-gopro-cameras-face-off-for-2024/"><u>[Updated] Max 360 Vs. Hero 11 - GoPro Cameras Face Off for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-4k-leading-blu-ray-players-compared/"><u>2024 Approved Excellence in 4K Leading Blu-Ray Players Compared</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-supreme-4k-display-selection-the-best-of-ten/"><u>2024 Approved Supreme 4K Display Selection The Best of Ten</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-ussd-the-role-and-functions-of-unstructured-supplementary-service-data-in-telecommunications/"><u>Deciphering USSD - The Role and Functions of Unstructured Supplementary Service Data in Telecommunications</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lenovo-thinkphone-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Lenovo ThinkPhone PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-firmware-update-for-epson-wf-3620-download-and-installation-guide-for-windows-11-8-and-7-users/"><u>Latest Firmware Update for Epson WF-3620: Download and Installation Guide for Windows 11, 8 & 7 Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-a79-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A79 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-pairing-your-laptop-with-wireless-speakers/"><u>Step-by-Step Tutorial on Pairing Your Laptop with Wireless Speakers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tips-for-increasing-your-number-of-insta-followers-quickly/"><u>Tips for Increasing Your Number of Insta-Followers Quickly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/travel-tech-essentials-utilizing-roku-for-hotel-or-school-wi-fi-networks/"><u>Travel Tech Essentials: Utilizing Roku for Hotel or School Wi-Fi Networks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-no-sound-issues-with-your-stereo-receiver/"><u>Troubleshooting Tips: Resolving No-Sound Issues with Your Stereo Receiver</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/which-phone-operating-system-suits-you-best-iphone-vs-android-showdown/"><u>Which Phone Operating System Suits You Best? IPhone vs Android Showdown.</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pioneering-innovative-webcam-functions/"><u>[New] 2024 Approved Pioneering Innovative Webcam Functions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-writes-best-mac-software-for-screen-capture/"><u>[New] In 2024, Expert' Writes Best Mac Software for Screen Capture</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-best-tales-for-youtube-triumph-top-3-strategies/"><u>[Updated] Best Tales for YouTube Triumph Top 3 Strategies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-infinite-recorders-without-bounds-for-2024/"><u>[Updated] Infinite Recorders Without Bounds for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-dvr-technology-unveiling-digital-video-recorders-secrets/"><u>All About DVR Technology: Unveiling Digital Video Recorders' Secrets</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/beyond-the-limits-how-starlink-satellites-can-transform-your-life/"><u>Beyond The Limits: How Starlink Satellites Can Transform Your Life</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/comment-redemarrer-un-ordinateur-sous-windows-11-sans-que-le-pc-se-demarre-a-partir-du-cd-4-solutions-efficaces/"><u>Comment Redémarrer Un Ordinateur Sous Windows 11 Sans Que Le PC Se Démarre À Partir Du CD : 4 Solutions Efficaces</u></a></li>
+<li><a href="https://fox-info.techidaily.com/concentrate-on-core-affinity-photo-trick-for-2024/"><u>Concentrate on Core - Affinity Photo Trick for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-mobile-to-tv-mastering-the-setup-of-disney-plus-streaming-through-chromecast/"><u>From Mobile to TV: Mastering the Setup of Disney + Streaming Through Chromecast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-you-secure-an-official-verified-emblem-on-instagram/"><u>How Can You Secure an Official Verified Emblem on Instagram?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-meta-transforms-technology-with-advanced-ai-solutions/"><u>How Meta Transforms Technology with Advanced AI Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-remove-stickers-from-a-tiktok-video-for-2024/"><u>How To Remove Stickers From A Tiktok Video for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-skype-call-chronicles-20plus-strategies-for-savvy-windowsmac-users/"><u>In 2024, Skype Call Chronicles 20+ Strategies for Savvy Windows/Mac Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-users-guide-setting-up-two-displays-seamlessly/"><u>Mac Users Guide: Setting Up Two Displays Seamlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902703247-multiply-the-whole-number-2-by-the-denominator-3-to-get-6/"><u>Multiply the Whole Number 2 by the Denominator 3 to Get 6.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-for-successful-downloading-of-latest-ios-update/"><u>Steps for Successful Downloading of Latest iOS Update</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-latest-on-samsung-z-fold-4-specs-revealed-expected-price-points-and-launch-date/"><u>The Latest on Samsung Z Fold 4: Specs Revealed, Expected Price Points, and Launch Date</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranked-visual-voicemail-solutions/"><u>Top-Ranked Visual Voicemail Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-toshiba-device-experience-with-the-latest-bluetooth-driver-downloads/"><u>Upgrade Your Toshiba Device Experience with the Latest Bluetooth Driver Downloads</u></a></li>
 </ul></div>
 

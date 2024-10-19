@@ -1,7 +1,7 @@
 ---
 title: Discover Innovative Functionality with iOS 18 Public Beta – The 5 Exciting Experiences Showcased
-date: 2024-10-06T18:47:31.834Z
-updated: 2024-10-07T16:36:27.439Z
+date: 2024-10-12T17:22:45.324Z
+updated: 2024-10-19T16:32:35.923Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,22 +128,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-a-comprehensive-guide-to-lut-customization-in-premiere-pro-workflows/"><u>[New] 2024 Approved A Comprehensive Guide to LUT Customization in Premiere Pro Workflows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pinnacle-20-anime-songs-to-start-with/"><u>[New] Pinnacle 20 Anime Songs to Start With</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unleashing-wealth-the-ultimate-13-step-guide-for-newbies-on-reddit/"><u>[New] Unleashing Wealth The Ultimate 13-Step Guide for Newbies on Reddit</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capture-video-perfection-in-minutes/"><u>[Updated] Capture Video Perfection in Minutes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-excellent-low-cost-webcam-snipper-app-for-2024/"><u>[Updated] Excellent Low-Cost Webcam Snipper App for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/(3-icon-tutorial-creating-digital-expressions-of-affection-with-keys/"><u><3 Icon Tutorial: Creating Digital Expressions of Affection with Keys</u></a></li>
-<li><a href="https://fox-links.techidaily.com/best-image-safekeepers-online-for-2024/"><u>Best Image Safekeepers Online for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-geforce-rtx-3060-ti-graphics-card-drivers-free-download-for-windows-11/"><u>Get the Latest GeForce RTX 3060 Ti Graphics Card Drivers [Free Download] for Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-stream-with-both-chromecast-and-fire-stick-connected-a-step-by-step-guide/"><u>How To Stream With Both Chromecast and Fire Stick Connected – A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-cloud-storage-solutions-for-your-android-device-2024-guide/"><u>Ideal Cloud Storage Solutions for Your Android Device - 2024 Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solutions-for-sudden-failures-in-car-radio-performance/"><u>Solutions for Sudden Failures in Car Radio Performance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-disabling-facebook-on-android-phones-and-tablets/"><u>Step-by-Step Tutorial: Disabling Facebook on Android Phones and Tablets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-must-have-fitness-tracker-apps-for-your-training-regime/"><u>Top 10 Must-Have Fitness Tracker Apps for Your Training Regime</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-when-you-cant-find-msstdfmtdll-on-your-pc/"><u>Troubleshooting Steps for When You Can't Find msstdfmt.dll on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-pairing-your-airpods-with-macbook-air/"><u>Ultimate Guide: Pairing Your AirPods with MacBook Air</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-sony-vr-tech-unveiled-cost-predictions-release-timeline-full-specifications-insights/"><u>Upcoming Sony VR Tech Unveiled: Cost Predictions, Release Timeline, Full Specifications Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expertise-in-apps-enhancing-video-conferencing/"><u>[Updated] 2024 Approved Expertise in Apps Enhancing Video Conferencing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-captureit-all-the-complete-screen-recorder-hack/"><u>2024 Approved CaptureIt All The Complete Screen Recorder Hack</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aerial-vehicles-deciphered-how-they-fly-and-communicate-for-2024/"><u>Aerial Vehicles Deciphered How They Fly & Communicate for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chroma-key-on-a-budget-top-free-green-screen-apps-for-android-and-ios-for-2024/"><u>Chroma Key on a Budget Top Free Green Screen Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-for-modifying-your-discord-user-pic/"><u>Complete Tutorial for Modifying Your Discord User Pic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/deciphering-the-secrets-of-itunes-video-mastery/"><u>Deciphering the Secrets of iTunes Video Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-facebooks-disappearing-dark-mode-issue-quick-and-effective-tips/"><u>Fixing Facebook's Disappearing Dark Mode Issue: Quick and Effective Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-konverteren-van-mp3-naar-webm-professioneel-video-tools-bei-movavi/"><u>Gratis Konverteren Van MP3 Naar Webm: Professioneel Vidéo-Tools Bei Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-free-up-space-by-deleting-android-cache-a-complete-guide/"><u>How to Free Up Space by Deleting Android Cache: A Complete Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-techniques-for-superior-recordings-with-audacity/"><u>Innovative Techniques for Superior Recordings with Audacity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/investigating-instances-where-facebook-marketplace-might-be-missing/"><u>Investigating Instances Where Facebook Marketplace Might Be Missing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-scanning-documents-from-your-printer-to-pc/"><u>Step-by-Step Guide: Scanning Documents From Your Printer to PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-6-digital-journals-for-your-personal-reflection/"><u>The Best 6 Digital Journals For Your Personal Reflection</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-se-2020-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone SE (2020) is not listed when I run the software? | Stellar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2024-10-07T17:38:05.014Z
-updated: 2024-10-13T16:02:02.110Z
+date: 2024-10-12T16:53:50.838Z
+updated: 2024-10-19T16:38:56.349Z
 tags:
   - apple
 categories:
@@ -37,6 +37,13 @@ This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Add the Screen Recording button to your Control Center
 
 Once you're in the Control Center section, you'll see a couple of toggles, an "Included Controls" section with all of the options that have already been added to your Control Center, and a section called "More Controls." 
@@ -57,13 +64,6 @@ While recording, your Screen Recording button will look like this (minus the red
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Begin screen recording
 
 When you're ready to begin recording, tap the Screen Recording button. This starts a 3-second countdown. At the end of it, the recording will begin. This countdown time can be used to close the Control Center and get back to the true subject of your Screen Recording before the video capture actually begins. 
@@ -75,10 +75,10 @@ Your clock will look like this as long as Screen Recording is active.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 5: Record
@@ -97,31 +97,25 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
 
@@ -167,21 +161,16 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-edible-imagery-stepwise-food-film-making/"><u>[New] 2024 Approved Edible Imagery Stepwise Food Film Making</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expertly-slice-your-videos-macs-finest-mp4-applications/"><u>[New] 2024 Approved Expertly Slice Your Videos Mac's Finest MP4 Applications</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beat-the-competition-top-10-youtube-news-channels-listed/"><u>[New] In 2024, Beat the Competition Top 10 YouTube News Channels Listed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-ensuring-every-detail-is-visible-during-google-meets/"><u>[New] In 2024, Ensuring Every Detail Is Visible During Google Meets</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-step-by-step-screen-record-your-win10-game-log/"><u>[Updated] 2024 Approved Step-by-Step Screen Record Your Win10 Game Log</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-shared-scheduling-tools-managing-busy-family-calendars-with-ease/"><u>Best Shared Scheduling Tools: Managing Busy Family Calendars with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-zero-cost-sms-applications-on-apple-devices/"><u>Best Zero-Cost SMS Applications on Apple Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-steps-to-restore-functionality-of-dysfunctional-computer-speakers/"><u>Comprehensive Steps to Restore Functionality of Dysfunctional Computer Speakers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-features-and-benefits-of-using-telegram-app/"><u>Exploring the Features and Benefits of Using Telegram App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-do-evs-outperform-gas-powered-cars-insights-and-factors/"><u>How Do EVs Outperform Gas-Powered Cars? Insights and Factors</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pinnacle-lineup-of-flexible-fonts/"><u>In 2024, Pinnacle Lineup of Flexible Fonts</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/perfecting-your-voice-with-the-ultimate-guide-to-morphvox-modification-for-2024/"><u>Perfecting Your Voice with the Ultimate Guide to MorphVOX Modification for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-switching-network-discovery-settings-in-windows-11/"><u>Step-by-Step Tutorial: Switching Network Discovery Settings in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-exciting-launch-of-the-latest-apple-iphone-what-to-know/"><u>The Exciting Launch of the Latest Apple iPhone: What to Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-you-cant-find-d3dx934dll-in-device-manager/"><u>Troubleshooting: What to Do When You Can't Find D3Dx9_34.dll in Device Manager</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-together-a-list-of-engaging-metaverse-games/"><u>[New] Explore Together A List of Engaging Metaverse Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-why-is-virtual-realitys-creative-palette-still-barren-update/"><u>[New] In 2024, Why Is Virtual Reality's Creative Palette Still Barren? - Update</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrabs-top-15-videophoto-downloading-tools/"><u>[New] InstaGrabs Top 15 Video/Photo Downloading Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-correct-that-mia-d3dx9-library-problem-once-and-for-all/"><u>DIY: Correct That MIA D3DX9 Library Problem Once and For All</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-a18-by-drfone-android/"><u>How to Bypass FRP on Oppo A18?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improving-iphone-picture-quality-despite-lower-resolution-cameras/"><u>Improving iPhone Picture Quality Despite Lower Resolution Cameras</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-keeping-the-connection-strong-avoiding-livestream-interruptions-on-facebook/"><u>In 2024, Keeping the Connection Strong Avoiding Livestream Interruptions on Facebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-the-absent-msvcr80dll-step-by-step-guide/"><u>Solving the Mystery of the Absent msvcr80.dll: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-creating-a-pdf-from-assorted-jpeg-photos/"><u>Step-by-Step Tutorial on Creating a PDF From Assorted JPEG Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-no-cost-driver-renewal-applications-july-2024-edition/"><u>The Ultimate List of No-Cost Driver Renewal Applications - July 2024 Edition</u></a></li>
 </ul></div>
 

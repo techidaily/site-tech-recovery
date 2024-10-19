@@ -1,7 +1,7 @@
 ---
 title: "ZDNET Exclusive: Mastering iOS 18'S Control Center Personalization Techniques"
-date: 2024-10-03T23:35:51.146Z
-updated: 2024-10-07T21:05:49.558Z
+date: 2024-10-16T17:24:37.572Z
+updated: 2024-10-19T17:28:35.841Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -59,10 +59,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,22 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-agile-quick-windows-picture-sorter/"><u>[Updated] Agile Quick Windows Picture Sorter</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-memorable-titles-a-comprehensible-ae-approach/"><u>Crafting Memorable Titles A Comprehensible AE Approach</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crucial-aspects-for-gamers-preparing-to-purchase-new-console-hardware/"><u>Crucial Aspects for Gamers: Preparing to Purchase New Console Hardware</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-dorm-entertainment-crafting-a-seamless-wireless-theatrical-setup/"><u>DIY Dorm Entertainment: Crafting a Seamless Wireless Theatrical Setup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-top-picks-8-must-watch-free-channels-on-roku/"><u>Explore Our Top Picks: 8 Must-Watch Free Channels on Roku</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-to-know-your-social-circle-faster-with-6-proven-facebook-search-hacks/"><u>Get to Know Your Social Circle Faster with 6 Proven Facebook Search Hacks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-earning-through-instagram-a-guide-to-attracting-brand-partnerships/"><u>In 2024, Earning Through Instagram A Guide to Attracting Brand Partnerships</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oneplus-nord-n30-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your OnePlus Nord N30 5G Face Lock?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipad-chat-tutorial-everything-you-need-to-know-about-messaging-on-ios/"><u>IPad Chat Tutorial: Everything You Need to Know About Messaging on iOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-ends-refund-trap-consequences-explored/"><u>Steam Ends Refund Trap: Consequences Explored</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-beginnings-of-streaming-giants-a-look-into-netflixs-original-dvd-subscription-model/"><u>The Beginnings of Streaming Giants: A Look Into Netflix's Original DVD Subscription Model</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-master-these-7-microsoft-excel-features-for-superior-financial-planning/"><u>The Ultimate Guide: Master These 7 Microsoft Excel Features for Superior Financial Planning</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oneplus-nord-3-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your OnePlus Nord 3 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/top-4-strategies-for-windows-pct-success/"><u>Top 4 Strategies for Windows PCT Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-precision-a-comprehensive-tutorial-for-the-android-measuring-tool/"><u>Unlocking Precision: A Comprehensive Tutorial for the Android Measuring Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-your-car-audio-setup-discover-how-to-retrieve-the-radio-password/"><u>Unlocking Your Car Audio Setup: Discover How to Retrieve the Radio Password</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-video-rotation-discover-the-top-10-online-tools/"><u>Updated Effortless Video Rotation Discover the Top 10 Online Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features-for-2024/"><u>[New] Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-comprehensive-snapshot-tool-az-reviews-and-substitutes/"><u>[Updated] Comprehensive Snapshot Tool - AZ Reviews & Substitutes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-maximizing-audio-quality-on-meta-quest-devices/"><u>A Beginner’s Guide to Maximizing Audio Quality on Meta Quest Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899116584-apple-watch-not-connecting-try-these-6-solutions-for-a-successful-pairing/"><u>Apple Watch Not Connecting? Try These 6 Solutions for a Successful Pairing!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deciphering-your-ideal-vr-equipment-preference-for-portable-mobile-or-plugged-in-tethered/"><u>Deciphering Your Ideal VR Equipment Preference for Portable (Mobile) or Plugged-In (Tethered)?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/emojis-decoded-revealing-the-astonishing-backstories-behind-your-favorite-icons/"><u>Emojis Decoded: Revealing the Astonishing Backstories Behind Your Favorite Icons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-transfer-google-photos-to-icloud/"><u>How to Transfer Google Photos to iCloud</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unpacking-the-best-youtube-music-reactions-2023/"><u>In 2024, Unpacking the Best YouTube Music Reactions, 2023</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/journey-through-time-a-comprehensive-guide-on-scanning-and-storing-old-prints/"><u>Journey Through Time A Comprehensive Guide on Scanning and Storing Old Prints</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-considerations-before-investing-in-a-video-capturing-system/"><u>Key Considerations Before Investing in a Video Capturing System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-and-correcting-content-restrictions-in-chatgpt/"><u>Navigating and Correcting Content Restrictions in ChatGPT</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/revamping-videography-the-story-of-nikon-1j5s-4k-achievement-for-2024/"><u>Revamping Videography The Story of Nikon 1J5’s 4K Achievement for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-note-50-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Note 50 Device</u></a></li>
 </ul></div>
 

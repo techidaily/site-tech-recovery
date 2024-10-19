@@ -1,7 +1,7 @@
 ---
 title: "Steps to Discontinue Your Subscription: Deactivating Apple Music Without Using iTunes - Insights From ZDNet"
-date: 2024-10-08T17:27:45.860Z
-updated: 2024-10-13T16:28:01.093Z
+date: 2024-10-18T16:29:59.805Z
+updated: 2024-10-19T16:36:02.672Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -59,16 +59,10 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -129,20 +123,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-slow-how-to-slow-down-youtube-videos-3-ways/"><u>[New] 2024 Approved YouTube Slow How to Slow Down YouTube Videos [3 Ways]</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-essential-guide-to-comparing-4k-youtube-converter-tools/"><u>[New] In 2024, Essential Guide to Comparing 4K YouTube Converter Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-precision-at-a-glance-hps-4k-z32-x-examination/"><u>[Updated] Precision at a Glance HP’s 4K Z32 X Examination</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-quick-guide-securing-your-favorite-audio-narratives-on-iphoneipad/"><u>2024 Approved Quick Guide Securing Your Favorite Audio Narratives on iPhone/iPad</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266390631-accidentally-secured-your-smartphone-unlock-and-erase-techniques-covered/"><u>Accidentally Secured Your Smartphone? Unlock & Erase Techniques Covered!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/chromecast-silence-solution-fixing-the-absence-of-sound-issues/"><u>Chromecast Silence Solution: Fixing the Absence of Sound Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-book-lovers-app-choices/"><u>Discover the Best Book Lovers' App Choices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enable-echo-dot-connectivity-starting-the-setup-process/"><u>How to Enable Echo Dot Connectivity: Starting the Setup Process</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-note-12-pro-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi Note 12 Pro 5G Device</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-the-art-of-instantaneous-deletion-of-youtube-discussions-for-2024/"><u>Mastering the Art of Instantaneous Deletion of YouTube Discussions for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-impact-of-meta-ai-on-instagram-and-facebook-explored/"><u>The Impact of Meta AI on Instagram & Facebook Explored</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-playstation-ps5slim-overview-unveiling-date-cost-estimates-and-specifications/"><u>The Ultimate PlayStation ^PS5Slim^ Overview: Unveiling Date, Cost Estimates & Specifications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-solving-issues-with-outlooks-spell-check-feature/"><u>Troubleshooting Tips: Solving Issues with Outlook's Spell Check Feature</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-ultimate-resource-for-micromobility-news-rumors-and-industry-developments/"><u>Your Ultimate Resource for Micromobility News, Rumors & Industry Developments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-say-no-to-youtube-ads-chrome-firefox-android-and-ios-tips/"><u>[Updated] In 2024, How to Say No to YouTube Ads Chrome, Firefox, Android & iOS Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unleash-your-humor-with-excellent-zero-cost-memes/"><u>[Updated] In 2024, Unleash Your Humor with Excellent Zero-Cost Memes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-into-fantasy-youtubes-top-10-vr-gems-for-2024/"><u>[Updated] Step Into Fantasy Youtube's Top 10 VR Gems for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-2-step-plan-to-a-viral-youtube-video/"><u>[Updated] The 2-Step Plan to a Viral YouTube Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-elite-8-high-speed-recording-software/"><u>2024 Approved Elite 8 High-Speed Recording Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-entertainment-streams-beyond-netflix/"><u>Best Free Entertainment Streams Beyond Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bluetooth-synergy-simultaneously-using-more-than-one-speaker-with-a-single-gadget/"><u>Bluetooth Synergy: Simultaneously Using More Than One Speaker with a Single Gadget</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-guide-factory-resetting-the-iphone-sebypassing-or-using-a-password/"><u>Complete Guide: Factory Resetting the iPhone SE—Bypassing or Using a Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-itel-p55plus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Itel P55+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-huawei-nova-y91-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Huawei Nova Y91 FRP Without Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-pc-reset-issue-a-step-by-step-guide/"><u>Solving the 'PC Reset Issue': A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-essential-guide-to-the-lenovo-ideapad-laptop-range-exploring-design-meets-usability/"><u>The Essential Guide to the Lenovo IdeaPad Laptop Range: Exploring Design Meets Usability</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722846141296-what-exactly-is-a-dts-play-fi-system-explained/"><u>What Exactly Is a DTS Play-Fi System? Explained</u></a></li>
 </ul></div>
 

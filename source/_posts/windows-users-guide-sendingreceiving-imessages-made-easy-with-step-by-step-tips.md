@@ -1,7 +1,7 @@
 ---
 title: "Windows Users' Guide: Sending/Receiving iMessages Made Easy with Step-by-Step Tips"
-date: 2024-10-10T17:27:29.822Z
-updated: 2024-10-13T17:07:17.979Z
+date: 2024-10-14T16:42:06.257Z
+updated: 2024-10-19T17:16:58.939Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -56,18 +63,18 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -79,35 +86,15 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
-
-Screenshot by Lance Whitney/ZDNET
-
-## 5\. Access your recent messages
-
-To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
 
@@ -118,11 +105,31 @@ Screenshot by Lance Whitney/ZDNET
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+## 5\. Access your recent messages
+
+To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
+
+Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -164,13 +171,6 @@ Compose and send your message. Wait for the other person to respond. You can the
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Receive a message
 
 Any messages sent to your iPhone should also pop up in the Unison app. Again, you can carry on a conversation on your phone or on your PC.
@@ -207,22 +207,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/-innovative-yt-tales-share-your-life-journey/"><u>[New] 5 Innovative YT Tales Share Your Life Journey</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pioneering-websites-for-modern-letterforms/"><u>[New] Pioneering Websites for Modern Letterforms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-valheim-seeds-selection-and-cultivation-mastery-guide-for-2024/"><u>[New] Valheim Seeds Selection & Cultivation Mastery Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-from-raw-recordings-to-professional-vids-webcam-edition-for-2024/"><u>[Updated] From Raw Recordings to Professional Vids - Webcam Edition for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-tips-for-setting-up-a-personalized-email-footer-with-godaddys-mail-service/"><u>Easy Tips for Setting Up a Personalized Email Footer with GoDaddy's Mail Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-digital-world-laptops-smartphones-and-literary-adventures-await/"><u>Exploring the Digital World: Laptops, Smartphones & Literary Adventures Await!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-instagram-a-comprehensive-guide/"><u>Exploring the World of Instagram: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-hp-laserjet-pro-mfp-m428fdw-driver-for-windows-operating-systems-windows-11107/"><u>Get the Latest HP LaserJet Pro MFP M428fdw Driver for Windows Operating Systems (Windows 11/10/7)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-max-on-apple-tv/"><u>How to Get Max on Apple TV</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lava-agni-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-tolkien-the-ideal-viewing-sequence-for-lord-of-the-rings/"><u>Mastering Tolkien: The Ideal Viewing Sequence for 'Lord of the Rings'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-latency-problems-in-valheim-a-guide-for-windows-users/"><u>Resolving Latency Problems in Valheim: A Guide for Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899683097-step-by-step-guide-to-setting-up-your-own-in-home-karaoke-extravaganza/"><u>Step-by-Step Guide to Setting Up Your Own In-Home Karaoke Extravaganza!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-running-android-apps-seamlessly-on-windows-10-systems/"><u>Step-by-Step Tutorial: Running Android Apps Seamlessly on Windows 10 Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-restoring-your-lenovo-laptop-to-its-original-settings/"><u>Ultimate Guide: Restoring Your Lenovo Laptop to Its Original Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-new-in-ipados-version-18-launch-details-cost-free-access-and-key-enhancements/"><u>What's New in iPadOS Version 18? Launch Details, Cost-Free Access & Key Enhancements!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-harnessing-techniques-for-superior-pics-free-of-charge/"><u>[New] In 2024, Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-audio-alchemy-transforming-instagram-videos-with-sound/"><u>[Updated] 2024 Approved Audio Alchemy Transforming Instagram Videos with Sound</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-slow-motion-instagram-a-reel-guide/"><u>[Updated] In 2024, Mastering Slow-Motion Instagram A Reel Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-innovative-enhancements-stardew-valleys-top-7-choices/"><u>[Updated] Innovative Enhancements Stardew Valley's Top 7 Choices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-leading-8-software-for-linux-video-editors/"><u>[Updated] Leading 8 Software for Linux Video Editors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-strength-in-the-omotein-t1-tablet-mount-our-comprehensive-review/"><u>Affordable Strength in the Omotein T1 Tablet Mount - Our Comprehensive Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-uninstalling-the-copilot-feature-in-windows-11/"><u>Expert Tips for Uninstalling the Copilot Feature in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-solve-dragon-age-origins-problems-with-windows-11-compatibility/"><u>How to Prevent and Solve Dragon Age: Origins Problems with Windows 11 Compatibility</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-upload-and-backup-your-google-images-onto-icloud-services/"><u>How to Upload and Backup Your Google Images Onto iCloud Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-subtitles-the-ultimate-guide-to-free-tools/"><u>In 2024, Mastering Subtitles The Ultimate Guide to FREE Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sony-psvr-2-update-unlocking-insights-into-cost-availability-timeline-and-device-features/"><u>Sony PSVR 2 Update: Unlocking Insights Into Cost, Availability Timeline & Device Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-gaining-a-blue-checkmark-on-instagram/"><u>The Ultimate Guide to Gaining a Blue Checkmark on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-fixing-not-found-msidll-file-problems/"><u>Troubleshooting Steps for Fixing 'Not Found' msi.dll File Problems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Nokia C12 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

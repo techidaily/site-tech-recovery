@@ -1,7 +1,7 @@
 ---
 title: 2023'S Ultimate Selection of iPhone 12/12 Pro Cases Reviewed by Tech Gurus at ZDNET
-date: 2024-10-08T16:15:53.737Z
-updated: 2024-10-13T16:19:32.477Z
+date: 2024-10-16T16:30:49.542Z
+updated: 2024-10-19T16:54:01.256Z
 tags:
   - apple
 categories:
@@ -46,6 +46,13 @@ Cons
 
 ## Pela case
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best iPhone 12 case overall
 
 Pela cases are made of Flaxstic, a plastic alternative made of flax straw that's non-toxic and free of phthalates, BPA, cadmium, and lead. The material is soft to the touch, flexible, and able to survive a 20-foot drop test. That means Pela cases are both shock-absorbing and biodegradable. And when you no longer need it, you can send it back to Pela. The company will turn it into a new product or compost it to promote a circular economy. The case is also packaged in recycled paper material (no plastic!).
@@ -65,13 +72,6 @@ Pros
 
 Cons 
 * Pricier
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Silicone Case with MagSafe
 
@@ -101,6 +101,13 @@ Cons
 
 ## Bodyguardz Ace Pro
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best budget iPhone 12 case
 
 The iPhone 12 and 12 Pro can be delicate, especially because the front and back materials are glass. BodyGuardz offers protective cases with considerable drop protection -- while keeping prices under $20.
@@ -124,13 +131,20 @@ Pros
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Casetify cases
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best customizable iPhone 12 case
@@ -155,13 +169,6 @@ Cons
 * May still yellow over time
 
 ## ESR Air Armor
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best clear iPhone 12 case
 
@@ -210,21 +217,7 @@ Pros
 Cons 
 * May show scratches easily
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Nomad Rugged case
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best leather iPhone 12 case
 
@@ -250,21 +243,7 @@ Cons
 * Fingerprints may show up easily
 * Colors may not be vibrant against a darker color phone
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Speck Presidio Edition
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best iPhone 12 case for drop protection
 
@@ -291,6 +270,13 @@ Cons
 * No drop protection
 * Original price ($39) is too expensive for what it is
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Totallee case
 
 ### Best slim iPhone 12 case
@@ -302,10 +288,10 @@ The case has a camera lens "lip" to make sure that the camera does not get scrat
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best iPhone case?
@@ -340,6 +326,13 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Speck Products Presidio Edition   | The best slim iPhone 12 case                                                          |
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What should I look for in an iPhone case?
 
 If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll likely want to protect it. There are many features you can look for, but I consider protection, size, style, and features the most important:
@@ -356,6 +349,13 @@ Wireless charging does work with phone cases. Almost all of the cases on this li
 ## Which case is best for iPhone 12?
 
 The Pela case is my favorite because it combines drop protection with environmental friendliness and durability. The flax-based material is unique and 100% compostable -- and the case protects your phone from drops of up to 20 feet. It comes in a variety of colors and ships free to the United States and Canada in plastic-free packaging. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is OtterBox good for iPhone 12?
 
@@ -409,20 +409,24 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-perfecting-speech-recognition-on-google-platforms-for-2024/"><u>[Updated] Perfecting Speech Recognition on Google Platforms for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-broadcast-strategies-share-twitch-videos-on-fb/"><u>2024 Approved Broadcast Strategies Share Twitch Videos on FB</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/adjusting-local-area-connection-visibility-enabledisable-guide-for-windows-10-users/"><u>Adjusting Local Area Connection Visibility - Enable/Disable Guide for Windows 10 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-future-of-wireless-earbuds-googles-pixel-buds-pro-rumored-launch-dates-prices-and-tech-breakdown/"><u>Decoding the Future of Wireless Earbuds - Google's Pixel Buds Pro ² Rumored Launch Dates, Prices, and Tech Breakdown!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-unresponsive-shutdowns-in-windows-11/"><u>Easy Fixes for Unresponsive Shutdowns in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-retrieve-your-hidden-wi-fi-passwords-using-windows-11-tools/"><u>How to Retrieve Your Hidden Wi-Fi Passwords Using Windows 11 Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/latest-on-the-samsung-galaxy-watch-7-release-timeline-price-points-and-technical-specs-explored/"><u>Latest on the Samsung Galaxy Watch 7: Release Timeline, Price Points, and Technical Specs Explored</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-plumbers-in-pixels-top-6-super-mario-games-for-your-pc-odyssey/"><u>Mastering Plumbers in Pixels: Top 6 Super Mario Games for Your PC Odyssey</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-computer-screenshotting-a-comprehensive-guide/"><u>Mastering the Art of Computer Screenshotting – A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/navigating-the-world-of-screen-capture-nvidia-edition/"><u>Navigating the World of Screen Capture NVIDIA Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-convergence-of-imagination-and-technology-how-ai-merges-fiction-with-fact-showcased-by-8-strategies/"><u>The Convergence of Imagination & Technology: How AI Merges Fiction with Fact, Showcased by 8 Strategies</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-digital-social-scenes-heavyweights-facebook-twitter-instagram-vs-youtube-explained/"><u>The Digital Social Scene's Heavyweights: Facebook, Twitter, Instagram Vs. YouTube Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-the-most-effective-key-finder-devices/"><u>The Ultimate Guide to the Most Effective Key Finder Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-placing-source-codes-within-microsoft-word-documents/"><u>The Ultimate Tutorial on Placing Source Codes Within Microsoft Word Documents</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-lava-storm-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Lava Storm 5G Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-maximize-youtube-traction-affordable-audience-expansion/"><u>[New] 2024 Approved Maximize YouTube Traction Affordable Audience Expansion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-easy-entree-straightforward-screen-capture-methods-dell-for-2024/"><u>[New] Easy Entrée Straightforward Screen Capture Methods (Dell) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flipping-the-script-on-memes-with-kinemaster/"><u>[New] Flipping the Script on Memes with KineMaster</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-expand-your-reach-sharing-live-streams-on-facebook/"><u>[Updated] In 2024, Expand Your Reach Sharing Live Streams on Facebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-sources-for-curated-news-feeds-the-ultimate-list/"><u>Best Sources for Curated News Feeds - The Ultimate List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-current-film-features-on-max-july-2024-edition/"><u>Discover the Best Current Film Features on Max (July 2024 Edition)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-top-budget-sunrise-simulator-totobays-newest-2nd-generation-wake-up-light-revealed/"><u>Discover the Top Budget Sunrise Simulator - Totobay's Newest 2Nd Generation Wake-Up Light Revealed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-focus-during-virtual-conferences-the-art-of-background-blurring-in-google-meet/"><u>Enhancing Focus During Virtual Conferences: The Art of Background Blurring in Google Meet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-water-resistance-of-apples-latest-iphone/"><u>Exploring the Water Resistance of Apple's Latest iPhone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-7-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 7 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>In 2024, Quick Escapes Dodging Edgenuity Online Course Videos Easily</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y100i-power-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y100i Power 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-psn-experiencing-downtime-or-are-there-problems-with-your-internet-setup/"><u>Is PSN Experiencing Downtime, or Are There Problems with Your Internet Setup?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166387773-navigate-the-digital-labyrinths-with-us/"><u>Navigate the Digital Labyrinths with Us</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-coredll-is-missing-a-step-by-step-guide/"><u>Solving 'Core.dll' Is Missing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/step-by-step-guide-for-video-narration-implementation/"><u>Step-By-Step Guide for Video Narration Implementation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-group-video-call-apps/"><u>The Best Group Video Call Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-is-bright-in-sony-land-breaking-down-announcements-from-the-2024-state-of-play/"><u>The Future Is Bright in Sony Land: Breaking Down Announcements From the 2024 State of Play</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-downloading-songs-for-free-top-15-legit-sources-revealed/"><u>The Ultimate Guide to Downloading Songs for Free: Top 15 Legit Sources Revealed</u></a></li>
 </ul></div>
 

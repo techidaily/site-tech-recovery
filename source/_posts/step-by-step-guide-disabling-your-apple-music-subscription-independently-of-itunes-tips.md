@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling Your Apple Music Subscription Independently of iTunes - Tips"
-date: 2024-10-06T16:42:32.862Z
-updated: 2024-10-13T16:51:55.229Z
+date: 2024-10-15T16:03:29.703Z
+updated: 2024-10-19T16:45:47.010Z
 tags:
   - apple
 categories:
@@ -56,6 +56,19 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -63,10 +76,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -85,13 +98,6 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -99,10 +105,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -116,6 +122,13 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -139,18 +152,18 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -163,13 +176,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,21 +213,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-video-spin-perfecting-instagram-posts/"><u>[New] Mastering Video Spin Perfecting Instagram Posts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-turbo-speed-for-snapchat-newcomers-video-edition/"><u>[New] Turbo Speed for Snapchat Newcomers Video Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-5-budget-friendly-camcorders-with-hd-quality-for-2024/"><u>[Updated] Top 5 Budget-Friendly Camcorders with HD Quality for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-use-the-meta-quest-microphone/"><u>How to Use the Meta Quest Microphone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-samsung-galaxy-z-flip-5-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Samsung Galaxy Z Flip 5 Phone Now with These Tips</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-art-of-video-marketing-11-tips-to-skyrocket-fb-traffic/"><u>In 2024, The Art of Video Marketing 11 Tips to Skyrocket FB Traffic</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lifewire-curated-list-of-essential-movies-to-stream-today/"><u>Lifewire Curated List of Essential Movies to Stream Today</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-minecraft-performance-prevent-frequent-crashes-using-these-6-strategies/"><u>Master Minecraft Performance: Prevent Frequent Crashes Using These 6 Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/off-facebook-activity-expose-is-it-worth-the-scrutiny-in-2024/"><u>Off-Facebook Activity Exposé - Is It Worth The Scrutiny, In 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/projector-buying-101-key-aspects-to-assess-before-making-your-decision/"><u>Projector Buying 101: Key Aspects to Assess Before Making Your Decision</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-monitor-heat-on-your-macbook-device/"><u>Step-by-Step Guide to Monitor Heat on Your MacBook Device</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-4-essential-mobile-apps-for-efficient-home-painting-projects/"><u>Top 4 Essential Mobile Apps for Efficient Home Painting Projects</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-resolving-iphone-updaterestore-error-code-4013/"><u>Troubleshooting Guide: Resolving iPhone Update/Restore Error Code 4013</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/updating-microsoft-powerpoint-a-quick-guide/"><u>Updating Microsoft PowerPoint - A Quick Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-does-wi-fi-calling-mean/"><u>What Does Wi-Fi Calling Mean?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-parrot-playfulness-explored-in-bebop-2/"><u>[New] 2024 Approved Parrot Playfulness Explored in Bebop 2</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peak-creation-suite-insightful-2023-analysis/"><u>[New] Peak Creation Suite Insightful 2023 Analysis</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unleash-creativity-with-the-best-online-screen-changers-for-2024/"><u>[New] Unleash Creativity with the Best Online Screen Changers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-storage-odyssey-navigating-cloud-leaders-of-2024/"><u>[Updated] The Ultimate Storage Odyssey Navigating Cloud Leaders of 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/easy-igtv-video-grabs-for-ios-and-android-devices/"><u>Easy IGTV Video Grabs for iOS and Android Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-issue-of-vanishing-desktop-icons-in-windows-10-solutions-for-a-cleaner-workspace/"><u>Fixing the Issue of Vanishing Desktop Icons in Windows 10 - Solutions for a Cleaner Workspace</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-change-mouse-dpi-and-improve-mouse-performance/"><u>How to Change Mouse DPI and Improve Mouse Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-open-command-prompt-as-administrator-in-windows/"><u>How to Open Command Prompt as Administrator in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-play-steam-games-offline/"><u>How to Play Steam Games Offline</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-gt-3-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-multi-screen-setup-how-to-hook-up-both-monitors-to-your-notebook/"><u>Master Multi-Screen Setup: How To Hook Up Both Monitors to Your Notebook</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/staying-connected-office-2016-and-2019-seamless-access-to-ms365-support-in-the-upcoming-year-technews/"><u>Staying Connected: Office 2016 & 2019 Seamless Access to MS365 Support in the Upcoming Year | TechNews</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Infinix Hot 40 | Dr.fone</u></a></li>
 </ul></div>
 

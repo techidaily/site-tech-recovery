@@ -1,7 +1,7 @@
 ---
 title: "IOS 18: A Step-by-Step Guide to Tailoring the Control Center on Your iPhone - ZDNet"
-date: 2024-10-09T17:03:32.495Z
-updated: 2024-10-13T17:17:49.054Z
+date: 2024-10-16T17:17:14.309Z
+updated: 2024-10-19T16:01:40.681Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -37,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -64,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -78,13 +85,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,16 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-uncovering-forgotten-facebook-episodes-cross-device-instructions/"><u>[New] In 2024, Uncovering Forgotten Facebook Episodes Cross-Device Instructions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/app-market-showdown-analyzing-differences-between-itunes-and-google-play-stores/"><u>App Market Showdown: Analyzing Differences Between iTunes and Google Play Stores</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cut-costs-effortlessly-our-curated-list-of-top-6-coupons-and-deal-sources/"><u>Cut Costs Effortlessly: Our Curated List of Top 6 Coupons & Deal Sources</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-in-house-dtv-reception-with-the-right-indoor-antenna-solutions/"><u>Enhance In-House DTV Reception with the Right Indoor Antenna Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guia-paso-a-paso-capturando-sonido-perfecto-en-tu-mac-con-software-de-audio-pro-gratis/"><u>Guía Paso a Paso: Capturando Sonido Perfecto en Tu Mac Con Software De Audio Pro Gratis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-viewing-vlc-versus-mx-comparison/"><u>In 2024, Streamlining Your Viewing VLC Versus MX Comparison</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-content-access-with-ai-enhanced-websites/"><u>Revolutionizing Content Access with AI-Enhanced Websites</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-mfc42dll-cant-be-located-error-fixes/"><u>Step-by-Step Solutions for 'MFC42.dll' Can’t Be Located Error Fixes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-narzo-n55-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme Narzo N55 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-apple-airtag-evaluation-ideal-tracking-device-for-iphone-owners/"><u>Top Apple AirTag Evaluation: Ideal Tracking Device for iPhone Owners</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-connection-guide-integrating-your-apple-homepod-with-television/"><u>Wireless Connection Guide: Integrating Your Apple HomePod with Television</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audiophiles-choices-premium-mic-list/"><u>[Updated] Audiophile's Choices Premium Mic List</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities-for-2024/"><u>[Updated] Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-internet-extension-fb-stories-grabber/"><u>[Updated] In 2024, Internet Extension Fb Stories Grabber</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mind-mavens-top-10-educational-youtube-hubs/"><u>[Updated] In 2024, Mind Mavens Top 10 Educational YouTube Hubs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/awaken-on-time-with-these-7-exceptional-smartphone-alarm-applications/"><u>Awaken on Time with These 7 Exceptional Smartphone Alarm Applications</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-the-ultimate-qualcomm-chipset-driver-collection-for-all-windows-users/"><u>Download and Update: The Ultimate Qualcomm Chipset Driver Collection for All Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-grow-your-instagram-audience-tips-and-tricks/"><u>Effective Strategies to Grow Your Instagram Audience: Tips & Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-x50iplus-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor X50i+ Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-wi-fi-connection-issues-on-your-surface-pro-a-step-by-step-guide/"><u>Solving Wi-Fi Connection Issues on Your Surface Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-common-issues-why-doesnt-my-youtube-function-properly/"><u>Troubleshooting Common Issues: Why Doesn't My YouTube Function Properly?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-wininetdll-absence-in-your-system-steps-to-take/"><u>Troubleshooting Wininet.dll Absence in Your System - Steps to Take</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-the-8-greatest-mobile-video-games/"><u>Ultimate List of the 8 Greatest Mobile Video Games</u></a></li>
 </ul></div>
 

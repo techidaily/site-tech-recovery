@@ -1,7 +1,7 @@
 ---
 title: "Discovering Mac OS X Keychain Passwords: A Step-by-Step Guide"
-date: 2024-10-10T17:10:49.453Z
-updated: 2024-10-13T16:46:46.118Z
+date: 2024-10-14T16:28:53.959Z
+updated: 2024-10-19T17:13:27.752Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -48,10 +48,16 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -69,10 +75,10 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -84,10 +90,16 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -121,20 +133,17 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-tools-in-transforming-digital-performers-vocal-identity/"><u>[New] 2024 Approved Essential Tools in Transforming Digital Performers' Vocal Identity</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-essential-video-grabbers-for-windows-10-users/"><u>[New] Essential Video Grabbers for Windows 10 Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screenmasterrevolution-next-gen-recording-software/"><u>[Updated] ScreenMasterRevolution Next-Gen Recording Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-speed-up-your-photo-journey-creating-rapid-google-collages/"><u>2024 Approved Speed Up Your Photo Journey Creating Rapid Google Collages</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-poco-m6-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Poco M6 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/accessing-messenger-a-guide-on-using-it-independently-from-facebook/"><u>Accessing Messenger: A Guide on Using It Independently From Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avoiding-auto-sleep-on-macbook-keep-your-laptop-open-without-interruptions/"><u>Avoiding Auto-Sleep on MacBook: Keep Your Laptop Open Without Interruptions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/corporate-cautionary-stories-top-5-tales-of-gpt-reluctance/"><u>Corporate Cautionary Stories: Top 5 Tales of GPT Reluctance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/imessage-compatibility-with-android-how-to-set-up-now/"><u>IMessage Compatibility with Android – How to Set Up Now!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-discover-sj7s-breakthrough-in-high-definition-4k-action-cameras/"><u>In 2024, Discover SJ7’s Breakthrough in High-Definition 4K Action Cameras</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722879531870-ipad-pro-m4-vs-macbook-air-m3-whats-the-difference/"><u>IPad Pro M4 vs MacBook Air M3: What's the Difference?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reviving-madden-22-fast-techniques-to-overcome-technical-glitches/"><u>Reviving Madden 22: Fast Techniques to Overcome Technical Glitches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-must-play-android-and-ios-gaming-apps/"><u>Top 8 Must-Play Android & iOS Gaming Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-deleting-cache-on-android-phones-and-tablets/"><u>Ultimate Tips for Deleting Cache on Android Phones and Tablets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/uncovering-email-contact-information-with-respectful-practices/"><u>Uncovering Email Contact Information with Respectful Practices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-create-a-new-twitter-account-for-2024/"><u>[New] How to Create a New Twitter Account for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-aesthetic-adjustments-iphones-pro-image-cropping-apps/"><u>[New] In 2024, Aesthetic Adjustments IPhone's Pro Image Cropping Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-xstream-vision-insight-ultimate-video-studio-exploration/"><u>[New] In 2024, XStream Vision Insight Ultimate Video Studio Exploration</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-best-mac-mp4-cutter-apps-enhance-video-editing/"><u>[Updated] Best Mac MP4 Cutter Apps Enhance Video Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-beginners-path-to-successful-hp-screen-capturing/"><u>2024 Approved Beginner's Path to Successful HP Screen Capturing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-aesthetic-almanac-makeup-hair-and-more-on-youtube/"><u>2024 Approved The Aesthetic Almanac Makeup, Hair & More on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-rectifying-binkw32dll-absence-problems/"><u>Comprehensive Guide: Rectifying Binkw32.dll Absence Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improve-your-smartphone-photography-overcoming-iphone-lens-focusing-challenges/"><u>Improve Your Smartphone Photography: Overcoming iPhone Lens-Focusing Challenges</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-pick-websites-showcasing-hd-sky-shots/"><u>In 2024, Expert Pick Websites Showcasing HD Sky Shots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-iphone-phone-calls-effective-solutions-to-amplify-ringtone/"><u>Maximizing iPhone Phone Calls: Effective Solutions to Amplify Ringtone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-your-pc-for-a-stable-nba-2k21-gaming-session/"><u>Optimizing Your PC for a Stable NBA 2K21 Gaming Session</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/remedying-permanent-display-ghosts-for-any-screen-type-a-how-to/"><u>Remedying Permanent Display Ghosts for Any Screen Type - A How-To</u></a></li>
 </ul></div>
 

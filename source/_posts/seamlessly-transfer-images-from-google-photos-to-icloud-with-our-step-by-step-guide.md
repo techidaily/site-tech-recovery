@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Transfer Images From Google Photos to iCloud with Our Step-by-Step Guide
-date: 2024-10-08T16:07:52.549Z
-updated: 2024-10-13T17:24:00.035Z
+date: 2024-10-12T17:02:56.614Z
+updated: 2024-10-19T17:20:52.534Z
 tags:
   - apple
 categories:
@@ -115,10 +115,16 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Featured
@@ -130,6 +136,13 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -137,13 +150,6 @@ Before you'll have the option to turn on Universal Control, you need to update t
 On a Mac, open **System Preferences**, then select **Software Update**. 
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
 
@@ -161,6 +167,19 @@ The Mac does have a dedicated Universal Control section where you can turn the f
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to use Universal Control between your Mac and iPad
 
 With both devices updated and after double-checking that Universal control is enabled, it's time to actually use Universal Control. 
@@ -176,10 +195,16 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -187,13 +212,6 @@ You can even drag and drop documents between your Mac or iPad, instead of waitin
 Screenshot by Jason Cipriani/ZDNet
 
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
 
@@ -247,21 +265,17 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-defending-your-videos-against-youtube-copyright-strikes-for-2024/"><u>[New] Defending Your Videos Against YouTube Copyright Strikes for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aximizing-engagement-co-filming-techniques-for-2024/"><u>[New] Maximizing Engagement Co-Filming Techniques for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-maximize-your-google-meet-experience-without-paying-a-penny/"><u>2024 Approved Maximize Your Google Meet Experience, Without Paying a Penny</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722893521253-apples-latest-launch-preview-dates-revealed-speculation-confirmed-and-what-to-expect-next/"><u>Apple's Latest Launch Preview: Dates Revealed, Speculation Confirmed, and What to Expect Next!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparing-performance-and-specifications-of-cat5-and-cat6-ethernet-cables/"><u>Comparing Performance and Specifications of Cat5 and Cat6 Ethernet Cables</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-hero4-session-vs-hero5-session-for-2024/"><u>GoPro Hero4 Session Vs Hero5 Session for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-reno-11-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo Reno 11 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://games-able.techidaily.com/interior-insights-deconstructing-your-xbox-360series-x-controller/"><u>Interior Insights: Deconstructing Your Xbox 360/Series X Controller</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-television-horizontal-streaks-troubleshooting-and-solutions/"><u>Samsung Television Horizontal Streaks - Troubleshooting and Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-streaming-with-a-click-utilizing-remote-access-features-on-samsung-tvs/"><u>Seamless Streaming with a Click: Utilizing Remote Access Features on Samsung TVs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-playthrough-expert-tips-for-resolving-borderlands-3-audio-problems-on-pc/"><u>Silent Playthrough: Expert Tips for Resolving Borderlands 3 Audio Problems on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-rectify-your-samsung-galaxys-unregistered-network-status/"><u>Steps to Rectify Your Samsung Galaxy’s Unregistered Network Status</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tips-for-finding-disappeared-mobile-numbers-on-android-devices/"><u>Tips for Finding Disappeared Mobile Numbers on Android Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-mfplatdll-file-not-found-issue/"><u>Troubleshooting the Mfplat.dll File Not Found Issue</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-psd-style-boosting/"><u>Ultimate PSD Style Boosting</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-youtube-subtitles-srt-3-steps-guide/"><u>[New] Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-essential-guide-to-vr-gear-and-technology/"><u>2024 Approved Essential Guide to VR Gear and Technology</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-and-compact-brilliance-in-depth-look-at-the-samsung-galaxy-s10e/"><u>Affordable and Compact Brilliance: In-Depth Look at the Samsung Galaxy S10e</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-webcam-filming-easy-methods-to-start-recording-today/"><u>DIY Webcam Filming: Easy Methods to Start Recording Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easily-recover-a-lost-word-document-in-windows-10-with-pictures/"><u>Easily Recover a Lost Word Document in Windows 10 [with Pictures]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-the-hard-disk-problem-warning-on-your-windows-pc/"><u>Easy Fixes for the 'Hard Disk Problem' Warning on Your Windows PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-how-to-get-and-run-kodi-on-windows-10-operating-system/"><u>Easy Tutorial: How to Get and Run Kodi on Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-guide-on-disabling-windows-10s-lock-screen/"><u>Effortless Guide on Disabling Windows 10'S Lock Screen</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-change-avi-video-files-to-flv-online-no-cost-solutions/"><u>How to Change AVI Video Files to FLV Online – No Cost Solutions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-tiktok-legalities-ensuring-video-compliance-pre-upload/"><u>In 2024, TikTok Legalities Ensuring Video Compliance Pre-Upload</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/preserve-the-illusion-professional-tactics-for-vr-gaming-logging/"><u>Preserve the Illusion Professional Tactics for VR Gaming Logging</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-strategies-for-impactful-spotify-ads-for-2024/"><u>Top 10 Strategies for Impactful Spotify Ads for 2024</u></a></li>
 </ul></div>
 

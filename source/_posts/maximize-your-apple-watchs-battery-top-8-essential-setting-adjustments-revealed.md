@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Apple Watch's Battery: Top 8 Essential Setting Adjustments Revealed"
-date: 2024-10-12T16:32:40.237Z
-updated: 2024-10-13T17:32:52.661Z
+date: 2024-10-13T16:05:38.175Z
+updated: 2024-10-19T16:23:03.636Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -64,13 +70,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -90,18 +89,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -110,6 +109,13 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -126,10 +132,10 @@ I've heard from many folks who have faced issues with battery life on the Apple 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -173,20 +179,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails-for-2024/"><u>[Updated] Filmmaking Made Simple A Smartphone Guide to YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-becoming-a-podcast-writer-pro-strategies-and-comprehensible-script-samples/"><u>2024 Approved Becoming a Podcast Writer Pro Strategies & Comprehensible Script Samples</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/alternative-methods-to-experience-the-roku-channel-content-without-roku-equipment/"><u>Alternative Methods to Experience The Roku Channel Content Without Roku Equipment</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-you-facing-trouble-with-microsoft-teams-identifying-if-its-a-platform-outage-or-personal-connection/"><u>Are You Facing Trouble With Microsoft Teams? Identifying If It's a Platform Outage or Personal Connection</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/conversion-voc-avi-sin-costos-guia-expertos-para-usar-movavi-en-linea/"><u>Conversión VOC-AVI Sin Costos: Guía Expertos Para Usar Movavi en Línea</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-these-10-key-platforms-for-searching-for-an-apartment/"><u>Discover These 10 Key Platforms for Searching for an Apartment</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-activating-dark-theme-on-your-iphone/"><u>Guide: Activating Dark Theme on Your iPhone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic5-ultimate-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic5 Ultimate Phone with Broken Screen</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-magix-video-pro-x-user-guide-summary/"><u>In 2024, Magix Video Pro X User Guide Summary</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-brio-usb-camera-drivers-compatible-with-win-11-win-8-and-win-7-get-them-now/"><u>Logitech BRIO USB Camera Drivers: Compatible with Win 11, Win 8 and Win 7 – Get Them Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-4-most-effective-and-complimentary-online-calendars-we-recommend/"><u>The 4 Most Effective and Complimentary Online Calendars We Recommend</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-social-sharing-exploring-facebook-twitter-instagram-and-youtube/"><u>The Powerhouses of Social Sharing: Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722876405665-troubleshooting-a-mac-that-wont-recognize-its-second-display-what-to-do/"><u>Troubleshooting a Mac That Won't Recognize Its Second Display – What to Do?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-optimize-your-gaming-with-kinemaster-usage-tips-and-comparisons-with-best-online-games/"><u>[New] In 2024, Optimize Your Gaming with KineMaster Usage Tips & Comparisons with Best Online Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unraveling-the-secrets-of-excellent-screen-recording-with-recmeister/"><u>[New] In 2024, Unraveling the Secrets of Excellent Screen Recording with Recmeister</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-thumbnails-that-attract-techniques-for-youtube-image-resizing/"><u>[Updated] 2024 Approved Thumbnails That Attract Techniques for YouTube Image Resizing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-transforming-mundane-images-with-music-on-instagram/"><u>[Updated] 2024 Approved Transforming Mundane Images with Music on Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-innovative-approaches-to-capturing-rl-experiences/"><u>[Updated] In 2024, Innovative Approaches to Capturing RL Experiences</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-soundtracks-the-best-free-youtube-to-wav-tools-for-2024/"><u>[Updated] Streamline Your Soundtracks The Best Free YouTube to WAV Tools for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/assessing-pc-velocity-how-swift-does-your-computer-need-to-operate-optimally/"><u>Assessing Pc Velocity: How Swift Does Your Computer Need to Operate Optimally?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-the-for-you-tab-suggestions-in-instagram-easily/"><u>Eliminating the ‘For You’ Tab Suggestions in Instagram Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-selected-ideal-email-applications-for-your-iphone/"><u>Expertly Selected: Ideal Email Applications for Your iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-infinix-hot-40-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Infinix Hot 40 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-software-repair-fixing-problems-when-apps-wont-launch-correctly/"><u>Mac Software Repair: Fixing Problems When Apps Won't Launch Correctly</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-editing-gopro-footage-on-pc-quik-and-its-competitors/"><u>New 2024 Approved Editing GoPro Footage on PC Quik and Its Competitors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-tv-wont-start-heres-how-you-can-turn-the-situation-around/"><u>Roku TV Won't Start? Here's How You Can Turn the Situation Around!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/setting-up-child-friendly-environments-a-guide-to-configuring-parental-controls-on-discord/"><u>Setting Up Child-Friendly Environments: A Guide to Configuring Parental Controls on Discord</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-vizio-smarttvs-wi-fi-connectivity-problems-with-ease/"><u>Solving Vizio SmartTV's Wi-Fi Connectivity Problems with Ease</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-screen-seize-techniques-for-mac-devices-under-156-chars-for-2024/"><u>Top Screen Seize Techniques for Mac Devices (Under 156 Chars) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-bose-soundlink-speaker-pairing/"><u>Ultimate Guide: Mastering the Art of Bose Soundlink Speaker Pairing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-was-the-journey-behind-netflixs-revolutionary-dvd-subscription-service/"><u>What Was the Journey Behind Netflix's Revolutionary DVD Subscription Service?</u></a></li>
 </ul></div>
 

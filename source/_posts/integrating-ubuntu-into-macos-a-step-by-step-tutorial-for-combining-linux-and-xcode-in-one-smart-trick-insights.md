@@ -1,7 +1,7 @@
 ---
 title: "Integrating Ubuntu Into macOS: A Step-by-Step Tutorial for Combining Linux and Xcode in One Smart Trick Insights"
-date: 2024-10-07T17:31:44.376Z
-updated: 2024-10-13T17:39:08.129Z
+date: 2024-10-14T16:58:18.626Z
+updated: 2024-10-19T17:10:20.943Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -71,16 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -91,18 +85,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,22 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-captureit-all-revisiting-recordmax-users/"><u>[New] 2024 Approved CaptureIt All! Revisiting 'RecordMax' Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>[New] A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-4-ways-to-record-internal-android-audio-no-rooting-for-2024/"><u>[Updated] 4 Ways to Record Internal Android Audio (No Rooting) for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-creating-an-impactful-film-short-summary/"><u>[Updated] In 2024, Creating an Impactful Film Short Summary</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/android-16-preview-discover-its-projected-price-point-release-dates-device-support-and-exciting-features-ahead/"><u>Android 16 Preview - Discover Its Projected Price Point, Release Dates, Device Support, and Exciting Features Ahead</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-your-samsung-tv-apps-running-smoothly-again-a-guide/"><u>Get Your Samsung TV Apps Running Smoothly Again - A Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-quickly-resolve-the-wpcapdll-file-not-found-problem-on-your-computer/"><u>How To Quickly Resolve The 'WPCapDLL File Not Found' Problem On Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-ensuring-your-departure-a-step-by-step-guide-to-tiktok-account-removal/"><u>How To: Ensuring Your Departure - A Step-by-Step Guide to TikTok Account Removal</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-motorola-defy-2-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Motorola Defy 2 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-brio-driver-installation-guide-free-download-for-windows-users/"><u>Logitech BRIO Driver Installation Guide: Free Download for Windows Users</u></a></li>
-<li><a href="https://win-community.techidaily.com/navigating-the-wizarding-world-of-harry-potter-tips-and-tricks-for-playing-hogwarts-mystery-on-your-computer/"><u>Navigating the Wizarding World of Harry Potter: Tips and Tricks for Playing Hogwarts Mystery on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-steams-disk-writing-problem-a-step-by-step-guide/"><u>Resolving Steam's Disk Writing Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-restoring-your-macs-network-configurations/"><u>Step-by-Step Guide: Restoring Your Mac's Network Configurations</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-techniques-for-producing-high-quality-tiktoks/"><u>Top Techniques for Producing High-Quality TikToks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-fixing-libgdk-win32-20-0dll-not-found-windows-issues/"><u>Troubleshooting and Fixing 'libgdk-win32-2.0-0.dll Not Found' Windows Issues</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/tv-and-cinema-cultivating-communicative-skills/"><u>TV & Cinema: Cultivating Communicative Skills</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlimited-viewing-pleasure-watch-new-releases-and-classics-at-no-charge-on-crackle/"><u>Unlimited Viewing Pleasure: Watch New Releases and Classics at No Charge on Crackle</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-the-art-of-speech-to-text-with-google-ai/"><u>[New] 2024 Approved Mastering the Art of Speech-to-Text with Google AI</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-premium-video-starters-the-best-16-to-skyrocket-view-counts/"><u>[New] 2024 Approved Premium Video Starters The Best 16 to Skyrocket View Counts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illustrators-dream-top-8-ipados-drawers/"><u>[Updated] Illustrator's Dream Top 8 iPadOS Drawers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-puzzling-over-why-your-facebook-feed-lacks-recommended-movies/"><u>[Updated] In 2024, Puzzling Over Why Your Facebook Feed Lacks Recommended Movies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-splitscreen-youtube-videos-a-guide-to-creativity-for-2024/"><u>Crafting Splitscreen YouTube Videos A Guide to Creativity for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/desktop-powering-up-with-blank-display-how-to-resolve/"><u>Desktop Powering Up with Blank Display - How to Resolve?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-enhancing-your-experience-with-windows-11/"><u>Effective Strategies for Enhancing Your Experience with Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-dividing-your-desktop-splitting-screens-on-windows-11/"><u>Effective Techniques for Dividing Your Desktop: Splitting Screens on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficiently-refresh-your-google-chrome-browsing-by-flushing-its-cache/"><u>Efficiently Refresh Your Google Chrome Browsing by Flushing Its Cache</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-restoring-hey-siri-functionality-to-its-full-potential-on-ios/"><u>Expert Advice: Restoring 'Hey Siri' Functionality to Its Full Potential on iOS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/expert-review-boost-your-productivity-with-the-innovative-onetastic-enhancement-for-microsoft-onenote/"><u>Expert Review: Boost Your Productivity with the Innovative Onetastic Enhancement for Microsoft OneNote</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-x-flip-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo X Flip Running Slow and Freezing | Dr.fone</u></a></li>
 </ul></div>
 

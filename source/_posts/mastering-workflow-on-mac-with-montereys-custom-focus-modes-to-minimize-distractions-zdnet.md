@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2024-10-09T17:02:33.737Z
-updated: 2024-10-13T16:26:14.195Z
+date: 2024-10-14T17:10:23.483Z
+updated: 2024-10-19T17:05:07.554Z
 tags:
   - apple
 categories:
@@ -28,15 +28,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,16 +55,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -67,19 +68,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -97,6 +85,13 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -110,13 +105,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -160,22 +148,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebook-fb-upload-strategies-for-mobile-and-desktop/"><u>[New] Facebook FB Upload Strategies for Mobile & Desktop</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-ranked-apps-for-video-conferencing-and-collaboration-for-2024/"><u>[Updated] Top-Ranked Apps for Video Conferencing and Collaboration for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/abbyy-commits-to-a-greener-future-by-collaborating-with-the-national-forest-foundation-for-20k-tree-plantation-in-chippewa/"><u>ABBYY Commits to a Greener Future by Collaborating with the National Forest Foundation for 20K Tree Plantation in Chippewa</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/access-insta-content-anonymously-a-guide-to-non-account-browsing/"><u>Access Insta-Content Anonymously: A Guide to Non-Account Browsing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-exceptional-stores-for-buying-your-next-smartphone/"><u>Discover Exceptional Stores for Buying Your Next Smartphone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-guide-to-boot-windows-10-on-your-recently-installed-hard-disk/"><u>Effortless Guide to Boot Windows 10 on Your Recently Installed Hard Disk</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/engage-audiences-flawlessly-with-live-screenshares-for-2024/"><u>Engage Audiences Flawlessly with Live Screenshares for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-solving-the-mystery-of-facetime-blackout-screens/"><u>Expert Advice on Solving the Mystery of Facetime Blackout Screens</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/high-end-spec-showdown-unveiling-the-true-potential-of-the-asus-rog-zephyrus-g16-for-gamers/"><u>High-End Spec Showdown: Unveiling the True Potential of the Asus ROG Zephyrus G16 for Gamers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-link-your-ps-vr-headset-to-a-laptop-or-desktop-computer-successfully/"><u>How To Link Your PS VR Headset to a Laptop or Desktop Computer Successfully</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-manipulating-media-with-mastery-tools/"><u>In 2024, Manipulating Media with Mastery Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-apple-watch-series-4-an-enhanced-masterpiece/"><u>In-Depth Analysis of the Apple Watch Series 4: An Enhanced Masterpiece</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-combat-against-lynels-in-the-legend-of-zelda-breath-of-the-wild/"><u>Mastering Combat Against Lynels in The Legend of Zelda: Breath of the Wild</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mastering-flashbook-designs-effortless-background-editing-on-flipbuildercom/"><u>Mastering FlashBook Designs: Effortless Background Editing on FlipBuilder.com</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-biometrics-and-its-revolutionary-applications/"><u>The Definitive Guide to Biometrics and Its Revolutionary Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-beloved-childrens-films-on-disneyplus-july-selection/"><u>Top Picks: Beloved Children's Films on Disney+ - July Selection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-cutting-edge-techniques-top-lenses-for-youtube-stars/"><u>[New] In 2024, Cutting-Edge Techniques Top Lenses for YouTube Stars</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-dynamic-duo-of-filmmaking-and-thumbnail-design/"><u>[New] The Dynamic Duo of Filmmaking and Thumbnail Design</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-tools-to-bypass-lock-screenspark-20c-by-drfone-android-unlock-android-unlock/"><u>Bypass Tools to Bypass Lock Screen(Spark 20C)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/creating-a-unique-identity-in-the-flood-of-live-streams/"><u>Creating a Unique Identity in the Flood of Live Streams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-future-of-google-pixel-phones-unpacked-rumors-on-10th-editions-launch-window-potential-pricing-and-features/"><u>Deciphering Future of Google Pixel Phones - Unpacked Rumors on 10Th Edition's Launch Window, Potential Pricing, and Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elevate-your-design-game-with-expert-level-3d-text-tips-for-2024/"><u>Elevate Your Design Game with Expert-Level 3D Text Tips for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/embracing-the-future-with-verizons-5g-network/"><u>Embracing the Future with Verizon's 5G Network</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/hack-your-webcam-efficient-recording-techniques-for-2024/"><u>Hack Your Webcam Efficient Recording Techniques for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-msstdfmtdll-file-absence-on-windows-computers/"><u>How to Correctly Address Msstdfmt.dll File Absence on Windows Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/meta-quest-3-an-in-depth-look-at-its-specs-availability-date-and-how-much-it-costs/"><u>Meta Quest 3 - An In-Depth Look at Its Specs, Availability Date & How Much It Costs</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/mpeg-4-m2ts/"><u>MPEG-4 (M2TS)ファイルの品質維持における編集手順</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/word-basics-how-to-insert-and-customize-lines-efficiently/"><u>Word Basics: How to Insert and Customize Lines Efficiently</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-se-2022-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone SE (2022)?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Insights on Pros and Cons From ZDNet Editors
-date: 2024-10-09T17:39:05.681Z
-updated: 2024-10-13T16:56:23.962Z
+date: 2024-10-14T16:09:55.664Z
+updated: 2024-10-19T16:32:52.115Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,16 +129,22 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-behind-the-numbers-earnings-in-podcasting-for-2024/"><u>[New] Behind the Numbers Earnings in Podcasting for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-expertise-in-action-mastering-iphone-silhouette-art-for-2024/"><u>[Updated] Expertise in Action Mastering iPhone Silhouette Art for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722865882392-discover-the-hottest-max-series-offering-right-this-second/"><u>Discover the Hottest MAX Series Offering Right This Second!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-does-the-espn-streaming-service-operate-known-as-espnplus/"><u>How Does the ESPN Streaming Service Operate, Known as ESPN+?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-remove-the-ai-assistant-copilot-from-windows-11-easy-steps-inside/"><u>How to Remove the AI Assistant Copilot From Windows 11 - Easy Steps Inside!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-itel-a60s-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Itel A60s Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximizing-battery-life-on-windows-10-with-built-in-reporting-features/"><u>Maximizing Battery Life on Windows 10 with Built-In Reporting Features</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-the-maze-key-points-in-selecting-an-elite-gaming-pc/"><u>Navigating the Maze: Key Points in Selecting an Elite Gaming PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-honor-100-pro-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Honor 100 Pro.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-from-apple-probing-the-insider-talk-on-price-release-date-and-robot-capabilities/"><u>The Next Big Thing From Apple? Probing the Insider Talk on Price, Release Date & Robot Capabilities</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-list-for-seeking-no-cost-high-quality-vector-imagery-for-2024/"><u>The Ultimate List for Seeking No-Cost High-Quality Vector Imagery for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/voiding-common-pitfalls-in-youtube-sponsorships-according-to-famebit/"><u>[New] Avoiding Common Pitfalls in YouTube Sponsorships, According to FameBit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-understanding-instagrams-video-length-cap-for-2024/"><u>[New] Understanding Instagram's Video Length Cap for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-comparing-igs-new-features-reels-vs-stories/"><u>[Updated] 2024 Approved Comparing IG's New Features Reels Vs Stories</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-secure-survival-housing-in-minecraft/"><u>[Updated] In 2024, Secure Survival Housing in Minecraft</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-s17e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo S17e to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-twitter-accounts-to-unlock-travel-secrets-score-deals-and-gain-valuable-insights-from-66-experts/"><u>Best Twitter Accounts to Unlock Travel Secrets: Score Deals and Gain Valuable Insights From 66 Experts.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-capturing-instagram-stories-from-mobile-and-desktop-devices/"><u>Guide: Capturing Instagram Stories From Mobile & Desktop Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-temporarily-suspend-your-facebook-account-on-android-devices/"><u>How To Temporarily Suspend Your Facebook Account on Android Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nokia-g22-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nokia G22 Easily?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-an-ipad-simply-a-tablet-or-does-it-offer-more-differences-explored/"><u>Is an iPad Simply a Tablet or Does It Offer More? Differences Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-method-erasing-your-song-likes-from-spotifys-library/"><u>Master the Method: Erasing Your Song Likes From Spotify's Library</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-your-next-purchase-understanding-the-key-aspects-of-gaming-consoles/"><u>Navigating Your Next Purchase: Understanding the Key Aspects of Gaming Consoles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/professional-youtubers-guide-studio-vs-next-generation-beta-for-2024/"><u>Professional YouTuber's Guide Studio Vs. Next Generation Beta for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-vcompdll-missing-error-a-step-by-step-guide/"><u>Solving 'vcomp.dll' Missing Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolving-not-found-rockalldlldll-errors-on-your-pc/"><u>Step-by-Step Guide: Resolving Not Found RockallDLL.dll Errors on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-selection-premier-gaming-machines-2024-edition/"><u>The Ultimate Selection: Premier Gaming Machines, 2024 Edition</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/usbwindows-oswin-11-win-10-win-8-win-e7/"><u>USBデバイス用にWindows OSを修復するための手順【Win 11, Win 10, Win 8, Win E7】</u></a></li>
 </ul></div>
 

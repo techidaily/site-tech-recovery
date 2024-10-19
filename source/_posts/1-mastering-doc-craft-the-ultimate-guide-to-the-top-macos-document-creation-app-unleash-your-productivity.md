@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2024-10-10T16:48:32.978Z
-updated: 2024-10-13T16:25:25.530Z
+date: 2024-10-14T16:04:31.519Z
+updated: 2024-10-19T16:09:56.650Z
 tags:
   - apple
 categories:
@@ -36,16 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +80,16 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,21 +140,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-choice-android-sky-dumps-and-safes/"><u>[New] 2024 Approved Top Choice Android Sky Dumps & Safes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-videography-guide-size-matters/"><u>[Updated] 2024 Approved Instagram Videography Guide - Size Matters</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-movie-magic-made-simple-a-step-by-step-guide/"><u>2024 Approved Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-adding-and-deleting-assemblies-with-custom-actions-for-enhanced-functionality/"><u>Comprehensive Guide: Adding and Deleting Assemblies with Custom Actions for Enhanced Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connecting-the-dots-how-to-sync-ps-vr-headset-with-windows-or-macos/"><u>Connecting the Dots: How to Sync PS VR Headset with Windows or macOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/contacting-the-snapchat-help-desk-a-comprehensive-guide/"><u>Contacting the Snapchat Help Desk: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/deutsche-telekom-ag/"><u>Deutsche Telekom AG</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/expert-hashtag-analyzers-for-social-media-giants-fbtweetig/"><u>Expert Hashtag Analyzers for Social Media Giants (FB/Tweet/IG)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-definition-footage-leading-cameras-of-2024/"><u>High Definition Footage Leading Cameras of 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-lava-blaze-curve-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Lava Blaze Curve 5G Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/insider-info-on-meta-quest-light-projections-for-price-point-release-timeline-and-tech-specs/"><u>Insider Info on Meta Quest ^ Light: Projections for Price Point, Release Timeline, and Tech Specs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lenovo-pc-mastery-a-step-by-step-walkthrough-for-full-system-restoration/"><u>Lenovo PC Mastery: A Step-by-Step Walkthrough for Full System Restoration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stay-updated-with-zoom-on-your-computer-comprehensive-guide-for-both-windows-and-mac-users/"><u>Stay Updated with Zoom on Your Computer: Comprehensive Guide for Both Windows and Mac Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-creating-your-first-duet-video-on-tiktok/"><u>Step-by-Step Guide: Creating Your First Duet Video on TikTok</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-windows-ambiance-installing-from-the-ms-store/"><u>Transitioning Windows Ambiance: Installing From The MS Store</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-collection-the-507-most-creative-instagram-post-texts-2024-edition/"><u>Ultimate Collection: The 507 Most Creative Instagram Post Texts, 2024 Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-balanced-hue-enhancer-suite/"><u>[New] Balanced Hue Enhancer Suite</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-how-to-mass-download-tiktok-videos/"><u>[New] How To Mass Download TikTok Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-basic-screenshot-toolkit-for-windows-10-for-2024/"><u>[Updated] Basic Screenshot Toolkit for Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels/"><u>[Updated] Focus on the Essentials The Compreenas for Removing Youtube Channels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-to-high-performance-wireless-drivers-today/"><u>Download and Upgrade to High-Performance Wireless Drivers Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-rumors-the-upcoming-samsung-galaxy-s25-pricing-schedule-and-tech-specs/"><u>Exploring Rumors: The Upcoming Samsung Galaxy S25 Pricing, Schedule & Tech Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-the-right-surge-protector-for-electronics/"><u>How to Get the Right Surge Protector for Electronics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>In 2024, The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-hidden-navigation-tips-for-accessing-and-utilizing-concealed-paths/"><u>Master Hidden Navigation: Tips for Accessing and Utilizing Concealed Paths</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ride-the-waves-with-top-picks-for-surfing-cams/"><u>Ride the Waves with Top Picks for Surfing Cams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-next-big-thing-the-samsung-galaxy-super-ultra-2023-editions-release-date-pricing-rumors-and-full-feature-list-revealed/"><u>Sneak Peek at the Next Big Thing - The Samsung Galaxy Super Ultra 2023 Edition's Release Date, Pricing Rumors & Full Feature List Revealed</u></a></li>
+<li><a href="https://win-web.techidaily.com/tech-review-how-microsofts-new-lineup-of-easy-to-repair-laptops-outshines-rivals-leaving-apple-to-catch-up-zdnet/"><u>Tech Review: How Microsoft's New Lineup of Easy-to-Repair Laptops Outshines Rivals, Leaving Apple to Catch Up | ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tips-and-tricks-preventing-auto-play-on-your-apple-music-streams/"><u>Tips & Tricks: Preventing Auto-Play on Your Apple Music Streams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trouble-with-msi-dll-files-heres-how-you-can-repair-them/"><u>Trouble with MSI DLL Files? Here’s How You Can Repair Them!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-roster-of-confirmed-games-for-playstation-vr-comprehensive-listing-available-now/"><u>Unlock the Full Roster of Confirmed Games for PlayStation VR²: Comprehensive Listing Available Now</u></a></li>
 </ul></div>
 

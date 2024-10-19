@@ -1,7 +1,7 @@
 ---
 title: Why You Won't Find Excitement Punctuated with Exclamation Points on Apple's Site, According to ZDNET
-date: 2024-10-03T18:20:06.148Z
-updated: 2024-10-07T19:55:47.625Z
+date: 2024-10-12T16:11:36.729Z
+updated: 2024-10-19T16:40:08.061Z
 tags:
   - apple
 categories:
@@ -79,10 +79,16 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -124,16 +130,16 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -199,21 +205,17 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/0-youtube-music-rippers-for-android-and-ios-for-2024/"><u>[New] 10 YouTube Music Rippers for Android and iOS for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-efficient-methods-for-producing-and-perfecting-multiple-snaps-for-2024/"><u>[New] Efficient Methods for Producing & Perfecting Multiple Snaps for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-cost-camera-screenshot-tool-reviews-and-selections-for-2024/"><u>[New] No-Cost Camera Screenshot Tool Reviews & Selections for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>[Updated] Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/oggwav/"><u>自動無縫OGG到WAV格式转换 - 提高音频质量的移动优化工具</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/as-we-approach-the-upper-limit-without-reaching-it-for-x-plus-y-plus-z-20-we-could-have-4-7-9-which-is-one-example-all-permutations-of-these-numbers-are-als27/"><u>As We Approach the Upper Limit without Reaching It, for X + Y + Z = 20, We Could Have (4, 7, 9), Which Is One Example; All Permutations of These Numbers Are Also Possible.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-on-the-netgear-nighthawk-x10-ad7200-a-gateway-to-ultra-fast-internet/"><u>Expert Analysis on the Netgear Nighthawk X10 AD7200: A Gateway to Ultra-Fast Internet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-drivers-for-your-lenovo-ideapad-100-on-windows-10-free-download-and-tutorial/"><u>Get the Latest Drivers for Your Lenovo IdeaPad 100 on Windows 10 - Free Download and Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-conversion-de-archivo-audible-en-la-web-desde-wma-hasta-m4b-con-herramientas-en-linea-y-facil-de-uso-como-movavi/"><u>Gratis Conversión De Archivo Audible en La Web: Desde WMA Hasta M4B Con Herramientas en Línea Y Fácil De Uso Como Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-omzetten-van-m4v-bestandjes-veilige-professioneel-ontwikkelde-opsluiting-movavi/"><u>Gratis Omzetten Van M4V-Bestandjes: Veilige, Professioneel Ontwikkelde Opsluiting - Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-c65-by-fonelab-android-recover-messages/"><u>How to recover old messages from your C65</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefining-tech-trends-artificial-intelligence-and-windows-11/"><u>Redefining Tech Trends: Artificial Intelligence & Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-16-streaming-apps-reviewed-the-ultimate-list-of-best-software/"><u>Top 16 Streaming Apps Reviewed: The Ultimate List of Best Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-19-compressores-de-video-mais-populares-e-gratuitos-para-computador-funcionamento-on-line-e-off-lin/"><u>Top 19 Compressores De Vídeo Mais Populares E Gratuitos Para Computador - Funcionamento On-Line E Off-Lin</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-videos-from-mkv-to-flv-on-the-web-gratis-using-videomaker-pro/"><u>Transform Your Videos From MKV to FLV on the Web Gratis Using VideoMaker Pro</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-asus-bluetooth-adapter-with-our-step-by-step-installation-guide/"><u>Update Your ASUS Bluetooth Adapter with Our Step-by-Step Installation Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-maximize-your-spotify-campaign-roi-an-expert-guide/"><u>[New] Maximize Your Spotify Campaign ROI - An Expert Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>[New] Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-the-process-of-downloading-instagram-videos-pcmac-for-2024/"><u>[New] Unveiling the Process of Downloading Instagram Videos (PC/Mac) for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-turning-snapchat-into-cash-secrets-revealed/"><u>2024 Approved Turning Snapchat Into Cash Secrets Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-individuals-who-liked-your-instagram-post-a-step-by-step-guide/"><u>Identifying Individuals Who Liked Your Instagram Post: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quickly-pivoting-vids-in-windows-11-discover-these-three-simple-strategies/"><u>Quickly Pivoting Vids in Windows 11: Discover These Three Simple Strategies!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/setting-up-customized-finder-preferences-for-organizing-your-files-and-subfolders/"><u>Setting Up Customized Finder Preferences for Organizing Your Files & Subfolders</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-presents-for-young-video-game-fans-console-and-add-on-collections/"><u>Top Presents for Young Video Game Fans: Console and Add-On Collections</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transfer-media-seamlessly-with-winxdvd-your-ultimate-dvd-ripper-and-video-editor-for-all-devices/"><u>Transfer Media Seamlessly with WinXDVD - Your Ultimate DVD Ripper & Video Editor for All Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-resource-consumption-of-compatibility-telemetry-service-on-windows-10-systems/"><u>Troubleshooting High Resource Consumption of Compatibility Telemetry Service on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-fixing-syntax-problems-in-your-android-codebase-with-simple-solutions/"><u>Understanding & Fixing Syntax Problems in Your Android Codebase with Simple Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-full-potential-a-guide-to-enabling-120fps-graphics-in-ps5-games/"><u>Unlocking Full Potential: A Guide to Enabling 120Fps Graphics in PS5 Games</u></a></li>
 </ul></div>
 

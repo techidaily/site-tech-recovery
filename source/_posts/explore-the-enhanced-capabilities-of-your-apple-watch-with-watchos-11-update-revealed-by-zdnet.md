@@ -1,7 +1,7 @@
 ---
 title: Explore the Enhanced Capabilities of Your Apple Watch with WatchOS 11 Update Revealed by ZDNet
-date: 2024-10-06T20:53:45.831Z
-updated: 2024-10-07T21:49:26.247Z
+date: 2024-10-18T16:58:17.154Z
+updated: 2024-10-19T16:52:27.393Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -57,6 +57,13 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -64,19 +71,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -97,10 +91,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -108,13 +102,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -131,6 +118,13 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 **How to:** On your Apple Watch, head to Settings > Siri and under "Ask Siri," choose "Listen For." From that list, tap the "Off" button. This will disable the mics and only let you trigger Siri by long-pressing the Digital Crown.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
@@ -179,24 +173,22 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-explore-the-finest-15-video-cameras-for-vlogging-success/"><u>[New] 2024 Approved Explore the Finest 15 Video Cameras for Vlogging Success</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-unlock-views-essential-fonts-for-stellar-thumbnails/"><u>[New] 2024 Approved Unlock Views Essential Fonts for Stellar Thumbnails</u></a></li>
-<li><a href="https://fox-that.techidaily.com/busting-myths-and-fixing-flaws-the-iphone-13s-top-six-trouble-spots/"><u>Busting Myths & Fixing Flaws: The iPhone 13'S Top Six Trouble Spots</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-restoring-functionality-of-the-sennheiser-game-one-microphone/"><u>Diagnosing and Restoring Functionality of the Sennheiser Game One Microphone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-correct-ieframedll-problems-on-your-pc/"><u>Effective Solutions to Correct ieframe.dll Problems on Your PC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-your-fitness-routine-top-10-yoga-streams-unveiled-for-2024/"><u>Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-premier-british-shows-currently-airing-on-netflix-platforms/"><u>Explore Premier British Shows Currently Airing on Netflix Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-learn-all-about-the-rumored-google-pixel-10-and-its-expected-launch-timeline/"><u>Get Ahead of the Curve - Learn All About the Rumored Google Pixel 10 and Its Expected Launch Timeline!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-use-whatsapp-on-a-mac/"><u>How to Use WhatsApp on a Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-crafting-breathtaking-time-lapses-with-gopro/"><u>In 2024, The Ultimate Guide to Crafting Breathtaking Time-Lapses with GoPro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-s17t-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo S17t FRP</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-magic-v2-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor Magic V2 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-the-ultimate-tech-resource/"><u>Inside Tom's Hardware: The Ultimate Tech Resource</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/marketing-leadership-update-gabriard-lukianchuk-joins-abbyy-c-suite-as-head-of-marketing/"><u>Marketing Leadership Update: Gabriard Lukianchuk Joins ABBYY C-Suite as Head of Marketing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-time-changes-a-detailed-walkthrough-for-your-amazon-kindle-paperwhite/"><u>Mastering Time Changes: A Detailed Walkthrough for Your Amazon Kindle Paperwhite</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/navigating-through-collective-media-on-messenger-for-2024/"><u>Navigating Through Collective Media on Messenger for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-sound-integration-how-to-link-a-computer-and-bluetooth-speakers-together/"><u>Seamless Sound Integration: How to Link A Computer and Bluetooth Speakers Together</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-11-no-cost-movies-downloads-best-free-film-websites/"><u>Top 11 No-Cost Movies Downloads: Best Free Film Websites</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-mfc42dll-file-step-by-step-solutions/"><u>Troubleshooting The Missing mfc42.dll File - Step-by-Step Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-chat-to-tune-downloader-for-fb/"><u>[New] Chat to Tune Downloader for FB</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/are-ps4-titles-compatible-with-ps5-consoles/"><u>Are PS4 Titles Compatible with PS5 Consoles?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/car-enhancement-strategies-with-chatbot-expertise/"><u>Car Enhancement Strategies with Chatbot Expertise</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-smartphone-wisely-iphones-or-androids-making-the-right-choice/"><u>Choosing Your Smartphone Wisely: IPhones or Androids, Making the Right Choice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-double-protection-for-gmail-via-dual-authentication-techniques/"><u>Enabling Double Protection for Gmail via Dual Authentication Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-correcting-unregistered-dll-problems-in-windows-11-for-smooth-operation/"><u>Guide: Correcting Unregistered DLL Problems in Windows 11 for Smooth Operation</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211221822-how-to-get-your-uncooperative-usb-mouse-back-on-track-with-these-fixes/"><u>How to Get Your Uncooperative USB Mouse Back on Track with These Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-the-newest-realtek-bluetooth-driver-versions-for-your-pc-windows-11-10/"><u>How to Obtain the Newest Realtek Bluetooth Driver Versions for Your PC (Windows 11, 10)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-marketing-mastery-series-top-podcasts-to-guide-you-through-social-medias-impact/"><u>New In 2024, Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/quick-and-easy-techniques-to-convert-high-quality-4k-footage-into-hd-format-with-pcmac-applications/"><u>Quick & Easy Techniques to Convert High-Quality 4K Footage Into HD Format with PC/Mac Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/single-number-unlimited-possibilities-linking-multiple-devices-with-just-one-mobile-number/"><u>Single Number, Unlimited Possibilities: Linking Multiple Devices with Just One Mobile Number</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-directx-and-directinput-dll-issues-a-comprehensive-guide/"><u>Solving DirectX and DirectInput DLL Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-preventing-fifa-20-from-crashing-on-pcs/"><u>Step-by-Step Solution for Preventing FIFA 20 From Crashing on PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformative-impact-of-artific-if-intelligence-on-modern-society/"><u>Transformative Impact of Artific İf Intelligence on Modern Society</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trouble-with-stadia-heres-how-to-restore-your-headset-connection/"><u>Trouble with Stadia? Here's How to Restore Your Headset Connection!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-non-ringing-iphones-expert-advice-and-solutions/"><u>Troubleshooting Non-Ringing iPhones: Expert Advice and Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-how-bass-management-improves-your-listening-experience/"><u>Unveiling How Bass Management Improves Your Listening Experience</u></a></li>
 </ul></div>
 

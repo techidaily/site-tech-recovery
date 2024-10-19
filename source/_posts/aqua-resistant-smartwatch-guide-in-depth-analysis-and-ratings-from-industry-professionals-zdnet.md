@@ -1,7 +1,7 @@
 ---
 title: "Aqua-Resistant Smartwatch Guide : In-Depth Analysis and Ratings From Industry Professionals | ZDNet"
-date: 2024-10-07T17:23:39.088Z
-updated: 2024-10-13T16:32:40.507Z
+date: 2024-10-14T17:07:50.625Z
+updated: 2024-10-19T16:19:29.005Z
 tags:
   - apple
 categories:
@@ -136,13 +136,6 @@ Cons
 * Large size not suitable for smaller wrists
 * Blood pressure certification taking much longer than advertised
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Watch Ultra
 
 ### Best Samsung smartwatch for outdoor adventurers
@@ -178,6 +171,13 @@ Cons
 
 ## Samsung Galaxy Watch 7
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best Samsung smartwatch for smaller wrists
 
 Samsung's latest smartwatch for the masses, the Galaxy Watch 7, was unveiled along with the Galaxy Watch Ultra at its 2024 Unpacked event in Paris in July. The Watch 7 is available in two smaller sizes compared to the [Watch 6 series](https://www.zdnet.com/article/3-surprising-features-that-sold-me-on-the-samsung-galaxy-watch-6-classic/), 44 and 40 mm, so it is likely to appeal to most Galaxy phone owners with smaller wrists. The Watch Ultra is a large 47mm watch designed for those with larger wrists. 
@@ -207,6 +207,13 @@ Cons
 * Limited sleep details
 
 ## Apple Watch SE
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best value Apple Watch
 
@@ -271,14 +278,14 @@ Cons
 * No Google Assistant support
 * Overwhelming smartphone app experience
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazfit Balance
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best basic, budget smartwatch
 
@@ -311,6 +318,13 @@ Cons
 
 ## Withings ScanWatch 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best hybrid smartwatch
 
 Withings is focused on providing advanced health and wellness products with the ScanWatch series available to capture data from your wrist. The Withings ScanWatch 2 continues to provide 30 day battery life in a hybrid watch with support for Android and iOS smartphones.
@@ -342,19 +356,6 @@ If you're an Android user, you may prefer a Samsung Galaxy Watch Ultra -- the ne
 | Garmin Venu 3S             | $450      | 10 days          | 41mm                  |
 | Amazfit Balance            | $220      | 14 days          | 46mm                  |
 | Withings ScanWatch 2       | $350      | 30 days          | 38 and 42mm           |
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which is the right smartwatch for you?
 
@@ -400,13 +401,6 @@ For a deeper look into our testing process, check out our comprehensive [smartwa
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are there any smartwatches I should avoid?
 
 There are many reasons why a person might want a smartwatch, so depending on your needs, it's hard to recommend watches that will satisfy everyone. However, based on my testing, there are a couple of smartwatches that you may want to leave off your list of considerations as you conduct your research.
@@ -414,6 +408,13 @@ There are many reasons why a person might want a smartwatch, so depending on you
 Fossil has been offering smartwatches for a long time, and I still have a working Fossil Wrist PDA that is powered by Palm OS and has a tiny stylus. For the past few years, Fossil has been making Google Wear OS-powered smartwatches and offering a fairly compelling option with some unique styles. However, in January 2024 Fossil Group announced that it would no longer be releasing smartwatches, with the last Gen 6 model released in 2021\. You can still find some Fossil watches available, and Fossil Group stated that they will continue to update the watches for the next few years, but be careful when you are considering one of these watches.
 
 There was a great promise with a luxury Wear OS watch in 2022 when Montblanc released the [Summit 3 smartwatch](https://www.zdnet.com/article/montblanc-summit-3-review/). While we provided a preliminary review as we looked for a future update that was supposed to add some core functionality, that update never came, and the watch sits idly by running the same older version of Wear OS on a processor that is now a couple of generations old. It's a lovely luxury watch so if you want a basic smartwatch with those good looks, maybe you can find one on sale. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I set up my smartwatch?
 
@@ -423,18 +424,18 @@ If you own a Google Wear OS smartwatch, primarily from Google or Samsung, then t
 
 Apple Watch users turn on the watch and then follow the prompts to pair it to an iPhone, often with the iPhone camera scanning an image that appears on the Apple Watch face. Apple has the Watch smartphone application preloaded on the iPhone so set up is quick and easy. If you had a previous Apple Watch then you can also have all of that data synced over to a new model, which makes upgrading Apple Watch models one of the experiences that keep people upgrading on a regular basis.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can you use a Samsung or Google watch with an iPhone?
 
 Google Wear OS watches used to work with both Android and iPhone devices, but the new Wear OS 4 and later watches from Samsung and Google only support Android smartphones. iPhone users should stick with the Apple Watch, while Android phone users should seriously consider a Google Pixel Watch or Samsung Galaxy Watch model.
 
 Garmin, Amazfit, and Withings watches work flawlessly with both Android and iPhone devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can I text from a smartwatch?
 
@@ -471,10 +472,16 @@ Google acquired Fitbit, and now the Fitbit ecosystem is deeply incorporated into
 Apple has advanced its health monitoring technology, and the upcoming watchOS 11 will bring even more capability with detailed data measurements in its Vitals application. Training Load will also be coming with this next version of the operating system, challenging the likes of Garmin, Coros, and Polar with this advanced fitness metric.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can smartwatches monitor blood sugar?
@@ -484,10 +491,10 @@ The FDA released a [safety communication](https://www.fda.gov/medical-devices/sa
 Devices, like those from [Dexcom](https://www.dexcom.com/all-access/dexcom-cgm-explained/cgm-and-smartwatch), send real-time glucose data directly to a compatible watch. For Dexcom monitors, this includes most versions of the Apple Watch. Make sure to check both your glucose monitor and your smartwatch compatibility before deciding whether or not to use your smartwatch to connect to your monitor and smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What about tracking blood pressure?
@@ -501,13 +508,6 @@ Samsung provides blood pressure monitoring via its Galaxy Watch models in countr
 Eric Potter, USA weightlifting Level 1 Coach and Performance Coach at [Future](https://www.future.co/) Fitness, encourages people to choose a smartwatch based on compatibility, recommending an Apple Watch for iPhone users and a Samsung Galaxy Watch for Android fans. He notes that both smartwatches can track steps, heart rate, and exercise, but there are also crucial differences.
 
 "The Apple Watch has a larger interface allowing for easier viewing," he said. "On the other hand, the Samsung Galaxy Watch is cheaper than the Apple Watch, and the battery life tends to last longer."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative smartwatches worth considering?
 
@@ -565,14 +565,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-rhythmic-respite-top-20-easygoing-country-hits-for-stress-relief-dance-on-tiktok-for-2024/"><u>[Updated] Rhythmic Respite Top 20 Easygoing Country Hits for Stress-Relief Dance on TikTok for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-snap-into-hilarity-meme-creation-made-simple/"><u>[Updated] Snap Into Hilarity Meme Creation Made Simple</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-obs-playbook-for-twitch-and-youtube-streaming-for-2024/"><u>[Updated] The Ultimate OBS Playbook for Twitch & YouTube Streaming for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beyond-google-other-ar-sticker-solutions-for-2024/"><u>Beyond Google Other AR Sticker Solutions for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-effortless-gameplay-streaming-on-ps5/"><u>Expert Tips for Effortless Gameplay Streaming on PS5</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-top-screen-recorders-for-live-broadcasts-on-youtube/"><u>In 2024, Top Screen Recorders for Live Broadcasts on YouTube</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-unpacked-2025-a-comprehensive-guide-to-anticipated-launches-rumors-and-news-highlights/"><u>Samsung Unpacked 2025: A Comprehensive Guide to Anticipated Launches, Rumors, and News Highlights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-4-complimentary-digital-calendar-applications-youll-love/"><u>Top 4 Complimentary Digital Calendar Applications You'll Love</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-essential-factors-to-evaluate-when-choosing-a-smartwatch/"><u>Top 5 Essential Factors To Evaluate When Choosing A Smartwatch</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-collaborative-innovation-in-brand-and-media-synergy-for-2024/"><u>[New] Collaborative Innovation in Brand and Media Synergy for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-integrating-visual-cues-a-guide-to-videography-annotations-for-2024/"><u>[New] Integrating Visual Cues A Guide to Videography Annotations for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-download-directx-12-for-windows-10/"><u>[SOLVED] Download DirectX 12 for Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-only-3d-settings-in-nvidia-control-panel/"><u>[Solved] Only 3D Settings in NVIDIA Control Panel</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-clear-youtubes-obscured-visual-field/"><u>[Updated] 2024 Approved Clear Youtube's Obscured Visual Field</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-download-dvd-di-rippare-in-formato-hd-senza-perdite-il-guida-completa-per-il-mercato-gratuito/"><u>1. Download DVD Di 'Rippare' In Formato HD Senza Perdite: Il Guida Completa per Il Mercato Gratuito</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-elevating-images-a-professionals-palette-playbook/"><u>In 2024, Elevating Images A Professional's Palette Playbook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/reinvigorating-handheld-gaming-through-microsofts-classic-metro-interface-revival/"><u>Reinvigorating Handheld Gaming Through Microsoft's Classic Metro Interface Revival</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-expansion-setting-up-your-additional-display-on-windows-10/"><u>Seamless Expansion: Setting Up Your Additional Display on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-clearing-icon-cache-in-windows-7-8-and-vista/"><u>Simple Steps to Clearing Icon Cache in Windows 7, 8 & Vista</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-find-and-restore-deleted-word-files-on-windows-10-a-visual-guide/"><u>Simple Steps: Find and Restore Deleted Word Files on Windows 10 - A Visual Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-must-watch-lgbtplus-films-streaming-on-netflix-in-july-2024/"><u>Top 5 Must-Watch LGBT+ Films Streaming on Netflix in July 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-virtualization-potential-with-hyper-v-on-windows-11/"><u>Unleash Virtualization Potential with Hyper-V on Windows 11</u></a></li>
 </ul></div>
 

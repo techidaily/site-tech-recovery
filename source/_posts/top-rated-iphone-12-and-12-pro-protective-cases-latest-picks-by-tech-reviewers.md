@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated iPhone 12 & 12 Pro Protective Cases : Latest Picks by Tech Reviewers"
-date: 2024-09-30T21:17:29.605Z
-updated: 2024-10-07T16:44:20.163Z
+date: 2024-10-14T17:03:19.379Z
+updated: 2024-10-19T16:14:01.273Z
 tags:
   - apple
 categories:
@@ -43,13 +43,6 @@ Cons
 
 ## Nomad Sport Case
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best iPhone 16 case overall
 
 Nomad's website says, "we believe that the smartphone is the 21st-century equivalent of the sword: a tool that everyone can wield and change the world with." This makes Nomad cases a sort of sheath -- or at least one with 8 feet of drop protection and a MagSafe back. The Nomad Sport Case is our pick for the best iPhone 16 case overall to help sheath your new phone.
@@ -77,6 +70,13 @@ Cons
 
 ## Torras 360-degree OStand
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best kickstand iPhone 16 case
 
 Torras cases have always been a ZDNET favorite: Hiner called the Ostand case for the iPhone 15 "the most versatile and innovative of the bunch." The newest version fit for the iPhone 16 follows in its footsteps. 
@@ -102,19 +102,25 @@ Cons
 * Heftier price
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pitaka Ultra Slim case
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best thin iPhone 16 case
@@ -142,6 +148,13 @@ Cons
 * Low drop protection
 
 ## Smartish Gripmunk case
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best cheap iPhone 16 case
 
@@ -194,6 +207,13 @@ Cons
 * Pricier
 * No camera protection
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Incase Icon
 
 ### Best stylish iPhone 16 case
@@ -224,13 +244,6 @@ Cons
 
 ## Moft Snap Case Movas
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best vegan-leather iPhone 16 case
 
 Leather is always a stylish option to keep around your phone, but sustainably sourcing it can always be questionable. Moft's Snap Case Movas is our solution to that problem.
@@ -259,6 +272,13 @@ Cons
 
 ## Nomad Modern Leather Case
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best leather case for iPhone 16
 
 Leather is always a stylish and sleek choice for a phone case. However, it is not always the best at lasting or, sometimes, gripping your phone. That is why the Nomad Modern Leather case is a standout in this category. Even though leather is not the most sustainable material, Nomad asserts it sources it in sustainable ways.
@@ -270,13 +290,6 @@ That being said, leather is not everybody's thing. But, if you are in the market
 **Nomad Modern Leather case features:** 8 feet drop protection | Sustainably sourced leather | MagSafe and magnetic back
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case?
 
@@ -302,6 +315,13 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -311,35 +331,9 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 * **Cost:** iPhones are expensive, and spending a lot on a phone case just adds to the bill. Therefore, we consider price an important factor in our selections.
 * **Special Features:** Many cases have added features like MagSafe capabilities and a kickstand. We include these products to appease those who may prefer wireless charging or other necessary features.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these iPhone 16 cases?
 
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations  experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
 
@@ -363,16 +357,16 @@ The iPhone 16 is available for preorder now, and will arrive in stores on Septem
 
 If your phone has the problem of overheating, it may be best to look into specialty cases called heat dissipation cases. These cases are made of heat-wicking material that regulates heat and allows airflow to cool your phone down.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best iPhone for a 16 year old?
 
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
 
@@ -420,16 +414,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>[Updated] 2024 Approved From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-moments-seamlessly-with-snap-and-meet/"><u>[Updated] In 2024, Capturing Moments Seamlessly with Snap and Meet</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-perfect-your-stories-top-6-apps-for-android-and-iphone-snap-editing/"><u>[Updated] Perfect Your Stories Top 6 Apps for Android and iPhone Snap Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-shambling-successes-the-cutthroat-list-of-best-zombies-gaming/"><u>[Updated] Shambling Successes The Cutthroat List of Best Zombies Gaming</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-f15-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy F15 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-14-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi 14 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nokia-c300-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nokia C300 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/single-number-unlimited-possibilities-linking-multiple-devices-with-just-one-mobile-number/"><u>Single Number, Unlimited Possibilities: Linking Multiple Devices with Just One Mobile Number</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformative-impact-of-artific-if-intelligence-on-modern-society/"><u>Transformative Impact of Artific İf Intelligence on Modern Society</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trouble-with-stadia-heres-how-to-restore-your-headset-connection/"><u>Trouble with Stadia? Here's How to Restore Your Headset Connection!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-how-bass-management-improves-your-listening-experience/"><u>Unveiling How Bass Management Improves Your Listening Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mac-techniques-for-capturing-your-minecraft-adventures/"><u>[Updated] In 2024, Mac Techniques for Capturing Your Minecraft Adventures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-prime-film-unveiling-series/"><u>2024 Approved Prime Film Unveiling Series</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-performance-apples-iphone-15-pro-vs-pro-max-battle-royale/"><u>Decoding Performance: Apple's iPhone 15 Pro Vs. Pro Max Battle Royale</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-set-up-fandango-streaming-from-your-living-rooms-amazon-firestick/"><u>Easy Steps to Set Up Fandango Streaming From Your Living Room's Amazon Firestick</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-t2-pro-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/logitech-keyboard-a-step-by-step-guide-to-capturing-screenshots/"><u>Logitech Keyboard: A Step-by-Step Guide to Capturing Screenshots</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-unite-how-to-get-days-gone-up-and-running-without-hitches/"><u>PC Gamers Unite! How to Get 'Days Gone' Up & Running Without Hitches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-unregister-or-remove-gadgets-from-your-google-home-setup/"><u>Simple Steps to Unregister or Remove Gadgets From Your Google Home Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-performing-a-gentle-restart-on-your-iphone/"><u>Step-by-Step Guide: Performing a Gentle Restart on Your iPhone</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-your-facebook-even-when-codes-are-gone/"><u>Unlocking Your Facebook, Even When Codes Are Gone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-electric-vehicles-excel-over-gas-cars-the-compelling-reasons/"><u>Why Electric Vehicles Excel Over Gas Cars: The Compelling Reasons</u></a></li>
 </ul></div>
 

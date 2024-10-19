@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2024-10-11T16:16:22.585Z
-updated: 2024-10-13T16:32:50.782Z
+date: 2024-10-13T17:15:54.742Z
+updated: 2024-10-19T17:16:38.401Z
 tags:
   - apple
 categories:
@@ -43,16 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -62,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -77,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -92,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -134,21 +128,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-avoiding-pitfalls-navigating-through-facebooks-algorithm-update-for-2024/"><u>[New] Avoiding Pitfalls Navigating Through Facebook's Algorithm Update for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-fine-tuning-your-frames-with-videoleap-for-2024/"><u>[New] Fine-Tuning Your Frames with Videoleap for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-effortless-screenshots-on-dell-the-simple-way-to-capture/"><u>[New] In 2024, Effortless Screenshots on Dell - The Simple Way to Capture</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-obs-and-shadowplay-which-streams-better-for-2024/"><u>[New] Obs and ShadowPlay - Which Streams Better for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-secrets-of-impressive-hdr-portraits/"><u>2024 Approved Unlocking the Secrets of Impressive HDR Portraits</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/5-effective-strategies-for-fixing-android-wi-fi-authentication-errors/"><u>5 Effective Strategies for Fixing Android Wi-Fi Authentication Errors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/compress-your-videos-like-a-pro-with-these-tips-on-adobe-premiere-pro/"><u>Compress Your Videos Like a Pro with These Tips on Adobe Premiere Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crackle-premium-your-gateway-to-watching-free-premier-films-and-series-online/"><u>Crackle Premium - Your Gateway to Watching Free, Premier Films and Series Online</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-mpeg2-video-compression-made-easy-with-virtualdub/"><u>New MPEG2 Video Compression Made Easy with VirtualDub</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-the-challenge-of-a-missing-or-corrupted-msvcrt10dll/"><u>Overcoming the Challenge of a Missing or Corrupted msvcrt10.dll</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/price-forecast-and-key-specifications-for-the-new-samsung-galaxy-z-fold-release-date-and-buzzing-rumors/"><u>Price Forecast and Key Specifications for the New Samsung Galaxy Z Fold - Release Date & Buzzing Rumors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-kernel-page-fault-issue-a-comprehensive-guide/"><u>Solving the 'Kernel Page Fault' Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-xlivedll-file-cannot-be-located-a-comprehensive-guide/"><u>Solving the Issue: Xlive.dll File Cannot Be Located – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-brains-behind-chatgpt-finding-out-who-owns-this-ai-platform/"><u>The Brains Behind ChatGPT – Finding Out Who Owns This AI Platform</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-x-flip-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo X Flip Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-nubia-red-magic-9-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nubia Red Magic 9 Pro Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-delving-into-vlc-screenshot-technology-for-2024/"><u>[New] Delving Into VLC Screenshot Technology for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-giggle-guild-the-ultimate-list-of-twitter-joke-threads/"><u>[New] Giggle Guild The Ultimate List of Twitter Joke Threads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-tips-for-incorporating-music-selections-on-vimeo-videos/"><u>[New] Tips for Incorporating Music Selections on Vimeo Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-review-of-the-robust-and-elite-fugetek-ft-568-selfie-stick-for-capturing-perfect-photos/"><u>Comprehensive Review of the Robust and Elite Fugetek FT-568 Selfie Stick for Capturing Perfect Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-email-troubles-could-aol-mail-be-the-culprit-or-might-there-be-another-issue/"><u>Deciphering Email Troubles: Could AOL Mail Be the Culprit or Might There Be Another Issue?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/enhancing-tweets-adding-media-files/"><u>Enhancing Tweets Adding Media Files</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-13c-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 13C 5G Phones with/without a PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/m4-mac-mini-news-and-expected-price-release-date-specs-and-more-rumors/"><u>M4 Mac Mini: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-os-x-email-security-how-to-configure-safe-senders-and-blocked-addresses/"><u>Mac OS X Email Security: How to Configure Safe Senders and Blocked Addresses</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-engineering-skills-using-free-cad-tools-we-love/"><u>Maximize Your Engineering Skills Using Free CAD Tools We Love</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-how-to-convert-video-voice-to-text-online-for-free/"><u>New How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-tips-for-changing-the-display-time-on-your-kindle-paperwhite-tablet/"><u>Simple Tips for Changing the Display Time on Your Kindle Paperwhite Tablet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resetting-your-computers-bios-configuration-data/"><u>Step-by-Step Guide: Resetting Your Computer's BIOS Configuration Data</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-streaming-from-pclaptop-to-tv-using-hdmi-connection/"><u>Step-by-Step Tutorial: Streaming From PC/Laptop to TV Using HDMI Connection</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nubia-red-magic-8s-proplus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nubia Red Magic 8S Pro+ Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

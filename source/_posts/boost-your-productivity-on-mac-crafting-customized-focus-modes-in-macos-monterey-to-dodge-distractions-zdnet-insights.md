@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions | ZDNET Insights"
-date: 2024-10-11T17:17:57.746Z
-updated: 2024-10-13T17:25:27.653Z
+date: 2024-10-13T16:01:27.183Z
+updated: 2024-10-19T17:23:04.986Z
 tags:
   - apple
 categories:
@@ -28,6 +28,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
@@ -41,10 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -56,16 +63,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -85,10 +86,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -104,19 +105,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -160,20 +148,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-a-comparative-journey-through-the-top-10-tv-streamers/"><u>[Updated] A Comparative Journey Through the Top 10 TV Streamers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>[Updated] Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-your-watch-experience-with-faster-instagram-videos/"><u>2024 Approved Enhance Your Watch Experience with Faster Instagram Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-inserting-tracks-in-youtube-playlists/"><u>2024 Approved Step-by-Step Inserting Tracks in YouTube Playlists</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bridging-operating-systems-a-comprehensive-guide-to-executing-android-apps-on-windows-10/"><u>Bridging Operating Systems: A Comprehensive Guide to Executing Android Apps on Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-platforms-for-movie-streaming-and-download/"><u>Discover the Best Free Platforms for Movie Streaming and Download</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tial-listings-for-easy-access-to-youtube-intro-files/"><u>Essential Listings for Easy Access to YouTube Intro Files</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exclusive-update-detailed-breakdown-of-googles-newest-pixel-tab-release-and-advanced-specifications/"><u>Exclusive Update: Detailed Breakdown of Google's Newest Pixel Tab Release & Advanced Specifications</u></a></li>
-<li><a href="https://article-tips.techidaily.com/harness-the-power-of-mematic-for-notes/"><u>Harness the Power of Mematic for Notes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-v27-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo V27 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/julys-ultimate-list-of-gratis-disk-defraggers-ranking-the-top-12/"><u>July's Ultimate List of Gratis Disk Defraggers: Ranking the Top 12</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-dpkgresourcelifecycleerror-how-to-correctly-resolve-dgbotdll-file-absent-issues/"><u>Solving the Dpkg_resource_lifecycle_error: How to Correctly Resolve dgBot.dll File Absent Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-essential-factors-to-evaluate-when-purchasing-your-new-desktop-computer/"><u>Top 8 Essential Factors to Evaluate When Purchasing Your New Desktop Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tip-fixing-the-video-cannot-load-error-code-224003/"><u>Troubleshooting Tip: Fixing the 'Video Cannot Load - Error Code 224003'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-pairing-your-samsung-earbuds-with-a-pc/"><u>Ultimate Guide: Pairing Your Samsung Earbuds with a PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-sync-up-success-sharing-youtube-on-ig-stories/"><u>[New] 2024 Approved Sync Up Success Sharing YouTube on IG Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>[New] The Art of Podcast Blurbs Techniques and Illustrations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlock-free-music-anytime-facebook-app/"><u>[New] Unlock Free Music, Anytime - Facebook App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/change-windows-10-taskbar-colors-with-these-easy-tips/"><u>Change Windows 10 Taskbar Colors with These Easy Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/college-budget-hacks-securing-an-affordable-student-price-at-tidal/"><u>College Budget Hacks: Securing an Affordable Student Price at Tidal</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/convenient-methods-for-storing-webinars-windows-and-mac-solutions-for-2024/"><u>Convenient Methods for Storing Webinars Windows & Mac Solutions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disablingenabling-the-touch-keyboard-on-your-windows-11-pc-a-step-by-step-guide/"><u>Disabling/Enabling the Touch Keyboard on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fortnite-account-fusion-techniques-a-comprehensive-guide/"><u>Fortnite Account Fusion Techniques: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/making-sense-of-minecraft-realms-worth-your-time-and-coins/"><u>Making Sense of Minecraft Realms - Worth Your Time and Coins?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps5-unique-game-library-discover-the-latest-exclusives/"><u>PS5 Unique Game Library: Discover the Latest Exclusives!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/slow-mo-to-fast-mo-top-10-free-video-speed-changing-apps-for-ios-and-android/"><u>Slow Mo to Fast Mo Top 10 Free Video Speed Changing Apps for iOS and Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-transform-vob-videos-into-avi-on-your-pc/"><u>Step-by-Step Tutorial: Transform VOB Videos Into AVI on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-tips-for-finding-the-best-protective-cases-for-your-smartphone/"><u>Top Tips for Finding the Best Protective Cases for Your Smartphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-waterproof-cellphone-protectors/"><u>Top-Rated Waterproof Cellphone Protectors</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/unraveling-the-impacts-what-happens-when-you-delete-windows-system32/"><u>Unraveling the Impacts: What Happens When You Delete Windows' System32?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-lenovo-p11-pro-tablet-a-great-device-with-some-blemishes-discussed/"><u>Unveiling the Lenovo P11 Pro Tablet - A Great Device with Some Blemishes Discussed</u></a></li>
 </ul></div>
 

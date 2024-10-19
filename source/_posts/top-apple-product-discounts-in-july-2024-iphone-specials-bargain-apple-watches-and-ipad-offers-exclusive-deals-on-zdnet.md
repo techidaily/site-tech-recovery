@@ -1,7 +1,7 @@
 ---
 title: "Top Apple Product Discounts in July 2024: IPhone Specials, Bargain Apple Watches & iPad Offers - Exclusive Deals on ZDNet"
-date: 2024-10-06T16:48:37.246Z
-updated: 2024-10-13T16:16:27.198Z
+date: 2024-10-18T16:25:58.499Z
+updated: 2024-10-19T16:30:28.493Z
 tags:
   - apple
 categories:
@@ -157,6 +157,19 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01065e29-7464-4a11-9fef-ce7328189756%7Cdtp&dtb=1)
@@ -171,15 +184,22 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
@@ -191,13 +211,6 @@ Apple's AirTag, a tracking device that connects to your account and allows you t
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -211,13 +224,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -241,10 +247,16 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -291,21 +303,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-retweeted-gifs-iphoneandroid-step-by-step-savings/"><u>[New] In 2024, Retweeted Gifs IPhone/Android Step-by-Step Savings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-unraveling-the-mysteries-of-smooth-audioshifts/"><u>[Updated] In 2024, Unraveling the Mysteries of Smooth Audioshifts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-speedy-transmission-techniques-ultimate-app-and-extension-guide/"><u>2024 Approved Speedy Transmission Techniques Ultimate App and Extension Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ambient-weather-station-model-ws-1n02-the-ultimate-review-of-its-elite-functionality-and-substantial-cost-implications/"><u>Ambient Weather Station Model WS-1n02 - The Ultimate Review of Its Elite Functionality and Substantial Cost Implications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decode-the-502-bad-gateway-error-tips-for-swift-solutions/"><u>Decode The '502 Bad Gateway' Error - Tips for Swift Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-telegram-insights-into-this-global-chatting-platform/"><u>Decoding Telegram: Insights Into This Global Chatting Platform</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/decoding-the-voices-of-europe-a-day-of-language-joy/"><u>Decoding the Voices of Europe: A Day of Language Joy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-updated-passwords-for-secure-access-to-d-link-networks-july-2024/"><u>Discover Updated Passwords for Secure Access to D-Link Networks (July 2024)</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/guide-complet-pour-sauvegarder-facilement-vos-donnees-avant-formater-sur-windows-7810-et-11/"><u>Guide Complet Pour Sauvegarder Facilement Vos Données Avant Formater Sur Windows 7,8,10 Et 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-easily-streaming-your-mac-screen-to-television-via-airplay/"><u>Guide: Easily Streaming Your Mac Screen to Television via AirPlay</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-top-8-ambiance-sounds-to-enhance-youtube-beginnings/"><u>In 2024, Top 8 Ambiance Sounds to Enhance YouTube Beginnings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/periscope-prodigy-from-beginner-to-expert/"><u>Periscope Prodigy From Beginner to Expert</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-how-to-stop-custom-suggestions-from-showing-up-on-your-instagram-feed/"><u>Step-by-Step: How To Stop Custom Suggestions From Showing Up On Your Instagram Feed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-a-missing-dark-theme-on-facebook-with-simple-fixes/"><u>Troubleshooting a Missing Dark Theme on Facebook with Simple Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-masters-of-ai-discovering-chatgpts-ownership/"><u>Unveiling the Masters of AI: Discovering ChatGPT's Ownership</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-key-landscapes-perfectly-capturing-live-streams/"><u>[New] Key Landscapes Perfectly Capturing Live Streams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/25-groundbreaking-metaverse-initiatives-for-comprehension-for-2024/"><u>25 Groundbreaking Metaverse Initiatives for Comprehension for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-signal-and-whatsapp-key-distinctions-explained/"><u>Comparing Signal and WhatsApp: Key Distinctions Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-world-of-online-jokes-what-are-memes/"><u>Decoding the World of Online Jokes: What Are Memes?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-recurring-crashes-in-mount-and-blade-2-bannerlord-top-tips-and-tricks/"><u>How to Fix Recurring Crashes in Mount & Blade 2: Bannerlord – Top Tips and Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hues-in-harmony-applying-color-principles-for-2024/"><u>Hues in Harmony Applying Color Principles for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-2024-secure-guide-to-common-linksys-router-passwords/"><u>July 2024 Secure Guide to Common Linksys Router Passwords</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722890365011-mastering-the-hidden-treasure-of-finder-path-bars-in-macos-enable-and-utilize-now/"><u>Mastering the Hidden Treasure of Finder Path Bars in MacOS - Enable and Utilize Now!</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-oppo-f23-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Oppo F23 5G on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-advapi32dll-file-cannot-be-located-dilemma/"><u>Resolving the 'Advapi32.dll File Cannot Be Located' Dilemma</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-building-a-homemade-projector-screen-from-scratch/"><u>Step-by-Step Tutorial: Building a Homemade Projector Screen From Scratch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/timeline-of-groundbreaking-technological-developments-since-1844/"><u>Timeline of Groundbreaking Technological Developments Since 1844</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tracing-influence-the-quest-for-your-passionate-pioneers-for-2024/"><u>Tracing Influence The Quest for Your Passionate Pioneers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-output-batch-creation-via-canva-chatgpt-magic/"><u>Transform Your Output: Batch Creation via Canva, ChatGPT Magic</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-vote-players-best-political-game-reviews/"><u>Ultimate Vote-Players Best Political Game Reviews</u></a></li>
 </ul></div>
 

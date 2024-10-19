@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Tech Spectacle: The iPhone 16 'Glowtime', AI Advancements, and the New Apple Watch Series 10"
-date: 2024-10-08T17:10:38.786Z
-updated: 2024-10-13T17:38:44.371Z
+date: 2024-10-17T17:01:26.239Z
+updated: 2024-10-19T16:32:48.227Z
 tags:
   - apple
 categories:
@@ -61,16 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -94,10 +88,10 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -125,10 +119,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -146,10 +140,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -198,20 +192,14 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/2024-approved-a-deep-dive-into-apples-m1-processor-power/"><u>2024 Approved A Deep Dive Into Apple's M1 Processor Power</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boosting-system-responsiveness-the-influence-of-memory-velocity-and-accessibility/"><u>Boosting System Responsiveness: The Influence of Memory Velocity & Accessibility</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/corrective-measures-for-not-found-ac1st16dll-files-on-windows-systems/"><u>Corrective Measures for 'Not Found' ac1st16.dll Files on Windows Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-c110-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia C110 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/flight-pattern-perfection-dissecting-bebops-parrot-expedition/"><u>Flight Pattern Perfection Dissecting Bebop's Parrot Expedition</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-10-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Spark 10 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/innovative-techniques-and-applications-for-observing-computer-behavior/"><u>Innovative Techniques and Applications for Observing Computer Behavior</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-your-visibility-on-youtube-with-these-8-key-tactics-for-virality/"><u>Maximize Your Visibility on YouTube with These 8 Key Tactics for Virality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reviving-your-home-theater-experience-a-complete-guide-to-resetting-samsung-soundbars/"><u>Reviving Your Home Theater Experience: A Complete Guide to Resetting Samsung Soundbars</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stay-updated-on-micromobility-key-events-latest-headlines-and-insider-information/"><u>Stay Updated on Micromobility: Key Events, Latest Headlines & Insider Information</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-current-state-of-5g-a-look-at-verizon/"><u>The Current State of 5G: A Look at Verizon</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-tools-zur-effizienten-datentransferierung-zwischen-ssd-und-hdd/"><u>Top Tools Zur Effizienten Datentransferierung Zwischen SSD Und HDD</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/ultimate-guide-to-the-xbox-series-x-unleashing-high-definition-gaming/"><u>Ultimate Guide to the Xbox Series X: Unleashing High Definition Gaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-hosting-a-memorable-karaoke-bash-in-your-living-room/"><u>Ultimate Guide: Hosting a Memorable Karaoke Bash in Your Living Room</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-efficiency-boost-crafting-uwp-app-shortcuts/"><u>Windows 11 Efficiency Boost: Crafting UWP App Shortcuts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-blurring-identity-erasing-faces-from-video-content-for-2024/"><u>[Updated] Blurring Identity Erasing Faces From Video Content for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/complete-data-recovery-solutions-restore-lost-files-on-windows-and-ios-devices/"><u>Complete Data Recovery Solutions: Restore Lost Files on Windows and iOS Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-analysis-of-the-sony-playstation-5-beyond-superiority-in-processing/"><u>Detailed Analysis of the Sony PlayStation 5: Beyond Superiority in Processing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/home-viewing-a-guide-to-watching-3d-films-through-fandango/"><u>Home Viewing: A Guide to Watching 3D Films Through Fandango</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme GT 5 Pro Phone?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-online-privacy-flush-out-browser-caches-in-major-platforms-effortlessly/"><u>Master the Art of Online Privacy: Flush Out Browser Caches in Major Platforms Effortlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premier-ios-tools-replicating-ps2-games/"><u>Premier iOS Tools Replicating PS2 Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-non-functional-xbox-series-x-or-s-earphones/"><u>Step-by-Step Fix for Non-Functional Xbox Series X or S Earphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-15-free-window-11-theme-packs-upgrade-your-desktop/"><u>Top 15 Free Window 11 Theme Packs: Upgrade Your Desktop</u></a></li>
 </ul></div>
 

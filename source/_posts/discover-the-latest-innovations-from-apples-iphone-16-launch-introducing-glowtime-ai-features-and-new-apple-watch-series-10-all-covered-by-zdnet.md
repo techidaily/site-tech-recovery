@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2024-10-12T17:09:20.910Z
-updated: 2024-10-13T16:32:13.314Z
+date: 2024-10-17T16:25:05.598Z
+updated: 2024-10-19T16:03:19.614Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -108,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,6 +123,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,10 +143,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,24 +218,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-video-clarity-with-youtube-tools/"><u>[Updated] Optimizing Video Clarity with YouTube Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-to-craft-flawless-yt-thumbnails-for-2024/"><u>[Updated] Step-by-Step to Craft Flawless YT Thumbnails for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-market-mastery-strategys-first-impressions/"><u>2024 Approved Market Mastery Strategy's First Impressions</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-screen-locks-for-uninterrupted-presentations/"><u>Bypass Screen Locks for Uninterrupted Presentations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/customize-your-iphone-typography-with-easy-to-follow-font-download-instructions/"><u>Customize Your iPhone Typography with Easy-to-Follow Font Download Instructions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-playstation-5-variants-a-closer-look-at-ps5-slim-vs-full-size-console/"><u>Decoding PlayStation 5 Variants: A Closer Look at PS5 Slim Vs. Full-Size Console</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-elite-network-enclosures-and-servers-dominating-2024s-tech-scene/"><u>Discover Elite Network Enclosures and Servers Dominating 2024'S Tech Scene</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-techniques-to-measure-and-control-macbook-proceeding-overheating/"><u>Effective Techniques to Measure and Control MacBook Proceeding Overheating</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-customizing-your-windows-10-taskbar-color/"><u>Guide: Customizing Your Windows 10 Taskbar Color</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-pro-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 Pro 4G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-netflix-library-essential-teen-flicks-you-shouldnt-miss/"><u>Navigating the Netflix Library: Essential Teen Flicks You Shouldn’t Miss</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/overcoming-instagrams-video-length-restrictions-for-2024/"><u>Overcoming Instagram's Video Length Restrictions for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-surface-pros-wi-fi-connectivity-problems-effectively/"><u>Resolving Surface Pro's Wi-Fi Connectivity Problems Effectively</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/streamlining-earnings-with-youtube-studio-techniques/"><u>Streamlining Earnings with Youtube Studio Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-5-best-fluid-simulation-games-for-you-for-2024/"><u>Top 5 Best Fluid Simulation Games for You for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforming-spotify-playlists-into-text-a-comprehensive-guide/"><u>Transforming Spotify Playlists Into Text: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-fixing-issues-with-ieframedll-errors-swiftly/"><u>Troubleshooting Techniques: Fixing Issues with Ieframe.Dll Errors Swiftly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-gif-maker-tools-for-seamless-loops/"><u>Updated Free GIF Maker Tools for Seamless Loops</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-farm-frenzy-the-ultimate-group-game-guide-for-farms/"><u>[New] Farm Frenzy The Ultimate Group Game Guide for Farms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-omniview-app-critical-look-over/"><u>[New] OmniView App Critical Look-Over</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-itel-a05s-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Itel A05s to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/future-proofing-with-top-uninterruptible-power-supplies-2024s-must-have-models/"><u>Future-Proofing with Top Uninterruptible Power Supplies: 2024'S Must-Have Models</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-downloading-and-update-of-epson-printer-drivers-on-your-windows-machine/"><u>Hassle-Free Downloading and Update of Epson Printer Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-14-pro-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on 14 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-v27-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo V27</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-f23-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo F23 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-civi-3-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Civi 3?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-face-off-a-closer-look-at-how-ipad-mini-stands-against-ipad-air/"><u>IPad Face-Off: A Closer Look at How iPad Mini Stands Against iPad Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protecting-imessage-and-mail-on-icloud-the-role-of-dual-authentication/"><u>Protecting iMessage and Mail on iCloud: The Role of Dual-Authentication</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quieting-the-roar-essential-steps-for-resolving-loud-computer-fans/"><u>Quieting the Roar: Essential Steps for Resolving Loud Computer Fans</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-the-mingwm10dll-file-is-absent-issue/"><u>Solutions for Resolving the 'Mingwm10.dll File Is Absent' Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/supercharge-your-windows-experience-speedy-fixes-for-windows-11-users/"><u>Supercharge Your Windows Experience: Speedy Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-taking-screengrabs-on-an-hp-desktop-replacement/"><u>The Ultimate Guide to Taking Screengrabs on an HP Desktop Replacement</u></a></li>
 </ul></div>
 

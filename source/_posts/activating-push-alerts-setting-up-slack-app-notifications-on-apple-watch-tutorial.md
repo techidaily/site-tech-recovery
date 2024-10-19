@@ -1,7 +1,7 @@
 ---
 title: "Activating Push Alerts: Setting Up Slack App Notifications on Apple Watch - Tutorial"
-date: 2024-10-08T16:41:07.974Z
-updated: 2024-10-13T16:41:24.791Z
+date: 2024-10-12T17:12:14.322Z
+updated: 2024-10-19T16:18:11.502Z
 tags:
   - apple
 categories:
@@ -49,10 +49,16 @@ Here's how.
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -62,15 +68,28 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -83,10 +102,10 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -130,13 +149,6 @@ Yes, the option enables messages every day. But do you see the Start and End tim
 So, make sure you set the Start and End times that fit with your schedule. 
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
 
@@ -187,19 +199,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-diving-deep-the-intricacies-of-the-mukbang-phenomenon-for-2024/"><u>[New] Diving Deep The Intricacies of the Mukbang Phenomenon for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-vita-video-editor-experience-full-review-and-guide-2024/"><u>[New] The Ultimate Vita Video Editor Experience Full Review & Guide 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-ustream-and-its-counterparts/"><u>[Updated] Exploring Ustream & Its Counterparts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-channel-building-blueprint-reaching-1k-subs-rapidly/"><u>[Updated] In 2024, Channel Building Blueprint Reaching 1K Subs Rapidly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-ais-creative-writing-advantagesdisadvantages/"><u>A Deep Dive Into AI’s Creative Writing Advantages/Disadvantages</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-tips-for-handling-nspr4dll-error-no-file-found-problem/"><u>Comprehensive Tips for Handling nspr4.dll Error: No File Found Problem</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/decoding-error-0xc00000e-an-in-depth-user-manual-for-troubleshooting-and-fixes/"><u>Decoding Error 0xC00000E: An In-Depth User Manual for Troubleshooting and Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-television-signal-boosting-how-to-select-and-set-up-an-indoor-antenna-effectively/"><u>DIY Television Signal Boosting: How to Select and Set Up an Indoor Antenna Effectively</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-11-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 11 Pro When You Forget the Passcode?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-note-50-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme Note 50 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimize-your-gaming-session-effective-techniques-to-combat-outriders-latency/"><u>Optimize Your Gaming Session: Effective Techniques to Combat Outriders Latency</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-your-twitch-presence-with-2fa-a-detailed-walkthrough-for-optimal-safety/"><u>Secure Your Twitch Presence with 2FA: A Detailed Walkthrough for Optimal Safety</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-overcoming-windows-bsod-challenges-effectively/"><u>Step-by-Step Solution: Overcoming Windows BSOD Challenges Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-solutions-for-troubleshooting-code-31-issues-on-your-pc/"><u>Ultimate Solutions for Troubleshooting Code 지구 31 Issues on Your PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-screen-recording-made-simple-methodical-guidebook/"><u>[Updated] 2024 Approved Screen Recording Made Simple Methodical Guidebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-auditory-adventure-navigating-soundtracks-for-unboxing-content/"><u>[Updated] In 2024, Auditory Adventure Navigating Soundtracks for Unboxing Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-innovative-mobile-layering-apps-for-android-and-iphone/"><u>[Updated] Top 10 Innovative Mobile Layering Apps for Android & iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-secrets-for-top-audio-quality-no-need-for-a-microphone/"><u>2024 Approved Secrets for Top Audio Quality, No Need for a Microphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208127772-beating-the-blues-overcoming-update-failed-hurdles-in-warframe-solved/"><u>Beating the Blues: Overcoming 'Update Failed' Hurdles in Warframe – Solved</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/brother-printer-connection-tutorial-setting-up-your-device-on-wifi-with-easy-steps/"><u>Brother Printer Connection Tutorial: Setting Up Your Device on WiFi with Easy Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cut-down-on-cpu-strain-proven-strategies-for-less-resource-intensive-computing-on-windows/"><u>Cut Down on CPU Strain: Proven Strategies for Less Resource-Intensive Computing on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-guide-configuring-your-vpn-connection-in-windows-10-a-comprehensive-walkthrough/"><u>Easy Guide: Configuring Your VPN Connection in Windows 10 - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-fix-an-unresponsive-msi-camera-2024-edition/"><u>Effective Solutions to Fix an Unresponsive MSI Camera - 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-strategies-to-prevent-site-access-using-chromes-built-in-tools/"><u>Effortless Strategies to Prevent Site Access Using Chrome's Built-In Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-gaming-experience-on-windows-11-with-updated-nvidia-graphics-driver/"><u>Enhance Gaming Experience on Windows 11 with Updated Nvidia Graphics Driver</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-reviving-a-defective-logitech-k520-keyboard-fast-and-simple-methods/"><u>Expert Advice on Reviving a Defective Logitech K520 Keyboard - Fast and Simple Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/freedom-to-surf-removing-website-blockades-on-google-chrome-seamlessly/"><u>Freedom to Surf: Removing Website Blockades on Google Chrome Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-fix-a-non-responsive-login-screen-in-windows-1011/"><u>Guide to Fix a Non-Responsive Login Screen in Windows 10/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-disable-touch-screen-on-windows-11/"><u>How to Disable Touch Screen on Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-quickly-refresh-battery-drivers-on-windows-systems/"><u>How to Quickly Refresh Battery Drivers on Windows Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/step-into-the-stream-a-guide-to-roku-and-facebook-live-broadcasts-for-2024/"><u>Step Into the Stream A Guide to ROKU & Facebook Live Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamline-twitters-from-video-to-audible-format/"><u>Streamline Twitters From Video to Audible Format</u></a></li>
 </ul></div>
 

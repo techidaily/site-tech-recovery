@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2024-10-10T16:56:13.763Z
-updated: 2024-10-13T16:46:12.612Z
+date: 2024-10-18T16:14:03.636Z
+updated: 2024-10-19T16:05:57.926Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -70,6 +70,13 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -79,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -90,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,17 +134,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-all-you-need-to-know-about-instagram-video-limits/"><u>[New] 2024 Approved All You Need to Know About Instagram Video Limits</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-get-verified-on-instagram-6-tips-to-grow-followers/"><u>[New] How to Get Verified on Instagram 6 Tips to Grow Followers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-viral-video-round-up-a-list-of-todays-favorites-on-fb/"><u>[New] Viral Video Round-Up A List of Today's Favorites on FB</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-measure-the-performance-of-igtv-videos/"><u>2024 Approved How to Measure the Performance of IGTV Videos?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazons-firestick-and-your-phones-wifi-the-comprehensive-guide-to-setting-them-up-together/"><u>Amazons Firestick and Your Phone's WiFi: The Comprehensive Guide to Setting Them Up Together</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-the-notorious-502-bad-gateway-error-on-websites-effectively/"><u>How to Resolve the Notorious 502 Bad Gateway Error on Websites Effectively</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-supreme-narrative-designers-den/"><u>In 2024, Supreme Narrative Designer's Den</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/international-dawns-exchanging-good-mornings-across-languages/"><u>International Dawns: Exchanging Good Mornings Across Languages</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/learn-iphone-techniques-for-quick-video-reduction-for-2024/"><u>Learn iPhone Techniques for Quick Video Reduction for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-vs-pc-showdown-what-sets-them-apart-insights-into-their-unique-features/"><u>Mac Vs. PC Showdown: What Sets Them Apart? Insights Into Their Unique Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-shareable-gaming-snippets-an-insiders-guide-to-capturing-ps4-gameplay/"><u>Unlocking Shareable Gaming Snippets – An Insider's Guide to Capturing PS4 Gameplay</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-pioneering-screen-capture-methods-with-adobe-captivity-unveiled-for-2024/"><u>[New] Pioneering Screen Capture Methods with Adobe Captivity Unveiled for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-premium-money-forecasting-aid-for-tiktok-artists/"><u>[Updated] Premium Money Forecasting Aid for TikTok Artists</u></a></li>
+<li><a href="https://win-best.techidaily.com/decouvrez-comment-migrer-facilement-de-windows-server-2019-a-windows-server-2022/"><u>Découvrez Comment Migrer Facilement De Windows Server 201^9 À Windows Server 202^2</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-eliminate-crashes-in-your-diablo-iv-game-pc-ps5-and-xbox-edition/"><u>Expert Tips to Eliminate Crashes in Your Diablo IV Game – PC, PS5 & Xbox Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-launch-microsoft-outlook-in-safe-mode-on-windows-10-a-step-by-step-guide-with-visuals/"><u>How to Launch Microsoft Outlook in Safe Mode on Windows 10: A Step-by-Step Guide with Visuals</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signature-for-pdf-v13-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Online signature for PDF v1.3 document</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/streamline-iphone-videos-size-and-length-optimization-for-2024/"><u>Streamline iPhone Videos Size & Length Optimization for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/successfully-resolving-error-code-0x8071ac3-with-your-external-hdd-complete-guide/"><u>Successfully Resolving Error Code 0X80,71,AC3 with Your External HDD - Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-updating-device-drivers-on-windows-1011/"><u>The Ultimate Guide to Updating Device Drivers on Windows 10/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-how-to-speed-up-your-hp-laptop-when-its-running-slow/"><u>Troubleshooting Tips: How to Speed Up Your HP Laptop When It's Running Slow</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-connecting-and-enjoying-wifi-on-your-pc-running-windows-7/"><u>Ultimate Guide to Connecting and Enjoying WiFi on Your PC Running Windows 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/winning-the-battle-against-samsung-printer-drivers-errors-on-microsoft-windows-guide/"><u>Winning the Battle Against Samsung Printer Drivers Errors on Microsoft Windows [GUIDE]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's WWDC 2024 Revelations: The Essential 4 Features of iPadOS 18 & Which iPads They Apply To | ZDNET"
-date: 2024-10-09T16:58:43.085Z
-updated: 2024-10-13T17:23:10.413Z
+date: 2024-10-18T17:08:17.426Z
+updated: 2024-10-19T16:12:36.324Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,10 +64,10 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -79,10 +79,10 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -92,10 +92,10 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -136,15 +136,17 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-perfectly-record-and-preserve-your-ps3-games-for-2024/"><u>[Updated] How to Perfectly Record and Preserve Your PS3 Games for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>[Updated] In 2024, Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-checklist-seamless-conversion-of-phone-photos-to-snapchat-for-2024/"><u>[Updated] The Ultimate Checklist Seamless Conversion of Phone Photos to Snapchat for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/a-trifecta-guide-for-extracting-youtube-subtitled-content/"><u>A Trifecta Guide for Extracting YouTube Subtitled Content</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/excel-autorecover-not-working-what-is-next-stellar-by-stellar-guide/"><u>Excel AutoRecover not working, what is next? | Stellar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-time-to-switch-to-an-rtx-gpu-a-comprehensive-guide/"><u>Is It Time to Switch to an RTX GPU: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-your-photo-game-smart-strategies-to-find-and-choose-a-superior-selfie-stick/"><u>Master Your Photo Game: Smart Strategies to Find and Choose a Superior Selfie Stick</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/stand-out-on-google-the-ultimate-thumbnail-font-guide/"><u>Stand Out on Google The Ultimate Thumbnail Font Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722894242410-the-complete-tutorial-on-snapping-pics-with-a-logitech-keyboard-no-hassle/"><u>The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-best-free-music-streaming-applications-for-apple-devices-and-smartphones/"><u>Top 7 Best Free Music Streaming Applications for Apple Devices & Smartphones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-original-movie-recording-dissection-and-substitute-series-for-2024/"><u>[Updated] Original Movie Recording Dissection & Substitute Series for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-video-setup-starter-kit-for-excursion-documentation-for-2024/"><u>[Updated] Video Setup Starter Kit for Excursion Documentation for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/codec-h265-video-le-plus-performant-encodeur-pour-windows-et-mac-convertisseur/"><u>Codec H.265 Vidéo - Le Plus Performant Encodeur Pour Windows Et Mac Convertisseur</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-setup-wizard-for-selecting-app-module-relationships/"><u>Easy Setup Wizard for Selecting App Module Relationships</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/kb3197954-windows-11-updates-not-working-solved/"><u>KB3197954: Windows 11 Updates Not Working [Solved]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-quick-shot-on-your-hp-laptopdesktop-top-two-hassle-free-techniques-unveiled/"><u>Mastering Quick Shot on Your HP Laptop/Desktop: Top Two Hassle-Free Techniques Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-conversion-to-gif-format/"><u>Mastering the Art of Image Conversion to GIF Format</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-visuals-how-to-fix-your-gpu-driver-for-enhanced-performance-in-forza-horizon-5/"><u>Optimizing Visuals: How To Fix Your GPU Driver for Enhanced Performance In Forza Horizon 5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps4-quietness-dilemma-addressed-effortless-steps-for-enabling-sound-again/"><u>PS4 Quietness Dilemma Addressed: Effortless Steps for Enabling Sound Again</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/savor-the-magic-of-svelte-get-free-starter-kits-from-creative-tim/"><u>Savor the Magic of Svelte – Get Free Starter Kits From Creative Tim!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-motorola-moto-g-stylus-5g-2023-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Motorola Moto G Stylus 5G (2023) Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204368141-troubleshoot-your-way-out-of-windows-10-update-failure-code-0x800f0922-solved/"><u>Troubleshoot Your Way Out of Windows 10 Update Failure: Code 0X800F0922 Solved!</u></a></li>
 </ul></div>
 

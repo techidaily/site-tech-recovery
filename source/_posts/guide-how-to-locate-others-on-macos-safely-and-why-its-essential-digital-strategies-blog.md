@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog"
-date: 2024-10-10T17:19:22.310Z
-updated: 2024-10-13T16:21:35.610Z
+date: 2024-10-13T16:17:53.624Z
+updated: 2024-10-19T16:03:21.152Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,24 +134,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-social-streamers-guide-broadcast-from-phone-subscriber-free-edition/"><u>[New] Social Streamer's Guide Broadcast From Phone, Subscriber-Free Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-determining-view-counts-direct-effect-on-creator-revenue/"><u>[Updated] 2024 Approved Determining View Count's Direct Effect on Creator Revenue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-of-slomo-video-capture-tool/"><u>[Updated] In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-optimize-your-online-presence-youtube-to-dailymotion-video-migration/"><u>[Updated] Optimize Your Online Presence YouTube to Dailymotion Video Migration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avoiding-phony-friend-requests-in-the-digital-realm-strategies-for-safety/"><u>Avoiding Phony Friend Requests in the Digital Realm: Strategies for Safety</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-free-online-movie-platforms-netflix-alternatives/"><u>Best FREE Online Movie Platforms: Netflix Alternatives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/can-you-successfully-stream-and-watch-netflix-content-using-the-nintendo-switch-platform/"><u>Can You Successfully Stream And Watch Netflix Content Using The Nintendo Switch Platform?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/capturing-magic-in-microphones-iphoneipad-tactics-for-superior-recordings-for-2024/"><u>Capturing Magic in Microphones IPhone/iPad Tactics for Superior Recordings for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-oled-how-organic-light-emitting-diodes-operate/"><u>Decoding OLED: How Organic Light-Emitting Diodes Operate</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-google-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Google Face Lock?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-customizing-your-gmail-inbox-with-unique-sounds/"><u>Guide: Customizing Your Gmail Inbox with Unique Sounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-difficulties-of-the-0x80072efd-error-a-comprehensive-fix-for-windows-10-users/"><u>Overcoming the Difficulties of the 0X80072EFD Error: A Comprehensive Fix for Windows 10 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722157800226-public-transit-directions/"><u>Public Transit Directions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-low-sound-issues-on-iphones-a-step-by-step-guide/"><u>Solving Low Sound Issues on iPhones: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-help.techidaily.com/the-ultimate-list-of-top-ranked-no-cost-video-compression-tools-compatible-with-both-pcs-and-macs/"><u>The Ultimate List of Top-Ranked, No-Cost Video Compression Tools Compatible with Both PCs & Macs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-15-fantastic-free-uninstaller-programs-to-clean-your-system/"><u>Top Picks: 15 Fantastic Free Uninstaller Programs to Clean Your System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-to-fix-the-error-of-absent-libeay32dll-file/"><u>Troubleshooting Tips to Fix the Error of Absent Libeay32.dll File</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-samsungs-plans-exclusive-insights-on-upcoming-releases-and-speculations/"><u>Unveiling Samsung's Plans - Exclusive Insights on Upcoming Releases & Speculations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/will-shifting-xbox-processor-to-arm-technology-boost-performance-and-future-proof-console-gaming/"><u>Will Shifting Xbox Processor to ARM Technology Boost Performance and Future-Proof Console Gaming?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-video-platform-profiles-vimeo-vs-youtube-comparison/"><u>[Updated] 2024 Approved Video Platform Profiles Vimeo vs YouTube Comparison</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-advanced-smart-glasses-on-the-market-2024-edition/"><u>Discover the Most Advanced Smart Glasses on the Market, 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ensuring-privacy-a-users-manual-to-secure-your-android-number/"><u>Ensuring Privacy: A User's Manual to Secure Your Android Number</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 12 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y78plus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y78+</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-url-minification-the-best-tools-for-youtubers-convenience/"><u>In 2024, Video URL Minification The Best Tools for Youtubers' Convenience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900762008-investigating-aol-mail-problems-how-to-tell-if-its-a-general-downtvein-or-personal-internet-concern/"><u>Investigating AOL Mail Problems: How to Tell If It's a General Downtvein or Personal Internet Concern</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-data-rescue-with-recuva-the-ultimate-guide-to-undeleting-files-successfully/"><u>Mastering Data Rescue with Recuva: The Ultimate Guide to Undeleting Files Successfully</u></a></li>
+<li><a href="https://fox-access.techidaily.com/professional-tips-for-using-luts-in-adobe-after-effects-for-2024/"><u>Professional Tips for Using LUTs in Adobe After Effects for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamping-security-easy-steps-to-update-your-facebook-password/"><u>Revamping Security: Easy Steps to Update Your Facebook Password</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/obile-marketers-blueprint-simple-pathway-to-youtube-success-for-2024/"><u>The Mobile Marketer's Blueprint Simple Pathway to YouTube Success for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-best-family-friendly-films-on-amazon-prime-video-in-july-2024/"><u>Top Picks: Best Family-Friendly Films on Amazon Prime Video in July 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-tecno-spark-20-proplus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Tecno Spark 20 Pro+.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlinking-devices-from-your-smart-home-system-a-google-home-tutorial/"><u>Unlinking Devices From Your Smart Home System: A Google Home Tutorial</u></a></li>
 </ul></div>
 

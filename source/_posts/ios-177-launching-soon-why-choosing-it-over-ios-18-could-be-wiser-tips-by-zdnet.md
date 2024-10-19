@@ -1,7 +1,7 @@
 ---
 title: IOS 17.7 Launching Soon! Why Choosing It Over iOS 18 Could Be Wiser - Tips by ZDNET
-date: 2024-10-12T16:28:23.660Z
-updated: 2024-10-13T16:36:20.450Z
+date: 2024-10-17T16:25:11.305Z
+updated: 2024-10-19T16:00:27.868Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,24 +129,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/arrative-enhancements-the-process-of-infusing-text-into-your-video-content-for-2024/"><u>[New] Narrative Enhancements The Process of Infusing Text Into Your Video Content for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unlock-the-6th-richest-strategies-for-successful-ig/"><u>2024 Approved Unlock the 6Th Richest Strategies for Successful IG</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/50-best-free-photography-tools-for-the-web/"><u>50 Best Free Photography Tools for the Web</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-price-forecast-release-info-and-specs/"><u>All You Need to Know About the Upcoming Samsung Galaxy S25 - Price Forecast, Release Info, and Specs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/breakthrough-ideas-to-amplify-brand-impact-on-reddit-for-2024/"><u>Breakthrough Ideas to Amplify Brand Impact on Reddit for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-gps-enabled-ipad-tablets/"><u>Comprehensive Guide to GPS-Enabled iPad Tablets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-organizing-your-inbox-with-advanced-gmail-features/"><u>Expert Tips for Organizing Your Inbox with Advanced Gmail Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-origins-the-company-behind-chatgpts-innovation/"><u>Exploring the Origins: The Company Behind ChatGPT's Innovation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-14-pro-max-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 14 Pro Max to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-when-an-ipad-cant-find-or-print-with-any-printers/"><u>How to Fix When an iPad Can't Find or Print With Any Printers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-14-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-your-chatbot-revealing-too-much-neural-network-model-inversion-attacks-explained/"><u>Is Your Chatbot Revealing Too Much? Neural Network Model Inversion Attacks Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/learn-american-sign-language-for-free-16-essential-resources/"><u>Learn American Sign Language For Free: 16 Essential Resources</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimizing-trailer-vibes-the-melody-essentials/"><u>Optimizing Trailer Vibes The Melody Essentials</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rectifying-viewing-difficulties-a-guide-to-fix-paramountplus-app-issues-on-amazons-fire-tv/"><u>Rectifying Viewing Difficulties: A Guide to Fix Paramount+ App Issues on Amazon's Fire TV</u></a></li>
-<li><a href="https://common-error.techidaily.com/shift-key-malfunction-diagnosis-and-effective-remedies-fixed/"><u>Shift Key Malfunction: Diagnosis and Effective Remedies [FIXED]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-distinctions-roku-express-versus-roku-stick/"><u>Unraveling the Distinctions: Roku Express Versus Roku Stick</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-motivations-behind-embracing-electric-drives/"><u>Unraveling the Motivations Behind Embracing Electric Drives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature-for-2024/"><u>[New] Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>[New] In 2024, Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-elevate-podcast-quality-with-advanced-garageband-editing-methods/"><u>[Updated] In 2024, Elevate Podcast Quality with Advanced GarageBand Editing Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-partner-program-2024-how-to-join-and-monetize-your-channel/"><u>[Updated] YouTube Partner Program 2024 How to Join and Monetize Your Channel</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-walkthrough-for-activating-safe-mode-and-detaching-graphics-card-driver-on-windows-8/"><u>Comprehensive Walkthrough for Activating Safe Mode and Detaching Graphics Card Driver on Windows 8</u></a></li>
+<li><a href="https://article-files.techidaily.com/cut-costs-gain-space-the-best-compiled-list-of-20-free-cloud-storages-1tbplus/"><u>Cut Costs, Gain Space The Best Compiled List of 20 Free Cloud Storages (1TB+)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fast-tracking-social-scanning-mastering-fb-profiles-for-2024/"><u>Fast-Tracking Social Scanning Mastering FB Profiles for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-msi-z370-a-pro-updated-drivers-here/"><u>Get Your MSI Z370-A Pro Updated Drivers Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-d3dx940dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_40.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-taking-your-filmed-artistry-on-a-journey-with-imovie-and-youtube/"><u>In 2024, Taking Your Filmed Artistry on a Journey with iMovie & YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-wireless-repeaters-for-improved-connectivity-the-2024-guide/"><u>Leading Wireless Repeaters for Improved Connectivity - The 2024 Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nokia-c22-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nokia C22? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-steps-entering-and-exiting-iphones-recovery-mode/"><u>Mastering the Steps: Entering and Exiting iPhone's Recovery Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/metro-and-t-mobile-collaboration-insights-on-the-rules-governing-unlimited-data-roaming-practices/"><u>Metro and T-Mobile Collaboration: Insights on the Rules Governing Unlimited Data Roaming Practices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-power-of-windows-command-line-a-comprehensive-guide/"><u>Navigating the Power of Windows Command Line: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-breakdown-of-ussd-insights-into-unstructured-supplementary-service-data-technology/"><u>The Complete Breakdown of USSD: Insights Into Unstructured Supplementary Service Data Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-a-world-of-music-explore-these-15-free-download-sites/"><u>Unlock a World of Music: Explore These 15 Free Download Sites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-potential-of-your-samsung-tv-the-complete-remote-access-tutorial/"><u>Unlock the Potential of Your Samsung TV: The Complete Remote Access Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-next-for-google-pixel-projecting-cost-launch-dates-and-new-hardware-specs-in-focus/"><u>What's Next for Google Pixel: Projecting Cost, Launch Dates & New Hardware Specs in Focus</u></a></li>
 </ul></div>
 

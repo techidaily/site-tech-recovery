@@ -1,7 +1,7 @@
 ---
 title: "Essential Guides: Top 10 Must-Know iPad Shortcuts & Tweaks for Beginners & Experts - ZDNet Insights"
-date: 2024-10-05T20:46:09.486Z
-updated: 2024-10-07T22:13:46.106Z
+date: 2024-10-16T17:06:05.890Z
+updated: 2024-10-19T16:24:46.268Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -66,13 +73,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -82,10 +82,10 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -98,6 +98,13 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
@@ -105,10 +112,10 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -124,13 +131,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to split**: Go to Settings > General > Keyboard and tap on "Split Keyboard." Then, when you open an app where the keyboard presents itself, touch and hold on the keyboard button in the bottom right corner and slide your finger to the split option. Your keyboard will then divide in half on either side of the screen. You can follow the same steps in reverse to turn it off.
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
 
@@ -188,14 +188,15 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-fraps-screen-recorder-review/"><u>[New] In 2024, Fraps Screen Recorder Review</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-essential-guide-best-15-gopro-support-systems-for-2024/"><u>[Updated] Essential Guide Best 15 GoPro Support Systems for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-studyhistory-10-essential-youtube-historical-channels/"><u>[Updated] StudyHistory 10 Essential YouTube Historical Channels</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pioneering-online-video-secrets-for-youtubes-spherical-livestreaming-techniques/"><u>2024 Approved Pioneering Online Video Secrets for YouTube's Spherical Livestreaming Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/converta-jp2-para-jpg-livre-e-online-pelo-site-do-movavi/"><u>Converta JP2 Para JPG Livre E Online Pelo Site Do Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trasforma-i-tuoi-file-avi-in-formato-mp3-gratuitamente-su-internet-con-convertiavi/"><u>Trasforma I Tuoi File AVI in Formato MP3 Gratuitamente Su Internet Con ConvertiAVI</u></a></li>
-<li><a href="https://tools.techidaily.com/winxdvd/dvd-ripper-platinum/"><u>WinX DVD Ripper Platinum</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mp3-aac-m4b-wma-movavi/"><u>무료 인터넷 시드에서 MP3, AAC 등 다양한 포맨과의 M4B WMA 변환 - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avi-gif-onlinemovie-avi/"><u>무세포 AVI에서 GIF로 쉽게 전환: Onlinemovie 카운터를 위한 가장 선구적인 AVI 변환기</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-best-practices-for-engaging-with-facebook-live-content/"><u>[Updated] In 2024, Best Practices for Engaging with Facebook Live Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-master-the-art-of-organizing-group-conversations-on-skype-irrespective-of-your-systems-os/"><u>[Updated] In 2024, Master the Art of Organizing Group Conversations on Skype, Irrespective of Your System's OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/an-in-depth-look-at-what-bing-really-is-and-how-it-works/"><u>An In-Depth Look at What Bing Really Is and How It Works</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-on-watching-spider-man-no-way-home-online/"><u>Complete Guide on Watching 'Spider-Man: No Way Home' Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-speeds-for-optimal-performance-a-guide-to-your-pcs-true-potential/"><u>Essential Speeds for Optimal Performance: A Guide to Your PC's True Potential</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722895973745-how-long-before-a-mailcom-email-address-gets-deleted-find-out-now/"><u>How Long Before a mail.com Email Address Gets Deleted – Find Out Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-xiaomi-redmi-13c-by-fonelab-android-recover-video/"><u>How to recover old videos from your Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pc-strategies-mastering-the-game-of-pokemon-unite/"><u>PC Strategies: Mastering the Game of Pokémon Unite</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-insights/"><u>The Ultimate Resource for Tech Enthusiasts - Tom's Hardware Insights</u></a></li>
 </ul></div>
 

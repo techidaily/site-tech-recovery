@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Top Upcoming Enhancements for iPhone, iPad, Mac with AI Integration Announced by Apple This Autumn - Features Revealed on ZDNet"
-date: 2024-10-06T17:20:22.751Z
-updated: 2024-10-13T17:27:04.968Z
+date: 2024-10-14T16:53:44.848Z
+updated: 2024-10-19T17:03:16.837Z
 tags:
   - apple
 categories:
@@ -60,19 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -80,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -99,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -113,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -129,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -147,6 +134,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -174,10 +168,16 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -224,22 +224,14 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-boomerang-on-instagram-create-addictive-loop-videos-on-ig-for-2024/"><u>[Updated] Boomerang on Instagram Create Addictive Loop Videos on IG for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-from-social-to-storage-iphone-and-android-gif-savings/"><u>[Updated] In 2024, From Social to Storage IPhone & Android GIF Savings</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-simplify-storytelling-transform-vimeo-into-captivating-gifs-for-2024/"><u>[Updated] Simplify Storytelling Transform Vimeo Into Captivating GIFs for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-advanced-strategies-in-ps3-gaming-broadcasting/"><u>2024 Approved Advanced Strategies in PS3 Gaming Broadcasting</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-network-and-be-friendly-top-5-apps-for-new-acquaintances/"><u>Connect, Network, and Be Friendly: Top 5 Apps for New Acquaintances</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-worlds-largest-and-most-visited-online-platforms-the-ultimate-list/"><u>Discover the World's Largest and Most Visited Online Platforms - The Ultimate List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fix-restoring-factory-settings-on-your-samsung-soundbar/"><u>Easy Fix: Restoring Factory Settings on Your Samsung Soundbar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-schedule-a-trip-to-the-apple-store-today/"><u>Easy Ways to Schedule a Trip to the Apple Store Today!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-picks-the-most-efficient-team-video-call-software/"><u>Expert Picks: The Most Efficient Team Video Call Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/immersive-ventures-how-google-cardboard-stacks-up-against-samsung-vr/"><u>Immersive Ventures How Google Cardboard Stacks Up Against Samsung VR</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-c12-plus-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia C12 Plus Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snap-share-and-shine-your-guide-to-dynamic-gif-creation-for-2024/"><u>Snap, Share & Shine Your Guide to Dynamic GIF Creation for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-implementing-auto-captions-in-reels-for-2024/"><u>Step-by-Step Implementing Auto Captions in Reels for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/step-by-step-livestreaming-to-facebook-from-iphonestablets/"><u>Step-by-Step Livestreaming to Facebook From iPhones/Tablets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-creativity-with-these-top-4-free-cad-applications-no-cost-exceptional-value/"><u>Unlocking Creativity with These Top 4 Free CAD Applications – No Cost, Exceptional Value!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-apple-unveiling-keydates-latest-reports-and-exciting-leaks/"><u>Upcoming Apple Unveiling: Keydates, Latest Reports & Exciting Leaks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-audio-setup-integrating-samsung-soundbar-with-your-tv-system/"><u>Wireless Audio Setup: Integrating Samsung Soundbar with Your TV System</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>[New] Breakthrough Technology for Screens ShowMore's Revolutionary Recorder</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-marketing-landscape-essential-strategies-for-newbies/"><u>[New] Navigating the Marketing Landscape Essential Strategies for Newbies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-perils-of-faux-youtube-supporter-purchases/"><u>[Updated] In 2024, The Perils of Faux YouTube Supporter Purchases</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-2023s-largest-threaded-video-compilation/"><u>2024 Approved 2023'S Largest Threaded Video Compilation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-facebook-how-it-started-why-users-love-it-and-essential-features/"><u>Exploring the World of Facebook: How It Started, Why Users Love It, and Essential Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-micromobility-scheduled-meetings-fresh-rumors-and-essential-knowledge/"><u>Navigating the World of Micromobility: Scheduled Meetings, Fresh Rumors, and Essential Knowledge</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revise-and-update-instagram-communications-a-complete-tutorial/"><u>Revise and Update Instagram Communications - A Complete Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-solving-the-missing-propstsysdll-error-on-windows-computers/"><u>Understanding and Solving the Missing Propstsys.dll Error on Windows Computers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unleash-your-marketing-potential-with-cookiebots-advanced-sem-solutions/"><u>Unleash Your Marketing Potential with Cookiebot's Advanced SEM Solutions</u></a></li>
 </ul></div>
 

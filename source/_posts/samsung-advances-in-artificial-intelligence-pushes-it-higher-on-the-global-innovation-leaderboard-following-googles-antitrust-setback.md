@@ -1,7 +1,7 @@
 ---
 title: Samsung Advances in Artificial Intelligence Pushes It Higher on the Global Innovation Leaderboard Following Google's Antitrust Setback
-date: 2024-09-30T17:08:10.355Z
-updated: 2024-10-07T18:04:47.962Z
+date: 2024-10-18T17:27:10.441Z
+updated: 2024-10-19T16:54:15.571Z
 tags:
   - apple
 categories:
@@ -68,6 +68,13 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -86,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -101,16 +115,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,6 +131,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -133,19 +148,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -164,13 +166,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -178,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -230,16 +218,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ps1-classics-on-your-desktop-the-best-emulators-reviewed/"><u>[New] PS1 Classics on Your Desktop The Best Emulators Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-testimonial-toolkit-for-effective-promotion/"><u>[Updated] The Testimonial Toolkit for Effective Promotion</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-wirecast-for-high-quality-youtube-broadcasts/"><u>2024 Approved Navigating WireCast for High-Quality YouTube Broadcasts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/1726026660530-2/"><u>初心者向け動画同時再生テクニック: 2つの画面で一緒に見る方法</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nubia-red-magic-8s-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-photo-experience-a-users-guide-to-live-activities-in-ios-16/"><u>Enhancing Photo Experience: A User's Guide to Live Activities in iOS 16</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-resolve-the-persistent-problem-of-windows-error-code-19/"><u>Expert Advice: How to Resolve the Persistent Problem of Windows Error Code 19</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pairing-your-airpods-with-macos-a-step-by-step-guide-for-macbook-air-users/"><u>Pairing Your AirPods with macOS: A Step-by-Step Guide for MacBook Air Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-strategies-for-efficient-mobizen-screencasting/"><u>Top Strategies for Efficient Mobizen Screencasting</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722868104046-upcoming-android-amidst-anticipation-prospective-pricing-details-and-expected-release-timeline-uncovered/"><u>Upcoming Android Amidst Anticipation: Prospective Pricing Details & Expected Release Timeline Uncovered!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-exclusive-download-hassle-free-video-closures-here/"><u>[New] 2024 Approved Exclusive Download Hassle-Free Video Closures Here</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-guide-to-youtube-channel-removal-pcphone/"><u>[New] In 2024, The Ultimate Guide to Youtube Channel Removal (PC/Phone)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-replay-anywhere-instant-guide-to-youtube-video-loops/"><u>[Updated] Replay Anywhere Instant Guide to YouTube Video Loops</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-video-editor-applications-choose-your-favorites/"><u>Discover the Best Video Editor Applications: Choose Your Favorites!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722865442440-discover-the-leading-iphone-email-solutions-weve-rated-them/"><u>Discover the Leading iPhone Email Solutions - We've Rated Them</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-zte-nubia-flip-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a ZTE Nubia Flip 5G Phone that is Locked?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-selections-versatile-and-affordable-macpc-bd-decoders/"><u>Premier Selections Versatile and Affordable Mac/PC BD Decoders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-fortnite-sound-issue-with-these-easy-fixes/"><u>Resolve Your Fortnite Sound Issue with These Easy Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722843888582-understanding-and-controlling-your-online-bandwidth-usage/"><u>Understanding and Controlling Your Online Bandwidth Usage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unstick-stubborn-airpods-effective-techniques-to-restart-pairing-process/"><u>Unstick Stubborn AirPods: Effective Techniques to Restart Pairing Process</u></a></li>
 </ul></div>
 

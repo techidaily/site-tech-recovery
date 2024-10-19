@@ -1,7 +1,7 @@
 ---
 title: Boost Productivity on MacOS Monterey with Personalized Attention Bubbles for Distraction-Free Work
-date: 2024-10-01T16:39:52.865Z
-updated: 2024-10-07T22:51:27.376Z
+date: 2024-10-16T16:20:58.108Z
+updated: 2024-10-19T16:34:19.908Z
 tags:
   - apple
 categories:
@@ -28,15 +28,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -56,10 +63,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -78,13 +85,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -100,10 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,24 +148,21 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-chortle-chronicles-recording-7-amusing-video-adventures/"><u>[New] Chortle Chronicles Recording 7 Amusing Video Adventures</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-commanders-clash-the-ultimate-ranking-of-7-total-war-games-for-2024/"><u>[New] Commanders' Clash The Ultimate Ranking of 7 Total War Games for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-leading-rogue-adventures-10-game-compilation-for-2024/"><u>[New] Leading Rogue Adventures #10 Game Compilation for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-enhancing-accuracy-tiktok-age-adjustment-for-2024/"><u>[Updated] Enhancing Accuracy TikTok Age Adjustment for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-10-cheeky-tunes-turned-parodies/"><u>[Updated] In 2024, 10 Cheeky Tunes Turned Parodies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-stepwise-guide-to-antiquated-visual-effects-in-videos/"><u>[Updated] Stepwise Guide to Antiquated Visual Effects in Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024-vob-6/"><u>2024 유기적인 VOB 파일 재생 방법에 대한 우아한 6개의 권장: 비주얼 보조 자료</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726228110360-mp4-aac-movavi/"><u>網路直通無限 MP4到 AAC 自由轉換 - 使用 Movavi 轉檔工具</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mp4-and-mkv/"><u>無料ダウンロード可能なビデオコンバータ - MP4 & MKV変換</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nokia-g310-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nokia G310 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/avoid-game-crash-in-cult-of-the-lamb-expert-tips-for-a-smooth-pc-gaming-experience/"><u>Avoid Game Crash in 'Cult of the Lamb': Expert Tips for a Smooth PC Gaming Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-guide-to-mac-compatible-dvd-ripping-tools-including-movavis-top-picks/"><u>Discover the Ultimate Guide to Mac-Compatible DVD Ripping Tools: Including Movavi's Top Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-effortless-switch-from-3gp-to-avi-format-with-movavi/"><u>Free Online Converter: Effortless Switch From 3GP to AVI Format with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-converter-videomaterialen-rmvb-naar-flv-met-movavi-online/"><u>Gratis Converter Videomaterialen - RMVB Naar FLV Met Movavi Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-camon-20-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Camon 20 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-converting-ifo-files-to-mp4-format-for-both-pc-and-mac/"><u>Step-by-Step Guide: Converting IFO Files to MP4 Format for Both PC and MAC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trasforma-immagini-png-in-formato-jpeg-online-senza-costi-con-movavi/"><u>Trasforma Immagini PNG in Formato JPEG Online Senza Costi Con Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trasforma-la-tua-musica-in-qualsiasi-formato-180plus-tipi-gratuiti-con-convertitore-di-musica-di-movavi/"><u>Trasforma La Tua Musica in Qualsiasi Formato: 180+ Tipi Gratuiti Con Convertitore Di Musica Di Movavi</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-cream-of-the-crop-top-android-apps/"><u>Updated In 2024, The Cream of the Crop Top Android Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-places-to-enjoy-vr-films/"><u>[Updated] In 2024, Ideal Places to Enjoy VR Films</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-making-the-most-out-of-creative-commons-licenses/"><u>[Updated] In 2024, Making the Most Out of Creative Commons Licenses</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-parrot-ar-drone-20-elite-overview/"><u>2024 Approved Parrot AR Drone 2.0 Elite Overview</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-s24plus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy S24+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-gameplay-performance-a-guide-to-fixing-latency-issues-in-dual-monitor-configurations-with-windows-11/"><u>Enhancing Gameplay Performance: A Guide to Fixing Latency Issues in Dual-Monitor Configurations with Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-disney-movies-on-a-bigger-screen-connecting-disneyplus-with-chromecast-made-easy/"><u>Enjoy Disney Movies on a Bigger Screen: Connecting Disney+ with Chromecast Made Easy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-guide-for-when-openal32dll-is-absent-or-lost/"><u>Fix Guide for When openAL32.dll Is Absent or Lost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-an-xbox-one-when-no-picture-appears/"><u>How to Repair an Xbox One When No Picture Appears</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-m310-mouse-updating-device-drivers-made-simple/"><u>Logitech M310 Mouse: Updating Device Drivers Made Simple</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-remote-pc-display-on-tv-screens-with-chromecast-compatibility-and-windows-integration/"><u>Mastering Remote PC Display on TV Screens with Chromecast Compatibility and Windows Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-mobile-experience-the-ultimate-18-ios-shortcuts-guide/"><u>Revolutionize Your Mobile Experience: The Ultimate 18 iOS Shortcuts Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/secrets-to-successful-twitpicingvideos-included-for-2024/"><u>Secrets to Successful Twitpicing—Videos Included for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-install-applications-on-your-samsung-smart-television/"><u>Steps to Install Applications on Your Samsung Smart Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-essential-guidelines-when-selecting-a-superior-selfie-stick/"><u>Top 6 Essential Guidelines When Selecting a Superior Selfie Stick</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claudes-ai-technology-why-it-stands-out/"><u>Understanding Claude's AI Technology: Why It Stands Out</u></a></li>
 </ul></div>
 

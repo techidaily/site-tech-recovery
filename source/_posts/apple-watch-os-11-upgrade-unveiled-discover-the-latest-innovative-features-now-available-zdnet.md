@@ -1,7 +1,7 @@
 ---
 title: Apple Watch OS 11 Upgrade Unveiled - Discover the Latest Innovative Features Now Available | ZDNet
-date: 2024-10-04T20:35:33.230Z
-updated: 2024-10-07T17:20:30.112Z
+date: 2024-10-15T16:50:07.081Z
+updated: 2024-10-19T16:36:56.781Z
 tags:
   - apple
 categories:
@@ -42,6 +42,13 @@ Serious athletes will likely be drawn to these features since this is the first 
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Better support for pregnancy
 
 WatchOS 11 will help those who are pregnant log their physical and mental health during their pregnancy, as well as display their gestational age and log any symptoms they frequently feel. Your watch will also advise you to review features like high heart rate notifications since, when pregnant, your heart rate tends to increase.
@@ -51,13 +58,6 @@ WatchOS 11 will help those who are pregnant log their physical and mental health
 The feature plays into the Apple Watch's cycle-tracking experience, so everything remains cohesive and easy to find.
 
 Apple
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
@@ -87,44 +87,44 @@ Jason Hiner/ZDNET
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Tap to Cash for quick payments
 
 Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. Tap to Cash lets you hold your Apple Watch near another watch or iPhone to quickly send Apple Cash to someone else.
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -160,24 +160,22 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-crafting-viral-videos-the-ultimate-fb-reel-techniques-for-2024/"><u>[New] Crafting Viral Videos The Ultimate FB Reel Techniques for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reimagine-old-school-vhs-with-modern-computer-techniques/"><u>[Updated] Reimagine Old-School VHS with Modern Computer Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-an-anthology-of-admiration-highlighting-top-10-reddit-threads/"><u>2024 Approved An Anthology of Admiration Highlighting Top 10 Reddit Threads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-amvmp4/"><u>網路無關痛癢 - 以Movavi AMV到MP4自由轉換</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/webm-flv-movavi/"><u>無限制免費 WEBM 到 FLV 媒體格式翻譯 - 使用 Movavi 影像編輯工具</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/descargas-gratuitas-de-conversion-como-transformar-archivos-m4a-en-mp3-sin-costo-adicional/"><u>Descargas Gratuitas De Conversión: Cómo Transformar Archivos M4A en MP3 Sin Costo Adicional</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolved-fixing-system-resources-too-low-issue/"><u>Error Resolved: Fixing 'System Resources Too Low' Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-webp-images-into-tiff-format-with-ease/"><u>Free Online Conversion: Transforming WebP Images Into TIFF Format with Ease</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-clear-screening-for-focused-online-participation/"><u>In 2024, Clear Screening for Focused Online Participation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-note-50-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme Note 50</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-startup-process-quick-fix-guide-for-stardew-valley-loading-issues/"><u>Master the Startup Process - Quick Fix Guide for Stardew Valley Loading Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mov-to-aac-conversion-tool-quick-and-easy-free-upload/"><u>MOV to AAC Conversion Tool - Quick & Easy Free Upload</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavis-free-online-png-converter-convert-arw-files-with-ease/"><u>Movavi's Free Online PNG Converter: Convert ARW Files with Ease</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-insiders-handbook-to-windows-11-video-mastery/"><u>The Insider's Handbook to Windows 11 Video Mastery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transcodage-gratuit-de-fichiers-m4b-a-mkv-guide-complet-sur-movavi/"><u>Transcodage Gratuit De Fichiers M4B À MKV : Guide Complet Sur Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformar-archivos-raw-a-tiff-gratis-usando-la-herramienta-en-linea-de-movavi/"><u>Transformar Archivos RAW a TIFF Gratis Usando La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforme-seus-amvs-em-mp4-gratuitamente-online-com-o-conversor-do-movavi/"><u>Transforme Seus AMVs Em MP4 Gratuitamente Online Com O Conversor Do Movavi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-gold-tier-8-secret-screeners-choice-for-2024/"><u>[New] Gold-Tier 8 Secret Screeners' Choice for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-revamp-chromebooks-soundscape-with-our-picks-for-web-extensions/"><u>[Updated] 2024 Approved Revamp Chromebook's Soundscape with Our Picks for Web Extensions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-sign-up-saga-crafting-your-digital-persona-facebook-for-2024/"><u>[Updated] Sign Up Saga Crafting Your Digital Persona (Facebook) for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-online-destinations-for-sparkling-and-metallic-letters/"><u>Best Online Destinations for Sparkling and Metallic Letters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/best-starter-cameras-for-child-filmmakers-in-splashy-settings/"><u>Best Starter Cameras For Child Filmmakers in Splashy Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-broadcasting-your-ps5-gaming-experience-online/"><u>Easy Tutorial: Broadcasting Your PS5 Gaming Experience Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-diagonal-distortions-tips-for-aligning-your-monitor-correctly/"><u>Eliminating Diagonal Distortions: Tips for Aligning Your Monitor Correctly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-hosting-for-everyone-10-top-picks-for-private-and-business-videos/"><u>Free Video Hosting for Everyone 10 Top Picks for Private and Business Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-i-remove-built-in-apps-from-my-iphone-device/"><u>How Can I Remove Built-In Apps From My iPhone Device?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-the-challenge-of-missing-gsdll32dll-files-on-your-pc/"><u>Overcoming the Challenge of Missing Gsdll32.dll Files on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revealing-hidden-files-on-macos-using-the-terminal-command-line/"><u>Revealing Hidden Files on macOS Using the Terminal Command Line</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-for-disabling-captions-on-amazon-prime-streaming-services/"><u>Simple Steps for Disabling Captions on Amazon Prime Streaming Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722882951004-step-by-step-instructions-on-how-to-find-an-unremembered-email-account/"><u>Step-by-Step Instructions on How to Find an Unremembered Email Account</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-samsung-galaxy-tab-s5e-review-unveiling-an-android-tablet-extraordinaire/"><u>The Ultimate Samsung Galaxy Tab S5e Review: Unveiling an Android Tablet Extraordinaire</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-restore-wi-fi-connection-on-your-surface-pro/"><u>Troubleshooting Steps to Restore Wi-Fi Connection on Your Surface Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-f54-5g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy F54 5G</u></a></li>
 </ul></div>
 
