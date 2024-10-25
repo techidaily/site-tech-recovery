@@ -1,7 +1,7 @@
 ---
 title: "Mastering Energy Efficiency: A Guide to Enabling Low Power Mode on Your macOS Monterey - Tips From ZDNet"
-date: 2024-10-12T17:22:10.859Z
-updated: 2024-10-19T17:05:32.827Z
+date: 2024-10-20T18:05:03.108Z
+updated: 2024-10-25T06:56:59.937Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -52,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -70,6 +63,13 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -79,16 +79,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<span id="1982570">
+<span id="1982456">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -98,10 +98,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -140,21 +140,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-network-growth-share-igtv-videos-and-fb/"><u>[New] 2024 Approved Unlocking Network Growth Share IGTV Videos & FB</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-insights-on-asmr-videos-unveiled/"><u>[Updated] 2024 Approved Essential Insights on ASMR Videos Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-gpus-engineered-for-4k-gaming/"><u>[Updated] Premium GPUs Engineered for 4K Gaming</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-recipes-that-resonate-best-practices-for-eating-themed-titles/"><u>2024 Approved Recipes That Resonate Best Practices for Eating-Themed Titles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activating-the-speaker-in-microsofts-new-era/"><u>Activating the Speaker in Microsoft's New Era</u></a></li>
-<li><a href="https://facebook.techidaily.com/erasing-a-profile-a-guide-to-page-blocking-on-facebook/"><u>Erasing a Profile: A Guide to Page Blocking on Facebook</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11x-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme 11X 5G Phone without PIN</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/photoshop-tutorial-creating-3d-text-illusions/"><u>Photoshop Tutorial Creating 3D Text Illusions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reversing-your-pc-display-orientation-easy-steps-to-master-it/"><u>Reversing Your PC Display Orientation - Easy Steps to Master It</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-automated-troubleshooting-in-windows-11/"><u>Seamless Automated Troubleshooting in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-quickly-resolve-print-queue-issues-a-complete-guide/"><u>Simple Steps to Quickly Resolve Print Queue Issues: A Complete Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/skyrocket-minecraft-frames-per-second-expert-strategies-for-high-end-pc-optimization-updated/"><u>Skyrocket Minecraft Frames per Second: Expert Strategies for High-End PC Optimization - Updated</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-turning-off-microsofts-cortana-on-your-windows-10-device/"><u>Step-by-Step Guide: Turning Off Microsoft's Cortana on Your Windows 10 Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-how-to-pair-laptop-and-projector/"><u>Step-by-Step Tutorial on How to Pair Laptop and Projector</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-pdfs-with-ease-seamlessly-turn-them-into-excel-spreadsheets-now/"><u>Transform Your PDFs with Ease - Seamlessly Turn Them Into Excel Spreadsheets Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-videos-with-manycam-the-ultimate-online-broadcasting-solution/"><u>Transform Your Videos with ManyCam - The Ultimate Online Broadcasting Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-green-up-your-cta-game-subscribe-and-screen/"><u>[New] 2024 Approved Green Up Your CTA Game Subscribe & Screen</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-organizing-video-content-with-vimeo-chapters-for-2024/"><u>[Updated] Organizing Video Content with Vimeo Chapters for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-live-pro-tips-outfitting-with-excellent-webcams-for-2024/"><u>[Updated] YouTube Live Pro Tips Outfitting with Excellent Webcams for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-fix-for-when-you-cant-locate-avcodecdll-expert-solutions/"><u>Complete Fix for When You Can't Locate avcodec.dll: Expert Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-gaming-devices-dominating-2024/"><u>Discover the Premier Gaming Devices Dominating 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-resolve-steams-disk-write-failure-problems/"><u>Effective Ways to Resolve Steam's Disk Write Failure Problems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-effortlessly-record-your-iphone-screen-for-2024/"><u>How to Effortlessly Record Your iPhone Screen for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-startup-failure-with-error-0xc000007b-step-by-step-solutions/"><u>How to Fix the Startup Failure with Error 0xC000007B: Step-by-Step Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oneplus-12r-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock OnePlus 12R</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-youtube-conversion-the-ultimate-4k-guide/"><u>Mastering YouTube Conversion The Ultimate 4K Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-digital-reception-challenges-the-insiders-guide-to-selecting-and-installing-indoor-tv-antennas/"><u>Overcoming Digital Reception Challenges: The Insider's Guide to Selecting and Installing Indoor TV Antennas</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-restored-overcoming-fps-and-freezing-in-red-dead-2/"><u>Smooth Gaming Restored: Overcoming FPS and Freezing in Red Dead 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-on-buying-digital-reads-on-iphone-or-ipad-using-apples-app-store-books-feature/"><u>The Ultimate How-To on Buying Digital Reads on iPhone or iPad Using Apple's App Store Books Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-wlpapidll-files-expert-tips-and-solutions/"><u>Troubleshooting Missing wlpapi.dll Files: Expert Tips & Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-collection-of-iconic-80s-flicks-watch-now/"><u>Ultimate Collection of Iconic '80S Flicks - Watch Now!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-nubia-z50-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nubia Z50 Ultra FRP Bypass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unmute-the-issue-fixing-iphone-call-ring-failures-with-ease/"><u>Unmute the Issue: Fixing iPhone Call Ring Failures with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 7 Tips for Optimizing UI/UX on Apple's VisionOS - Insights
-date: 2024-10-12T16:56:54.195Z
-updated: 2024-10-19T16:37:47.618Z
+date: 2024-10-23T18:57:09.878Z
+updated: 2024-10-25T06:05:31.806Z
 tags:
   - apple
 categories:
@@ -52,6 +52,13 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Identify your key moments
 
 Let's say you're a developer who has an existing app for the iPad. Let's say you want to bring said iPad app into VisionOS. The iPad app, by its nature, is flat and rectangular. But VisionOS allows users to see all around. Is there anything in your app that clearly lends itself to VRification? 
@@ -63,10 +70,10 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3\. Adjust UI elements to accommodate the new environment
@@ -77,13 +84,6 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Utilize grid systems where appropriate
 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
@@ -91,10 +91,10 @@ Apple says that apps designed with the [iPadOS grid system](https://developer.ap
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
@@ -107,18 +107,18 @@ To that end, even if you're building a non-entertainment app that would normally
 
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Focus on key details, but don't overwhelm
 
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
 
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
 
@@ -167,22 +167,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-double-your-reach-youtube-and-facebook-cross-promotion-for-2024/"><u>[New] Double Your Reach YouTube & Facebook Cross-Promotion for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webcam-selection-guide-the-10-best-picks-unveiled/"><u>[New] In 2024, Webcam Selection Guide The 10 Best Picks Unveiled</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-whatsapps-competitor-a-line-app-evaluation/"><u>Comprehensive Guide to WhatsApp's Competitor – A Line App Evaluation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-acquiring-new-applications-on-a-samsung-smart-television-system/"><u>Easy Instructions for Acquiring New Applications on a Samsung Smart Television System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-fixing-optical-drive-ejection-problems-on-your-computer/"><u>Expert Advice for Fixing Optical Drive Ejection Problems on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-top-tier-key-tracking-gadgets-dominating-2024/"><u>Explore the Top-Tier Key Tracking Gadgets Dominating 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-out-who-watches-your-youtube-content-strategies-inside/"><u>Find Out Who Watches Your YouTube Content - Strategies Inside</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1720669217128-guide-on-migrating-data-importing-restored-edb-files-into-a-live-microsoft-exchange-environment-watch-now/"><u>Guide on Migrating Data: Importing Restored EDB Files Into a Live Microsoft Exchange Environment - Watch Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012872427-how-to-fix-dead-space-remake-wont-launch-2024-tips/"><u>How to Fix Dead Space Remake Won't Launch - 2024 Tips</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-redmi-note-12-pro-4g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Redmi Note 12 Pro 4G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-seo-handbook-for-podcast-success/"><u>In 2024, The Essential Seo Handbook for Podcast Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphones-and-androids-face-off-determining-the-ideal-smartphone-for-you/"><u>IPhones and Androids Face-Off: Determining the Ideal Smartphone for You</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-audio-alerts-excellent-sites-compilation-for-2024/"><u>Premium Audio Alerts Excellent Sites Compilation for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/safeguarding-privacy-while-unlocking-an-ipad-without-a-passcode/"><u>Safeguarding Privacy While Unlocking an iPad Without a Passcode</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-issues-with-call-functionality-on-your-android-device/"><u>Ultimate Guide: Resolving Issues with Call Functionality on Your Android Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-gimbal-guide-for-the-ultimate-4k-shot-experience-for-2024/"><u>[New] Gimbal Guide for the Ultimate 4K Shot Experience for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-loop-maker-assembly/"><u>[New] Loop Maker Assembly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-softening-transitions-gradual-audio-fading-techniques-in-premiere/"><u>[New] Softening Transitions Gradual Audio Fading Techniques in Premiere</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breaking-apple-hit-with-2-billion-euro-fine-by-european-union-over-anti-competitive-app-store-tactics-coverage/"><u>Breaking: Apple Hit with 2 Billion Euro Fine by European Union Over Anti-Competitive App Store Tactics | Coverage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-detecting-and-eliminating-mobile-phone-spyware-insights/"><u>Effective Strategies for Detecting & Eliminating Mobile Phone Spyware - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-iphone-experience-tailoring-the-control-center-for-ios-18-zdnet/"><u>Enhance Your iPhone Experience: Tailoring the Control Center for iOS 18 (ZDNet)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-much-does-extreme-thinness-affect-user-experience-an-inside-look-at-apples-lean-ipads-with-a-remarkable-008-inch-profile-tech-analysis/"><u>How Much Does Extreme Thinness Affect User Experience? An Inside Look at Apple's Lean iPads with a Remarkable 0.08-Inch Profile | Tech Analysis</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-6-plus-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 6 Plus to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-elite-gimbal-solutions-youtube-creators-stabilizing-allies/"><u>In 2024, Elite Gimbal Solutions YouTube Creators' Stabilizing Allies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-motorola-edge-40-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Motorola Edge 40 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-craft-the-ultimate-guide-to-leveraging-macoss-premier-desktop-publishing-software/"><u>Mastering Craft: The Ultimate Guide to Leveraging MacOS's Premier Desktop Publishing Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/new-airpods-revolutionize-wireless-listening-experience-with-find-my-feature-and-modern-usb-c-connection-apple-exclusive-coverage/"><u>New AirPods Revolutionize Wireless Listening Experience with Find My Feature and Modern USB-C Connection | Apple Exclusive Coverage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ready-for-an-audio-revolution-compare-the-new-features-of-apples-airpods-pro-and-max-in-light-of-the-anticipated-airpods-ve-tech-analysis-by-zdnet/"><u>Ready for an Audio Revolution? Compare the New Features of Apple's AirPods Pro and Max in Light of the Anticipated AirPods Ve | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/single-page-layout-showcasing-your-flipping-book-entirely-at-once-with-flipbuilder/"><u>Single-Page Layout: Showcasing Your Flipping Book Entirely at Once with FlipBuilder</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbeatable-savings-alert-exclusive-best-buy-promotions-for-june-2024-revealed/"><u>Unbeatable Savings Alert: Exclusive Best Buy Promotions for June 2024 Revealed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-a-missing-coredll-file-expert-advice/"><u>What To Do When You Encounter a Missing Core.dll File: Expert Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iuobiuobmeobmeocgseg44gp44gt44gn44kc5yuv55s744ks44oa44km44oz44ot44o844oj44gx44cb44kq44ov44op44kk44oz6zgr6loe44gm5bplusr6ygp44grouocueodnuodmplusobqoocvpluso17/"><u>おすすめ! どこでも動画をダウンロードし、オフライン鑑賞が快適に:スマホとタブレットのユーザーへ</u></a></li>
 </ul></div>
 

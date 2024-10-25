@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2024-10-13T16:03:28.197Z
-updated: 2024-10-19T16:03:21.305Z
+date: 2024-10-19T20:02:27.374Z
+updated: 2024-10-25T12:51:46.710Z
 tags:
   - apple
 categories:
@@ -29,13 +29,6 @@ Ever since, those attributes have defined all smartphones, save for one common s
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -83,6 +76,13 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2010: Smartphones meet narcism, a match made in heaven
 
 Smartphones have evolved with a cadence we're all familiar with. Each year, new capabilities have been added and features improved. Cameras evolved from 3.0MP cameras to 48-50MP monsters like the [iPhone 15 Pro Max](https://www.zdnet.com/article/should-you-buy-an-iphone-15-heres-how-my-wife-and-i-are-deciding/), [Google Pixel 8](https://www.zdnet.com/article/pixel-8-pro-vs-pixel-7-pro/), [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and [Asus ROG Phone 8](https://rog.asus.com/articles/smartphones/the-rog-phone-8-and-rog-phone-8-pro-beyond-gaming-with-a-slim-new-design/).
@@ -104,10 +104,10 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
@@ -119,6 +119,13 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 **Also: [How the iPhone 15 Pro Max challenges mirrorless cameras: We compare price and performance](https://www.zdnet.com/article/how-the-iphone-15-pro-max-challenges-mirrorless-cameras-we-compare-price-and-performance/)**
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
 
@@ -137,10 +144,10 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Image quality
@@ -156,13 +163,6 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -262,20 +262,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-webcam-video-production-record-edit-and-export-guide/"><u>[New] In 2024, Webcam Video Production Record, Edit & Export Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-safeguarding-your-digital-footprint-on-youtube/"><u>[Updated] In 2024, Safeguarding Your Digital Footprint on YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-soloists-path-to-trending-podcasts/"><u>2024 Approved The Soloist's Path to Trending Podcasts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ehensive-list-of-top-9-free-video-channel-branding-aids-for-2024/"><u>Comprehensive List of Top 9 Free Video Channel Branding Aids for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-sound-card-drivers-with-simple-steps/"><u>Download & Update Sound Card Drivers with Simple Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-screen-capture-techniques-for-your-toshiba-laptop-a-step-by-step-guide/"><u>Effortless Screen Capture Techniques for Your Toshiba Laptop: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-skyrim-adventure-revolutionary-frame-rate-boosting-update-launched/"><u>Elevate Your Skyrim Adventure: Revolutionary Frame Rate Boosting Update Launched</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-checking-and-updating-graphics-card-driver-versions-with-nvidia/"><u>Expert Tips for Checking & Updating Graphics Card Driver Versions with NVIDIA</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fast-track-windows-os-version-identification-guide/"><u>Fast Track Windows OS Version Identification Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/getting-oculus-air-link-up-and-running-again-on-windows-step-by-step-fix/"><u>Getting Oculus Air Link Up and Running Again on Windows - Step-by-Step Fix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-clear-cache-on-windows-11/"><u>How to Clear Cache on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-connect-bluetooth-headphones-to-windows-11-pc/"><u>How to Connect Bluetooth Headphones to Windows 11 PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/influencer-impact-covid-misinformation-spread/"><u>Influencer Impact: Covid Misinformation Spread</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unveiling-the-mysteries-of-data-recovery-with-totan-at-stellar/"><u>Unveiling the Mysteries of Data Recovery with Totan at Stellar</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-voice-tactics-for-playstation-45-gamers/"><u>[New] In 2024, Voice Tactics for PlayStation 4/5 Gamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-androids-virtual-frontier-the-best-15-game-experiences-for-2024/"><u>[Updated] Android's Virtual Frontier The Best 15 Game Experiences for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/debugging-parse-mistakes-on-android-devices-try-these-eight-tips/"><u>Debugging Parse Mistakes on Android Devices? Try These Eight Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-tv-streaming-services-of-2024-here/"><u>Discover the Premier TV Streaming Services of 2024 Here!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-resolving-the-d3dx939dll-file-error/"><u>Expert Advice: Resolving the d3dx9_39.dll File Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/families-ai-and-the-future-of-tech-interaction/"><u>Families, AI & The Future of Tech Interaction</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-15-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 15 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-youtube-spots-for-video-marketing-success/"><u>In 2024, Top YouTube Spots for Video Marketing Success</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lg-gram-pro-vs-macbook-air-showdown-top-three-surprises-from-a-tech-reviews-comparison/"><u>LG Gram Pro Vs. MacBook Air Showdown: Top Three Surprises From a Tech Reviews Comparison</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macos-15-sequoia-unveiled-detailed-guide-to-release-schedule-and-innovative-features/"><u>MacOS 15 Sequoia Unveiled: Detailed Guide to Release Schedule & Innovative Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-macos-updates-your-ultimate-guide-to-version-comparisons-and-features/"><u>Navigating Through macOS Updates: Your Ultimate Guide to Version Comparisons and Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-when-your-imessage-stops-working-on-ios-and-macos-devices/"><u>Quick Fixes for When Your iMessage Stops Working on iOS and macOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-power-of-multitasking-on-macbook-air-with-simple-splitscreen-techniques/"><u>Unlocking the Power of Multitasking on MacBook Air with Simple Splitscreen Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-future-of-mobility-teslas-robo-taxi-unleashed-launch-details-and-pricing-insights/"><u>Unveiling the Future of Mobility - Tesla's Robo-Taxi Unleashed: Launch Details & Pricing Insights</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-10t-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 10T 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

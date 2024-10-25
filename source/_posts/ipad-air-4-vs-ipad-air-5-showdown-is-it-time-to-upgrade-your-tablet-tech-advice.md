@@ -1,7 +1,7 @@
 ---
 title: "IPad Air 4 vs iPad Air 5 Showdown: Is It Time to Upgrade Your Tablet? | Tech Advice"
-date: 2024-10-15T16:08:08.781Z
-updated: 2024-10-19T17:05:05.269Z
+date: 2024-10-21T16:23:57.030Z
+updated: 2024-10-25T03:00:48.110Z
 tags:
   - apple
 categories:
@@ -54,29 +54,22 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You're ready to embrace Apple's M1 supremacy
 
 The saying you can't teach an old dog new tricks doesn't really apply to the iPad Air 5\. In fact, underneath the familiar glass and aluminum exterior is Apple's ARM-based, eight-core CPU, [M1 processor](https://www.zdnet.com/article/apple-m1-vs-m2/). Trickling down from MacBooks and iMacs, Apple's M1 chip is expected to be up to 60% faster and more powerful than its A-series counterpart -- like the A14 found in the iPad Air 4\. 
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
 
@@ -85,6 +78,19 @@ Camera performance isn't typically the key selling point for tablets, let alone 
 **Also: [iPad (2022) vs. iPad Air (2022): How different are the two?](https://www.zdnet.com/article/ipad-2022-vs-ipad-air-2022/)**
 
 While the 12MP rear camera remains untouched, the front now houses a 12MP ultra-wide camera. With a wider field of view than the previous generation's 7MP FaceTime HD lens, the new iPad can take advantage of Center Stage, Apple's webcam feature that tracks and follows your face as you move around. This is particularly useful for presentations and FaceTime calls with friends and family.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You thrive on 5G
 
@@ -98,31 +104,31 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 Image: Apple
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Price comes before anything else
 
 With the release of the new iPad Air, most third-party retailers have since marked down the 2020 model as a means to clear out inventory. The winner of this sequence is you, the consumer. At the time of writing, the iPad Air 4 can be had for as low as [$429](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-10-9-inch-Cellular-Generation-Renewed%2Fdp%2FB08PF8HCDJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0fd05516-7afe-47e7-81c2-ef0b479cd1b1%7Cdtp&dtb=1), less if you opt for an open-market retailer like eBay. That's more than a $150 difference compared to the new iPad Air 5 which, in a snapshot, only wins out on 5G, the front-facing camera, and processing power. If one, two, or even all three of those aspects are not on your priority list of features, then opting for the older iPad Air may be the best play here. 
 
 [Apple iPad Air (2020) $375.39 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J61FCVN%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0fd05516-7afe-47e7-81c2-ef0b479cd1b1%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
@@ -170,22 +176,19 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-mp4-downloading-vimeo-videos-easily/"><u>[New] In 2024, Mastering MP4 Downloading Vimeo Videos Easily</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-free-tools-top-5-screen-recorder-apps-for-chrome-devices/"><u>[Updated] 2024 Approved Free Tools Top 5 Screen Recorder Apps for Chrome Devices</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazon-alexa-versus-google-assistant-determining-the-best-personal-digital-assistant-for-you/"><u>Amazon Alexa versus Google Assistant - Determining the Best Personal Digital Assistant for You</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-placing-various-pins-concurrently-using-google-map-services/"><u>Comprehensive Guide: Placing Various Pins Concurrently Using Google Map Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dive-into-epic-storytelling-with-these-amazing-free-movie-selections-on-youtube-for-july-2024/"><u>Dive Into Epic Storytelling with These Amazing Free Movie Selections on YouTube for July 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-reconfiguring-logitech-wireless-mice-with-different-adapters/"><u>Easy Instructions for Reconfiguring Logitech Wireless Mice with Different Adapters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-resolving-a-503-error-a-guide-to-restoring-website-access/"><u>Expert Tips for Resolving a '503 Error' – A Guide to Restoring Website Access</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-streaming-espnplus-live-sports-events-on-your-lg-smart-television/"><u>Guide: Streaming ESPN+ Live Sports Events on Your LG Smart Television</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hacky-podcast-transmission-tactic/"><u>Hacky Podcast Transmission Tactic</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-s17-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo S17 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-7-plus-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 7 Plus Waze | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-sony-xperia-5-v-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Sony Xperia 5 V to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-harnessing-hidden-auditory-elements-in-videos-a-2023-approach-to-enhanced-sound-recovery/"><u>New Harnessing Hidden Auditory Elements in Videos A 2023 Approach to Enhanced Sound Recovery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/recovering-gone-sms-on-mobile-devices-your-comprehensive-help-resource/"><u>Recovering Gone SMS on Mobile Devices: Your Comprehensive Help Resource</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-picking-all-correspondences-at-once-on-gmail/"><u>The Complete Guide to Picking All Correspondences at Once on Gmail</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-cheatsheet-to-make-a-collage/"><u>The Ultimate Cheatsheet to Make a Collage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-easy-access-guide-skype-audio-to-mp3-free/"><u>[New] In 2024, Easy-Access Guide Skype Audio to Mp3, Free</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-uncomplicated-gameplay-saving-in-warframe/"><u>2024 Approved Uncomplicated Gameplay Saving in Warframe</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/boosting-linux-security-on-your-laptop-with-these-7-essential-tips/"><u>Boosting Linux Security on Your Laptop with These 7 Essential Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/does-image-smoothing-streamline-the-creative-process/"><u>Does Image Smoothing Streamline the Creative Process?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-factors-when-choosing-your-dream-gaming-computer/"><u>Essential Factors When Choosing Your Dream Gaming Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-vivo-t2-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Vivo T2 5G?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-guide-to-30-compelling-video-presentation-ideas/"><u>In 2024, A Guide to 30 Compelling Video Presentation Ideas</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-spark-10-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Spark 10 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-buzz-on-google-pixel-fold-2-price-predictions-launch-date-anticipations-full-specifications-and-hidden-gems-in-rumors/"><u>Inside the Buzz on Google Pixel Fold 2: Price Predictions, Launch Date Anticipations, Full Specifications, and Hidden Gems in Rumors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-motherboard-selection-what-to-look-for-in-the-first-place/"><u>Mastering Motherboard Selection: What to Look For in the First Place</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-when-vcompdll-is-missing-or-cant-be-found/"><u>Step-by-Step Fix for When Vcomp.dll Is Missing or Can't Be Found</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-effortless-updating-of-microsoft-surface-drivers/"><u>Step-by-Step Tutorial for Effortless Updating of Microsoft Surface Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-how-to-resolve-advrcntr2dll-error-in-nero-program/"><u>The Ultimate Guide: How To Resolve Advrcntr2.dll Error in Nero Program</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-to-increasing-your-twitter-fanbase-quickly-and-effectively/"><u>Unlock the Secrets to Increasing Your Twitter Fanbase Quickly and Effectively</u></a></li>
 </ul></div>
 

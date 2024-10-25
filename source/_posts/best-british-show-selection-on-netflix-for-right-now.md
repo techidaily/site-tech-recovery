@@ -1,7 +1,7 @@
 ---
 title: Best British Show Selection on Netflix for Right Now
-date: 2024-09-12T17:25:55.644Z
-updated: 2024-09-15T18:08:07.499Z
+date: 2024-10-18T23:08:49.446Z
+updated: 2024-10-24T22:42:52.388Z
 categories:
   - BestProducts
 description: This Article Describes Best British Show Selection on Netflix for Right Now
@@ -30,6 +30,13 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -45,6 +52,19 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
 8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Discord Error Messages
 
@@ -84,12 +104,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-ultimate-list-of-quick-pace-audio-apps/"><u>[New] In 2024, Ultimate List of Quick-Pace Audio Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-ultimate-secret-amplifying-gaming-vids-with-hashes/"><u>[New] Unveiling the Ultimate Secret Amplifying Gaming Vids with Hashes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-basic-understanding-of-animate-graphic-content/"><u>2024 Approved Basic Understanding of Animate Graphic Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-beginners-toolkit-transforming-living-spaces-into-immersive-cinema-worlds/"><u>Affordable Beginner's Toolkit: Transforming Living Spaces Into Immersive Cinema Worlds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-cellular-connectivity-on-the-apple-watch/"><u>Diagnosing and Repairing Cellular Connectivity on the Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-correct-the-missing-openal32dll-error-a-step-by-step-tutorial/"><u>Easy Steps to Correct the Missing openAL32.dll Error: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/eliminating-windows-11-photo-app-malfunctions/"><u>Eliminating Windows 11 Photo App Malfunctions</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y28-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y28 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-narzo-n55-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme Narzo N55 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-elite-8-augmenting-tools-for-professional-broadcasts/"><u>In 2024, Elite 8 Augmenting Tools for Professional Broadcasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-issues-how-to-resolve-problems-with-netflix-content-not-playing-correctly/"><u>Solving Issues: How to Resolve Problems with Netflix Content Not Playing Correctly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-haldll-file-not-found-issue-on-windows-xp-a-step-by-step-guide/"><u>Solving the Hal.dll File Not Found Issue on Windows XP: A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974682383-swift-solution-rectify-apex-glitches-now/"><u>Swift Solution: Rectify Apex Glitches Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-top-5-freebie-car-race-games-to-play-standalone-edition/"><u>The Top 5 Freebie Car Race Games to Play - Standalone Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-overcoming-a-missing-msxml4dll-file-issue/"><u>Troubleshooting Steps for Overcoming a Missing msxml4.dll File Issue</u></a></li>
+</ul></div>
 

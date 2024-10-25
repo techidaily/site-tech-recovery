@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Retrieve Passwords From macOS Keychain Effortlessly"
-date: 2024-10-12T17:13:06.308Z
-updated: 2024-10-19T17:18:59.496Z
+date: 2024-10-21T18:20:00.287Z
+updated: 2024-10-25T00:18:43.409Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 * An [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running iOS 18.1 beta or an iPhone XS or newer model running iOS 18.1 beta 4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Start a phone call
 
 Initiate a call. You'll see a new icon in the upper-left corner of the call screen -- click it to begin recording. 
@@ -59,13 +66,6 @@ Screenshot by Maria Diaz/ZDNET
 Once you've begun the recording, you'll see a notification alerting all parties, and an audio message that recording has been initiated. 
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. End recording and view transcript
 
@@ -92,13 +92,6 @@ This first method is considered the most accessible for most iPhone users who wa
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an [Android](https://www.zdnet.com/article/best-android-phone/) device) using Voice Memos or another recording app to record the call
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Test your Voice Memos app
 
 First, ensure you have an iPhone and another iOS device, such as a Mac, iPad, or another iPhone, with the Voice Memos app. The Voice Memos app is preinstalled on most devices, but is also free on the [App Store](https://www.apple.com/app-store/). If using an Android device, check that it has a recording app, like [this free one](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder&hl=en%5FUS&gl=US&pli=1).
@@ -119,13 +112,6 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check whether you need to inform the other party that you're recording
 
 Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.) if the state you're recording and residing in is a one-party or all-party state for recording consent. 
@@ -135,10 +121,10 @@ Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-s
 One-party states require only one person on the call -- which would be you -- to consent. An all-party state requires both the person recording and the person(s) being recorded to consent. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Start recording
@@ -173,13 +159,6 @@ Open up sharing options. You can also trim or rename the recording to something 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Other ways to record
 
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device spare, here are a few alternatives. 
@@ -187,13 +166,6 @@ Following the steps above is the easiest, most efficient, and most discreet way 
 **Also: [I thought this new VisionOS 2 feature was just a gimmick - until it made me cry into my Vision Pro](https://www.zdnet.com/article/i-thought-this-new-visionos-2-feature-was-just-a-gimmick-until-it-made-me-cry-into-my-vision-pro/)**
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Rev Voice Recorder
 
@@ -213,13 +185,6 @@ You can select the device from which you want to initiate a call via the app. Fo
 
 Once everyone is on the call, press the number four (4) on the keypad to start and end the recording. The call will end up in the record menu option after it ends. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Easy Voice Recorder
 
 [Easy Voice Recorder](https://apps.apple.com/us/app/easy-voice-recorder/id1222784166) is another free app that allows you to record high-quality voice memos or recordings to PCM, MP4, or ACC files -- which can then be saved to your iCloud account. The app can't record phone calls hosted by the same device, but it does have quick and easy built-in transcription capability for no extra cost. 
@@ -228,7 +193,21 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is it illegal to record phone calls?
 
@@ -244,13 +223,40 @@ Several downloadable third-party apps can record calls on the iPhone, but that c
 
 Alternatively, you can use most mic-equipped computers or tablets to record phone conversations, as long as the phone is on speaker or the microphone is held close to the other device's speaker. Both [MacOS](https://www.zdnet.com/article/best-mac/) and [Windows](https://www.zdnet.com/article/best-windows-laptop/) computers have numerous audio recording software options available.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does Apple have an app to record iPhone calls?
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does screen recording on iPhone record my call?
 
 Screen recording while on an audio or FaceTime call will only record your screen -- it won't capture any audio from you or your phone.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does iPhone's Voice Memos have a time limit?
 
@@ -286,22 +292,20 @@ The Voice Memos app can record for an unlimited amount of time, as long as you h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-closer-look-detailed-test-on-lg-ud88-w-oled-screen/"><u>[New] 2024 Approved A Closer Look Detailed Test on LG UD88-W OLED Screen</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-tailored-solutions-for-high-quality-iptv-capture-for-2024/"><u>[New] Tailored Solutions for High-Quality IPTV Capture for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-maximizing-collaboration-with-zoom-meeting-recordings/"><u>[Updated] 2024 Approved Maximizing Collaboration with Zoom Meeting Recordings</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/champion-for-photo-data-rescue/"><u>Champion for Photo Data Rescue</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/get-access-to-explicit-media-on-dare-dorm-safe-and-fast-download-options/"><u>Get Access to Explicit Media on Dare Dorm – Safe and Fast Download Options</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/harness-the-power-to-control-your-phone-line-comprehveiw-and-execute-a-swift-call-block-on-ios-and-android/"><u>Harness the Power to Control Your Phone Line: Comprehveiw and Execute a Swift Call Block on iOS and Android.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/hiberfilsys-and-pagefilesys-high-local-disk-usage-on-windows-107-solved/"><u>hiberfil.sys and pagefile.sys High Local Disk Usage on Windows 10/7 [Solved]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-clean-up-disk-space-on-windows-10/"><u>How to Clean Up Disk Space on Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-a-502-bad-gateway-error/"><u>How to Fix a 502 Bad Gateway Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-reset-your-graphics-driver-on-windows-11107/"><u>How to Reset Your Graphics Driver on Windows 11/10/7</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-issues-with-your-logitech-wireless-mouse-when-it-stops-responding/"><u>How to Resolve Issues with Your Logitech Wireless Mouse When It Stops Responding</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-smoothly-implement-postponed-update-options-for-windows-11-systems/"><u>How to Smoothly Implement Postponed Update Options for Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-uninstall-windows-11-anniversary-update-easily/"><u>How to Uninstall Windows 11 Anniversary Update. Easily!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mastering-the-basics-a-thorough-guide-to-using-mobizen-recorders-for-2024/"><u>Mastering the Basics A Thorough Guide to Using Mobizen Recorders for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/nvidia-geforce-rtx-3080-driver-update-now-available-windows-11-8-and-7-compatible-version/"><u>NVIDIA GeForce RTX 3080 Driver Update Now Available: Windows 11, 8 & 7 Compatible Version</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smoothened-laptop-monitor-glitches-effectively/"><u>Smoothened Laptop Monitor Glitches Effectively</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-expanding-storytelling-with-alternative-cinematography/"><u>[New] In 2024, Expanding Storytelling with Alternative Cinematography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-the-art-of-auto-play-youtube-content-in-fb/"><u>[Updated] Mastering the Art of Auto-Play YouTube Content in FB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/8-innovative-methods-to-harness-the-power-of-chatgpt-visual-capabilities/"><u>8 Innovative Methods to Harness the Power of ChatGPT Visual Capabilities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-c12-plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia C12 Plus Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-the-auditory-journey-in-a-film-teaser-for-2024/"><u>Crafting the Auditory Journey in a Film Teaser for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/first-steps-in-mastering-av1-coders-for-2024/"><u>First Steps in Mastering AV1 Coders for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-starting-the-installation-process-for-your-new-amazon-echo-dot/"><u>Guide to Starting the Installation Process for Your New Amazon Echo Dot</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-k11-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo K11 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-users-handbook-creating-and-managing-preprogrammed-sms-alerts-efficiently/"><u>IPhone Users' Handbook: Creating and Managing Preprogrammed SMS Alerts Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restoring-access-to-your-deactivated-instagram-presence/"><u>Restoring Access to Your Deactivated Instagram Presence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-libcurldll-error-comprehensive-solutions-for-file-unavailability/"><u>Troubleshooting the libcurl.dll Error: Comprehensive Solutions for File Unavailability</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/twitch-outage-whats-happening-with-the-service-and-how-can-i-tell-if-its-me/"><u>Twitch Outage – What's Happening with the Service, and How Can I Tell If It’s Me?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-vehicles-radio-a-step-by-step-guide-to-finding-the-right-access-code/"><u>Unlocking Your Vehicle's Radio: A Step-by-Step Guide to Finding the Right Access Code</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-essential-guide-to-lgbt-movies-featuring-strong-characters-on-netflix-in-july-2024/"><u>Your Essential Guide to LGBT Movies Featuring Strong Characters on Netflix in July 2024</u></a></li>
 </ul></div>
 

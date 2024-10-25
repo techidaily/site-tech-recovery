@@ -1,7 +1,7 @@
 ---
 title: "Apple Declares Your Gadget Vintage: A Guide to Legacy Tech & Future Updates | ZDNet"
-date: 2024-10-18T17:17:07.464Z
-updated: 2024-10-19T17:01:06.983Z
+date: 2024-10-18T07:44:36.704Z
+updated: 2024-10-24T20:09:34.893Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ In this article, I'll show you how to take both screenshots and screen recording
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -64,10 +64,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -109,10 +109,10 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -162,24 +162,15 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-become-a-snapchat-pro-securing-and-sharing-screen-videos/"><u>[New] Become a Snapchat Pro Securing & Sharing Screen Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtubers-with-a-glamour-touch-top-names/"><u>[New] YouTubers with a Glamour Touch Top Names</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728499768663-windows-11/"><u>解決策：如何克服Windows 11安裝時出現問題</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808281806-effortless-installation-guide-get-the-latest-windows-10-version-now/"><u>Effortless Installation Guide: Get the Latest Windows 10 Version Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723807900441-how-to-fix-a-required-cddvd-drive-device-driver-is-missing-error/"><u>How to Fix 'A Required CD/DVD Drive Device Driver Is Missing' Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808320477-how-to-fix-assassins-creed-valhalla-low-fps/"><u>How to Fix Assassin’s Creed Valhalla Low FPS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808114042-how-to-remove-password-in-windows-11-easily/"><u>How to Remove Password in Windows 11. Easily!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808294755-improved-readability-and-clarity-by-increasing-text-size-which-is-particularly-helpful-for-those-who-have-difficulty-reading-small-fonts/"><u>Improved Readability and Clarity by Increasing Text Size, Which Is Particularly Helpful for Those Who Have Difficulty Reading Small Fonts.</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-a-quick-primer-accessing-ioss-vr-content-easily/"><u>In 2024, A Quick Primer Accessing IOS’s VR Content Easily</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-f34-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy F34 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-webcampro-recordingstepssimplified/"><u>In 2024, WebCamPro RecordingStepsSimplified</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-use-of-fn-keys-resolving-common-issues-on-asus-laptops/"><u>Mastering the Use of FN Keys: Resolving Common Issues on ASUS Laptops</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-through-virtual-realms-with-headgear/"><u>Navigating Through Virtual Realms with Headgear</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-seamless-video-driver-refreshes-for-windows-10/"><u>The Ultimate Guide to Seamless Video Driver Refreshes for Windows 10</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-selection-highest-quality-headphones-for-the-year-2023/"><u>The Ultimate Selection: Highest Quality Headphones for the Year 2023</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-non-detectable-external-storage-devices-in-windows-7/"><u>Troubleshooting Non-Detectable External Storage Devices in Windows 7</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/turning-off-cortana-feature-on-your-windows-11-pc/"><u>Turning Off Cortana Feature on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-adjusting-your-screen-preferences-in-windows-11/"><u>Ultimate Guide: Adjusting Your Screen Preferences in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/44ox44ot44gr5a2m44g277ya44os44of44oo44gm5a6m55kn44gq5yuv55s75pku44kk5pa5ic0g44k544og44od44ox44oq44kk44k544og44od44ox44oe44ol44ol44ki44or/"><u>プロに学ぶ：レミノが完璧な動画撮り方 - ステップバイステップマニュアル</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-k11-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo K11 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-launch-of-apples-audio-wearable-tech-pricing-insights-release-timeline-specs-unveiled/"><u>Anticipated Launch of Apple's Audio Wearable Tech: Pricing Insights, Release Timeline, Specs Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-the-best-zero-cost-drive-health-assessment-tools-in-july-2amo/"><u>Comprehensive Guide to the Best Zero-Cost Drive Health Assessment Tools in July 2Amo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-guide-how-to-set-up-the-keyspan-usa-19hs-keyboard-on-your-pc/"><u>Effortless Installation Guide: How To Set Up The Keyspan USA-19HS Keyboard On Your PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-c51-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme C51?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-blaze-2-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-asus-rog-phone-7-ultimate-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Asus ROG Phone 7 Ultimate to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723016715467-resolving-sound-flaws-a-comprehensive-guide-for-distorted-audio-in-windows-10-11-and-7-systems/"><u>Resolving Sound Flaws: A Comprehensive Guide for Distorted Audio in Windows 10, 11, and 7 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-66-twitter-accounts-for-savvy-travelers-find-deals-and-gain-insights/"><u>Top 66 Twitter Accounts for Savvy Travelers: Find Deals and Gain Insights</u></a></li>
 </ul></div>
 

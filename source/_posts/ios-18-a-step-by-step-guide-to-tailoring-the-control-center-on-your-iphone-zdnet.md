@@ -1,7 +1,7 @@
 ---
 title: "IOS 18: A Step-by-Step Guide to Tailoring the Control Center on Your iPhone - ZDNet"
-date: 2024-10-16T17:17:14.309Z
-updated: 2024-10-19T16:01:40.681Z
+date: 2024-10-19T20:53:45.606Z
+updated: 2024-10-24T22:33:30.120Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,6 +57,13 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -70,13 +77,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -85,18 +85,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,18 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-audiophiles-choices-premium-mic-list/"><u>[Updated] Audiophile's Choices Premium Mic List</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities-for-2024/"><u>[Updated] Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-internet-extension-fb-stories-grabber/"><u>[Updated] In 2024, Internet Extension Fb Stories Grabber</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mind-mavens-top-10-educational-youtube-hubs/"><u>[Updated] In 2024, Mind Mavens Top 10 Educational YouTube Hubs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/awaken-on-time-with-these-7-exceptional-smartphone-alarm-applications/"><u>Awaken on Time with These 7 Exceptional Smartphone Alarm Applications</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-the-ultimate-qualcomm-chipset-driver-collection-for-all-windows-users/"><u>Download and Update: The Ultimate Qualcomm Chipset Driver Collection for All Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-grow-your-instagram-audience-tips-and-tricks/"><u>Effective Strategies to Grow Your Instagram Audience: Tips & Tricks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-x50iplus-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor X50i+ Phones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-wi-fi-connection-issues-on-your-surface-pro-a-step-by-step-guide/"><u>Solving Wi-Fi Connection Issues on Your Surface Pro: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-common-issues-why-doesnt-my-youtube-function-properly/"><u>Troubleshooting Common Issues: Why Doesn't My YouTube Function Properly?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-wininetdll-absence-in-your-system-steps-to-take/"><u>Troubleshooting Wininet.dll Absence in Your System - Steps to Take</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-the-8-greatest-mobile-video-games/"><u>Ultimate List of the 8 Greatest Mobile Video Games</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>[New] 2024 Approved Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-boosting-video-quality-the-best-cameras-for-vloggers-dreams/"><u>[Updated] 2024 Approved Boosting Video Quality The Best Cameras for Vloggers' Dreams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-engineering-engrossing-movie-excerpts/"><u>[Updated] 2024 Approved Engineering Engrossing Movie Excerpts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-over-supplementary-film-sequences-b-roll/"><u>2024 Approved Mastery Over Supplementary Film Sequences (B-Roll)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-high-quality-tablets-of-the-year-2024s-expert-evaluations-and-insights-zdnet/"><u>Affordable High-Quality Tablets of the Year: 2024'S Expert Evaluations and Insights | ZDNET</u></a></li>
+<li><a href="https://win-community.techidaily.com/guida-passo-passo-alla-correzione-del-errore-backup-incremental-non-avviato-su-windows-server/"><u>Guida Passo-Passo Alla Correzione Del Errore 'Backup Incremental Non Avviato' Su Windows Server</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-apples-recent-class-action-resolution-benefits-qualifying-macbook-owners-explore-the-terms-and-entitlement-details/"><u>How Apple's Recent Class Action Resolution Benefits Qualifying MacBook Owners - Explore the Terms and Entitlement Details</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997938550-how-to-fix-league-of-legends-wont-open-2024-tips/"><u>How to Fix League of Legends Won't Open - 2024 Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-your-purchase-decision-affected-the-new-price-cut-for-apple-watch-se-2nd-gen-revealed-by-zdnet-after-prime-day-event/"><u>Is Your Purchase Decision Affected? The New Price Cut for Apple Watch SE (2Nd Gen) Revealed by ZDNet After Prime Day Event</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-showdown-comparing-macbook-pro-and-macbook-air-to-determine-which-one-suits-your-needs/"><u>MacBook Showdown: Comparing MacBook Pro & MacBook Air to Determine Which One Suits Your Needs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pixel-vs-iphone-ultimate-showdown-selecting-your-next-top-smartphone/"><u>Pixel vs iPhone Ultimate Showdown: Selecting Your Next Top Smartphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tvos-nineteenth-update-revolutionizing-audio-clarity-on-your-apple-tv-insights/"><u>TvOS Nineteenth Update: Revolutionizing Audio Clarity on Your Apple TV - Insights</u></a></li>
 </ul></div>
 

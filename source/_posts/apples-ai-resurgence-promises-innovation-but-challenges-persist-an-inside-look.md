@@ -1,7 +1,7 @@
 ---
 title: Apple's AI Resurgence Promises Innovation, but Challenges Persist – An Inside Look
-date: 2024-10-16T17:22:06.829Z
-updated: 2024-10-19T16:43:34.764Z
+date: 2024-10-22T21:49:09.725Z
+updated: 2024-10-25T11:10:16.198Z
 tags:
   - apple
 categories:
@@ -31,10 +31,16 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 ## What Apple Intelligence will bring to the company's operating system platforms
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
@@ -59,6 +65,13 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Embracing third-party AI providers
 
 Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration, indicating a willingness to integrate third-party services and partner with multiple AI providers. During [the keynote](https://www.zdnet.com/article/live-updates-everything-apple-announced-at-wwdc-2024-including-ios-18-siri-ai-more/), Apple said it would partner to allow third-party large language models (LLM) in addition to OpenAI ChatGPT (free, [Plus](https://www.zdnet.com/article/how-to-subscribe-to-chatgpt-plus-and-why/), and presumably Enterprise) but did not name those models. Potential models include [Microsoft Copilot](https://www.zdnet.com/article/build-2024-microsoft-enhances-productivity-with-new-copilot-transforming-teamwork-and-projects/), [Google Gemini](https://www.zdnet.com/article/what-is-google-gemini/), Meta Llama 3, Amazon Titan, and Hugging Face, among many others.
@@ -66,6 +79,13 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Also: [How to install iOS 18 developer beta (and which models support it)](https://www.zdnet.com/article/how-to-install-ios-18-developer-beta-and-which-models-support-it/)**
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
 
@@ -95,13 +115,6 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### AI capabilities across Apple products
 
 Lastly, enhancing AI capabilities across all Apple products, including Siri, Apple Music, Apple News, Health, Fitness+, TV, and HomeKit, was a major recommendation. While Apple's AI features are integrated across devices, the specific enhancements for services like Apple Music and HomeKit were limited, at least as addressed in the WWDC keynote.
@@ -111,10 +124,10 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The developer story
@@ -140,19 +153,6 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -194,21 +194,20 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-iconic-acting-snapshot-review-for-2024/"><u>[New] Iconic Acting Snapshot Review for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-true-story-of-youtube-earnings-and-viewer-volume-requirements-for-2024/"><u>[New] The True Story of YouTube Earnings and Viewer Volume Requirements for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-enhance-your-iphone-footage-from-speed-to-extended-muted-visuals/"><u>[Updated] Enhance Your iPhone Footage From Speed to Extended, Muted Visuals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-analysis-of-samsung-image-editor-for-2024/"><u>Comprehensive Analysis of Samsung Image Editor for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-the-audio-narrator-feature-in-your-samsung-television/"><u>Disabling the Audio Narrator Feature in Your Samsung Television</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-fixing-comctl32dll-not-found-error/"><u>Effective Solutions for Fixing 'Comctl32.dll Not Found Error'</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-conversion-rates-through-smart-analytics-a-look-at-our-cookiebot-partnership/"><u>Enhanced Conversion Rates Through Smart Analytics: A Look at Our Cookiebot Partnership</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/evaluating-lg-k92-5g-phone-are-its-benefits-merely-hype-around-5g/"><u>Evaluating LG K92 5G Phone: Are Its Benefits Merely Hype Around 5G?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-blurry-pictures-try-fixes-for-iphone-camera-focus-issues/"><u>Fixing Blurry Pictures? Try Fixes for iPhone Camera Focus Issues!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-asus-wifi-driver/"><u>How to Download ASUS WiFi Driver</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-high-quality-sky-images-leading-sites-listed/"><u>In 2024, High-Quality Sky Images Leading Sites Listed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-de-following-immediate-awareness/"><u>Instagram De-Following Immediate Awareness</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-coredll-file-doesnt-exist-issue-on-your-pc/"><u>Resolving the 'Core.dll' File Doesn't Exist Issue on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-5-critical-considerations-prior-to-investing-in-an-older-model-ipad/"><u>The 5 Critical Considerations Prior to Investing in an Older-Model iPad</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unboxing-review-the-premier-fugetek-ft-568-high-end-selfie-stick-explained/"><u>Unboxing Review: The Premier Fugetek FT-568 High-End Selfie Stick Explained</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/vocmovavi/"><u>オンラインで簡単にVOCデータを自由に変換！Movaviの無料サービス</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-online-audio-archives-an-intuitive-guide/"><u>[New] Navigating Online Audio Archives An Intuitive Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-vimeo-vs-youtube-dissecting-the-streamers-choices-for-2024/"><u>[Updated] Vimeo vs YouTube Dissecting the Streamers' Choices for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/come-scegliere-il-miglior-servizio-di-video-editing-perche-selezionare-noi-a-livello-mondiale/"><u>Come Scegliere Il Miglior Servizio Di Video Editing: Perché Selezionare Noi a Livello Mondiale</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-3g2-videos-into-flv-format-for-free-with-movavis-online-tool/"><u>Convert 3G2 Videos Into FLV Format for Free with Movavi's Online Tool</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/utubers-get-paid-monthly/"><u>Do YouTubers Get Paid Monthly?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-omzwerken-van-aiff-naar-m4a-formaat-met-converteraiff2m4a/"><u>Gratis Online Omzwerken Van AIFF Naar M4A-Formaat Met ConverterAIFF2M4A</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-youtube-identity-recording-measurements-conversion-time/"><u>In 2024, YouTube Identity Recording Measurements, Conversion, Time</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-bietet-kostenlose-konvertierung-von-aiff-dateien-in-flac-format-an-erste-hilfe-fur-audioenthusiasten/"><u>Movavi Bietet Kostenlose Konvertierung Von AIFF Dateien in FLAC Format an - Erste Hilfe Für Audioenthusiasten</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-editor-de-videos-completo-todos-los-modulos-incluidos/"><u>Movavi Editor De Videos Completo: Todos Los Módulos Incluidos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/multithreading-vs-single-threading-battle-how-amds-zen-technology-triumphs-over-intel-lunar-lake/"><u>Multithreading vs Single-Threading Battle: How AMD’s Zen Technology Triumphs Over Intel Lunar Lake</u></a></li>
+<li><a href="https://network-issues.techidaily.com/success-story-overcoming-amds-windows-10-driver-load-hurdle/"><u>Success Story: Overcoming AMD's Windows 10 Driver Load Hurdle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolution-of-social-media-scams-navigating-the-risks-on-twitter-and-exploring-metas-authentication-leap-with-chatgpt-4-revealed/"><u>The Evolution of Social Media Scams: Navigating the Risks on Twitter and Exploring Meta's Authentication Leap with ChatGPT-4 Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/webm-to-mp4-livlig-gratis-konvertere-online-easy-en-gelejer/"><u>WebM to MP4 Livlig - Gratis Konvertere Online Easy en Geléjer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zet-alles-netjes-en-vrijwel-integraal-af-gratuit-vervaardiging-van-online-tod-documenten-met-movavi/"><u>Zet Alles Netjes En Vrijwel Integraal Af: Gratuit Vervaardiging Van Online TOD Documenten Met Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221486525-tiff-movavi/"><u>オンラインでフリーソフトを使ったTIFFへのグラフィック変換 – Movaviレシピ</u></a></li>
 </ul></div>
 

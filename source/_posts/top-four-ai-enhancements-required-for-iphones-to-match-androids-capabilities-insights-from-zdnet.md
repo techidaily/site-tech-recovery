@@ -1,7 +1,7 @@
 ---
 title: Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet
-date: 2024-10-13T16:47:41.646Z
-updated: 2024-10-19T17:18:20.533Z
+date: 2024-10-21T06:00:29.646Z
+updated: 2024-10-25T02:43:18.247Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,18 +131,19 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-asmr-channel-discoveries/"><u>[Updated] In 2024, Essential ASMR Channel Discoveries</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-viral-verdict-twitters-top-10-threads-for-2024/"><u>[Updated] The Viral Verdict Twitter's Top 10 Threads for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-brief-look-into-netflixs-journey-from-physical-media-delivery-to-digital-streaming/"><u>A Brief Look Into Netflix's Journey From Physical Media Delivery to Digital Streaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/alternative-methods-to-view-programming-on-the-roku-platform-no-physical-player-required/"><u>Alternative Methods to View Programming on The Roku Platform, No Physical Player Required</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-online-movie-libraries-the-ultimate-list/"><u>Discover the Best Free Online Movie Libraries: The Ultimate List</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-resolving-failed-to-set-user-settings-for-drivers-quickly-and-effectively/"><u>Expert Advice: Resolving 'Failed to Set User Settings for Drivers' Quickly and Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722902235715-how-to-get-rid-of-pin-based-login-from-windows-11-detailed-steps-inside/"><u>How to Get Rid of Pin-Based Login From Windows 11 - Detailed Steps Inside!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y77t-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y77t Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-phone-stores-find-your-perfect-mobile-device/"><u>Top Phone Stores: Find Your Perfect Mobile Device</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-your-images-into-dynamic-visual-stories/"><u>Transform Your Images Into Dynamic Visual Stories</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-zte-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change ZTE IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-enhancing-iphone-x-security-mending-facial-detection-glitches/"><u>[New] In 2024, Enhancing iPhone X Security Mending Facial Detection Glitches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/1-mastering-epub-covers-comprehensive-steps-to-updating-and-adding-them/"><u>1. Mastering EPUB Covers: Comprehensive Steps to Updating and Adding Them</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-yuneec-typhoon-hs-potential/"><u>2024 Approved Discovering the Yuneec Typhoon H's Potential</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-your-vob-files-to-mkv-for-free-on-the-web-using-movavis-simple-tools/"><u>Convert Your VOB Files to MKV for Free on the Web Using Movavi’s Simple Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/dynamic-discussion-drivers-in-instagram-social-media-surveys-for-2024/"><u>Dynamic Discussion Drivers in Instagram Social Media Surveys for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-someone-quickly-the-ultimate-list-of-8-people-tracking-engines/"><u>Find Someone Quickly: The Ultimate List of 8 People-Tracking Engines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-your-avi-files-into-wmv-format-effortlessly-with-movavi/"><u>Free Online Converter: Transform Your AVI Files Into WMV Format Effortlessly with Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-gaming-with-nvidias-updated-rtx-3070-drivers-compatible-with-windows-1110/"><u>Improve Gaming with NVIDIA's Updated RTX 3070 Drivers - Compatible with Windows 11/10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/les-consequences-juridiques-de-lenregistrement-audio-sans-autorisation/"><u>Les Conséquences Juridiques De L’Enregistrement Audio Sans Autorisation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rmvb-to-mp3-online-free-converter-movavi/"><u>RMVB to MP3 Online Free Converter - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformation-gratuite-daif-a-ligne-de-commande-movavi/"><u>Transformation Gratuite D'AIF À Ligne De Commande - Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unable-to-find-your-iphones-lost-app-tricks-for-swift-retrieval/"><u>Unable To Find Your iPhone's Lost App? Tricks For Swift Retrieval</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-consistency-secured/"><u>Windows 10 Screen Consistency Secured</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728501291028-windows-1011/"><u>Windows 10/11の起動修正に失敗する対策</u></a></li>
 </ul></div>
 

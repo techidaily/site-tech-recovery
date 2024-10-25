@@ -1,7 +1,7 @@
 ---
 title: Discover Innovative Functionality with iOS 18 Public Beta – The 5 Exciting Experiences Showcased
-date: 2024-10-12T17:22:45.324Z
-updated: 2024-10-19T16:32:35.923Z
+date: 2024-10-21T18:43:12.218Z
+updated: 2024-10-25T04:37:50.645Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,16 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +77,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +92,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,20 +134,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expertise-in-apps-enhancing-video-conferencing/"><u>[Updated] 2024 Approved Expertise in Apps Enhancing Video Conferencing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-captureit-all-the-complete-screen-recorder-hack/"><u>2024 Approved CaptureIt All The Complete Screen Recorder Hack</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/aerial-vehicles-deciphered-how-they-fly-and-communicate-for-2024/"><u>Aerial Vehicles Deciphered How They Fly & Communicate for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/chroma-key-on-a-budget-top-free-green-screen-apps-for-android-and-ios-for-2024/"><u>Chroma Key on a Budget Top Free Green Screen Apps for Android and iOS for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-for-modifying-your-discord-user-pic/"><u>Complete Tutorial for Modifying Your Discord User Pic</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/deciphering-the-secrets-of-itunes-video-mastery/"><u>Deciphering the Secrets of iTunes Video Mastery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-facebooks-disappearing-dark-mode-issue-quick-and-effective-tips/"><u>Fixing Facebook's Disappearing Dark Mode Issue: Quick and Effective Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-konverteren-van-mp3-naar-webm-professioneel-video-tools-bei-movavi/"><u>Gratis Konverteren Van MP3 Naar Webm: Professioneel Vidéo-Tools Bei Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-free-up-space-by-deleting-android-cache-a-complete-guide/"><u>How to Free Up Space by Deleting Android Cache: A Complete Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-techniques-for-superior-recordings-with-audacity/"><u>Innovative Techniques for Superior Recordings with Audacity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/investigating-instances-where-facebook-marketplace-might-be-missing/"><u>Investigating Instances Where Facebook Marketplace Might Be Missing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-scanning-documents-from-your-printer-to-pc/"><u>Step-by-Step Guide: Scanning Documents From Your Printer to PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-6-digital-journals-for-your-personal-reflection/"><u>The Best 6 Digital Journals For Your Personal Reflection</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-se-2020-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone SE (2020) is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-youtubes-seo-landscape-key-techniques/"><u>[New] Navigating YouTube's SEO Landscape Key Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-snapshotgenius-comprehensive-windowsmac-photo-software/"><u>[Updated] 2024 Approved SnapshotGenius Comprehensive Windows/Mac Photo Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-image-editing-excellence-with-top-apps-list/"><u>[Updated] Image Editing Excellence with Top Apps List</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-cutting-edge-photography-apps-on-iphones-vs-androids/"><u>[Updated] In 2024, Cutting-Edge Photography Apps on iPhones vs Androids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ae-text-excellence-discover-our-best-10-ideas-for-2024/"><u>AE Text Excellence Discover Our Best 10 Ideas for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-handling-the-avcodecdll-file-doesnt-exist-issue/"><u>Effective Solutions for Handling the 'Avcodec.dll' File Doesn't Exist Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-a-nonfunctional-stadia-headset-a-step-by-step-guide/"><u>Fixing a Nonfunctional Stadia Headset: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-the-rpcrt4dll-couldnt-be-located-problem/"><u>How To Address The 'rpcrt4.dll' Couldn't Be Located Problem</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 8 Plus With 7 Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-master-internet-tracking-and-tailoring-by-enabling-cookies-on-any-web-browser/"><u>How to Master Internet Tracking and Tailoring by Enabling Cookies on Any Web Browser</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-speedy-assembly-for-stunning-google-image-mosaics/"><u>In 2024, Speedy Assembly for Stunning Google Image Mosaics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-iphone-voice-messaging-features/"><u>Mastering the Art of iPhone Voice Messaging Features</u></a></li>
 </ul></div>
 

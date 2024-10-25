@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Workspace: Seamlessly Set Up a Second Monitor on Your M1 Mac Mini with Ease | Insights"
-date: 2024-10-12T16:21:04.669Z
-updated: 2024-10-19T16:33:59.184Z
+date: 2024-10-22T10:14:07.886Z
+updated: 2024-10-25T06:46:36.224Z
 tags:
   - apple
 categories:
@@ -44,15 +44,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -64,10 +71,16 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -76,13 +89,6 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -90,10 +96,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,18 +136,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-elevate-your-youtube-videos-without-spending-a-penny-the-best-tools/"><u>[New] 2024 Approved Elevate Your YouTube Videos Without Spending a Penny - The Best Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-charting-a-course-to-your-signature-sphere-for-2024/"><u>[Updated] Charting a Course to Your Signature Sphere for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-online-broadcast-battle-facebook-vs-youtube-and-twitspaces/"><u>[Updated] Online Broadcast Battle FACEbook Vs. YOUTube & TWITSpaces</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1-ultimate-guide-retrieving-lost-documents-from-your-usb-with-ifind-data-rescue/"><u>1. Ultimate Guide: Retrieving Lost Documents From Your USB with iFind Data Rescue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024s-best-practices-to-reduce-network-delays-and-boost-gaming-performance/"><u>2024'S Best Practices to Reduce Network Delays and Boost Gaming Performance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-walkthrough-for-snapping-screenshots-on-microsofts-latest-os/"><u>Complete Walkthrough for Snapping Screenshots on Microsoft's Latest OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-walkthrough-activating-android-debug-bridge-on-windows-pcs-efficiently/"><u>Comprehensive Walkthrough: Activating Android Debug Bridge on Windows PCs Efficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convertissez-gratuitement-un-fichier-mov-en-format-aiff-en-ligne-avec-moveave/"><u>Convertissez Gratuitement Un Fichier MOV en Format AIFF en Ligne Avec Moveave</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/est-funny-fictional-frequencies/"><u>The Best Funny Fictional Frequencies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808318828-top-game-torrents-at-a-glance-navigating-the-best-free-downloading-portals/"><u>Top Game Torrents at a Glance: Navigating the Best Free Downloading Portals.</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audible-fields-where-to-find-accurate-cricket-sfx/"><u>Updated 2024 Approved Audible Fields Where to Find Accurate Cricket SFX</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808245571-use-alarms-in-windows-10-quite-easy/"><u>Use Alarms in Windows 10. Quite Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world-for-2024/"><u>[New] From Humble Beginnings Surging Subscribers & Views in Youtube World for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-name-selection-for-distinctive-youtube-channels/"><u>[New] Mastering Name Selection for Distinctive YouTube Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-soundtrack-exchanging-playlists-seamlessly/"><u>[New] Streamline Your Soundtrack Exchanging Playlists Seamlessly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-windows-film-and-multimedia-production-applications-guide/"><u>[Updated] Top Windows Film & Multimedia Production Applications Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-upcoming-iphone-price-guesses-release-window-spec-sheet-sneak-peeks-and-the-latest-gossip/"><u>All You Need to Know About the Upcoming iPhone - Price Guesses, Release Window, Spec Sheet Sneak Peeks & The Latest Gossip</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-apple-release-scoop-dates-news-breaks-and-hottest-rumors-unveiled/"><u>Anticipated Apple Release Scoop: Dates, News Breaks, and Hottest Rumors Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-techniques-for-pc-screenshot-mastery/"><u>Comprehensive Techniques for PC Screenshot Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/confronting-the-dreaded-dead-pixels-a-comprehensive-guide-to-rectifying-no-display-computer-boot-problems/"><u>Confronting the Dreaded Dead Pixels: A Comprehensive Guide to Rectifying No-Display Computer Boot Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exclusive-insider-tips-for-finding-top-windows-10-deals/"><u>Exclusive Insider Tips for Finding Top Windows 10 Deals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gtas-fluid-motion-restored-fix-your-game-bid-farewell-to-the-stutter/"><u>GTAs Fluid Motion Restored: Fix Your Game, Bid Farewell to the Stutter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-get-quality-free-over-the-air-tv-with-amazonbasics-flat-antenna-a-complete-guide/"><u>How to Get Quality Free Over-the-Air TV with AmazonBasics Flat Antenna - A Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-handle-d-sounddll-errors-when-the-file-is-absent-or-undetectable/"><u>How to Handle D sound.dll Errors When The File Is Absent or Undetectable</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/imprint-entire-online-viewport/"><u>Imprint Entire Online Viewport</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-guide-to-vlc-for-networked-webcasting/"><u>In 2024, Expert Guide to VLC for Networked Webcasting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sonic-overlay-for-serene-scenery-on-screens-for-2024/"><u>Sonic Overlay for Serene Scenery on Screens for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-for-correcting-d3dx9nf-errors-in-your-system/"><u>Steps for Correcting 'D3dx9_nf' Errors in Your System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722871769620-streamlined-sonic-experience-techniques-to-connect-and-configure-multiple-bluetooth-speakers-together/"><u>Streamlined Sonic Experience: Techniques to Connect and Configure Multiple Bluetooth Speakers Together</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-experience-harry-potter-movies-from-start-to-finish/"><u>The Ultimate Guide to Experience Harry Potter Movies From Start to Finish</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-game-changing-services-that-can-revolutionize-your-twitch-channels-success/"><u>Top 5 Game-Changing Services That Can Revolutionize Your Twitch Channel's Success</u></a></li>
 </ul></div>
 

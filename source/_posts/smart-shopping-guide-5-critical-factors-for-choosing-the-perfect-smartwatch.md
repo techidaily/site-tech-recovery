@@ -1,7 +1,7 @@
 ---
 title: "Smart Shopping Guide: 5 Critical Factors for Choosing the Perfect Smartwatch"
-date: 2024-09-11T18:59:05.803Z
-updated: 2024-09-15T17:30:51.110Z
+date: 2024-10-20T20:23:59.328Z
+updated: 2024-10-24T22:18:34.882Z
 categories:
   - BestProducts
 description: "This Article Describes Smart Shopping Guide: 5 Critical Factors for Choosing the Perfect Smartwatch"
@@ -48,6 +48,26 @@ These instructions apply to PCs running Windows 10 and up.
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
@@ -55,6 +75,13 @@ These instructions apply to PCs running Windows 10 and up.
  Things work a little differently on Macs, as the Apple keyboard uses option keys to insert symbols. However, you’ll have to change your keyboard settings to use the Unicode Hex Input method to do this.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do You Make a Heart Without a Number Pad?
 
@@ -69,19 +96,19 @@ These instructions apply to PCs running Windows 10 and up.
 4. Click the**NumLock button** to bring up the number pad.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
@@ -130,5 +157,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-insightful-discussion-on-youtube-keyword-mastery/"><u>[New] Insightful Discussion on YouTube Keyword Mastery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-capture-and-share-with-confidence-a-step-by-step-guide-to-desktop-video-uploads-on-instagram/"><u>[Updated] 2024 Approved Capture & Share with Confidence A Step-by-Step Guide to Desktop Video Uploads on Instagram</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-choose-your-arena-top-platforms-without-cross-play-in-apex-legends-for-2024/"><u>[Updated] Choose Your Arena Top Platforms Without Cross-Play in Apex Legends for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-direct-playback-of-fb-videos-on-home-entertainment-systems/"><u>2024 Approved Direct Playback of FB Videos on Home Entertainment Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-win10-games-a-comprehensive-breakdown-for-2024/"><u>Capturing Win10 Games A Comprehensive Breakdown for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciding-when-to-break-off-contact-with-past-x-previously-twitter-users/"><u>Deciding When to Break Off Contact with Past X (Previously Twitter) Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-switching-from-ios-enabling-imessage-features-on-your-android-device/"><u>Guide: Switching From iOS, Enabling iMessage Features on Your Android Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-7-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 7 Is Unlocked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macos-users-handbook-how-to-purge-dns-information-effectively/"><u>MacOS Users' Handbook: How to Purge DNS Information Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/meta-quest-pro-virtual-reality-gear-priced-above-apples-macbook-air/"><u>Meta Quest Pro: Virtual Reality Gear Priced Above Apple's MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/perfect-viewing-order-experience-every-classic-james-bond-film-back-to-back/"><u>Perfect Viewing Order: Experience Every Classic James Bond Film Back-to-Back</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-persistent-freezing-and-crashing-issues-in-pc-version-of-the-ascent-game-tips-and-solutions/"><u>Resolved: Persistent Freezing & Crashing Issues in PC Version of The Ascent Game - Tips & Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stop-discord-lags-now-top-strategies-and-solutions-for-smooth-streaming/"><u>Stop Discord Lags Now! Top Strategies and Solutions for Smooth Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-max-entertainment-prime-selections-for-your-screen/"><u>The Ultimate Guide to Max Entertainment: Prime Selections for Your Screen</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-galaxy-m14-4g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Galaxy M14 4G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-bass-management-a-guide-on-its-functions-and-mechanisms/"><u>Understanding Bass Management: A Guide on Its Functions and Mechanisms</u></a></li>
+</ul></div>
 

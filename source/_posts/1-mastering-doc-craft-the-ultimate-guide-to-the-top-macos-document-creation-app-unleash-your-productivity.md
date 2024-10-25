@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2024-10-14T16:04:31.519Z
-updated: 2024-10-19T16:09:56.650Z
+date: 2024-10-23T12:56:16.740Z
+updated: 2024-10-25T06:03:15.289Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,16 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,21 +134,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-balanced-hue-enhancer-suite/"><u>[New] Balanced Hue Enhancer Suite</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-how-to-mass-download-tiktok-videos/"><u>[New] How To Mass Download TikTok Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-basic-screenshot-toolkit-for-windows-10-for-2024/"><u>[Updated] Basic Screenshot Toolkit for Windows 10 for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-focus-on-the-essentials-the-compreenas-for-removing-youtube-channels/"><u>[Updated] Focus on the Essentials The Compreenas for Removing Youtube Channels</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-to-high-performance-wireless-drivers-today/"><u>Download and Upgrade to High-Performance Wireless Drivers Today!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-rumors-the-upcoming-samsung-galaxy-s25-pricing-schedule-and-tech-specs/"><u>Exploring Rumors: The Upcoming Samsung Galaxy S25 Pricing, Schedule & Tech Specs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-the-right-surge-protector-for-electronics/"><u>How to Get the Right Surge Protector for Electronics</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>In 2024, The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-hidden-navigation-tips-for-accessing-and-utilizing-concealed-paths/"><u>Master Hidden Navigation: Tips for Accessing and Utilizing Concealed Paths</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ride-the-waves-with-top-picks-for-surfing-cams/"><u>Ride the Waves with Top Picks for Surfing Cams</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-next-big-thing-the-samsung-galaxy-super-ultra-2023-editions-release-date-pricing-rumors-and-full-feature-list-revealed/"><u>Sneak Peek at the Next Big Thing - The Samsung Galaxy Super Ultra 2023 Edition's Release Date, Pricing Rumors & Full Feature List Revealed</u></a></li>
-<li><a href="https://win-web.techidaily.com/tech-review-how-microsofts-new-lineup-of-easy-to-repair-laptops-outshines-rivals-leaving-apple-to-catch-up-zdnet/"><u>Tech Review: How Microsoft's New Lineup of Easy-to-Repair Laptops Outshines Rivals, Leaving Apple to Catch Up | ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tips-and-tricks-preventing-auto-play-on-your-apple-music-streams/"><u>Tips & Tricks: Preventing Auto-Play on Your Apple Music Streams</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trouble-with-msi-dll-files-heres-how-you-can-repair-them/"><u>Trouble with MSI DLL Files? Here’s How You Can Repair Them!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-roster-of-confirmed-games-for-playstation-vr-comprehensive-listing-available-now/"><u>Unlock the Full Roster of Confirmed Games for PlayStation VR²: Comprehensive Listing Available Now</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unveiling-the-5-prized-webcams-for-ultimate-game-broadcasting/"><u>[New] In 2024, Unveiling the 5 Prized Webcams for Ultimate Game Broadcasting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-top-quality-hdr-camera-brands-and-models/"><u>[New] In 2024, Unveiling Top-Quality HDR Camera Brands and Models</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-auditory-interpretation-accessible-at-no-expense/"><u>[Updated] Auditory Interpretation Accessible at No Expense</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-mac-graphic-preserver/"><u>[Updated] Elite Mac Graphic Preserver</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-screensaver-for-your-apple-watch-expert-reviews-by-zdnet/"><u>Discover the Premier Screensaver for Your Apple Watch - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-leading-storm-monitoring-apps/"><u>Expert Picks: Leading Storm Monitoring Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-score-your-iphone-15-pro-max-for-pennies-on-the-dollar-with-this-exclusive-amazon-deal-revealed-by-zdnet/"><u>How to Score Your iPhone 15 Pro Max for Pennies on the Dollar with This Exclusive Amazon Deal, Revealed by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improving-your-apple-tv-experience-how-tvos-18-upgrade-amplifies-audio-clarity/"><u>Improving Your Apple TV Experience: How tvOS 18 Upgrade Amplifies Audio Clarity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lessons-learned-from-switching-to-iphone-ios-18-a-shared-journey-of-frustration-and-surprises-tech-digest/"><u>Lessons Learned From Switching to iPhone iOS 18: A Shared Journey of Frustration and Surprises | Tech Digest</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionizing-film-production-how-the-latest-features-of-final-cut-pro-for-ipad-transform-filmmakers-workflow/"><u>Revolutionizing Film Production: How the Latest Features of Final Cut Pro for iPad Transform Filmmakers' Workflow</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/setting-up-various-network-configurations-on-macos-tips-and-tricks-for-enhanced-connectivity/"><u>Setting Up Various Network Configurations on macOS: Tips and Tricks for Enhanced Connectivity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-by-zdnet-retrieve-lost-airpods-and-avoid-misplacement-in-the-future/"><u>The Ultimate Guide by ZDNet: Retrieve Lost AirPods & Avoid Misplacement in the Future</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-ipv-file-transformation-instagram-videos-in-mp4-for-2024/"><u>The Ultimate Guide to IPV File Transformation Instagram Videos in MP4 for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/top-rated-avi-to-dvd-convertor-software-ideal-for-windows-10-and-11/"><u>Top Rated Avi To Dvd Convertor Software : Ideal For Windows 10 and 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-apple-watch-failure-to-detect-steps/"><u>Troubleshooting Guide: Apple Watch Failure to Detect Steps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlock-free-sound-effects-for-your-fcp-projects-top-resources-and-tutorials/"><u>Updated In 2024, Unlock Free Sound Effects for Your FCP Projects Top Resources & Tutorials</u></a></li>
 </ul></div>
 

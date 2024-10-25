@@ -1,7 +1,7 @@
 ---
 title: "Windows-Friendly iMessage Tips: Mastering Texts, Photos, Video Chats - Advice"
-date: 2024-10-14T16:23:51.240Z
-updated: 2024-10-19T17:12:03.053Z
+date: 2024-10-20T20:08:03.464Z
+updated: 2024-10-25T00:27:06.788Z
 tags:
   - apple
 categories:
@@ -72,13 +72,6 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
@@ -92,10 +85,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -110,14 +103,20 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -139,11 +138,31 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -152,10 +171,10 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -163,19 +182,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,19 +219,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-step-by-step-tutorial-on-screencastify-use/"><u>[New] In 2024, A Step-by-Step Tutorial on Screencastify Use</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-latest-tricks-for-ios-screenshots-and-recording/"><u>[Updated] 2024 Approved Latest Tricks for iOS Screenshots & Recording</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-android-audio-archive-a-curated-list-of-top-6-free-music-downloading-apps-for-2024/"><u>[Updated] Android Audio Archive A Curated List of Top 6 Free Music Downloading Apps for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-livestream-potential-no-millions-of-followers-needed/"><u>2024 Approved Unleash Your Livestream Potential No Millions of Followers Needed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-way-to-find-and-manage-your-startup-items-in-windows-11-step-by-step-instructions/"><u>Easy Way to Find & Manage Your Startup Items in Windows 11: Step-by-Step Instructions</u></a></li>
-<li><a href="https://win-news.techidaily.com/granting-file-access-8-effective-methods-when-you-dont-currently-have-permission/"><u>Granting File Access: 8 Effective Methods When 'You Don't Currently Have Permission'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-check-cpu-temp-on-windows-11/"><u>How to Check CPU Temp on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-netflix-buffering-problems-a-comprehensive-guide/"><u>How to Fix Netflix Buffering Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-refresh-windows-11-the-easy-way/"><u>How To Refresh Windows 11 [The Easy Way]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-windows-installation-issues-on-non-gpt-drives/"><u>How to Resolve Windows Installation Issues on Non-GPT Drives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-and-repair-windows-10s-nonfunctional-spotlight-feature/"><u>How to Restore and Repair Windows 10'S Nonfunctional Spotlight Feature</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-viral-top-10-all-about-tiktoks/"><u>In 2024, Twitter's Viral Top 10 All About TikToks</u></a></li>
-<li><a href="https://win-popular.techidaily.com/schritt-fur-schritt-anleitung-zum-aktualisieren-von-windows-11-ohne-datenverlust/"><u>Schritt-Für-Schritt Anleitung Zum Aktualisieren Von Windows 11 Ohne Datenverlust</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tiny-yet-troubled-a-comprehensive-review-of-criacrs-bluetooth-fm-transmitter-cp24/"><u>Tiny yet Troubled: A Comprehensive Review of Criacr's Bluetooth FM Transmitter CP24</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-high-res-videos-2024s-finest-camcorders-ranked/"><u>[New] High-Res Videos 2024'S Finest Camcorders Ranked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-transforming-smartphones-into-portable-cameras-for-2024/"><u>[New] Transforming Smartphones Into Portable Cameras for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-key-technique-to-integrate-gopro-content-within-cohesive-spherical-videography-for-2024/"><u>[Updated] Key Technique to Integrate GoPro Content Within Cohesive Spherical Videography for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-cutting-edge-tools-to-snatch-and-save-videos-flawlessly/"><u>2024 Approved Cutting-Edge Tools to Snatch and Save Videos Flawlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-wmaswf/"><u>無綫上免費改變音頻格式：Movavi WMA到SWF的自動轉換工具</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/designing-and-implementing-a-unique-email-signature-for-godaddys-free-webmail-service/"><u>Designing and Implementing a Unique Email Signature for GoDaddy's Free Webmail Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dvd-omzetten-in-mp4-de-beste-converters-van-2024-reviewed-for-optimale-digitale-archivierung/"><u>DVD Omzetten in MP4 | De Beste Converters Van 2024 Reviewed for Optimale Digitale Archivierung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-converter-voor-ram-bestandjes-movavi-vrije-en-efficient-omzetting-softwares/"><u>Gratis Online Converter Voor RAM-Bestandjes: Movavi, Vrije en Efficiënt Omzetting Softwares</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/guida-completa-riparazione-dei-problemi-di-partizione-del-disco-in-windows-11-top-2-metodi/"><u>Guida Completa: Riparazione Dei Problemi Di Partizione Del Disco in Windows 11 - Top 2 Metodi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-are-there-alternatives-to-googles-ar-gems/"><u>In 2024, Are There Alternatives to Google's AR Gems?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-peaceful-beats-best-20-tranquil-country-songs-and-dancing-on-tiktok/"><u>In 2024, Peaceful Beats Best 20 Tranquil Country Songs & Dancing on TikTok</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movaviflac-ape/"><u>Movaviで簡単フリー音楽FLACへの無料オンライン変換 - APE</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/riconverti-video-ts-in-mov-via-web-gratuito-utilizzando-leditor-di-movavi-nessun-costo-per-la-modifica/"><u>Riconverti Video TS in MOV via Web Gratuito Utilizzando L'editor Di Movavi - Nessun Costo per La Modifica</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformez-votre-mp3-en-video-wmv-sans-frais-service-en-ligne-de-movavi/"><u>Transformez Votre MP3 en Vidéo WMV Sans Frais - Service en Ligne De Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions to Buy eBooks Through iTunes Store's Books Application
-date: 2024-09-11T19:59:12.275Z
-updated: 2024-09-15T16:47:08.480Z
+date: 2024-10-19T22:36:27.140Z
+updated: 2024-10-24T19:37:58.397Z
 categories:
   - BestProducts
 description: This Article Describes Easy Instructions to Buy eBooks Through iTunes Store's Books Application
@@ -30,7 +30,21 @@ thumbnail: https://www.lifewire.com/thmb/A0hFRE8hTPHd0-nsGERrPWfP8U8=/400x300/fi
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Open Command Prompt Through the Start Menu Folder
 
@@ -39,10 +53,10 @@ thumbnail: https://www.lifewire.com/thmb/A0hFRE8hTPHd0-nsGERrPWfP8U8=/400x300/fi
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Open Command Prompt Using Power User Menu
@@ -52,13 +66,6 @@ thumbnail: https://www.lifewire.com/thmb/A0hFRE8hTPHd0-nsGERrPWfP8U8=/400x300/fi
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -91,13 +98,6 @@ thumbnail: https://www.lifewire.com/thmb/A0hFRE8hTPHd0-nsGERrPWfP8U8=/400x300/fi
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -109,6 +109,13 @@ thumbnail: https://www.lifewire.com/thmb/A0hFRE8hTPHd0-nsGERrPWfP8U8=/400x300/fi
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -152,5 +159,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-from-zero-to-hero-rising-in-popularity-with-vimeo-experts/"><u>[New] In 2024, From Zero to Hero Rising in Popularity with Vimeo Experts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-master-control-over-your-youtube-viewing-rhythm/"><u>[New] Master Control Over Your YouTube Viewing Rhythm</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-latest-trends-in-mobile-viewing-android-edition-vr360/"><u>2024 Approved Latest Trends in Mobile Viewing - Android Edition (VR/360)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-alternative-to-imessage-connect-with-ios-friends-easily/"><u>Android Alternative to iMessage: Connect with iOS Friends Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-and-stream-a-comprehensive-guide-to-hulu-viewing-on-lg-smart-televisions/"><u>Connect and Stream: A Comprehensive Guide to Hulu Viewing on LG Smart Televisions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/easy-guide-to-start-product-review-channel/"><u>Easy Guide to Start Product Review Channel</u></a></li>
+<li><a href="https://win-special.techidaily.com/find-your-fix-top-tips-and-strategies-for-problem-solving/"><u>Find Your Fix: Top Tips and Strategies for Problem-Solving</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-erase-your-yahoo-mail-account-forever-a-step-by-step-process/"><u>How to Erase Your Yahoo Mail Account Forever – A Step-by-Step Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-keep-your-mac-computer-active-without-entering-sleep-mode/"><u>How to Keep Your Mac Computer Active Without Entering Sleep Mode</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-a70-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel A70 Phones with/without a PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-pubg-mobile-a-comprehensive-walkthrough-for-players/"><u>Mastering PUBG Mobile: A Comprehensive Walkthrough for Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-basics-of-ussd-a-deep-dive-into-unstructured-supplementary-service-data/"><u>Navigating the Basics of USSD: A Deep Dive Into Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-mac-maintenance-software-of-2022-expertly-curated-selection-by-zdnet/"><u>Top-Rated Mac Maintenance Software of 2022: Expertly Curated Selection by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-invisible-wireless-networks-tips-for-reappearance-success/"><u>Troubleshooting Invisible Wireless Networks – Tips for Reappearance Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-process-to-empty-out-entire-inbox-in-the-gmail-app/"><u>Ultimate Step-by-Step Process to Empty Out Entire Inbox in the Gmail App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-immersive-puzzle-worlds-on-ios-with-games-similar-to-the-room-and-myst/"><u>Unlock Immersive Puzzle Worlds on iOS with Games Similar to 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-coming-with-the-apple-watch-series-8-find-out-release-timeline-technical-specifications-and-pricing-range/"><u>What's Coming with the Apple Watch Series 8? Find Out Release Timeline, Technical Specifications & Pricing Range</u></a></li>
+</ul></div>
 

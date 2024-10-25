@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2024-10-12T16:53:50.838Z
-updated: 2024-10-19T16:38:56.349Z
+date: 2024-10-19T02:50:54.713Z
+updated: 2024-10-25T01:12:35.554Z
 tags:
   - apple
 categories:
@@ -29,6 +29,13 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -36,13 +43,6 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -74,13 +74,6 @@ Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 5: Record
 
 This is when you'll want to complete whatever task it is you wanted to screen record. Once you've finished recording your task, move on to the final step below.
@@ -97,25 +90,25 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
 
@@ -124,6 +117,13 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -161,16 +161,18 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-together-a-list-of-engaging-metaverse-games/"><u>[New] Explore Together A List of Engaging Metaverse Games</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-why-is-virtual-realitys-creative-palette-still-barren-update/"><u>[New] In 2024, Why Is Virtual Reality's Creative Palette Still Barren? - Update</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagrabs-top-15-videophoto-downloading-tools/"><u>[New] InstaGrabs Top 15 Video/Photo Downloading Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-correct-that-mia-d3dx9-library-problem-once-and-for-all/"><u>DIY: Correct That MIA D3DX9 Library Problem Once and For All</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-a18-by-drfone-android/"><u>How to Bypass FRP on Oppo A18?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improving-iphone-picture-quality-despite-lower-resolution-cameras/"><u>Improving iPhone Picture Quality Despite Lower Resolution Cameras</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-keeping-the-connection-strong-avoiding-livestream-interruptions-on-facebook/"><u>In 2024, Keeping the Connection Strong Avoiding Livestream Interruptions on Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-the-absent-msvcr80dll-step-by-step-guide/"><u>Solving the Mystery of the Absent msvcr80.dll: Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-creating-a-pdf-from-assorted-jpeg-photos/"><u>Step-by-Step Tutorial on Creating a PDF From Assorted JPEG Photos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-no-cost-driver-renewal-applications-july-2024-edition/"><u>The Ultimate List of No-Cost Driver Renewal Applications - July 2024 Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-expert-guides-to-mobile-screen-recording/"><u>[New] In 2024, Expert Guides to Mobile Screen Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-clearing-process-for-youtubes-pending-video-list/"><u>[Updated] 2024 Approved Clearing Process for YouTube's Pending Video List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-moments-in-motion-a-review-on-panasonic-hx-a1-actioncam/"><u>[Updated] Capturing Moments in Motion - A Review on Panasonic HX-A1 ActionCam</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-change-your-files-from-opusmp3-format-with-movavi/"><u>Free Online Converter: Change Your Files From Opus/MP3 Format with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-mp4-to-wmv-easy-and-fast-transformations-with-movavi/"><u>Free Online Converter: MP4 to WMV - Easy & Fast Transformations with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-started-with-vocal-recording-a-starters-selection-of-microphones-and-software/"><u>Getting Started with Vocal Recording: A Starter’s Selection of Microphones & Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guia-facil-para-transformar-seu-dvd-de-filme-em-mp4-usando-aplicativos-sem-custo/"><u>Guia Fácil Para Transformar Seu DVD De Filme Em MP4 Usando Aplicativos Sem Custo</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-live-stream-to-screen-seamlessly-reviewed/"><u>In 2024, Live-Stream to Screen, Seamlessly Reviewed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maintaining-information-security-while-leveraging-chatgpt-in-the-workplace/"><u>Maintaining Information Security While Leveraging ChatGPT in the Workplace</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revive-your-galactic-adventure-how-to-conquer-star-wars-battlefront-ii-black-screen-glitch/"><u>Revive Your Galactic Adventure: How to Conquer Star Wars Battlefront II Black Screen Glitch</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-economical-headphone-experience-paww-triad/"><u>The Ultimate Guide to Economical Headphone Experience - Paww Triad</u></a></li>
+<li><a href="https://article-tips.techidaily.com/transformative-beauty-practices/"><u>Transformative Beauty Practices</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/almmarsat-alrysya-ofhm-alnskh-alahtyaty-dlyl-shaml-mkabl/"><u>الممارسات الرئيسية وفهم النسخ الاحتياطي: دليل شامل مقابل</u></a></li>
 </ul></div>
 

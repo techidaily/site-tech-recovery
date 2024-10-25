@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions | ZDNET Insights"
-date: 2024-10-13T16:01:27.183Z
-updated: 2024-10-19T17:23:04.986Z
+date: 2024-10-19T02:36:47.635Z
+updated: 2024-10-24T18:51:58.160Z
 tags:
   - apple
 categories:
@@ -29,15 +29,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -48,10 +55,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -63,10 +70,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -84,13 +91,6 @@ In the resulting window (**Figure 4**), give the new Focus a name and select a c
 Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
 
@@ -148,22 +148,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-sync-up-success-sharing-youtube-on-ig-stories/"><u>[New] 2024 Approved Sync Up Success Sharing YouTube on IG Stories</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>[New] The Art of Podcast Blurbs Techniques and Illustrations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlock-free-music-anytime-facebook-app/"><u>[New] Unlock Free Music, Anytime - Facebook App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/change-windows-10-taskbar-colors-with-these-easy-tips/"><u>Change Windows 10 Taskbar Colors with These Easy Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/college-budget-hacks-securing-an-affordable-student-price-at-tidal/"><u>College Budget Hacks: Securing an Affordable Student Price at Tidal</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/convenient-methods-for-storing-webinars-windows-and-mac-solutions-for-2024/"><u>Convenient Methods for Storing Webinars Windows & Mac Solutions for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disablingenabling-the-touch-keyboard-on-your-windows-11-pc-a-step-by-step-guide/"><u>Disabling/Enabling the Touch Keyboard on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fortnite-account-fusion-techniques-a-comprehensive-guide/"><u>Fortnite Account Fusion Techniques: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/making-sense-of-minecraft-realms-worth-your-time-and-coins/"><u>Making Sense of Minecraft Realms - Worth Your Time and Coins?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-unique-game-library-discover-the-latest-exclusives/"><u>PS5 Unique Game Library: Discover the Latest Exclusives!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/slow-mo-to-fast-mo-top-10-free-video-speed-changing-apps-for-ios-and-android/"><u>Slow Mo to Fast Mo Top 10 Free Video Speed Changing Apps for iOS and Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-transform-vob-videos-into-avi-on-your-pc/"><u>Step-by-Step Tutorial: Transform VOB Videos Into AVI on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-tips-for-finding-the-best-protective-cases-for-your-smartphone/"><u>Top Tips for Finding the Best Protective Cases for Your Smartphone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-waterproof-cellphone-protectors/"><u>Top-Rated Waterproof Cellphone Protectors</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/unraveling-the-impacts-what-happens-when-you-delete-windows-system32/"><u>Unraveling the Impacts: What Happens When You Delete Windows' System32?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-lenovo-p11-pro-tablet-a-great-device-with-some-blemishes-discussed/"><u>Unveiling the Lenovo P11 Pro Tablet - A Great Device with Some Blemishes Discussed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-pivotal-software-in-shaping-a-vtubers-sound-identity/"><u>[New] 2024 Approved Pivotal Software in Shaping a Vtuber's Sound Identity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-navigating-social-sharing-pining-on-snapchat/"><u>[New] In 2024, Navigating Social Sharing Pining on Snapchat</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2023s-ultimate-guide-choosing-the-finest-apple-watch-display-shield-according-to-zdnet/"><u>2023'S Ultimate Guide: Choosing the Finest Apple Watch Display Shield, According to ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ghostly-lens-takedown-reviews/"><u>2024 Approved Ghostly Lens Takedown Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/6-pro-vs-apple-iphone-13-pro-for-tech-enthusiasts-zdnet/"><u>6 Pro Vs. Apple iPhone 13 Pro for Tech Enthusiasts | ZDNET</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/easy-steps-to-master-apowersofts-streaming-audio-recorder/"><u>Easy Steps to Master Apowersoft's Streaming Audio Recorder</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hello-in-portuguese-all-the-portuguese-greetings-you-need-to-knowback-buttonfilter-button/"><u>Hello In Portuguese - All The Portuguese Greetings You Need To KnowBack ButtonFilter Button</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-15-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 15 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-the-art-of-tiktok-closing-scenes-for-2024/"><u>Mastering the Art of TikTok Closing Scenes for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028300427-mp4/"><u>MP4フォーマット動画を最適化し、自由度高い回転・反転機能実装方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revised-google-news-feed-for-informed-users/"><u>Revised Google News Feed for Informed Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/section-2c-increasingly-complex-questions/"><u>Section 2C: Increasingly Complex Questions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-magsafe-accessories-comprehensive-reviews-and-testing-insights-zdnets-selection/"><u>Top-Rated MagSafe Accessories : Comprehensive Reviews & Testing Insights - ZDNet's Selection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-your-math-experience-with-the-advanced-ipad-calculator-app-convincing-enough-to-justify-buying-an-apple-pencil/"><u>Transform Your Math Experience with The Advanced iPad Calculator App – Convincing Enough to Justify Buying an Apple Pencil!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-most-efficient-wireless-charger-options-rigorously-tested-by-professionals-zdnet/"><u>Ultimate Guide to the Most Efficient Wireless Charger Options , Rigorously Tested by Professionals | ZDNet</u></a></li>
 </ul></div>
 

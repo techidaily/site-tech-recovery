@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Cleaning Up: A User's Guide to Deleting Photos on Facebook"
-date: 2024-09-12T00:18:58.549Z
-updated: 2024-09-15T22:06:52.231Z
+date: 2024-10-18T23:07:32.369Z
+updated: 2024-10-25T08:51:43.810Z
 categories:
   - BestProducts
 description: "This Article Describes Master the Art of Cleaning Up: A User's Guide to Deleting Photos on Facebook"
@@ -22,6 +22,19 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 lolostock / Getty Images
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capturing a Scan From a Printer on a Windows PC
 
  Your printer model may come with software including not only its[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) but also a suite of programs to use all the device's functionality. If this is the case, then within those programs there's also likely a scanning program.
@@ -32,6 +45,14 @@ lolostock / Getty Images
 2. Alternately, press**Win** +**x** to call the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) .  
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
@@ -41,12 +62,27 @@ lolostock / Getty Images
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Mac  
 
@@ -61,6 +97,14 @@ lolostock / Getty Images
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
@@ -102,12 +146,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-action-footage-enhanced-top-mic-picks-for-2024/"><u>[New] Action Footage Enhanced Top Mic Picks for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-customizing-your-pixels-melodic-identity/"><u>[New] Customizing Your Pixel's Melodic Identity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/adding-a-pin-it-button-to-boost-engagement-on-your-facebook-page/"><u>Adding a Pin It Button to Boost Engagement on Your Facebook Page</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-installing-new-fonts-on-your-iphone/"><u>Complete Guide: Installing New Fonts on Your iPhone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-the-anker-roav-dashcam-c1-features-for-a-complete-drivers-solution/"><u>Expert Analysis of the Anker Roav DashCam C1: Features for a Complete Driver's Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-windows-to-mac-your-ultimate-guide-for-taking-perfect-screenshots/"><u>From Windows to Mac: Your Ultimate Guide for Taking Perfect Screenshots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-choose-the-right-shared-calendar-app-for-a-hectic-family-life/"><u>How to Choose the Right Shared Calendar App for a Hectic Family Life</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-new-driver-update-for-brother-mfc-j480dw-in-windows/"><u>How to Install the New Driver Update for Brother MFC-J480DW in Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-compose-cover-videos-for-friends-facebooks/"><u>In 2024, Compose Cover Videos for Friends' Facebooks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>In 2024, Tech Trends Unveiled Excellence in VR Treadmills</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-seamless-sharing-how-to-use-airplay-for-mac-and-tv-integration/"><u>Mastering Seamless Sharing: How to Use AirPlay for Mac & TV Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-artisans-guide-to-custom-chatbots/"><u>The Artisan's Guide to Custom ChatBots</u></a></li>
+<li><a href="https://driver-download.techidaily.com/wacom-intuos-3-software-guide-ensuring-compatibility-and-full-functionality-in-windows-environments/"><u>Wacom Intuos 3 Software Guide: Ensuring Compatibility and Full Functionality in Windows Environments</u></a></li>
+</ul></div>
 

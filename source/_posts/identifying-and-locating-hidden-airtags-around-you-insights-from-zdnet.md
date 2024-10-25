@@ -1,7 +1,7 @@
 ---
 title: Identifying and Locating Hidden AirTags Around You - Insights From ZDNet
-date: 2024-10-18T17:12:27.763Z
-updated: 2024-10-19T16:58:38.502Z
+date: 2024-10-20T03:14:01.472Z
+updated: 2024-10-25T04:12:39.503Z
 tags:
   - apple
 categories:
@@ -27,6 +27,13 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -34,10 +41,10 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
@@ -52,13 +59,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -70,16 +70,10 @@ Image: Jack Wallen
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -98,6 +92,13 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Enable Track Changes
 
 Click Move to iCloud and then, when prompted, click Continue to enable Track Changes (**Figure 5**).
@@ -115,13 +116,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -163,16 +157,17 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-focal-flares-amplifying-your-footage-visually/"><u>[New] 2024 Approved Focal Flares Amplifying Your Footage Visually</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-youtube-strategies-compiling-10-basic-yet-engaging-ideas-for-everyone/"><u>[New] In 2024, Essential YouTube Strategies Compiling 10 Basic Yet Engaging Ideas for Everyone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728467750136-onedrive/"><u>「マイドキュメントのバックアップを簡単にOneDrive上へ」</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-online-tools-and-sites-for-easy-apartment-exploration/"><u>Best Online Tools and Sites for Easy Apartment Exploration</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-d3d9dll-is-missing-or-not-found-errors/"><u>How to Fix D3d9.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-amplify-volume-for-twitters-silent-videos/"><u>In 2024, Amplify Volume for Twitter's Silent Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/mastering-the-edit-function-in-property-folder-configuration-panels/"><u>Mastering the Edit Function in Property Folder Configuration Panels</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-enabling-automatic-user-authentication-on-your-windows-pc/"><u>Step-by-Step Guide: Enabling Automatic User Authentication on Your Windows PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/targeting-beginners-with-the-promise-of-ease-indicates-a-friendly-approach-suitable-for-those-new-to-command-line-interfaces-across-all-windows-devices-enha59/"><u>Targeting Beginners with the Promise of Ease Indicates a Friendly Approach Suitable for Those New to Command-Line Interfaces Across All Windows Devices, Enhancing Its SEO by Targeting Common Search Queries.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-prime-5-racer-simulation-titles-to-play/"><u>[New] In 2024, Prime 5 Racer Simulation Titles to Play</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-crafting-content-for-insta-clout-a-9-step-playbook-for-fame/"><u>2024 Approved Crafting Content for Insta Clout A 9-Step Playbook for Fame</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-iphone-videos-size-and-length-optimization/"><u>2024 Approved Streamline iPhone Videos Size & Length Optimization</u></a></li>
+<li><a href="https://fox-where.techidaily.com/aomei-backuppers-guide-to-image-segmentation-for-enhanced-data-management/"><u>AOMEI Backupper's Guide to Image Segmentation for Enhanced Data Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/as-we-approach-the-upper-limit-without-reaching-it-for-x-plus-y-plus-z-20-we-could-have-4-7-9-which-is-one-example-all-permutations-of-these-numbers-are-als27/"><u>As We Approach the Upper Limit without Reaching It, for X + Y + Z = 20, We Could Have (4, 7, 9), Which Is One Example; All Permutations of These Numbers Are Also Possible.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/create-gifs-from-dpx-files-at-no-cost-using-the-web-effortless-editing-made-simple/"><u>Create GIFs From DPX Files at No Cost Using the Web - Effortless Editing Made Simple</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-omzetten-van-m4v-bestandjes-veilige-professioneel-ontwikkelde-opsluiting-movavi/"><u>Gratis Omzetten Van M4V-Bestandjes: Veilige, Professioneel Ontwikkelde Opsluiting - Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-motorola-edge-40-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Motorola Edge 40 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-refining-reality-close-up-creations-in-minecraft/"><u>In 2024, Refining Reality Close-Up Creations in Minecraft</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-uncomplicated-steps-to-record-instagrams-story-feed/"><u>In 2024, Uncomplicated Steps to Record Instagram's Story Feed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-19-compressores-de-video-mais-populares-e-gratuitos-para-computador-funcionamento-on-line-e-off-lin/"><u>Top 19 Compressores De Vídeo Mais Populares E Gratuitos Para Computador - Funcionamento On-Line E Off-Lin</u></a></li>
 </ul></div>
 

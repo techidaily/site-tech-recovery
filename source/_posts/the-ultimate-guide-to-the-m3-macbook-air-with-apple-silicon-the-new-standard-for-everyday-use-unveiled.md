@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the M3 MacBook Air with Apple Silicon - The New Standard for Everyday Use Unveiled !
-date: 2024-10-18T16:14:56.967Z
-updated: 2024-10-19T17:25:41.619Z
+date: 2024-10-17T22:08:15.027Z
+updated: 2024-10-25T06:47:06.209Z
 tags:
   - apple
 categories:
@@ -67,6 +67,13 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
@@ -74,10 +81,10 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -107,13 +114,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | Photo 3                      | 0:17     |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
 
@@ -158,16 +158,10 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -187,16 +181,10 @@ Jason Hiner/ZDNET
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca2bd4d6e-b885-4395-a878-1ce6720d9d63%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca2bd4d6e-b885-4395-a878-1ce6720d9d63%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -255,22 +243,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unveiling-the-techniques-for-autoplay-youtube-videos-on-fb/"><u>2024 Approved Unveiling the Techniques for Autoplay YouTube Videos on FB</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/addressing-iphone-remote-device-troubles-quick-solutions-for-smooth-performance/"><u>Addressing iPhone Remote Device Troubles: Quick Solutions for Smooth Performance</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/demystifying-the-premium-experience-an-in-depth-look-at-disconitro-on-discord/"><u>Demystifying the Premium Experience An In-Depth Look at DiscoNitro on Discord</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-linking-your-playstation-vr-with-a-personal-computer/"><u>Easy Steps: Linking Your PlayStation VR with a Personal Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortlessly-pick-multiple-messages-at-once-a-users-guide-to-gmail-functionality/"><u>Effortlessly Pick Multiple Messages at Once: A User's Guide to Gmail Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enjoy-fresh-new-looks-download-the-best-free-wallpapers-and-styles-for-windows-11/"><u>Enjoy Fresh New Looks: Download the Best Free Wallpapers and Styles for Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-gaming-drivers-for-windows-free-download/"><u>Get the Latest NVIDIA Gaming Drivers for Windows – Free Download</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-speed-windowed-image-inspector-for-2024/"><u>High-Speed Windowed Image Inspector for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-i-remove-unwanted-images-from-my-facebook-account/"><u>How Can I Remove Unwanted Images From My Facebook Account?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-lunapic-ultimate-guide-for-professionals-for-2024/"><u>Mastering LunaPic Ultimate Guide for Professionals for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-discover-the-best-free-video-editors-compatible-with-32-bit-windows-for-2024/"><u>New Discover the Best Free Video Editors Compatible with 32-Bit Windows for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quickstart-guide-building-your-account-on-the-latest-oculus-headsets-quest-and-quest-2/"><u>Quickstart Guide: Building Your Account on the Latest Oculus Headsets (Quest & Quest 2)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-successfully-bind-your-logitech-mouse-to-devices/"><u>Simple Steps to Successfully Bind Your Logitech Mouse to Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-fixing-a-non-responsive-iphone-proximity-detector/"><u>Solutions for Fixing a Non-Responsive iPhone Proximity Detector</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-remedies-for-addressing-the-x3daudiodll-not-found-issue/"><u>Step-by-Step Remedies for Addressing the X3DAudio.DLL Not Found Issue</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-address-gpu-crashes-and-maintain-computer-functionality/"><u>Steps to Address GPU Crashes and Maintain Computer Functionality</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-f04-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy F04</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-pro-hdr-image-processing-a-lightroom-approach/"><u>[New] In 2024, Pro HDR Image Processing A Lightroom Approach</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-prime-methods-for-archiving-youtube-real-time-broadcasts-for-2024/"><u>[New] Prime Methods for Archiving YouTube Real-Time Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-video-creation-with-aiseesofts-capture-capabilities-for-2024/"><u>[Updated] Unlocking Video Creation with Aiseesoft's Capture Capabilities for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncomplicated-technique-for-win-os-clown-sound-changes/"><u>2024 Approved Uncomplicated Technique for Win-OS Clown Sound Changes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-iphone-16-vs-iphone-15-key-factors-when-switching-to-the-new-standard-model-insights/"><u>Apple iPhone 16 Vs. IPhone 15: Key Factors When Switching to the New Standard Model – Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-xs-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone XS Max without Password?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-video-production-with-chroma-key-techniques/"><u>In 2024, Mastering Video Production with Chroma Key Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/narrative-wordsmithing-weaving-a-story-through-speech/"><u>Narrative Wordsmithing Weaving a Story Through Speech</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-virtual-marketplaces-ringtone-selections/"><u>Prime Virtual Marketplaces Ringtone Selections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-for-small-tablet-devices-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Picks for Small Tablet Devices - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-tech-giants-comparing-the-finest-machines-in-2e24-by-apple-dell-et-al-featured/"><u>Top-Ranking Tech Giants - Comparing the Finest Machines in 2E24 by Apple, Dell, Et Al., Featured</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1727790813820-top-rated-water-resistant-wearables-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Water Resistant Wearables - Comprehensive Reviews by Tech Experts</u></a></li>
 </ul></div>
 

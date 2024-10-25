@@ -1,7 +1,7 @@
 ---
 title: Samsung Advances in Artificial Intelligence Pushes It Higher on the Global Innovation Leaderboard Following Google's Antitrust Setback
-date: 2024-10-18T17:27:10.441Z
-updated: 2024-10-19T16:54:15.571Z
+date: 2024-10-17T20:28:44.985Z
+updated: 2024-10-25T10:08:42.539Z
 tags:
   - apple
 categories:
@@ -68,13 +68,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -93,13 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -115,10 +101,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -131,13 +117,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -148,6 +127,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -166,6 +152,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,15 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-exclusive-download-hassle-free-video-closures-here/"><u>[New] 2024 Approved Exclusive Download Hassle-Free Video Closures Here</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-guide-to-youtube-channel-removal-pcphone/"><u>[New] In 2024, The Ultimate Guide to Youtube Channel Removal (PC/Phone)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-replay-anywhere-instant-guide-to-youtube-video-loops/"><u>[Updated] Replay Anywhere Instant Guide to YouTube Video Loops</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-video-editor-applications-choose-your-favorites/"><u>Discover the Best Video Editor Applications: Choose Your Favorites!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722865442440-discover-the-leading-iphone-email-solutions-weve-rated-them/"><u>Discover the Leading iPhone Email Solutions - We've Rated Them</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-zte-nubia-flip-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a ZTE Nubia Flip 5G Phone that is Locked?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premier-selections-versatile-and-affordable-macpc-bd-decoders/"><u>Premier Selections Versatile and Affordable Mac/PC BD Decoders</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-fortnite-sound-issue-with-these-easy-fixes/"><u>Resolve Your Fortnite Sound Issue with These Easy Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722843888582-understanding-and-controlling-your-online-bandwidth-usage/"><u>Understanding and Controlling Your Online Bandwidth Usage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unstick-stubborn-airpods-effective-techniques-to-restart-pairing-process/"><u>Unstick Stubborn AirPods: Effective Techniques to Restart Pairing Process</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[New] In 2024, How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/twitter-marketing-basics-promoting-tweets-creating-polls-and-using-media-effectively/"><u>[Twitter Marketing Basics: Promoting Tweets, Creating Polls, & Using Media Effectively]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-synergy-of-data-and-imagination-ideas-from-google-trends/"><u>[Updated] Synergy of Data and Imagination Ideas From Google Trends</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728500098921-hdd/"><u>外部HDD認証問題の解決方法 - トラブルシューティングガイド</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a24-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A24 FRP Bypass Instantly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-perfect-iphone-for-your-gaming-needs-a-guide/"><u>Choosing the Perfect iPhone for Your Gaming Needs: A Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/engaging-audiences-with-instagram-stories-surveys-for-2024/"><u>Engaging Audiences with Instagram Stories Surveys for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-most-recent-upgrade-to-the-ipad-lineup/"><u>Exploring the Most Recent Upgrade to the iPad Lineup</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-realme-narzo-60x-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Realme Narzo 60x 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illuminate-your-images-adding-life-with-illustrator-motion/"><u>In 2024, Illuminate Your Images Adding Life with Illustrator Motion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-my-discord-lagging-because-of-a-global-glitch-or-is-it-just-me/"><u>Is My Discord Lagging Because of a Global Glitch, or Is It Just Me?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-the-secrets-of-maintaining-continuous-mac-operation-and-avoiding-unwanted-sleep/"><u>Learn the Secrets of Maintaining Continuous Mac Operation and Avoiding Unwanted Sleep</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/leveraging-text-overlays-for-engaging-visual-posts/"><u>Leveraging Text Overlays for Engaging Visual Posts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/professional-tricks-to-fix-your-furry-friends-photo-eyes-flawlessly/"><u>Professional Tricks to Fix Your Furry Friend’s Photo Eyes Flawlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-watching-fandango-on-your-apple-device/"><u>Step-by-Step Tutorial for Watching Fandango on Your Apple Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-setting-up-and-displaying-your-nintendo-switch-on-hdtv/"><u>Step-by-Step Tutorial: Setting Up and Displaying Your Nintendo Switch on HDTV</u></a></li>
 </ul></div>
 

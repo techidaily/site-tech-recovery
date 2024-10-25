@@ -1,7 +1,7 @@
 ---
 title: "Apple’s iPhone 1N 16 Pro Gains Edge over iPhone Max : Insights and Reasons From ZDNet's Perspective"
-date: 2024-10-15T16:34:15.757Z
-updated: 2024-10-19T16:38:35.716Z
+date: 2024-10-22T05:48:44.219Z
+updated: 2024-10-24T21:09:35.080Z
 tags:
   - apple
 categories:
@@ -35,16 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -71,13 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -94,6 +81,13 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -103,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -126,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -172,17 +166,21 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-editing-essentials-your-go-to-guide-for-beginner-vloggers/"><u>[New] In 2024, Editing Essentials Your Go-To Guide for Beginner Vloggers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pushingpastthestatusquo-post-mycam-cams/"><u>[Updated] 2024 Approved PushingPastTheStatusQuo Post-MyCam Cams</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-multi-image-instagram-stories-a-step-by-step-tutorial/"><u>2024 Approved Mastering Multi-Image Instagram Stories A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-utilize-dual-viewing-with-ipad-screen-splitting-techniques/"><u>Effective Ways to Utilize Dual Viewing with iPad Screen Splitting Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-chinese-producer-tryx-unveils-exclusive-all-in-one-cooler-featuring-a-sleek-curved-amoled-screen/"><u>Innovative Chinese Producer Tryx Unveils Exclusive All-In-One Cooler Featuring a Sleek Curved AMOLED Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-our-mistral-ai-and-chatgpt-showdown-which-one-wins-as-the-best-ai-chatbot/"><u>Inside Our Mistral AI and ChatGPT Showdown: Which One Wins as the Best AI Chatbot?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-arf-pet-food-dispenser-convenient-nutrition-for-your-furry-friend/"><u>The Arf Pet Food Dispenser: Convenient Nutrition for Your Furry Friend</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-stuck-or-broken-widgets-in-windows-11-made-simple/"><u>Troubleshooting Stuck or Broken Widgets in Windows 11 Made Simple</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/vmware-enhanced-keyboard-driver-what-is-it-and-how-to-install-it/"><u>VMware Enhanced Keyboard Driver - What Is It and How to Install It</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-10-install-stuck-at-just-a-moment-loop-fixed/"><u>Windows 10 Install Stuck at Just a Moment Loop [Fixed]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-11-black-and-white-screen-issue-solved/"><u>Windows 11 Black & White Screen Issue – Solved!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-audio-ambiance-weaving-music-into-instagram-moments/"><u>[New] Audio Ambiance Weaving Music Into Instagram Moments</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-roadmap-to-youtube-profits-with-sourav-joshi/"><u>[Updated] In 2024, The Roadmap to YouTube Profits with Sourav Joshi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gaming-speed-pro-tactics-to-overcome-lagging-in-the-sims-4-on-pc-updated-guide-2e4/"><u>Boost Your Gaming Speed: Pro Tactics to Overcome Lagging in The Sims 4 on PC (Updated Guide 2E4)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-coverage-of-samsung-unpacked-2025-when-to-tune-in-what-to-expect-and-buzz-worthy-leaks/"><u>Comprehensive Coverage of Samsung Unpacked 2025: When to Tune In, What to Expect, and Buzz-Worthy Leaks</u></a></li>
+<li><a href="https://fox-search.techidaily.com/diskgenius-software-analysis-benefits-drawbacks-and-final-judgement/"><u>DiskGenius Software Analysis: Benefits, Drawbacks & Final Judgement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quickly-solve-your-csgo-player-login-problems-top-5-fixes-for-no-user-logon-error/"><u>Quickly Solve Your CSGO Player Login Problems - Top 5 Fixes for ‘No User Logon’ Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/selecting-the-perfect-surge-protector-for-your-devices-a-guide/"><u>Selecting the Perfect Surge Protector for Your Devices: A Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-prolific-usb-to-serial-driver-not-working-on-windows/"><u>Solved: Prolific USB to Serial Driver Not Working on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-gtx-sixty-six-hundred-drivers-with-ease/"><u>Step-by-Step Guide: Updating GTX ˈsixty-Six Hundred Drivers with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-disabling-facebook-on-android-phones-and-tablets/"><u>Step-by-Step Tutorial: Disabling Facebook on Android Phones and Tablets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-must-have-apps-for-tracking-your-diet-and-nutrition/"><u>Top 6 Must-Have Apps for Tracking Your Diet and Nutrition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-when-you-cant-find-msstdfmtdll-on-your-pc/"><u>Troubleshooting Steps for When You Can't Find msstdfmt.dll on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-sony-vr-tech-unveiled-cost-predictions-release-timeline-full-specifications-insights/"><u>Upcoming Sony VR Tech Unveiled: Cost Predictions, Release Timeline, Full Specifications Insights</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/utilizing-advanced-bots-from-cookiesolutions/"><u>Utilizing Advanced Bots From CookieSolutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/virtual-playstation-experience-at-your-fingertips-top-5-for-2024/"><u>Virtual PlayStation Experience at Your Fingertips (Top 5) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-expect-from-the-new-apple-watch-x-pricing-predictions-availability-dates-and-rumored-tech-inside/"><u>What to Expect From the New Apple Watch X: Pricing Predictions, Availability Dates & Rumored Tech Inside</u></a></li>
 </ul></div>
 

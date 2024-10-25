@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Blue Screen of Death (BSOD)
-date: 2024-09-11T20:39:35.955Z
-updated: 2024-09-15T22:13:01.636Z
+date: 2024-10-22T22:07:45.985Z
+updated: 2024-10-25T06:37:40.096Z
 categories:
   - BestProducts
 description: This Article Describes How to Fix a Blue Screen of Death (BSOD)
@@ -18,6 +18,13 @@ thumbnail: https://www.lifewire.com/thmb/waZW3NWdmWJ-eJLeAe7sRZODKzM=/400x300/fi
 
  The Code 28 error could apply to any hardware device in Device Manager, but most seem to affect USB devices and sound cards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix a Code 28 Error
 
  Any of Microsoft's operating systems could experience a Code 28 Device Manager error, including Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, and more. These directions apply to all of those Windows versions.
@@ -25,11 +32,27 @@ thumbnail: https://www.lifewire.com/thmb/waZW3NWdmWJ-eJLeAe7sRZODKzM=/400x300/fi
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
 ![Restart menu in Windows 10](https://www.lifewire.com/thmb/BfpzNB-2PZs2XbtmfAqOhjUL7Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-5c8032ed46e0fb00019b8ed8.jpg)  
  There's always the slim chance that the Code 28 error you're seeing in Device Manager was caused by a fluke with Device Manager or in your[BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820) . If that's the case, a reboot might fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Did you install a device or make a change in Device Manager just before you noticed the error? If so, it's very possible that the change you made caused the problem.  
  Undo the change, restart your PC, and then check again for the Code 28 error.  
  Depending on the changes you made, some solutions might include removing or re-configuring the newly installed device,[rolling back the driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) to the version prior to your update, or[using System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) to undo recent Device Manager changes.  
 ![System Restore button for Windows 10](https://www.lifewire.com/thmb/dLFN9DPEpHd1ClDWsExz8wKhnMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restoresystemWindows-5c80332846e0fb00011bf425.jpg)
 3. [Update the drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) for the device. Installing the latest manufacturer supplied drivers for a device with the Code 28 error is the most likely solution to the problem.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Make sure you install the drivers for the correct operating system. For example, if you're using Windows 10[64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) , install the drivers designed for that specific[version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) . Many of these errors are caused by attempting to install the wrong drivers for a device. One way to be sure you're getting the right driver is to use a[free driver updater tool](https://www.lifewire.com/free-driver-updater-tools-2619206) .  
  If the drivers won't update, try disabling your antivirus software during the update process. Sometimes these programs misinterpret your driver updating as malicious and block it.
 4. [Install the latest Windows service pack](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Microsoft regularly releases[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and other[patches](https://www.lifewire.com/what-is-a-patch-2625960) for their operating systems, one of which may contain a fix for the cause of the Code 28 error.  
@@ -37,6 +60,13 @@ thumbnail: https://www.lifewire.com/thmb/waZW3NWdmWJ-eJLeAe7sRZODKzM=/400x300/fi
 5. Replace the hardware. As a last resort, you may need to replace the hardware that has the error.  
  It's also possible that the device is not compatible with this version of Windows. You can check the[Windows HCL](https://www.lifewire.com/what-is-the-windows-hardware-compatibility-list-2625914) to be sure.  
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Causes of a Code 28 Error
 
@@ -90,12 +120,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-unlocking-the-art-of-engaging-with-tweets-in-videos/"><u>[New] Unlocking the Art of Engaging with Tweets in Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-make-every-xbox-moment-count-expert-recording-advice-for-2024/"><u>[Updated] Make Every Xbox Moment Count Expert Recording Advice for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-full-potential-saving-and-playing-gifs-on-iphones-for-2024/"><u>[Updated] Unlocking Full Potential Saving & Playing GIFs on iPhones for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/alternative-methods-for-charging-your-smartphone-when-youre-out-of-juice/"><u>Alternative Methods for Charging Your Smartphone When You're Out of Juice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722860457429-explore-these-10-amazing-complimentary-email-addresses-today/"><u>Explore These 10 Amazing Complimentary Email Addresses Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-cross-platform-experience-running-android-on-your-new-windows-11-pc/"><u>Exploring the Cross-Platform Experience: Running Android on Your New Windows 11 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-correcting-openal32dll-is-missing-from-system-files/"><u>Guide to Correcting 'OpenAL32.dll' Is Missing From System Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/humorous-harmonics-optimal-ringtone-sites-for-2024/"><u>Humorous Harmonics Optimal Ringtone Sites for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-how-to-use-movie-maker-on-windows-11/"><u>In 2024, How to Use Movie Maker on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-motorola-moto-g84-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Motorola Moto G84 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-dll-problems-how-to-successfully-reinstate-the-missing-d3dx924dll-component/"><u>Mastering DLL Problems: How To Successfully Reinstate The Missing d3dx9_24.dll Component</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/mastering-seamless-sharing-essential-techniques-for-resolving-airdrop-link-up-woes-on-apple-devices/"><u>Mastering Seamless Sharing: Essential Techniques for Resolving AirDrop Link-Up Woes on Apple Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-network-discovery-controls-in-windows-11/"><u>Mastering the Art of Network Discovery Controls in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-puzzle-of-cmos-checksum-mismatches/"><u>Solving the Puzzle of CMOS Checksum Mismatches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-the-missing-python24dll-component/"><u>Step-by-Step Fix for the Missing Python24.dll Component</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-c51-by-drfone-android/"><u>Universal Unlock Pattern for Poco C51</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/visual-transformation-and-enhanced-speed-an-in-depth-look-at-apples-m1-chip-within-the-imac/"><u>Visual Transformation and Enhanced Speed: An In-Depth Look at Apple's M1 Chip Within the IMac</u></a></li>
+</ul></div>
 

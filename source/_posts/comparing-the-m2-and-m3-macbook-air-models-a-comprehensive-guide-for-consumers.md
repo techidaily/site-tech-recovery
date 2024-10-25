@@ -1,7 +1,7 @@
 ---
 title: "Comparing the M2 and M3 MacBook Air Models: A Comprehensive Guide for Consumers"
-date: 2024-10-16T16:37:35.939Z
-updated: 2024-10-19T16:55:04.410Z
+date: 2024-10-23T23:29:47.560Z
+updated: 2024-10-24T20:48:30.469Z
 tags:
   - apple
 categories:
@@ -64,13 +64,6 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  3\. You want the absolute best performance
 
 The biggest difference between the M2 and M3 models is in the chip that runs the laptops. If you want the very best performance, especially for new AI applications, look to the M3\. There are several versions of the M3 chip, and while MacBook Air laptops only come with the base version, it's a very large upgrade over the M1 or an older Intel-powered Air.
@@ -90,32 +83,39 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the M2 MacBook Air if...
 
 Cliff Joseph/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
 
 Will you be mainly using your laptop for web surfing, streaming, listening to music, or working a remote job? If so, then you probably don't need the power -- and price tag -- of the M3 MacBook Air. For most users, the M2 is a more than reliable machine. It was ZDNET's [2022 product of the year](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/)!
 
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You're expecting the M3 to be a bigger upgrade
 
@@ -124,10 +124,10 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -164,16 +164,21 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-finding-affordable-no-cost-artistic-elements/"><u>[New] 2024 Approved Finding Affordable, No-Cost Artistic Elements</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-win11-savvy-essentials-you-cant-miss-for-2024/"><u>[New] Win11 Savvy Essentials You Can't Miss for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[Updated] In 2024, How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-you-locate-a-forgotten-or-unknown-email-account/"><u>How Can You Locate a Forgotten or Unknown Email Account?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-classrooms-in-the-digital-age-9-key-electronics-every-student-should-have/"><u>Navigating Classrooms in the Digital Age: 9 Key Electronics Every Student Should Have</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/sd-unheard-of-find-the-way-out/"><u>SD Unheard Of? Find the Way Out</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-prevent-youtube-use-on-an-ipad/"><u>Step-by-Step Instructions to Prevent YouTube Use on an iPad</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-fix-when-your-ipad-cannot-locate-the-printer/"><u>Troubleshooting Guide: How to Fix When Your iPad Cannot Locate the Printer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-successfully-playing-pokemon-go/"><u>Ultimate Tips for Successfully Playing 'Pokémon Go'</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-leading-filmmaking-applications-for-gopro-for-2024/"><u>[New] Leading Filmmaking Applications for GoPro for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-optimal-scripting-solutions-in-ae/"><u>[Updated] 2024 Approved Optimal Scripting Solutions in AE</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transform-viewing-habits-the-top-6-choices-for-cost-free-and-online-short-film-downloads/"><u>[Updated] Transform Viewing Habits The Top 6 Choices for Cost-Free & Online Short Film Downloads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-free-online-converter-change-webm-files-to-swf-format-with-ease-movavi/"><u>1. Free Online Converter: Change WebM Files to SWF Format with Ease - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-windows-7-video-editing-tools-available-a-comprehensive-guide/"><u>Best Free Windows 7 Video Editing Tools Available : A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-zte-nubia-flip-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of ZTE Nubia Flip 5G?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficient-muziek-combinatie-met-de-movavi-mp3-verenigend-programma/"><u>Efficiënt Muziek Combinatie Met De Movavi MP3-Verenigend Programma</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/examine-groups-collaborative-media-on-messenger/"><u>Examine Group's Collaborative Media on Messenger</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fostering-an-online-oasis-paving-the-way-for-a-prolific-youtube-presence/"><u>Fostering an Online Oasis Paving the Way for a Prolific Youtube Presence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-avi-videos-naar-flv-konvertereen-onlinelastige-mobavivi-losungen/"><u>Gratuit AVI-Video's Naar FLV Konvertereen - Onlinelastige Mobavivi Lösungen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-is-an-mp3-file-converted-methods-on-pc-mobile-devices-and-online-platforms/"><u>How Is an MP3 File Converted: Methods on PC, Mobile Devices & Online Platforms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-web-based-audio-transcriber-no-cost-conversions-from-m4b-to-wav/"><u>Movavi's Web-Based Audio Transcriber: No Cost Conversions From M4B to WAV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movaviwebmp4m4r/"><u>Movaviの使いやすいWeb版MP4からM4Rへの無料変換ツール</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshoot-hulus-rununk13-issue-comprehensive-fixes-unveiled/"><u>Troubleshoot Hulu's RUNUNK13 Issue – Comprehensive Fixes Unveiled!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/m4r-m4a-mp3-movavi/"><u>온라인 자리가 없어도 M4R, M4A 오디오를 Mp3로 간단하게 변환 - Movavi</u></a></li>
 </ul></div>
 

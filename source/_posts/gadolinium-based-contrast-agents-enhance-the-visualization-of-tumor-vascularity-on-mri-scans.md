@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2024-10-17T16:51:18.147Z
-updated: 2024-10-19T17:17:51.975Z
+date: 2024-10-23T11:55:35.477Z
+updated: 2024-10-25T05:24:01.301Z
 tags:
   - apple
 categories:
@@ -36,16 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,22 +134,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-illustration-ingenuity-3d-text-magic/"><u>[New] 2024 Approved Illustration Ingenuity 3D Text Magic</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-transforming-your-profile-video-allure/"><u>[Updated] 2024 Approved Transforming Your Profile Video Allure</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unveiling-the-secrets-of-gopro-timelapse-photography/"><u>[Updated] Unveiling the Secrets of GoPro Timelapse Photography</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-gateway-to-managing-printers-in-windows/"><u>Exploring the Gateway to Managing Printers in Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x-fold-2-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X Fold 2 Phone FRP Lock</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-nvidia-screen-options-unavailability/"><u>Resolving NVIDIA Screen Options Unavailability</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-resolve-required-cddvd-drive-device-driver-is-not-found/"><u>Step-by-Step Guide to Resolve 'Required CD/DVD Drive Device Driver Is Not Found'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-the-user32dll-not-detected-problem-on-your-pc/"><u>Step-by-Step Guide: Correcting the 'User32.dll Not Detected' Problem on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-wifi-networks-from-your-pcs-memory-in-windows-10/"><u>Step-by-Step Guide: Removing WiFi Networks From Your PC's Memory in Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-simplest-way-to-enable-wireless-internet-access-on-your-computer-system/"><u>The Simplest Way to Enable Wireless Internet Access on Your Computer System</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/top-choice-elite-videographer-tool-for-vimeo-for-2024/"><u>Top Choice Elite Videographer Tool for Vimeo for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-black-screen-issue-in-valorant-upon-launch/"><u>Troubleshooting Guide: Resolving 'Black Screen' Issue in Valorant Upon Launch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-successfully-downloading-and-playing-fortnite-on-android-phones/"><u>Ultimate Tips for Successfully Downloading and Playing Fortnite on Android Phones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-higher-fps-levels-in-csgo-with-our-in-depth-guide-on-ultimate-game-performance-tuning/"><u>Unlock Higher FPS Levels in CS:GO with Our In-Depth Guide on Ultimate Game Performance Tuning</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-a-complete-guide-to-translate-video-with-google-for-2024/"><u>Updated A Complete Guide To Translate Video With Google for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-do-if-windows-10-doesnt-recognize-your-logitech-keyboard/"><u>What to Do if Windows 10 Doesn't Recognize Your Logitech Keyboard</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-11-or-10-pc-running-slow-solved/"><u>Windows 11 or 10 PC Running Slow [SOLVED]</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users-for-2024/"><u>[New] Secrets of Saving Screenshots Tips & Tricks for Dell Users for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-maximizing-game-replays-in-roblox-with-macos-tips/"><u>[Updated] 2024 Approved Maximizing Game Replays in Roblox with macOS Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-contents-reach-in-youtube-shorts-formats/"><u>[Updated] In 2024, Elevate Your Content's Reach in YouTube Shorts Formats</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-no-price-point-digital-video-recorder/"><u>[Updated] In 2024, No-Price Point Digital Video Recorder</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726225817943-mp3wav-movavi/"><u>免費移動MP3到WAV - 使用Movavi 音頻轉換工具在線上進行</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-wtv-a-mpeg-online-de-forma-gratuita-con-movavi/"><u>Convertir WTV a MPEG Online De Forma Gratuita Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/creating-your-own-youtube-intro-with-movavi-a-step-by-step-guide/"><u>Creating Your Own YouTube Intro with Movavi - A Step by Step Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/engage-audiences-best-hashtags-for-going-viral-on-yt/"><u>Engage Audiences Best Hashtags for Going Viral on YT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-5-choices-of-wi-fi-based-chat-applications-for-effortless-texting-online/"><u>Exploring the Ultimate 5 Choices of Wi-Fi Based Chat Applications for Effortless Texting Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-ts-videoconverter-naar-mp4-professioneel-snel-en-efficient-met-movavi/"><u>Gratis Online Ts-Videoconverter Naar Mp4: Professioneel Snel en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/instant-relief-for-lost-data-stellar-secure-solutions-await/"><u>Instant Relief for Lost Data - Stellar, Secure Solutions Await</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221810225-mov-mjpeg-movavi/"><u>MOV MJPEG ファイルを無料でオンラインで変換する方法 - Movavi</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/section-3b-facts-about-ocular-pathophysiology/"><u>Section 3B: Facts About Ocular Pathophysiology</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transform-your-content-strategy-with-tubebuddy-for-2024/"><u>Transform Your Content Strategy with TubeBuddy for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformar-archivos-raw-en-imagenes-jpg-gratuitas-con-movavi/"><u>Transformar Archivos RAW en Imágenes JPG Gratuitas Con Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2024-10-13T17:15:54.742Z
-updated: 2024-10-19T17:16:38.401Z
+date: 2024-10-23T11:14:32.861Z
+updated: 2024-10-25T03:23:01.150Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,20 +134,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-delving-into-vlc-screenshot-technology-for-2024/"><u>[New] Delving Into VLC Screenshot Technology for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-giggle-guild-the-ultimate-list-of-twitter-joke-threads/"><u>[New] Giggle Guild The Ultimate List of Twitter Joke Threads</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-tips-for-incorporating-music-selections-on-vimeo-videos/"><u>[New] Tips for Incorporating Music Selections on Vimeo Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-review-of-the-robust-and-elite-fugetek-ft-568-selfie-stick-for-capturing-perfect-photos/"><u>Comprehensive Review of the Robust and Elite Fugetek FT-568 Selfie Stick for Capturing Perfect Photos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-email-troubles-could-aol-mail-be-the-culprit-or-might-there-be-another-issue/"><u>Deciphering Email Troubles: Could AOL Mail Be the Culprit or Might There Be Another Issue?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/enhancing-tweets-adding-media-files/"><u>Enhancing Tweets Adding Media Files</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-13c-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 13C 5G Phones with/without a PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/m4-mac-mini-news-and-expected-price-release-date-specs-and-more-rumors/"><u>M4 Mac Mini: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-os-x-email-security-how-to-configure-safe-senders-and-blocked-addresses/"><u>Mac OS X Email Security: How to Configure Safe Senders and Blocked Addresses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-your-engineering-skills-using-free-cad-tools-we-love/"><u>Maximize Your Engineering Skills Using Free CAD Tools We Love</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-how-to-convert-video-voice-to-text-online-for-free/"><u>New How To Convert Video Voice to Text Online for Free?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-tips-for-changing-the-display-time-on-your-kindle-paperwhite-tablet/"><u>Simple Tips for Changing the Display Time on Your Kindle Paperwhite Tablet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resetting-your-computers-bios-configuration-data/"><u>Step-by-Step Guide: Resetting Your Computer's BIOS Configuration Data</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-streaming-from-pclaptop-to-tv-using-hdmi-connection/"><u>Step-by-Step Tutorial: Streaming From PC/Laptop to TV Using HDMI Connection</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-nubia-red-magic-8s-proplus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Nubia Red Magic 8S Pro+ Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aerial-capture-face-off-dji-mavic-2-vs-hero6-black/"><u>[New] Aerial Capture Face-Off DJi Mavic 2 vs Hero6 Black</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-8-smooth-latency-free-video-reporters-for-2024/"><u>[Updated] Top 8 Smooth, Latency-Free Video Reporters for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-watching-outdated-facebook-chronicles-mobilelaptop-for-2024/"><u>[Updated] Watching Outdated Facebook Chronicles (Mobile/Laptop) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-blueprint-revolutionizing-your-mobile-capture-experience-with-mobizen/"><u>2024 Approved Ultimate Blueprint Revolutionizing Your Mobile Capture Experience with Mobizen</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/best-video-language-changers-to-make-your-videos-accessible-for-2024/"><u>Best Video Language Changers to Make Your Videos Accessible for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-convert-mmf-audio-files-to-mp3-for-free-using-movavis-web-based-tool/"><u>Effortlessly Convert MMF Audio Files to MP3 for Free Using Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/foremost-dialogue-maker-hub/"><u>Foremost Dialogue Maker Hub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-tool-to-convert-audio-interchange-file-format-aif-to-free-lossless-audio-codec-flac/"><u>Free Online Tool to Convert Audio Interchange File Format (AIF) to Free Lossless Audio Codec (FLAC)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-poco-f5-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Poco F5 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-motorola-moto-g14-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Motorola Moto G14 Through Google Earth?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-k-lite-audio-and-video-compression-tools-boost-your-media-experience/"><u>The Ultimate K-Lite Audio & Video Compression Tools: Boost Your Media Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformation-gratuite-de-fichiers-mov-en-mp4-en-ligne-avec-movavi-tutorial-complet/"><u>Transformation Gratuite De Fichiers MOV en MP4 en Ligne Avec Movavi – Tutorial Complet</u></a></li>
 </ul></div>
 

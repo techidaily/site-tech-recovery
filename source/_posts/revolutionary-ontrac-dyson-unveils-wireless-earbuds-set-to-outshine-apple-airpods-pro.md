@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary OnTrac: Dyson Unveils Wireless Earbuds Set to Outshine Apple AirPods Pro"
-date: 2024-10-17T16:39:36.165Z
-updated: 2024-10-19T16:18:18.602Z
+date: 2024-10-18T01:12:27.687Z
+updated: 2024-10-25T08:27:53.687Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
 
 Emphasizing [ethical AI](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/) development will ensure fairness, transparency, and accountability. Ethical AI involves addressing biases in AI models, ensuring AI decisions are explainable, and adhering to principles that prevent misuse or harm. This approach will help build trust and set a high standard in the AI industry.
@@ -61,10 +68,16 @@ Providing private or family-specific AI instances would further enhance privacy 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
@@ -89,13 +102,6 @@ To meet the growing demand for fast application response times, I believe Apple 
 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enhance proactive assistance and personalization
 
 Apple's AI should proactively anticipate user needs and provide personalized experiences across its ecosystem. AI can analyze calendar events, habitual purchases, and traffic conditions to offer contextual reminders, like leaving early for appointments or suggesting groceries. Personalized briefings on Apple Watch could include weather updates, news summaries, traffic alerts, and schedule highlights.
@@ -107,10 +113,10 @@ AI can enhance contextual awareness by integrating with sensors and data sources
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
@@ -130,10 +136,10 @@ Leveraging AI to enhance HomeKit's capabilities is essential, especially since H
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
@@ -178,22 +184,18 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-elevate-your-content-seo-mastery-starts-here/"><u>[Updated] Elevate Your Content SEO Mastery Starts Here!</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-exclusive-directory-free-visual-content-oasis-online/"><u>2024 Approved Exclusive Directory Free Visual Content Oasis Online</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1728475137824-windows-10-pc/"><u>基礎から見直し:Windows 10再イメージング - PC蘇生テクニック</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-overview-of-wi-fi-protocols-from-80211bgn-to-the-latest-80211ax/"><u>Comprehensive Overview of Wi-Fi Protocols: From 802.11B/G/N to the Latest 802.11Ax</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elevate-your-profile-the-complete-guide-to-editing-numbers-on-tiktok/"><u>Elevate Your Profile The Complete Guide to Editing Numbers on TikTok</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-acclaimed-encoder-technology-in-broadcast-systems/"><u>In 2024, Acclaimed Encoder Technology in Broadcast Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-6-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 6 Plus and iPad</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-v30-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme V30 for Parents | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-cross-platform-communication-using-gmail-on-your-smartphone/"><u>Mastering Cross-Platform Communication: Using Gmail on Your Smartphone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reinitialize-your-pcs-firmware-the-ultimate-cmos-clear-method/"><u>Reinitialize Your PC's Firmware - The Ultimate CMOS Clear Method</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-repairing-btballoondll-not-found-issues/"><u>Step-by-Step Solutions for Repairing 'BTBalloon.dll Not Found' Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/student-secrets-unlocking-free-access-to-youtube-premium/"><u>Student Secrets: Unlocking Free Access to YouTube Premium</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-must-have-homework-assistance-applications-for-students-and-guardians/"><u>Top 6 Must-Have Homework Assistance Applications for Students and Guardians</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722861107683-troubleshooting-when-your-iphone-doesnt-ring-easy-fixes-inside/"><u>Troubleshooting When Your iPhone Doesn't Ring – Easy Fixes Inside!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-on-clearing-every-message-using-the-gmail-mobile-application/"><u>Ultimate Tips on Clearing Every Message Using the Gmail Mobile Application</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-leveraging-hashtags-in-twitter-advertising/"><u>[New] 2024 Approved Leveraging Hashtags in Twitter Advertising</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-elite-streaming-sensations-worlds-most-popular-video-content-makers-for-2024/"><u>[Updated] Elite Streaming Sensations World's Most Popular Video Content Makers for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/5yplusk44ge5yuv55s744gm6kgo56s644gn44gn44gq44gp44gq44gj44gf5ac05zci44cb44gd44gu5y6f5zug44go5aplusplus562w44ks5a2m44kt44gg5pa544cf44g4/"><u>古い動画が表示できなくなった場合、その原因と対策を学んだ方々へ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-iconic-puzzle-experiences-on-mobile-find-gems-like-the-room-and-myst/"><u>Discover Iconic Puzzle Experiences on Mobile: Find Gems Like 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-files-and-folders-with-ease-on-macos-stellar-file-eraser-professional/"><u>Erase Files & Folders with Ease on macOS - Stellar File Eraser Professional</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-fixing-common-minecraft-lan-connectivity-challenges/"><u>Expert Advice: Fixing Common Minecraft LAN Connectivity Challenges</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-correctly-handling-openal32dll-is-not-present-system-messages/"><u>Guide: Correctly Handling 'OpenAL32.dll Is Not Present' System Messages</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-become-an-nft-expert-with-these-top-7-creative-tools/"><u>In 2024, Become an NFT Expert with These Top 7 Creative Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-boosting-zoom-clarity-the-guide-to-using-filters-wisely/"><u>In 2024, Boosting Zoom Clarity The Guide to Using Filters Wisely</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reverse-image-syndrome-explaining-sideways-ig-vids-for-2024/"><u>Reverse Image Syndrome Explaining Sideways IG Vids for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722878590940-setting-up-two-factor-authentication-on-twitch-a-comprehensive-guide/"><u>Setting Up Two-Factor Authentication on Twitch: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722893460494-the-next-generation-of-phablets-arrives-with-samsung-galaxy-z-fold-6-key-info-on-pricing-and-launch-date-revealed/"><u>The Next Generation of Phablets Arrives with Samsung Galaxy Z Fold 6 - Key Info on Pricing & Launch Date Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2024-10-17T16:25:05.598Z
-updated: 2024-10-19T16:03:19.614Z
+date: 2024-10-24T12:04:35.737Z
+updated: 2024-10-24T23:48:54.228Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -108,10 +115,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -124,13 +131,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -141,13 +141,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -173,6 +166,19 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,21 +224,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-farm-frenzy-the-ultimate-group-game-guide-for-farms/"><u>[New] Farm Frenzy The Ultimate Group Game Guide for Farms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-omniview-app-critical-look-over/"><u>[New] OmniView App Critical Look-Over</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-itel-a05s-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Itel A05s to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/future-proofing-with-top-uninterruptible-power-supplies-2024s-must-have-models/"><u>Future-Proofing with Top Uninterruptible Power Supplies: 2024'S Must-Have Models</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-downloading-and-update-of-epson-printer-drivers-on-your-windows-machine/"><u>Hassle-Free Downloading and Update of Epson Printer Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-14-pro-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on 14 Pro?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-v27-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo V27</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-f23-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo F23 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-civi-3-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Civi 3?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipad-face-off-a-closer-look-at-how-ipad-mini-stands-against-ipad-air/"><u>IPad Face-Off: A Closer Look at How iPad Mini Stands Against iPad Air</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protecting-imessage-and-mail-on-icloud-the-role-of-dual-authentication/"><u>Protecting iMessage and Mail on iCloud: The Role of Dual-Authentication</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quieting-the-roar-essential-steps-for-resolving-loud-computer-fans/"><u>Quieting the Roar: Essential Steps for Resolving Loud Computer Fans</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-the-mingwm10dll-file-is-absent-issue/"><u>Solutions for Resolving the 'Mingwm10.dll File Is Absent' Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/supercharge-your-windows-experience-speedy-fixes-for-windows-11-users/"><u>Supercharge Your Windows Experience: Speedy Fixes for Windows 11 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-taking-screengrabs-on-an-hp-desktop-replacement/"><u>The Ultimate Guide to Taking Screengrabs on an HP Desktop Replacement</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-free-nintendo-switch-games/"><u>[New] In 2024, Essential Free Nintendo Switch Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-stardews-guide-ginger-isle-essentials-for-2024/"><u>[New] Stardew's Guide Ginger Isle Essentials for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-does-investing-in-video-growth-pay-off-on-yt/"><u>[Updated] Does Investing in Video Growth Pay Off on YT?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-software-guide-for-tempo-alteration/"><u>[Updated] Ultimate Software Guide for Tempo Alteration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/arwtiff-movavi/"><u>網路上無成本地將ARW格式改造為TIFF - Movavi自動化轉換工具</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221569192-mkvvob-movavi/"><u>無償でウェブ上にてMKV/VOB形式変換: 動画編集ソフトMovavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-mp3-files-into-high-quality-aiff-format-for-free-with-online-converter/"><u>Convert MP3 Files Into High-Quality AIFF Format for Free with Online Converter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-picks-for-premium-mac-boosters-a-comprehensive-review/"><u>Expert Picks for Premium Mac Boosters - A Comprehensive Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-ogg-to-mp3-konverteren-professioneel-en-online-zelfs-met-movavi/"><u>Gratuit Ogg-to-MP3 Konverteren: Professioneel en Online, Zelfs Met Movavi!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G Phone without Google Account?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/jpegbmp-online/"><u>JPEG/BMP 이미지를 원활하게 무료 대상으로 바꾸기 - Online 도구</u></a></li>
+<li><a href="https://article-posts.techidaily.com/master-kinemasters-features-with-ease-ranked-by-best-opponent-games-for-2024/"><u>Master KineMaster's Features with Ease, Ranked by Best Opponent Games for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-le-choix-privilegie-pour-un-telechargement-facile-et-gratuit-de-votre-convertisseur-multiformat-video/"><u>MOVAVI - Le Choix Privilégié Pour Un Téléchargement Facile Et Gratuit De Votre Convertisseur Multiformat Vidéo</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-hd-144hz-gaming-displays-guide/"><u>Ultimate HD 144Hz Gaming Displays Guide</u></a></li>
 </ul></div>
 

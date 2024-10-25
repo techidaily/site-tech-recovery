@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: How to Link Your Samsung Infrared Remote Control and TV Easily"
-date: 2024-09-14T01:10:30.273Z
-updated: 2024-09-16T01:02:21.154Z
+date: 2024-10-18T18:55:17.237Z
+updated: 2024-10-25T06:22:32.731Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Tutorial: How to Link Your Samsung Infrared Remote Control and TV Easily"
@@ -38,20 +38,33 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -77,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Ways to Open Command Prompt
@@ -92,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
@@ -152,5 +165,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-video-embedding-for-dynamic-online-articles/"><u>[New] 2024 Approved Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-masterclass-in-design-upgrading-igtv-backgrounds-for-2024/"><u>[New] Masterclass in Design Upgrading IGTV Backgrounds for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outubes-flawless-beauty-masterclass-skincare-hairdos-and-cosmetics-for-2024/"><u>[New] YouTube's Flawless Beauty Masterclass Skincare, Hairdos & Cosmetics for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expert-picks-for-best-timelapse-tools-for-2024/"><u>[Updated] Expert Picks for Best Timelapse Tools for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/climate-change-law-seeks-to-mitigate-global-warming-by-regulating-greenhouse-gas-emissions-through-various-legal-mechanisms-including-market-based-approache43/"><u>Climate Change Law Seeks to Mitigate Global Warming by Regulating Greenhouse Gas Emissions Through Various Legal Mechanisms, Including Market-Based Approaches Like Cap-and-Trade Systems and Carbon Taxes.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-techniques-for-opening-rar-compressed-folders-on-a-mac/"><u>Expert Techniques for Opening .rar Compressed Folders on a Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-wireless-audio-with-dts-play-fi-explained/"><u>Exploring the World of Wireless Audio with DTS Play-Fi Explained</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-v-purse-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor V Purse Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/launch-your-content-with-free-intros-for-2024/"><u>Launch Your Content with Free Intros for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/list-of-ipads-with-integrated-gps-technology/"><u>List of iPads with Integrated GPS Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-invest-or-not-in-minecraft-realms-a-cost-benefit-analysis/"><u>To Invest or Not in Minecraft Realms: A Cost-Benefit Analysis.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-why-you-might-want-or-not-a-blu-ray-player/"><u>Understanding Why You Might Want (or Not) a Blu-Ray Player</u></a></li>
+</ul></div>
 

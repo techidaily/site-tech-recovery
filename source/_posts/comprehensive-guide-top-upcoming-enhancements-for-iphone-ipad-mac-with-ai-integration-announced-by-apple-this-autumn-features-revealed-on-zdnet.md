@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Top Upcoming Enhancements for iPhone, iPad, Mac with AI Integration Announced by Apple This Autumn - Features Revealed on ZDNet"
-date: 2024-10-14T16:53:44.848Z
-updated: 2024-10-19T17:03:16.837Z
+date: 2024-10-24T08:10:57.224Z
+updated: 2024-10-25T00:43:02.862Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -92,13 +99,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -136,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -168,16 +168,16 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -224,14 +224,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>[New] Breakthrough Technology for Screens ShowMore's Revolutionary Recorder</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-marketing-landscape-essential-strategies-for-newbies/"><u>[New] Navigating the Marketing Landscape Essential Strategies for Newbies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-perils-of-faux-youtube-supporter-purchases/"><u>[Updated] In 2024, The Perils of Faux YouTube Supporter Purchases</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-2023s-largest-threaded-video-compilation/"><u>2024 Approved 2023'S Largest Threaded Video Compilation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-facebook-how-it-started-why-users-love-it-and-essential-features/"><u>Exploring the World of Facebook: How It Started, Why Users Love It, and Essential Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-micromobility-scheduled-meetings-fresh-rumors-and-essential-knowledge/"><u>Navigating the World of Micromobility: Scheduled Meetings, Fresh Rumors, and Essential Knowledge</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revise-and-update-instagram-communications-a-complete-tutorial/"><u>Revise and Update Instagram Communications - A Complete Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-solving-the-missing-propstsysdll-error-on-windows-computers/"><u>Understanding and Solving the Missing Propstsys.dll Error on Windows Computers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unleash-your-marketing-potential-with-cookiebots-advanced-sem-solutions/"><u>Unleash Your Marketing Potential with Cookiebot's Advanced SEM Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-crafting-depth-3d-text-designs-in-illustrator-for-2024/"><u>[New] Crafting Depth 3D Text Designs in Illustrator for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-art-of-iphone-landscapes-pro-techniques-you-must-know-for-2024/"><u>[New] The Art of iPhone Landscapes Pro Techniques You Must Know for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-elevate-your-digital-self-with-memetic-skills-in-the-metaverse/"><u>2024 Approved How to Elevate Your Digital Self with Memetic Skills in the Metaverse</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-you-use-airpods-on-an-android-smartphone-or-tablet/"><u>Can You Use AirPods on an Android Smartphone or Tablet?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-right-apple-laptop-a-comprehensive-guide-on-picking-between-macbook-pro-and-macbook-air/"><u>Choosing the Right Apple Laptop: A Comprehensive Guide on Picking Between MacBook Pro and MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-iphones-13-and-14-making-the-right-choice-for-your-next-mobile-device-gadgetpundit/"><u>Comparing iPhones 13 and 14: Making the Right Choice for Your Next Mobile Device | GadgetPundit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-the-premier-stylus-tablets-of-202n-features-specs-and-expert-reviews-zettanet/"><u>Comprehensive Guide to the Premier Stylus Tablets of 202N - Features, Specs, and Expert Reviews | ZettaNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/developing-an-effective-training-strategy-insights-from-movavis-approach/"><u>Developing an Effective Training Strategy: Insights From Movavi's Approach</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-logitech-c615-webcam-a-deep-dive-into-its-value-and-functions/"><u>Exploring the Logitech C615 Webcam: A Deep Dive Into Its Value and Functions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gear-up-with-top-anker-chargers-featured-by-zdnet-perfect-match-for-new-iphones-coming-soon/"><u>Gear Up with Top Anker Chargers, Featured by ZDNet - Perfect Match for New iPhones Coming Soon!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-oculus-headset-up-and-running-latest-windows-11-10-8-and-7-drivers-download/"><u>Get Your Oculus Headset Up and Running: [Latest] Windows 11, 10, 8 & 7 Drivers Download</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y27-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y27 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-singing-alerts-crafting-and-configuring-customizable-sounds-and-ringtones-on-android/"><u>In 2024, Singing Alerts Crafting and Configuring Customizable Sounds & Ringtones on Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-time-for-an-iphone-16-pro-upgrade-comparing-features-with-the-iphone-cu-14-pro/"><u>Is It Time for an iPhone 16 Pro Upgrade? Comparing Features with the iPhone Cu 14 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-x50i-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor X50i – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/presidents-day-special-sale-secure-your-discounted-2023-macbook-air-for-300-less-zdnet-deals/"><u>President's Day Special Sale: Secure Your Discounted 2023 MacBook Air for $300 Less | ZDNET Deals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionizing-your-stay-apple-airplay-now-available-at-exclusive-hotels-understanding-the-game-changing-tech-on-tap/"><u>Revolutionizing Your Stay: Apple AirPlay Now Available at Exclusive Hotels - Understanding the Game-Changing Tech on Tap</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-notetaker-tablets-of-2024-comprehensive-reviews-and-comparisons/"><u>Top Notetaker Tablets of 2024 - Comprehensive Reviews & Comparisons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-selecting-the-ideal-case-for-your-new-iphone-16-and-pro-professional-opinions-and-top-picks-of-2024-zdnet/"><u>Ultimate Guide to Selecting the Ideal Case for Your New iPhone 16 & Pro: Professional Opinions and Top Picks of 2024 | ZDNet</u></a></li>
 </ul></div>
 

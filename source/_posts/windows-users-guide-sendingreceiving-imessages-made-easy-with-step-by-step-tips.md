@@ -1,7 +1,7 @@
 ---
 title: "Windows Users' Guide: Sending/Receiving iMessages Made Easy with Step-by-Step Tips"
-date: 2024-10-14T16:42:06.257Z
-updated: 2024-10-19T17:16:58.939Z
+date: 2024-10-24T08:36:19.941Z
+updated: 2024-10-25T05:02:38.080Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -64,10 +57,16 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -75,6 +74,13 @@ Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings,
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -92,6 +98,13 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -99,10 +112,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -111,27 +124,20 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Intel Unison
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
 
@@ -207,19 +213,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-harnessing-techniques-for-superior-pics-free-of-charge/"><u>[New] In 2024, Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-audio-alchemy-transforming-instagram-videos-with-sound/"><u>[Updated] 2024 Approved Audio Alchemy Transforming Instagram Videos with Sound</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-slow-motion-instagram-a-reel-guide/"><u>[Updated] In 2024, Mastering Slow-Motion Instagram A Reel Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-innovative-enhancements-stardew-valleys-top-7-choices/"><u>[Updated] Innovative Enhancements Stardew Valley's Top 7 Choices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-leading-8-software-for-linux-video-editors/"><u>[Updated] Leading 8 Software for Linux Video Editors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-strength-in-the-omotein-t1-tablet-mount-our-comprehensive-review/"><u>Affordable Strength in the Omotein T1 Tablet Mount - Our Comprehensive Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-uninstalling-the-copilot-feature-in-windows-11/"><u>Expert Tips for Uninstalling the Copilot Feature in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-solve-dragon-age-origins-problems-with-windows-11-compatibility/"><u>How to Prevent and Solve Dragon Age: Origins Problems with Windows 11 Compatibility</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-upload-and-backup-your-google-images-onto-icloud-services/"><u>How to Upload and Backup Your Google Images Onto iCloud Services</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-subtitles-the-ultimate-guide-to-free-tools/"><u>In 2024, Mastering Subtitles The Ultimate Guide to FREE Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sony-psvr-2-update-unlocking-insights-into-cost-availability-timeline-and-device-features/"><u>Sony PSVR 2 Update: Unlocking Insights Into Cost, Availability Timeline & Device Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-gaining-a-blue-checkmark-on-instagram/"><u>The Ultimate Guide to Gaining a Blue Checkmark on Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-fixing-not-found-msidll-file-problems/"><u>Troubleshooting Steps for Fixing 'Not Found' msi.dll File Problems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-fabletellers-fellowship-esteemed-ensemble/"><u>[Updated] 2024 Approved Fabletellers Fellowship – Esteemed Ensemble</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-exclusive-list-of-smartphone-apps-for-changing-vocal-expression/"><u>2024 Approved Exclusive List of Smartphone Apps for Changing Vocal Expression</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tips-for-procuring-high-quality-background-imagery/"><u>2024 Approved Top Tips for Procuring High-Quality Background Imagery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazons-must-have-products-and-steals-for-august-2024-a-comprehensive-guide-digitaltimes/"><u>Amazon's Must-Have Products & Steals for August 2024: A Comprehensive Guide | DigitalTimes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-tecno-pova-6-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Tecno Pova 6 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-the-m4-powered-minuscule-new-mac-mini-match-the-efficiency-of-an-apple-tv-insights-from-zdnet/"><u>Can the M4-Powered, Minuscule New Mac Mini Match the Efficiency of an Apple TV? Insights From ZDNet.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-reverse-videos-on-android/"><u>How to Reverse Videos on Android?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-7-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 7 How to Bypass?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-what-to-expect-from-nothing-phone-3-specs-release-date-and-potential-costs/"><u>In-Depth Analysis: What to Expect From 'Nothing Phone 3' - Specs, Release Date & Potential Costs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-14-showdown-pro-vs-pro-max-which-device-makes-the-cut-for-your-upgrade-gadgetpundit/"><u>IPhone 14 Showdown: Pro vs Pro Max – Which Device Makes the Cut for Your Upgrade? | GadgetPundit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-15-analysis-top-features-that-impress-even-seasoned-pros-a-comprehensive-guide/"><u>IPhone 15 Analysis: Top Features That Impress Even Seasoned Pros - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-workflow-on-mac-with-montereys-custom-focus-modes-to-minimize-distractions-zdnet/"><u>Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revitalized-features-for-the-budget-friendly-apple-watch-se-in-pipeline/"><u>Revitalized Features for the Budget-Friendly Apple Watch SE in Pipeline?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/save-big-snag-your-new-ipad-at-only-199-in-exclusive-offers-on-amazons-labor-day-event-insights-from-zdnet/"><u>Save Big: Snag Your New iPad at Only $199 in Exclusive Offers on Amazon's Labor Day Event - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/signal-id-video-overview-width-x-height-encoding-minutes-for-2024/"><u>Signal ID Video Overview Width X Height, Encoding, Minutes for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-choosing-the-right-ipad-expertly-tested-reviewed-and-ranked/"><u>The Ultimate Guide to Choosing the Right iPad : Expertly Tested, Reviewed and Ranked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-differences-in-depth-review-of-apples-homepod-vs-homepod-mini-for-consumers/"><u>Unveiling the Differences: In-Depth Review of Apple's HomePod vs HomePod Mini for Consumers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-best-free-video-upload-sites-for-online-presence-and-visibility/"><u>Updated 10 Best Free Video Upload Sites for Online Presence and Visibility</u></a></li>
 </ul></div>
 

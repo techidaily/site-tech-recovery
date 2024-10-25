@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2024-10-18T16:27:42.128Z
-updated: 2024-10-19T16:58:46.496Z
+date: 2024-10-20T11:17:32.992Z
+updated: 2024-10-25T12:16:39.694Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -127,10 +127,10 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -142,13 +142,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -163,10 +156,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -180,6 +173,19 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -220,24 +226,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-an-introductory-guide-to-navigating-your-way-through-zoom-webinars/"><u>[Updated] 2024 Approved An Introductory Guide to Navigating Your Way Through Zoom Webinars</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-windows-10-advanced-screen-recorder-software/"><u>[Updated] 2024 Approved Windows 10 Advanced Screen Recorder Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-taking-your-reels-up-a-notch-with-these-top-editors/"><u>[Updated] Taking Your Reels Up a Notch with These Top Editors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/can-the-iphone-15-handle-accidental-dives-understanding-its-moisture-protection-levels/"><u>Can the iPhone 15 Handle Accidental Dives? Understanding Its Moisture Protection Levels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craftsmanship-in-podcast-visuals-the-essentials-for-2024/"><u>Craftsmanship in Podcast Visuals The Essentials for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-no-power-situations-in-roku-televisions/"><u>Diagnosing and Repairing No-Power Situations in Roku Televisions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-spots-to-get-your-favorite-songs-online/"><u>Discover the Best Free Spots to Get Your Favorite Songs Online</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-guide-overcoming-beat-sabers-persistent-crashing-problem/"><u>Expert Guide: Overcoming Beat Saber's Persistent Crashing Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-feasibility-of-operating-multiple-channels-within-youtubes-guidelines/"><u>Exploring the Feasibility Of Operating Multiple Channels Within YouTube's Guidelines</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-top-11-kid-vlogging-cameras-perfectly-washable-and-user-friendly/"><u>In 2024, Top 11 Kid Vlogging Cameras, Perfectly Washable & User-Friendly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-ordering-an-uber-a-smart-money-saving-choice-compared-to-taxi-services/"><u>Is Ordering an Uber a Smart Money-Saving Choice Compared to Taxi Services?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/large-softbox-lighting-from-studiofx-rated-high/"><u>Large Softbox Lighting From StudioFX Rated High</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-wayback-machine-a-comprehensive-tutorial-on-archiving-web-pages/"><u>Mastering the Wayback Machine: A Comprehensive Tutorial on Archiving Web Pages</u></a></li>
-<li><a href="https://windows11.techidaily.com/opera-stuck-quick-window-fixes-to-unlock/"><u>Opera Stuck? Quick Window Fixes to Unlock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simplify-streaming-expert-techniques-for-linking-a-firestick-remote/"><u>Simplify Streaming: Expert Techniques for Linking a Firestick Remote</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-green-myths-and-realities-surrounding-electric-vehicles/"><u>The Green Myths and Realities Surrounding Electric Vehicles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-the-power-of-books-with-these-best-ai-based-reading-platforms/"><u>Unleash the Power of Books with These Best AI-Based Reading Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-coming-with-ios-eighteen-release-timeline-pricing-info-free-essential-features-and-latest-news/"><u>What's Coming with iOS Eighteen? Release Timeline, Pricing Info (Free), Essential Features, and Latest News</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unveiling-standout-cinematography-experts/"><u>[New] 2024 Approved Unveiling Standout Cinematography Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-vantage-point-critique/"><u>[Updated] Vantage Point Critique</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-long-lasting-power-discover-why-the-iphone-14-plus-is-your-best-value-pick/"><u>Affordable Long-Lasting Power: Discover Why the IPhone 14 Plus Is Your Best Value Pick</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/alight-motion-comprehensive-review-for-2024/"><u>Alight Motion Comprehensive Review for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/declutter-your-mailbox-instantly-one-trick-for-cleaner-communications/"><u>Declutter Your Mailbox Instantly - One Trick for Cleaner Communications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-review-discovering-superior-alternatives-the-top-non-apple-non-tile-wallet-airtag/"><u>Expert Review: Discovering Superior Alternatives - The Top Non-Apple, Non-Tile Wallet AirTag</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-universal-control-seamlessly-linking-your-ipad-and-mac-with-apples-magic-feature-a-comprehensive-guide/"><u>Mastering Universal Control: Seamlessly Linking Your iPad and Mac with Apple’s Magic Feature - A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-make-movies-like-a-pro-insider-secrets-for-achieving-professional-results/"><u>New In 2024, Make Movies Like a Pro Insider Secrets for Achieving Professional Results</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rethinking-the-need-for-an-iphone-16-insights-into-apple-innovation/"><u>Rethinking the Need for an iPhone 16? Insights Into Apple Innovation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/switching-sides-how-the-top-3-iphone-16-innovations-could-attract-android-loyalists-techinsight/"><u>Switching Sides: How the Top 3 iPhone 16 Innovations Could Attract Android Loyalists | TechInsight</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-apple-watch-ultra-2-how-its-features-make-it-a-top-choice-for-me-now-at-100-off-expert-review-by-zdnet/"><u>The Apple Watch Ultra 2: How Its Features Make It a Top Choice for Me, Now at $100 Off - Expert Review by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-technical-snag-with-displayport-21-and-ultra-high-speed-cables-decoding-why-nvidia-stuck-with-dp-14-in-their-new-rtx-series/"><u>The Technical Snag with DisplayPort 2.1 and Ultra High-Speed Cables: Decoding Why Nvidia Stuck With DP 1.4 in Their New RTX Series</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-video-effects-handbook-tips-and-tricks/"><u>The Ultimate Video Effects Handbook Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-elite-iphones-of-2eplusoo-rigorously-tested-by-professionals-detailed-insights-from-zdnet/"><u>Unveiling the Elite iPhones of 2E+oo: Rigorously Tested by Professionals, Detailed Insights From ZDNET</u></a></li>
 </ul></div>
 

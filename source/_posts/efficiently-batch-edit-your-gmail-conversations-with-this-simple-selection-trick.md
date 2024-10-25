@@ -1,7 +1,7 @@
 ---
 title: Efficiently Batch Edit Your Gmail Conversations with This Simple Selection Trick
-date: 2024-09-12T19:45:30.571Z
-updated: 2024-09-15T17:29:18.572Z
+date: 2024-10-22T03:47:45.609Z
+updated: 2024-10-24T17:01:50.554Z
 categories:
   - BestProducts
 description: This Article Describes Efficiently Batch Edit Your Gmail Conversations with This Simple Selection Trick
@@ -18,6 +18,19 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  This article explains how to select every Gmail email at once from the desktop website. Doing so lets you apply a new label to the selected messages, bulk-delete emails,[mark them as read](https://www.lifewire.com/how-to-mark-email-read-in-gmail-1171945) , and more.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select All Emails in Gmail
 
  Once you find the emails you want to manage, highlighting all of them is a simple, two-step process.
@@ -26,6 +39,14 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 2. Right below the search bar and above your emails, click the**checkbox** to select all the messages that are currently displayed. Or, select the**arrow** next to this checkbox to choose the types of emails to be selected, such as Read, Unread, Starred, or Unstarred.  
 ![Screenshot of Select All button in Gmail](https://www.lifewire.com/thmb/nDxAo7ifTPWhhJHpwNwtDS2jSIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_select-all-messages-in-a-gmail-label-collection-or-search-1172098-5baea535c9e77c002636c2bc.jpg)  
  At this point, you have only selected the messages that are visible on the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. To select every email in Gmail, including those that are not currently displayed, look at the top of your email list for an additional button, and select it. It look like this:**Select all \[#\] conversations in \[label\]** .  
 ![A list of emails selected in Gmail](https://www.lifewire.com/thmb/4VAxqfY1MDMB8VrzP3z18uSp99Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-gmail-messages-59c38ca927ab46cbb225ebda805c03cc.png)
 
@@ -41,16 +62,17 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 ![Gmail emails highlighted from a search](https://www.lifewire.com/thmb/n2qAQZOsSxNaeRsOvsrHDnmIFoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-conversations-match-search-b3214279e6b44aa89ebcfb82199b23f9.png)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Can Do With Selected Emails
@@ -112,5 +134,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snap-your-way-unique-discover-over-120-private-story-creation-tips-and-tricks/"><u>[Updated] Snap Your Way Unique Discover over 120 Private Story Creation Tips and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategies-to-acquire-top-notch-hdr-cameras/"><u>[Updated] Strategies to Acquire Top-Notch HDR Cameras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-your-ps5s-performance-tips-for-consistently-hitting-120-frames-per-second-in-games/"><u>Boosting Your PS5's Performance: Tips for Consistently Hitting 120 Frames Per Second in Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-mozillas-thunderbird-email-client-version-52-now-available/"><u>Download Mozilla's Thunderbird Email Client, Version 52 Now Available</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-in-on-the-action-anticipating-price-launch-date-and-specs-of-new-apple-listening-innovation/"><u>Get in on the Action: Anticipating Price, Launch Date, and Specs of New Apple Listening Innovation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-switch-on-and-off-touch-typing-tool-in-your-pcs-operating-system/"><u>How to Switch on and Off Touch Typing Tool in Your PC's Operating System</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-captivate-convince-and-connect-explore-the-top-20-tiktok-caption-tricks/"><u>In 2024, Captivate, Convince, and Connect Explore the Top 20 TikTok Caption Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-gmail-how-to-bulk-delete-all-messages-in-the-mobile-version/"><u>Mastering Gmail: How to Bulk Delete All Messages in the Mobile Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fast-shutdowns-in-windows-11-top-strategies-to-try-now/"><u>Mastering the Art of Fast Shutdowns in Windows 11: Top Strategies to Try Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signature-for-pdf-v13-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Online signature for PDF v1.3 document</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-guide-to-setting-up-rules-in-gmail-for-efficient-management/"><u>The Comprehensive Guide to Setting Up Rules in Gmail for Efficient Management</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-5-free-tools-to-combine-mpeg-videos-for-2024/"><u>Updated Best 5 Free Tools to Combine MPEG Videos for 2024</u></a></li>
+</ul></div>
 

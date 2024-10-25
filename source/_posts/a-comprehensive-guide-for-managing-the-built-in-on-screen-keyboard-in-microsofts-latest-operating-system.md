@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide for Managing the Built-In On-Screen Keyboard in Microsoft's Latest Operating System
-date: 2024-09-10T19:20:24.143Z
-updated: 2024-09-15T16:39:35.641Z
+date: 2024-10-19T20:16:07.100Z
+updated: 2024-10-25T10:25:17.954Z
 categories:
   - BestProducts
 description: This Article Describes A Comprehensive Guide for Managing the Built-In On-Screen Keyboard in Microsoft's Latest Operating System
@@ -60,13 +60,6 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -74,6 +67,13 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
  If you like to know your computer intimately, purchasing a pre-built PC might not be the way to go. Since the manufacturer decides the components, you probably won't do a ton of research to know each part in the system. With this, there will be less customization. So, if you want in-depth knowledge of your computer and need to fine-tune it to your needs, a pre-made system probably won't serve you well.
 
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
 
@@ -90,6 +90,13 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -102,13 +109,6 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -119,20 +119,27 @@ thumbnail: https://www.lifewire.com/thmb/k3_1sospmHadLdMZjMmUrMcPTnI=/400x300/fi
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
-Lifewire / Julie Bang
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Lifewire / Julie Bang
 
 ## How to Build a Computer
 
@@ -175,5 +182,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-flip-and-flash-unveiling-the-power-of-instagrams-angled-photos/"><u>[New] 2024 Approved Flip and Flash Unveiling the Power of Instagram's Angled Photos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-pixelpioneer-creating-collages-for-instagramplusdevices/"><u>[Updated] 2024 Approved PixelPioneer Creating Collages for Instagram+Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-viewers-prime-video-ideas-for-channels/"><u>[Updated] In 2024, Elevating Viewers Prime Video Ideas for Channels</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722885403861-best-educational-apps-for-students-in-high-school-the-ultimate-list/"><u>Best Educational Apps for Students in High School - The Ultimate List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-ai-text-detection-technique-of-gptzero/"><u>Deciphering the AI Text Detection Technique of GPTZero</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-ussd-what-you-need-to-know-about-unstructured-supplementary-service-data/"><u>Exploring USSD: What You Need to Know About Unstructured Supplementary Service Data</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/follow-the-buzz-best-twitter-tools-for-monitoring-popular-hashtags/"><u>Follow the Buzz: Best Twitter Tools for Monitoring Popular Hashtags</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-price-projections-graphics-cards-to-rise/"><u>Future Price Projections: Graphics Cards to Rise?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/germans-premier-learning-portal-mondly-emerges-victorious/"><u>German's Premier Learning Portal - Mondly Emerges Victorious</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-minecraft-freezing-caused-by-incompatible-windows-graphic-drivers-guide/"><u>How to Fix Minecraft Freezing Caused by Incompatible Windows Graphic Drivers (Guide)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps4-wireless-controller-syncing-made-simple-expert-techniques-revealed/"><u>PS4 Wireless Controller Syncing Made Simple: Expert Techniques Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-guide-to-differentiating-ipads-from-various-tablet-models/"><u>The Essential Guide to Differentiating iPads From Various Tablet Models</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-logitech-brio-webcam-drivers-for-win11-win8win7-free-download-links/"><u>Updated Logitech Brio Webcam Drivers for Win11, Win8/Win7 - Free Download Links</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-sound-forward-enrich-your-mp3s-with-these-basic-editing-advice-for-2024/"><u>Updated Sound Forward Enrich Your MP3s with These Basic Editing Advice for 2024</u></a></li>
+</ul></div>
 

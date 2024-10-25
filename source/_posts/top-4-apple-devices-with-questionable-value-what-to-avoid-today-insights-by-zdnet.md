@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet"
-date: 2024-10-18T16:19:11.627Z
-updated: 2024-10-19T17:22:38.026Z
+date: 2024-10-21T07:23:07.078Z
+updated: 2024-10-24T23:19:29.566Z
 tags:
   - apple
 categories:
@@ -57,20 +57,14 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **The 'Nice' list**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
 
@@ -80,6 +74,13 @@ Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Apple Watch Series 10**
 
 Apple Watch Series 10
@@ -87,13 +88,6 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -123,13 +117,6 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
 This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M3 to the [insanely powerful M3 Max](https://www.zdnet.com/article/apples-m3-m3-pro-and-m3-max-chipsets-everything-you-should-know-before-buying/). Here are the specs:
@@ -145,6 +132,13 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -159,6 +153,19 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -180,13 +187,6 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -228,15 +228,20 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-picture-purity-erasing-images-excesses/"><u>[Updated] The Ultimate Guide to Picture Purity Erasing Images' Excesses</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>In 2024, The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/maximizing-your-time-free-countdown-essentials-for-2024/"><u>Maximizing Your Time Free Countdown Essentials for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overwatch-graphic-glitch-fixed-enhanced-gaming-experience-with-updated-drivers/"><u>Overwatch Graphic Glitch Fixed: Enhanced Gaming Experience with Updated Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-upgrading-your-pc-with-the-latest-graphics-card/"><u>Step-by-Step Guide: Upgrading Your PC with the Latest Graphics Card</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-connecting-keyboard-and-mouse-to-ps4-gaming-system/"><u>Step-By-Step Tutorial for Connecting Keyboard and Mouse to PS4 Gaming System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/successful-guide-how-to-install-directx-12-on-windows-10/"><u>Successful Guide: How to Install DirectX 12 on Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-when-your-logitech-c922-hd-pro-camera-fails/"><u>Troubleshooting Steps for When Your Logitech C922 HD Pro Camera Fails</u></a></li>
-<li><a href="https://games-able.techidaily.com/wi-fi-free-the-creme-de-la-creme-of-mobile-gaming-on-idevices/"><u>Wi-Fi Free: The Crème De La Créme of Mobile Gaming on iDevices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/youtube-universe-uproar/"><u>YouTube Universe Uproar</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-essential-top-10-live-streamers-android-and-iphone-edition/"><u>[New] Essential Top 10 Live Streamers Android & iPhone Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-audio-equipment-matched-with-4k-cameras/"><u>[Updated] Best Audio Equipment Matched with 4K Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-deciphering-your-ideal-vr-equipment-preference-for-portable-mobile-or-plugged-in-tethered/"><u>2024 Approved Deciphering Your Ideal VR Equipment Preference for Portable (Mobile) or Plugged-In (Tethered)?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>2024 Approved Direct YouTube Tunes to MP3s Online & Offline Options</u></a></li>
+<li><a href="https://article-files.techidaily.com/efficient-strategies-for-posting-srt-files-to-social-media/"><u>Efficient Strategies for Posting SRT Files to Social Media</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-multitasking-activating-androids-picture-in-picture-feature-effortlessly/"><u>Enhancing Multitasking: Activating Android's Picture-in-Picture Feature Effortlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-advanced-security-at-a-bargain-75-tp-link-tapo-video-doorbell-featuring-intelligent-detection-zero-monthly-fee-offer-secure-your-code-now/"><u>Get Advanced Security at a Bargain: $75 TP-Link Tapo Video Doorbell Featuring Intelligent Detection, Zero Monthly Fee Offer - Secure Your Code Now!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y78t-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y78t</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-mini-vs-ipad-air-whats-the-difference/"><u>IPad Mini vs iPad Air: What's the Difference?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-12-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme 12 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rtx-6000-nvidia-driver-downloads/"><u>RTX 6000 NVIDIA Driver Downloads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-adding-expressive-gif-reactions-to-your-instagram-comments/"><u>The Ultimate Tutorial: Adding Expressive GIF Reactions to Your Instagram Comments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-must-watch-teen-films-streaming-on-netflix-now/"><u>Top 5 Must-Watch Teen Films Streaming on Netflix Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/track-down-gone-away-numbers-a-guide-to-recovering-deletions-on-android-devices/"><u>Track Down Gone-Away Numbers: A Guide to Recovering Deletions on Android Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-ebook-purchases-a-users-guide-to-utilizing-the-books-app-on-apple-tablets-and-phones/"><u>Unlocking eBook Purchases: A User’s Guide to Utilizing the Books App on Apple Tablets and Phones</u></a></li>
 </ul></div>
 

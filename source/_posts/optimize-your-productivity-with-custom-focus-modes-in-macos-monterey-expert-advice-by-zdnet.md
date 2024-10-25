@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Productivity with Custom Focus Modes in macOS Monterey | Expert Advice by ZDNET
-date: 2024-10-18T16:15:41.486Z
-updated: 2024-10-19T16:34:37.418Z
+date: 2024-10-18T02:50:42.588Z
+updated: 2024-10-25T05:11:08.986Z
 tags:
   - apple
 categories:
@@ -29,15 +29,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -56,10 +63,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -78,13 +85,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -100,10 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,21 +148,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-silverleaf-studio-exploring-lightroom-substitutes/"><u>2024 Approved Silverleaf Studio Exploring Lightroom Substitutes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/breaking-down-pcl-xl-error-fixes/"><u>Breaking Down PCL XL Error Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dragon-ball-marathon-method-how-to-experience-the-anime-from-start-to-finish/"><u>Dragon Ball Marathon Method: How to Experience the Anime From Start to Finish</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ting-engagement-best-video-ideas-for-channels/"><u>Elevating Engagement Best Video Ideas for Channels</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a05-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A05 Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-stop-0x0000001d-nospinlockavailable/"><u>How to Fix STOP 0X0000001D (NO_SPIN_LOCK_AVAILABLE)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-razer-kraken-microphone-up-and-running-again/"><u>How to Get Your Razer Kraken Microphone Up and Running Again</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-f23-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo F23 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-20-unlimited-cloud-storage-solutions-up-to-1tb/"><u>In 2024, Top 20 Unlimited Cloud Storage Solutions, Up To 1TB</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/personalized-computing-choices-is-building-or-shopping-for-a-new-pc-best-for-you/"><u>Personalized Computing Choices: Is Building Or Shopping For A New PC Best for You?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-controller-woes-fix-the-non-charging-issue-in-minutes/"><u>PS5 Controller Woes? Fix the Non-Charging Issue in Minutes!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reap-benefits-of-new-gpu-driver-for-gtx-1050-ti/"><u>Reap Benefits of New GPU Driver for GTX 1050 Ti</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rescue-your-missing-texts-comprehensive-techniques-for-every-smartphone/"><u>Rescue Your Missing Texts: Comprehensive Techniques for Every Smartphone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-battle-of-apple-tabs-analyzing-the-contrasts-between-ipad-mini-and-ipad-air/"><u>The Battle of Apple Tabs: Analyzing the Contrasts Between iPad Mini & iPad Air</u></a></li>
-<li><a href="https://some-tips.techidaily.com/troubleshoot-flaky-airdrop-links-simple-steps-to-solutions-for-2024/"><u>Troubleshoot Flaky AirDrop Links Simple Steps to Solutions for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-resolving-missing-mscorwksdll-error-messages/"><u>Troubleshooting Tips for Resolving ‘Missing mscorwks.dll’ Error Messages</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-exclusive-guide-10-immersive-youtube-vr-films/"><u>[New] In 2024, Exclusive Guide 10 Immersive YouTube VR Films</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-simplified-background-editing-in-google-meet-chats-for-2024/"><u>[Updated] Simplified Background Editing in Google Meet Chats for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-on-purging-stored-videos-from-youtube-watchlater/"><u>2024 Approved Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m1v-moovavis/"><u>無障礙直接下載 M1V格式 - Moovavis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-steps-to-swap-out-your-old-ipads-power-source/"><u>Complete Guide: Steps to Swap Out Your Old iPad's Power Source</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-securely-delete-the-lock-screen-access-code-on-windows-n-operating-system/"><u>How to Securely Delete the Lock Screen Access Code on Windows N Operating System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>In 2024, Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-resolution-of-kernel-buffer-overflow-issues-expert-tips-and-techniques/"><u>Mastering the Resolution of Kernel Buffer Overflow Issues: Expert Tips & Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-struggles-heres-how-to-get-smooth-streaming-again/"><u>Netflix Struggles? Here's How to Get Smooth Streaming Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-setup-integrating-playstation-vr-into-your-pc-gaming-rig/"><u>Seamless Setup: Integrating PlayStation VR Into Your PC Gaming Rig</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smart-texting-strategies-to-save-on-mobile-data/"><u>Smart Texting Strategies to Save on Mobile Data</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y28-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y28 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-restoring-default-settings-on-your-samsung-soundbar/"><u>Troubleshooting Tips: Restoring Default Settings on Your Samsung Soundbar</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unprecedented-ar-app-with-vocal-recognition/"><u>Unprecedented AR App with Vocal Recognition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/web-superstars-exploring-the-top-1-must-visit-sites-across-the-internet/"><u>Web Superstars: Exploring the Top 1# Must-Visit Sites Across the Internet</u></a></li>
 </ul></div>
 

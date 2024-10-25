@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2024-10-13T17:05:34.454Z
-updated: 2024-10-19T16:32:54.217Z
+date: 2024-10-21T07:15:47.362Z
+updated: 2024-10-24T19:39:07.030Z
 tags:
   - apple
 categories:
@@ -44,16 +44,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,10 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,17 +130,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-breakdown-vsco-photography-tools/"><u>[Updated] Comprehensive Breakdown VSCO Photography Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-monetization-a-cpm-perspective/"><u>[Updated] Mastering YouTube Monetization A CPM Perspective</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-new-era-facebook-video-autoplay-explained-for-2024/"><u>[Updated] The New Era Facebook Video Autoplay Explained for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-secret-technique-for-instantaneous-deletion-of-youtube-discussions-for-2024/"><u>[Updated] The Secret Technique for Instantaneous Deletion of Youtube Discussions for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-master-tweet-management-ultimate-list-of-unfollow-aids/"><u>2024 Approved Master Tweet Management Ultimate List of Unfollow Aids</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/airpod-woes-learn-how-to-effectively-reset-your-earbuds-and-restore-connection/"><u>AirPod Woes? Learn How to Effectively Reset Your Earbuds and Restore Connection</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-google-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Google Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-look-the-next-generation-samsung-galaxy-z-fold-6-pricing-strategy-and-release-insights/"><u>Inside Look: The Next Generation Samsung Galaxy Z Fold 6 – Pricing Strategy & Release Insights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/multitasking-mastery-activities-while-embracing-soundtracks-for-2024/"><u>Multitasking Mastery Activities While Embracing Soundtracks for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-customizing-text-appearance-on-windows-11/"><u>Step-by-Step Guide: Customizing Text Appearance on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/swift-navigation-strategies-how-to-harness-minecrafts-teleport-command-for-fast-paced-gameplay/"><u>Swift Navigation Strategies: How to Harness Minecraft's Teleport Command for Fast-Paced Gameplay</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-your-mobile-network-provider-what-is-a-phone-carrier/"><u>Understanding Your Mobile Network Provider: What Is a Phone Carrier?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-find-youtube-collaboration-partners/"><u>[New] 2024 Approved How to Find YouTube Collaboration Partners?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ave-while-you-teach-hosting-low-cost-seminars-via-youtube/"><u>[New] Save While You Teach Hosting Low-Cost Seminars via YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speedy-sound-solutions-for-smartphone-users/"><u>[New] Speedy Sound Solutions for Smartphone Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avchdmp4/"><u>「無料・劣化なし! AVCHDフォーマットをMP4に簡単に変換するオンラインアプリ」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-transforme-seu-arquivo-ifo-em-mp4-tecnicas-facilmente-compreensiveis-para-pc-e-mac/"><u>1. Transforme Seu Arquivo IFO Em MP4: Técnicas Facilmente Compreensíveis Para PC E Mac</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-canon-pro-100-printer-setup-for-windows-the-quick-guide/"><u>Easy Canon PRO 100 Printer Setup for Windows: The Quick Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-rate-text-animation-setups-for-2024/"><u>First-Rate Text Animation Setups for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-mp4-video-encoders-of-2023-a-comprehensive-guide-on-converting-your-videos/"><u>Top Rated MP4 Video Encoders of 2023: A Comprehensive Guide on Converting Your Videos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/usb-c-gaming-dock-by-razer-evaluated-perfect-companion-device-for-mobile-players/"><u>USB-C Gaming Dock by Razer Evaluated: Perfect Companion Device for Mobile Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/videtodvd-expertise-in-vervanging-vhs-banden-met-digitale-convertereigenaars/"><u>VidetoDVD: Expertise in Vervanging VHS-Banden Met Digitale Convertereigenaars</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726225415132-vob-mpeg-movavi/"><u>무료 온라인 VOB MPEG 변환: Movavi로 각성하세요!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/web-gratis-tta-movavi/"><u>제공된 자동화를 사용하여 Web上で Gratis TTA 변환: Movavi 지원</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movaviand/"><u>インフルエンサーが選ぶ最強ツール - Movaviソフトウェア紹介&評価</u></a></li>
 </ul></div>
 

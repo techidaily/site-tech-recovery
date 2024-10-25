@@ -1,7 +1,7 @@
 ---
 title: "To Upgrade or Not: Pros & Cons of Switching to iPhone 16, According to Expert Reviewers at ZDNet"
-date: 2024-10-15T17:03:01.391Z
-updated: 2024-10-19T17:22:11.466Z
+date: 2024-10-18T18:58:11.321Z
+updated: 2024-10-24T20:44:18.212Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -53,6 +53,13 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -66,10 +73,10 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -95,10 +102,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
@@ -122,13 +129,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -176,19 +176,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-battle-of-screen-capture-supremacy-obs-vs-fraps/"><u>[New] 2024 Approved The Battle of Screen Capture Supremacy OBS vs Fraps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-enhancing-visual-detail-in-videoleap-videos-for-2024/"><u>[New] Enhancing Visual Detail in Videoleap Videos for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-next-level-game-capture-strategies-for-high-definition-quality/"><u>2024 Approved Next-Level Game Capture Strategies for High Definition Quality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/5-easy-ways-to-keep-an-eye-on-your-online-bandwidth-spending/"><u>5 Easy Ways to Keep an Eye on Your Online Bandwidth Spending</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/friend-battles-and-buddy-adventures-essential-techniques-for-a-shared-journey-in-pokemon-go/"><u>Friend Battles and Buddy Adventures: Essential Techniques for a Shared Journey in Pokémon GO</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-10-best-youtube-makeup-artists-you-must-have-heard/"><u>In 2024, 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-soundtrack-of-successful-snapchat-stories/"><u>In 2024, The Soundtrack of Successful Snapchat Stories</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-pc-troubleshooting-how-to-fix-windows-update-setup-failures/"><u>Mastering PC Troubleshooting: How to Fix Windows Update Setup Failures</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-flv-wmv-movavi/"><u>Online 자리에서 가장 금쪽한 FLV, WMV 포맷터를 제공합니다 - Movavi 변환</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/star-trek-movie-marathon-the-ultimate-order-to-experience-them-all/"><u>Star Trek Movie Marathon: The Ultimate Order to Experience Them All</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-next-generation-of-aerial-artistry-with-bebops-parrot-2/"><u>The Next Generation of Aerial Artistry with Bebop's Parrot 2</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/twitch-and-two-factor-authentication-secure-your-account-today/"><u>Twitch and Two-Factor Authentication: Secure Your Account Today!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-on-building-a-homemade-projector-screen/"><u>Ultimate Tutorial on Building a Homemade Projector Screen</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-exploring-better-video-encoding-av1s-challenge-to-vp9/"><u>[New] 2024 Approved Exploring Better Video Encoding AV1's Challenge to VP9</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-digital-photo-albums-acoustic-advancement-for-2024/"><u>[Updated] Digital Photo Albums Acoustic Advancement for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-profiles-in-metaverse-promotion-case-studies-and-more/"><u>[Updated] Profiles in Metaverse Promotion Case Studies and More</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook/"><u>2024 Approved How to Set Up Smooth Transitions YouTube Content Playback on Facebook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-razr-40-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola Razr 40 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726218793272-movavi/"><u>史詩級指南：線上直播與電腦屏幕錄影教學 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726226342238-m1vmp4-movavi/"><u>無料で簡単! M1VからMP4へのスムーズなオンライン変換 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tutorial-on-editing-videos-efficiently-using-adobe-after-effects-software/"><u>Expert Tutorial on Editing Videos Efficiently Using Adobe After Effects Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-8-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 8 Prowith/without a PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-audio-file-transformation-change-m4b-to-wav-for-free-by-using-movavis-service/"><u>Online Audio File Transformation: Change M4B to WAV for Free by Using Movavi's Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-free-converter-transform-m4r-files-into-mp4-format-with-movavi/"><u>Online Free Converter: Transform M4R Files Into MP4 Format with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/os-top-16-aplicativos-ideais-para-captura-de-tela-no-sistema-operacional-windows-10/"><u>Os Top 16 Aplicativos Ideais Para Captura De Tela No Sistema Operacional Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/prime-pickups-for-novice-gopro-owners/"><u>Prime Pickups for Novice GoPro Owners</u></a></li>
 </ul></div>
 

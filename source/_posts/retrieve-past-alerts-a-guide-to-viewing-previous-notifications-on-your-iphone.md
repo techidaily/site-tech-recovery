@@ -1,7 +1,7 @@
 ---
 title: "Retrieve Past Alerts: A Guide to Viewing Previous Notifications on Your iPhone"
-date: 2024-09-11T22:54:14.109Z
-updated: 2024-09-15T20:46:35.913Z
+date: 2024-10-24T07:22:46.231Z
+updated: 2024-10-24T23:30:35.999Z
 categories:
   - BestProducts
 description: "This Article Describes Retrieve Past Alerts: A Guide to Viewing Previous Notifications on Your iPhone"
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Awkward Potion Recipe  
 
  Here are the materials required to brew an Awkward Potion in Minecraft:  
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 * 1 Blaze Powder (craft with 1 Blaze Rod)  
 * 1 Water Bottle  
 * 1 Nether Wart  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does an Awkward Potion Do in Minecraft?  
 
@@ -92,12 +106,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-selecting-superior-free-srt-translation-apps-today/"><u>[Updated] In 2024, Selecting Superior Free SRT Translation Apps Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-7-alarm-clock-apps-available-today/"><u>Discover the Best 7 Alarm Clock Apps Available Today</u></a></li>
+<li><a href="https://win11.techidaily.com/discretions-domain-the-art-of-silencing-windows-11/"><u>Discretion's Domain: The Art of Silencing Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correct-missing-or-inaccessible-winhttpdll-errors-efficiently/"><u>How to Correct Missing or Inaccessible Winhttp.dll Errors Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-your-stadia-headset-wont-connect/"><u>How to Fix It When Your Stadia Headset Won't Connect</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nokia-c22-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nokia C22</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-experts-choice-top-6-software-solutions-for-signature-erasure/"><u>In 2024, Expert's Choice Top 6 Software Solutions for Signature Erasure</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-secrets-of-capturing-high-quality-xbox-games-on-screen/"><u>In 2024, Secrets of Capturing High-Quality Xbox Games on Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-heat-management-how-to-accurately-check-your-laptops-temperature/"><u>MacBook Heat Management: How to Accurately Check Your Laptop's Temperature</u></a></li>
+<li><a href="https://fox-info.techidaily.com/merge-soundtracks-and-cinematography-in-premiere-pro-for-2024/"><u>Merge Soundtracks and Cinematography in Premiere Pro for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-addressing-and-correcting-kernel32dll-complications-in-windows/"><u>The Ultimate Fix: Addressing and Correcting Kernel32.dll Complications in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-redmi-12-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi Redmi 12 Location | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transforma-archivos-swf-con-sonido-libre-y-sin-costo-en-formatos-mp3-soluciones-efectivas-en-linea/"><u>Transforma Archivos SWF Con Sonido Libre Y Sin Costo en Formatos MP3: Soluciones Efectivas En Línea</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-wireless-protocols-a-guide-to-80211be-80211ax-and-more/"><u>Understanding Wireless Protocols: A Guide to 802.11Be, 802.11Ax, and More</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/verizons-role-in-shaping-the-present-landscape-of-5g-networks/"><u>Verizon's Role in Shaping the Present Landscape of 5G Networks</u></a></li>
+</ul></div>
 

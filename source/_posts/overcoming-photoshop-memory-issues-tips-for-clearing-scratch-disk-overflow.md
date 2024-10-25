@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Photoshop Memory Issues: Tips for Clearing Scratch Disk Overflow"
-date: 2024-09-12T19:18:09.034Z
-updated: 2024-09-15T20:33:21.202Z
+date: 2024-10-21T22:49:30.841Z
+updated: 2024-10-25T07:05:54.517Z
 categories:
   - BestProducts
 description: "This Article Describes Overcoming Photoshop Memory Issues: Tips for Clearing Scratch Disk Overflow"
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
    * On macOS, select**Photoshop CC** \>**Preferences** \>**Scratch Disks** , or press**Command+Option** .
 
  If your computer has a fast[solid-state disk drive](https://www.lifewire.com/solid-state-drive-833448) (SSD), use the SSD as the scratch disk. Don't use the same[hard disk drive](https://www.lifewire.com/what-is-a-hard-disk-drive-2618152) (HDD) where the operating system is installed or where the files you edit are stored. Also, don't use a network or removable drive.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Causes the Photoshop Scratch Disk Is Full Error?
 
@@ -77,12 +90,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-to-surpassing-a-million-youtube-subscribers/"><u>[New] The Ultimate Guide to Surpassing a Million YouTube Subscribers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-engaging-openers-perfecting-podcast-intro-techniques/"><u>[Updated] 2024 Approved Engaging Openers Perfecting Podcast Intro Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-non-rooting-methods-to-record-android-sounds/"><u>[Updated] In 2024, Non-Rooting Methods to Record Android Sounds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-cheat-sheet-understanding-snapchats-secret-emojis/"><u>Comprehensive Cheat Sheet: Understanding Snapchat's Secret Emojis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-11-popular-places-to-legally-watch-movies-online/"><u>Discover 11 Popular Places to Legally Watch Movies Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-top-5-iphone-gps-apps-that-dominate-in-performance/"><u>Discover the Top 5 iPhone GPS Apps that Dominate in Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-amazon-prime-video-playback-problems/"><u>How to Resolve Amazon Prime Video Playback Problems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ginger-islet-simplified-for-stardew-gamers/"><u>In 2024, Ginger Islet Simplified for Stardew Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-8-techniques-for-debugging-and-correcting-parsing-errors-on-android-devices/"><u>Master 8 Techniques for Debugging and Correcting Parsing Errors on Android Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-facebooks-imagery-hunt-a-step-by-step-guide/"><u>Mastering the Art of Facebook's Imagery Hunt: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/professionals-picks-smoothest-drone-gimbals/"><u>Professional's Picks Smoothest Drone Gimbals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stream-the-most-popular-and-award-winning-flicks-on-disneyplus-now/"><u>Stream the Most Popular and Award-Winning Flicks on Disney+ Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-rise-and-fall-of-yahoo-messenger-insights-into-its-demise/"><u>The Rise and Fall of Yahoo! Messenger - Insights Into Its Demise</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/0-educational-youtube-channels-for-2024/"><u>Top 10 Educational YouTube Channels for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-configuring-your-all-in-one-tv-and-setup-box-controller/"><u>Ultimate Guide: Configuring Your All-in-One TV and Setup Box Controller</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-the-latest-in-hardware-toms-authoritative-reviews/"><u>Unveiling the Latest in Hardware: Tom’s Authoritative Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/viewing-instagrams-shared-moments-without-creating-an-account/"><u>Viewing Instagram's Shared Moments without Creating an Account</u></a></li>
+</ul></div>
 

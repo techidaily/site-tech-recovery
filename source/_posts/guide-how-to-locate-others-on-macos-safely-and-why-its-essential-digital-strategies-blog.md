@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog"
-date: 2024-10-13T16:17:53.624Z
-updated: 2024-10-19T16:03:21.152Z
+date: 2024-10-19T07:23:14.331Z
+updated: 2024-10-25T05:47:21.215Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,21 +134,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-video-platform-profiles-vimeo-vs-youtube-comparison/"><u>[Updated] 2024 Approved Video Platform Profiles Vimeo vs YouTube Comparison</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-most-advanced-smart-glasses-on-the-market-2024-edition/"><u>Discover the Most Advanced Smart Glasses on the Market, 2024 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ensuring-privacy-a-users-manual-to-secure-your-android-number/"><u>Ensuring Privacy: A User's Manual to Secure Your Android Number</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 12 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y78plus-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y78+</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-url-minification-the-best-tools-for-youtubers-convenience/"><u>In 2024, Video URL Minification The Best Tools for Youtubers' Convenience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722900762008-investigating-aol-mail-problems-how-to-tell-if-its-a-general-downtvein-or-personal-internet-concern/"><u>Investigating AOL Mail Problems: How to Tell If It's a General Downtvein or Personal Internet Concern</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-data-rescue-with-recuva-the-ultimate-guide-to-undeleting-files-successfully/"><u>Mastering Data Rescue with Recuva: The Ultimate Guide to Undeleting Files Successfully</u></a></li>
-<li><a href="https://fox-access.techidaily.com/professional-tips-for-using-luts-in-adobe-after-effects-for-2024/"><u>Professional Tips for Using LUTs in Adobe After Effects for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revamping-security-easy-steps-to-update-your-facebook-password/"><u>Revamping Security: Easy Steps to Update Your Facebook Password</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/obile-marketers-blueprint-simple-pathway-to-youtube-success-for-2024/"><u>The Mobile Marketer's Blueprint Simple Pathway to YouTube Success for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-best-family-friendly-films-on-amazon-prime-video-in-july-2024/"><u>Top Picks: Best Family-Friendly Films on Amazon Prime Video in July 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-tecno-spark-20-proplus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Tecno Spark 20 Pro+.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlinking-devices-from-your-smart-home-system-a-google-home-tutorial/"><u>Unlinking Devices From Your Smart Home System: A Google Home Tutorial</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-gradual-audio-decline-in-adobe-premiere/"><u>[New] Mastering Gradual Audio Decline in Adobe Premiere</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-sans-frais-dimages-bmp-a-png-directement-dans-votre-navigateur-movavi/"><u>Conversion Sans Frais D'images BMP À PNG Directement Dans Votre Navigateur - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-mka-files-for-free-on-the-web-with-movavi-tools/"><u>Convert MKA Files for Free on the Web with Movavi Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-installation-guide-for-the-latest-brother-hl-l2370dw-driver/"><u>Download and Installation Guide for the Latest Brother HL-L2370DW Driver</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-change-aiff-files-into-mp4-format-with-ease/"><u>Free Online Converter: Change AIFF Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-konverteren-van-flac-naar-m4a-online-zoektoestel-besturing-movavi/"><u>Gratuit Konverteren Van Flac Naar M4a Online - Zoektoestel Besturing Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-conversor-online-de-video-convert-wmv-a-asf-con-la-ayuda-de-movavi/"><u>Gratuito Conversor Online De Vídeo: Convert WMV a ASF Con La Ayuda De Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-screen-grab-specialists-top-apps-for-windows-10-users/"><u>In 2024, Screen Grab Specialists Top Apps for Windows 10 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-volume-reduction-in-audio-designs-using-logic-pro/"><u>Mastering Volume Reduction in Audio Designs Using Logic Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-image-cutting/"><u>Movavi: 최신 시적 품질을 위해 도구 내 Image Cutting 기능</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-poco-x6-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Poco X6.</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/prime-8-android-apps-for-multi-person-video-conferencing-for-2024/"><u>Prime 8 Android Apps for Multi-Person Video Conferencing for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ight-on-10-youtube-channels-with-swift-popularity-boosts/"><u>Spotlight on 10 YouTube Channels With Swift Popularity Boosts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-video-polisher-refine-your-clips-into-stunning-works-of-art/"><u>The Video Polisher Refine Your Clips Into Stunning Works of Art</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-easy-game-capture-top-3-methods/"><u>Updated In 2024, Easy Game Capture Top 3 Methods</u></a></li>
 </ul></div>
 

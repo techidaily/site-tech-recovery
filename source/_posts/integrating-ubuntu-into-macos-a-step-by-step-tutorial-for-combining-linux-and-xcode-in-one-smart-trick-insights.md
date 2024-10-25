@@ -1,7 +1,7 @@
 ---
 title: "Integrating Ubuntu Into macOS: A Step-by-Step Tutorial for Combining Linux and Xcode in One Smart Trick Insights"
-date: 2024-10-14T16:58:18.626Z
-updated: 2024-10-19T17:10:20.943Z
+date: 2024-10-19T23:20:38.176Z
+updated: 2024-10-25T03:27:23.862Z
 tags:
   - apple
 categories:
@@ -37,10 +37,16 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -51,18 +57,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -71,10 +77,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -92,10 +98,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,18 +140,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-the-art-of-speech-to-text-with-google-ai/"><u>[New] 2024 Approved Mastering the Art of Speech-to-Text with Google AI</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-premium-video-starters-the-best-16-to-skyrocket-view-counts/"><u>[New] 2024 Approved Premium Video Starters The Best 16 to Skyrocket View Counts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-illustrators-dream-top-8-ipados-drawers/"><u>[Updated] Illustrator's Dream Top 8 iPadOS Drawers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-puzzling-over-why-your-facebook-feed-lacks-recommended-movies/"><u>[Updated] In 2024, Puzzling Over Why Your Facebook Feed Lacks Recommended Movies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-splitscreen-youtube-videos-a-guide-to-creativity-for-2024/"><u>Crafting Splitscreen YouTube Videos A Guide to Creativity for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/desktop-powering-up-with-blank-display-how-to-resolve/"><u>Desktop Powering Up with Blank Display - How to Resolve?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-enhancing-your-experience-with-windows-11/"><u>Effective Strategies for Enhancing Your Experience with Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-dividing-your-desktop-splitting-screens-on-windows-11/"><u>Effective Techniques for Dividing Your Desktop: Splitting Screens on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficiently-refresh-your-google-chrome-browsing-by-flushing-its-cache/"><u>Efficiently Refresh Your Google Chrome Browsing by Flushing Its Cache</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-advice-restoring-hey-siri-functionality-to-its-full-potential-on-ios/"><u>Expert Advice: Restoring 'Hey Siri' Functionality to Its Full Potential on iOS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/expert-review-boost-your-productivity-with-the-innovative-onetastic-enhancement-for-microsoft-onenote/"><u>Expert Review: Boost Your Productivity with the Innovative Onetastic Enhancement for Microsoft OneNote</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-x-flip-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo X Flip Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ensuring-seamless-capture-of-online-teams-gatherings/"><u>[New] Ensuring Seamless Capture of Online Teams' Gatherings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-insights-on-how-youtube-handles-uploaded-videos/"><u>[New] Insights on How YouTube Handles Uploaded Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-zero-cost-image-amplifier-desktopmobile-edition/"><u>[Updated] In 2024, Top Zero-Cost Image Amplifier Desktop/Mobile Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advancing-computational-frontiers-the-inside-scoop-on-amds-zen-5-architecture-delving-into-ryzen-9000-capabilities-ai-benchmarking-with-the-ai-300-and-cutti19/"><u>Advancing Computational Frontiers: The Inside Scoop on AMD's Zen 5 Architecture - Delving Into Ryzen 9000 Capabilities, AI Benchmarking with the AI 300, and Cutting-Edge GPU Upgrades in RDNA 3.5 & XDNA Technologies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovere-as-melhores-opcoes-livres-e-premium-para-substituir-o-convertidor-de-video-do-freemake-14-solucoes-inovadoras/"><u>Discovere as Melhores Opções Livres E Premium Para Substituir O Convertidor De Vídeo Do Freemake: 14 Soluções Inovadoras!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/vering-potential-youtubes-role-in-modern-education-strategies/"><u>Discovering Potential YouTube's Role in Modern Education Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/instagram-video-creation-made-easy-a-comprehensive-walkthrough/"><u>Instagram Video Creation Made Easy: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/m4a-and-ogg-m4vogg/"><u>M4A & OGG 형식으로 바꾸기 - 원탁적인 인터넷에서 무료 M4V/OGG 변환 도구</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sony-xperia-5-teardown-compact-design-yet-costly/"><u>Sony Xperia 5 Teardown: Compact Design Yet Costly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-family-calendars-best-synchronized-planning-tools/"><u>Top 7 Family Calendars: Best Synchronized Planning Tools!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wmvwav-movavi/"><u>WMVからWAVへの簡単な無料オンライン音声ファイル変換 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-mp3aiff/"><u>무료 인터넷 기회를 사용하여 Movavi로 MP3/AIFF 픽셀 대체 - 최소한의 시각화</u></a></li>
 </ul></div>
 

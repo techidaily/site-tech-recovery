@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Capturing Images with Your Computer Screen"
-date: 2024-09-11T16:48:08.877Z
-updated: 2024-09-15T16:17:19.369Z
+date: 2024-10-23T00:20:07.974Z
+updated: 2024-10-24T17:20:13.484Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Capturing Images with Your Computer Screen"
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 3. Also considered junk files are anything you simply don't use or want anymore. So, delete those old video files that you downloaded a year ago and[back up all the data you rarely access](https://www.lifewire.com/ways-to-back-up-your-data-2640426) , like vacation pictures.
 4. [Clean up your desktop](https://www.lifewire.com/cleaning-and-speeding-up-windows-desktop-3506952) if it's cluttered. Making File Explorer load those icons and folders each time the desktop refreshes can put unnecessary load on your hardware, which takes away[system resources](https://www.lifewire.com/what-is-a-system-resource-2626016) that could be used elsewhere.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Defrag Your Hard Drive
 
  Another way you can speed up a computer is by defragging the hard drive. This consolidates all the empty spaces that you create in the[file system](https://www.lifewire.com/what-is-a-file-system-2625880) structure as you add and remove files. These empty spaces make your hard drive take longer to think, which in turn causes files, folders, and programs to open slowly.
@@ -44,18 +51,18 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 
 [How to Tell if You Have a Computer Virus on Windows](https://www.lifewire.com/how-to-tell-if-your-computer-has-a-virus-4590200)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix Windows System Errors
 
  Installing and uninstalling software and Windows updates, rebooting your computer during an update, forcing your PC to shut down immediately, and other things can cause errors within the Windows system files.
 
  These errors can cause things to lock up, halt program installs and updates, and generally prevent a smooth computer experience. Speeding up a computer this way is easy; just[repair the system files](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Adjust Visual Effects
 
@@ -75,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 
  You can use a[free system information utility](https://www.lifewire.com/free-system-information-tools-2625772) to see the specs of your hardware. These tools are helpful if you're planning on replacing hardware so that you don't have to[open your computer](https://www.lifewire.com/how-to-open-a-desktop-computer-case-2624589) just to check on things. For example, if you want more[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) , you can use a system info tool to confirm the type and amount you already have so you know what to buy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Reinstall the Entire Windows Operating System
 
  The most drastic solution to speeding up your computer is to delete all the software and files, remove the whole Windows OS, and start from scratch. You can do this with a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) .
@@ -84,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
  Reinstalling Windows is a permanent solution. Back up your files and make note of any programs you will want to reinstall.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Is My Computer So Slow?
@@ -138,5 +152,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-deep-dive-inside-the-dji-inspire-2-for-2024/"><u>[New] Deep Dive Inside the DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-easy-steps-for-logging-vimeo-media/"><u>[New] Easy Steps for Logging Vimeo Media</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-iphones-which-one-tops-in-gaming-performance/"><u>Comparing iPhones: Which One Tops in Gaming Performance?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-crafting-perfect-rules-in-your-gmail-inbox/"><u>Comprehensive Strategies for Crafting Perfect Rules in Your Gmail Inbox</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-photoscape-software-potential-an-expert-evaluation-of-free-visual-creativity-tools/"><u>Discovering PhotoScape Software Potential: An Expert Evaluation of Free Visual Creativity Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellence-in-technology-mwc-and-makeuseof-best-picks/"><u>Excellence in Technology: MWC & MakeUseOf Best Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/finding-the-perfect-gaming-phone-amongst-iphones-expert-tips-and-rankings/"><u>Finding the Perfect Gaming Phone Amongst iPhones: Expert Tips & Rankings.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-display-duplication-on-lg-smart-tvs-a-comprehensive-tutorial/"><u>Mastering Display Duplication on LG Smart TVs – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-study-efficiency-dos-and-donts-with-chatgpt/"><u>Maximizing Study Efficiency: Do's and Don'ts with ChatGPT</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-countdown-in-minutes-a-3-part-guide-to-fcpx-timers/"><u>New In 2024, Countdown in Minutes A 3-Part Guide to FCPX Timers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quest-3-lite-rumors-preview-of-speculated-pricing-release-date-and-hardware-specs/"><u>Quest 3 Lite Rumors: Preview of Speculated Pricing, Release Date, and Hardware Specs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-win10-upgrade-stuck-on-99-proven-solutions-that-work/"><u>Resolve Win10 Upgrade Stuck on 99%: Proven Solutions That Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-hiding-your-phone-number-in-android-settings/"><u>Step-by-Step Guide: Hiding Your Phone Number in Android Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-most-essential-android-wear-apps-for-a-smarter-watch-experience/"><u>The Most Essential Android Wear Apps for a Smarter Watch Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-the-no-matches-found-issue-on-bumble/"><u>Ultimate Guide: Solving the 'No Matches Found' Issue on Bumble</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-snapping-screenshots-like-a-pro-on-hp-systems/"><u>Ultimate Tutorial: Snapping Screenshots Like a Pro on HP Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-duckduckgo-the-reliable-safe-search-option-for-internet-users/"><u>Unveiling DuckDuckGo: The Reliable, Safe Search Option for Internet Users</u></a></li>
+</ul></div>
 

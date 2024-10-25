@@ -1,7 +1,7 @@
 ---
 title: IOS 17.7 Launching Soon! Why Choosing It Over iOS 18 Could Be Wiser - Tips by ZDNET
-date: 2024-10-17T16:25:11.305Z
-updated: 2024-10-19T16:00:27.868Z
+date: 2024-10-23T04:30:39.068Z
+updated: 2024-10-25T07:39:53.107Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,24 +135,18 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature-for-2024/"><u>[New] Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>[New] In 2024, Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-elevate-podcast-quality-with-advanced-garageband-editing-methods/"><u>[Updated] In 2024, Elevate Podcast Quality with Advanced GarageBand Editing Methods</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-partner-program-2024-how-to-join-and-monetize-your-channel/"><u>[Updated] YouTube Partner Program 2024 How to Join and Monetize Your Channel</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-walkthrough-for-activating-safe-mode-and-detaching-graphics-card-driver-on-windows-8/"><u>Comprehensive Walkthrough for Activating Safe Mode and Detaching Graphics Card Driver on Windows 8</u></a></li>
-<li><a href="https://article-files.techidaily.com/cut-costs-gain-space-the-best-compiled-list-of-20-free-cloud-storages-1tbplus/"><u>Cut Costs, Gain Space The Best Compiled List of 20 Free Cloud Storages (1TB+)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/fast-tracking-social-scanning-mastering-fb-profiles-for-2024/"><u>Fast-Tracking Social Scanning Mastering FB Profiles for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-msi-z370-a-pro-updated-drivers-here/"><u>Get Your MSI Z370-A Pro Updated Drivers Here</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-d3dx940dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_40.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-taking-your-filmed-artistry-on-a-journey-with-imovie-and-youtube/"><u>In 2024, Taking Your Filmed Artistry on a Journey with iMovie & YouTube</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/leading-wireless-repeaters-for-improved-connectivity-the-2024-guide/"><u>Leading Wireless Repeaters for Improved Connectivity - The 2024 Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nokia-c22-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nokia C22? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-steps-entering-and-exiting-iphones-recovery-mode/"><u>Mastering the Steps: Entering and Exiting iPhone's Recovery Mode</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/metro-and-t-mobile-collaboration-insights-on-the-rules-governing-unlimited-data-roaming-practices/"><u>Metro and T-Mobile Collaboration: Insights on the Rules Governing Unlimited Data Roaming Practices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-power-of-windows-command-line-a-comprehensive-guide/"><u>Navigating the Power of Windows Command Line: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-breakdown-of-ussd-insights-into-unstructured-supplementary-service-data-technology/"><u>The Complete Breakdown of USSD: Insights Into Unstructured Supplementary Service Data Technology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-a-world-of-music-explore-these-15-free-download-sites/"><u>Unlock a World of Music: Explore These 15 Free Download Sites</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-potential-of-your-samsung-tv-the-complete-remote-access-tutorial/"><u>Unlock the Potential of Your Samsung TV: The Complete Remote Access Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-next-for-google-pixel-projecting-cost-launch-dates-and-new-hardware-specs-in-focus/"><u>What's Next for Google Pixel: Projecting Cost, Launch Dates & New Hardware Specs in Focus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beginners-guide-to-gopro-extras/"><u>[New] Beginner's Guide to GoPro Extras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-techniques-for-dell-pc-screen-saving/"><u>[New] Essential Techniques for Dell PC Screen Saving</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-secrets-the-ultimate-guide-to-instagram-stories-mastery-for-2024/"><u>[New] Unlocking the Secrets The Ultimate Guide to Instagram Stories Mastery for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-optical-opus-the-elite-list-of-8k-cameras-for-2024/"><u>[Updated] Optical Opus The Elite List of 8K Cameras for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-10-web-based-subtitle-editor-tools-for-2024/"><u>[Updated] Top 10 Web-Based Subtitle Editor Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unraveling-the-film-reel-how-to-rewind-on-instagram-for-2024/"><u>[Updated] Unraveling the Film Reel How to Rewind on Instagram for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-vision-for-domestic-automation-introducing-the-next-generation-home-based-robot-assistant-tech-analysis/"><u>Apple's Vision for Domestic Automation: Introducing the Next Generation Home-Based Robot Assistant | Tech Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-pro-showdown-which-cutting-edge-flagship-model-fits-your-needs-best-insights-and-reviews-gadget-review-hub/"><u>IPad Pro Showdown: Which Cutting-Edge Flagship Model Fits Your Needs Best? Insights & Reviews | Gadget Review Hub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keeping-up-with-your-circle-guide-on-sending-alerts-via-apple-watch/"><u>Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-universal-control-seamlessly-linking-your-ipad-and-mac-with-apples-magic-feature-a-comprehensive-guide-by-zdnet/"><u>Mastering Universal Control: Seamlessly Linking Your iPad and Mac with Apple’s Magic Feature - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-list-of-costless-online-editors-for-professionals-for-2024/"><u>Ultimate List of Costless Online Editors for Professionals for 2024</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-reno-10-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zdnet-reviews-mobile-devices-a-peek-into-our-rigorous-testing-methodology/"><u>ZDNet Reviews Mobile Devices: A Peek Into Our Rigorous Testing Methodology</u></a></li>
 </ul></div>
 

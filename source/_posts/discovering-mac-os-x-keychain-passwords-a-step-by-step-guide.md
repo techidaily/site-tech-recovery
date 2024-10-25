@@ -1,7 +1,7 @@
 ---
 title: "Discovering Mac OS X Keychain Passwords: A Step-by-Step Guide"
-date: 2024-10-14T16:28:53.959Z
-updated: 2024-10-19T17:13:27.752Z
+date: 2024-10-19T16:09:07.404Z
+updated: 2024-10-25T00:54:30.674Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -48,16 +48,10 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -75,10 +69,10 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -90,16 +84,16 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -133,17 +127,19 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-create-a-new-twitter-account-for-2024/"><u>[New] How to Create a New Twitter Account for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-aesthetic-adjustments-iphones-pro-image-cropping-apps/"><u>[New] In 2024, Aesthetic Adjustments IPhone's Pro Image Cropping Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-xstream-vision-insight-ultimate-video-studio-exploration/"><u>[New] In 2024, XStream Vision Insight Ultimate Video Studio Exploration</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-best-mac-mp4-cutter-apps-enhance-video-editing/"><u>[Updated] Best Mac MP4 Cutter Apps Enhance Video Editing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-beginners-path-to-successful-hp-screen-capturing/"><u>2024 Approved Beginner's Path to Successful HP Screen Capturing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-aesthetic-almanac-makeup-hair-and-more-on-youtube/"><u>2024 Approved The Aesthetic Almanac Makeup, Hair & More on YouTube</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-rectifying-binkw32dll-absence-problems/"><u>Comprehensive Guide: Rectifying Binkw32.dll Absence Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/improve-your-smartphone-photography-overcoming-iphone-lens-focusing-challenges/"><u>Improve Your Smartphone Photography: Overcoming iPhone Lens-Focusing Challenges</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-pick-websites-showcasing-hd-sky-shots/"><u>In 2024, Expert Pick Websites Showcasing HD Sky Shots</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximizing-iphone-phone-calls-effective-solutions-to-amplify-ringtone/"><u>Maximizing iPhone Phone Calls: Effective Solutions to Amplify Ringtone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-your-pc-for-a-stable-nba-2k21-gaming-session/"><u>Optimizing Your PC for a Stable NBA 2K21 Gaming Session</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/remedying-permanent-display-ghosts-for-any-screen-type-a-how-to/"><u>Remedying Permanent Display Ghosts for Any Screen Type - A How-To</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-live-from-the-cloud-effective-dji-drone-broadcasting-tips/"><u>[New] 2024 Approved Live From the Cloud Effective DJI Drone Broadcasting Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bridging-the-gap-incorrancing-youtube-links-within-presentation-software/"><u>[Updated] 2024 Approved Bridging the Gap Incorrancing YouTube Links Within Presentation Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/copy-hdd-to-ssd-and-ssd-to-hdd-on-a-windows-7-pc/"><u>Copy HDD to SSD and SSD to HDD on a Windows 7 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transform-rmvb-files-to-mp4-format-with-movavi/"><u>Free Online Conversion: Transform RMVB Files to MP4 Format with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-verbeterde-konvertor-van-bmp-naar-jpeg-online-veilig-en-efficient-met-movavi/"><u>Gratuit Verbeterde Konvertor Van BMP Naar JPEG: Online Veilig en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-much-do-you-really-make-as-a-podcaster/"><u>How Much Do You Really Make as a Podcaster?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-apples-new-iphone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Create My Pokemon Overworld Maps On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726220809867-movavi/"><u>Movavi 유럽에서 무제한 제공 - 이미지, 영상 및 비디오 편집 기술</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movaviwmvmkv/"><u>Movaviの専用フリーウェブベースでのWMVからMKVへのコンバートツール</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/moveavis-no-cost-tool-easily-convert-flv-videos-into-avi-online/"><u>Moveavi's No-Cost Tool: Easily Convert FLV Videos Into AVI Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-ultimate-selection-the-15-greatest-screen-capture-solutions-with-integrated-webcam-capabilities-by-movavi-and-more/"><u>Unveiling the Ultimate Selection: The 15 Greatest Screen Capture Solutions with Integrated Webcam Capabilities by Movavi and More</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-merge-wmv-files-with-ease-the-best-free-tools-for-2024/"><u>Updated Merge WMV Files with Ease The Best Free Tools for 2024</u></a></li>
 </ul></div>
 

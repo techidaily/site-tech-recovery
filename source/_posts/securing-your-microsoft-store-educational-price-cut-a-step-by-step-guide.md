@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Microsoft Store Educational Price Cut: A Step-by-Step Guide"
-date: 2024-09-14T01:46:40.633Z
-updated: 2024-09-16T00:30:18.677Z
+date: 2024-10-17T18:27:25.077Z
+updated: 2024-10-25T00:31:57.211Z
 categories:
   - BestProducts
 description: "This Article Describes Securing Your Microsoft Store Educational Price Cut: A Step-by-Step Guide"
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who Is Eligible for Microsoft's Student Discount?
 
  The Microsoft student discount is available to a wide range of people, including students, faculty, and even parents. Here are the general requirements:
@@ -37,6 +44,26 @@ thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b
 * Enrolled at a four-year university, two-year college, or a vocational school.
 
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does Microsoft's Student Discount Get You?
 
@@ -50,10 +77,10 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Microsoft Verify Student Enrollment?
@@ -93,5 +120,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[Updated] 2024 Approved The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-picks-top-gimbals-for-drones/"><u>[Updated] Professional Picks Top Gimbals for Drones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-crafting-engaging-vids-with-template-magic/"><u>2024 Approved Crafting Engaging Vids with Template Magic</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ceskoslovenske-pravidelnosti-top-20-konvertoru-videa-pro-windows-gratkovy-programovaci-oddil-bez-platu/"><u>Československé Pravidelnosti Top 20 Konvertorů Videa Pro Windows: Grátkový Programovací Oddíl Bez Platu</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-konvertisseur-and-uitkomsten/"><u>Gratis, Online Konvertisseur, and Uitkomsten.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-3gpp-m4a/"><u>Movavi: 가상 공간을 이용한 3GPP M4A 비주얼 자동화 - 무료</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-easiest-video-making-apps-for-mac-unleash-your-creativity/"><u>New In 2024, Easiest Video Making Apps for Mac Unleash Your Creativity</u></a></li>
+<li><a href="https://win-blog.techidaily.com/reasons-why-world-of-tanks-blitz-continuously-fails/"><u>Reasons Why 'World of Tanks Blitz' Continuously Fails</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/survive-the-night-with-friends-in-dying-light-a-thrilling-first-person-parkour-and-cooperative-gameplay-experience/"><u>Survive the Night with Friends in 'Dying Light': A Thrilling First-Person Parkour and Cooperative Gameplay Experience!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformer-gratuitement-un-fichier-avi-en-format-flac-en-ligne-guerison-rapide-de-movavi/"><u>Transformer Gratuitement Un Fichier AVI en Format FLAC en Ligne - Guérison Rapide De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tga-bmp/"><u>무료 인터넷 용인 - TGA 폴리스타일을 BMP으로 전환하기</u></a></li>
+</ul></div>
 

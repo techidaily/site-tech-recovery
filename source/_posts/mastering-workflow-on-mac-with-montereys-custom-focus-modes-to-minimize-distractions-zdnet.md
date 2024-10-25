@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2024-10-14T17:10:23.483Z
-updated: 2024-10-19T17:05:07.554Z
+date: 2024-10-19T00:59:31.849Z
+updated: 2024-10-25T12:47:11.368Z
 tags:
   - apple
 categories:
@@ -28,23 +28,9 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -55,10 +41,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -68,6 +54,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -86,10 +79,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -105,6 +98,13 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,18 +148,17 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-cutting-edge-techniques-top-lenses-for-youtube-stars/"><u>[New] In 2024, Cutting-Edge Techniques Top Lenses for YouTube Stars</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-dynamic-duo-of-filmmaking-and-thumbnail-design/"><u>[New] The Dynamic Duo of Filmmaking and Thumbnail Design</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-tools-to-bypass-lock-screenspark-20c-by-drfone-android-unlock-android-unlock/"><u>Bypass Tools to Bypass Lock Screen(Spark 20C)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/creating-a-unique-identity-in-the-flood-of-live-streams/"><u>Creating a Unique Identity in the Flood of Live Streams</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-future-of-google-pixel-phones-unpacked-rumors-on-10th-editions-launch-window-potential-pricing-and-features/"><u>Deciphering Future of Google Pixel Phones - Unpacked Rumors on 10Th Edition's Launch Window, Potential Pricing, and Features</u></a></li>
-<li><a href="https://article-posts.techidaily.com/elevate-your-design-game-with-expert-level-3d-text-tips-for-2024/"><u>Elevate Your Design Game with Expert-Level 3D Text Tips for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/embracing-the-future-with-verizons-5g-network/"><u>Embracing the Future with Verizon's 5G Network</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/hack-your-webcam-efficient-recording-techniques-for-2024/"><u>Hack Your Webcam Efficient Recording Techniques for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-msstdfmtdll-file-absence-on-windows-computers/"><u>How to Correctly Address Msstdfmt.dll File Absence on Windows Computers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/meta-quest-3-an-in-depth-look-at-its-specs-availability-date-and-how-much-it-costs/"><u>Meta Quest 3 - An In-Depth Look at Its Specs, Availability Date & How Much It Costs</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/mpeg-4-m2ts/"><u>MPEG-4 (M2TS)ファイルの品質維持における編集手順</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/word-basics-how-to-insert-and-customize-lines-efficiently/"><u>Word Basics: How to Insert and Customize Lines Efficiently</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-se-2022-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-overcoming-creative-roadblocks-in-short-form-videos/"><u>[Updated] Overcoming Creative Roadblocks in Short Form Videos</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/windows-10-zip/"><u>「Windows 10中無需付錢直接恢復丟失 ZIP 彎曲桶」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-watch-series-se-2nd-generation-available-at-a-80-discount-post-prime-day-insights/"><u>Apple Watch Series SE 2Nd Generation: Available at a $80 Discount Post-Prime Day - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-antitrust-troubles-european-union-orders-2-billion-fine-for-monopolistic-conduct-on-the-app-store-exclusive-analysis/"><u>Apple's Antitrust Troubles: European Union Orders $2 Billion Fine for Monopolistic Conduct on the App Store | Exclusive Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-qi2-multi-functional-charger-a-dream-come-true-for-apple-enthusiasts-explored/"><u>Discover the Ultimate Qi2 Multi-Functional Charger: A Dream Come True for Apple Enthusiasts - Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-power-of-small-tech-is-the-latest-m4-equipped-mac-mini-a-game-changer-compared-to-apple-tv-discover-more-on-zdnet/"><u>Exploring the Power of Small Tech: Is the Latest M4-Equipped Mac Mini a Game Changer Compared to Apple TV? Discover More on ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2024-phone-without-google-account-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2024) Phone without Google Account?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fresh-perspectives-picture-perfect-collages-for-lifes-highlights/"><u>In 2024, Fresh Perspectives Picture-Perfect Collages for Life's Highlights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-razr-40-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Razr 40 Ultra to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-comedy-crafting-top-tips-for-diy-memetic-mastery/"><u>In 2024, Metaverse Comedy Crafting Top Tips for DIY Memetic Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-factors-driving-apple-vision-pro-returns-insights-from-reddit-discussions-uncovered-by-zdnet/"><u>Top 7 Factors Driving Apple Vision Pro Returns: Insights From Reddit Discussions Uncovered by ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unraveling-the-mysteries-of-quantum-hdr/"><u>Unraveling the Mysteries of Quantum HDR</u></a></li>
 </ul></div>
 
