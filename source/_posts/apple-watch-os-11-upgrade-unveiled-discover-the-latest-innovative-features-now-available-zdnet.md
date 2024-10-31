@@ -1,7 +1,7 @@
 ---
 title: Apple Watch OS 11 Upgrade Unveiled - Discover the Latest Innovative Features Now Available | ZDNet
-date: 2024-10-15T16:50:07.081Z
-updated: 2024-10-19T16:36:56.781Z
+date: 2024-10-28T18:43:04.946Z
+updated: 2024-10-31T08:51:35.795Z
 tags:
   - apple
 categories:
@@ -43,10 +43,16 @@ Serious athletes will likely be drawn to these features since this is the first 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
@@ -69,6 +75,13 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
@@ -83,16 +96,22 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -100,27 +119,26 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Tickets in your Wallet get an upgrade
 
@@ -160,22 +178,20 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-gold-tier-8-secret-screeners-choice-for-2024/"><u>[New] Gold-Tier 8 Secret Screeners' Choice for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-revamp-chromebooks-soundscape-with-our-picks-for-web-extensions/"><u>[Updated] 2024 Approved Revamp Chromebook's Soundscape with Our Picks for Web Extensions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-sign-up-saga-crafting-your-digital-persona-facebook-for-2024/"><u>[Updated] Sign Up Saga Crafting Your Digital Persona (Facebook) for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-online-destinations-for-sparkling-and-metallic-letters/"><u>Best Online Destinations for Sparkling and Metallic Letters</u></a></li>
-<li><a href="https://fox-http.techidaily.com/best-starter-cameras-for-child-filmmakers-in-splashy-settings/"><u>Best Starter Cameras For Child Filmmakers in Splashy Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-broadcasting-your-ps5-gaming-experience-online/"><u>Easy Tutorial: Broadcasting Your PS5 Gaming Experience Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminating-diagonal-distortions-tips-for-aligning-your-monitor-correctly/"><u>Eliminating Diagonal Distortions: Tips for Aligning Your Monitor Correctly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-hosting-for-everyone-10-top-picks-for-private-and-business-videos/"><u>Free Video Hosting for Everyone 10 Top Picks for Private and Business Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-i-remove-built-in-apps-from-my-iphone-device/"><u>How Can I Remove Built-In Apps From My iPhone Device?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-the-challenge-of-missing-gsdll32dll-files-on-your-pc/"><u>Overcoming the Challenge of Missing Gsdll32.dll Files on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revealing-hidden-files-on-macos-using-the-terminal-command-line/"><u>Revealing Hidden Files on macOS Using the Terminal Command Line</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-steps-for-disabling-captions-on-amazon-prime-streaming-services/"><u>Simple Steps for Disabling Captions on Amazon Prime Streaming Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722882951004-step-by-step-instructions-on-how-to-find-an-unremembered-email-account/"><u>Step-by-Step Instructions on How to Find an Unremembered Email Account</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-samsung-galaxy-tab-s5e-review-unveiling-an-android-tablet-extraordinaire/"><u>The Ultimate Samsung Galaxy Tab S5e Review: Unveiling an Android Tablet Extraordinaire</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-restore-wi-fi-connection-on-your-surface-pro/"><u>Troubleshooting Steps to Restore Wi-Fi Connection on Your Surface Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-f54-5g-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lord-of-the-rings-trilogy-the-perfect-order-to-experience-middle-earth/"><u>'Lord of the Rings' Trilogy: The Perfect Order to Experience Middle Earth</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-minecraft-survival-shelter-mastery-for-2024/"><u>[New] Minecraft Survival Shelter Mastery for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-massive-viewership-triumphs-youtubes-greatest-hits/"><u>[Updated] Massive Viewership Triumphs YouTube's Greatest Hits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860364230-2024-approved-activating-screen-recording-with-internal-devices-in-huawei-mate-and-p-series-mate-1020-p2010/"><u>2024 Approved Activating Screen Recording with Internal Devices in Huawei Mate and P Series (Mate 10/20; P20/10).</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-gmail-security-with-2fa-comprehensive-activation-instructions/"><u>Boosting Gmail Security with 2FA: Comprehensive Activation Instructions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-inbox-management-skills-implementing-smart-gmail-filters-and-handling-extra-email-addresses-with-ease/"><u>Elevate Your Inbox Management Skills: Implementing Smart Gmail Filters & Handling Extra Email Addresses with Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-lava-agni-2-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Lava Agni 2 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-optimize-collaboration-incorporating-copilot-into-microsoft-teams/"><u>How to Optimize Collaboration: Incorporating Copilot Into Microsoft Teams</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-strategic-message-management-expert-tips-for-discord-pinning/"><u>In 2024, Strategic Message Management Expert Tips for Discord Pinning</u></a></li>
+<li><a href="https://win-forum.techidaily.com/kostenloze-amv-omzetting-naar-mp3-online-gelukkigheid-van-movavi/"><u>Kostenloze AMV-Omzetting Naar MP3 - Online Gelukkigheid Van Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-spaces-for-ai-inspired-artistry/"><u>Leading Spaces for AI-Inspired Artistry</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx941dll-file-absence-step-by-step-troubleshooting-guide/"><u>Resolving d3dx9_41.dll File Absence: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-casting-connect-your-android-phone-to-amazon-firestick-easily/"><u>Seamless Casting: Connect Your Android Phone to Amazon Firestick Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/stepping-up-your-game-understanding-mcns-and-their-impact-on-creators-for-2024/"><u>Stepping Up Your Game Understanding MCNs and Their Impact on Creators for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-battle-of-streaming-platforms-dissecting-free-vs-premium-on-hulu-and-huluplus/"><u>The Battle of Streaming Platforms: Dissecting Free Vs. Premium on Hulu & Hulu+!</u></a></li>
 </ul></div>
 

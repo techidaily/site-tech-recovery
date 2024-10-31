@@ -1,7 +1,7 @@
 ---
 title: "An 8-Hour Test Run with the Apple Vision Pro: Satisfaction Levels Assessed by ZDNet"
-date: 2024-10-17T23:28:37.018Z
-updated: 2024-10-25T06:59:19.128Z
+date: 2024-10-23T18:22:56.920Z
+updated: 2024-10-30T19:57:43.412Z
 tags:
   - apple
 categories:
@@ -31,10 +31,16 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -46,6 +52,13 @@ To update watchOS, open the Watch app on your iPhone. Go to General, select Soft
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
 
@@ -69,18 +82,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -99,10 +112,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -118,13 +131,6 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,19 +168,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-explore-the-top-7-innovative-apps-for-effortless-youtube-live-broadcasts-on-iphone-and-android/"><u>[New] In 2024, Explore the Top 7 Innovative Apps for Effortless YouTube LIVE Broadcasts on iPhone and Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-steps-to-digitize-and-store-your-driving-permit-in-the-apple-wallet-on-your-iphone-a-comprehensive-guide-based-on-location/"><u>1. Steps to Digitize and Store Your Driving Permit in the Apple Wallet on Your iPhone: A Comprehensive Guide Based on Location</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-and-analysis-top-rated-software-for-restoring-lost-files-spotlight-on-recuva/"><u>Complete Guide & Analysis: Top Rated Software For Restoring Lost Files - Spotlight on Recuva</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dive-into-the-world-of-books-top-5-captivating-vtts-revealed-for-2024/"><u>Dive Into the World of Books Top 5 Captivating VTTs Revealed for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-enhanced-vrar-with-cost-effective-xr-glasses-after-swapping-out-expensive-apple-and-meta-headsets-zdnet-insights/"><u>Experience Enhanced VR/AR with Cost-Effective XR Glasses After Swapping Out Expensive Apple and Meta Headsets | ZDNet Insights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/hd-video-downloader-converter-and-editor-for-macos-free-dvdvideosoft-studio/"><u>HD Video Downloader, Converter & Editor for MacOS - Free DVDVideoSoft Studio</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-bigger-picture-tvs-ranked-10/"><u>In 2024, Best Bigger Picture TVs Ranked #10</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/kickstart-studio-setup-with-limostudios-aggressive-glow-kit/"><u>Kickstart Studio Setup with LimoStudio's Aggressive Glow Kit</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/quick-and-simple-guide-to-restore-accidentally-lost-redcode-r3d-videos/"><u>Quick and Simple Guide to Restore Accidentally Lost REDCODE (.r3d) Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionizing-workplace-technology-how-apples-vision-pro-offers-advanced-enterprise-device-control-according-to-zdnet/"><u>Revolutionizing Workplace Technology: How Apple's Vision Pro Offers Advanced Enterprise Device Control, According to ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/roku-roaming-guide-seamless-streaming-experience-in-hotels-and-dormitories/"><u>Roku Roaming Guide: Seamless Streaming Experience in Hotels and Dormitories</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-and-style-the-best-iphone-se-case-collection-of-2022-to-shield-and-enhance-pcmag/"><u>Secure & Style - The Best iPhone SE Case Collection of 2022 to Shield and Enhance | PCMag</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-11-must-have-windows-and-macos-applications-and-tools-insights-from-zdnet/"><u>Top 11 Must-Have Windows & macOS Applications and Tools - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-the-apple-watch-series-7-is-still-worth-it-over-the-hypothetical-series-10-insights-from-a-tech-blogger/"><u>Why the Apple Watch Series 7 Is Still Worth It Over the Hypothetical Series 10 - Insights From a Tech Blogger</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-audio-enhancement-for-online-video-creators/"><u>[Updated] Audio Enhancement for Online Video Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-real-strategy-behind-instagram-reels/"><u>[Updated] In 2024, The Real Strategy Behind Instagram Reels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leading-intro-apps-for-budding-creators-iphoneandroid/"><u>[Updated] Leading Intro Apps for Budding Creators (iPhone/Android)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-source-unlimited-stock-media-from-top-tier-4-youtube-channels/"><u>[Updated] Source Unlimited Stock Media From Top-Tier 4 YouTube Channels</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722896217771-choose-your-next-binge-worthy-watch-with-these-top-picks-for-instant-streaming/"><u>Choose Your Next Binge-Worthy Watch with These Top Picks for Instant Streaming!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-a2plus-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Xiaomi Redmi A2+ support MKV video files?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-and-fix-fm20dll-file-not-found-issues/"><u>How to Correctly Address and Fix fm20.dll File-Not-Found Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-fugetek-ft-568-selfie-stick-evaluation-top-quality-and-durability/"><u>In-Depth Fugetek FT-568 Selfie Stick Evaluation: Top Quality and Durability</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/maximizing-pc-color-with-windows-hdri-for-2024/"><u>Maximizing PC Color with Windows HDRI for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-market-top-tier-group-video-chat-software-compared/"><u>Navigating the Market: Top-Tier Group Video Chat Software Compared</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sharp-as-a-razor-toptools-to-unblur-and-enhance-images-online-for-2024/"><u>Sharp as a Razor #TopTools to Unblur & Enhance Images Online for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-from-apple-a-deep-dive-into-the-specs-pricing-and-release-date-of-their-latest-audio-device-rumors/"><u>The Next Big Thing From Apple: A Deep Dive Into the Specs, Pricing, and Release Date of Their Latest Audio Device Rumors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-go-to-guide-for-finding-and-sharing-books-for-free-17-best-resources/"><u>Your Go-To Guide for Finding and Sharing Books for Free: 17 Best Resources</u></a></li>
 </ul></div>
 

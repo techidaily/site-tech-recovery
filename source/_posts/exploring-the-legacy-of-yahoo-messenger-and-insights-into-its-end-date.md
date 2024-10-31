@@ -1,7 +1,7 @@
 ---
 title: Exploring the Legacy of Yahoo! Messenger and Insights Into Its End Date
-date: 2024-09-09T16:33:05.004Z
-updated: 2024-09-10T16:33:05.004Z
+date: 2024-10-30T01:55:08.805Z
+updated: 2024-10-30T20:08:32.451Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Legacy of Yahoo! Messenger and Insights Into Its End Date
@@ -10,12 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/3mm_dM6h5KbNMD16kmjaUSnjazs=/400x300/fi
 ---
 
 ## Master the Art of Transferring Printouts to Computers Without Hassle
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * In Windows, go to**Start** \>**Scan** \>**Settings** \>**Devices** \>**Printers & Scanners** .
@@ -28,18 +22,6 @@ thumbnail: https://www.lifewire.com/thmb/3mm_dM6h5KbNMD16kmjaUSnjazs=/400x300/fi
 
 lolostock / Getty Images
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Capturing a Scan From a Printer on a Windows PC
 
  Your printer model may come with software including not only its[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) but also a suite of programs to use all the device's functionality. If this is the case, then within those programs there's also likely a scanning program.
@@ -50,46 +32,54 @@ lolostock / Getty Images
 2. Alternately, press**Win** +**x** to call the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) .  
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Capturing a Scan From a Printer on a Mac  
 
  Scanning from a Mac is just as easy as on Windows 10 (arguably, even easier).
@@ -97,22 +87,18 @@ lolostock / Getty Images
 12. Click**Printers & Scanners** .  
 ![The macOS System Preferences Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/kKB-VHVfmhPQBA1nK35yWTJhURw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PrintersScanners-08c144e554c34b8fb7d8712f0b93da0c.jpg)
 13. Select your printer, then click**Scan** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
@@ -149,8 +135,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +142,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-examining-youtubes-noteworthy-chats/"><u>[Updated] 2024 Approved Examining YouTube's Noteworthy Chats</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-zoom-meetings-unveiled-maximizing-video-clarity/"><u>[Updated] 2024 Approved Zoom Meetings Unveiled Maximizing Video Clarity</u></a></li>
+<li><a href="https://discover-able.techidaily.com/3-simple-methods-moving-your-iphone-footage-to-an-hp-computer/"><u>3 Simple Methods: Moving Your iPhone Footage to an HP Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-installation-tips-for-getting-windows-10-running-on-a-new-disk-unit/"><u>Easy Installation Tips for Getting Windows 10 Running on a New Disk Unit</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-13-mini-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 13 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-x-fold-2-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo X Fold 2 Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insightful-methods-for-measuring-personal-internet-traffic-and-data-expenditure/"><u>Insightful Methods for Measuring Personal Internet Traffic and Data Expenditure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-perfect-selfies-a-comprehensive-guide-to-using-self-lighting-techniques/"><u>Mastering the Art of Perfect Selfies: A Comprehensive Guide to Using Self-Lighting Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-dysfunctional-closed-captioning-on-amazon-prime-streams/"><u>Step-by-Step Fix for Dysfunctional Closed Captioning on Amazon Prime Streams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-obtaining-your-iphones-user-manuals-online/"><u>Step-by-Step Guide to Obtaining Your iPhones' User Manuals Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transferer-facilement-des-videos-flv-a-un-fichier-aac-en-ligne-convertissez-avec-movavi-sans-frais/"><u>Transférer Facilement Des Vidéos FLV À Un Fichier AAC en Ligne - Convertissez Avec Movavi Sans Frais</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-emotional-support-with-our-top-picks-for-5-cutting-edge-therapy-bots/"><u>Transform Emotional Support with Our Top Picks for 5 Cutting-Edge Therapy Bots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-coredll-not-found-and-missing-dll-errors-on-your-pc/"><u>Ultimate Guide: Resolving 'Core.dll Not Found' And Missing DLL Errors on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-portable-fm-radio-experience-on-your-iphone-or-android-a-comprehensive-guide/"><u>Unlocking Portable FM Radio Experience on Your iPhone or Android: A Comprehensive Guide</u></a></li>
+</ul></div>
 

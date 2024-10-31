@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2024-10-17T16:54:49.448Z
-updated: 2024-10-25T03:25:06.732Z
+date: 2024-10-24T17:12:52.428Z
+updated: 2024-10-31T08:54:09.190Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +100,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +133,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,18 +187,16 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-crafting-irresistible-profile-videos/"><u>[New] Crafting Irresistible Profile Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dive-deeper-into-the-world-of-psvr2-exploring-features-market-price-launch-date-and-spec-sheet-details/"><u>Dive Deeper Into the World of PSVR2: Exploring Features, Market Price, Launch Date & Spec Sheet Details</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/impact-of-memory-performance-on-computer-efficiency-understanding-speed-and-delay/"><u>Impact of Memory Performance on Computer Efficiency: Understanding Speed & Delay</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-breaking-barriers-masterful-techniques-for-photosvideos-in-win11/"><u>In 2024, Breaking Barriers Masterful Techniques for Photos/Videos in Win11</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-find-your-way-the-insider-guide-to-youtube-video-management-hub/"><u>In 2024, Find Your Way The Insider Guide to YouTube Video Management Hub</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-self-assured-vlogging-channeling-youtube-stars/"><u>Mastering Self-Assured Vlogging Channeling YouTube Stars</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-your-output-5-quick-methods-to-enhance-your-facebook-efficiency/"><u>Maximize Your Output: 5 Quick Methods to Enhance Your Facebook Efficiency</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mending-disconnected-laptop-and-tv-via-hdmi/"><u>Mending Disconnected Laptop and TV via HDMI</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-mystery-a-step-by-step-guide-to-correcting-stop-0x0000003d-errors/"><u>Resolving the Mystery: A Step-by-Step Guide to Correcting STOP 0X0000003D Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-beginnings-of-streaming-giants-a-look-into-netflixs-original-dvd-subscription-model/"><u>The Beginnings of Streaming Giants: A Look Into Netflix's Original DVD Subscription Model</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-on-activating-and-operating-the-measure-feature-in-your-android-phone/"><u>The Ultimate Walkthrough on Activating and Operating the Measure Feature in Your Android Phone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-7-dslr-gear-for-professional-influencers-live-demonstrations-for-2024/"><u>Top 7 DSLR Gear For Professional Influencers' Live Demonstrations for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-selections-for-speedy-facebook-video-transfers-and-streams/"><u>[New] Top Selections for Speedy Facebook Video Transfers and Streams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-on-restoring-default-settings-in-lenovo-systems/"><u>Complete Tutorial on Restoring Default Settings in Lenovo Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-messengers-evolution-embrace-soundmojis/"><u>Decoding Messenger's Evolution: Embrace Soundmojis</u></a></li>
+<li><a href="https://win-able.techidaily.com/facing-launch-errors-in-lol-discover-the-best-fixes-and-tips-for-a-smooth-game/"><u>Facing Launch Errors in LoL? Discover the Best Fixes and Tips for a Smooth Game</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-hide-news-feeds-and-live-tiles-in-windows-11-easily/"><u>How to Hide News Feeds and Live Tiles in Windows 11 Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-a23-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy A23 5G Phone?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-amalgamating-playlists-on-spotify-for-seamless-music-enjoyment/"><u>Master the Art of Amalgamating Playlists on Spotify for Seamless Music Enjoyment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/teen-flick-treasures-amazing-titles-available-now-on-netflix/"><u>Teen Flick Treasures: Amazing Titles Available Now on Netflix!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-note-12-pro-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi Note 12 Pro 5G Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-to-swiftly-finding-users-on-facebook-using-simple-tricks/"><u>Unlock the Secrets to Swiftly Finding Users on Facebook Using Simple Tricks</u></a></li>
 </ul></div>
 

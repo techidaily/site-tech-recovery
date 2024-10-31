@@ -1,7 +1,7 @@
 ---
 title: Pixel 9 Unveiled? Anticipated Launch Details & Pricing Revealed
-date: 2024-09-10T01:38:25.663Z
-updated: 2024-09-15T21:03:15.903Z
+date: 2024-10-26T03:06:08.494Z
+updated: 2024-10-31T07:53:04.720Z
 categories:
   - BestProducts
 description: This Article Describes Pixel 9 Unveiled? Anticipated Launch Details & Pricing Revealed
@@ -26,6 +26,19 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
@@ -46,6 +59,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Pixel 9 Features
 
@@ -71,10 +91,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Performance
@@ -82,10 +102,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cameras
@@ -100,31 +120,11 @@ MySmartPrice
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -155,5 +155,23 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-pros-handbook-to-perfecting-your-gopro-studio-project/"><u>[New] 2024 Approved The Pro's Handbook to Perfecting Your GoPro Studio Project</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hit-the-floor-with-optimal-posting-hours/"><u>[New] In 2024, Hit the Floor with Optimal Posting Hours</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exquisite-movie-trailer-showcase/"><u>2024 Approved Exquisite Movie Trailer Showcase</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-from-amateur-to-expert-15-must-knows-in-tiktok-video-edits/"><u>2024 Approved From Amateur to Expert 15 Must-Knows in TikTok Video Edits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-costs-for-upcoming-sony-vr-devices-specs-and-release-forecast/"><u>Anticipated Costs for Upcoming Sony VR Devices - Specs & Release Forecast</u></a></li>
+<li><a href="https://article-files.techidaily.com/assembling-visual-slices-photo-montage-techniques-for-2024/"><u>Assembling Visual Slices Photo Montage Techniques for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/downloadable-valentines-day-cards-and-graphics-quick-access-with-atom-park-2014-edition/"><u>Downloadable Valentine's Day Cards & Graphics - Quick Access with ATOM Park (2014 Edition)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-access-and-install-upgraded-drivers-on-an-hp-z440-pc/"><u>How to Access and Install Upgraded Drivers on an HP Z440 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-hack-your-gmail-address-to-filter-messages-and-add-addresses/"><u>How to Hack Your Gmail Address to Filter Messages and Add Addresses</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-se-2022-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone SE (2022) without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-poco-m6-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Poco M6 Pro 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-lameencdll-issues-in-audacity-a-step-by-step-guide/"><u>Resolving lame_enc.dll Issues in Audacity: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-how-to-excel-at-royal-match-game/"><u>The Ultimate Tutorial on How to Excel at Royal Match Game</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-solving-issues-with-non-uploading-instagram-stories/"><u>Troubleshooting Tips: Solving Issues with Non-Uploading Instagram Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-our-selection-8-most-exceptional-book-apps-to-enhance-your-reading-experience/"><u>Unveiling Our Selection: 8 Most Exceptional Book Apps to Enhance Your Reading Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-roadmap-to-pokemon-mastery-playing-pokemon-go-like-a-pro/"><u>Your Roadmap to Pokémon Mastery: Playing Pokémon Go Like a Pro</u></a></li>
+</ul></div>
 

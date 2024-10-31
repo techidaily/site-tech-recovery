@@ -1,7 +1,7 @@
 ---
 title: "Essential Guides: Top 10 Must-Know iPad Shortcuts & Tweaks for Beginners & Experts - ZDNet Insights"
-date: 2024-10-16T17:06:05.890Z
-updated: 2024-10-19T16:24:46.268Z
+date: 2024-10-27T03:22:27.302Z
+updated: 2024-10-31T02:19:36.034Z
 tags:
   - apple
 categories:
@@ -35,13 +35,6 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -81,13 +74,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Low Power Mode can quickly become your best friend
 
 There's no doubt that iPads (especially some of the more recent models) have great battery life. My iPad cruises easily through a full day of use before conking out at bedtime. But that's only true if you limit the amount of heavy lifting you put your iPad through. If you're editing photos or videos, playing lots of games, or using it on a spotty Wi-Fi network for very long, it's going to die sooner than you expect.
@@ -98,13 +84,6 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
@@ -112,10 +91,10 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -132,6 +111,13 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -140,6 +126,13 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Tweak the Control Center
 
 Max Buondonno/ZDNET
@@ -147,6 +140,13 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -188,15 +188,24 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-best-practices-for-engaging-with-facebook-live-content/"><u>[Updated] In 2024, Best Practices for Engaging with Facebook Live Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-master-the-art-of-organizing-group-conversations-on-skype-irrespective-of-your-systems-os/"><u>[Updated] In 2024, Master the Art of Organizing Group Conversations on Skype, Irrespective of Your System's OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/an-in-depth-look-at-what-bing-really-is-and-how-it-works/"><u>An In-Depth Look at What Bing Really Is and How It Works</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-on-watching-spider-man-no-way-home-online/"><u>Complete Guide on Watching 'Spider-Man: No Way Home' Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-speeds-for-optimal-performance-a-guide-to-your-pcs-true-potential/"><u>Essential Speeds for Optimal Performance: A Guide to Your PC's True Potential</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722895973745-how-long-before-a-mailcom-email-address-gets-deleted-find-out-now/"><u>How Long Before a mail.com Email Address Gets Deleted – Find Out Now</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-xiaomi-redmi-13c-by-fonelab-android-recover-video/"><u>How to recover old videos from your Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pc-strategies-mastering-the-game-of-pokemon-unite/"><u>PC Strategies: Mastering the Game of Pokémon Unite</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-insights/"><u>The Ultimate Resource for Tech Enthusiasts - Tom's Hardware Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-dynamic-range-luminances-impact-review/"><u>[New] High Dynamic Range Luminance's Impact Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-panasonics-hx-a1-wearable-cam-examined-a-detailed-review/"><u>[New] Panasonic’s HX-A1 Wearable Cam Examined - A Detailed Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-comprehensible-guide-to-capturing-instagram-media-via-computer-systems/"><u>[New] The Comprehensible Guide to Capturing Instagram Media via Computer Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-10-best-4k-camera-phone/"><u>[New] Top 10 Best 4K Camera Phone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-penning-podcasts-to-perfection-a-compreomed-writers-guide/"><u>2024 Approved Penning Podcasts to Perfection A Compreomed Writer’s Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-v29-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo V29 by Name | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-streaming-issues-can-you-tell-if-twitch-server-down-or-only-yours-facing-connectivity-problems/"><u>Decoding Streaming Issues: Can You Tell If Twitch Server Down or Only Yours Facing Connectivity Problems?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evaluating-the-longevity-of-electric-car-batteries-vs-gas-engine-life-spans/"><u>Evaluating the Longevity of Electric Car Batteries Vs. Gas Engine Life Spans</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-discover-tecnos-streamlined-phones/"><u>IFA 2023: Discover Tecno's Streamlined Phones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-look-at-googles-smart-security-device-revolutionary-identity-verification-and-real-time-parcel-tracking/"><u>Inside Look At Google's Smart Security Device: Revolutionary Identity Verification And Real-Time Parcel Tracking</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/snapchat-cleanup-made-easy-how-to-delete-multiple-friends-quickly-and-effectively/"><u>Snapchat Cleanup Made Easy: How to Delete Multiple Friends Quickly and Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-access-and-decompress-rar-files-on-macos/"><u>Step-by-Step Instructions to Access and Decompress RAR Files on macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/summer-survival-kit-discover-the-7-key-elements-for-your-daily-travel-pack/"><u>Summer Survival Kit: Discover the 7 Key Elements for Your Daily Travel Pack</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-process-of-tiktok-account-deletion-explained/"><u>The Comprehensive Process of TikTok Account Deletion Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-3-emerging-technologies-you-cant-ignore/"><u>Top 3 Emerging Technologies You Can't Ignore</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transitioning-between-generations-how-to-play-your-ps4-collection-on-the-new-ps5/"><u>Transitioning Between Generations: How to Play Your PS4 Collection on the New PS5?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-dns-server-unreachable-issues-in-5-steps/"><u>Troubleshooting Guide: Resolving 'DNS Server Unreachable' Issues in 5 Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-basics-of-ray-tracing-technology/"><u>Understanding the Basics of Ray Tracing Technology</u></a></li>
 </ul></div>
 

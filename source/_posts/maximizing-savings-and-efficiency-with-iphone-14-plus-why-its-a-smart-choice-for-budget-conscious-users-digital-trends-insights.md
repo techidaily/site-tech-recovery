@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Savings and Efficiency with iPhone 14 Plus: Why It's a Smart Choice for Budget-Conscious Users | Digital Trends Insights"
-date: 2024-10-12T16:21:48.153Z
-updated: 2024-10-19T16:37:25.155Z
+date: 2024-10-24T08:28:39.384Z
+updated: 2024-10-30T16:33:36.475Z
 tags:
   - apple
 categories:
@@ -33,6 +33,13 @@ Of course, not every file type has an associated Quick Action but you can add ne
 
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What files offer Quick Actions?
 
 By default, the following file types offer Quick Actions from within the Finder context menu:
@@ -44,31 +51,24 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
 
@@ -97,10 +97,10 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -153,18 +153,17 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/rafting-splitscreen-youtube-videos-a-guide-to-creativity-for-2024/"><u>[New] Crafting Splitscreen YouTube Videos A Guide to Creativity for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-az-video-grabber-in-depth-app-analysis-and-diversions/"><u>2024 Approved AZ Video Grabber In-Depth App Analysis & Diversions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-repairing-coredll-error-and-restoring-your-system/"><u>Comprehensive Strategies for Repairing Core.dll Error and Restoring Your System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-how-to-enable-facebook-marketplace-on-your-account/"><u>Discover How to Enable Facebook Marketplace on Your Account</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-14-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on 14</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-curve-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze Curve 5G Phone without Google Account?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-echo-is-offline-issues-on-your-amazon-alexa-device/"><u>Resolving 'Echo Is Offline' Issues on Your Amazon Alexa Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tackle-baldurs-gate-3s-high-resource-use-expert-solutions-for-gamers/"><u>Tackle Baldur’s Gate 3’S High Resource Use : Expert Solutions for Gamers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-rise-of-facebook-tracing-its-roots-fan-favorite-elements-and-crucial-platform-components/"><u>The Rise of Facebook: Tracing Its Roots, Fan-Favorite Elements, and Crucial Platform Components</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-windows-11-how-to-restore-your-search-functionality/"><u>Troubleshooting Windows 11: How to Restore Your Search Functionality</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbeatable-ecovacs-deal-alert-top-of-the-line-deebots-and-winbots-now-at-50-off-for-a-limited-time-on-prime-day/"><u>Unbeatable ECOVACS Deal Alert: Top-of-the-Line Deebots and Winbots Now at 50% Off for a Limited Time on Prime Day!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/10-free-canon-luts-choose-your-expense-level/"><u>10 Free Canon LUTs; Choose Your Expense Level</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects-for-2024/"><u>A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-output-on-facebook-with-these-5-proven-methods/"><u>Boost Your Output on Facebook with These 5 Proven Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-most-effective-off-grid-linguistic-apps-ranked/"><u>Explore the Most Effective Off-Grid Linguistic Apps, Ranked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oppo-k11x-by-fonelab-android-recover-video/"><u>How to recover old videos from your Oppo K11x</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-programs-designing-animated-3d-worlds-for-2024/"><u>Premier Programs Designing Animated 3D Worlds for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/professional-vue-black-dashboard-exclusive-premium-bootstrap-4-admin-suite-from-creative-tim/"><u>Professional Vue Black Dashboard: Exclusive Premium Bootstrap 4 Admin Suite From Creative Tim</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-connection-issues-how-to-tell-if-discord-server-is-down/"><u>Troubleshooting Connection Issues: How To Tell If Discord Server Is Down</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tricks-to-get-your-windows-computer-to-start-up-in-safe-mode/"><u>Ultimate Tricks to Get Your Windows Computer to Start Up in Safe Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-disabling-the-automatic-play-feature-in-your-apple-music-library/"><u>Understanding & Disabling the Automatic Play Feature in Your Apple Music Library</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-f25-pro-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ling-the-secrets-of-youtube-shorts-success/"><u>Unveiling the Secrets of YouTube Shorts Success</u></a></li>
 </ul></div>
 

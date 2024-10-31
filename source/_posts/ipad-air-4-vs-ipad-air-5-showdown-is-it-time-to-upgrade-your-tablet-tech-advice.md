@@ -1,7 +1,7 @@
 ---
 title: "IPad Air 4 vs iPad Air 5 Showdown: Is It Time to Upgrade Your Tablet? | Tech Advice"
-date: 2024-10-21T16:23:57.030Z
-updated: 2024-10-25T03:00:48.110Z
+date: 2024-10-26T05:19:55.599Z
+updated: 2024-10-30T23:57:07.324Z
 tags:
   - apple
 categories:
@@ -37,6 +37,13 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -54,6 +61,13 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
@@ -64,13 +78,6 @@ The saying you can't teach an old dog new tricks doesn't really apply to the iPa
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You want a better front camera and FaceTime experience
 
 Camera performance isn't typically the key selling point for tablets, let alone iPads. But with the iPad Air 5, Apple does emphasize its new and improved front-facing camera.
@@ -80,16 +87,16 @@ Camera performance isn't typically the key selling point for tablets, let alone 
 While the 12MP rear camera remains untouched, the front now houses a 12MP ultra-wide camera. With a wider field of view than the previous generation's 7MP FaceTime HD lens, the new iPad can take advantage of Center Stage, Apple's webcam feature that tracks and follows your face as you move around. This is particularly useful for presentations and FaceTime calls with friends and family.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. You thrive on 5G
@@ -104,13 +111,6 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 Image: Apple
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Price comes before anything else
 
 With the release of the new iPad Air, most third-party retailers have since marked down the 2020 model as a means to clear out inventory. The winner of this sequence is you, the consumer. At the time of writing, the iPad Air 4 can be had for as low as [$429](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-10-9-inch-Cellular-Generation-Renewed%2Fdp%2FB08PF8HCDJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0fd05516-7afe-47e7-81c2-ef0b479cd1b1%7Cdtp&dtb=1), less if you opt for an open-market retailer like eBay. That's more than a $150 difference compared to the new iPad Air 5 which, in a snapshot, only wins out on 5G, the front-facing camera, and processing power. If one, two, or even all three of those aspects are not on your priority list of features, then opting for the older iPad Air may be the best play here. 
@@ -124,10 +124,10 @@ With the release of the new iPad Air, most third-party retailers have since mark
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
@@ -176,19 +176,20 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-easy-access-guide-skype-audio-to-mp3-free/"><u>[New] In 2024, Easy-Access Guide Skype Audio to Mp3, Free</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-uncomplicated-gameplay-saving-in-warframe/"><u>2024 Approved Uncomplicated Gameplay Saving in Warframe</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boosting-linux-security-on-your-laptop-with-these-7-essential-tips/"><u>Boosting Linux Security on Your Laptop with These 7 Essential Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/does-image-smoothing-streamline-the-creative-process/"><u>Does Image Smoothing Streamline the Creative Process?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-factors-when-choosing-your-dream-gaming-computer/"><u>Essential Factors When Choosing Your Dream Gaming Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-vivo-t2-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Vivo T2 5G?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-guide-to-30-compelling-video-presentation-ideas/"><u>In 2024, A Guide to 30 Compelling Video Presentation Ideas</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-spark-10-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Spark 10 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-buzz-on-google-pixel-fold-2-price-predictions-launch-date-anticipations-full-specifications-and-hidden-gems-in-rumors/"><u>Inside the Buzz on Google Pixel Fold 2: Price Predictions, Launch Date Anticipations, Full Specifications, and Hidden Gems in Rumors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-motherboard-selection-what-to-look-for-in-the-first-place/"><u>Mastering Motherboard Selection: What to Look For in the First Place</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-when-vcompdll-is-missing-or-cant-be-found/"><u>Step-by-Step Fix for When Vcomp.dll Is Missing or Can't Be Found</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-effortless-updating-of-microsoft-surface-drivers/"><u>Step-by-Step Tutorial for Effortless Updating of Microsoft Surface Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-how-to-resolve-advrcntr2dll-error-in-nero-program/"><u>The Ultimate Guide: How To Resolve Advrcntr2.dll Error in Nero Program</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-to-increasing-your-twitter-fanbase-quickly-and-effectively/"><u>Unlock the Secrets to Increasing Your Twitter Fanbase Quickly and Effectively</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-insta-video-sharing-from-youtube-for-2024/"><u>[New] Mastering Insta-Video Sharing From YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-film-makers-quick-guide-to-perfect-sea-scenes/"><u>[Updated] The Film-Maker’s Quick Guide to Perfect Sea Scenes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/behind-chatgpts-innovation-who-are-the-brain-trust/"><u>Behind ChatGPT's Innovation: Who Are The Brain Trust?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-childrens-movie-recommendations-for-disneyplus-in-july-2024/"><u>Best Children's Movie Recommendations for Disney+ in July 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambiar-formato-de-video-de-mpeg-a-mp4-gratuito-mediante-el-sitio-web-de-movavi/"><u>Cambiar Formato De Vídeo De MPEG a MP4 Gratuito Mediante El Sitio Web De Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-zero-30-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-narzo-60x-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme Narzo 60x 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170517578-mastering-xbox-one-play-anyhow/"><u>Mastering Xbox One: Play Anyhow</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-phone-search-strategies-finding-contact-details-safely-and-effectively/"><u>Online Phone Search Strategies: Finding Contact Details Safely and Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmart-glitching-computers-get-the-latest-nvidia-driver-now/"><u>Outsmart Glitching Computers – Get the Latest Nvidia Driver Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/perfecting-your-posts-with-sound-adding-music-to-instagram-videos-made-easy/"><u>Perfecting Your Posts with Sound: Adding Music to Instagram Videos Made Easy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ficant-details-in-asmr-recording-art-for-2024/"><u>Significant Details in ASMR Recording Art for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-advapi32dll-file-missing-issues-on-your-computer/"><u>Solving the 'Advapi32.dll' File Missing Issues on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-missing-avcodecdll-errors-in-windows-1087/"><u>The Ultimate Solution to Missing Avcodec.dll Errors in Windows 10/8/7</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-6-minecraft-oriental-house-ideas/"><u>Top 6 Minecraft Oriental House Ideas</u></a></li>
 </ul></div>
 

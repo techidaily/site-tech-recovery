@@ -1,7 +1,7 @@
 ---
 title: Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet
-date: 2024-10-21T06:00:29.646Z
-updated: 2024-10-25T02:43:18.247Z
+date: 2024-10-27T22:23:28.097Z
+updated: 2024-10-31T05:18:27.934Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,19 +131,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-enhancing-iphone-x-security-mending-facial-detection-glitches/"><u>[New] In 2024, Enhancing iPhone X Security Mending Facial Detection Glitches</u></a></li>
-<li><a href="https://some-skills.techidaily.com/1-mastering-epub-covers-comprehensive-steps-to-updating-and-adding-them/"><u>1. Mastering EPUB Covers: Comprehensive Steps to Updating and Adding Them</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-yuneec-typhoon-hs-potential/"><u>2024 Approved Discovering the Yuneec Typhoon H's Potential</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-your-vob-files-to-mkv-for-free-on-the-web-using-movavis-simple-tools/"><u>Convert Your VOB Files to MKV for Free on the Web Using Movavi’s Simple Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/dynamic-discussion-drivers-in-instagram-social-media-surveys-for-2024/"><u>Dynamic Discussion Drivers in Instagram Social Media Surveys for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-someone-quickly-the-ultimate-list-of-8-people-tracking-engines/"><u>Find Someone Quickly: The Ultimate List of 8 People-Tracking Engines</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-your-avi-files-into-wmv-format-effortlessly-with-movavi/"><u>Free Online Converter: Transform Your AVI Files Into WMV Format Effortlessly with Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-gaming-with-nvidias-updated-rtx-3070-drivers-compatible-with-windows-1110/"><u>Improve Gaming with NVIDIA's Updated RTX 3070 Drivers - Compatible with Windows 11/10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/les-consequences-juridiques-de-lenregistrement-audio-sans-autorisation/"><u>Les Conséquences Juridiques De L’Enregistrement Audio Sans Autorisation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rmvb-to-mp3-online-free-converter-movavi/"><u>RMVB to MP3 Online Free Converter - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformation-gratuite-daif-a-ligne-de-commande-movavi/"><u>Transformation Gratuite D'AIF À Ligne De Commande - Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unable-to-find-your-iphones-lost-app-tricks-for-swift-retrieval/"><u>Unable To Find Your iPhone's Lost App? Tricks For Swift Retrieval</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-consistency-secured/"><u>Windows 10 Screen Consistency Secured</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728501291028-windows-1011/"><u>Windows 10/11の起動修正に失敗する対策</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lord-of-the-rings-movies-ordered-best-way-to-enjoy-tolkiens-masterpiece/"><u>'Lord of the Rings' Movies Ordered: Best Way to Enjoy Tolkien's Masterpiece</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-list-of-effective-snapchat-techniques/"><u>[New] 2024 Approved The Ultimate List of Effective Snapchat Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-guide-how-to-download-podcasts-on-iphone/"><u>[New] Ultimate Guide How to Download Podcasts on iPhone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-expert-tips-for-effortless-screen-recording-on-android/"><u>2024 Approved Expert Tips for Effortless Screen Recording on Android</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-exploring-the-best-text-to-speech-online-tools-to-use/"><u>2024 Approved Exploring The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/an-in-depth-guide-to-what-is-chatgpt-and-its-working-principles/"><u>An In-Depth Guide to What Is ChatGPT and Its Working Principles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-efficiency-with-xr-technology-score-a-frugal-deal-at-20-off-for-amazons-prime-day-featuring-three-virtual-screens-per-macbook-zdnet/"><u>Augmented Efficiency with XR Technology: Score a Frugal Deal at 20% Off for Amazon's Prime Day - Featuring Three Virtual Screens per MacBook! | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-the-price-tags-of-uber-and-taxi-services/"><u>Comparing the Price Tags of Uber and Taxi Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-leading-registry-cleaners-of-2nd-complimentary-options-unveiled/"><u>Discover the Leading Registry Cleaners of 2N'd: Complimentary Options Unveiled!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/vering-the-hidden-truth-behind-youtubes-viewer-numbers/"><u>Discovering the Hidden Truth Behind YouTube's Viewer Numbers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hilarious-idevice-tricks-ultimate-guide-to-ipod-iphone-and-ipad-prank-ideas/"><u>Hilarious iDevice Tricks: Ultimate Guide to iPod, iPhone & iPad Prank Ideas</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-reconstructing-your-tiktok-identity-step-by-step-renaming-manual/"><u>In 2024, Reconstructing Your TikTok Identity Step-by-Step Renaming Manual</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-info-on-the-newest-apple-household-aide-anticipated-cost-and-specs-uncovered/"><u>Insider Info on the Newest Apple Household Aide: Anticipated Cost & Specs Uncovered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722890302883-samsung-galaxy-z-fold-6-upcoming-release-date-revealed-plus-prices-and-specs-inside/"><u>Samsung Galaxy Z Fold 6 - Upcoming Release Date Revealed! Plus Prices and Specs Inside.</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-nokia-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Nokia</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-12-best-free-online-calling-apps-expert-reviews-inside/"><u>Top 12 Best Free Online Calling Apps – Expert Reviews Inside!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-concept-of-output-impedance/"><u>Understanding the Concept of Output Impedance</u></a></li>
 </ul></div>
 

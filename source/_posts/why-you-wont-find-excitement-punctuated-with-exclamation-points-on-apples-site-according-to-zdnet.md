@@ -1,7 +1,7 @@
 ---
 title: Why You Won't Find Excitement Punctuated with Exclamation Points on Apple's Site, According to ZDNET
-date: 2024-10-12T16:11:36.729Z
-updated: 2024-10-19T16:40:08.061Z
+date: 2024-10-26T18:49:21.595Z
+updated: 2024-10-30T22:35:35.892Z
 tags:
   - apple
 categories:
@@ -79,16 +79,10 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -130,16 +124,10 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -205,17 +193,20 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-maximize-your-spotify-campaign-roi-an-expert-guide/"><u>[New] Maximize Your Spotify Campaign ROI - An Expert Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>[New] Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-the-process-of-downloading-instagram-videos-pcmac-for-2024/"><u>[New] Unveiling the Process of Downloading Instagram Videos (PC/Mac) for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-turning-snapchat-into-cash-secrets-revealed/"><u>2024 Approved Turning Snapchat Into Cash Secrets Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-individuals-who-liked-your-instagram-post-a-step-by-step-guide/"><u>Identifying Individuals Who Liked Your Instagram Post: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quickly-pivoting-vids-in-windows-11-discover-these-three-simple-strategies/"><u>Quickly Pivoting Vids in Windows 11: Discover These Three Simple Strategies!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/setting-up-customized-finder-preferences-for-organizing-your-files-and-subfolders/"><u>Setting Up Customized Finder Preferences for Organizing Your Files & Subfolders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-presents-for-young-video-game-fans-console-and-add-on-collections/"><u>Top Presents for Young Video Game Fans: Console and Add-On Collections</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transfer-media-seamlessly-with-winxdvd-your-ultimate-dvd-ripper-and-video-editor-for-all-devices/"><u>Transfer Media Seamlessly with WinXDVD - Your Ultimate DVD Ripper & Video Editor for All Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-resource-consumption-of-compatibility-telemetry-service-on-windows-10-systems/"><u>Troubleshooting High Resource Consumption of Compatibility Telemetry Service on Windows 10 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-fixing-syntax-problems-in-your-android-codebase-with-simple-solutions/"><u>Understanding & Fixing Syntax Problems in Your Android Codebase with Simple Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-full-potential-a-guide-to-enabling-120fps-graphics-in-ps5-games/"><u>Unlocking Full Potential: A Guide to Enabling 120Fps Graphics in PS5 Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-budget-friendly-broadcaster-gear-for-video-voyeurs/"><u>[New] 2024 Approved Budget-Friendly Broadcaster Gear for Video Voyeurs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-audio-booster-apps-to-quicken-playback/"><u>[Updated] Top Audio Booster Apps to Quicken Playback</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dual-storage-mastery-how-to-delete-icloud-images-and-keep-them-intact-on-iphone/"><u>Dual-Storage Mastery: How to Delete iCloud Images and Keep Them Intact on iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-missing-ksuserdll-errors-with-easy-troubleshooting-tips/"><u>Eliminating Missing ksuser.dll Errors with Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-your-dream-ipad-at-discounted-prices-right-now/"><u>Find Your Dream iPad at Discounted Prices Right Now</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-a1x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo A1x 5G Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-maximize-reach-essential-youtube-seo-tools-unlocked/"><u>In 2024, Maximize Reach Essential YouTube SEO Tools Unlocked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-there-a-psn-service-interruption-or-are-you-facing-connectivity-problems/"><u>Is There A PSN Service Interruption, Or Are You Facing Connectivity Problems?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-deskjet-3755-all-in-one-printer-drivers-optimized-download-for-windows-users-on-win11-8-and-7-platforms/"><u>Latest HP DeskJet 3755 All-in-One Printer Drivers: Optimized Download for Windows Users on Win11, 8 & 7 Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-the-maze-of-car-audio-encryption-learn-how-to-find-your-radio-security-code-easily/"><u>Navigate the Maze of Car Audio Encryption – Learn How to Find Your Radio Security Code Easily!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-time-lapse-like-a-pro-advanced-techniques-in-final-cut-pro/"><u>New Time Lapse Like a Pro Advanced Techniques in Final Cut Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protecting-your-mail-app-on-macos-a-step-by-step-guide-to-creating-safe-senders-lists/"><u>Protecting Your Mail App on macOS: A Step-by-Step Guide to Creating Safe Senders Lists</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-tech-hacks-how-to-perform-screen-reflection-on-an-lg-display/"><u>Seamless Tech Hacks: How to Perform Screen Reflection on an LG Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-practices-for-timing-user-removals-on-formerly-twitter/"><u>The Best Practices for Timing User Removals on [Formerly Twitter]</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-power-of-automated-data-sanitization-setting-up-stellar-file-eraser-tasks-in-windows/"><u>The Power of Automated Data Sanitization: Setting Up Stellar File Eraser Tasks in Windows</u></a></li>
 </ul></div>
 

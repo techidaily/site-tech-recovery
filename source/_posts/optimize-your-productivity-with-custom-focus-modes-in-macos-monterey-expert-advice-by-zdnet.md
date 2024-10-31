@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Productivity with Custom Focus Modes in macOS Monterey | Expert Advice by ZDNET
-date: 2024-10-18T02:50:42.588Z
-updated: 2024-10-25T05:11:08.986Z
+date: 2024-10-29T16:54:17.036Z
+updated: 2024-10-31T04:31:05.272Z
 tags:
   - apple
 categories:
@@ -28,22 +28,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -63,10 +56,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -85,6 +78,13 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -100,10 +100,16 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,22 +154,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-exclusive-guide-10-immersive-youtube-vr-films/"><u>[New] In 2024, Exclusive Guide 10 Immersive YouTube VR Films</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-simplified-background-editing-in-google-meet-chats-for-2024/"><u>[Updated] Simplified Background Editing in Google Meet Chats for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-on-purging-stored-videos-from-youtube-watchlater/"><u>2024 Approved Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/m1v-moovavis/"><u>無障礙直接下載 M1V格式 - Moovavis</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-steps-to-swap-out-your-old-ipads-power-source/"><u>Complete Guide: Steps to Swap Out Your Old iPad's Power Source</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-securely-delete-the-lock-screen-access-code-on-windows-n-operating-system/"><u>How to Securely Delete the Lock Screen Access Code on Windows N Operating System</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>In 2024, Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-resolution-of-kernel-buffer-overflow-issues-expert-tips-and-techniques/"><u>Mastering the Resolution of Kernel Buffer Overflow Issues: Expert Tips & Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/netflix-struggles-heres-how-to-get-smooth-streaming-again/"><u>Netflix Struggles? Here's How to Get Smooth Streaming Again</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-setup-integrating-playstation-vr-into-your-pc-gaming-rig/"><u>Seamless Setup: Integrating PlayStation VR Into Your PC Gaming Rig</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/smart-texting-strategies-to-save-on-mobile-data/"><u>Smart Texting Strategies to Save on Mobile Data</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y28-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y28 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-restoring-default-settings-on-your-samsung-soundbar/"><u>Troubleshooting Tips: Restoring Default Settings on Your Samsung Soundbar</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unprecedented-ar-app-with-vocal-recognition/"><u>Unprecedented AR App with Vocal Recognition</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/web-superstars-exploring-the-top-1-must-visit-sites-across-the-internet/"><u>Web Superstars: Exploring the Top 1# Must-Visit Sites Across the Internet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-from-recordings-to-live-streams-instagram-via-obs-explained-for-2024/"><u>[New] From Recordings to Live Streams Instagram via OBS Explained for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-proven-6-best-video-grabbers-for-your-mac/"><u>[New] Proven 6 Best Video Grabbers for Your Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illuminate-iphone-clips-simple-solutions-to-lighten-video/"><u>[Updated] Illuminate iPhone Clips Simple Solutions to Lighten Video</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterclass-6-techniques-for-clear-unblemished-photo-edits/"><u>[Updated] Masterclass 6 Techniques for Clear, Unblemished Photo Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-how-to-catch-every-thrilling-moment-in-cricket/"><u>[Updated] Step-by-Step Guide How to Catch Every Thrilling Moment in Cricket</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-reno-8t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Reno 8T?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cutting-cord-costs-alternative-approaches-for-internet-access-at-home/"><u>Cutting Cord Costs: Alternative Approaches for Internet Access at Home</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-creators-behind-chatgpt-whos-responsible/"><u>Discover the Creators Behind ChatGPT: Who's Responsible?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gmail-insights-techniques-to-find-out-if-an-email-was-actually-opened/"><u>Gmail Insights: Techniques to Find Out If an Email Was Actually Opened</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-msvbvm50dll-errors-missing-or-not-found/"><u>How to Correctly Address Msvbvm50.dll Errors: Missing or Not Found?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cultivate-creativity-10plus-channel-driven-video-suggestions/"><u>In 2024, Cultivate Creativity 10+ Channel-Driven Video Suggestions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-network-tools-how-to-echo-check-your-websites-status/"><u>Navigating the World of Network Tools: How to Echo Check Your Website's Status</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-the-steps-disabling-your-tiktok-user-account/"><u>Navigating Through the Steps: Disabling Your TikTok User Account</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retrieving-old-notifications-tips-and-tricks-for-iphone-users/"><u>Retrieving Old Notifications: Tips and Tricks for iPhone Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-art-of-tweaking-soundtracks-in-youtube-videos/"><u>The Art of Tweaking Soundtracks in YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-the-magic-searching-for-photos-on-pexels-for-2024/"><u>Unleashing the Magic Searching for Photos on Pexels for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-tracking-shares-of-your-facebook-posts/"><u>Unlocking the Secrets: Tracking Shares of Your Facebook Posts</u></a></li>
 </ul></div>
 

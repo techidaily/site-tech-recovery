@@ -1,7 +1,7 @@
 ---
 title: Samsung Advances in Artificial Intelligence Pushes It Higher on the Global Innovation Leaderboard Following Google's Antitrust Setback
-date: 2024-10-17T20:28:44.985Z
-updated: 2024-10-25T10:08:42.539Z
+date: 2024-10-28T08:34:08.447Z
+updated: 2024-10-31T03:01:13.933Z
 tags:
   - apple
 categories:
@@ -68,6 +68,13 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -101,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -128,13 +135,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -153,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,22 +218,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[New] In 2024, How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/twitter-marketing-basics-promoting-tweets-creating-polls-and-using-media-effectively/"><u>[Twitter Marketing Basics: Promoting Tweets, Creating Polls, & Using Media Effectively]</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-synergy-of-data-and-imagination-ideas-from-google-trends/"><u>[Updated] Synergy of Data and Imagination Ideas From Google Trends</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728500098921-hdd/"><u>外部HDD認証問題の解決方法 - トラブルシューティングガイド</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a24-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A24 FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choosing-the-perfect-iphone-for-your-gaming-needs-a-guide/"><u>Choosing the Perfect iPhone for Your Gaming Needs: A Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/engaging-audiences-with-instagram-stories-surveys-for-2024/"><u>Engaging Audiences with Instagram Stories Surveys for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-most-recent-upgrade-to-the-ipad-lineup/"><u>Exploring the Most Recent Upgrade to the iPad Lineup</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-realme-narzo-60x-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Realme Narzo 60x 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-illuminate-your-images-adding-life-with-illustrator-motion/"><u>In 2024, Illuminate Your Images Adding Life with Illustrator Motion</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-my-discord-lagging-because-of-a-global-glitch-or-is-it-just-me/"><u>Is My Discord Lagging Because of a Global Glitch, or Is It Just Me?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/learn-the-secrets-of-maintaining-continuous-mac-operation-and-avoiding-unwanted-sleep/"><u>Learn the Secrets of Maintaining Continuous Mac Operation and Avoiding Unwanted Sleep</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/leveraging-text-overlays-for-engaging-visual-posts/"><u>Leveraging Text Overlays for Engaging Visual Posts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/professional-tricks-to-fix-your-furry-friends-photo-eyes-flawlessly/"><u>Professional Tricks to Fix Your Furry Friend’s Photo Eyes Flawlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-watching-fandango-on-your-apple-device/"><u>Step-by-Step Tutorial for Watching Fandango on Your Apple Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-setting-up-and-displaying-your-nintendo-switch-on-hdtv/"><u>Step-by-Step Tutorial: Setting Up and Displaying Your Nintendo Switch on HDTV</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-scrutinizing-the-functionality-of-pixelrecorder-12/"><u>[New] Scrutinizing the Functionality of PixelRecorder 12</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-nikons-challenge-to-gopro-hero-black-in-video-realm-for-2024/"><u>[Updated] Nikon's Challenge to GoPro HERO Black in Video Realm for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-a-chronicle-of-the-most-popular-reddit-threads-ever/"><u>2024 Approved A Chronicle of the Most Popular Reddit Threads Ever</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-practices-for-screen-recording-phones/"><u>2024 Approved Best Practices for Screen Recording Phones</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-gifs-your-step-by-step-meme-making-journey/"><u>2024 Approved Mastering GIFs Your Step-by-Step Meme Making Journey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-hottest-lgbtplus-flicks-on-netflix-july-2024-edition/"><u>Discover the Hottest LGBT+ Flicks on Netflix (July 2024 Edition)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-entertainment-setup-your-guide-to-watching-hulu-on-an-lg-smart-screen/"><u>Effortless Entertainment Setup: Your Guide to Watching Hulu on an LG Smart Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-toolwiz-visual-mastery-a-comprehensive-review/"><u>In 2024, Toolwiz Visual Mastery - A Comprehensive Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-languages-like-a-pro-with-our-curated-list-of-top-noffline-translator-applications/"><u>Navigate Languages Like a Pro With Our Curated List of Top nOffline Translator Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-the-internet-to-retrieve-an-individuals-email-safely/"><u>Navigate the Internet to Retrieve an Individual's Email Safely</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/perfecting-imovie-posts-on-vimeo-for-enhanced-viewership-for-2024/"><u>Perfecting iMovie Posts on Vimeo for Enhanced Viewership for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-nutrition-tracking-apps-you-should-try-today/"><u>Top 6 Nutrition Tracking Apps You Should Try Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/wave-off-your-insta-footprint-complete-guide-to-permanent-delete-for-2024/"><u>Wave Off Your Insta Footprint Complete Guide to Permanent Delete for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722884714968-whats-next-anticipated-details-for-the-new-google-pixel-tab-coming-soon/"><u>What's Next? Anticipated Details for The New Google Pixel Tab Coming Soon</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-essential-list-of-the-best-free-utilities-for-quick-and-easy-software-removal-top-15-edition/"><u>Your Essential List of the Best Free Utilities for Quick and Easy Software Removal, Top 15 Edition</u></a></li>
 </ul></div>
 

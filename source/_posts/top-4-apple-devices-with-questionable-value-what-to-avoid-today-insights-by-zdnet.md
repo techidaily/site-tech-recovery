@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet"
-date: 2024-10-21T07:23:07.078Z
-updated: 2024-10-24T23:19:29.566Z
+date: 2024-10-26T05:28:16.186Z
+updated: 2024-10-31T05:53:40.095Z
 tags:
   - apple
 categories:
@@ -59,13 +59,6 @@ Don't buy these devices:
 
 ## **The 'Nice' list**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple iPhone 16**
 
 iPhone 16
@@ -75,10 +68,10 @@ Jason Hiner/ZDNET
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
@@ -88,6 +81,13 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -132,13 +132,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -155,16 +148,10 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
@@ -187,6 +174,13 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -228,20 +222,20 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-essential-top-10-live-streamers-android-and-iphone-edition/"><u>[New] Essential Top 10 Live Streamers Android & iPhone Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-audio-equipment-matched-with-4k-cameras/"><u>[Updated] Best Audio Equipment Matched with 4K Cameras</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-deciphering-your-ideal-vr-equipment-preference-for-portable-mobile-or-plugged-in-tethered/"><u>2024 Approved Deciphering Your Ideal VR Equipment Preference for Portable (Mobile) or Plugged-In (Tethered)?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>2024 Approved Direct YouTube Tunes to MP3s Online & Offline Options</u></a></li>
-<li><a href="https://article-files.techidaily.com/efficient-strategies-for-posting-srt-files-to-social-media/"><u>Efficient Strategies for Posting SRT Files to Social Media</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-multitasking-activating-androids-picture-in-picture-feature-effortlessly/"><u>Enhancing Multitasking: Activating Android's Picture-in-Picture Feature Effortlessly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-advanced-security-at-a-bargain-75-tp-link-tapo-video-doorbell-featuring-intelligent-detection-zero-monthly-fee-offer-secure-your-code-now/"><u>Get Advanced Security at a Bargain: $75 TP-Link Tapo Video Doorbell Featuring Intelligent Detection, Zero Monthly Fee Offer - Secure Your Code Now!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y78t-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y78t</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipad-mini-vs-ipad-air-whats-the-difference/"><u>IPad Mini vs iPad Air: What's the Difference?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-12-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme 12 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rtx-6000-nvidia-driver-downloads/"><u>RTX 6000 NVIDIA Driver Downloads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-adding-expressive-gif-reactions-to-your-instagram-comments/"><u>The Ultimate Tutorial: Adding Expressive GIF Reactions to Your Instagram Comments</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-must-watch-teen-films-streaming-on-netflix-now/"><u>Top 5 Must-Watch Teen Films Streaming on Netflix Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/track-down-gone-away-numbers-a-guide-to-recovering-deletions-on-android-devices/"><u>Track Down Gone-Away Numbers: A Guide to Recovering Deletions on Android Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-ebook-purchases-a-users-guide-to-utilizing-the-books-app-on-apple-tablets-and-phones/"><u>Unlocking eBook Purchases: A User’s Guide to Utilizing the Books App on Apple Tablets and Phones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-from-recordings-to-live-streams-instagram-via-obs-explained/"><u>[New] From Recordings to Live Streams Instagram via OBS Explained</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-groundbreiting-recording-solutions-for-environmental-films/"><u>[Updated] In 2024, Groundbreiting Recording Solutions for Environmental Films</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed-for-2024/"><u>[Updated] Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-luxury-in-depth-review-of-the-tcl-50s425-50-4k-uhdtv-a-great-deal/"><u>Affordable Luxury: In-Depth Review of the TCL 50S425 50 4K UHDTV - A Great Deal!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chronicles-of-progress-top-11-tech-milestones-since-1844/"><u>Chronicles of Progress: Top 11 Tech Milestones Since 1844</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/clearing-out-unnecessary-data-a-users-manual-for-android-cache-management/"><u>Clearing Out Unnecessary Data: A User’s Manual for Android Cache Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-the-502-gateway-problem-tips-for-quick-recovery/"><u>Demystifying the 502 Gateway Problem: Tips for Quick Recovery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-access-your-desktop-setting-up-automatic-login-on-windows/"><u>Effortlessly Access Your Desktop: Setting Up Automatic Login on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-guide-restoring-alexas-response-capability-when-it-stops-working/"><u>Expert Guide: Restoring Alexa's Response Capability when It Stops Working</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/signal-or-whatsapp-a-comprehensive-guide-to-choose-your-preferred-chat-platform/"><u>Signal or WhatsApp? A Comprehensive Guide to Choose Your Preferred Chat Platform</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-approach-to-saving-instagram-stories/"><u>Step-by-Step Approach to Saving Instagram Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-6-best-offline-multilingual-translation-solutions/"><u>The Ultimate List of 6 Best Offline Multilingual Translation Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-p55plus-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel P55+</u></a></li>
 </ul></div>
 

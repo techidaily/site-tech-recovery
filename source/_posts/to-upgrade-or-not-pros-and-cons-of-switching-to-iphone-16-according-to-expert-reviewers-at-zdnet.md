@@ -1,7 +1,7 @@
 ---
 title: "To Upgrade or Not: Pros & Cons of Switching to iPhone 16, According to Expert Reviewers at ZDNet"
-date: 2024-10-18T18:58:11.321Z
-updated: 2024-10-24T20:44:18.212Z
+date: 2024-10-25T23:45:57.807Z
+updated: 2024-10-31T00:36:39.836Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -54,10 +54,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -71,13 +71,6 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -101,16 +94,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -129,6 +122,13 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -176,18 +176,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-exploring-better-video-encoding-av1s-challenge-to-vp9/"><u>[New] 2024 Approved Exploring Better Video Encoding AV1's Challenge to VP9</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-digital-photo-albums-acoustic-advancement-for-2024/"><u>[Updated] Digital Photo Albums Acoustic Advancement for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-profiles-in-metaverse-promotion-case-studies-and-more/"><u>[Updated] Profiles in Metaverse Promotion Case Studies and More</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook/"><u>2024 Approved How to Set Up Smooth Transitions YouTube Content Playback on Facebook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-razr-40-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola Razr 40 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726218793272-movavi/"><u>史詩級指南：線上直播與電腦屏幕錄影教學 - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726226342238-m1vmp4-movavi/"><u>無料で簡単! M1VからMP4へのスムーズなオンライン変換 - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tutorial-on-editing-videos-efficiently-using-adobe-after-effects-software/"><u>Expert Tutorial on Editing Videos Efficiently Using Adobe After Effects Software</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-8-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 8 Prowith/without a PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-audio-file-transformation-change-m4b-to-wav-for-free-by-using-movavis-service/"><u>Online Audio File Transformation: Change M4B to WAV for Free by Using Movavi's Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-free-converter-transform-m4r-files-into-mp4-format-with-movavi/"><u>Online Free Converter: Transform M4R Files Into MP4 Format with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/os-top-16-aplicativos-ideais-para-captura-de-tela-no-sistema-operacional-windows-10/"><u>Os Top 16 Aplicativos Ideais Para Captura De Tela No Sistema Operacional Windows 10</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/prime-pickups-for-novice-gopro-owners/"><u>Prime Pickups for Novice GoPro Owners</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-free-youtube-ending-creators-top-6-picks/"><u>[New] 2024 Approved Best Free YouTube Ending Creators - Top 6 Picks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-prime-action-mic-choices-for-clear-videos/"><u>[Updated] Prime Action Mic Choices for Clear Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-guide-from-script-writing-to-final-audio-in-videos/"><u>2024 Approved Ultimate Guide From Script Writing to Final Audio in Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-f25-pro-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo F25 Pro 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-autoplay-on-apple-music-a-step-by-step-guide/"><u>Disabling Autoplay on Apple Music: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-your-viewing-experience-ultimate-setup-for-samsungs-4k-tv-screen/"><u>Enhancing Your Viewing Experience: Ultimate Setup for Samsung's 4K TV Screen</u></a></li>
+<li><a href="https://driver-download.techidaily.com/finding-and-installing-official-asus-biosuefi-updates-for-windows-users/"><u>Finding and Installing Official ASUS BIOS/UEFI Updates for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-checking-past-and-present-audiences-for-your-google-docs/"><u>Guide: Checking Past and Present Audiences for Your Google Docs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-stop-0x00000078-phase0exception/"><u>How to Fix STOP 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-make-an-apple-genius-bar-appointment/"><u>How to Make an Apple Genius Bar Appointment</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-2-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infuse-photos-with-realism-facial-motion-blur-via-picsart-for-2024/"><u>Infuse Photos with Realism Facial Motion Blur via Picsart for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-15-reactivation-steps-a-step-by-step-walkthrough/"><u>IPhone 15 Reactivation Steps: A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-hacks-the-definitive-guide-to-sending-sound-based-messages-efficiently/"><u>IPhone Hacks: The Definitive Guide to Sending Sound-Based Messages Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/micromobility-insights-key-dates-latest-updates-buzz-and-more/"><u>Micromobility Insights: Key Dates, Latest Updates, Buzz & More</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stop-losses-maintaining-seamless-obs-recording-for-2024/"><u>Stop Losses Maintaining Seamless OBS Recording for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-motion-blur-from-theory-to-practice-in-ps/"><u>The Essential Guide to Motion Blur From Theory to Practice in PS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-following-mens-ncaa-basketball-from-march-madness-to-the-final-four/"><u>The Ultimate Guide to Following Men’s NCAA Basketball - From March Madness to the Final Four</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-your-mobile-queries-discover-the-latest-in-ai-search-on-android-and-ios-through-bing/"><u>Upgrade Your Mobile Queries: Discover the Latest in AI Search on Android and iOS Through Bing</u></a></li>
 </ul></div>
 

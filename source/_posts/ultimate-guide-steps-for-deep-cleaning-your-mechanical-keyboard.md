@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Steps for Deep-Cleaning Your Mechanical Keyboard"
-date: 2024-09-09T16:34:13.984Z
-updated: 2024-09-10T16:34:13.984Z
+date: 2024-10-29T06:02:04.344Z
+updated: 2024-10-31T01:33:18.337Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Steps for Deep-Cleaning Your Mechanical Keyboard"
@@ -9,23 +9,11 @@ excerpt: "This Article Describes Ultimate Guide: Steps for Deep-Cleaning Your Me
 thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892d0c27222e3c559cd653e7a3.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Guide to Using Quick-Keyboard Techniques in Gmail - Top 30 Tips and Tricks
  Managing and organizing your email can work just fine using drag and drop. But if you have a lot of email, learning Gmail's keyboard commands (along with some[Gmail tricks and tips](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146) ) can save you hours. Here are more than two dozen to pick from. Oh, don't be intimidated. Just pick one and try it out for a bit. Then come back to learn more.
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -36,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -48,12 +43,26 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -63,24 +72,12 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -93,11 +90,12 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -118,12 +116,6 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -136,12 +128,6 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -170,8 +156,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +163,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-unveiling-the-hidden-fixes-for-fb-video-upload-woes/"><u>[New] Unveiling the Hidden Fixes for Fb Video Upload Woes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-from-raw-footage-to-mov-windows-10-filming-techniques/"><u>[Updated] From Raw Footage to MOV Windows 10 Filming Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-critical-choices-for-perfect-snaps/"><u>2024 Approved Critical Choices for Perfect Snaps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dragon-ball-marathon-plan-for-the-ultimate-experience/"><u>Dragon Ball Marathon Plan for the Ultimate Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-update-or-change-the-built-in-browser-on-your-samsung-smart-tv/"><u>Easy Steps to Update or Change the Built-In Browser on Your Samsung Smart TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-correcting-a-lost-or-absent-helperdll-error/"><u>Effective Solutions for Correcting a Lost or Absent Helper.dll Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deals-on-cutting-edge-3d-printer-technology-for-savvy-shoppers/"><u>Exclusive Deals on Cutting-Edge 3D Printer Technology for Savvy Shoppers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-transform-wmv-files-into-mp4-format-for-mac-and-windows-10/"><u>Free Online Converter: Transform WMV Files Into MP4 Format for Mac and Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-how-to-restore-audio-functionality-in-firefox/"><u>Resolved: How to Restore Audio Functionality in Firefox</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-on-how-to-erase-your-yahoo-mail-address-forever/"><u>Step-by-Step Process on How to Erase Your Yahoo! Mail Address Forever</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-trick-converting-your-itunes-videos-m4v-directly-to-play-on-dvd-without-costs/"><u>Ultimate Trick: Converting Your iTunes Videos (M4V) Directly to Play on DVD without Costs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-x-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone X Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+</ul></div>
 

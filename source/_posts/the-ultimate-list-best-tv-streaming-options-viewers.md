@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate List: Best TV Streaming Options Viewers"
-date: 2024-09-09T16:34:46.466Z
-updated: 2024-09-10T16:34:46.466Z
+date: 2024-10-28T00:18:24.458Z
+updated: 2024-10-31T01:24:39.909Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate List: Best TV Streaming Options Viewers"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes The Ultimate List: Best TV Streaming Options Vi
 thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ultimate List of Gmail's Fastest Typing Tricks: Discover the Top 30 Shortcuts
  Managing and organizing your email can work just fine using drag and drop. But if you have a lot of email, learning Gmail's keyboard commands (along with some[Gmail tricks and tips](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146) ) can save you hours. Here are more than two dozen to pick from. Oh, don't be intimidated. Just pick one and try it out for a bit. Then come back to learn more.
 
@@ -27,28 +21,17 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -60,18 +43,19 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -87,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -104,18 +82,6 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -148,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -155,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -176,8 +156,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +163,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-substitute-filmmaking-gems-at-7-spot/"><u>[New] 2024 Approved Substitute Filmmaking Gems at #7 Spot</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-step-by-step-guide-to-upload-videos-twtplustumblr/"><u>[New] In 2024, Step-by-Step Guide to Upload Videos Twt+Tumblr</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-5-time-lapse-screen-recorder/"><u>[New] Top 5 Time-Lapse Screen Recorder</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-before-apple-launches-its-latest-timepiece-the-upcoming-series-8-specifications-and-expected-costs-revealed/"><u>All You Need to Know Before Apple Launches Its Latest Timepiece – The Upcoming Series 8 Specifications and Expected Costs Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compatibility-check-can-nintendo-switch-support-netflix-streaming-services/"><u>Compatibility Check: Can Nintendo Switch Support Netflix Streaming Services?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/creating-a-single-pdf-from-a-collection-of-jpegs-expert-techniques-for-combining-images/"><u>Creating a Single PDF From a Collection of JPEGs - Expert Techniques for Combining Images</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-telegram-sticker-making-a-comprehensive-guide-to-crafting-custom-sticker-packs/"><u>DIY Telegram Sticker Making: A Comprehensive Guide to Crafting Custom Sticker Packs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-borderlands-11-effective-troubleshooting-steps/"><u>Fix Your Borderlands 지정된 문제: 11 Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-breaking-into-solos-creating-popular-podcasts/"><u>In 2024, Breaking Into Solos Creating Popular Podcasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722848788263-ios-16-arrives-your-guide-to-the-latest-updates-and-features-available-at-no-charge/"><u>IOS 16 Arrives - Your Guide to the Latest Updates & Features, Available at No Charge</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-rtx-3090-drivers-free-download-for-windows-11-8-and-7-users/"><u>NVIDIA RTX 3090 Drivers: Free Download for Windows 11, 8 and 7 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quickstart-guide-10-insider-tweaks-for-novice-x-users-formerly-known-as-twitter/"><u>QuickStart Guide: 10 Insider Tweaks for Novice X-Users Formerly Known as Twitter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tackling-and-correcting-the-stop-code-0x00000028-in-windows-expert-strategies-for-a-smooth-operating-system/"><u>Tackling and Correcting the STOP Code 0X00000028 in Windows - Expert Strategies for a Smooth Operating System</u></a></li>
+<li><a href="https://win-special.techidaily.com/tauschen-sie-die-festplatte-schnell-und-sicher-auf-eine-solid-state-drive-um-anleitung-fur-anfanger/"><u>Tauschen Sie Die Festplatte Schnell Und Sicher Auf Eine Solid State Drive Um - Anleitung Für Anfänger</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-must-have-video-editing-tools-recommended-by-professionals/"><u>Top 5 Must-Have Video Editing Tools Recommended by Professionals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-limitations-why-cant-ai-like-chatgpt-detect-self-generated-text/"><u>Understanding the Limitations: Why Can't AI Like ChatGPT Detect Self-Generated Text?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-seamless-streaming-a-comprehensive-guide-to-using-roku-in-accommodations-and-dormitories/"><u>Unlock Seamless Streaming: A Comprehensive Guide to Using Roku in Accommodations and Dormitories</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IOS 18: A Step-by-Step Guide to Tailoring the Control Center on Your iPhone - ZDNet"
-date: 2024-10-19T20:53:45.606Z
-updated: 2024-10-24T22:33:30.120Z
+date: 2024-10-30T08:28:01.882Z
+updated: 2024-10-31T08:16:13.445Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,13 +42,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -59,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -71,11 +64,25 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -84,13 +91,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -134,18 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>[New] 2024 Approved Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-boosting-video-quality-the-best-cameras-for-vloggers-dreams/"><u>[Updated] 2024 Approved Boosting Video Quality The Best Cameras for Vloggers' Dreams</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-engineering-engrossing-movie-excerpts/"><u>[Updated] 2024 Approved Engineering Engrossing Movie Excerpts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-over-supplementary-film-sequences-b-roll/"><u>2024 Approved Mastery Over Supplementary Film Sequences (B-Roll)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/affordable-high-quality-tablets-of-the-year-2024s-expert-evaluations-and-insights-zdnet/"><u>Affordable High-Quality Tablets of the Year: 2024'S Expert Evaluations and Insights | ZDNET</u></a></li>
-<li><a href="https://win-community.techidaily.com/guida-passo-passo-alla-correzione-del-errore-backup-incremental-non-avviato-su-windows-server/"><u>Guida Passo-Passo Alla Correzione Del Errore 'Backup Incremental Non Avviato' Su Windows Server</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-apples-recent-class-action-resolution-benefits-qualifying-macbook-owners-explore-the-terms-and-entitlement-details/"><u>How Apple's Recent Class Action Resolution Benefits Qualifying MacBook Owners - Explore the Terms and Entitlement Details</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997938550-how-to-fix-league-of-legends-wont-open-2024-tips/"><u>How to Fix League of Legends Won't Open - 2024 Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-your-purchase-decision-affected-the-new-price-cut-for-apple-watch-se-2nd-gen-revealed-by-zdnet-after-prime-day-event/"><u>Is Your Purchase Decision Affected? The New Price Cut for Apple Watch SE (2Nd Gen) Revealed by ZDNet After Prime Day Event</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macbook-showdown-comparing-macbook-pro-and-macbook-air-to-determine-which-one-suits-your-needs/"><u>MacBook Showdown: Comparing MacBook Pro & MacBook Air to Determine Which One Suits Your Needs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pixel-vs-iphone-ultimate-showdown-selecting-your-next-top-smartphone/"><u>Pixel vs iPhone Ultimate Showdown: Selecting Your Next Top Smartphone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tvos-nineteenth-update-revolutionizing-audio-clarity-on-your-apple-tv-insights/"><u>TvOS Nineteenth Update: Revolutionizing Audio Clarity on Your Apple TV - Insights</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-90-funniest-2-minute-tiktoks-ever/"><u>[New] 2024 Approved 90 Funniest 2-Minute TikToks Ever</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721963967805-discover-chatgpts-latest-upgrades-top-new-features-unveiled/"><u>Discover ChatGPT's Latest Upgrades: Top New Features Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-a-green-or-blue-screen-of-death-easy-to-follow-steps-and-tricks-to-rescue-your-tv-display/"><u>Fix a Green or Blue Screen of Death: Easy-to-Follow Steps and Tricks to Rescue Your TV Display</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-huawei-nova-y71-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Huawei Nova Y71 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-itel-s23-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Itel S23 to iPod | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/libcurldll-unavailable-fix-the-missing-dynamic-link-library-now/"><u>libcurl.dll Unavailable? Fix the Missing Dynamic Link Library Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/premier-ups-battery-systems-top-contenders-of-the-year-202/"><u>Premier UPS Battery Systems: Top Contenders of the Year 202</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamlessly-stream-disneyplus-content-with-chromecast-what-you-need-to-know/"><u>Seamlessly Stream Disney+ Content with Chromecast - What You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-your-connection-overcoming-the-not-secured-message-online/"><u>Securing Your Connection: Overcoming the 'Not Secured' Message Online</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-zte-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from ZTE</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-artist-writes-an-ipad-guide-to-time-lapse-photography-for-2024/"><u>The Artist' Writes An iPad Guide to Time-Lapse Photography for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncovering-the-invisible-how-to-inspect-facebooks-data-trails-for-2024/"><u>Uncovering the Invisible How to Inspect Facebook's Data Trails for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>Updated How To Get More NFL Viewers For Your Sports Live Streaming Channel for 2024</u></a></li>
 </ul></div>
 

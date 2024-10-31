@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2024-10-19T12:16:23.089Z
-updated: 2024-10-25T01:03:12.553Z
+date: 2024-10-25T19:26:38.519Z
+updated: 2024-10-30T23:40:33.929Z
 tags:
   - apple
 categories:
@@ -117,10 +117,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -147,6 +147,13 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -157,33 +164,27 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -193,13 +194,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -250,20 +244,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-guide-downloading-and-setting-up-vrecord/"><u>[New] 2024 Approved Quick Guide Downloading & Setting Up VRecord</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-of-video-top-5-slow-motion-cams/"><u>[New] Pinnacle of Video Top 5 Slow Motion Cams</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-streamlining-film-grading-with-cg-centrals-look-up-tables-for-2024/"><u>[New] Streamlining Film Grading with CG Central's Look-Up Tables for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-fix-confirmed-shorts-are-showing-up/"><u>[Updated] Fix Confirmed Shorts Are Showing Up</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-shorts-guide-what-is-it-and-how-to-make-shorts-video/"><u>[Updated] In 2024, YouTube Shorts Guide What Is It and How To Make Shorts Video?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-8-strategies-for-digital-sound-recording/"><u>2024 Approved Essential 8 Strategies for Digital Sound Recording</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivos-raw-en-imagenes-bmp-por-internet-sin-costo-con-la-herramienta-de-conversion-gratuita-de-movavi/"><u>Cómo Convertir Archivos RAW en Imágenes BMP Por Internet Sin Costo Con La Herramienta De Conversión Gratuita De Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversione-free-online-di-file-wma-a-formato-mov-con-movavi/"><u>Conversione Free Online Di File WMA a Formato MOV Con Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/converti-filmato-mov-su-mp4-o-mkv-conversione-video-online-libera-di-movavi/"><u>Converti Filmato MOV Su MP4 O MKV - Conversione Video Online Libera Di Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-political-advertising-strategies-utilize-movavi-for-compelling-voter-outreach-graphics/"><u>Effective Political Advertising Strategies: Utilize Movavi for Compelling Voter Outreach Graphics</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/smooth-operation-taming-amd-radeon-r9-on-windows-11/"><u>Smooth Operation: Taming AMD Radeon R9 on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trier-gratuitement-un-fichier-webm-vers-mkv-en-ligne-avec-movavi-video/"><u>Trier Gratuitement Un Fichier Webm Vers MKV en Ligne Avec Movavi - Vidéo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-ogv-to-webm-online-tool/"><u>오그비드/위블미로 바꾸기 - FREE OGV to WebM Online Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726223575871-mpeg-mp4-movavi/"><u>オンラインでの無料MPEG から MP4への変換 - Movavi</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevate-your-snapchat-creativity-with-these-6-editors/"><u>[New] 2024 Approved Elevate Your Snapchat Creativity with These 6 Editors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-share-igtv-video-on-instagram-story-with-ease-for-2024/"><u>[New] How to Share IGTV Video on Instagram Story with Ease for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-introduce-natural-photo-smear-in-ps/"><u>[New] Introduce Natural Photo Smear in PS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-share-your-vids-youtube-to-insta-stories/"><u>[Updated] 2024 Approved Share Your Vids YouTube to Insta-Stories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-zoom-meetings-made-effortless-with-top-5-transcribers-reviewed/"><u>2024 Approved Zoom Meetings Made Effortless with Top 5 Transcribers Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beginners-blueprint-mastering-the-basics-of-what-once-was-twitter-in-just-10-steps/"><u>Beginner's Blueprint: Mastering the Basics of What Once Was Twitter in Just 10 Steps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/copying-safely-on-tiktok-a-2023-guide-to-rights-checks/"><u>Copying Safely on TikTok A 2023 Guide to Rights Checks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-free-photo-editing-solutions-a-top-6-countdown/"><u>Essential Free Photo Editing Solutions: A Top 6 Countdown</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-the-ultimate-7-techniques-to-enhance-computer-speeds/"><u>Expert Advice: The Ultimate 7 Techniques to Enhance Computer Speeds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-reviews-by-toms-tech-emporium/"><u>Expert Hardware Reviews by Tom's Tech Emporium</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-implement-whitelist-features-with-a-new-domain-on-macos-mail-applications/"><u>How to Implement Whitelist Features with a New Domain on macOS Mail Applications</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-recuva-leading-application-for-file-reconstruction-and-retrieval/"><u>In Depth Look at Recuva: Leading Application for File Reconstruction and Retrieval</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-enable-audio-in-avidemux-quick-troubleshooting/"><u>New In 2024, How to Enable Audio in Avidemux Quick Troubleshooting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-engaging-in-dialogue-through-mozilla-thunderbirds-chat-functionality/"><u>The Ultimate Tutorial on Engaging in Dialogue Through Mozilla Thunderbird's Chat Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-restoring-power-in-unresponsive-computers/"><u>Troubleshooting Steps for Restoring Power in Unresponsive Computers</u></a></li>
 </ul></div>
 

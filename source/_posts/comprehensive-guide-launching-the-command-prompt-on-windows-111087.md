@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Launching the Command Prompt on Windows 11/10/8/7"
-date: 2024-09-09T16:34:03.944Z
-updated: 2024-09-10T16:34:03.944Z
+date: 2024-10-29T00:47:17.303Z
+updated: 2024-10-31T00:02:14.227Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Guide: Launching the Command Prompt on Windows 11/10/8/7"
@@ -18,18 +18,6 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open Command Prompt in Windows 11 or 10
 
  There are a few ways, but using the search bar on the taskbar is one quick method for opening a command window.
@@ -41,11 +29,12 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 3. Select**Command Prompt** from the list.  
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
@@ -56,12 +45,6 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
@@ -71,11 +54,12 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 8 or 8.1
 
  You'll find Command Prompt in Windows 8 through the Apps screen.
@@ -89,11 +73,12 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -114,17 +99,12 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -137,18 +117,6 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
  FAQ
@@ -184,8 +152,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +159,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-tips-effective-screenrec-usage-on-laptops-for-2024/"><u>[New] Essential Tips Effective ScreenRec Usage on Laptops for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-master-your-sketches-with-the-ultimate-mac-apps-for-2024/"><u>[Updated] Master Your Sketches with the Ultimate Mac Apps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/3-winx-dvd-author/"><u>夏を思い出すために作成！覚えやすい 3ステップガイド WinX DVD Author デジタル写真集</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-step-by-step-guide-to-video-editing-filters-on-computers-and-phones-for-2024/"><u>A Step-by-Step Guide to Video Editing Filters on Computers & Phones for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-aether-understanding-its-nature-and-steps-to-becoming-a-member/"><u>Discover Aether: Understanding Its Nature & Steps to Becoming a Member</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-resolve-dll-not-found-and-missing-dll-errors/"><u>Effective Solutions to Resolve 'DLL Not Found' And 'Missing DLL' Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-fix-the-jvmdll-could-not-be-found-message/"><u>Effective Ways to Fix the jvm.dll Could Not Be Found Message</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/email-versatility-explained-how-to-generate-a-gmail-alias-effectively/"><u>Email Versatility Explained: How to Generate a Gmail Alias Effectively</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-online-wav-to-mp3-konvertor-efficient-en-gemakkelijk/"><u>Gratis Online WAV-to-MP3 Konvertor: Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-unleash-the-full-potential-of-your-android-device-with-obs-studio/"><u>In 2024, Unleash the Full Potential of Your Android Device with OBS Studio</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/indiana-jones-movie-marathon-the-ideal-progression-for-ultimate-enjoyment/"><u>Indiana Jones Movie Marathon: The Ideal Progression for Ultimate Enjoyment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-dependency-risks-why-governments-must-reduce-big-tech-reliance-a-look-at-microsoft-outages/"><u>Navigating Dependency Risks: Why Governments Must Reduce Big Tech Reliance - A Look at Microsoft Outages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722881865036-next-gen-innovation-awaits-discover-samsungs-new-galaxy-z-fold-6-cost-and-release-insights-revealed/"><u>Next-Gen Innovation Awaits: Discover Samsung's New Galaxy Z Fold 6 – Cost and Release Insights Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revitalize-your-smart-tv-experience-with-these-essential-chromecast-updating-tips/"><u>Revitalize Your Smart TV Experience with These Essential Chromecast Updating Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-poco-x6-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Poco X6 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-science-behind-oled-screens-explained-simply-for-everyone/"><u>The Science Behind OLED Screens Explained Simply for Everyone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Latest Rumors on Google's Upcoming Pixel Fold 2: Price Predictions, Release Date & Specs!"
-date: 2024-09-13T20:00:32.308Z
-updated: 2024-09-15T18:07:26.789Z
+date: 2024-10-30T08:33:35.621Z
+updated: 2024-10-31T01:41:31.375Z
 categories:
   - BestProducts
 description: "This Article Describes The Latest Rumors on Google's Upcoming Pixel Fold 2: Price Predictions, Release Date & Specs!"
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
@@ -47,6 +54,19 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -57,22 +77,15 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display
 
@@ -84,6 +97,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
@@ -94,25 +114,11 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 MySmartPrice
 
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Battery
 
@@ -149,5 +155,23 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-unfollow-a-path-towards-a-lasting-account-discontinuation-for-2024/"><u>[New] Insta Unfollow A Path Towards a Lasting Account Discontinuation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars/"><u>[Updated] 2024 Approved How to Skip the Slip-Ups The 8 Must-Avoid Mistakes for New YouTube Stars</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>[Updated] In 2024, Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-content-detectors-dont-work-and-thats-a-big-problem/"><u>AI Content Detectors Don’t Work, and That’s a Big Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/awaken-with-ease-the-ultimate-list-of-our-favorite-alarm-clock-apps/"><u>Awaken with Ease: The Ultimate List of Our Favorite Alarm Clock Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-your-textbooks-to-pdf-format-with-vitalsource-seamless-digital-solutions/"><u>Convert Your Textbooks to PDF Format with Vitalsource: Seamless Digital Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-mov-formatos-a-mp4-sin-costo-usando-la-herramienta-en-linea-de-movavi/"><u>Convertir Mov Formatos a Mp4 Sin Costo Usando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-future-the-most-recent-leaks-and-expectations-for-the-2021-samsung-galaxy-s-series/"><u>Decoding the Future: The Most Recent Leaks and Expectations for the 2021 Samsung Galaxy S Series</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-interactions-learn-the-tricks-of-incorporating-moving-images-into-instagram-dialogue/"><u>Elevate Your Interactions: Learn the Tricks of Incorporating Moving Images Into Instagram Dialogue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-facebook-image-search-to-find-someone/"><u>How to Use Facebook Image Search to Find Someone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-power-of-podcasts-15-activities-that-blend-multitasking-and-growth/"><u>In 2024, Unlock the Power of Podcasts 15 Activities that Blend Multitasking and Growth</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimal-times-and-techniques-for-deactivating-your-ex-twitter-follows/"><u>Optimal Times & Techniques for Deactivating Your Ex-Twitter Follows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rediscover-your-digital-footprints-expert-techniques-for-retrieving-erased-ipad-records/"><u>Rediscover Your Digital Footprints: Expert Techniques for Retrieving Erased iPad Records</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/step-by-step-guide-converting-your-vhs-collection-into-crystal-clear-dvds/"><u>Step-by-Step Guide: Converting Your VHS Collection Into Crystal Clear DVDs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-strategies-unlocking-success-in-royal-match/"><u>Step-by-Step Strategies: Unlocking Success in 'Royal Match'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-the-elusive-msvcr7ec-runtime-library/"><u>Troubleshooting Tips for the Elusive MSVCR7e/C Runtime Library</u></a></li>
+</ul></div>
 

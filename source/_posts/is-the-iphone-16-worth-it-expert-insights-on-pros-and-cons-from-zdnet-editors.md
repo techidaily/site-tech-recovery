@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Insights on Pros and Cons From ZDNet Editors
-date: 2024-10-23T20:19:15.016Z
-updated: 2024-10-25T06:39:09.893Z
+date: 2024-10-29T23:49:35.584Z
+updated: 2024-10-30T21:42:35.478Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,22 +129,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mastery-of-video-sharing-a-guide-to-utilizing-zoom-on-the-youtube-platform/"><u>[New] 2024 Approved Mastery of Video Sharing A Guide to Utilizing Zoom on the YouTube Platform</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mobile-mastery-identifying-the-best-apps-for-youtube-shorts/"><u>[New] 2024 Approved Mobile Mastery Identifying the Best Apps for Youtube Shorts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-discovering-hidden-gems-time-lapse-photography-on-hero5-black/"><u>[New] In 2024, Discovering Hidden Gems Time-Lapse Photography on Hero5 Black</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wmv-mod/"><u>簡単で安全なWMV変換 - 無料MODオンラインサービス</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/202n10-windows-mac-android-ios/"><u>全新202n年10月免費語音改編器 - Windows, Mac, Android, iOS 支持選項</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/webmwma-movavi/"><u>無限制網路中的WEBM到WMA格式傳送 - 使用Movavi轉化工具</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversione-gratuita-da-webm-ad-avi-con-movavi-procedura-passo-passo/"><u>Conversione Gratuita Da Webm Ad AVI Con Movavi - Procedura Passo-Passo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuito-y-facil-transforma-tu-wmv-al-formato-de-audio-wav-con-movavi-online/"><u>Gratuito Y Fácil - Transforma Tu WMV Al Formato De Audio WAV Con Movavi Online</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-13t-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi 13T Pro Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/iphone-rivals-struggle-key-contenders-fail-amidst-market-challenges/"><u>IPhone Rivals Struggle: Key Contenders Fail Amidst Market Challenges</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/les-meilleurs-logiciels-denregistrement-decran-pour-mac-en-2023-top-15-de-ranking/"><u>Les Meilleurs Logiciels D’Enregistrement D’Écran Pour Mac en 2023 : Top 15 De Ranking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-downloading-from-newgrounds-discover-three-proven-strategies-for-quick-and-safe-video-extraction/"><u>Master the Art of Downloading From Newgrounds: Discover Three Proven Strategies for Quick and Safe Video Extraction</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavis-aiff-to-flac-free-online-conversion-tool-effortless-audio-file-changing/"><u>Movavi's AIFF to FLAC Free Online Conversion Tool - Effortless Audio File Changing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/passos-simples-para-iniciar-transmissoes-de-video-do-whatsoup-em-desktops-e-smartphones/"><u>Passos Simples Para Iniciar Transmissões De Vídeo Do WhatSoup Em Desktops E Smartphones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reap-the-stealth-advantages-of-electric-vehicle-ownership-hov-lane-privileges-await/"><u>Reap the Stealth Advantages of Electric Vehicle Ownership: HOV Lane Privileges Await!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-fast-effective-remedies-for-oculus-rift-s-microphone-issues/"><u>Troubleshoot Fast: Effective Remedies for Oculus Rift S Microphone Issues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-the-use-of-telegram-in-a-step-by-step-approach/"><u>[New] In 2024, Mastering the Use of Telegram in a Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-king-of-construction-showdown-thieye-t5-or-sjcam-s6-for-2024/"><u>[New] King of Construction Showdown Thieye T5 or SJCAM S6 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-switch-showdown-top-10-arcade-combat-classics/"><u>[Updated] Switch Showdown Top 10 Arcade Combat Classics</u></a></li>
+<li><a href="https://app-tips.techidaily.com/accelerate-androids-speed-optimize-with-advanced-task-management-tools/"><u>Accelerate Android's Speed: Optimize with Advanced Task Management Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-i-get-rid-of-default-iphone-software-programs-easily/"><u>Can I Get Rid of Default iPhone Software Programs Easily?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tutorial-fresh-install-of-windows-11-onto-a-new-computers-hard-drive/"><u>DIY Tutorial: Fresh Install of Windows 11 Onto a New Computer's Hard Drive</u></a></li>
+<li><a href="https://fox-links.techidaily.com/humor-in-pixels-kapwings-meme-crafting-app/"><u>Humor in Pixels Kapwing’s Meme Crafting App</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-vivo-y100t-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y100t Unlock Without Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-citations-in-depth-strategies-for-quoting-chatgpt-accurately/"><u>Mastering Citations: In-Depth Strategies for Quoting ChatGPT Accurately</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-snapchat-a-step-by-step-guide-to-accessing-the-app-via-your-computer/"><u>Mastering Snapchat: A Step-by-Step Guide to Accessing the App via Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-ring-2021-review-find-out-the-price-tag-release-forecast-and-in-depth-specifications/"><u>Samsung Galaxy Ring 2021 Review – Find Out the Price Tag, Release Forecast & In-Depth Specifications</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-mac-file-annihilator-v5-customizable-automatic-schedule-erasure-for-filesfolders/"><u>Stellar Mac File Annihilator v5 - Customizable Automatic Schedule Erasure for Files/Folders</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-booting-your-mac-into-recovery-environment/"><u>Step-by-Step Guide: Booting Your Mac Into Recovery Environment</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-a78-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo A78 for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

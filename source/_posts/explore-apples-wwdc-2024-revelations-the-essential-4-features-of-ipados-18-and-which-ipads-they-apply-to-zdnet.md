@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's WWDC 2024 Revelations: The Essential 4 Features of iPadOS 18 & Which iPads They Apply To | ZDNET"
-date: 2024-10-23T22:51:55.187Z
-updated: 2024-10-24T23:01:05.956Z
+date: 2024-10-30T07:20:37.501Z
+updated: 2024-10-31T07:55:11.009Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,10 +64,16 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -79,10 +85,10 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -92,10 +98,10 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -136,24 +142,19 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-screenflix-recorder-insider-report/"><u>2024 Approved ScreenFlix Recorder Insider Report</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/m4v-m4a-movavi/"><u>自由下載 M4V 到 M4A：以 Movavi 轉頻器為代價</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comment-sauvegarder-une-conference-sur-zoom-skype-et-autres-logiciels-de-videoconference/"><u>Comment Sauvegarder Une Conférence Sur Zoom, Skype Et Autres Logiciels De Vidéoconférence ?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comment-transformer-des-fichiers-m4a-au-format-mp3-guide-complet-de-conversion-avec-movavi/"><u>Comment Transformer Des Fichiers M4A Au Format MP3 ? Guide Complet De Conversion Avec Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/el-record-de-pantalla-mas-efectivo-11-herramientas-en-linea-sin-coste-adicionales/"><u>El Récord De Pantalla Más Efectivo: 11 Herramientas en Línea Sin Coste Adicionales</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-cr2-files-into-tiff-format-with-ease/"><u>Free Online Converter: Transform CR2 Files Into TIFF Format with Ease</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/grip-it-right-tips-for-eliminating-jitter-in-action-cam-movies-for-2024/"><u>Grip It Right Tips for Eliminating Jitter in Action Cam Movies for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-12-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 12 Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oppo-a1x-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo A1x 5G Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-how-to-distinguish-real-from-sham-on-your-instagram-circle-quickly/"><u>In 2024, How to Distinguish Real From Sham on Your Instagram Circle Quickly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-google-pixel-8-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Google Pixel 8 Pro online without jailbreak</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-techniques-for-efficiently-storing-fb-messenger-conversations/"><u>In 2024, Techniques for Efficiently Storing FB Messenger Conversations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-the-world-of-toms-hardware-latest-reviews-and-insights/"><u>Inside the World of Tom's Hardware: Latest Reviews & Insights</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/maximizing-image-excellence-zero-price-tag-for-2024/"><u>Maximizing Image Excellence, Zero Price Tag for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225245269-movavi/"><u>Movavi 뷰벳 리제이빙 시스템 - 얼굴과 모습에 미학을 부여하는 프로그램</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transcode-un-fichier-mpeg-en-format-wmv-gratuitement-en-ligne-tutoriels-de-movavi/"><u>Transcode Un Fichier MPEG en Format WMV Gratuitement en Ligne - Tutoriels De Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformer-gratuitement-un-fichier-asf-en-format-mpeg-4-sur-internet-movavi/"><u>Transformer Gratuitement Un Fichier ASF en Format MPEG-4 Sur Internet - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-hidden-potential-via-shortcut-combinations/"><u>Unveiling Windows' Hidden Potential via Shortcut Combinations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726223710510-mp3mov-movavi/"><u>바인드로 MP3/MOV 애드어를 모방하고 오픈 소스 영상 바이트솜 교체 도구: Movavi 되뇨</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhance-content-categorization-top-picks-for-the-7-cheapest-youtube-taggification-apps/"><u>[New] 2024 Approved Enhance Content Categorization Top Picks for the 7 Cheapest Youtube Taggification Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-scale-up-channel-followers-faster-and-cheaper/"><u>[New] 2024 Approved Scale Up Channel Followers Faster and Cheaper</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-f25-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo F25 Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-autonomous-vehicle-revealed-latest-updates-on-pricing-launch-timeline-and-features/"><u>Apple's Autonomous Vehicle Revealed: Latest Updates on Pricing, Launch Timeline & Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-end-of-yahoo-messenger-a-look-back-at-why-it-was-shut-down/"><u>Decoding the End of Yahoo! Messenger: A Look Back at Why It Was Shut Down</u></a></li>
+<li><a href="https://games-able.techidaily.com/hit-fast-the-ultimate-list-of-quick-game-apps-for-your-device/"><u>Hit Fast: The Ultimate List of Quick Game Apps for Your Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-solve-the-apple-watch-lte-connectivity-problem-quickly-and-easily/"><u>How to Solve the 'Apple Watch LTE Connectivity' Problem Quickly and Easily</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-eye-catching-effects-top-10-editing-wonders-on-tiktok/"><u>In 2024, Eye-Catching Effects Top 10 Editing Wonders on TikTok</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-12-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme 12 Pro 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-go-2023-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark Go (2023) Phone without PIN</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequential-screenings-experience-the-full-storyline-by-watching-transformers-in-order/"><u>Sequential Screenings: Experience the Full Storyline by Watching Transformers in Order</u></a></li>
+<li><a href="https://driver-install.techidaily.com/startech-driver-mastery-for-multiple-windows-environments/"><u>StarTech Driver Mastery for Multiple Windows Environments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-xlivedll-files-for-smooth-computer-operation/"><u>Troubleshooting Missing Xlive.dll Files for Smooth Computer Operation</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-13-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 screen lock without password</u></a></li>
 </ul></div>
 

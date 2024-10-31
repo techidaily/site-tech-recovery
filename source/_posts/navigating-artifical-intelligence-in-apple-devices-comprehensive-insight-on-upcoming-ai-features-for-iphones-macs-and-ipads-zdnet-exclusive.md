@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2024-10-24T00:19:02.068Z
-updated: 2024-10-25T11:02:17.282Z
+date: 2024-10-30T06:08:44.517Z
+updated: 2024-10-30T22:32:23.602Z
 tags:
   - apple
 categories:
@@ -55,6 +55,19 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -82,13 +95,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -127,10 +133,10 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -150,10 +156,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -172,10 +178,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -218,20 +224,15 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-redefining-visual-impact-how-to-change-and-add-tweets-video-previews/"><u>[New] Redefining Visual Impact How to Change and Add Tweets' Video Previews</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ideo-brand-enhancement-embedding-logoswatermarks-for-youtube-shows-for-2024/"><u>[New] Video Brand Enhancement Embedding Logos/Watermarks for YouTube Shows for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-download-and-organize-facebook-urls-top-8-tools-of-the-year/"><u>2024 Approved Download & Organize Facebook URLs Top 8 Tools of the Year</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/co-marketing-mastery-on-youtube-for-brand-growth/"><u>Co-Marketing Mastery on YouTube for Brand Growth</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-companys-media-management-with-movavi-secure-your-copyright-free-editing-toolkit/"><u>Elevate Your Company's Media Management with Movavi - Secure Your Copyright-Free Editing Toolkit!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-increase-video-luminance-and-beyond-expert-tips-and-tricks/"><u>How to Effectively Increase Video Luminance and Beyond: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-trigger-an-immediate-shutdown-on-idling-pcs/"><u>How to Trigger an Immediate Shutdown on Idling PCs</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-conversor-on-line-gratis-para-transformar-archivos-gsm-en-formatos-mp3-sin-costo-alguno/"><u>Movavi - Conversor On-Line Gratis Para Transformar Archivos GSM en Formatos MP3 Sin Costo Alguno</u></a></li>
-<li><a href="https://program-issues.techidaily.com/restoring-the-bangers-resolving-no-audio-problems-in-fallout-4-for-windows/"><u>Restoring the Bangers: Resolving No Audio Problems in Fallout 4 for Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/scattare-gratuitamente-con-convertire-pef-di-movavi-la-tua-guida-completa/"><u>Scattare Gratuitamente Con Convertire PEF Di Movavi: La Tua Guida Completa</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-merging-vob-format-videos-efficiently-with-just-five-simple-actions/"><u>Step-by-Step Guide: Merging VOB Format Videos Efficiently with Just Five Simple Actions</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-10-best-work-memes-to-have-fun-in-work-days/"><u>Updated 10 Best Work Memes to Have Fun in Work Days</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-is-my-steam-stream-lagging-and-how-to-quickly-resolve-it/"><u>Why Is My Steam Stream Lagging and How to Quickly Resolve It?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726226595177-qtflv-movavi/"><u>オンラインで簡単QTファイルを無料FLVに変換: Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-design-excellence-premier-templates-and-free-2023-plan-guide/"><u>2024 Approved Design Excellence Premier Templates & Free 2023 Plan Guide</u></a></li>
+<li><a href="https://discover-best.techidaily.com/como-converter-wmv-en-mp4-sin-costo-guia-completa-para-windows-y-mac/"><u>Cómo Converter WMV en MP4 Sin Costo: Guía Completa Para Windows Y Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-ipad-pro-and-macbook-air-key-distinctions-you-need-to-know/"><u>Comparing iPad Pro and MacBook Air: Key Distinctions You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-differences-between-ipad-pro-mini-m4-and-new-macbook-air-m1-a-comprehensive-guide/"><u>Decoding the Differences Between iPad Pro Mini (M4) and New MacBook Air M1 – A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209826509-9780008366360-leo-2021-your-personal-horoscope/"><u>Leo 2021: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/oneplus-10-the-comprehensive-guide-to-latest-rumors-pre-launch-speculations-estimated-costs-and-release-timeline/"><u>OnePlus 10: The Comprehensive Guide to Latest Rumors, Pre-Launch Speculations, Estimated Costs & Release Timeline</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-teen-focused-films-streaming-now-on-netflix/"><u>Top Teen-Focused Films Streaming Now on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unmasking-pretend-pal-petitions-guidelines-for-spotting-bogus-buddy-bids-online/"><u>Unmasking Pretend Pal Petitions: Guidelines for Spotting Bogus Buddy Bids Online</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-create-stunning-animations-on-the-go-top-mobile-apps/"><u>Updated In 2024, Create Stunning Animations On-the-Go Top Mobile Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windows11dvd-mp4/"><u>Windows11互換のDVD MP4変換ソフトウェア | 完全無料で使えるオンラインサイト</u></a></li>
 </ul></div>
 

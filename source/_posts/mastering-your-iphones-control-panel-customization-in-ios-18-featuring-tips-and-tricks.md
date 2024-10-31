@@ -1,7 +1,7 @@
 ---
 title: Mastering Your iPhone's Control Panel Customization in iOS 18, Featuring Tips & Tricks
-date: 2024-10-16T17:16:15.957Z
-updated: 2024-10-19T16:47:25.495Z
+date: 2024-10-27T22:10:53.302Z
+updated: 2024-10-31T04:50:43.602Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,13 +42,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -59,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -77,6 +70,13 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -86,16 +86,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -140,18 +140,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-visual-impact-a-guide-to-color-balancing-mastery/"><u>[Updated] Crafting Visual Impact A Guide to Color Balancing Mastery</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-full-disclosure-unveiling-all-about-google-podcasts-app/"><u>[Updated] In 2024, Full Disclosure Unveiling All About Google Podcasts App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-most-effective-iphone-gps-apps-ranked/"><u>Discover the Most Effective iPhone GPS Apps Ranked</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enjoy-hulu-from-your-couch-compatible-with-lg-smart-tvs-guide/"><u>Enjoy Hulu From Your Couch: Compatible with LG Smart TVs Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-hacks-navigate-through-18-key-shortcuts-on-apples-ios-platform-with-ease/"><u>Expert Hacks: Navigate Through 18 Key Shortcuts on Apple's iOS Platform with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-missing-batterypower-indicator-in-windows-11-step-by-step-solution/"><u>Fix Your Missing Battery/Power Indicator in Windows 11 - Step-by-Step Solution</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-nokia-c300-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Nokia C300 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-from-standard-to-superior-adding-srt-to-mp4-videos/"><u>In 2024, From Standard to Superior Adding SRT to MP4 Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-your-fortnite-communication-hurdles-with-these-microphone-troubleshooting-steps/"><u>Overcome Your Fortnite Communication Hurdles with These Microphone Troubleshooting Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/triple-display-setup-a-comprehensive-guide-on-hooking-up-three-screens/"><u>Triple Display Setup: A Comprehensive Guide on Hooking Up Three Screens</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-resolve-sons-of-the-forest-pc-game-crashes-with-ease/"><u>Troubleshoot and Resolve Sons of the Forest PC Game Crashes with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-list-selecting-excellent-webcams-for-podcasts-for-2024/"><u>Ultimate List Selecting Excellent Webcams for Podcasts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrated-sound-system-guidebook/"><u>[Updated] Integrated Sound System Guidebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-parrot-ar-drone-evaluation-elite-edition/"><u>2024 Approved Parrot AR Drone Evaluation - Elite Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-best-extensions-to-enhance-gpt-and-vs-code/"><u>6 Best Extensions to Enhance GPT and VS Code</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/concoct-clever-caricatures-for-2024/"><u>Concoct Clever Caricatures for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-your-perfect-wake-up-call-with-these-top-7-alarm-clocks/"><u>Find Your Perfect Wake-Up Call with These Top 7 Alarm Clocks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enhance-your-homes-digital-television-signal-with-a-diy-indoor-antenna/"><u>How to Enhance Your Home's Digital Television Signal with a DIY Indoor Antenna</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-battery-lifespan-a-walkthrough-of-windows-10s-energy-monitoring-capabilities/"><u>Maximizing Battery Lifespan: A Walkthrough of Windows 10'S Energy Monitoring Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-how-to-turn-on-and-utilize-the-quick-access-finder-panel/"><u>Step-by-Step Guide: How to Turn On and Utilize the Quick Access Finder Panel</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-of-creating-your-own-gmail-disguise-address/"><u>Step-by-Step Process of Creating Your Own Gmail Disguise Address</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/symbolizing-success-crafting-effective-podcast-logos/"><u>Symbolizing Success Crafting Effective Podcast Logos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-itel-a70-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Itel A70 Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-efficiency-with-macbook-airs-fullscreen-mode-learn-how/"><u>Unlock Efficiency with MacBook Air's Fullscreen Mode - Learn How!</u></a></li>
 </ul></div>
 

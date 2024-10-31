@@ -1,7 +1,7 @@
 ---
 title: Apple Vision Pro Sets Stage with Microsoft Office Suite at Launch - A Closer Look by ZDNet Experts
-date: 2024-10-18T17:41:56.206Z
-updated: 2024-10-25T06:55:41.971Z
+date: 2024-10-27T16:38:21.743Z
+updated: 2024-10-31T03:39:52.079Z
 tags:
   - apple
 categories:
@@ -86,6 +86,13 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -95,10 +102,10 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -126,13 +133,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -144,10 +144,10 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -162,13 +162,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -180,6 +173,13 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -220,21 +220,16 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-compelling-content-on-reddit-a-stepwise-path/"><u>[Updated] Crafting Compelling Content on Reddit - A Stepwise Path</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-perfect-pair-of-5k-monitors-ranked-1-8/"><u>[Updated] Perfect Pair of 5K Monitors, Ranked #1-8</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-zero-dollars-free-techniques-for-desktop-snaps-for-2024/"><u>[Updated] Zero Dollars Free Techniques for Desktop Snaps for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-approaches-to-modify-user-numbers-in-tiktok/"><u>2024 Approved Innovative Approaches to Modify User Numbers in TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-fundamentals-of-captivating-video-scripts/"><u>2024 Approved The Fundamentals of Captivating Video Scripts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024s-most-advanced-macbook-series-top-picks-and-detailed-analysis/"><u>2024'S Most Advanced MacBook Series: Top Picks and Detailed Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ace-apple-watch-discounts-for-july-2e-find-the-coolest-deals-of-2024/"><u>Ace Apple Watch Discounts for July 2E! Find the Coolest Deals of 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-shines-with-top-rated-super-bowl-weekend-promo-a-peek-beyond-the-big-game-tech-insights/"><u>Apple Shines with Top-Rated Super Bowl Weekend Promo: A Peek Beyond the Big Game | Tech Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-video-zoom-editor-choices-1-10/"><u>Essential Video Zoom Editor Choices - #1-10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-latest-update-to-apple-podcasts-with-automated-closed-captioning-technology-insightful-review/"><u>Exploring the Latest Update to Apple Podcasts with Automated Closed-Captioning Technology Insightful Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-design-a-post-that-sparks-wide-scale-interest-in-fb-giving/"><u>How to Design a Post That Sparks Wide-Scale Interest in FB Giving</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/huge-savings-on-apple-airpods-grab-them-at-a-40-discount-before-independence-day-insights-from-zdnet/"><u>Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-for-broadcasting-is-obs-superior-to-twitch-studio/"><u>In 2024, Best for Broadcasting Is OBS Superior to Twitch Studio?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-tecno-phantom-v-flip-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Tecno Phantom V Flip in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-the-ring-with-top-tier-laptops-comparing-samsung-galaxy-book-3ultra-vs-apples-macbook-pro-expert-insights/"><u>In The Ring with Top Tier Laptops: Comparing Samsung Galaxy Book 3Ultra Vs. Apple's MacBook Pro | Expert Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-ultimate-savings-snag-an-apple-watch-series-n-for-just-99-via-best-buys-preorder-offer-detailed-tutorial/"><u>Unlock Ultimate Savings: Snag an Apple Watch Series N for Just $99 via Best Buy's Preorder Offer - Detailed Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quintessential-memes-the-creation-guide/"><u>[Updated] In 2024, Quintessential Memes The Creation Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-essential-guide-to-transferring-tunes-across-platforms/"><u>[Updated] In 2024, The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-data-analytics-methods-for-market-research-analysis/"><u>2024 Approved Advanced Data Analytics Methods for Market Research Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamlining-your-live-events-merging-obs-and-zoom/"><u>2024 Approved Streamlining Your Live Events Merging OBS and Zoom</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-solutions-to-read-and-edit-apples-pages-documents-on-your-personal-computer/"><u>Easy Solutions to Read & Edit Apple's Pages Documents on Your Personal Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-usb-20-insights-on-bandwidth-capacity-cable-variants-and-connection-types/"><u>Exploring the World of USB 2.0: Insights on Bandwidth Capacity, Cable Variants & Connection Types</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-steps-to-repair-your-pc-when-it-powers-up-with-blank-screen/"><u>Solving the Dilemma: Steps to Repair Your PC When It Powers Up with Blank Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-windows-11-users-facing-a-puzzling-black-display/"><u>Step-by-Step Solutions for Windows 11 Users Facing a Puzzling Black Display</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-instagram-memories-with-these-apps-for-2024/"><u>Unlocking Instagram Memories with These Apps for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-secrets-of-swift-youtube-subtitle-insertion/"><u>Unveiling the Secrets of Swift YouTube Subtitle Insertion</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-make-movies-like-a-pro-insider-secrets-for-producing-high-quality-videos/"><u>Updated 2024 Approved Make Movies Like a Pro Insider Secrets for Producing High-Quality Videos</u></a></li>
 </ul></div>
 

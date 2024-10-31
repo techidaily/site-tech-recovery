@@ -1,7 +1,7 @@
 ---
 title: "Solving the BOOTMGR Missing Problem: A Step-by-Step Guide"
-date: 2024-09-09T22:51:49.462Z
-updated: 2024-09-16T00:40:02.150Z
+date: 2024-10-27T20:11:49.760Z
+updated: 2024-10-31T05:40:51.964Z
 categories:
   - BestProducts
 description: "This Article Describes Solving the BOOTMGR Missing Problem: A Step-by-Step Guide"
@@ -27,14 +27,44 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
 
@@ -45,19 +75,6 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
  You'll also need an HDMI 2.1 cable. You can use the HDMI cable that comes with the PS5, which is a 2.1\. However, if you're using a different cord (because the included one wasn't long enough, for example), you'll need to make sure it's that type.
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
 
@@ -103,5 +120,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-effortlessly-transform-youtube-tunes-to-mp3-with-mac/"><u>[Updated] 2024 Approved Effortlessly Transform YouTube Tunes to MP3 with Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-audio-mix-mastery-the-essence-of-crossfade/"><u>[Updated] Audio Mix Mastery The Essence of Crossfade</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-really-hear-what-dolby-atmos-offers-at-home/"><u>Can You Really Hear What Dolby Atmos Offers at Home?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-key-contrasts-between-ht-receivers-and-stereo-equipment-for-optimal-sound/"><u>Deciphering the Key Contrasts Between HT Receivers & Stereo Equipment for Optimal Sound</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vehicles-a-short-history-lesson/"><u>Electric Vehicles: A Short History Lesson</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s17e-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S17e by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfect-your-channel-info-a-template-approach-for-2024/"><u>Perfect Your Channel Info A Template Approach for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/premium-cellphone-discounts-and-promotions-by-verizon-for-this-period/"><u>Premium Cellphone Discounts and Promotions by Verizon for This Period</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-poco-f5-pro-5g-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Poco F5 Pro 5G has been deleted.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-rockaldlldll-error-a-comprehensive-guide/"><u>Resolving Rockaldll.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-psn-understanding-outages-vs-personal-connection-issues/"><u>Troubleshooting PSN: Understanding Outages vs Personal Connection Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-successful-syncing-of-your-firestick-remote/"><u>Ultimate Guide: Successful Syncing of Your Firestick Remote</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/young-pilots-guide-the-best-drones-of-all-time/"><u>Young Pilots' Guide The Best Drones of All Time</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-taping-permissibility-concerns-for-2024/"><u>YouTube Taping Permissibility Concerns for 2024</u></a></li>
+</ul></div>
 

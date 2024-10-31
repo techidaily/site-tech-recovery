@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2024-10-23T12:56:16.740Z
-updated: 2024-10-25T06:03:15.289Z
+date: 2024-10-24T02:32:21.404Z
+updated: 2024-10-30T23:17:18.236Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,21 +134,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unveiling-the-5-prized-webcams-for-ultimate-game-broadcasting/"><u>[New] In 2024, Unveiling the 5 Prized Webcams for Ultimate Game Broadcasting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-top-quality-hdr-camera-brands-and-models/"><u>[New] In 2024, Unveiling Top-Quality HDR Camera Brands and Models</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-auditory-interpretation-accessible-at-no-expense/"><u>[Updated] Auditory Interpretation Accessible at No Expense</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-mac-graphic-preserver/"><u>[Updated] Elite Mac Graphic Preserver</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-screensaver-for-your-apple-watch-expert-reviews-by-zdnet/"><u>Discover the Premier Screensaver for Your Apple Watch - Expert Reviews by ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-leading-storm-monitoring-apps/"><u>Expert Picks: Leading Storm Monitoring Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-score-your-iphone-15-pro-max-for-pennies-on-the-dollar-with-this-exclusive-amazon-deal-revealed-by-zdnet/"><u>How to Score Your iPhone 15 Pro Max for Pennies on the Dollar with This Exclusive Amazon Deal, Revealed by ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/improving-your-apple-tv-experience-how-tvos-18-upgrade-amplifies-audio-clarity/"><u>Improving Your Apple TV Experience: How tvOS 18 Upgrade Amplifies Audio Clarity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lessons-learned-from-switching-to-iphone-ios-18-a-shared-journey-of-frustration-and-surprises-tech-digest/"><u>Lessons Learned From Switching to iPhone iOS 18: A Shared Journey of Frustration and Surprises | Tech Digest</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionizing-film-production-how-the-latest-features-of-final-cut-pro-for-ipad-transform-filmmakers-workflow/"><u>Revolutionizing Film Production: How the Latest Features of Final Cut Pro for iPad Transform Filmmakers' Workflow</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/setting-up-various-network-configurations-on-macos-tips-and-tricks-for-enhanced-connectivity/"><u>Setting Up Various Network Configurations on macOS: Tips and Tricks for Enhanced Connectivity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-by-zdnet-retrieve-lost-airpods-and-avoid-misplacement-in-the-future/"><u>The Ultimate Guide by ZDNet: Retrieve Lost AirPods & Avoid Misplacement in the Future</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-ipv-file-transformation-instagram-videos-in-mp4-for-2024/"><u>The Ultimate Guide to IPV File Transformation Instagram Videos in MP4 for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/top-rated-avi-to-dvd-convertor-software-ideal-for-windows-10-and-11/"><u>Top Rated Avi To Dvd Convertor Software : Ideal For Windows 10 and 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-apple-watch-failure-to-detect-steps/"><u>Troubleshooting Guide: Apple Watch Failure to Detect Steps</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlock-free-sound-effects-for-your-fcp-projects-top-resources-and-tutorials/"><u>Updated In 2024, Unlock Free Sound Effects for Your FCP Projects Top Resources & Tutorials</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mastering-film-capture-on-mac-pc-and-smartphones/"><u>2024 Approved Mastering Film Capture on Mac, PC & Smartphones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-c53-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-zero-cost-sms-applications-on-apple-devices/"><u>Best Zero-Cost SMS Applications on Apple Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/gear-up-glitch-printer-reconfigured-wrongly/"><u>Gear-Up Glitch: Printer Reconfigured Wrongly?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-do-evs-outperform-gas-powered-cars-insights-and-factors/"><u>How Do EVs Outperform Gas-Powered Cars? Insights and Factors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-13-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 13 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-best-practices-for-measuring-igtv-video-effectiveness/"><u>In 2024, Best Practices for Measuring IGTV Video Effectiveness</u></a></li>
+<li><a href="https://facebook.techidaily.com/rank-the-networks-that-keep-us-connected/"><u>Rank the Networks That Keep Us Connected</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-switching-network-discovery-settings-in-windows-11/"><u>Step-by-Step Tutorial: Switching Network Discovery Settings in Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-evolution-from-interns-to-digital-pioneers/"><u>The Evolution: From Interns to Digital Pioneers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-exciting-launch-of-the-latest-apple-iphone-what-to-know/"><u>The Exciting Launch of the Latest Apple iPhone: What to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-you-cant-find-d3dx934dll-in-device-manager/"><u>Troubleshooting: What to Do When You Can't Find D3Dx9_34.dll in Device Manager</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-lava-agni-2-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Lava Agni 2 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unboxing-the-oneplus-nord-n10-5g-a-must-read-comprehensive-guide/"><u>Unboxing the OnePlus Nord N10 5G: A Must-Read Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2024-10-21T07:15:47.362Z
-updated: 2024-10-24T19:39:07.030Z
+date: 2024-10-29T22:38:14.282Z
+updated: 2024-10-30T17:24:11.890Z
 tags:
   - apple
 categories:
@@ -45,10 +45,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -64,10 +70,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +83,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +96,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,18 +136,20 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-find-youtube-collaboration-partners/"><u>[New] 2024 Approved How to Find YouTube Collaboration Partners?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ave-while-you-teach-hosting-low-cost-seminars-via-youtube/"><u>[New] Save While You Teach Hosting Low-Cost Seminars via YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-speedy-sound-solutions-for-smartphone-users/"><u>[New] Speedy Sound Solutions for Smartphone Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avchdmp4/"><u>「無料・劣化なし! AVCHDフォーマットをMP4に簡単に変換するオンラインアプリ」</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-transforme-seu-arquivo-ifo-em-mp4-tecnicas-facilmente-compreensiveis-para-pc-e-mac/"><u>1. Transforme Seu Arquivo IFO Em MP4: Técnicas Facilmente Compreensíveis Para PC E Mac</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-canon-pro-100-printer-setup-for-windows-the-quick-guide/"><u>Easy Canon PRO 100 Printer Setup for Windows: The Quick Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/first-rate-text-animation-setups-for-2024/"><u>First-Rate Text Animation Setups for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-rated-mp4-video-encoders-of-2023-a-comprehensive-guide-on-converting-your-videos/"><u>Top Rated MP4 Video Encoders of 2023: A Comprehensive Guide on Converting Your Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/usb-c-gaming-dock-by-razer-evaluated-perfect-companion-device-for-mobile-players/"><u>USB-C Gaming Dock by Razer Evaluated: Perfect Companion Device for Mobile Players</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/videtodvd-expertise-in-vervanging-vhs-banden-met-digitale-convertereigenaars/"><u>VidetoDVD: Expertise in Vervanging VHS-Banden Met Digitale Convertereigenaars</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225415132-vob-mpeg-movavi/"><u>무료 온라인 VOB MPEG 변환: Movavi로 각성하세요!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/web-gratis-tta-movavi/"><u>제공된 자동화를 사용하여 Web上で Gratis TTA 변환: Movavi 지원</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movaviand/"><u>インフルエンサーが選ぶ最強ツール - Movaviソフトウェア紹介&評価</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-a-2023-survival-guide-seeking-fb-videos-on-every-tab/"><u>[Updated] 2024 Approved A 2023 Survival Guide Seeking FB Videos on Every Tab</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-accessorize-for-impact-essential-cams-upgrades-for-2024/"><u>[Updated] Accessorize for Impact Essential Cams Upgrades for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide/"><u>2024 Approved Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-overview-all-you-must-understand-about-openai/"><u>Comprehensive Overview: All You Must Understand About OpenAI</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-keysuites-elite-gadgets-reviewed/"><u>Discover the Premier Keysuites: Elite Gadgets Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-taking-down-text-overlays-on-amazon-prime-movies-and-shows/"><u>Guide: Taking Down Text Overlays on Amazon Prime Movies and Shows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-visual-triumph-the-best-camera-lenses-ranked-and-revealed/"><u>In 2024, Visual Triumph The Best Camera Lenses, Ranked & Revealed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-raid-hardware-accelerated-disk-drive-software-update-compatible-with-windows-111087/"><u>Intel RAID Hardware Accelerated Disk Drive Software Update - Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://games-able.techidaily.com/passed-geforce-now-does-it-deliver-value/"><u>Passed GeForce Now: Does It Deliver Value?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782508-9781591438069-sacred-medicine-of-bee-butterfly-earthworm-and-spider/"><u>Sacred Medicine of Bee, Butterfly, Earthworm, and Spider | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-elite-picks-for-dominant-automakers-of-autonomous-cars-by-2024/"><u>The Elite Picks for Dominant Automakers of Autonomous Cars by 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-playstation-5-slim-all-you-need-to-know-about-price-release-and-features/"><u>The PlayStation 5 Slim: All You Need to Know About Price, Release, and Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-troubleshooting-method-for-missing-d3dx933dll-errors/"><u>The Ultimate Troubleshooting Method for Missing d3dx9_33.dll Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-solving-your-surface-pros-wi-fi-connection-issues/"><u>Troubleshooting Steps: Solving Your Surface Pro's Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-resolving-there-was-a-problem-resetting-on-windows/"><u>Troubleshooting: Resolving 'There Was a Problem Resetting' On Windows</u></a></li>
 </ul></div>
 

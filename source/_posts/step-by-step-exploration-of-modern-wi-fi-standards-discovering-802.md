@@ -1,7 +1,7 @@
 ---
 title: Step by Step Exploration of Modern Wi-Fi Standards - Discovering 802
-date: 2024-09-09T16:33:38.068Z
-updated: 2024-09-10T16:33:38.068Z
+date: 2024-10-27T05:20:07.443Z
+updated: 2024-10-30T17:43:11.871Z
 categories:
   - BestProducts
 description: This Article Describes Step by Step Exploration of Modern Wi-Fi Standards - Discovering 802
@@ -14,12 +14,6 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
 
  For quick reference,[802.11be (Wi-Fi 7)](https://www.lifewire.com/what-is-wi-fi-7-6950913) , approved in 2024, is the most recent standard. However, just because a standard is approved does not mean it is available to you or is the standard you need for your particular situation. These are routinely updated, much like how software is updated on smartphones or computers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is 802.11?
 
  In 1997, the Institute of Electrical and Electronics Engineers created the first WLAN standard. They called it_802.11_ after the name of the group formed to oversee its development. Unfortunately, 802.11 only supported a maximum[network bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) of 2 Mbps—too slow for most applications. For this reason, ordinary 802.11 wireless products are no longer manufactured. However, an entire family has sprung up from this initial standard.
@@ -32,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
 
 ![A comparison chart of the Pros and Cons of the wireless standards 802.11ac, 802.11n, and 802.11g.](https://www.lifewire.com/thmb/nKbWckJ_1AKQ-SoggPXVECQ_pK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553-36294250342e404eabe7dc94bc7a40f9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire
 
 ## 802.11be (Wi-Fi 7)
@@ -45,6 +33,13 @@ Lifewire
  Released in January 2024, 802.11be (aka Wi-Fi 7) is the latest standard. It's much faster than Wi-Fi 6, reaching speeds up to 46 Gbps. Wi-Fi 7 is designed to use power efficiently and handle crowded Wi-Fi areas better.
 
  While final ratification of this standard isn't expected until the end of 2024, Wi-Fi 7 devices are already available.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 802.11ax (Wi-Fi 6)
 
@@ -54,17 +49,18 @@ Lifewire
 
  Known as the China Millimeter Wave, this standard applies in China and is a rebranding of 802.11ad for use in certain areas of the world. The goal is to maintain backward compatibility with 802.11ad.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 802.11ah
 
  Approved in May 2017, this standard targets lower energy consumption and creates extended-range Wi-Fi networks that can go beyond the reach of a typical 2.4 GHz or 5 GHz network. It competes with Bluetooth, given its lower power needs.
 
 [Is 5 GHz Wi-Fi Better Than 2.4 GHz?](https://www.lifewire.com/is-5-ghz-wifi-better-than-2-4-ghz-818293)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 802.11ad
 
@@ -72,18 +68,6 @@ Lifewire
 
  Keep in mind when distances are mentioned that ranges can be greatly impacted by obstacles that block the signal, so the range mentioned refers to situations where there is absolutely no interference.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 802.11ac (Wi-Fi 5)
 
  The generation of Wi-Fi that first signaled popular use,[802.11ac](https://www.lifewire.com/802-11ac-in-wireless-networking-818284) , uses[dual-band wireless](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) technology, supporting simultaneous connections on both 2.4 GHz and 5 GHz Wi-Fi devices. 802.11ac offers backward compatibility to 802.11a/b/g/n and bandwidth rated up to 1300 Mbps on the 5 GHz band plus up to 450 Mbps on 2.4 GHz. Most home wireless routers are compliant with this standard.
@@ -92,17 +76,18 @@ Lifewire
 
  802.11ac is also referred to as Wi-Fi 5.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 802.11n (Wi-Fi 4)
 
  802.11n (also sometimes known as[Wireless N](https://www.lifewire.com/what-is-wireless-n-818280) ) was designed to improve on 802.11g in the bandwidth it supports by using several wireless signals and antennas (called_MIMO_ technology) instead of one. Industry standards groups ratified 802.11n in 2009 with specifications providing up to 600 Mbps of network bandwidth. 802.11n also offers a somewhat better range over earlier Wi-Fi standards due to its increased signal intensity, and it is backward-compatible with 802.11a/b/g gear.
 
  While 802.11n offers significant bandwidth improvement from previous standards and is widely supported, the use of multiple signals may interfere with nearby 802.11b/g-based networks.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 802.11g (Wi-Fi 3)
 
@@ -113,11 +98,12 @@ Lifewire
  802.11g is also unofficially referred to as_Wi-Fi 3_ .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 802.11a (Wi-Fi 2)
 
  While 802.11b was in development, IEEE created a second extension to the original 802.11 standard called_802.11a_ . Because 802.11b gained popularity much faster than 802.11a, some folks believe that 802.11a was created after 802.11b. In fact, 802.11a was created at the same time. Due to its higher cost, 802.11a is usually found on business networks, whereas 802.11b better serves the home market.
@@ -136,18 +122,6 @@ Lifewire
 
  802.11b is also unofficially referred to as_Wi-Fi 1_ .
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What About Bluetooth and the Rest?
 
  Aside from these five general-purpose Wi-Fi standards, several other related wireless network technologies offer slightly different value propositions.
@@ -218,8 +192,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +199,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-making-a-mark-jujutsu-kaisen-on-the-tiktok-scene/"><u>[Updated] 2024 Approved Making a Mark Jujutsu Kaisen on the TikTok Scene</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860670607-updated-maximizing-ipad-audio-record-best-tips/"><u>[Updated] Maximizing iPad Audio Record Best Tips!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-securing-and-archiving-snapchat-content-on-phone-for-2024/"><u>[Updated] Securing and Archiving Snapchat Content on Phone for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/activating-your-pixel-watchs-latest-safety-upgrade-fall-detection-explained-tech-insights-by-zdnet/"><u>Activating Your Pixel Watch's Latest Safety Upgrade - Fall Detection Explained | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/banish-error-code-0x80070570-a-users-ultimate-guide-to-restore-functionality/"><u>Banish Error Code 0X80070570: A User's Ultimate Guide to Restore Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/change-your-cast-screen-background-with-easy-tips-and-tricks/"><u>Change Your Cast Screen Background with Easy Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/clearing-outdated-dns-data-from-macos-a-simple-guide/"><u>Clearing Outdated DNS Data From macOS: A Simple Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-highlow-res-issues-enjoying-better-display-on-win-10/"><u>Fixed High/Low Res Issues, Enjoying Better Display on Win 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/free-mobile-live-stream-apps-essentials-for-smartphones/"><u>Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-shadow-to-light-mastering-the-art-of-repairing-a-black-screen-on-windows-11-devices/"><u>From Shadow to Light: Mastering the Art of Repairing a Black Screen on Windows 11 Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gradual-volume-lessening-in-music-creation-garageband-for-2024/"><u>Gradual Volume Lessening in Music Creation (Garageband) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-the-next-gen-apple-robot-companion-estimated-price-tag-release-schedule-hardware-specs-and-insider-rumor-roundup/"><u>Inside Scoop on the Next-Gen Apple Robot Companion - Estimated Price Tag, Release Schedule, Hardware Specs, and Insider Rumor Roundup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-vlc-ultimate-guide-to-play-videos-on-your-apple-tv/"><u>Mastering VLC: Ultimate Guide to Play Videos on Your Apple TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-entering-and-exiting-iphone-device-recovery-mode/"><u>Step-by-Step Guide: Entering & Exiting iPhone Device Recovery Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-boosting-your-visibility-with-10-viral-success-strategies-on-ig/"><u>The Ultimate Checklist: Boosting Your Visibility with 10 Viral Success Strategies on IG</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-prevalent-iphone-screen-problems-and-their-simple-solutions/"><u>Top 7 Prevalent iPhone Screen Problems and Their Simple Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Google Pixel 7a | Dr.fone</u></a></li>
+</ul></div>
 

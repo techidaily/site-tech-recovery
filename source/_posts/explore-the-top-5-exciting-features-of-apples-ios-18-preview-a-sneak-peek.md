@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2024-10-23T11:14:32.861Z
-updated: 2024-10-25T03:23:01.150Z
+date: 2024-10-25T00:30:38.944Z
+updated: 2024-10-30T18:13:19.965Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,16 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -134,17 +128,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-aerial-capture-face-off-dji-mavic-2-vs-hero6-black/"><u>[New] Aerial Capture Face-Off DJi Mavic 2 vs Hero6 Black</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-8-smooth-latency-free-video-reporters-for-2024/"><u>[Updated] Top 8 Smooth, Latency-Free Video Reporters for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-watching-outdated-facebook-chronicles-mobilelaptop-for-2024/"><u>[Updated] Watching Outdated Facebook Chronicles (Mobile/Laptop) for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-blueprint-revolutionizing-your-mobile-capture-experience-with-mobizen/"><u>2024 Approved Ultimate Blueprint Revolutionizing Your Mobile Capture Experience with Mobizen</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/best-video-language-changers-to-make-your-videos-accessible-for-2024/"><u>Best Video Language Changers to Make Your Videos Accessible for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortlessly-convert-mmf-audio-files-to-mp3-for-free-using-movavis-web-based-tool/"><u>Effortlessly Convert MMF Audio Files to MP3 for Free Using Movavi's Web-Based Tool</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/foremost-dialogue-maker-hub/"><u>Foremost Dialogue Maker Hub</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-tool-to-convert-audio-interchange-file-format-aif-to-free-lossless-audio-codec-flac/"><u>Free Online Tool to Convert Audio Interchange File Format (AIF) to Free Lossless Audio Codec (FLAC)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-poco-f5-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Poco F5 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-motorola-moto-g14-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Motorola Moto G14 Through Google Earth?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-k-lite-audio-and-video-compression-tools-boost-your-media-experience/"><u>The Ultimate K-Lite Audio & Video Compression Tools: Boost Your Media Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformation-gratuite-de-fichiers-mov-en-mp4-en-ligne-avec-movavi-tutorial-complet/"><u>Transformation Gratuite De Fichiers MOV en MP4 en Ligne Avec Movavi – Tutorial Complet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-5-vr-sets-elevating-uav-experience/"><u>[New] Ultimate 5 VR Sets Elevating UAV Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-fun-on-faces-a-comprehensive-guide-to-cartoon-snaps/"><u>[Updated] 2024 Approved Fun on Faces A Comprehensive Guide to Cartoon Snaps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-numbers-game-estimating-income-from-viral-content/"><u>[Updated] The Numbers Game Estimating Income From Viral Content</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-infographic-8-ways-to-make-money-on-youtube-for-beginners/"><u>2024 Approved Infographic - 8 Ways to Make Money on YouTube for Beginners</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/effortless-guide-to-free-melodies-in-youtube-productions-for-2024/"><u>Effortless Guide to Free Melodies in YouTube Productions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/evaluating-the-benefits-of-instagrams-selfie-credentials-for-2024/"><u>Evaluating the Benefits of Instagram’s Selfie Credentials for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-reasons-behind-the-worlds-shift-to-electric-cars/"><u>Exploring the Reasons Behind the World's Shift to Electric Cars</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-windows-11-screenshots-discover-4-effective-approaches/"><u>Mastering Windows 11 Screenshots: Discover 4 Effective Approaches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/merging-data-columns-efficiently-a-guide-to-consolidating-two-cells-in-microsoft-excel/"><u>Merging Data Columns Efficiently: A Guide to Consolidating Two Cells in Microsoft Excel</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-is-vn-video-editor-pro-worth-the-download-a-comprehensive-review/"><u>New In 2024, Is VN Video Editor Pro Worth the Download? A Comprehensive Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-504-gateway-timeouts-practical-solutions-for-website-downtime/"><u>Overcoming 504 Gateway Timeouts – Practical Solutions for Website Downtime</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pairing-and-managing-multiple-bluetooth-speakers-with-just-one-device/"><u>Pairing and Managing Multiple Bluetooth Speakers with Just One Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/reinstating-windows-10-file-explorer-on-your-new-windows-11-machine/"><u>Reinstating Windows 10 File Explorer on Your New Windows 11 Machine</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-of-smart-homes-exploring-rumors-and-specs-for-apples-personal-robot/"><u>The Future of Smart Homes: Exploring Rumors and Specs for Apple's Personal Robot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-2024s-most-effective-study-tools/"><u>The Ultimate List of 2024'S Most Effective Study Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgraded-performance-learn-to-install-a-fresh-battery-in-your-ipad/"><u>Upgraded Performance: Learn to Install a Fresh Battery in Your iPad</u></a></li>
 </ul></div>
 

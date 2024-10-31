@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Plans & Promotions in May 2024 - Insider's Guide
-date: 2024-10-20T03:30:43.844Z
-updated: 2024-10-24T21:17:50.845Z
+date: 2024-10-24T22:53:40.216Z
+updated: 2024-10-30T17:59:53.929Z
 tags:
   - apple
 categories:
@@ -131,10 +131,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Accessory and service deals
@@ -157,43 +157,43 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -244,18 +244,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-a-brief-guide-to-kickstarting-conversations-on-instagram/"><u>[New] A Brief Guide to Kickstarting Conversations on Instagram</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harness-the-full-potential-of-video-tags-in-youtube-for-2024/"><u>[New] Harness the Full Potential of Video Tags in YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-perfecting-youtube-shorts-step-by-step-video-production-tips/"><u>[Updated] Perfecting YouTube Shorts Step-by-Step Video Production Tips</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/comprehensive-walkthrough-installing-windows-movie-maker-60/"><u>Comprehensive Walkthrough Installing Windows Movie Maker 6.0</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-libre-en-ligne-de-rmvb-a-mov-avec-movavi-facile-et-rapide-pour-tous-les-utilisateurs/"><u>Conversion Libre en Ligne De RMVB À MOV Avec Movavi, Facile Et Rapide Pour Tous Les Utilisateurs.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-wav-file-w64-into-mp3-format-by-movavi/"><u>Free Online Converter: Transform WAV File (W64) Into MP3 Format by Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-converter-zonder-kostjes-om-je-wmv-files-in-mpeg-te-veranderen-met-movavi/"><u>Online Converter Zonder Kostjes: Om Je WMV Files in MPEG Te Veranderen Met Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tga-naar-jpeg-omzetten-gratuite-online-converteertool/"><u>TGA Naar JPEG Omzetten - Gratuite Online Converteertool</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-3-complimentary-windows-11-media-converters-for-dvds-and-blu-rays-get-the-full-versions-now/"><u>Top 3 Complimentary Windows 11 Media Converters for DVDs and Blu-Rays - Get the Full Versions Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transcodage-gratuit-de-fichiers-m4b-a-mkv-guide-complet-sur-movavi/"><u>Transcodage Gratuit De Fichiers M4B À MKV : Guide Complet Sur Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-tips-to-resolve-slime-rancher-amidst-pc-system-crashes/"><u>Ultimate Troubleshooting Tips to Resolve Slime Rancher Amidst PC System Crashes</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly/"><u>Updated In 2024, Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/flv-gif/"><u>영구 용인: 간단한 방법, 우리가 도와드리는 화면에서 FLV 개시를 GIF로 전환</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-discovering-where-youtube-video-management-happens/"><u>[New] 2024 Approved Discovering Where YouTube Video Management Happens</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-encompassing-explanation-what-is-googles-podcast-service/"><u>[Updated] Encompassing Explanation What Is Google's Podcast Service?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-list-of-8-real-world-youtube-boosters/"><u>[Updated] The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-the-future-apple-watch-ultra-series-2-predicted-specifications-cost-projections-and-launch-plans/"><u>All About the Future Apple Watch Ultra Series 2 - Predicted Specifications, Cost Projections & Launch Plans!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/considering-a-graphics-leap-should-you-choose-the-rtx-series/"><u>Considering a Graphics Leap: Should You Choose the RTX Series?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-choice-of-the-best-6-free-movie-sites-for-children/"><u>Discover Our Choice of the Best 6 Free Movie Sites for Children</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-methods-for-changing-the-battery-in-your-tablet-device-ipad/"><u>DIY Methods for Changing the Battery in Your Tablet Device (iPad)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-deactivate-sticky-key-functionality-in-windows-os/"><u>Guide to Deactivate Sticky Key Functionality in Windows OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-8-windows-podcast-platforms-guide-for-2024/"><u>Leading 8-Windows Podcast Platforms Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-productivity-a-guide-to-using-slack-effectively-in-the-workplace/"><u>Maximizing Productivity: A Guide to Using Slack Effectively in the Workplace</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-dusk-drawers-of-microsoft-paint/"><u>The Dusk Drawers of Microsoft Paint</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722870163512-top-15-free-windows-11-skins-and-themes-get-your-pc-revamped/"><u>Top 15 FREE Windows 11 Skins & Themes - Get Your PC Revamped!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-missing-haldll-errors-in-windows-xp-easily/"><u>Troubleshoot and Repair Missing HAL.DLL Errors in Windows XP Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-secrets-to-enthralling-unboxing-content-on-insta-for-2024/"><u>Unlock the Secrets to Enthralling Unboxing Content on Insta for 2024</u></a></li>
 </ul></div>
 

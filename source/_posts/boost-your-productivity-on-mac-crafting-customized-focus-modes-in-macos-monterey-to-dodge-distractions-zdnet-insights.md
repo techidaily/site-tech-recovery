@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions | ZDNET Insights"
-date: 2024-10-19T02:36:47.635Z
-updated: 2024-10-24T18:51:58.160Z
+date: 2024-10-23T19:58:26.349Z
+updated: 2024-10-30T18:22:57.421Z
 tags:
   - apple
 categories:
@@ -28,22 +28,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -55,10 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -70,10 +63,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -105,6 +98,19 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,20 +154,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-pivotal-software-in-shaping-a-vtubers-sound-identity/"><u>[New] 2024 Approved Pivotal Software in Shaping a Vtuber's Sound Identity</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-navigating-social-sharing-pining-on-snapchat/"><u>[New] In 2024, Navigating Social Sharing Pining on Snapchat</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2023s-ultimate-guide-choosing-the-finest-apple-watch-display-shield-according-to-zdnet/"><u>2023'S Ultimate Guide: Choosing the Finest Apple Watch Display Shield, According to ZDNET</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-ghostly-lens-takedown-reviews/"><u>2024 Approved Ghostly Lens Takedown Reviews</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/6-pro-vs-apple-iphone-13-pro-for-tech-enthusiasts-zdnet/"><u>6 Pro Vs. Apple iPhone 13 Pro for Tech Enthusiasts | ZDNET</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/easy-steps-to-master-apowersofts-streaming-audio-recorder/"><u>Easy Steps to Master Apowersoft's Streaming Audio Recorder</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/hello-in-portuguese-all-the-portuguese-greetings-you-need-to-knowback-buttonfilter-button/"><u>Hello In Portuguese - All The Portuguese Greetings You Need To KnowBack ButtonFilter Button</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-15-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 15 Pro - 4 Easy Ways</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-the-art-of-tiktok-closing-scenes-for-2024/"><u>Mastering the Art of TikTok Closing Scenes for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028300427-mp4/"><u>MP4フォーマット動画を最適化し、自由度高い回転・反転機能実装方法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revised-google-news-feed-for-informed-users/"><u>Revised Google News Feed for Informed Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/section-2c-increasingly-complex-questions/"><u>Section 2C: Increasingly Complex Questions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-magsafe-accessories-comprehensive-reviews-and-testing-insights-zdnets-selection/"><u>Top-Rated MagSafe Accessories : Comprehensive Reviews & Testing Insights - ZDNet's Selection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-math-experience-with-the-advanced-ipad-calculator-app-convincing-enough-to-justify-buying-an-apple-pencil/"><u>Transform Your Math Experience with The Advanced iPad Calculator App – Convincing Enough to Justify Buying an Apple Pencil!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-most-efficient-wireless-charger-options-rigorously-tested-by-professionals-zdnet/"><u>Ultimate Guide to the Most Efficient Wireless Charger Options , Rigorously Tested by Professionals | ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-echoes-from-the-web-tips-on-tracking-live-sounds/"><u>[New] 2024 Approved Echoes From the Web Tips on Tracking Live Sounds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-user-friendly-guide-to-logging-gotomeeting-events/"><u>[New] 2024 Approved User-Friendly Guide to Logging GoToMeeting Events</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-construct-your-own-home-made-google-cardboard-vr-device/"><u>[New] In 2024, How to Construct Your Own Home-Made Google Cardboard VR Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photoshop-for-beginners-top-editing-hacks-revealed/"><u>[Updated] Photoshop For Beginners Top Editing Hacks Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breaking-down-bandwidth-handy-fixes-for-improving-a-sluggish-internet-speed/"><u>Breaking Down Bandwidth: Handy Fixes for Improving a Sluggish Internet Speed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ending-iphone-quiet-mode-effective-strategies-for-restoring-notifications-sounds/"><u>Ending iPhone Quiet Mode: Effective Strategies for Restoring Notifications Sounds</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-game-launch-errors-a-step-by-step-solution-for-granblue-fantasy-relink-issue/"><u>Fix Your Game Launch Errors: A Step-by-Step Solution for Granblue Fantasy Relink Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-errors-and-bugs-with-the-ios-device-based-remote-application/"><u>Fixing Errors and Bugs with the iOS Device-Based Remote Application</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-v-purse-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor V Purse to New Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi Note 13 Pro+ 5G Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-there-a-global-glitch-in-microsoft-teams-or-are-connectivity-woes-to-blame/"><u>Is There a Global Glitch in Microsoft Teams, or Are Connectivity Woes to Blame?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamlessly-connecting-your-smartphone-tablet-and-computer-with-one-number/"><u>Seamlessly Connecting Your Smartphone, Tablet & Computer With One Number</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-or-not-found-d3n9dll-errors-easily/"><u>Troubleshooting 'Missing or Not Found' d3n9.dll Errors Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-screen-mirroring-for-pc-and-tv-mastering-the-use-of-chromecast/"><u>Wireless Screen Mirroring for PC and TV: Mastering the Use of Chromecast</u></a></li>
 </ul></div>
 

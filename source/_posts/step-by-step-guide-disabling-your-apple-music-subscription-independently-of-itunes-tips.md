@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling Your Apple Music Subscription Independently of iTunes - Tips"
-date: 2024-10-21T22:01:19.885Z
-updated: 2024-10-25T07:07:58.724Z
+date: 2024-10-25T05:53:14.270Z
+updated: 2024-10-30T18:22:53.391Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -62,13 +69,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -85,6 +85,13 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -97,6 +104,13 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
@@ -106,10 +120,16 @@ Screenshot by Lance Whitney/ZDNET
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -121,10 +141,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -139,13 +159,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -157,13 +170,6 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -207,21 +213,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-android-recording-at-your-fingertips-explore-our-top-8-free-choices/"><u>[New] Android Recording at Your Fingertips – Explore Our Top 8 Free Choices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-pixelpilot-w11-lightweight-screenshot-and-recording-app/"><u>[New] In 2024, PixelPilot W11 Lightweight Screenshot & Recording App</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-rev-up-with-hubsans-x4-fpv-quadcopter-review/"><u>[New] Rev Up with Hubsan's X4 FPV Quadcopter Review</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-dynamic-gifs-from-video-an-illustrative-tutorial-for-2024/"><u>[Updated] Crafting Dynamic Gifs From Video An Illustrative Tutorial for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/affordable-learning-how-students-can-save-with-microsoft-products/"><u>Affordable Learning: How Students Can Save with Microsoft Products</u></a></li>
-<li><a href="https://fox-where.techidaily.com/boost-your-site-with-black-dashboard-a-complimentary-bootstrap-creativetime-admin-suite/"><u>Boost Your Site with Black Dashboard - A Complimentary Bootstrap # Creativetime Admin Suite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-resolving-the-missing-d3dx9n41dll-error/"><u>Comprehensive Guide: Resolving The Missing d3dx9_n41.dll Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-inner-workings-of-oled-displays/"><u>Exploring the Inner Workings of OLED Displays</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-iphone-call-volume-is-low/"><u>How to Fix It When iPhone Call Volume Is Low</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/how-to-record-gameplay-on-xbox-one-for-2024/"><u>How to Record Gameplay on Xbox One for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/must-watch-current-hits-on-max-tv-network/"><u>Must-Watch: Current Hits on Max TV Network</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-ffxiv-update-issues-fixes-for-unsuccessful-version-checks/"><u>Overcoming FFXIV Update Issues – Fixes for Unsuccessful Version Checks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-access-how-to-gain-entry-into-the-facebook-marketplace/"><u>Unlocking Access: How to Gain Entry Into the Facebook Marketplace</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-capabilities-of-wd-data-lifeguard-diagnostics-an-seo-optimized-review-guide/"><u>Unveiling the Capabilities of WD Data LifeGuard Diagnostics: An SEO Optimized Review Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-s17e-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo S17e Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-in-class-memetics-engine/"><u>[New] Best-in-Class Memetics Engine</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-thumbnail-tailoring-for-youtube-a-practical-guide-to-image-resizing-and-customization/"><u>[New] In 2024, Thumbnail Tailoring for YouTube A Practical Guide to Image Resizing and Customization.</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-universal-method-for-recording-your-preferred-youtube-stream-no-matter-the-device/"><u>[Updated] Universal Method for Recording Your Preferred YouTube Stream, No Matter the Device</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-low-cost-lift-offs-the-most-affordable-drone-options/"><u>2024 Approved Low-Cost Lift-Offs The Most Affordable Drone Options</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-comprerancial-approach-for-negating-distracting-fb-advertisements/"><u>A Comprerancial Approach for Negating Distracting FB Advertisements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/creative-capers-with-ios-amusing-shenanignans-for-iphones-and-ipads/"><u>Creative Capers with iOS: Amusing Shenanignans for iPhones and iPads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-15-complimentary-windows-11-visual-overhauls/"><u>Discover the Ultimate List of 15 Complimentary Windows 11 Visual Overhauls</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-and-tricks-timing-photos-perfectly-using-iphone-camera-features/"><u>Easy Tips & Tricks: Timing Photos Perfectly Using iPhone Camera Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/editing-your-instagram-captions-a-step-by-step-guide/"><u>Editing Your Instagram Captions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-screenshot-solutions-learn-four-key-windows-11-shortcuts-today/"><u>Effortless Screenshot Solutions – Learn Four Key Windows 11 Shortcuts Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-solutions-for-fixing-no-signal-screen-problems-on-android-gadgets/"><u>Expert Solutions for Fixing 'No Signal' Screen Problems on Android Gadgets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-steer-clear-of-common-scams-in-chatgpt-interactions/"><u>How to Steer Clear of Common Scams in ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-keyboard-accessibility-turning-off-sticky-keys-on-your-pc/"><u>Mastering Keyboard Accessibility: Turning Off Sticky Keys on Your PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/secret-sonic-snatchers-6-in-the-shadows-voice-recording-apps/"><u>Secret Sonic Snatchers 6 In-the-Shadows Voice Recording Apps</u></a></li>
 </ul></div>
 

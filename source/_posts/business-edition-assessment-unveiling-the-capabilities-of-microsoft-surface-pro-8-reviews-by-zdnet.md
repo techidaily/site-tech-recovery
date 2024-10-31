@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2024-10-20T11:17:32.992Z
-updated: 2024-10-25T12:16:39.694Z
+date: 2024-10-29T19:18:09.196Z
+updated: 2024-10-31T03:10:26.503Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -93,6 +86,13 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -126,13 +126,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -156,10 +149,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -175,19 +168,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -226,20 +220,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unveiling-standout-cinematography-experts/"><u>[New] 2024 Approved Unveiling Standout Cinematography Experts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-vantage-point-critique/"><u>[Updated] Vantage Point Critique</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/affordable-long-lasting-power-discover-why-the-iphone-14-plus-is-your-best-value-pick/"><u>Affordable Long-Lasting Power: Discover Why the IPhone 14 Plus Is Your Best Value Pick</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/alight-motion-comprehensive-review-for-2024/"><u>Alight Motion Comprehensive Review for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/declutter-your-mailbox-instantly-one-trick-for-cleaner-communications/"><u>Declutter Your Mailbox Instantly - One Trick for Cleaner Communications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-review-discovering-superior-alternatives-the-top-non-apple-non-tile-wallet-airtag/"><u>Expert Review: Discovering Superior Alternatives - The Top Non-Apple, Non-Tile Wallet AirTag</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-universal-control-seamlessly-linking-your-ipad-and-mac-with-apples-magic-feature-a-comprehensive-guide/"><u>Mastering Universal Control: Seamlessly Linking Your iPad and Mac with Apple’s Magic Feature - A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-make-movies-like-a-pro-insider-secrets-for-achieving-professional-results/"><u>New In 2024, Make Movies Like a Pro Insider Secrets for Achieving Professional Results</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rethinking-the-need-for-an-iphone-16-insights-into-apple-innovation/"><u>Rethinking the Need for an iPhone 16? Insights Into Apple Innovation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/switching-sides-how-the-top-3-iphone-16-innovations-could-attract-android-loyalists-techinsight/"><u>Switching Sides: How the Top 3 iPhone 16 Innovations Could Attract Android Loyalists | TechInsight</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-apple-watch-ultra-2-how-its-features-make-it-a-top-choice-for-me-now-at-100-off-expert-review-by-zdnet/"><u>The Apple Watch Ultra 2: How Its Features Make It a Top Choice for Me, Now at $100 Off - Expert Review by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-technical-snag-with-displayport-21-and-ultra-high-speed-cables-decoding-why-nvidia-stuck-with-dp-14-in-their-new-rtx-series/"><u>The Technical Snag with DisplayPort 2.1 and Ultra High-Speed Cables: Decoding Why Nvidia Stuck With DP 1.4 in Their New RTX Series</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-video-effects-handbook-tips-and-tricks/"><u>The Ultimate Video Effects Handbook Tips and Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-elite-iphones-of-2eplusoo-rigorously-tested-by-professionals-detailed-insights-from-zdnet/"><u>Unveiling the Elite iPhones of 2E+oo: Rigorously Tested by Professionals, Detailed Insights From ZDNET</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-custom-youtube-shorts-image-credits-with-ease/"><u>[New] In 2024, Mastering Custom YouTube Shorts Image Credits with Ease</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/1716107367954-updated-in-2024-how-to-watch-facebook-live-on-roku/"><u>[Updated] In 2024, How to Watch Facebook Live on Roku</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ranked-slideshow-creation-software-on-latest-iphones/"><u>[Updated] In 2024, Ranked Slideshow Creation Software on Latest iPhones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5yid5a2m6icf44ks44kk44oj77ya44k344on44o844oi44kv44oe44o844or44ks5l244gj44gf57ch5y2y44gq44ot44oh44kq57eo6zug5oqa6kgt/"><u>初学者ガイド：ショートクツールを使った簡単なビデオ編集技術</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-the-garmin-ultra-30-an-insightful-review/"><u>Discovering the Garmin Ultra 30 An Insightful Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/displaying-your-pc-desktop-on-tv-screens-via-google-cast-an-in-depth-tutorial/"><u>Displaying Your PC Desktop On TV Screens Via Google Cast - An In-Depth Tutorial</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-income-territory-with-a-thousand-followers-for-2024/"><u>Entering Income Territory with a Thousand Followers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expected-features-price-range-and-arrival-date-for-the-next-gen-samsung-galaxy-s25-ultra-the-buzz-continues/"><u>Expected Features, Price Range, and Arrival Date for the Next-Gen Samsung Galaxy S25 Ultra – The Buzz Continues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-world-with-these-8-essential-trip-planner-apps/"><u>Explore the World with These 8 Essential Trip Planner Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-your-pc-back-online-when-it-has-no-power-indicators/"><u>How To Get Your PC Back Online When It Has No Power Indicators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-maintain-continuous-operation-stop-your-mac-from-going-into-slumber/"><u>How to Maintain Continuous Operation: Stop Your Mac From Going Into Slumber</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-invisible-viewers-for-fb-chronicles/"><u>In 2024, Invisible Viewers for FB Chronicles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-digital-education-the-leading-learning-apps-of-2024-unveiled/"><u>Navigating Digital Education: The Leading Learning Apps of 2024 Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-star-wars-the-right-viewing-sequence-for-full-saga-on-disney-plus/"><u>Navigating Star Wars: The Right Viewing Sequence for Full Saga on Disney Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-the-overwhelming-impact-of-ntoskrnlexe/"><u>Reducing the Overwhelming Impact of Ntoskrnl.exe</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-showdown-how-cable-stacks-up-to-streaming-options/"><u>The Ultimate Showdown: How Cable Stacks Up to Streaming Options</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/mp4-avi-3gp-wave-movavi/"><u>오픈 소스로 가격 없이 MP4, AVI 대신 3GP, WAVE 문자열 바꾸기 - Movavi</u></a></li>
 </ul></div>
 

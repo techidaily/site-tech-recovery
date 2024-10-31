@@ -1,7 +1,7 @@
 ---
 title: "Latest iPhone 12 Update: Now with Enhanced Qi2 Wireless Charging, No More MagSafe Necessary | ZDNet"
-date: 2024-10-20T06:56:30.670Z
-updated: 2024-10-25T12:37:07.206Z
+date: 2024-10-28T02:41:13.738Z
+updated: 2024-10-31T03:15:17.319Z
 tags:
   - apple
 categories:
@@ -77,28 +77,31 @@ Qi2 hardware is still pretty limited, but if you know where to look you can find
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-horizon-proworks-complete-4k-integrated-solution/"><u>[New] 2024 Approved Horizon ProWorks Complete 4K Integrated Solution</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-captivating-videos-start-here-these-7-royalty-free-audios/"><u>[Updated] Captivating Videos Start Here These 7 Royalty-Free Audios</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-expert-tips-for-efficient-youtube-to-mpeg-transcoding-for-2024/"><u>[Updated] Expert Tips for Efficient YouTube-to-MPEG Transcoding for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-beginners-blueprint-for-yourwebcamrecord/"><u>[Updated] In 2024, Beginner's Blueprint for YourWebcamRecord</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-your-gateway-to-success-with-a-bundle-of-50-free-adornments/"><u>2024 Approved Your Gateway to Success with a Bundle of 50 FREE Adornments</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convertissez-gratuitement-un-fichier-mp4-en-format-mov-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Un Fichier MP4 en Format MOV en Ligne Avec Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-great-confrontation-of-2024-inside-the-crowdstrike-vs-windows-meltdown-scandal-insights-from-history-zdnet/"><u>Decoding The Great Confrontation of 2024: Inside the CrowdStrike Vs. Windows Meltdown Scandal | Insights From History - ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-convertitori-audio-libreria-on-line-mp3-flv-and-altro/"><u>Download Convertitori Audio Libreria On-Line: MP3, FLV & Altro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuito-convertitore-di-file-per-il-formato-aif-con-movavi-passaggio-offline-a-online-facile/"><u>Gratuito Convertitore Di File per Il Formato AIF Con Movavi - Passaggio Offline a Online Facile!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-share-your-screen-on-discord-as-a-host-using-desktop-and-mobile/"><u>How to Share Your Screen on Discord as a Host Using Desktop and Mobile</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instigate-inspiration-top-20-ideas-for-ig-masterpieces-for-2024/"><u>Instigate Inspiration Top 20 Ideas for IG Masterpieces for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-against-the-law-to-seize-assets-without-owner-permission/"><u>Is It Against the Law to Seize Assets without Owner Permission?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-youtube-intros-tips-and-tricks-for-crafting-perfect-entrance-videos-with-movavi/"><u>Mastering the Art of YouTube Intros: Tips & Tricks for Crafting Perfect Entrance Videos with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-swf-mpg-mp4/"><u>Movavi의 무료 웹사이트 SWF-MPG 전환기 - 원하는 MP4로 쉽게 변환</u></a></li>
-<li><a href="https://extra-support.techidaily.com/playful-media-extractor-evaluation-for-2024/"><u>Playful Media Extractor Evaluation for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-vpn-selection-for-gamers-top-ranked-and-comprehensive-review-by-tech-experts-zdnet/"><u>Ultimate VPN Selection for Gamers: Top-Ranked & Comprehensive Review by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ultimate-live-band-webcasts/"><u>[New] In 2024, Ultimate Live Band Webcasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-quick-and-simple-thumbs-up-for-your-youtube-shorts/"><u>[Updated] In 2024, Quick & Simple Thumbs Up for Your YouTube Shorts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unveiling-the-secrets-of-ifunny-meme-app-usage/"><u>[Updated] Unveiling the Secrets of iFunny Meme App Usage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-top-selection-of-smart-key-finders-reviewed/"><u>2024'S Top Selection of Smart Key Finders Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-techniques-capturing-teams-screen-content-for-2024/"><u>Advanced Techniques Capturing Teams' Screen Content for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-g310-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on G310</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stop-that-annoying-boom-overcoming-subwoofer-distortion/"><u>How to Stop That Annoying Boom: Overcoming Subwoofer Distortion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-vector-illustration-software-a-must-have-list-for-artists/"><u>In 2024, Best Vector Illustration Software A Must-Have List for Artists</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macos-15-sequoia-the-next-big-thing-discover-launch-details-exciting-enhancements-and-press-announcements/"><u>MacOS 15 Sequoia - The Next Big Thing: Discover Launch Details, Exciting Enhancements & Press Announcements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-your-messages-effortlessly-with-the-best-visual-voice-mail-apps-of/"><u>Navigate Your Messages Effortlessly with the Best Visual Voice Mail Apps Of</u></a></li>
+<li><a href="https://games-able.techidaily.com/productivity-seat-not-a-throne/"><u>Productivity Seat, Not a Throne</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-tv-mastery-controlling-without-a-physical-remote-techniques-and-tricks/"><u>Roku TV Mastery: Controlling Without a Physical Remote - Techniques and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-refreshing-your-residential-sound-systems-speakers/"><u>Step-by-Step Instructions for Refreshing Your Residential Sound System's Speakers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-activate-your-apple-watch-with-gmail-a-comprehensive-guide/"><u>Steps to Activate Your Apple Watch with Gmail: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-stream-netflix-content-through-your-nintendo-switch-gaming-system/"><u>Steps To Stream Netflix Content Through Your Nintendo Switch Gaming System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-samsung-galaxy-z-flip-7-unveiled-anticipated-launch-date-and-pricing-details-revealed/"><u>The Samsung Galaxy Z Flip 7 Unveiled: Anticipated Launch Date & Pricing Details Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-commercial-data-custodians/"><u>Top 10 Commercial Data Custodians</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-vehicles-malfunctioning-audio-system/"><u>Troubleshooting Your Vehicle's Malfunctioning Audio System</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

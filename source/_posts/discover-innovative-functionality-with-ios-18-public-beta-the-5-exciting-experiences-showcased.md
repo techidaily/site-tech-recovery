@@ -1,7 +1,7 @@
 ---
 title: Discover Innovative Functionality with iOS 18 Public Beta – The 5 Exciting Experiences Showcased
-date: 2024-10-21T18:43:12.218Z
-updated: 2024-10-25T04:37:50.645Z
+date: 2024-10-30T00:06:44.491Z
+updated: 2024-10-30T19:39:40.753Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,16 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -77,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -92,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -134,17 +128,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-youtubes-seo-landscape-key-techniques/"><u>[New] Navigating YouTube's SEO Landscape Key Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-snapshotgenius-comprehensive-windowsmac-photo-software/"><u>[Updated] 2024 Approved SnapshotGenius Comprehensive Windows/Mac Photo Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-image-editing-excellence-with-top-apps-list/"><u>[Updated] Image Editing Excellence with Top Apps List</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-cutting-edge-photography-apps-on-iphones-vs-androids/"><u>[Updated] In 2024, Cutting-Edge Photography Apps on iPhones vs Androids</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ae-text-excellence-discover-our-best-10-ideas-for-2024/"><u>AE Text Excellence Discover Our Best 10 Ideas for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-handling-the-avcodecdll-file-doesnt-exist-issue/"><u>Effective Solutions for Handling the 'Avcodec.dll' File Doesn't Exist Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-a-nonfunctional-stadia-headset-a-step-by-step-guide/"><u>Fixing a Nonfunctional Stadia Headset: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-address-the-rpcrt4dll-couldnt-be-located-problem/"><u>How To Address The 'rpcrt4.dll' Couldn't Be Located Problem</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 8 Plus With 7 Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-master-internet-tracking-and-tailoring-by-enabling-cookies-on-any-web-browser/"><u>How to Master Internet Tracking and Tailoring by Enabling Cookies on Any Web Browser</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-speedy-assembly-for-stunning-google-image-mosaics/"><u>In 2024, Speedy Assembly for Stunning Google Image Mosaics</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-iphone-voice-messaging-features/"><u>Mastering the Art of iPhone Voice Messaging Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-transform-your-drive-must-have-accessories-for-sj4000-owners/"><u>[New] 2024 Approved Transform Your Drive Must-Have Accessories for SJ4000 Owners</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unleash-potential-making-your-vids-go-viral/"><u>[New] In 2024, Unleash Potential Making Your Vids Go Viral</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-fixing-errors-when-unable-to-locate-physxloaderdll-on-your-pc/"><u>Guide to Fixing Errors When Unable to Locate physxloader.dll on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-xinput13dll-not-found-or-missing-errors/"><u>How to Fix Xinput1_3.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-guide-to-infusing-movement-into-images-in-illustrator/"><u>In 2024, A Guide to Infusing Movement Into Images in Illustrator</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-record-your-mac-view-in-minutes/"><u>In 2024, Record Your Mac View in Minutes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-productivity-with-two-monitors-on-a-mac-how-to-do-it/"><u>Maximize Productivity with Two Monitors on a Mac - How to Do It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-wave-on-iphones-chatgpt-written-for-you/"><u>New Wave on iPhones: ChatGPT' Written for You</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-modifying-your-windows-11-taskbar-hue/"><u>Step-by-Step Guide: Modifying Your Windows 11 Taskbar Hue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-for-hps-laserjet-p3015-model-on-window-systems/"><u>Step-by-Step Guide: Updating and Downloading Drivers for HP's LaserJet P3015 Model on Window Systems</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/success-strategies-for-retrieving-information-following-logical-storage-malfunction/"><u>Success Strategies for Retrieving Information Following Logical Storage Malfunction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-gaming-console-picks-for-the-year-2024/"><u>Top Gaming Console Picks for the Year 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-streaming-made-simple-show-your-computer-screen-on-a-tv-via-chromecast/"><u>Wireless Streaming Made Simple: Show Your Computer Screen on a TV via Chromecast</u></a></li>
 </ul></div>
 

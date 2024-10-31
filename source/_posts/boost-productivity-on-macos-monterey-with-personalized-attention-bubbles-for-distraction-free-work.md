@@ -1,7 +1,7 @@
 ---
 title: Boost Productivity on MacOS Monterey with Personalized Attention Bubbles for Distraction-Free Work
-date: 2024-10-16T16:20:58.108Z
-updated: 2024-10-19T16:34:19.908Z
+date: 2024-10-30T06:13:24.120Z
+updated: 2024-10-31T04:06:24.413Z
 tags:
   - apple
 categories:
@@ -28,22 +28,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -54,6 +47,13 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,13 +61,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -85,6 +78,13 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -100,10 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,21 +148,17 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-ideal-places-to-enjoy-vr-films/"><u>[Updated] In 2024, Ideal Places to Enjoy VR Films</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-making-the-most-out-of-creative-commons-licenses/"><u>[Updated] In 2024, Making the Most Out of Creative Commons Licenses</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-parrot-ar-drone-20-elite-overview/"><u>2024 Approved Parrot AR Drone 2.0 Elite Overview</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-s24plus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy S24+ to Roku | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-gameplay-performance-a-guide-to-fixing-latency-issues-in-dual-monitor-configurations-with-windows-11/"><u>Enhancing Gameplay Performance: A Guide to Fixing Latency Issues in Dual-Monitor Configurations with Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enjoy-disney-movies-on-a-bigger-screen-connecting-disneyplus-with-chromecast-made-easy/"><u>Enjoy Disney Movies on a Bigger Screen: Connecting Disney+ with Chromecast Made Easy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-guide-for-when-openal32dll-is-absent-or-lost/"><u>Fix Guide for When openAL32.dll Is Absent or Lost</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-repair-an-xbox-one-when-no-picture-appears/"><u>How to Repair an Xbox One When No Picture Appears</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-m310-mouse-updating-device-drivers-made-simple/"><u>Logitech M310 Mouse: Updating Device Drivers Made Simple</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-remote-pc-display-on-tv-screens-with-chromecast-compatibility-and-windows-integration/"><u>Mastering Remote PC Display on TV Screens with Chromecast Compatibility and Windows Integration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-mobile-experience-the-ultimate-18-ios-shortcuts-guide/"><u>Revolutionize Your Mobile Experience: The Ultimate 18 iOS Shortcuts Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/secrets-to-successful-twitpicingvideos-included-for-2024/"><u>Secrets to Successful Twitpicing—Videos Included for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-install-applications-on-your-samsung-smart-television/"><u>Steps to Install Applications on Your Samsung Smart Television</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-essential-guidelines-when-selecting-a-superior-selfie-stick/"><u>Top 6 Essential Guidelines When Selecting a Superior Selfie Stick</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-claudes-ai-technology-why-it-stands-out/"><u>Understanding Claude's AI Technology: Why It Stands Out</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-handheld-mounts-precision-and-stability-combined/"><u>[New] Premium Handheld Mounts Precision and Stability Combined</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-brief-overview-of-the-quickest-chroma-key-tricks-for-2024/"><u>[Updated] Brief Overview of the Quickest Chroma Key Tricks for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-the-specific-model-number-on-your-macbook-device/"><u>Determining the Specific Model Number on Your MacBook Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-sites-with-complimentary-book-downloads-top-17-picks/"><u>Discover the Best Sites with Complimentary Book Downloads (Top 17 Picks)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287260049-divide-both-sides-by-2-to-solve-for-x/"><u>Divide Both Sides by 2 to Solve for ( X ):</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tech-help-eliminating-recovery-partitions-from-your-computer/"><u>DIY Tech Help: Eliminating Recovery Partitions From Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/error-free-computing-steps-to-rectify-the-absence-of-dbghelpdll-in-your-windows-environment/"><u>Error-Free Computing: Steps to Rectify the Absence of dbghelp.dll in Your Windows Environment</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-to-restore-deleted-jpeg-pictures-in-microsofts-latest-operating-systems/"><u>How to Restore Deleted JPEG Pictures in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pova-6-pro-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Tecno Pova 6 Pro 5G Phone without PIN</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-your-surface-pros-wi-fi-connection-issues-step-by-step-guide/"><u>Solving Your Surface Pro's Wi-Fi Connection Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-essentials-of-creating-and-curating-instagram-highlights-for-2024/"><u>The Essentials of Creating and Curating Instagram Highlights for 2024</u></a></li>
 </ul></div>
 

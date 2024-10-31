@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2024-10-23T23:46:59.207Z
-updated: 2024-10-25T06:24:58.711Z
+date: 2024-10-25T21:44:56.711Z
+updated: 2024-10-31T07:27:57.415Z
 tags:
   - apple
 categories:
@@ -43,10 +43,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +62,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +77,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +92,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,24 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-videography-with-youtubes-creative-commons/"><u>[New] Maximizing Videography with YouTube's Creative Commons</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-shattering-synthetic-statistics-on-youtube/"><u>[Updated] 2024 Approved Shattering Synthetic Statistics on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>[Updated] 2024 Approved The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-blurry-to-crystal-clear-the-ultimate-guide-to-vce-22/"><u>2024 Approved From Blurry to Crystal Clear The Ultimate Guide to VCE 2.2</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/ssd-windows-11-cd-cd/"><u>如何在SSD電池上安裝 Windows 11 - CD卡式或沒有 CD</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/achieve-superior-video-clarity-with-ideal-constant-quality-ratio-rf-settings-in-handbrake-for-various-formats/"><u>Achieve Superior Video Clarity with Ideal Constant Quality Ratio (RF) Settings in HandBrake for Various Formats</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eseguirai-con-successo-la-tua-conferenza-su-google-meet-una-guida-comprehensive-alliscrizione-e-allutilizzo/"><u>Eseguirai Con Successo La Tua Conferenza Su Google Meet: Una Guida Comprehensive All'Iscrizione E All'Utilizzo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/faites-de-votre-caf-une-plateforme-web-gratuite-grace-a-movavi-guerilla-seo/"><u>Faites De Votre CAF Une Plateforme Web Gratuite Grâce À Movavi - Guérilla SEO</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-ape-files-into-m4a-format-with-movavi/"><u>Free Online Conversion: Transforming APE Files Into M4A Format with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-professional-results-with-movavi-photo-editor-secure-yours-today/"><u>Get Professional Results with Movavi Photo Editor - Secure Yours Today!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuit-verbale-konvertor-wav-naar-mp4-bestaan-online-movavi/"><u>Gratuit Verbale Konvertor: WAV Naar MP4 Bestaan Online - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/no-cost-web-tool-transform-your-m4v-files-into-mp4-with-moviemaker-pro/"><u>No-Cost Web Tool: Transform Your M4V Files Into MP4 with MovieMaker Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-common-problems-with-utorrent-peer-connections-and-downloads/"><u>Quick Fixes for Common Problems with uTorrent Peer Connections & Downloads</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/should-algorithms-be-your-new-investment-advisors/"><u>Should Algorithms Be Your New Investment Advisors?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trasforma-i-tuoi-file-webm-in-formato-3gp-senza-costi-gratuitamente-con-convertitore-webm-3gp-di-movavi/"><u>Trasforma I Tuoi File WEBM in Formato 3GP Senza Costi, Gratuitamente Con Convertitore WebM-3GP Di Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trasforma-i-tuoi-video-mpeg-in-animazioni-gif-senza-costi-usando-movavicom/"><u>Trasforma I Tuoi Video MPEG in Animazioni GIF Senza Costi Usando Movavi.com</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/utilizing-picture-in-picture-on-chrome-everywhere/"><u>Utilizing Picture In Picture on Chrome Everywhere</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avi-mp4/"><u>무료 인터넷 스트리밍: AVI 파일을 MP4에 전환하는 방법 - 모바이비</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-steady-as-you-go-camera-stability-without-a-tripod/"><u>[New] In 2024, Steady as You Go Camera Stability Without a Tripod</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-best-8-concealed-video-downloading-software-of-2023/"><u>[Updated] In 2024, Best 8 Concealed Video Downloading Software of 2023</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advanced-camera-techniques-for-iphone-and-ipad-users-looking-to-capture-stunning-shots/"><u>Advanced Camera Techniques for iPhone & iPad Users Looking to Capture Stunning Shots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-correct-missing-nspr4dll-files-in-your-pc/"><u>Effective Methods to Correct Missing nspr4.dll Files in Your PC</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/efficient-herstel-van-verloorde-partities-and-bestandtabellen-met-windowseis/"><u>Efficiënt Herstel Van Verloorde Partities & Bestandtabellen Met Windowseis</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-recommendations-secure-your-deleted-iphone-contacts-back/"><u>Expert Recommendations: Secure Your Deleted iPhone Contacts Back</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-eliminating-pin-security-on-your-windows-11-device/"><u>Guide to Eliminating PIN Security on Your Windows 11 Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-a25-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy A25 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-guide-unraveling-google-podcasts-app/"><u>In 2024, Comprehensive Guide Unraveling Google Podcasts App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-depth-analysis-best-valheim-seeds-for-growth-for-2024/"><u>In-Depth Analysis Best Valheim Seeds for Growth for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-game-capture-top-3-methods/"><u>New Easy Game Capture Top 3 Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolve-your-androids-inability-to-dial-or-receive-calls-with-these-fixes/"><u>Resolve Your Android's Inability to Dial or Receive Calls with These Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-melodies-of-google-chrome-a-solution-to-no-sound-issues/"><u>Reviving the Melodies of Google Chrome: A Solution to No-Sound Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-your-silent-phone-a-guide-to-restoring-ringtones-on-your-iphone/"><u>Solving Your Silent Phone: A Guide to Restoring Ringtones on Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transitioning-from-ps4-to-ps5-can-you-still-play-your-old-favorites/"><u>Transitioning From PS4 to PS5 - Can You Still Play Your Old Favorites?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-overcoming-black-screen-dilemmas-in-windows-11-systems/"><u>Troubleshooting Tips: Overcoming Black Screen Dilemmas in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-isnt-my-apple-watch-using-cellular-data-fixes-and-tips-included/"><u>Why Isn't My Apple Watch Using Cellular Data? Fixes and Tips Included</u></a></li>
 </ul></div>
 

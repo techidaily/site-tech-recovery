@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2024-10-19T02:50:54.713Z
-updated: 2024-10-25T01:12:35.554Z
+date: 2024-10-28T19:51:44.723Z
+updated: 2024-10-31T05:42:43.440Z
 tags:
   - apple
 categories:
@@ -30,10 +30,10 @@ You'll find the necessary setting in the Control Center section of your Settings
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open your Settings app and find "Control Center"
@@ -43,6 +43,13 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -90,25 +97,18 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQs
 
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
 
@@ -119,10 +119,10 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How can I share my captured video?
@@ -161,18 +161,18 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-expert-guides-to-mobile-screen-recording/"><u>[New] In 2024, Expert Guides to Mobile Screen Recording</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-clearing-process-for-youtubes-pending-video-list/"><u>[Updated] 2024 Approved Clearing Process for YouTube's Pending Video List</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capturing-moments-in-motion-a-review-on-panasonic-hx-a1-actioncam/"><u>[Updated] Capturing Moments in Motion - A Review on Panasonic HX-A1 ActionCam</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-change-your-files-from-opusmp3-format-with-movavi/"><u>Free Online Converter: Change Your Files From Opus/MP3 Format with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-mp4-to-wmv-easy-and-fast-transformations-with-movavi/"><u>Free Online Converter: MP4 to WMV - Easy & Fast Transformations with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/getting-started-with-vocal-recording-a-starters-selection-of-microphones-and-software/"><u>Getting Started with Vocal Recording: A Starter’s Selection of Microphones & Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guia-facil-para-transformar-seu-dvd-de-filme-em-mp4-usando-aplicativos-sem-custo/"><u>Guia Fácil Para Transformar Seu DVD De Filme Em MP4 Usando Aplicativos Sem Custo</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-live-stream-to-screen-seamlessly-reviewed/"><u>In 2024, Live-Stream to Screen, Seamlessly Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maintaining-information-security-while-leveraging-chatgpt-in-the-workplace/"><u>Maintaining Information Security While Leveraging ChatGPT in the Workplace</u></a></li>
-<li><a href="https://win-blog.techidaily.com/revive-your-galactic-adventure-how-to-conquer-star-wars-battlefront-ii-black-screen-glitch/"><u>Revive Your Galactic Adventure: How to Conquer Star Wars Battlefront II Black Screen Glitch</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-economical-headphone-experience-paww-triad/"><u>The Ultimate Guide to Economical Headphone Experience - Paww Triad</u></a></li>
-<li><a href="https://article-tips.techidaily.com/transformative-beauty-practices/"><u>Transformative Beauty Practices</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/almmarsat-alrysya-ofhm-alnskh-alahtyaty-dlyl-shaml-mkabl/"><u>الممارسات الرئيسية وفهم النسخ الاحتياطي: دليل شامل مقابل</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-rapid-reverse-how-to-flip-your-stream-sides/"><u>[New] 2024 Approved The Rapid Reverse How to Flip Your Stream-Sides</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-top-5-free-youtube-video-editor-apps-for-apple-users/"><u>[New] 2024 Approved Top 5 Free YouTube Video Editor Apps for Apple Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-kindle-paperwhite-how-to-sync-time-settings-with-ease/"><u>Amazon Kindle Paperwhite: How to Sync Time Settings with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-resolve-the-stop-0x0000007b-blue-screen-of-death-issues/"><u>Effective Solutions to Resolve the STOP 0X0000007B Blue Screen of Death Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-u23-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of U23 Pro using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-12-free-youtube-thumbnail-makers-to-make-your-own-video-thumbnail/"><u>In 2024, 12 FREE YouTube Thumbnail Makers to Make Your Own Video Thumbnail</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-a59-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo A59 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-immerse-in-digital-spaces-pcs-premier-10-vr-playback-systems/"><u>In 2024, Immerse in Digital Spaces PC’s Premier 10 VR Playback Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lifewire-fuhrt-sie-durch-15-kostenlose-online-ki-kurse-zum-selbststudium/"><u>Lifewire Führt Sie Durch 15 Kostenlose Online-KI-Kurse Zum Selbststudium</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-editing-how-to-create-professional-jump-cuts-in-final-cut-pro-x/"><u>New Elevate Your Editing How to Create Professional Jump Cuts in Final Cut Pro X</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights/"><u>Tom's Tech Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-nintendo-switch-grips-and-pads-2024-edition/"><u>Top Nintendo Switch Grips and Pads, 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-behind-a-503-service-interruption-identifying-and-rectifying-server-issues/"><u>What's Behind a 503 Service Interruption? Identifying & Rectifying Server Issues</u></a></li>
 </ul></div>
 

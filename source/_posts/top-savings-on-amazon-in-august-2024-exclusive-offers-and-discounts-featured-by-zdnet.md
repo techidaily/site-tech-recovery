@@ -1,7 +1,7 @@
 ---
 title: Top Savings on Amazon in August 2024 - Exclusive Offers and Discounts Featured by ZDNet
-date: 2024-10-18T00:48:59.352Z
-updated: 2024-10-24T16:50:02.197Z
+date: 2024-10-23T19:33:00.839Z
+updated: 2024-10-30T16:42:30.785Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ Kayla Solino/ZDNET
 * [Samsung Galaxy Watch6 smartwatch (40mm)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch6-aluminum-smartwatch-40mm-bt-graphite%2F6546704.p%3FskuId%3D6546704&publisher%5Fslug=zdnet&article%5Fname=the%20best%20best%20buy%20deals%20of%20june%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $240 (save $60)
 * [Samsung Q-series soundbar w/Q-Symphony](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-q-series-3-1-2-ch-dolby-atmos-soundbar-w-q-symphony-titan-black%2F6535893.p%3FskuId%3D6535893&publisher_slug=itechdaily19598&exclusive=1): $480 (save $120)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best Best Buy headphone deals
 
 Jada Jones/ZDNET
@@ -69,13 +76,6 @@ Roku
 * [Insignia 75-inch F30 Series LED 4K UHD Smart Fire TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Finsignia-75-class-f30-series-led-4k-uhd-smart-fire-tv%2F6480926.p%3FskuId%3D6480926&publisher_slug=itechdaily19598&exclusive=1): $470 (save $130)
 * [LG 77-inch C3 Series OLED evo 4K UHD Smart webOS TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-77-class-c3-series-oled-evo-4k-uhd-smart-webos-tv%2F6535930.p%3FskuId%3D6535930&publisher_slug=itechdaily19598&exclusive=1): $2300 (save $200)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Best Buy tablet, laptop deals
 
 Sabrina Ortiz/ZDNET
@@ -89,10 +89,10 @@ Sabrina Ortiz/ZDNET
 * [Apple MacBook Air 13.6-inch laptop (M2 chip, 8GB RAM, 256GB)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-6-laptop-apple-m2-chip-8gb-memory-256gb-ssd-starlight%2F6509648.p%3FskuId%3D6509648&publisher%5Fslug=zdnet&article%5Fname=the%20best%20best%20buy%20deals%20of%20june%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $849 (save $150)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Best Buy robot vacuum deals
@@ -106,10 +106,10 @@ Maria Diaz/ZDNET
 * [iRobot Roomba Vac Essential robot vacuum](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-vac-essential-robot-vacuum-q0120-black%2F6577016.p%3FskuId%3D6577016&publisher_slug=itechdaily19598&exclusive=1): $180 (save $70)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these Best Buy deals?
@@ -127,6 +127,13 @@ We chose our favorite Best Buy deals based on the following factors:
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on these deals, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What was Best Buy called originally?
 
 Founded in 1966, Best Buy used to be known as Sound of Music. However, after diversifying out from audio products, the company changed its name to Best Buy in 1983\. 
@@ -134,13 +141,6 @@ Founded in 1966, Best Buy used to be known as Sound of Music. However, after div
 ## How popular is Best Buy's Geek Squad?
 
 Geek Squad repairs and refurbishes tech including laptops and smartphones. According to the retail giant, the group makes approximately five million house calls every year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best tech deals in 2024?
 
@@ -196,24 +196,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-6-ingenious-sites-brimming-with-customizable-youtube-themes/"><u>[New] In 2024, 6 Ingenious Sites Brimming With Customizable YouTube Themes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-privacy-purposed-selecting-best-insta-watchers-for-2024/"><u>[New] Privacy-Purposed Selecting Best Insta Watchers for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tailor-made-twitter-video-coverage-for-2024/"><u>[New] Tailor-Made Twitter Video Coverage for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/apex-legends-2022-troubleshooting-the-leaf-error-code-comprehensive-guide/"><u>Apex Legends 2022: Troubleshooting the 'Leaf' Error Code - Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/can-you-sync-airpods-for-enhanced-audio-on-the-nintendo-switch-find-out-here/"><u>Can You Sync AirPods for Enhanced Audio on the Nintendo Switch? Find Out Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-hp-laserjet-1320-driver-version-complete-step-by-step-tutorial-for-windows-users/"><u>Download the Newest HP LaserJet 1320 Driver Version: Complete Step-by-Step Tutorial for Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enabling-and-using-android-apps-seamlessly-within-the-windows-10-operating-system/"><u>Enabling and Using Android Apps Seamlessly Within the Windows 10 Operating System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-seamless-journeys-top-5-iphone-gps-apps-recommended-by-us/"><u>Experience Seamless Journeys: Top 5 iPhone GPS Apps Recommended by Us</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nokia-c210-by-drfone-android/"><u>How to Show Wi-Fi Password on Nokia C210</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-samsungs-game-changing-32gb-ddr5-ic-technology-for-next-gen-1tb-memory-devices/"><u>Introducing Samsung's Game-Changing 32GB DDR5 IC Technology for Next-Gen 1TB Memory Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mailcom-subscription-decoding-the-timeline-for-potential-expiry/"><u>mail.com Subscription: Decoding The Timeline For Potential Expiry</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-in-home-karaoke-parties-for-unforgettable-nights/"><u>Mastering the Art of In-Home Karaoke Parties for Unforgettable Nights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/minecraft-driver-issue-solved-eliminating-the-outdated-drivers-error-permanently/"><u>Minecraft Driver Issue Solved: Eliminating the 'Outdated Drivers' Error Permanently</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-youtube-videos-to-english-subtitles-for-2024/"><u>New How to Translate YouTube Videos to English Subtitles for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-integrating-apples-airpods-with-your-hewlett-packard-portable-computer/"><u>The Ultimate Walkthrough for Integrating Apple's AirPods with Your Hewlett Packard Portable Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/these-are-the-unique-features-you-need-to-look-for-in-a-gaming-keyboard/"><u>These Are the Unique Features You Need to Look for in a Gaming Keyboard</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-preferred-applications-for-securing-a-second-phone-line/"><u>Top 8 Preferred Applications for Securing a Second Phone Line</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-d3dx924dll-not-detected-issues/"><u>Troubleshooting Guide: Resolving 'd3dx9_24.dll' Not Detected Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-steps-to-achieve-verification-badge-on-formerly-known-as-twitter/"><u>Ultimate Guide: Steps to Achieve Verification Badge on Formerly Known as Twitter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ace-your-video-streams-with-youtube-premiums-discounted-rates-for-college-and-university-scholars/"><u>Ace Your Video Streams with YouTube Premium's Discounted Rates for College and University Scholars</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/action-herogo-black-vs-star-sj7-camera/"><u>Action HeroGo Black Vs Star SJ7 Camera</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-nubia-red-magic-8s-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/contrasting-the-giants-in-depth-analysis-of-iphone-15-pro-max-versus-samsung-galaxy-s24-ultra/"><u>Contrasting the Giants: In-Depth Analysis of iPhone 15 Pro Max Versus Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://games-able.techidaily.com/impending-price-swell-for-graphics-processors/"><u>Impending Price Swell for Graphics Processors?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-sync-up-songs-and-screenshots-on-snapchat/"><u>In 2024, Sync-Up Songs and Screenshots on Snapchat</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/m3-max-what-buyers-need-to-understand/"><u>M3 Max - What Buyers Need to Understand</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-your-build-toms-essential-hardware-selection-advice-for-gamers-and-professionals/"><u>Mastering Your Build: Tom's Essential Hardware Selection Advice for Gamers & Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-laptops-and-desktops-expert-advice-on-computers-tailored-for-education/"><u>Navigating Through Laptops and Desktops: Expert Advice on Computers Tailored for Education</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-15-free-windows-11-theme-packs-enhance-your-pcs-look/"><u>Top 15 Free Windows 11 Theme Packs: Enhance Your PC's Look</u></a></li>
 </ul></div>
 

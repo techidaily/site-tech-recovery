@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Process: Converting Grouped JPEGs to a Single PDF Document"
-date: 2024-09-09T16:33:40.870Z
-updated: 2024-09-10T16:33:40.870Z
+date: 2024-10-27T18:34:04.052Z
+updated: 2024-10-31T04:37:10.237Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Process: Converting Grouped JPEGs to a Single PDF Document"
@@ -14,18 +14,6 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix an iPhone That Won't Ring
 
  Try these common fixes in the order that we present them:
@@ -45,21 +33,9 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -67,26 +43,15 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## If None of These Tips Fixed the Problem
 
  If you tried all these tips and still don't hear your incoming calls, it's time to consult the experts.[Make an Apple Genius Bar appointment](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at your local Apple Store or[contact an Apple-authorized service provider](https://support.apple.com/repair) , and bring in your iPhone for inspection and repair.
@@ -94,17 +59,12 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -144,8 +104,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +111,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expand-horizons-freshest-wins11-apps-and-games/"><u>[New] Expand Horizons Freshest Wins11 Apps & Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fast-fixes-syncing-iphone-photos-with-computer/"><u>[New] Fast Fixes Syncing iPhone Photos with Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-worlds-confrontation-metaverse-vs-omniverse-explored/"><u>[New] Immersive Worlds Confrontation Metaverse Vs. Omniverse Explored</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-unveiling-twitters-historical-content-reservoirs/"><u>[Updated] In 2024, Unveiling Twitter's Historical Content Reservoirs</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/cambia-facilmente-tu-archivo-pbm-a-formato-png-sin-costo-utilizando-el-conversor-web-de-movavi/"><u>Cambia Fácilmente Tu Archivo PBM a Formato PNG Sin Costo Utilizando El Conversor Web De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-review-on-western-digitals-data-lifeguard-enhancing-drive-health-and-performance/"><u>Expert Review on Western Digital's Data LifeGuard: Enhancing Drive Health & Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-lowdown-on-googles-upcoming-streamer-expected-price-points-release-schedule-and-specs-unveiled/"><u>Get the Lowdown on Google's Upcoming Streamer: Expected Price Points, Release Schedule & Specs Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-arctics-third-gen-liquid-freezer-aio-not-meeting-expectations/"><u>Inside Look at Arctic's Third-Gen Liquid Freezer (AIO): Not Meeting Expectations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-process-a-detailed-walkthrough-of-sharing-your-steam-redeemable-codes/"><u>Navigating the Process: A Detailed Walkthrough of Sharing Your Steam Redeemable Codes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prospective-software-for-precision-in-animated-3d-modeling/"><u>Prospective Software for Precision in Animated 3D Modeling</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quit-juxtaposing-ai-pros-and-cons-insightful-observations/"><u>Quit Juxtaposing AI Pros & Cons: Insightful Observations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-why-wont-my-windows-10-search-find-anything/"><u>Solved: Why Won’t My Windows 10 Search Find Anything?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-what-to-do-when-you-encounter-a-missing-wmvcoredll-error/"><u>Solving the Dilemma: What to Do when You Encounter a Missing Wmvcore.dll Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-most-effective-instatags-to-grow-your-audience-today/"><u>The Most Effective #InstaTags To Grow Your Audience Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-missing-or-corrupt-jscriptdll-files-on-your-pc/"><u>The Ultimate Fix for Missing or Corrupt JScript.dll Files on Your PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tracking-payment-for-consumer-feedback-vlogs-for-2024/"><u>Tracking Payment for Consumer Feedback Vlogs for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-when-you-encounter-the-msstdfmtdll-error-message/"><u>Troubleshoot and Repair When You Encounter the Msstdfmt.dll Error Message</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-microsoft-store-error-code-0x80072f30/"><u>Troubleshooting Microsoft Store: Error Code 0X80072F30</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-connect-your-bose-soundlink-devices-seamlessly/"><u>Ultimate Guide: How To Connect Your Bose SoundLink Devices Seamlessly</u></a></li>
+</ul></div>
 

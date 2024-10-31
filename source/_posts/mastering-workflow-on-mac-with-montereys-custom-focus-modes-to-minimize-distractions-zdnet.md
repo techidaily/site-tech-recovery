@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2024-10-19T00:59:31.849Z
-updated: 2024-10-25T12:47:11.368Z
+date: 2024-10-25T21:29:40.267Z
+updated: 2024-10-31T05:11:45.902Z
 tags:
   - apple
 categories:
@@ -28,6 +28,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
@@ -40,13 +47,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -56,10 +56,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -79,10 +79,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -100,10 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,17 +148,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-overcoming-creative-roadblocks-in-short-form-videos/"><u>[Updated] Overcoming Creative Roadblocks in Short Form Videos</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/windows-10-zip/"><u>「Windows 10中無需付錢直接恢復丟失 ZIP 彎曲桶」</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-watch-series-se-2nd-generation-available-at-a-80-discount-post-prime-day-insights/"><u>Apple Watch Series SE 2Nd Generation: Available at a $80 Discount Post-Prime Day - Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-antitrust-troubles-european-union-orders-2-billion-fine-for-monopolistic-conduct-on-the-app-store-exclusive-analysis/"><u>Apple's Antitrust Troubles: European Union Orders $2 Billion Fine for Monopolistic Conduct on the App Store | Exclusive Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-qi2-multi-functional-charger-a-dream-come-true-for-apple-enthusiasts-explored/"><u>Discover the Ultimate Qi2 Multi-Functional Charger: A Dream Come True for Apple Enthusiasts - Explored</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-power-of-small-tech-is-the-latest-m4-equipped-mac-mini-a-game-changer-compared-to-apple-tv-discover-more-on-zdnet/"><u>Exploring the Power of Small Tech: Is the Latest M4-Equipped Mac Mini a Game Changer Compared to Apple TV? Discover More on ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2024-phone-without-google-account-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2024) Phone without Google Account?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fresh-perspectives-picture-perfect-collages-for-lifes-highlights/"><u>In 2024, Fresh Perspectives Picture-Perfect Collages for Life's Highlights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-razr-40-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Razr 40 Ultra to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-comedy-crafting-top-tips-for-diy-memetic-mastery/"><u>In 2024, Metaverse Comedy Crafting Top Tips for DIY Memetic Mastery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-factors-driving-apple-vision-pro-returns-insights-from-reddit-discussions-uncovered-by-zdnet/"><u>Top 7 Factors Driving Apple Vision Pro Returns: Insights From Reddit Discussions Uncovered by ZDNet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unraveling-the-mysteries-of-quantum-hdr/"><u>Unraveling the Mysteries of Quantum HDR</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-benq-bl2711u-27-professional-4k-monitor-review/"><u>[New] BENQ BL2711U 27” Professional 4K Monitor Review</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-storm-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Storm 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-online-movie-platforms-netflix-alternatives/"><u>Best FREE Online Movie Platforms: Netflix Alternatives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-enabling-printer-sharing-among-different-gadgets-with-networking-techniques/"><u>Comprehensive Guide: Enabling Printer Sharing Among Different Gadgets with Networking Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-future-with-taco-bells-ai-powered-drive-thru-system/"><u>Experience the Future with Taco Bell's AI-Powered Drive-Thru System</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-connect-a-fire-stick-to-a-projector/"><u>How to Connect a Fire Stick to a Projector</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improve-your-slumber-with-these-top-5-apple-watch-bedtime-companions/"><u>Improve Your Slumber with These Top 5 Apple Watch Bedtime Companions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-shocking-stats-mind-bending-youtube-visual-facts-17/"><u>In 2024, Shocking Stats Mind-Bending Youtube Visual Facts ('17)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-galaxy-smartphones-excluded-from-previous-samsung-messaging-platforms/"><u>Latest Galaxy Smartphones Excluded From Previous Samsung Messaging Platforms</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/ms-office-dateien-wiederfinden-effiziente-methoden-zur-rettung-von-dokumenten-unter-windows-1110/"><u>MS-Office Dateien Wiederfinden: Effiziente Methoden Zur Rettung Von Dokumenten Unter Windows 11/10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-linksys-security-a-comprehensive-compilation-of-default-passwords-and-usernames/"><u>Navigating Linksys Security : A Comprehensive Compilation of Default Passwords and Usernames</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-low-sound-issues-on-iphones-a-step-by-step-guide/"><u>Solving Low Sound Issues on iPhones: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comeback-story-a-brief-history-lesson-on-electrifying-cars-again/"><u>The Comeback Story: A Brief History Lesson on Electrifying Cars Again</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-8-gratis-4k-uhd-video-apps-for-pcos-x-for-2024/"><u>Ultimate 8 Gratis 4K UHD Video Apps for PC/OS X for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-ai-innovation-at-meta-an-insight-into-their-advanced-technology/"><u>Unveiling AI Innovation at Meta - An Insight Into Their Advanced Technology</u></a></li>
 </ul></div>
 

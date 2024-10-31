@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2024-10-23T11:55:35.477Z
-updated: 2024-10-25T05:24:01.301Z
+date: 2024-10-25T22:18:09.173Z
+updated: 2024-10-30T22:51:19.810Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,16 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +86,16 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,20 +146,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users-for-2024/"><u>[New] Secrets of Saving Screenshots Tips & Tricks for Dell Users for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-maximizing-game-replays-in-roblox-with-macos-tips/"><u>[Updated] 2024 Approved Maximizing Game Replays in Roblox with macOS Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-contents-reach-in-youtube-shorts-formats/"><u>[Updated] In 2024, Elevate Your Content's Reach in YouTube Shorts Formats</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-no-price-point-digital-video-recorder/"><u>[Updated] In 2024, No-Price Point Digital Video Recorder</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225817943-mp3wav-movavi/"><u>免費移動MP3到WAV - 使用Movavi 音頻轉換工具在線上進行</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convertir-wtv-a-mpeg-online-de-forma-gratuita-con-movavi/"><u>Convertir WTV a MPEG Online De Forma Gratuita Con Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/creating-your-own-youtube-intro-with-movavi-a-step-by-step-guide/"><u>Creating Your Own YouTube Intro with Movavi - A Step by Step Guide</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/engage-audiences-best-hashtags-for-going-viral-on-yt/"><u>Engage Audiences Best Hashtags for Going Viral on YT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-5-choices-of-wi-fi-based-chat-applications-for-effortless-texting-online/"><u>Exploring the Ultimate 5 Choices of Wi-Fi Based Chat Applications for Effortless Texting Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-online-ts-videoconverter-naar-mp4-professioneel-snel-en-efficient-met-movavi/"><u>Gratis Online Ts-Videoconverter Naar Mp4: Professioneel Snel en Efficiënt Met Movavi</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/instant-relief-for-lost-data-stellar-secure-solutions-await/"><u>Instant Relief for Lost Data - Stellar, Secure Solutions Await</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726221810225-mov-mjpeg-movavi/"><u>MOV MJPEG ファイルを無料でオンラインで変換する方法 - Movavi</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/section-3b-facts-about-ocular-pathophysiology/"><u>Section 3B: Facts About Ocular Pathophysiology</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/transform-your-content-strategy-with-tubebuddy-for-2024/"><u>Transform Your Content Strategy with TubeBuddy for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformar-archivos-raw-en-imagenes-jpg-gratuitas-con-movavi/"><u>Transformar Archivos RAW en Imágenes JPG Gratuitas Con Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparing-the-best-of-gopro-cameras/"><u>[New] Comparing the Best of GoPro Cameras</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-iphone-and-android-tips-direct-video-sharing-to-twitter-no-retweets/"><u>[New] IPhone & Android Tips Direct Video Sharing to Twitter No Retweets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-whats-the-best-cloud-storage-2024-know-these-5-for-your-needs/"><u>[New] What’s the Best Cloud Storage 2024? Know These 5 for Your Needs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-navigating-the-world-of-screen-capture-with-bandicam/"><u>[Updated] 2024 Approved Navigating the World of Screen Capture with Bandicam</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-step-by-step-process-for-iptv-stream-imaging/"><u>[Updated] In 2024, Step-by-Step Process for IPTV Stream Imaging</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-rapid-revamp-top-8-video-speed-enhancers-for-android-for-2024/"><u>[Updated] Rapid Revamp Top 8 Video Speed Enhancers for Android for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-language-barriers-windows-media-player-subtitle-guide-for-2024/"><u>Bridging Language Barriers Windows Media Player Subtitle Guide for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/capturing-lifes-moments-panasonic-wxf991-review/"><u>Capturing Life's Moments – Panasonic WXF991 Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-0xc0000185-error-code-tips-to-restore-your-computers-stability/"><u>Deciphering 0xC0000185 Error Code - Tips to Restore Your Computer's Stability</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-easy-ios-updates-from-download-to-device-installation/"><u>Expert Advice for Easy iOS Updates - From Download to Device Installation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/finding-free-trials-and-discounts-for-your-netflix-viewing-pleasure/"><u>Finding Free Trials and Discounts for Your Netflix Viewing Pleasure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-a-missing-jscriptdll-file-a-users-manual-for-quick-fixes/"><u>How To Recover From a Missing JScript.dll File – A User's Manual for Quick Fixes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-screenshots-on-your-xbox-one-console/"><u>Mastering the Art of Screenshots on Your Xbox One Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-changing-or-deleting-your-pin-on-windows-11/"><u>Step-by-Step Guide: Changing or Deleting Your PIN on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-mechanics-behind-how-electric-two-wheelers-operate/"><u>The Mechanics Behind How Electric Two-Wheelers Operate</u></a></li>
 </ul></div>
 

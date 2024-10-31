@@ -1,7 +1,7 @@
 ---
 title: "ZDNET Exclusive: Mastering iOS 18'S Control Center Personalization Techniques"
-date: 2024-10-16T17:24:37.572Z
-updated: 2024-10-19T17:28:35.841Z
+date: 2024-10-25T17:28:49.649Z
+updated: 2024-10-31T05:48:05.826Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,13 +57,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -86,10 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -97,6 +90,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,18 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features-for-2024/"><u>[New] Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-comprehensive-snapshot-tool-az-reviews-and-substitutes/"><u>[Updated] Comprehensive Snapshot Tool - AZ Reviews & Substitutes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-maximizing-audio-quality-on-meta-quest-devices/"><u>A Beginner’s Guide to Maximizing Audio Quality on Meta Quest Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899116584-apple-watch-not-connecting-try-these-6-solutions-for-a-successful-pairing/"><u>Apple Watch Not Connecting? Try These 6 Solutions for a Successful Pairing!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/deciphering-your-ideal-vr-equipment-preference-for-portable-mobile-or-plugged-in-tethered/"><u>Deciphering Your Ideal VR Equipment Preference for Portable (Mobile) or Plugged-In (Tethered)?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/emojis-decoded-revealing-the-astonishing-backstories-behind-your-favorite-icons/"><u>Emojis Decoded: Revealing the Astonishing Backstories Behind Your Favorite Icons</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-transfer-google-photos-to-icloud/"><u>How to Transfer Google Photos to iCloud</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unpacking-the-best-youtube-music-reactions-2023/"><u>In 2024, Unpacking the Best YouTube Music Reactions, 2023</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/journey-through-time-a-comprehensive-guide-on-scanning-and-storing-old-prints/"><u>Journey Through Time A Comprehensive Guide on Scanning and Storing Old Prints</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/key-considerations-before-investing-in-a-video-capturing-system/"><u>Key Considerations Before Investing in a Video Capturing System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-and-correcting-content-restrictions-in-chatgpt/"><u>Navigating and Correcting Content Restrictions in ChatGPT</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/revamping-videography-the-story-of-nikon-1j5s-4k-achievement-for-2024/"><u>Revamping Videography The Story of Nikon 1J5’s 4K Achievement for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-note-50-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Note 50 Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-social-media-fame-on-instagram/"><u>[New] Mastering Social Media Fame on Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-techniques-to-extract-sound-from-vimeo-videos/"><u>[New] Techniques to Extract Sound From Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-leveraging-facebook-for-automatic-video-views/"><u>[Updated] 2024 Approved Leveraging Facebook for Automatic Video Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-4-ways-to-set-up-your-talking-head-shots-for-youtube-for-2024/"><u>[Updated] 4 Ways To Set Up Your Talking-Head Shots For YouTube for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-essential-chrome-sketching-apps-for-every-aspiring-artist/"><u>[Updated] In 2024, Essential Chrome Sketching Apps for Every Aspiring Artist</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-streamline-operations-ranking-the-top-8-facebook-task-managers/"><u>[Updated] In 2024, Streamline Operations Ranking the Top 8 Facebook Task Managers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehvew-of-methods-to-monitor-your-internet-bandwidth-consumption/"><u>A Comprehvew of Methods to Monitor Your Internet Bandwidth Consumption</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-list-of-free-and-public-dns-servers/"><u>A List of Free and Public DNS Servers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976038966-confusion-may-result-from-metabolic-disturbances-infections-toxic-ingestions-or-increased-intracranial-pressure/"><u>Confusion May Result From Metabolic Disturbances, Infections, Toxic Ingestions, or Increased Intracranial Pressure.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-your-mornings-with-the-philips-hf3505-sunrise-alarm-clock-detailed-analysis/"><u>Evaluating Your Mornings with the Philips HF3505 Sunrise Alarm Clock: Detailed Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protect-your-privacy-disable-caller-id-display-for-android-users/"><u>Protect Your Privacy: Disable Caller ID Display for Android Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-restoring-functionality-in-a-malfunctioning-samsung-soundbar/"><u>Step-by-Step Guide to Restoring Functionality in a Malfunctioning Samsung Soundbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-engaging-effectively-in-a-twitter-conversation/"><u>Step-by-Step Tutorial: Engaging Effectively in a Twitter Conversation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-walkthrough-on-reactivating-your-iphone-15/"><u>The Complete Walkthrough on Reactivating Your iPhone 15</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-ntldr-is-missing-blue-screen-and-preventive-measures/"><u>Ultimate Guide: Resolving the 'NTLDR Is Missing' Blue Screen & Preventive Measures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-potential-of-macos-15-sequoia-official-release-schedule-and-latest-updates-unveiled/"><u>Unlock the Potential of MacOS 15 Sequoia – Official Release Schedule & Latest Updates Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/where-to-find-the-ideal-phone-deals-expert-recommendations/"><u>Where to Find the Ideal Phone Deals: Expert Recommendations</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-network-drive-setup-a-comprehensive-walkthrough/"><u>Win11's Network Drive Setup: A Comprehensive Walkthrough</u></a></li>
 </ul></div>
 

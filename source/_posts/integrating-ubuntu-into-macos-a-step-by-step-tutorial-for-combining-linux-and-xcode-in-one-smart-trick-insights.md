@@ -1,7 +1,7 @@
 ---
 title: "Integrating Ubuntu Into macOS: A Step-by-Step Tutorial for Combining Linux and Xcode in One Smart Trick Insights"
-date: 2024-10-19T23:20:38.176Z
-updated: 2024-10-25T03:27:23.862Z
+date: 2024-10-24T17:59:57.758Z
+updated: 2024-10-30T21:21:54.575Z
 tags:
   - apple
 categories:
@@ -30,24 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -57,6 +51,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -64,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -77,10 +78,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -96,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,17 +134,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-ensuring-seamless-capture-of-online-teams-gatherings/"><u>[New] Ensuring Seamless Capture of Online Teams' Gatherings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-insights-on-how-youtube-handles-uploaded-videos/"><u>[New] Insights on How YouTube Handles Uploaded Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-zero-cost-image-amplifier-desktopmobile-edition/"><u>[Updated] In 2024, Top Zero-Cost Image Amplifier Desktop/Mobile Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/advancing-computational-frontiers-the-inside-scoop-on-amds-zen-5-architecture-delving-into-ryzen-9000-capabilities-ai-benchmarking-with-the-ai-300-and-cutti19/"><u>Advancing Computational Frontiers: The Inside Scoop on AMD's Zen 5 Architecture - Delving Into Ryzen 9000 Capabilities, AI Benchmarking with the AI 300, and Cutting-Edge GPU Upgrades in RDNA 3.5 & XDNA Technologies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovere-as-melhores-opcoes-livres-e-premium-para-substituir-o-convertidor-de-video-do-freemake-14-solucoes-inovadoras/"><u>Discovere as Melhores Opções Livres E Premium Para Substituir O Convertidor De Vídeo Do Freemake: 14 Soluções Inovadoras!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/vering-potential-youtubes-role-in-modern-education-strategies/"><u>Discovering Potential YouTube's Role in Modern Education Strategies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/instagram-video-creation-made-easy-a-comprehensive-walkthrough/"><u>Instagram Video Creation Made Easy: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/m4a-and-ogg-m4vogg/"><u>M4A & OGG 형식으로 바꾸기 - 원탁적인 인터넷에서 무료 M4V/OGG 변환 도구</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/sony-xperia-5-teardown-compact-design-yet-costly/"><u>Sony Xperia 5 Teardown: Compact Design Yet Costly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-family-calendars-best-synchronized-planning-tools/"><u>Top 7 Family Calendars: Best Synchronized Planning Tools!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wmvwav-movavi/"><u>WMVからWAVへの簡単な無料オンライン音声ファイル変換 - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-mp3aiff/"><u>무료 인터넷 기회를 사용하여 Movavi로 MP3/AIFF 픽셀 대체 - 최소한의 시각화</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-daily-video-consumption-gb-breakdown/"><u>[New] In 2024, Daily Video Consumption GB Breakdown</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leading-webcams-for-windows-10-enthusiasts-for-2024/"><u>[New] Leading Webcams for Windows 10 Enthusiasts for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-instagram-metrics-analysis-your-ultimate-ig-guide/"><u>[Updated] In 2024, Mastering the Art of Instagram Metrics Analysis – Your Ultimate IG Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ac1st16dll-missing-comprehensive-fixes-and-tips-for-quick-recovery/"><u>Ac1st16.dll Missing: Comprehensive Fixes & Tips for Quick Recovery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aol-email-service-disruption-how-to-tell-if-the-problems-real/"><u>AOL Email Service Disruption: How To Tell If The Problem's Real</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tips-to-repair-pc-recovery-errors-and-restart-successfully/"><u>Comprehensive Tips to Repair PC Recovery Errors and Restart Successfully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tips-for-handling-common-hp-printer-misfuels-and-addressing-code-43-problems/"><u>DIY Tips for Handling Common HP Printer Misfuels & Addressing Code 43 Problems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-k11-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo K11 5G Phones with/without a PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-website-blunders-unraveling-404-issues-and-remedies/"><u>Navigating Website Blunders: Unraveling 404 Issues and Remedies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-nubia-red-magic-8s-proplus-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Nubia Red Magic 8S Pro+ has been deleted.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-modifying-text-dressing-on-your-pc-with-windows-11/"><u>Step-by-Step Guide to Modifying Text Dressing on Your PC with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-disconnected-nvidia-visuals-in-pcs/"><u>Step-by-Step Solutions for Disconnected NVIDIA Visuals in PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unboxing-dells-high-end-game-machine-for-3k-the-upscale-experience-you-didnt-know-your-pc-needed/"><u>Unboxing Dell's High-End Game Machine for $3K: The Upscale Experience You Didn't Know Your PC Needed</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/unique-registry-component-essential-elements-for-efficient-software-management/"><u>Unique Registry Component – Essential Elements for Efficient Software Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-iphone-17-unveiled-anticipated-features-pricing-details-launch-timeline-and-latest-rumors/"><u>Upcoming iPhone 17 Unveiled: Anticipated Features, Pricing Details, Launch Timeline & Latest Rumors</u></a></li>
 </ul></div>
 
