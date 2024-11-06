@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Process for Adding Music to Your Instagram Posts
-date: 2024-09-09T16:30:35.302Z
-updated: 2024-09-10T16:30:35.302Z
+date: 2024-10-30T16:49:37.226Z
+updated: 2024-11-05T22:53:40.317Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Process for Adding Music to Your Instagram Posts
@@ -9,12 +9,6 @@ excerpt: This Article Describes Step-by-Step Process for Adding Music to Your In
 thumbnail: https://www.lifewire.com/thmb/pwzU1PAiM6nn29JIXj9EEkkDIGA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/badmusic-5ae71e92875db9003756c309.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step-by-Step Process for Adding Music to Your Instagram Posts
 
 Close 
@@ -39,12 +33,6 @@ Close
  You can select play icons to preview songs before adding one to your Story.  
 ![Using the Music icon to add a track to an Instagram story in the mobile app.](https://www.lifewire.com/thmb/eECemDOu1TRAWwq9LECyUBB45ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-add-music-to-instagram-video-4691372-648ba8d75cd44c8cad53c758a4c4f223.jpg)
 5. Tap**15** and choose the length of the track for your Story and tap**Done** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Track length is limited due to copyright restrictions. Instagram Stories are typically less than 15 seconds anyway so this limitation shouldn’t be an issue for many.
 6. Drag the white bar to select the part of the song you want to use and tap**Done** when you've made your selection.
 7. Tap the**Music** sticker to choose a different display style or hide the information altogether.  
@@ -56,6 +44,13 @@ Close
 10. When you're ready to share or publish the Story, tap**Share** .  
 ![Options for publishing or sharing an Instagram story in the mobile app.](https://www.lifewire.com/thmb/4k8ek_iSJRkAiCUe3KarqByx4SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-add-music-to-instagram-video-4691372-70e075578ac64b8ba4a2a6c8a3447218.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Add Spotify Music to an Instagram Story 
 
  Another option for sharing music to an Instagram story is to use the share link from Spotify. Here's how to do that.
@@ -66,28 +61,25 @@ Close
 4. Scroll down the options and select**Share** .  
 ![Song sharing options in the Spotify mobile app.](https://www.lifewire.com/thmb/Ee46gPQCwIG_-4w2qvJmUkvkoew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-add-music-to-instagram-video-4691372-700037e60d4a489dba4be5d22e17bdf1.jpg)
 5. Choose**Stories** from the list to open a new Story in the Instagram app.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Edit your Story as you usually would, adding filters, text, etc.
 7. When you're ready, select**Your story** or the arrow to view other sharing options.
 8. Select**Share** when you've made your selection.  
 ![The Stories sharing option in the Spotify app for sharing a song in an Instagram Story.](https://www.lifewire.com/thmb/owc1AJmmJfKPBgGbbRKp1BBpTGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-add-music-to-instagram-video-4691372-cd7d2e4e7afc4e6d99765f9995b379f9.jpg)  
  The song you share in your Instagram story won't play automatically, but followers can tap**Play on Spotify** in your Story to listen directly in Spotify mobile app.
+
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Add Music for Instagram Videos 
@@ -102,28 +94,17 @@ All video posts are published as Reels.
 4. Search for and select a track to add to the video.  
 ![Adding music to a video post in the Instagram mobile app.](https://www.lifewire.com/thmb/GC4rH4CFt0ZRVfY3axHl6SA_AL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-add-music-to-instagram-video-4691372-bb4e62867f944fa8b43401794f5f21be.jpg)
 5. Choose the way the song displays and the clip to play and make any other edits.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. When you're happy with your work, select**Done** .
 7. Tap**Next** .
 8. Add captions and adjust other preferences, and select**Share** when you're ready to post the video.  
 ![Adjusting the way music displays before sharing a video post on the Instagram mobile app.](https://www.lifewire.com/thmb/KvWaS_RI-yZiFNaDAu4n6yGBrQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-add-music-to-instagram-video-4691372-efd8ee6360fa44c3a93eced552472ea0.jpg)  
 [  5 Best Free Video Editors for YouTube in 2024 ](https://www.lifewire.com/video-editor-for-youtube-4588689)
+
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Where to Find Music for Instagram Videos 
@@ -156,8 +137,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +144,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-how-to-effortlessly-run-apps-and-videos-together-in-chrome-for-2024/"><u>[New] How to Effortlessly Run Apps & Videos Together In Chrome for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-easy-reduction-of-footage-for-instagram-on-a-mac/"><u>[New] In 2024, Easy Reduction of Footage for Instagram on a Mac</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-sketching-your-signature-tiktok-end-note/"><u>[New] In 2024, Sketching Your Signature TikTok End-Note</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-securely-archive-calls-on-facebook-messenger/"><u>[Updated] 2024 Approved How to Securely Archive Calls on Facebook Messenger</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-setting-up-an-email-alias-on-gmail/"><u>A Step-by-Step Guide: Setting Up an Email Alias on Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-output-5-user-friendly-techniques-for-effective-facebook-usage/"><u>Boost Your Output: 5 User-Friendly Techniques for Effective Facebook Usage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capturing-screen-images-like-a-pro-an-hp-laptop-users-manual/"><u>Capturing Screen Images Like A Pro: An HP Laptop User's Manual</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/errores-desafortunados-en-el-ordenamiento-una-carpeta-entera-eliminada-por-accidente/"><u>Errores Desafortunados en El Ordenamiento: Una Carpeta Entera Eliminada Por Accidente.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fast-charging-revolution-esr-unveils-cryoboost-technology-in-latest-magsafe-qi2-charger-for-iphone-16-cooler-quicker-and-smarter-charging-experience/"><u>Fast-Charging Revolution: ESR Unveils CryoBoost Technology in Latest MagSafe Qi2 Charger for iPhone 16 - Cooler, Quicker & Smarter Charging Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-connectivity-repairing-wi-fi-on-the-microsoft-surface-pro/"><u>Overcoming Connectivity: Repairing Wi-Fi on the Microsoft Surface Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smart-speaker-battle-royale-finding-the-perfect-match-with-alexa-or-google-assistant/"><u>Smart Speaker Battle Royale: Finding the Perfect Match with Alexa or Google Assistant</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-v30-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo V30 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-python24dll-error-a-comprehensive-guide/"><u>Solving the 'Python24.dll' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-linking-your-bluetooth-speaker-with-your-pc/"><u>Step-by-Step Guide: Linking Your Bluetooth Speaker with Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-mfc42dll-cant-be-located-error-fixes/"><u>Step-by-Step Solutions for 'MFC42.dll' Can’t Be Located Error Fixes</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transformar-tu-particion-mbr-al-formato-mas-moderno-gpt-con-windows-11-guia-sencilla/"><u>Transformar Tu Partición MBR Al Formato Más Moderno GPT Con Windows 11 - Guía Sencilla</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+</ul></div>
 

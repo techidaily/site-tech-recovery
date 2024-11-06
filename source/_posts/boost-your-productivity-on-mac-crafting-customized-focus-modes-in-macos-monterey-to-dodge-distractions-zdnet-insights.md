@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions | ZDNET Insights"
-date: 2024-10-23T19:58:26.349Z
-updated: 2024-10-30T18:22:57.421Z
+date: 2024-11-02T17:43:22.298Z
+updated: 2024-11-05T16:42:29.547Z
 tags:
   - apple
 categories:
@@ -28,15 +28,28 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -47,13 +60,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -63,10 +69,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -100,16 +106,16 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -154,20 +160,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-echoes-from-the-web-tips-on-tracking-live-sounds/"><u>[New] 2024 Approved Echoes From the Web Tips on Tracking Live Sounds</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-user-friendly-guide-to-logging-gotomeeting-events/"><u>[New] 2024 Approved User-Friendly Guide to Logging GoToMeeting Events</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-construct-your-own-home-made-google-cardboard-vr-device/"><u>[New] In 2024, How to Construct Your Own Home-Made Google Cardboard VR Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photoshop-for-beginners-top-editing-hacks-revealed/"><u>[Updated] Photoshop For Beginners Top Editing Hacks Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/breaking-down-bandwidth-handy-fixes-for-improving-a-sluggish-internet-speed/"><u>Breaking Down Bandwidth: Handy Fixes for Improving a Sluggish Internet Speed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ending-iphone-quiet-mode-effective-strategies-for-restoring-notifications-sounds/"><u>Ending iPhone Quiet Mode: Effective Strategies for Restoring Notifications Sounds</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-your-game-launch-errors-a-step-by-step-solution-for-granblue-fantasy-relink-issue/"><u>Fix Your Game Launch Errors: A Step-by-Step Solution for Granblue Fantasy Relink Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-errors-and-bugs-with-the-ios-device-based-remote-application/"><u>Fixing Errors and Bugs with the iOS Device-Based Remote Application</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-v-purse-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor V Purse to New Phone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi Note 13 Pro+ 5G Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-there-a-global-glitch-in-microsoft-teams-or-are-connectivity-woes-to-blame/"><u>Is There a Global Glitch in Microsoft Teams, or Are Connectivity Woes to Blame?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamlessly-connecting-your-smartphone-tablet-and-computer-with-one-number/"><u>Seamlessly Connecting Your Smartphone, Tablet & Computer With One Number</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-or-not-found-d3n9dll-errors-easily/"><u>Troubleshooting 'Missing or Not Found' d3n9.dll Errors Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-screen-mirroring-for-pc-and-tv-mastering-the-use-of-chromecast/"><u>Wireless Screen Mirroring for PC and TV: Mastering the Use of Chromecast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-accelerating-content-consumption-on-facebook/"><u>[New] Accelerating Content Consumption on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-assessment-lightroom-app-android-edition/"><u>[New] In-Depth Assessment Lightroom App, Android Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-toolwiz-unpacked-expert-review-of-a-photography-powerhouse/"><u>[New] Toolwiz Unpacked Expert Review of a Photography Powerhouse</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essentials-of-youtube-gaming-livestreaming/"><u>[Updated] The Essentials of YouTube Gaming Livestreaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-tips-for-quality-screencasting/"><u>2024 Approved Essential Tips for Quality Screencasting</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-finding-and-installing-latest-drivers-in-windows-1011/"><u>Guide to Finding & Installing Latest Drivers in Windows 10/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-check-windows-11-version-the-very-easy-way/"><u>How to Check Windows 11 Version, the Very Easy Way</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-the-0x800705b3-error-during-windows-10-updates-a-complete-solution-guide/"><u>How to Fix the '0X800705b3' Error During Windows 10 Updates: A Complete Solution Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nubia-red-magic-8s-proplus-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nubia Red Magic 8S Pro+ Phones? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-turn-off-every-single-windows-10-operating-system-update-effectively/"><u>How To Turn Off Every Single Windows 10 Operating System Update Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hp-computers-dragging-discover-why-and-how-to-restore-optimal-performance/"><u>HP Computers Dragging? Discover Why and How to Restore Optimal Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/itunes-connection-failure-and-iphone-solving-invalid-device-response-messages/"><u>ITunes Connection Failure and iPhone: Solving Invalid Device Response Messages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lag-free-typing-experience-fix-your-wireless-keyboards-delay-issue-on-pc-with-windows/"><u>Lag-Free Typing Experience: Fix Your Wireless Keyboard's Delay Issue on PC with Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-optimal-performance-cut-down-latency-and-elevate-fps-in-genshin-impact-2024s-expert-advice/"><u>Master the Art of Optimal Performance: Cut Down Latency & Elevate FPS in Genshin Impact - 2024'S Expert Advice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-laptop-screencasting-a-comprehensive-tutorial/"><u>Mastering the Art of Laptop Screencasting: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tech-tips-streamlining-your-overwatch-video-recordings-for-2024/"><u>Tech Tips Streamlining Your Overwatch Video Recordings for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1985915-9781780282466-the-wisdom-of-balsekar/"><u>The Wisdom of Balsekar | Free Book</u></a></li>
 </ul></div>
 

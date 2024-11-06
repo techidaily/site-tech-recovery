@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Insights on Pros and Cons From ZDNet Editors
-date: 2024-10-29T23:49:35.584Z
-updated: 2024-10-30T21:42:35.478Z
+date: 2024-11-03T17:09:56.664Z
+updated: 2024-11-05T19:34:36.573Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,19 +129,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-the-use-of-telegram-in-a-step-by-step-approach/"><u>[New] In 2024, Mastering the Use of Telegram in a Step-by-Step Approach</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-king-of-construction-showdown-thieye-t5-or-sjcam-s6-for-2024/"><u>[New] King of Construction Showdown Thieye T5 or SJCAM S6 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-switch-showdown-top-10-arcade-combat-classics/"><u>[Updated] Switch Showdown Top 10 Arcade Combat Classics</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accelerate-androids-speed-optimize-with-advanced-task-management-tools/"><u>Accelerate Android's Speed: Optimize with Advanced Task Management Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-i-get-rid-of-default-iphone-software-programs-easily/"><u>Can I Get Rid of Default iPhone Software Programs Easily?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-tutorial-fresh-install-of-windows-11-onto-a-new-computers-hard-drive/"><u>DIY Tutorial: Fresh Install of Windows 11 Onto a New Computer's Hard Drive</u></a></li>
-<li><a href="https://fox-links.techidaily.com/humor-in-pixels-kapwings-meme-crafting-app/"><u>Humor in Pixels Kapwing’s Meme Crafting App</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-vivo-y100t-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y100t Unlock Without Password</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-citations-in-depth-strategies-for-quoting-chatgpt-accurately/"><u>Mastering Citations: In-Depth Strategies for Quoting ChatGPT Accurately</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-snapchat-a-step-by-step-guide-to-accessing-the-app-via-your-computer/"><u>Mastering Snapchat: A Step-by-Step Guide to Accessing the App via Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-ring-2021-review-find-out-the-price-tag-release-forecast-and-in-depth-specifications/"><u>Samsung Galaxy Ring 2021 Review – Find Out the Price Tag, Release Forecast & In-Depth Specifications</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-mac-file-annihilator-v5-customizable-automatic-schedule-erasure-for-filesfolders/"><u>Stellar Mac File Annihilator v5 - Customizable Automatic Schedule Erasure for Files/Folders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-booting-your-mac-into-recovery-environment/"><u>Step-by-Step Guide: Booting Your Mac Into Recovery Environment</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-a78-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo A78 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nleash-creativity-youtube-studio-editor-secrets-revealed/"><u>[New] Unleash Creativity YouTube Studio Editor Secrets Revealed</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-recover-accidentally-lost-images-across-various-gadgets/"><u>1. Recover Accidentally Lost Images Across Various Gadgets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-instant-insights-switching-up-your-facebook-profile-coverage-easily/"><u>2024 Approved Instant Insights Switching Up Your Facebook Profile Coverage Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accessibility-guide-for-spider-man-film-no-way-home/"><u>Accessibility Guide for Spider-Man Film - 'No Way Home'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-rumors-on-apples-latest-innovation-home-robot-unveiling-date-value-and-capabilities/"><u>Deciphering Rumors on Apple’s Latest Innovation – Home Robot Unveiling Date, Value, & Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-phenomenon-of-online-memes-explained/"><u>Decoding the Phenomenon of Online Memes Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-power-of-tangos-free-messaging-and-calls-comprehensive-analysis-inside/"><u>Discover the Power of Tango's Free Messaging & Calls – Comprehensive Analysis Inside!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-k11-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oneplus-open-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of OnePlus Open? Try These Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/snapchats-hidden-messages-revealed-the-definitive-guide-to-emoji-meanings/"><u>Snapchat's Hidden Messages Revealed: The Definitive Guide to Emoji Meanings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sonys-next-gen-vr-experience-revealed-get-a-glimpse-of-potential-prices-availability-and-device-specs/"><u>Sony's Next-Gen VR Experience Revealed? Get a Glimpse of Potential Prices, Availability, and Device Specs.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streamline-pc-cleanup-with-these-15-exceptional-free-uninstall-apps/"><u>Streamline PC Cleanup with These 15 Exceptional Free Uninstall Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-hulu-error-rununk13/"><u>Troubleshooting Steps for Resolving Hulu ERROR RUNUNK13</u></a></li>
 </ul></div>
 

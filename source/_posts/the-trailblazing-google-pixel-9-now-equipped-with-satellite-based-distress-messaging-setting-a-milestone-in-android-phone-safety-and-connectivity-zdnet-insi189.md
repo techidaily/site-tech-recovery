@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2024-10-29T22:38:14.282Z
-updated: 2024-10-30T17:24:11.890Z
+date: 2024-11-02T22:32:14.222Z
+updated: 2024-11-06T02:08:21.262Z
 tags:
   - apple
 categories:
@@ -45,21 +45,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -70,10 +71,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -82,13 +83,6 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -96,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -136,20 +130,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-a-2023-survival-guide-seeking-fb-videos-on-every-tab/"><u>[Updated] 2024 Approved A 2023 Survival Guide Seeking FB Videos on Every Tab</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-accessorize-for-impact-essential-cams-upgrades-for-2024/"><u>[Updated] Accessorize for Impact Essential Cams Upgrades for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide/"><u>2024 Approved Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-overview-all-you-must-understand-about-openai/"><u>Comprehensive Overview: All You Must Understand About OpenAI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-keysuites-elite-gadgets-reviewed/"><u>Discover the Premier Keysuites: Elite Gadgets Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-taking-down-text-overlays-on-amazon-prime-movies-and-shows/"><u>Guide: Taking Down Text Overlays on Amazon Prime Movies and Shows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-visual-triumph-the-best-camera-lenses-ranked-and-revealed/"><u>In 2024, Visual Triumph The Best Camera Lenses, Ranked & Revealed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/intel-raid-hardware-accelerated-disk-drive-software-update-compatible-with-windows-111087/"><u>Intel RAID Hardware Accelerated Disk Drive Software Update - Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://games-able.techidaily.com/passed-geforce-now-does-it-deliver-value/"><u>Passed GeForce Now: Does It Deliver Value?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782508-9781591438069-sacred-medicine-of-bee-butterfly-earthworm-and-spider/"><u>Sacred Medicine of Bee, Butterfly, Earthworm, and Spider | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-elite-picks-for-dominant-automakers-of-autonomous-cars-by-2024/"><u>The Elite Picks for Dominant Automakers of Autonomous Cars by 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-playstation-5-slim-all-you-need-to-know-about-price-release-and-features/"><u>The PlayStation 5 Slim: All You Need to Know About Price, Release, and Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-troubleshooting-method-for-missing-d3dx933dll-errors/"><u>The Ultimate Troubleshooting Method for Missing d3dx9_33.dll Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-solving-your-surface-pros-wi-fi-connection-issues/"><u>Troubleshooting Steps: Solving Your Surface Pro's Wi-Fi Connection Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-resolving-there-was-a-problem-resetting-on-windows/"><u>Troubleshooting: Resolving 'There Was a Problem Resetting' On Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-maximizing-your-reach-with-snapchat-highlights/"><u>[New] In 2024, Maximizing Your Reach with Snapchat Highlights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-snapseed-simplified-photo-editing-made-accessible/"><u>[Updated] 2024 Approved Snapseed Simplified Photo Editing Made Accessible</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-record-your-rush-make-every-game-count/"><u>2024 Approved Record Your Rush Make Every Game Count</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cat5-versus-cat6-cabling-what-sets-them-apart/"><u>Cat5 versus Cat6 Cabling - What Sets Them Apart?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-resolve-haldll-error-messages-on-various-windows-operating-systems/"><u>Effective Methods to Resolve Hal.dll Error Messages on Various Windows Operating Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-the-audio-world-with-these-5-crucial-tips-on-buying-quality-stereo-speakers/"><u>Navigate the Audio World with These 5 Crucial Tips on Buying Quality Stereo Speakers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-c67-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Realme C67 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamp-your-pcs-connectivity-downloading-and-installing-the-newest-bluetooth-usb-driver-for-windows/"><u>Revamp Your PC's Connectivity: Downloading & Installing the Newest Bluetooth USB Driver for Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-your-likes-across-all-tracks-in-spotify/"><u>Step-by-Step Guide: Removing Your Likes Across All Tracks in Spotify</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-meaning-behind-your-ps4-controller-light-patterns-unraveling-the-secrets-of-blue-white-red-and-orange-blinks/"><u>The Meaning Behind Your PS4 Controller Light Patterns: Unraveling the Secrets of Blue, White, Red, and Orange Blinks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-easily-craft-engaging-videos-on-your-mac-with-our-guide-for-2024/"><u>Updated Easily Craft Engaging Videos on Your Mac with Our Guide for 2024</u></a></li>
 </ul></div>
 

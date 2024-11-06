@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog"
-date: 2024-10-23T16:21:24.628Z
-updated: 2024-10-30T16:24:52.579Z
+date: 2024-11-02T16:24:43.174Z
+updated: 2024-11-05T21:33:28.786Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,16 +134,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-mov-file-saving-techniques-for-windows-11-users-for-2024/"><u>[New] .MOV File Saving Techniques for Windows 11 Users for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-live-streaming-showdown-streamlabs-vs-obs-face-off/"><u>2024 Approved Live Streaming Showdown Streamlabs Vs. OBS Face-Off</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-final-touch-youtube-outro-essentials-plus-premier-creator-list/"><u>2024 Approved The Final Touch YouTube Outro Essentials + Premier Creator List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-and-project-easy-steps-for-airplay-setup-between-mac-and-tv/"><u>Connect and Project: Easy Steps for AirPlay Setup Between Mac and TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-zoom-meetings-to-your-big-screen-a-step-by-step-instructional/"><u>Connect Zoom Meetings to Your Big Screen: A Step-by-Step Instructional</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lava-blaze-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lava Blaze Pro 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-creating-high-quality-gopro-vlogs-for-2024/"><u>Mastering The Art Creating High-Quality Gopro Vlogs for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-file-access-issues-how-to-fix-error-0x80004005-efficiently/"><u>Overcoming File Access Issues: How to Fix Error 0X80004005 Efficiently</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/seamless-audio-transition-crossfade-explained/"><u>Seamless Audio Transition - Crossfade Explained</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-brainpower-of-moto-z2-detailed-insights-for-2024/"><u>The Brainpower of Moto Z2 Detailed Insights for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722902433210-troubleshooting-skype-problems-try-these-essential-techniques/"><u>Troubleshooting Skype Problems? Try These Essential Techniques!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-seamless-speech-to-text-leveraging-googles-expertise/"><u>[New] 2024 Approved Seamless Speech-to-Text Leveraging Google's Expertise</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-essential-insight-the-most-efficient-snipping-software-for-windows/"><u>[Updated] 2024 Approved Essential Insight The Most Efficient Snipping Software for WINDOWS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-facebook-collage-in-minutes/"><u>2024 Approved Mastering Facebook Collage in Minutes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-7-alarm-clock-apps-to-transform-your-mornings/"><u>Discover the Ultimate List: 7 Alarm Clock Apps to Transform Your Mornings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-and-tricks-to-get-your-instagram-stories-uploaded/"><u>Expert Tips and Tricks to Get Your Instagram Stories Uploaded</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-solve-when-mfc42ddll-is-unavailable-on-your-system/"><u>Expert Tips to Solve When mfc42d.dll Is Unavailable on Your System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-scoop-on-apples-upcoming-auto-venture-latest-news-flurry-insider-price-guesses-and-in-depth-vehicle-specs/"><u>Get the Scoop on Apple's Upcoming Auto Venture: Latest News Flurry, Insider Price Guesses & In-Depth Vehicle Specs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-an-incorrect-cpu-usage-in-the-windows-task-manager/"><u>How to Fix an Incorrect CPU Usage in the Windows Task Manager</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-magic-6-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor Magic 6? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/industry-standard-guide-implementing-stopwatches-in-video-streaming-software/"><u>Industry Standard Guide Implementing Stopwatches in Video Streaming Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-location-tracking-on-iphone-with-our-favorite-5-gps-apps/"><u>Mastering Location Tracking on iPhone with Our Favorite 5 GPS Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/nurturing-relationships-inspiring-connections-with-your-viewers-for-2024/"><u>Nurturing Relationships Inspiring Connections With Your Viewers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/onepluss-next-evolution-a-sneak-peek-into-price-range-estimated-release-date-and-feature-set-for-upcoming-device/"><u>OnePlus's Next Evolution: A Sneak Peek Into Price Range, Estimated Release Date & Feature Set for Upcoming Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolve-paramount-plus-playback-problems-on-firestick-expert-tips-and-tricks/"><u>Resolve Paramount Plus Playback Problems on Firestick - Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-lowdown-on-samsung-galaxy-watch-7-anticipated-cost-and-features-pre-release/"><u>The Lowdown on Samsung Galaxy Watch 7 - Anticipated Cost & Features Pre-Release</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unboxing-the-future-speculations-surrounding-oneplus-10s-launch-date-value-and-tech-innovations/"><u>Unboxing the Future: Speculations Surrounding OnePlus 10'S Launch Date, Value & Tech Innovations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo V27e? | Dr.fone</u></a></li>
 </ul></div>
 

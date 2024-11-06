@@ -1,7 +1,7 @@
 ---
 title: Sony Virtual Reality Gear Unveiled? Discover Rumored Price Points, Launch Dates & Hardware Info
-date: 2024-09-09T16:30:36.766Z
-updated: 2024-09-10T16:30:36.766Z
+date: 2024-11-04T01:39:49.542Z
+updated: 2024-11-05T18:15:53.163Z
 categories:
   - BestProducts
 description: This Article Describes Sony Virtual Reality Gear Unveiled? Discover Rumored Price Points, Launch Dates & Hardware Info
@@ -9,12 +9,6 @@ excerpt: This Article Describes Sony Virtual Reality Gear Unveiled? Discover Rum
 thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-VR-Headset-banner-b0a34ff875984752b2eb8a19a7dc4872.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sony Virtual Reality Gear Unveiled? Discover Rumored Price Points, Launch Dates & Hardware Info
 
  In This Article 
@@ -28,18 +22,6 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
 
  In January, Sony announced a partnership with Siemens to develop an industrial headset for engineers and 3D content creators. This Sony-Siemens pro-grade collaboration is tentatively scheduled to arrive later this year. Here’s what else we know about the Sony VR headset release date, features, and more.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  When Will the Sony VR Headset Be Released? 
 
  The[ CES 2024](https://www.lifewire.com/ces-news-and-everything-else-to-know-5090178) unveiling of the Sony-Siemens partnership came with a general timeline for their Extended Reality (XR) head-mounted display (HMD): later this year. 
@@ -49,21 +31,16 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
  Assuming Sony and Siemens are still on track with their initial announcement, we anticipate a release by the end of the year.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  We expect to see the Sony VR Headset by December 2024 at the latest.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sony VR Headset Price Rumors 
 
  There’s no word from Sony or Siemens about pricing, but this headset has been emphasized as a pro model for creators and engineers in the industrial metaverse.
@@ -71,20 +48,22 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
  In that respect, it seems more likely to rival the[ Apple Vision Pro](https://www.lifewire.com/apple-vision-pro-2-8612550) (with a $3,499 starting price) than the more mid-tier[ Meta Quest 3](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) , which starts at $599.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Pre-Order Information 
 
  Pre-ordering isn’t available yet, but we’ll be sure to include links and details here. You can also sign up for launch updates directly from Siemens.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sony VR Headset Features 
 
@@ -99,12 +78,6 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
 
 ![Rendering of 3D modeling while wearing the Sony VR Headset and using the ring controller.](https://www.lifewire.com/thmb/4xyJFjIlj-e9RXY9KmMJ5hQAlvg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/sony-siemens-xcelerator-rl24-newsroom-01-1280x720-dcad4516a8e54fbe86c918fd395959ca.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sony
 
 ##  Sony VR Headset Specs and Hardware 
@@ -120,6 +93,13 @@ Sony
  “It's exciting to see Sony enter the enterprise space with their spatial content creation system and utilize Snapdragon XR technologies to unleash more realistic, detailed, and precise Mixed Reality (MR)/VR experiences that will help developers and creators push forward an even more immersive future."
 
  As more details take shape about the release and availability of this Sony VR headset for content creators and professionals, you can find them here.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The Latest News About the Sony VR Headset 
 
@@ -141,8 +121,6 @@ Sony
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +128,20 @@ Sony
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-5-top-rated-hd-webcam-conferencing-recorder-tools-for-2024/"><u>[New] 5 Top-Rated HD Webcam Conferencing Recorder Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-double-your-reach-youtube-and-facebook-cross-promotion-for-2024/"><u>[New] Double Your Reach YouTube & Facebook Cross-Promotion for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-enhancing-your-audacity-sessions-for-excellence/"><u>[New] In 2024, Enhancing Your Audacity Sessions for Excellence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-brighten-and-sharpen-expert-tips-for-v22-video-enhancement/"><u>[Updated] Brighten and Sharpen Expert Tips for V2.2 Video Enhancement</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlock-messaging-magic-top-30-bio-ideas-by-signs/"><u>[Updated] In 2024, Unlock Messaging Magic - Top 30 Bio Ideas by Signs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/channel-conversion-guide-yt-to-igtv-strategies/"><u>Channel Conversion Guide YT to IGTV Strategies</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/como-clonar-un-ssd-a-una-hdd-en-windows-11-usando-software-gratuito-y-modo-seguro/"><u>Cómo Clonar Un SSD a Una HDD en Windows 11 Usando Software Gratuito Y Modo Seguro</u></a></li>
+<li><a href="https://win-able.techidaily.com/cost-free-guide-mastering-simple-techniques-in-editing-your-screenshots/"><u>Cost-Free Guide: Mastering Simple Techniques in Editing Your Screenshots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-resolve-504-gateway-timeout-issues/"><u>Effective Strategies to Resolve 504 Gateway Timeout Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-guide-handling-mss32dll-file-disappearance-successfully/"><u>Fix Guide: Handling MSS32.DLL File Disappearance Successfully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/minecraft-realms-an-expensive-luxury-or-essential-upgrade/"><u>Minecraft Realms: An Expensive Luxury or Essential Upgrade?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-gslnewns165dll-not-found-challenges-expert-fixes-revealed/"><u>Overcoming gsl_newns165.dll Not Found Challenges - Expert Fixes Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-11-major-tech-breakthroughs-post-1844/"><u>Top 11 Major Tech Breakthroughs Post-1844</u></a></li>
+</ul></div>
 

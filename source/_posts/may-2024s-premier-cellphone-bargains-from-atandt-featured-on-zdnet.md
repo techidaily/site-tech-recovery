@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2024-10-25T19:26:38.519Z
-updated: 2024-10-30T23:40:33.929Z
+date: 2024-11-02T17:45:05.509Z
+updated: 2024-11-05T17:41:26.164Z
 tags:
   - apple
 categories:
@@ -117,10 +117,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -137,6 +137,19 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -146,13 +159,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [AT&T 15W wireless charging pad: $10 (save $19) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html)
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
 
@@ -169,22 +175,15 @@ When we made our selection for the best AT&T deals, we wanted to include options
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -194,6 +193,13 @@ ZDNET experts split out the latest and greatest deals for you below.
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -244,21 +250,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevate-your-snapchat-creativity-with-these-6-editors/"><u>[New] 2024 Approved Elevate Your Snapchat Creativity with These 6 Editors</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-share-igtv-video-on-instagram-story-with-ease-for-2024/"><u>[New] How to Share IGTV Video on Instagram Story with Ease for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-introduce-natural-photo-smear-in-ps/"><u>[New] Introduce Natural Photo Smear in PS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-share-your-vids-youtube-to-insta-stories/"><u>[Updated] 2024 Approved Share Your Vids YouTube to Insta-Stories</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-zoom-meetings-made-effortless-with-top-5-transcribers-reviewed/"><u>2024 Approved Zoom Meetings Made Effortless with Top 5 Transcribers Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beginners-blueprint-mastering-the-basics-of-what-once-was-twitter-in-just-10-steps/"><u>Beginner's Blueprint: Mastering the Basics of What Once Was Twitter in Just 10 Steps</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/copying-safely-on-tiktok-a-2023-guide-to-rights-checks/"><u>Copying Safely on TikTok A 2023 Guide to Rights Checks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-free-photo-editing-solutions-a-top-6-countdown/"><u>Essential Free Photo Editing Solutions: A Top 6 Countdown</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-the-ultimate-7-techniques-to-enhance-computer-speeds/"><u>Expert Advice: The Ultimate 7 Techniques to Enhance Computer Speeds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-hardware-reviews-by-toms-tech-emporium/"><u>Expert Hardware Reviews by Tom's Tech Emporium</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-implement-whitelist-features-with-a-new-domain-on-macos-mail-applications/"><u>How to Implement Whitelist Features with a New Domain on macOS Mail Applications</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-recuva-leading-application-for-file-reconstruction-and-retrieval/"><u>In Depth Look at Recuva: Leading Application for File Reconstruction and Retrieval</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-enable-audio-in-avidemux-quick-troubleshooting/"><u>New In 2024, How to Enable Audio in Avidemux Quick Troubleshooting</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-engaging-in-dialogue-through-mozilla-thunderbirds-chat-functionality/"><u>The Ultimate Tutorial on Engaging in Dialogue Through Mozilla Thunderbird's Chat Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-restoring-power-in-unresponsive-computers/"><u>Troubleshooting Steps for Restoring Power in Unresponsive Computers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-stream-like-a-champion-youtubes-ultimate-techniques/"><u>[Updated] 2024 Approved Stream Like a Champion YouTube's Ultimate Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-stellar-video-beginnings-with-free-tools/"><u>[Updated] Crafting Stellar Video Beginnings with Free Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-video-capture-tools-for-windows-10-users/"><u>[Updated] Essential Video Capture Tools for Windows 10 Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-10-sandbox-innovations-you-shouldnt-skip/"><u>[Updated] In 2024, 10 Sandbox Innovations You Shouldn't Skip</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cancelling-your-subscription-with-paramountplus-explained/"><u>Cancelling Your Subscription With Paramount+ Explained</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-gdrivrerr22-in-videocarddriver/"><u>Corrected GDRIVR_ERR#22 in VideoCardDriver</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-fixes-for-the-msvcr80dll-file-cannot-be-found-issue/"><u>Essential Fixes for the 'MSVCR80.DLL File Cannot Be Found' Issue</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-logitech-g29-steering-wheel-drivers-for-pcs-running-windows-11107/"><u>Get the Latest Logitech G29 Steering Wheel Drivers for PCs Running Windows 11/10/7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-open-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Open to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-essential-handbook-to-audio-timeline-control-mastering-keyframe-creation-and-editing-in-adobe-premiere-pro-mac-for-2024/"><u>New The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-the-challenge-what-to-do-when-you-encounter-a-ssleay32dll-error/"><u>Overcoming the Challenge: What to Do When You Encounter a Ssleay32.dll Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-home-entertainment-with-smart-hitachi-4k-televisions-and-roku-integration/"><u>Revolutionize Your Home Entertainment with Smart Hitachi 4K Televisions and Roku Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/score-the-best-savings-on-gadgets-amazon-prime-day-deals/"><u>Score the Best Savings on Gadgets - Amazon Prime Day Deals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-a-user-account-pin-from-windows-10/"><u>Step-by-Step Guide: Removing a User Account PIN From Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-breakdown-of-blue-screen-errors-deciphering-bsod-significance/"><u>The Comprehensive Breakdown of Blue Screen Errors - Deciphering BSOD Significance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-10-top-chatbots-as-effective-replacements-for-chatgpt/"><u>Unveiling 10 Top ChatBots as Effective Replacements for ChatGPT</u></a></li>
 </ul></div>
 

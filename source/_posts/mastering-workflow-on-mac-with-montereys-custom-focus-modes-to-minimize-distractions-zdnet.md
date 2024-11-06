@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2024-10-25T21:29:40.267Z
-updated: 2024-10-31T05:11:45.902Z
+date: 2024-11-02T20:36:08.197Z
+updated: 2024-11-05T18:48:00.616Z
 tags:
   - apple
 categories:
@@ -29,15 +29,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -47,6 +54,13 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -54,13 +68,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -79,10 +86,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -98,13 +105,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,22 +148,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-benq-bl2711u-27-professional-4k-monitor-review/"><u>[New] BENQ BL2711U 27” Professional 4K Monitor Review</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-storm-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Storm 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-free-online-movie-platforms-netflix-alternatives/"><u>Best FREE Online Movie Platforms: Netflix Alternatives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-enabling-printer-sharing-among-different-gadgets-with-networking-techniques/"><u>Comprehensive Guide: Enabling Printer Sharing Among Different Gadgets with Networking Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-the-future-with-taco-bells-ai-powered-drive-thru-system/"><u>Experience the Future with Taco Bell's AI-Powered Drive-Thru System</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-connect-a-fire-stick-to-a-projector/"><u>How to Connect a Fire Stick to a Projector</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/improve-your-slumber-with-these-top-5-apple-watch-bedtime-companions/"><u>Improve Your Slumber with These Top 5 Apple Watch Bedtime Companions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-shocking-stats-mind-bending-youtube-visual-facts-17/"><u>In 2024, Shocking Stats Mind-Bending Youtube Visual Facts ('17)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-galaxy-smartphones-excluded-from-previous-samsung-messaging-platforms/"><u>Latest Galaxy Smartphones Excluded From Previous Samsung Messaging Platforms</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/ms-office-dateien-wiederfinden-effiziente-methoden-zur-rettung-von-dokumenten-unter-windows-1110/"><u>MS-Office Dateien Wiederfinden: Effiziente Methoden Zur Rettung Von Dokumenten Unter Windows 11/10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-linksys-security-a-comprehensive-compilation-of-default-passwords-and-usernames/"><u>Navigating Linksys Security : A Comprehensive Compilation of Default Passwords and Usernames</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-low-sound-issues-on-iphones-a-step-by-step-guide/"><u>Solving Low Sound Issues on iPhones: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-comeback-story-a-brief-history-lesson-on-electrifying-cars-again/"><u>The Comeback Story: A Brief History Lesson on Electrifying Cars Again</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ultimate-8-gratis-4k-uhd-video-apps-for-pcos-x-for-2024/"><u>Ultimate 8 Gratis 4K UHD Video Apps for PC/OS X for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-ai-innovation-at-meta-an-insight-into-their-advanced-technology/"><u>Unveiling AI Innovation at Meta - An Insight Into Their Advanced Technology</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-enhance-digital-communication-on-chrome-review-of-the-best-web-based-tts-tools/"><u>[New] 2024 Approved Enhance Digital Communication on Chrome Review of the Best Web-Based TTS Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-streamers-selection-the-best-websites/"><u>[New] Prime Streamers' Selection The Best Websites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-quick-youtube-comment-removal-techniques/"><u>[Updated] Mastering Quick YouTube Comment Removal Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-showdown-twitchs-challenge-to-youtube/"><u>2024 Approved Streaming Showdown Twitch's Challenge to YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/all-inclusive-iptv-delivery-systems/"><u>All-Inclusive IPTV Delivery Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/differences-between-signal-vs-whatsapp-a-comprehensive-guide/"><u>Differences Between Signal Vs. Whatsapp - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-the-audio-narrator-feature-in-your-samsung-television/"><u>Disabling the Audio Narrator Feature in Your Samsung Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-troubleshoot-and-resolve-steams-disc-writing-issues/"><u>Effective Ways to Troubleshoot and Resolve Steam's Disc Writing Issues</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202720785-erase-files-on-a-schedule-like-never-before-the-ultimate-guide-to-using-stellar-eraser-for-windows/"><u>Erase Files on a Schedule Like Never Before: The Ultimate Guide to Using Stellar Eraser for Windows!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-dts-play-fi-a-comprehensive-guide/"><u>Exploring DTS Play-Fi: A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209850892-9781635357530-haunted/"><u>Haunted | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-microsoft-teams-a-step-by-step-guide-on-utilizing-copilot/"><u>Mastering Microsoft Teams: A Step-by-Step Guide on Utilizing Copilot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-productivity-with-slack-a-comprehensive-guide/"><u>Maximizing Productivity with Slack: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722889078822-printer-connection-secrets-revealed-seamless-sharing-with-several-devices-uncovered/"><u>Printer Connection Secrets Revealed: Seamless Sharing with Several Devices Uncovered!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-steps-you-need-to-know-for-replacing-lost-keycaps-on-your-laptop/"><u>The Steps You Need To Know For Replacing Lost Keycaps On Your Laptop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-lava-yuva-2-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Lava Yuva 2 Pro Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-samsung-z-fold-new-model-unveiled-features-cost-and-timeline/"><u>Upcoming Samsung Z Fold ˈNew Model' Unveiled - Features, Cost, & Timeline</u></a></li>
 </ul></div>
 

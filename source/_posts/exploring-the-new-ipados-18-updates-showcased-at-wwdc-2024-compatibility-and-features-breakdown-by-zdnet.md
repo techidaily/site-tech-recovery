@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2024-10-25T21:44:56.711Z
-updated: 2024-10-31T07:27:57.415Z
+date: 2024-10-30T22:32:00.280Z
+updated: 2024-11-05T21:01:45.589Z
 tags:
   - apple
 categories:
@@ -43,16 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -62,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -77,10 +71,16 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -92,10 +92,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -134,22 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-steady-as-you-go-camera-stability-without-a-tripod/"><u>[New] In 2024, Steady as You Go Camera Stability Without a Tripod</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-best-8-concealed-video-downloading-software-of-2023/"><u>[Updated] In 2024, Best 8 Concealed Video Downloading Software of 2023</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/advanced-camera-techniques-for-iphone-and-ipad-users-looking-to-capture-stunning-shots/"><u>Advanced Camera Techniques for iPhone & iPad Users Looking to Capture Stunning Shots</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-correct-missing-nspr4dll-files-in-your-pc/"><u>Effective Methods to Correct Missing nspr4.dll Files in Your PC</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/efficient-herstel-van-verloorde-partities-and-bestandtabellen-met-windowseis/"><u>Efficiënt Herstel Van Verloorde Partities & Bestandtabellen Met Windowseis</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-recommendations-secure-your-deleted-iphone-contacts-back/"><u>Expert Recommendations: Secure Your Deleted iPhone Contacts Back</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-eliminating-pin-security-on-your-windows-11-device/"><u>Guide to Eliminating PIN Security on Your Windows 11 Device</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-a25-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy A25 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-guide-unraveling-google-podcasts-app/"><u>In 2024, Comprehensive Guide Unraveling Google Podcasts App</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-depth-analysis-best-valheim-seeds-for-growth-for-2024/"><u>In-Depth Analysis Best Valheim Seeds for Growth for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-easy-game-capture-top-3-methods/"><u>New Easy Game Capture Top 3 Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolve-your-androids-inability-to-dial-or-receive-calls-with-these-fixes/"><u>Resolve Your Android's Inability to Dial or Receive Calls with These Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-melodies-of-google-chrome-a-solution-to-no-sound-issues/"><u>Reviving the Melodies of Google Chrome: A Solution to No-Sound Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-your-silent-phone-a-guide-to-restoring-ringtones-on-your-iphone/"><u>Solving Your Silent Phone: A Guide to Restoring Ringtones on Your iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transitioning-from-ps4-to-ps5-can-you-still-play-your-old-favorites/"><u>Transitioning From PS4 to PS5 - Can You Still Play Your Old Favorites?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-overcoming-black-screen-dilemmas-in-windows-11-systems/"><u>Troubleshooting Tips: Overcoming Black Screen Dilemmas in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-isnt-my-apple-watch-using-cellular-data-fixes-and-tips-included/"><u>Why Isn't My Apple Watch Using Cellular Data? Fixes and Tips Included</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-enhancing-snap-memories-with-android-and-mac-apps/"><u>[New] Enhancing Snap Memories with Android and Mac Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hare-your-stories-with-lush-soundtracks-in-2024/"><u>[New] Share Your Stories with Lush Soundtracks, In 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-premiere-previews-extravaganza/"><u>[Updated] 2024 Approved Premiere Previews Extravaganza</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quintessential-scripts-elevating-blockbusters/"><u>2024 Approved Quintessential Scripts Elevating Blockbusters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-tutorial-to-monitor-popular-interactions-on-youtube-for-2024/"><u>A Step-by-Step Tutorial to Monitor Popular Interactions on YouTube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aether-explained-exploring-its-core-concepts-and-joining-procedures/"><u>Aether Explained: Exploring Its Core Concepts & Joining Procedures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-6-most-effective-homework-helpers-tailored-for-learners-and-parents-alike/"><u>Discover the 6 Most Effective Homework Helpers - Tailored for Learners and Parents Alike</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/lenovo-x1-carbon-effortless-driver-downloads-compatible-with-windows-11-and-7/"><u>Lenovo X1 Carbon: Effortless Driver Downloads Compatible with Windows 11 and 7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimizing-podcasts-on-googles-platform-for-2024/"><u>Optimizing Podcasts on Google's Platform for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-guide-solving-startup-problems-with-mozilla-thunderbird/"><u>Quick Guide: Solving Startup Problems with Mozilla Thunderbird</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-to-correctly-fix-stop-error-0x00000078-phase-transition-malfunction/"><u>Step-by-Step Tutorial to Correctly Fix STOP Error 0X00000078 - Phase Transition Malfunction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-thawing-your-frozen-macbook-air/"><u>Ultimate Guide to Thawing Your Frozen MacBook Air</u></a></li>
 </ul></div>
 

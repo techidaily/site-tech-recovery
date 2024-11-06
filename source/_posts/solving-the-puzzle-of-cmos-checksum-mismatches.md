@@ -1,7 +1,7 @@
 ---
 title: Solving the Puzzle of CMOS Checksum Mismatches
-date: 2024-09-09T16:30:36.555Z
-updated: 2024-09-10T16:30:36.555Z
+date: 2024-10-30T19:08:33.307Z
+updated: 2024-11-05T16:13:54.669Z
 categories:
   - BestProducts
 description: This Article Describes Solving the Puzzle of CMOS Checksum Mismatches
@@ -9,12 +9,6 @@ excerpt: This Article Describes Solving the Puzzle of CMOS Checksum Mismatches
 thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cooler-933691_19201-7c38884d6d3f4c69807d8387ed40a0b9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the Ultimate List of Gmail's Fastest Typing Tricks
  Managing and organizing your email can work just fine using drag and drop. But if you have a lot of email, learning Gmail's keyboard commands (along with some[Gmail tricks and tips](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146) ) can save you hours. Here are more than two dozen to pick from. Oh, don't be intimidated. Just pick one and try it out for a bit. Then come back to learn more.
 
@@ -31,12 +25,6 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,12 +36,6 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -61,12 +43,6 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -76,23 +52,18 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -104,6 +75,13 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -113,6 +91,13 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -136,6 +121,13 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -144,12 +136,6 @@ thumbnail: https://www.lifewire.com/thmb/LlZtDMwAbhCoKYVENlyPlWM0oDY=/400x300/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -170,8 +156,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +163,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-creme-de-la-creme-of-fluid-interactive-games/"><u>[New] The Crème De La Créme of Fluid Interactive Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-record-a-timelapse-video-on-ipad/"><u>[Updated] In 2024, How to Record a Timelapse Video on iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ways-to-use-chatgpt-as-a-data-analyst/"><u>6 Ways to Use ChatGPT as a Data Analyst</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-ray-tracing-a-comprehensive-guide/"><u>Demystifying Ray Tracing: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-personalize-fonts-on-windows-11-devices-for-a-fresh-look/"><u>Easy Ways to Personalize Fonts on Windows 11 Devices for a Fresh Look</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-distinct-features-of-mac-vs-pc-systems/"><u>Exploring the Distinct Features of Mac Vs. PC Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/maximizing-marketing-the-best-highlight-techniques-for-brands-for-2024/"><u>Maximizing Marketing The Best Highlight Techniques for Brands for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-yourself-from-these-5-insidious-chatgpt-tricks/"><u>Protect Yourself From These 5 Insidious ChatGPT Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/recall-unsent-messages-in-microsoft-outlook-essential-techniques-revealed/"><u>Recall Unsent Messages in Microsoft Outlook – Essential Techniques Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resetting-the-hours-on-your-kindle-paperwhite-easy-instructions-inside/"><u>Resetting the Hours on Your Kindle Paperwhite - Easy Instructions Inside!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/setting-up-your-logitech-webcam-for-recording-for-2024/"><u>Setting Up Your Logitech Webcam for Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/shot-securement-keeping-cameras-still-on-arms-only-for-2024/"><u>Shot Securement Keeping Cameras Still on Arms Only for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/skirting-watermarks-in-stock-photography-for-2024/"><u>Skirting Watermarks in Stock Photography for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-repairing-the-apple-watchs-touch-sensor-issues/"><u>Understanding and Repairing the Apple Watch's Touch Sensor Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-connection-linking-your-airpods-with-macbook-air/"><u>Wireless Connection: Linking Your AirPods with MacBook Air</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Clearing the CMOS: A Comprehensive Tutorial for Reinitializing System BIOS"
-date: 2024-09-09T16:31:28.111Z
-updated: 2024-09-10T16:31:28.111Z
+date: 2024-11-03T17:24:28.104Z
+updated: 2024-11-06T01:29:42.621Z
 categories:
   - BestProducts
 description: "This Article Describes Clearing the CMOS: A Comprehensive Tutorial for Reinitializing System BIOS"
@@ -9,40 +9,23 @@ excerpt: "This Article Describes Clearing the CMOS: A Comprehensive Tutorial for
 thumbnail: https://thmb.techidaily.com/3b1acf72418bcbc32cbafc2ecf801ef760b09fcf6908ac7624af651ae9d18172.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Clearing the CMOS: A Comprehensive Tutorial for Reinitializing System BIOS
  Clearing the CMOS on your motherboard will reset your BIOS settings to their factory defaults, the settings that the motherboard maker decided were the ones that most people would use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Clear CMOS
 
  Below are three very different ways to clear CMOS. Any one method is as good as any other but you may find one of them easier, or whatever problem you might be having may restrict you to clearing the CMOS in a particular way.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reset CMOS With the "Factory Defaults" Option
 
 ![BIOS Setup Utility Exit Menu](https://www.lifewire.com/thmb/Y3YnU7pINU1AFn92XVUy-82gzGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BIOS-setup-8fbd8c696b4f4558862fb72a615a2484.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The easiest way to clear the CMOS is to[enter the BIOS setup utility](https://www.lifewire.com/how-to-enter-bios-2624481) and choose to**Reset BIOS Settings** to their factory default levels.
 
@@ -54,9 +37,23 @@ thumbnail: https://thmb.techidaily.com/3b1acf72418bcbc32cbafc2ecf801ef760b09fcf6
 
  The directions linked above detail how to access your BIOS utility but don't specifically demonstrate how to clear the CMOS in your BIOS utility. It should be easy enough, however, as long as you can find that_reset_ option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Clear CMOS by Reseating the CMOS Battery
 
 ![CMOS battery and enclosure found in many laptop and tablet computers](https://www.lifewire.com/thmb/QD_wCOm00w78lsvMQftTcHzbEqw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-tablet-cmos-battery-5995bc6822fa3a00114314c1.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dell Inc.
 
@@ -76,16 +73,17 @@ Dell Inc.
 
  If your computer is more than 5 years old this might be a great time to replace the battery. Eventually, these batteries do die and it's better to replace them on your own terms than have to deal with it later when you are in the middle of an important project.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Clear CMOS Using This Motherboard Jumper
 
 ![CLEAR CMOS jumper on a motherboard](https://www.lifewire.com/thmb/uF8Yoh84zstdz9s0Px4-gwXmZsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jumper-5995bd1e054ad90011a00ea5.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Yet another way to clear the CMOS is to short the_CLEAR CMOS_ jumper on your motherboard, assuming your motherboard has one. Most desktop motherboards_will_ have a jumper like this but most laptops and tablets_will not_ .
 
  Make sure your computer is unplugged and then open it up. Look around your motherboard's surface for a jumper (as shown in the picture) with the**CLEAR CMOS** label, which will be located_on the motherboard_ and near the jumper.
@@ -98,24 +96,12 @@ Dell Inc.
 
  If everything is good, turn off your computer, return the jumper to its original position, and then turn the computer back on. If you don't do this, CMOS will clear on every restart of your computer!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Clear CMOS?
 
  One reason to reset CMOS is to help troubleshoot or solve certain computer problems or hardware compatibility issues. Many times, a simple BIOS reset is all you need to get a seemingly dead PC back up and running.
 
  You might also want to clear CMOS to reset a BIOS or system-level password, or if you've been making changes to BIOS that you suspect have now caused some kind of problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## After Clearing CMOS
 
  After clearing the CMOS you may need to access the BIOS setup utility and reconfigure some of your hardware settings. While the default settings for most modern motherboards will usually work just fine, if you've made changes yourself, like those related to[overclocking](https://www.lifewire.com/what-is-overclocking-a-computer-4092341) , you'll have to make those changes again after resetting BIOS.
@@ -142,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +135,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-achieving-a-noiseless-presence-on-social-video-platforms-for-2024/"><u>[New] Achieving a Noiseless Presence on Social Video Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-guide-to-filming-and-refining-videos-via-adobe-connect/"><u>[New] Guide to Filming & Refining Videos via Adobe Connect</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-exploring-previous-images-3-inverse-search-methods-on-social-media-for-2024/"><u>[Updated] Exploring Previous Images 3 Inverse Search Methods on Social Media for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-infographic-efficient-video-marketing-for-smalls/"><u>2024 Approved Infographic Efficient Video Marketing for Smalls</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/32-premium-free-tools-for-data-backup-a-detailed-ranking-and-review-guide/"><u>32 Premium Free Tools for Data Backup: A Detailed Ranking and Review Guide</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/amelioration-rapide-du-demarrage-de-windows-10-8-conseils-incontournables/"><u>Amélioration Rapide Du Démarrage De Windows 10 - 8 Conseils Incontournables</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-removing-microsofts-copilot-from-windows-11/"><u>Effective Techniques for Removing Microsoft's Copilot From Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/jumpstarting-your-marketing-the-essentials-of-telegram-advertising/"><u>Jumpstarting Your Marketing The Essentials of Telegram Advertising</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/regain-entry-to-your-social-network-no-email-phone-needed-how/"><u>Regain Entry to Your Social Network: No Email, Phone Needed! How?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strategies-for-spotting-fake-acquaintance-requests-a-tutorial/"><u>Strategies for Spotting Fake Acquaintance Requests: A Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722877734156-stream-hit-music-videos-for-free-at-these-amazing-online-spots-top-picks-inside/"><u>Stream Hit Music Videos for Free at These Amazing Online Spots - Top Picks Inside!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-the-best-max-show-premieres-today/"><u>Top Picks: The Best Max Show Premieres Today</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nokia G22 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Energy Efficiency: A Guide to Enabling Low Power Mode on Your macOS Monterey - Tips From ZDNet"
-date: 2024-10-26T19:09:27.503Z
-updated: 2024-10-30T22:33:09.002Z
+date: 2024-11-03T19:32:53.414Z
+updated: 2024-11-05T22:39:10.884Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -64,6 +64,13 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -71,10 +78,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -90,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,24 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-link-from-instas-photos-to-tiks-videos/"><u>[New] 2024 Approved The Ultimate Link From Insta's Photos to Tik's Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-essential-techniques-in-capturing-live-sports-on-camera/"><u>[New] In 2024, Essential Techniques in Capturing Live Sports on Camera</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-bringing-videos-to-life-using-youtube-in-educational-environments/"><u>[Updated] Bringing Videos to Life Using YouTube in Educational Environments</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-snort-spree-top-10-viral-laughs-online/"><u>[Updated] In 2024, Snort Spree Top 10 Viral Laughs Online</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-a-close-look-at-dji-phantom-3s-high-end-capabilities/"><u>2024 Approved A Close Look at DJI Phantom 3'S High-End Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/collaborative-playlist-creation-on-spotify-a-step-by-step-guide/"><u>Collaborative Playlist Creation on Spotify: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-strategies-to-capture-gameplay-highlights-as-screenshots-on-your-xbox-one-console/"><u>Expert Strategies to Capture Gameplay Highlights as Screenshots on Your Xbox One Console</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-wwdc-202n5-top-apple-tech-updates-unveiled/"><u>Exploring WWDC 202N5: Top Apple Tech Updates Unveiled</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone X without Passcode or Face ID</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lifewire-curated-film-selections-perfect-for-your-next-watch-party/"><u>Lifewire-Curated Film Selections Perfect for Your Next Watch Party</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solve-your-mac-software-woes-a-guide-to-fixing-unopenable-apps/"><u>Solve Your Mac Software Woes: A Guide to Fixing Unopenable Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-linking-up-with-logitech-mouse/"><u>Step-by-Step Instructions for Linking Up with Logitech Mouse</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-altering-taskbar-hues-in-windows-11/"><u>The Ultimate Guide to Altering Taskbar Hues in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-lava-blaze-2-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Lava Blaze 2 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-401-unauthorized-access-issue/"><u>Ultimate Guide: Resolving the 401 Unauthorized Access Issue</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live-for-2024/"><u>Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/upgrading-to-windows-11-essential-features-updating-guide-and-additional-insights/"><u>Upgrading to Windows 11: Essential Features, Updating Guide & Additional Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-10-battery-report-what-it-is-and-how-to-use-it/"><u>Windows 10 Battery Report: What It Is and How to Use It</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-elevate-your-yt-content-creation-with-windows-movie-maker/"><u>[New] 2024 Approved Elevate Your YT Content Creation with Windows Movie Maker</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-total-capture-trio-setup/"><u>[Updated] 2024 Approved Total Capture Trio Setup</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-effortless-integration-of-xbox-and-facebook-streams/"><u>[Updated] Effortless Integration of Xbox and Facebook Streams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breathtaking-lyric-videos-made-easy-by-lyric-video-maker/"><u>[Updated] In 2024, Breathtaking Lyric Videos Made Easy by Lyric Video Maker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-the-art-of-closeup-essential-filmmaking-tips/"><u>[Updated] In 2024, Mastering the Art of Closeup Essential Filmmaking Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choose-your-next-binge-worthy-watch-with-these-top-picks-for-instant-streaming/"><u>Choose Your Next Binge-Worthy Watch with These Top Picks for Instant Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722875347040-discover-the-premier-network-server-rack-systems-for-2tiered-shelving-solutions/"><u>Discover the Premier Network Server Rack Systems for 2Tiered Shelving Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-slow-to-lightning-fast-upgrade-your-ps5-with-an-ssd-quick-guide/"><u>From Slow to Lightning Fast: Upgrade Your PS5 with an SSD Quick Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/groundbreaking-companies-at-the-vr-content-frontier/"><u>Groundbreaking Companies at the VR Content Frontier</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-11-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 11 Pro Max or iPad?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>In 2024, Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-reducing-or-removing-subwoofer-hum-issues/"><u>The Ultimate Fix for Reducing or Removing Subwoofer Hum Issues</u></a></li>
+<li><a href="https://win-webster.techidaily.com/troubleshooting-guide-freeing-a-trapped-sim-card-inside-an-iphone-with-effective-methods/"><u>Troubleshooting Guide: Freeing a Trapped SIM Card Inside an iPhone with Effective Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-telegram-messenger-and-how-does-it-work/"><u>What Is Telegram Messenger and How Does It Work?</u></a></li>
 </ul></div>
 

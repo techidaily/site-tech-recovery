@@ -1,7 +1,7 @@
 ---
 title: "Saying Farewell Forever: Your Action Plan for Permanently Eliminating Your Yahoo Email Address"
-date: 2024-09-04T02:55:44.945Z
-updated: 2024-09-05T02:55:44.945Z
+date: 2024-11-04T21:36:46.537Z
+updated: 2024-11-05T21:13:40.383Z
 categories:
   - BestProducts
 description: "This Article Describes Saying Farewell Forever: Your Action Plan for Permanently Eliminating Your Yahoo Email Address"
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
  This article explains how to delete a Yahoo account from a web browser.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Delete a Yahoo Mail Account
 
  You can shut down your entire Yahoo account and revoke access to your email address, remove all your emails, and prevent people from messaging you. This is possible through the Privacy Dashboard:
@@ -32,31 +39,42 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 3. Click**Privacy controls** at the top.  
 ![The Yahoo Mail account overview page showing the Privacy controls link](https://www.lifewire.com/thmb/XEno_dNrKM6NBukWJoOSU7d_kG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-account-overview-30181da72ca746cca757640663eac4a2.png)
 4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
 5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
 ![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
 6. Enter your email address once more into the field provided.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Select **Yes, delete this account** .  
 ![The final confirmation page for deleting a Yahoo account](https://www.lifewire.com/thmb/4RriqtlFkKYQ5jkHhvT2HRNU2Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-yahoo-account-confirmation-d5b04610003e461287b0a838aa1c57c8.png)
 
  In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Cancel a BT Yahoo Mail Premium Account
 
  If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Does It Mean to Delete a Yahoo Mail Account?
 
  Deleting Yahoo Mail is only possible if you delete the whole Yahoo account. This means, of course, that your emails will get removed, but you'll also lose access to your [My Yahoo](https://my.yahoo.com/) settings, calendars, Yahoo Fantasy teams, Yahoo Finance portfolios, and any other data stored in Yahoo's services.  
@@ -102,8 +120,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +127,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ps4-to-video-essential-guide-for-using-obs-studio-for-2024/"><u>[New] PS4 to Video Essential Guide for Using OBS Studio for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-streaming-sound-excellence-5-top-headsets/"><u>[Updated] 2024 Approved Streaming Sound Excellence 5 Top Headsets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-iconic-highlights-from-the-2022-figure-skate-world/"><u>[Updated] Iconic Highlights From the 2022 Figure Skate World</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-error-code-0xc1900208-in-windows-11-fixes-and-tips-to-get-your-system-updated/"><u>Deciphering Error Code 0xC1900208 in Windows 11: Fixes and Tips to Get Your System Updated</u></a></li>
+<li><a href="https://win-online.techidaily.com/effective-techniques-for-converting-your-adobe-after-effects-project-into-an-seo-ready-video-file/"><u>Effective Techniques for Converting Your Adobe After Effects Project Into an SEO-Ready Video File</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/excellent-reception-and-easy-setup-the-complete-guide-to-clearstream-eclipse-antenna/"><u>Excellent Reception and Easy Setup: The Complete Guide to ClearStream Eclipse Antenna</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-completely-empty-your-gmail-account-via-android-or-ios-device/"><u>How to Completely Empty Your Gmail Account via Android or iOS Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-ranked-sources-for-embedding-text-visual-effects/"><u>In 2024, Top Ranked Sources for Embedding Text Visual Effects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-conversations-a-guide-to-using-mozilla-thunderbirds-messaging-feature/"><u>Mastering Conversations: A Guide to Using Mozilla Thunderbird's Messaging Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-efficiency-a-beginners-guide-to-using-the-split-screen-function-on-macbook-air/"><u>Maximizing Efficiency: A Beginner's Guide to Using the Split-Screen Function on MacBook Air</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-computing-unveiled-enhanced-ddr5-memory-standards-for-lightning-fast-laptops-and-servers-set-by-jedec/"><u>Next-Gen Computing Unveiled: Enhanced DDR5 Memory Standards for Lightning-Fast Laptops and Servers Set by JEDEC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/repair-manual-restoring-a-detached-key-on-your-laptop/"><u>Repair Manual: Restoring a Detached Key on Your Laptop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transition-from-ps4-to-ps5-how-to-enjoy-your-older-games-on-the-new-platform/"><u>Transition From PS4 to PS5: How to Enjoy Your Older Games on the New Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turn-on-or-off-the-visibility-of-your-computer-in-a-network-with-windows-11/"><u>Turn On or Off the Visibility of Your Computer in a Network with Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-error-code-0xc0000185-a-comprehensive-guide-on-causes-and-solutions/"><u>Understanding Error Code 0xC0000185: A Comprehensive Guide on Causes & Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watching-star-wars-saga-chronologically-on-disneyplus-a-step-by-step-guide/"><u>Watching 'Star Wars' Saga Chronologically on Disney+: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-blue-yeti-being-detected-fixing-the-recognition-hurdle/"><u>Why Isn't My Blue Yeti Being Detected? Fixing the Recognition Hurdle</u></a></li>
+</ul></div>
 

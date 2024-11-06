@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet"
-date: 2024-10-26T05:28:16.186Z
-updated: 2024-10-31T05:53:40.095Z
+date: 2024-11-02T01:14:06.195Z
+updated: 2024-11-05T22:25:31.087Z
 tags:
   - apple
 categories:
@@ -57,7 +57,21 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **The 'Nice' list**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
 
@@ -67,13 +81,6 @@ Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple Watch Series 10**
 
 Apple Watch Series 10
@@ -81,13 +88,6 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -117,6 +117,13 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
 This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M3 to the [insanely powerful M3 Max](https://www.zdnet.com/article/apples-m3-m3-pro-and-m3-max-chipsets-everything-you-should-know-before-buying/). Here are the specs:
@@ -132,6 +139,13 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -146,13 +160,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -174,13 +181,6 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -222,20 +222,17 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-from-recordings-to-live-streams-instagram-via-obs-explained/"><u>[New] From Recordings to Live Streams Instagram via OBS Explained</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-groundbreiting-recording-solutions-for-environmental-films/"><u>[Updated] In 2024, Groundbreiting Recording Solutions for Environmental Films</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed-for-2024/"><u>[Updated] Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-luxury-in-depth-review-of-the-tcl-50s425-50-4k-uhdtv-a-great-deal/"><u>Affordable Luxury: In-Depth Review of the TCL 50S425 50 4K UHDTV - A Great Deal!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/chronicles-of-progress-top-11-tech-milestones-since-1844/"><u>Chronicles of Progress: Top 11 Tech Milestones Since 1844</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/clearing-out-unnecessary-data-a-users-manual-for-android-cache-management/"><u>Clearing Out Unnecessary Data: A User’s Manual for Android Cache Management</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-the-502-gateway-problem-tips-for-quick-recovery/"><u>Demystifying the 502 Gateway Problem: Tips for Quick Recovery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortlessly-access-your-desktop-setting-up-automatic-login-on-windows/"><u>Effortlessly Access Your Desktop: Setting Up Automatic Login on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-guide-restoring-alexas-response-capability-when-it-stops-working/"><u>Expert Guide: Restoring Alexa's Response Capability when It Stops Working</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/signal-or-whatsapp-a-comprehensive-guide-to-choose-your-preferred-chat-platform/"><u>Signal or WhatsApp? A Comprehensive Guide to Choose Your Preferred Chat Platform</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-by-step-approach-to-saving-instagram-stories/"><u>Step-by-Step Approach to Saving Instagram Stories</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-6-best-offline-multilingual-translation-solutions/"><u>The Ultimate List of 6 Best Offline Multilingual Translation Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-p55plus-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel P55+</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-best-video-recording-gear-guide/"><u>[Updated] Best Video Recording Gear Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-cashflow-effective-tactics-for-monetizing-on-mobile-devices-for-2024/"><u>[Updated] Channel Cashflow Effective Tactics for Monetizing on Mobile Devices for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-rediscovering-eliminated-reddit-discussions-efficiently/"><u>[Updated] Rediscovering Eliminated Reddit Discussions Efficiently</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-premium-top-11-list-audio-recording-essentials/"><u>2024 Approved Premium Top 11 List - Audio Recording Essentials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/50-insider-secrets-to-dominate-in-subway-surfers/"><u>50 Insider Secrets to Dominate in 'Subway Surfers'</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-mp4-to-oggv-free-simple-steps-and-tools-guide/"><u>Convert MP4 to OGGV FREE: Simple Steps & Tools Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-fixing-the-issue-of-a-dysfunctional-keyboard/"><u>Expert Advice: Fixing the Issue of a Dysfunctional Keyboard</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-gameplay-a-look-at-2024s-most-powerful-consoles/"><u>Mastering Gameplay: A Look at 2024'S Most Powerful Consoles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/pro-broadcast-hardware-for-seamless-livestreams/"><u>Pro Broadcast Hardware for Seamless Livestreams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seeing-the-conjuring-universe-as-intended-a-viewing-order-guide/"><u>Seeing The Conjuring Universe as Intended: A Viewing Order Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-process-to-remove-a-device-from-your-google-home-system/"><u>The Complete Process to Remove a Device From Your Google Home System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-simple-techniques-for-effortless-undersea-vids-for-2024/"><u>Unveiling Simple Techniques for Effortless Undersea Vids for 2024</u></a></li>
 </ul></div>
 

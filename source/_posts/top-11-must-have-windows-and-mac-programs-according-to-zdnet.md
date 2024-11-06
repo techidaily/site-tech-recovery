@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & Mac Programs According to ZDNet
-date: 2024-10-28T05:04:20.140Z
-updated: 2024-10-31T00:05:12.139Z
+date: 2024-11-01T22:53:24.857Z
+updated: 2024-11-06T00:07:53.981Z
 tags:
   - apple
 categories:
@@ -38,13 +38,6 @@ Show less
 
 ## Microsoft 365 apps for Business
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It's not just a bundle anymore
 
 The four desktop apps that make up the core of what used to be Microsoft Office are an absolutely essential part of my working day, and not much has changed despite the rebranding to Microsoft 365\. Outlook is the first app I open in the morning, and I cannot remember the last day where I didn't use Excel and Word. (I typically only use PowerPoint a few times a year.) These apps are available for Windows and MacOS as part of my Microsoft 365 Business Standard (formerly Office 365) subscription, for which I pay $150 annually. The package also includes support for my custom email domain and a terabyte of cloud storage. (For more on what's included, see: [Microsoft 365 vs Google Workspace (formerly G Suite): Which productivity suite is best for your business?](https://www.zdnet.com/article/office-365-vs-g-suite-which-productivity-suite-is-best-for-your-business/))
@@ -58,13 +51,20 @@ Show less
 [View now at Tweeten](https://tweetenapp.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tweeten
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### It's TweetDeck on steroids
 
@@ -110,6 +110,13 @@ Show less
 
 ## Quicken Home and Business
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### I hate it, but I use it
 
 A gazillion years ago, a famous household brand sold a lot of mouthwash with ads whose tagline went something like: "You hate the taste, but you use it twice a day." That, to me, is the perfect description of Quicken for Windows, which is occasionally infuriating to use, comes with a steep learning curve, and includes a virtual guarantee that you will run into some terribly annoying bug roughly once a quarter. Despite all that, it's better than any of the alternatives. I know. I've tried them all.
@@ -118,34 +125,13 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Browser and extensions
 
 Show less 
 
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft Edge (Chromium)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
 
@@ -160,13 +146,20 @@ Show less
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1Password
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Everyone needs a password manager
 
@@ -199,16 +192,10 @@ Show less
 ## Spotify Music
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
@@ -223,14 +210,14 @@ Show less
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
-## VLC Media Player
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## VLC Media Player
 
 ### Free, open source, handles every format imaginable
 
@@ -243,6 +230,13 @@ Show less
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
 ## MediaMonkey
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A Swiss Army knife for digital media
 
@@ -282,20 +276,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>[New] 2024 Approved Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capture-and-share-the-art-of-using-zooms-snaps/"><u>[Updated] 2024 Approved Capture & Share The Art of Using Zoom's Snaps</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/dont-panic-over-missing-memories-how-to-recover-removed-videos-from-your-iphone-1314/"><u>Don't Panic Over Missing Memories: How to Recover Removed Videos From Your iPhone 13/14</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fixes-to-resolve-ntdlldll-errors-on-your-windows-pc-windows-1087/"><u>Easy Fixes to Resolve ntdll.dll Errors on Your Windows PC (Windows 10/8/7)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-strategies-for-retrieving-emails-that-have-vanished-from-gmail-easy-steps-inside/"><u>Essential Strategies for Retrieving Emails That Have Vanished From Gmail - Easy Steps Inside</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/futures-drivers-ranking-the-worlds-top-4-autonomous-vehicle-companies/"><u>Future's Drivers: Ranking the World’s Top 4 Autonomous Vehicle Companies</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-t2x-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo T2x 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013926175-maplestory-startup-troubles-heres-how-you-can-fix-it/"><u>MapleStory Startup Troubles? Here’s How You Can Fix It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-glitches-a-step-by-step-solution-to-reactivate-your-phasmophobia-games-voice-chat-feature/"><u>Overcoming Glitches: A Step-by-Step Solution to Reactivate Your Phasmophobia Game's Voice Chat Feature</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/revolutionary-gadgets-and-apps-for-optimal-slumber-success/"><u>Revolutionary Gadgets and Apps for Optimal Slumber Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simplifying-access-enable-easy-sign-in-features-on-your-pc-with-windows-settings/"><u>Simplifying Access: Enable Easy Sign-In Features on Your PC with Windows Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-breakdown-of-lg-channels-what-you-must-know/"><u>The Ultimate Breakdown of LG Channels - What You Must Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-success-effective-techniques-to-dominate-searches-on-apple-tv/"><u>Unlocking Success: Effective Techniques to Dominate Searches on Apple TV</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-art-of-cinematic-color-grading-in-final-cut-pro-x/"><u>Updated The Art of Cinematic Color Grading in Final Cut Pro X</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-advanced-systems-for-tracking-human-manoeuvres/"><u>[New] 2024 Approved Advanced Systems for Tracking Human Manoeuvres</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-wealth-through-instagrams-revenue-avenues-for-2024/"><u>[New] Unlocking Wealth Through Instagram's Revenue Avenues for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-a-comparative-study-pre-and-post-vegaspro-19/"><u>[Updated] 2024 Approved A Comparative Study Pre and Post-VegasPro '19</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevating-engagement-strategic-use-of-youtube-titles-for-2024/"><u>[Updated] Elevating Engagement Strategic Use of Youtube Titles for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-at-work-assessing-your-employment-stability-across-ten-different-contexts/"><u>ChatGPT at Work: Assessing Your Employment Stability Across Ten Different Contexts</u></a></li>
+<li><a href="https://win-info.techidaily.com/dealing-with-sextortion-scams-from-your-email-expert-tips-on-what-to-do-next/"><u>Dealing with Sextortion Scams From Your Email: Expert Tips on What to Do Next</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-sticky-keys-feature-in-windows-a-comprehensive-guide/"><u>Disabling Sticky Keys Feature in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-premium-cinema-for-free-with-crackles-movie-library-online/"><u>Discover Premium Cinema for Free with Crackle's Movie Library Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/does-the-iphone-13-stand-up-to-a-splash-examining-its-water-resistance/"><u>Does the iPhone 13 Stand Up to a Splash? Examining Its Water Resistance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-successfully-replace-your-ipads-aging-battery/"><u>Expert Advice: How to Successfully Replace Your iPad's Aging Battery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-meaning-and-functionality-of-wi-fi-calling/"><u>Exploring the Meaning and Functionality of Wi-Fi Calling</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-zero-to-hero-how-to-successfully-set-up-windows-11-on-a-new-computer/"><u>From Zero to Hero: How To Successfully Set Up Windows 11 On A New Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-set-and-change-the-hour-on-your-kindle-paperwhite-device/"><u>How to Set and Change the Hour on Your Kindle Paperwhite Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-recording-video-games-on-your-ps4-console/"><u>Mastering the Art of Recording Video Games on Your PS4 Console</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-gopro-4k-cinematography-through-editing-for-2024/"><u>Perfect GoPro 4K Cinematography Through Editing for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-innovative-applications-to-revolutionize-your-personal-blogging/"><u>Top 6 Innovative Applications to Revolutionize Your Personal Blogging</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-essential-audio-setups-for-personalized-mobile-soundscapes-for-2024/"><u>Updated Essential Audio Setups for Personalized Mobile Soundscapes for 2024</u></a></li>
 </ul></div>
 

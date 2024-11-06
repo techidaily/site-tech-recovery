@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2024-10-24T02:32:21.404Z
-updated: 2024-10-30T23:17:18.236Z
+date: 2024-10-30T00:25:25.127Z
+updated: 2024-11-05T22:45:37.455Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,19 +134,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-mastering-film-capture-on-mac-pc-and-smartphones/"><u>2024 Approved Mastering Film Capture on Mac, PC & Smartphones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-c53-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-zero-cost-sms-applications-on-apple-devices/"><u>Best Zero-Cost SMS Applications on Apple Devices</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/gear-up-glitch-printer-reconfigured-wrongly/"><u>Gear-Up Glitch: Printer Reconfigured Wrongly?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-do-evs-outperform-gas-powered-cars-insights-and-factors/"><u>How Do EVs Outperform Gas-Powered Cars? Insights and Factors</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-13-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 13 Pro Max Apple ID on MacBook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-best-practices-for-measuring-igtv-video-effectiveness/"><u>In 2024, Best Practices for Measuring IGTV Video Effectiveness</u></a></li>
-<li><a href="https://facebook.techidaily.com/rank-the-networks-that-keep-us-connected/"><u>Rank the Networks That Keep Us Connected</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-switching-network-discovery-settings-in-windows-11/"><u>Step-by-Step Tutorial: Switching Network Discovery Settings in Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-evolution-from-interns-to-digital-pioneers/"><u>The Evolution: From Interns to Digital Pioneers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-exciting-launch-of-the-latest-apple-iphone-what-to-know/"><u>The Exciting Launch of the Latest Apple iPhone: What to Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-you-cant-find-d3dx934dll-in-device-manager/"><u>Troubleshooting: What to Do When You Can't Find D3Dx9_34.dll in Device Manager</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-lava-agni-2-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Lava Agni 2 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-the-oneplus-nord-n10-5g-a-must-read-comprehensive-guide/"><u>Unboxing the OnePlus Nord N10 5G: A Must-Read Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>[Updated] 2024 Approved Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-the-craft-selecting-the-top-5-web-based-title-makers-for-2024/"><u>[Updated] Mastering the Craft Selecting the Top 5 Web-Based Title Makers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-technique-for-anonymous-footage-via-image-smoothing-for-2024/"><u>[Updated] Technique for Anonymous Footage via Image Smoothing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-alternative-footage-in-filmmaking/"><u>2024 Approved Leveraging Alternative Footage in Filmmaking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intels-top-z270-motherboard-for-gamers-carbon-series-with-enhanced-features-and-free-access/"><u>Download Intel's Top Z270 Motherboard for Gamers: Carbon Series with Enhanced Features & Free Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-utilize-dual-viewing-with-ipad-screen-splitting-techniques/"><u>Effective Ways to Utilize Dual Viewing with iPad Screen Splitting Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-y55s-5g-2023-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo Y55s 5G (2023) Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-the-logitech-c615-a-sensible-investment-unveiling-its-features-and-price-appeal/"><u>Is the Logitech C615 a Sensible Investment? Unveiling Its Features & Price Appeal</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/pemulihan-data-terhenti-jawaban-untuk-windows-11-and-11-yang-berkeruntuhan/"><u>Pemulihan Data Terhenti: Jawaban Untuk Windows 11 & 11 Yang Berkeruntuhan</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/successful-guide-how-to-install-directx-12-on-windows-10/"><u>Successful Guide: How to Install DirectX 12 on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-when-your-logitech-c922-hd-pro-camera-fails/"><u>Troubleshooting Steps for When Your Logitech C922 HD Pro Camera Fails</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-stuck-or-broken-widgets-in-windows-11-made-simple/"><u>Troubleshooting Stuck or Broken Widgets in Windows 11 Made Simple</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/unify-your-visuals-a-beginners-guide-to-color-matching-in-final-cut-pro-for-2024/"><u>Unify Your Visuals A Beginners Guide to Color Matching in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/vmware-enhanced-keyboard-driver-what-is-it-and-how-to-install-it/"><u>VMware Enhanced Keyboard Driver - What Is It and How to Install It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-10-install-stuck-at-just-a-moment-loop-fixed/"><u>Windows 10 Install Stuck at Just a Moment Loop [Fixed]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-black-and-white-screen-issue-solved/"><u>Windows 11 Black & White Screen Issue – Solved!</u></a></li>
 </ul></div>
 

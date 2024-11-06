@@ -1,7 +1,7 @@
 ---
 title: Find the Ideal AT&T Promotions for Smarphones – Unbeatable Deals This May | ZDNET
-date: 2024-10-29T19:19:30.226Z
-updated: 2024-10-30T20:34:48.591Z
+date: 2024-10-31T17:16:25.535Z
+updated: 2024-11-05T19:00:32.128Z
 tags:
   - apple
 categories:
@@ -26,13 +26,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9701de1e-efd0-4d3c-8a60-b29761050e29%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best small tablets of 2024
 
 Show less 
@@ -48,20 +41,13 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple iPad Mini 6th Generation
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best small tablet overall
@@ -127,6 +113,13 @@ Cons
 * Expensive
 * Some complaints of lag
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Boox Tab Mini C
 
 ### Best small tablet for note-taking
@@ -156,13 +149,20 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Amazon Kindle 11th generation
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best small tablet for reading
@@ -193,20 +193,13 @@ Pros
 Cons 
 * Performance could be better
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab A7 Lite
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best Samsung small tablet
@@ -220,6 +213,13 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 **Samsung Galaxy Tab A7 Lite tech specs: Display**: 8.7-inch, 1340x800 display | **Processor**: MediaTek MT8768N | **Storage**: 32GB or 64GB | **Colors**: Gray | **Cameras**: 2MP front and 8MP rear | **Weight**: 0.81lbs | **Dimensions**: 8.37 x 4.91 x 0.31 inches | **Connections**: 3.5mm headphone jack, USB-C | **Battery:** 10 to 12 hours
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the best small tablet?
 
@@ -281,10 +281,10 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are mini Android tablets worth it?
@@ -343,17 +343,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-master-your-craft-best-drawing-tools-on-the-chromebook-spectrum/"><u>[New] In 2024, Master Your Craft Best Drawing Tools on the Chromebook Spectrum</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-ranking-apples-most-valuable-gif-tools/"><u>[New] Ranking Apple's Most Valuable GIF Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-proven-winners-selecting-the-best-hdr-cameras/"><u>[Updated] Proven Winners Selecting the Best HDR Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-personalization-for-optimized-user-experience/"><u>Cookiebot-Enhanced Personalization for Optimized User Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-of-texting-is-here-exploring-the-functions-and-features-of-rcs-messaging/"><u>The Future of Texting Is Here: Exploring the Functions and Features of RCS Messaging</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-selection-of-trending-shows-to-binge-on-max-platform-right-now/"><u>The Selection of Trending Shows to Binge on Max Platform Right Now</u></a></li>
-<li><a href="https://tools.techidaily.com/tintguide/products/"><u>Tintguide's Products</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-recommended-iphone-email-clients-best-picks-for-2e24/"><u>Top Recommended iPhone Email Clients - Best Picks for 2E24</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-x5-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco X5 Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/twitch-outage-platform-status-check/"><u>Twitch Outage - Platform Status Check</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-savings-a-guide-to-accessing-free-music-on-spotify-with-a-student-account/"><u>Unlocking Savings: A Guide to Accessing Free Music on Spotify with a Student Account</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-image-to-video-converters-free-and-paid-options/"><u>Updated 2024 Approved Best Image to Video Converters Free and Paid Options</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-is-av1-the-new-video-codec-front-runner/"><u>[New] Is AV1 The New Video Codec Front-Runner?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-download-directx-12-for-windows-10/"><u>[SOLVED] Download DirectX 12 for Windows 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-foremost-guide-to-youtube-equipment-for-rookies/"><u>[Updated] 2024 Approved Foremost Guide to YouTube Equipment for Rookies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-x-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone X SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-hot-30i-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Hot 30i FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-smooth-gameplay-the-ultimate-guide-to-fixing-pc-issues-in-goose-goose-duck-top-7-tips/"><u>Master Smooth Gameplay: The Ultimate Guide to Fixing PC Issues in Goose Goose Duck (Top 7 Tips)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-uninstaller-comprehensive-instructions-to-remove-programs-from-windows-11/"><u>Navigating the Uninstaller: Comprehensive Instructions to Remove Programs From Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps3-controller-integration-into-pc-systems-bypassing-motioninjoy/"><u>PS3 Controller Integration Into PC Systems - Bypassing MotionINJoy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-issues-how-to-fix-exodus-add-on-on-kodi-july-2020-update/"><u>Resolving Issues: How to Fix Exodus Add-On on Kodi (July 2020 Update)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-expansion-setting-up-your-additional-display-on-windows-10/"><u>Seamless Expansion: Setting Up Your Additional Display on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-clearing-icon-cache-in-windows-7-8-and-vista/"><u>Simple Steps to Clearing Icon Cache in Windows 7, 8 & Vista</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-find-and-restore-deleted-word-files-on-windows-10-a-visual-guide/"><u>Simple Steps: Find and Restore Deleted Word Files on Windows 10 - A Visual Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-reno-10-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo Reno 10 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-7-network-troubleshooting-dealing-with-driver-complications-fixed/"><u>Windows 7 Network Troubleshooting: Dealing with Driver Complications [FIXED]</u></a></li>
 </ul></div>
 

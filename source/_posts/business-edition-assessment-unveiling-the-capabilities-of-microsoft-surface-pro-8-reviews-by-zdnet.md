@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2024-10-29T19:18:09.196Z
-updated: 2024-10-31T03:10:26.503Z
+date: 2024-11-04T02:10:10.506Z
+updated: 2024-11-05T18:15:33.926Z
 tags:
   - apple
 categories:
@@ -70,6 +70,13 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -85,13 +92,6 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -136,6 +136,13 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -149,10 +156,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -167,20 +174,13 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -220,22 +220,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-custom-youtube-shorts-image-credits-with-ease/"><u>[New] In 2024, Mastering Custom YouTube Shorts Image Credits with Ease</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/1716107367954-updated-in-2024-how-to-watch-facebook-live-on-roku/"><u>[Updated] In 2024, How to Watch Facebook Live on Roku</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-ranked-slideshow-creation-software-on-latest-iphones/"><u>[Updated] In 2024, Ranked Slideshow Creation Software on Latest iPhones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5yid5a2m6icf44ks44kk44oj77ya44k344on44o844oi44kv44oe44o844or44ks5l244gj44gf57ch5y2y44gq44ot44oh44kq57eo6zug5oqa6kgt/"><u>初学者ガイド：ショートクツールを使った簡単なビデオ編集技術</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-the-garmin-ultra-30-an-insightful-review/"><u>Discovering the Garmin Ultra 30 An Insightful Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/displaying-your-pc-desktop-on-tv-screens-via-google-cast-an-in-depth-tutorial/"><u>Displaying Your PC Desktop On TV Screens Via Google Cast - An In-Depth Tutorial</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-income-territory-with-a-thousand-followers-for-2024/"><u>Entering Income Territory with a Thousand Followers for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expected-features-price-range-and-arrival-date-for-the-next-gen-samsung-galaxy-s25-ultra-the-buzz-continues/"><u>Expected Features, Price Range, and Arrival Date for the Next-Gen Samsung Galaxy S25 Ultra – The Buzz Continues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-world-with-these-8-essential-trip-planner-apps/"><u>Explore the World with These 8 Essential Trip Planner Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-your-pc-back-online-when-it-has-no-power-indicators/"><u>How To Get Your PC Back Online When It Has No Power Indicators</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-maintain-continuous-operation-stop-your-mac-from-going-into-slumber/"><u>How to Maintain Continuous Operation: Stop Your Mac From Going Into Slumber</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-invisible-viewers-for-fb-chronicles/"><u>In 2024, Invisible Viewers for FB Chronicles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-digital-education-the-leading-learning-apps-of-2024-unveiled/"><u>Navigating Digital Education: The Leading Learning Apps of 2024 Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-star-wars-the-right-viewing-sequence-for-full-saga-on-disney-plus/"><u>Navigating Star Wars: The Right Viewing Sequence for Full Saga on Disney Plus</u></a></li>
-<li><a href="https://windows11.techidaily.com/reducing-the-overwhelming-impact-of-ntoskrnlexe/"><u>Reducing the Overwhelming Impact of Ntoskrnl.exe</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-showdown-how-cable-stacks-up-to-streaming-options/"><u>The Ultimate Showdown: How Cable Stacks Up to Streaming Options</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/mp4-avi-3gp-wave-movavi/"><u>오픈 소스로 가격 없이 MP4, AVI 대신 3GP, WAVE 문자열 바꾸기 - Movavi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel/"><u>[New] 2024 Approved Beauty Blogging Beginnings Crafting a Captivating YouTube Channel</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fast-fixes-to-skyrocket-your-podcast-live/"><u>[New] Fast Fixes to Skyrocket Your Podcast Live</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-create-enhance-and-share-with-top-10-free-drawing-programs-on-mac/"><u>[Updated] 2024 Approved Create, Enhance & Share With Top 10 Free Drawing Programs on Mac</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-unlocking-old-tweets-with-twitter-archive-tools/"><u>2024 Approved Unlocking Old Tweets with Twitter Archive Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-way-to-find-and-manage-your-startup-items-in-windows-11-step-by-step-instructions/"><u>Easy Way to Find & Manage Your Startup Items in Windows 11: Step-by-Step Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-dell-wireless-network-adapter-driver-software/"><u>Get the Latest Dell Wireless Network Adapter Driver Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-check-cpu-temp-on-windows-11/"><u>How to Check CPU Temp on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-netflix-buffering-problems-a-comprehensive-guide/"><u>How to Fix Netflix Buffering Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-refresh-windows-11-the-easy-way/"><u>How To Refresh Windows 11 [The Easy Way]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-windows-installation-issues-on-non-gpt-drives/"><u>How to Resolve Windows Installation Issues on Non-GPT Drives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-restore-and-repair-windows-10s-nonfunctional-spotlight-feature/"><u>How to Restore and Repair Windows 10'S Nonfunctional Spotlight Feature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-zte-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from ZTE</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/kb3197954-windows-11-updates-not-working-solved/"><u>KB3197954: Windows 11 Updates Not Working [Solved]</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-stellar-file-wizardry-master-your-disk-space-with-efficient-file-and-folder-deletion/"><u>Mac Stellar File Wizardry: Master Your Disk Space with Efficient File & Folder Deletion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-quick-shot-on-your-hp-laptopdesktop-top-two-hassle-free-techniques-unveiled/"><u>Mastering Quick Shot on Your HP Laptop/Desktop: Top Two Hassle-Free Techniques Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-conversion-to-gif-format/"><u>Mastering the Art of Image Conversion to GIF Format</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/resolve-fifa-20-pc-malfunctions-with-this-comprehensive-tutorial/"><u>Resolve FIFA 20 PC Malfunctions with This Comprehensive Tutorial</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-repairing-drag-and-drop-mechanism-in-windows-environment/"><u>Step-by-Step: Repairing Drag And Drop Mechanism in Windows Environment</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-end-of-blank-page-woes-printer-remedy-discovered/"><u>The End of Blank Page Woes: Printer Remedy Discovered</u></a></li>
 </ul></div>
 

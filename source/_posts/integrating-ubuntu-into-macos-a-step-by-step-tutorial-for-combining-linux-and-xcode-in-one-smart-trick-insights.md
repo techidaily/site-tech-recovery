@@ -1,7 +1,7 @@
 ---
 title: "Integrating Ubuntu Into macOS: A Step-by-Step Tutorial for Combining Linux and Xcode in One Smart Trick Insights"
-date: 2024-10-24T17:59:57.758Z
-updated: 2024-10-30T21:21:54.575Z
+date: 2024-11-03T20:43:26.095Z
+updated: 2024-11-05T20:12:03.313Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,6 +42,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,10 +59,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -64,25 +71,11 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -91,6 +84,13 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -134,20 +134,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-daily-video-consumption-gb-breakdown/"><u>[New] In 2024, Daily Video Consumption GB Breakdown</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-leading-webcams-for-windows-10-enthusiasts-for-2024/"><u>[New] Leading Webcams for Windows 10 Enthusiasts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-instagram-metrics-analysis-your-ultimate-ig-guide/"><u>[Updated] In 2024, Mastering the Art of Instagram Metrics Analysis – Your Ultimate IG Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ac1st16dll-missing-comprehensive-fixes-and-tips-for-quick-recovery/"><u>Ac1st16.dll Missing: Comprehensive Fixes & Tips for Quick Recovery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aol-email-service-disruption-how-to-tell-if-the-problems-real/"><u>AOL Email Service Disruption: How To Tell If The Problem's Real</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-tips-to-repair-pc-recovery-errors-and-restart-successfully/"><u>Comprehensive Tips to Repair PC Recovery Errors and Restart Successfully</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-tips-for-handling-common-hp-printer-misfuels-and-addressing-code-43-problems/"><u>DIY Tips for Handling Common HP Printer Misfuels & Addressing Code 43 Problems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-k11-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo K11 5G Phones with/without a PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-website-blunders-unraveling-404-issues-and-remedies/"><u>Navigating Website Blunders: Unraveling 404 Issues and Remedies</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-nubia-red-magic-8s-proplus-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Nubia Red Magic 8S Pro+ has been deleted.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-modifying-text-dressing-on-your-pc-with-windows-11/"><u>Step-by-Step Guide to Modifying Text Dressing on Your PC with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-disconnected-nvidia-visuals-in-pcs/"><u>Step-by-Step Solutions for Disconnected NVIDIA Visuals in PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unboxing-dells-high-end-game-machine-for-3k-the-upscale-experience-you-didnt-know-your-pc-needed/"><u>Unboxing Dell's High-End Game Machine for $3K: The Upscale Experience You Didn't Know Your PC Needed</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/unique-registry-component-essential-elements-for-efficient-software-management/"><u>Unique Registry Component – Essential Elements for Efficient Software Management</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-iphone-17-unveiled-anticipated-features-pricing-details-launch-timeline-and-latest-rumors/"><u>Upcoming iPhone 17 Unveiled: Anticipated Features, Pricing Details, Launch Timeline & Latest Rumors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-achieve-peak-editing-quality-top-tier-luts-for-adobes-lightroom-users/"><u>[New] Achieve Peak Editing Quality Top-Tier LUTs For Adobe's Lightroom Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-secrets-of-youtube-link-driven-growth-for-content-creators/"><u>[Updated] In 2024, Secrets of YouTube Link-Driven Growth for Content Creators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-audio-visual-experience-smartphones-excelling-in-ois-technology/"><u>[Updated] Pro Audio-Visual Experience Smartphones Excelling in OIS Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypassing-mobile-mastering-snapchat-on-desktop-with-easy-to-follow-steps/"><u>Bypassing Mobile: Mastering Snapchat on Desktop with Easy-to-Follow Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-10-leading-substitutes-for-chatgpt-in-todays-market/"><u>Discover the 10 Leading Substitutes for ChatGPT in Today's Market</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tips-for-thoroughly-cleaning-your-residential-sound-system-speakers/"><u>DIY Tips for Thoroughly Cleaning Your Residential Sound System Speakers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-addressing-and-repairing-mozilla-thunderbirds-inability-to-start-as-expected/"><u>Guide: Addressing and Repairing Mozilla Thunderbird's Inability to Start as Expected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-touch-functionality-on-your-microsoft-surface-pro-4/"><u>How to Restore Touch Functionality on Your Microsoft Surface Pro 4</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-file-format-changes-switch-from-swf-to-avi-with-premium-quality-using-both-web-and-desktop-approaches/"><u>Mastering File Format Changes: Switch From SWF to AVI with Premium Quality Using Both Web and Desktop Approaches</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-ipad-and-iphone-note-retrieval-solutions-bring-back-your-missing-thoughts/"><u>Professional iPad & iPhone Note Retrieval Solutions – Bring Back Your Missing Thoughts</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-instructions-for-crafting-a-sony-vaio-system-repair-disc-with-windows-7/"><u>Step-by-Step Instructions for Crafting a Sony Vaio System Repair Disc with Windows 7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722865361052-the-next-big-thing-detailed-specs-and-pricing-of-the-forthcoming-apple-ring-revealed/"><u>The Next Big Thing? Detailed Specs and Pricing of the Forthcoming Apple Ring Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-your-hogwarts-adventure-fixing-2024-game-startup-problems/"><u>Troubleshooting Your Hogwarts Adventure: Fixing 2024 Game Startup Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899120997-upcoming-google-tv-streaming-device-latest-info-on-costs-launch-timeline-features-and-hidden-gossip/"><u>Upcoming Google TV Streaming Device - Latest Info on Costs, Launch Timeline, Features & Hidden Gossip!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-look-forward-to-at-the-next-google-update-rumors-news-and-highlights/"><u>What to Look Forward to at the Next Google Update: Rumors, News, and Highlights</u></a></li>
 </ul></div>
 

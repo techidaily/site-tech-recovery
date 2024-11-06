@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2024-10-25T08:17:24.018Z
-updated: 2024-10-31T06:10:32.701Z
+date: 2024-11-02T19:35:00.927Z
+updated: 2024-11-05T18:19:19.567Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ Ever since, those attributes have defined all smartphones, save for one common s
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-modern smartphones
 
 Identifying the first anything is always a tricky undertaking. The very first device labeled as a smartphone (they called it a "Smart Phone") was the [Ericsson 88](https://www.mobilephonemuseum.com/phone-detail/gs-88) from 1997\. Only 200 were made, and it was mostly a personal digital assistant. It most definitely did not have a camera.
@@ -56,13 +63,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -84,16 +84,10 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -156,6 +150,13 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Object knowledge
 
 During the film era, some analog techniques were possible for image improvement. Now, AI and ML are critical when it comes to having intelligence about what's in a scene. Here are some of the powerful capabilities built into those smartphones I discussed earlier.
@@ -177,16 +178,10 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
@@ -210,13 +205,6 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -274,20 +262,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-optimal-steadicam-devices-for-professional-drone-cinematography/"><u>[Updated] In 2024, Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-melding-music-and-media-the-reel-rhythm-guide/"><u>[Updated] Melding Music and Media The Reel Rhythm Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unlocking-prime-content-top-8-facebook-tools-in-23/"><u>[Updated] Unlocking Prime Content Top 8 Facebook Tools in '23</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-beginners-insight-into-streaming-media-players-and-how-they-work/"><u>A Beginner's Insight Into Streaming Media Players and How They Work</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/as-melhores-ferramentas-de-conversao-dvd-para-mp4-em-2023-top-10-escolhas-para-windows-e-mac/"><u>As Melhores Ferramentas De Conversão DVD Para MP4 Em 2023: Top 10 Escolhas Para Windows E Mac</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-10-gratuitous-online-transformers-for-srt-files-for-2024/"><u>Best 10 Gratuitous Online Transformers for Srt Files for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/compreh/"><u>Compreh</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dayz-survival-master-the-art-of-looting-fast-and-effectively/"><u>DayZ Survival: Master the Art of Looting Fast & Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-steps-to-fix-not-found-vcompdll-errors-on-your-pc/"><u>Effective Steps To Fix Not Found Vcomp.dll Errors on Your PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/evaluating-the-superiority-of-splitcams-recording/"><u>Evaluating the Superiority of SplitCam's Recording</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/following-the-future-top-25-social-media-pioneers-on-instagram-for-2024/"><u>Following The Future Top 25 Social Media Pioneers on Instagram for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-pathway-to-flipper-dialogue-switching-within-windows-network/"><u>In 2024, Streamlined Pathway to Flipper Dialogue Switching Within Windows Network</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/innovative-techniques-to-charge-your-phone-without-a-wall-adapter/"><u>Innovative Techniques to Charge Your Phone without a Wall Adapter</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/july-2024-lineup-of-top-rated-free-movies-available-on-youtube/"><u>July 2024 Lineup of Top-Rated, Free Movies Available on YouTube</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-how-to-properly-credit-chatgpt-usage/"><u>Step-by-Step Instructions: How to Properly Credit ChatGPT Usage</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-top-notch-ae-extensions-selection/"><u>[New] In 2024, Top-Notch AE Extensions Selection</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-quick-glitch-fix-for-podcast-broadcasts-for-2024/"><u>[New] The Quick Glitch Fix for Podcast Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-discovering-the-ultimate-set-of-text-tools-for-ae-artistry/"><u>[Updated] Discovering the Ultimate Set of Text Tools for AE Artistry</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-skyrocketing-your-contents-view-count-title-and-tag-mastery-for-2024/"><u>[Updated] Skyrocketing Your Content's View Count Title & Tag Mastery for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5-critical-considerations-for-shoppers-of-renovated-laptop-devices/"><u>5 Critical Considerations for Shoppers of Renovated Laptop Devices</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728487894543-aomei-fonebackup/"><u>AOMEI FoneBackup注册用户步骤解析</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disable-suggested-posts-on-instagram-a-comprehensive-tutorial/"><u>Disable 'Suggested Posts' On Instagram: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-movie-download-websites-here/"><u>Discover the Best Free Movie Download Websites Here</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-tips-on-softening-volume-in-logic-pro-mixes/"><u>Expert Tips on Softening Volume in Logic Pro Mixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-choose-buy-and-send-a-perfect-digital-present-via-steam/"><u>How to Choose, Buy, and Send a Perfect Digital Present via Steam</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-y78t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo Y78t to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4iphone/"><u>MP4コンテンツをiPhone上で成功させるストレージ方法と万が一のシナリオに備えて</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reclaiming-hidden-correspondence-a-step-by-step-process-for-google-mail-users/"><u>Reclaiming Hidden Correspondence: A Step-by-Step Process for Google Mail Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-configuring-your-email-signature-with-godaddys-webmail-service/"><u>The Ultimate Walkthrough for Configuring Your Email Signature with GoDaddy's Webmail Service</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-minecrafts-persistent-black-screen-top-fixes-of-2ndryce-2024-edition/"><u>Troubleshoot Minecraft's Persistent Black Screen - Top Fixes of 2nDryce, 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-lameencdll-errors-with-audacity-for-optimal-mp3-encoding/"><u>Troubleshooting lame_enc.dll Errors with Audacity for Optimal MP3 Encoding</u></a></li>
 </ul></div>
 

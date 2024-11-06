@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2024-10-28T19:51:44.723Z
-updated: 2024-10-31T05:42:43.440Z
+date: 2024-11-04T23:16:46.392Z
+updated: 2024-11-06T00:01:51.828Z
 tags:
   - apple
 categories:
@@ -30,10 +30,10 @@ You'll find the necessary setting in the Control Center section of your Settings
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open your Settings app and find "Control Center"
@@ -43,13 +43,6 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -71,6 +64,13 @@ While recording, your Screen Recording button will look like this (minus the red
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Begin screen recording
 
 When you're ready to begin recording, tap the Screen Recording button. This starts a 3-second countdown. At the end of it, the recording will begin. This countdown time can be used to close the Control Center and get back to the true subject of your Screen Recording before the video capture actually begins. 
@@ -89,6 +89,13 @@ This is the confirmation box that will appear when you stop your recording.
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. End your recording
 
 When you're ready to end your recording, there are two ways to stop it. The first is to tap the red clock in the top left of your screen. This will produce a dialogue box like the one seen above. You'll need to tap "Stop" to end your recording. If you're in a full-screen app that hides the clock, you can also once again pull out your Control Center and tap the Screen Recording button. If you use this second method, the recording will end immediately, with no confirmation required. 
@@ -96,13 +103,6 @@ When you're ready to end your recording, there are two ways to stop it. The firs
 In both cases, the recording you just produced will immediately be saved to your Photos library. In the Photos app, you can play it back, share it, edit it, and do all of the same things you could with a video you captured using your iPhone's built-in camera. 
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -119,10 +119,10 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How can I share my captured video?
@@ -161,18 +161,24 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-rapid-reverse-how-to-flip-your-stream-sides/"><u>[New] 2024 Approved The Rapid Reverse How to Flip Your Stream-Sides</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-top-5-free-youtube-video-editor-apps-for-apple-users/"><u>[New] 2024 Approved Top 5 Free YouTube Video Editor Apps for Apple Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazon-kindle-paperwhite-how-to-sync-time-settings-with-ease/"><u>Amazon Kindle Paperwhite: How to Sync Time Settings with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-resolve-the-stop-0x0000007b-blue-screen-of-death-issues/"><u>Effective Solutions to Resolve the STOP 0X0000007B Blue Screen of Death Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-u23-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of U23 Pro using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-12-free-youtube-thumbnail-makers-to-make-your-own-video-thumbnail/"><u>In 2024, 12 FREE YouTube Thumbnail Makers to Make Your Own Video Thumbnail</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-a59-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo A59 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-immerse-in-digital-spaces-pcs-premier-10-vr-playback-systems/"><u>In 2024, Immerse in Digital Spaces PC’s Premier 10 VR Playback Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lifewire-fuhrt-sie-durch-15-kostenlose-online-ki-kurse-zum-selbststudium/"><u>Lifewire Führt Sie Durch 15 Kostenlose Online-KI-Kurse Zum Selbststudium</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-editing-how-to-create-professional-jump-cuts-in-final-cut-pro-x/"><u>New Elevate Your Editing How to Create Professional Jump Cuts in Final Cut Pro X</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights/"><u>Tom's Tech Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-nintendo-switch-grips-and-pads-2024-edition/"><u>Top Nintendo Switch Grips and Pads, 2024 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-behind-a-503-service-interruption-identifying-and-rectifying-server-issues/"><u>What's Behind a 503 Service Interruption? Identifying & Rectifying Server Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-guide-to-cleansing-image-backdrops/"><u>[New] 2024 Approved Essential Guide to Cleansing Image Backdrops</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-splurge-audio-devices-for-yt-beginners-for-2024/"><u>[New] No-Splurge Audio Devices for YT Beginners for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enabling-instant-access-to-youtube-videos-in-your-facebook-browsing/"><u>[Updated] Enabling Instant Access to YouTube Videos in Your Facebook Browsing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-scale-fund-assessment-preparing-for-your-podcast-journey/"><u>[Updated] Full-Scale Fund Assessment Preparing for Your Podcast Journey</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-media-to-mp3-converter/"><u>[Updated] Social Media to Mp3 Converter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-beginners-roadmap-to-integrating-chatgpt-into-your-3d-printing-workflow/"><u>A Beginner’s Roadmap to Integrating ChatGPT Into Your 3D Printing Workflow</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-you-buy-the-8-most-important-questions-to-ask-about-desktops/"><u>Before You Buy: The 8 Most Important Questions to Ask About Desktops</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquering-royal-match-expert-techniques-revealed/"><u>Conquering Royal Match: Expert Techniques Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/die-besten-kostenlosen-dvd-ripper-fur-windows-10-and-11-eine-vergleichende-analyse-der-top-3-im-jahr-2023/"><u>Die Besten Kostenlosen DVD-Ripper Für Windows 10 & 11: Eine Vergleichende Analyse Der TOP 3 Im Jahr 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-print-to-pdf-issues-on-windows-11-troubleshooting-guide/"><u>Fixing 'Print to PDF' Issues on Windows 11 – Troubleshooting Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x7-ultra-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X7 Ultra to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-your-macs-emergency-restart-procedures-accessing-recovery-mode-successfully/"><u>Mastering Your Mac’s Emergency Restart Procedures – Accessing Recovery Mode Successfully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-cannot-reset-windows-computer-issue-a-step-by-step-guide/"><u>Resolving the Cannot Reset Windows Computer Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/synchronize-your-airpods-with-macbook-air-a-complete-tutorial/"><u>Synchronize Your AirPods with MacBook Air - A Complete Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-spotify-playlists-into-easily-shareable-and-searchable-text-files/"><u>Transforming Spotify Playlists Into Easily Shareable and Searchable Text Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-steam-disk-write-failure-step-by-step-solutions/"><u>Troubleshooting the Steam Disk Write Failure - Step-by-Step Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-correct-the-missing-ksuserdll-error-message/"><u>Troubleshooting: Steps to Correct the Missing ksuser.dll Error Message</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-top-cable-modem-plus-router-bundles-for-2e24/"><u>Ultimate Guide to the Top Cable Modem + Router Bundles for 2E24</u></a></li>
 </ul></div>
 

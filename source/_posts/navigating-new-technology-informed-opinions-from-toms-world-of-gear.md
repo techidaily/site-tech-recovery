@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Technology: Informed Opinions From Tom's World of Gear"
-date: 2024-09-09T16:31:15.932Z
-updated: 2024-09-10T16:31:15.932Z
+date: 2024-10-31T01:28:48.783Z
+updated: 2024-11-05T19:39:12.710Z
 tags:
   - printer
 categories:
@@ -23,12 +23,6 @@ The K1C feels like a placeholder from a company that wants to constantly impress
 
 * [Creality K1C at Tomtop WW for $22.99](https://ficca2021.com/g/xljorca896cf955d81ea4bf89f6ddb/?f%5Fid=14723&ulp=https%3A%2F%2Fwww.tomtop.com%2Fp-os8059.html&subid=tomshardware-us-2311640371616033100)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specifications: Creality K1C
 
  Swipe to scroll horizontally
@@ -94,16 +88,24 @@ Today's best Creality K1C deals
 
  You also get a PDF copy of the manual, a copy of Creality Slicer and sample models in both pre-sliced .gcode and .stl format. There’s also a very helpful video to help you operate your machine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design of the Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/3RERTHWCCPEjM94Q3TNNZM-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Creality K1C is a modern looking, fully-enclosed Core XY printer. It’s nearly identical to the previous K1 with most of the improvements taking place inside the machine.
@@ -124,18 +126,6 @@ Today's best Creality K1C deals
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/nMFPiAhSg8VftPtqkoi3MN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Like the K1, this machine has excellent cooling and an enclosure that makes printing ABS and ASA very easy. Bed leveling has been improved by adding a rubber brush to the build plate to make sure the nozzle is totally clean before probing the bed.
@@ -149,24 +139,26 @@ Today's best Creality K1C deals
  The K1C also comes with a preinstalled camera for monitoring your prints and taking timelapse videos.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Assembling the Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/5Zyw6jfoHByZYMVpR3xE3P-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Creality K1C is 98% assembled and only needs to be unboxed and unpacked. You’ll need to remove all the packing foam, unscrew three screws holding the build plate on, plug in the touch screen, screw on the filament holder and pop a filter on the back of the machine.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Leveling the Creality K1C
 
@@ -186,22 +178,10 @@ Today's best Creality K1C deals
 
 Reverse the process to remove the filament.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preparing Files / Software for Creality K1C
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/on77JmCCRPe63uRiGKoTCP-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Creality included a copy of Creality Print, a custom program that integrates file retrieval from the Creality Cloud, with slicer and file delivery. Using the Cloud is completely optional, as you can drag and drop stl files from your hard drive into the slicer and transfer files with LAN or a USB stick.
@@ -209,6 +189,13 @@ Reverse the process to remove the filament.
  The program is easy-to-use with lots of presets for filaments. It’s arranged a little differently than Cura or PrusaSlicer, but all the same functions are there. The “device tab” is a simplified Klipper screen where you can see your printer’s file storage, temperatures, motion system and camera.
 
  The device tab can also be accessed by entering your printer’s IP address. This also allows you to drag and drop files from other slicers directly to your printer. There are no built-in profiles for Cura or PrusaSlicer at this time, though they are easy enough to make using an Ender 3 as the base.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Printing on the Creality K1C
 
@@ -220,17 +207,18 @@ Reverse the process to remove the filament.
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/dpGRovxpf6dX9PuuXaQUqN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  Creality sent a spool of[high speed carbon fiber PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-Filament-High-Speed-Toughness-Dimensional%2Fdp%2FB0CLTYQP4L%2Fref%3Dsr%5F1%5F4%3Fcrid%3D8OYQEKCEW6WF%26dib%3DeyJ2IjoiMSJ9.FI2zQhPo5wO4rf995czUGWD05eYPkFqkO-3fTpeFo6OfGk6NAhner3pfSqYy3dH1Cvtzczvdoz0eBL12gYmPUx2i%5FXf2-tz%5FE2iYRzma6YDcLcqJ2bS3JZNtUsF%5F9DrSWc1JgPluFn2rsvxjqHOR2RhIrmmmfidAQyIFkTyAEjRigef1Wcqhnkajfws6N3inhXpMlq3vSxA2AukRNR-nxuvPj1XQuSeqj3MI4y3-0dM.VCGg28PaqmKrLcXg8dh-IvVG7cumgTgtcNQ-7DjjzHo%26dib%5Ftag%3Dse%26keywords%3Dcreality%252Bcarbon%252Bfiber%252Bfilament%26qid%3D1712701274%26sprefix%3Dcreality%252Bcarbo%252Caps%252C526%26sr%3D8-4%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1456677865623603382-20) for testing, so I used it to make a side mounted spool holder that I found on the USB stick. One of Carbon Fiber’s benefits is masking layer lines and this print is not only strong but especially smooth. It printed quickly in 52 minutes and 36 seconds, using Creality default settings and a .2mm layer height.
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/gaymHJoVUFV2rnFTjNpqVN-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
@@ -238,12 +226,6 @@ _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/jZ78ShYRhnctovshCQM5tM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [_Death Racer Seat_](https://www.patreon.com/mrbaddeley/posts) _by Michael Baddeley_  (Image credit: Tom's Hardware)
 
  The new extruder handled TPU without any problems at all. I was able to print this silly Fart Accordion using Creality Slicer’s default TPU settings, which slow down the printer by adjusting the volumetric flow to 3.5mm/s cubed. This is printed in[Matterhackers Translucent Blue Build Series TPU](https://shareasale.com/r.cfm?rcode=PMAX_BUILD&gad_source=1&gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkBdG0XrGRithjgVIUDIJUERHKp7cOzhG5FUV7_XwblNz5BvcuXhsi0aApEGEALw_wcB&b=2058264&u=4338022&m=126466&afftrack=techidaily&urllink=https%3A%2F%2Ftokenmetrics.sjv.io%2Fjrkzxp) in an hour and 12 minutes with a .2mm layer height.
@@ -256,20 +238,15 @@ _Creality’s Delta Side Spool Holder_  (Image credit: Tom's Hardware)
 
 ![Creality K1C](https://cdn.mos.cms.futurecdn.net/7AusoMr9NoagoP2Zo4oSCN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Tinkercad RC car parts_  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bottom Line
 
  The Creality K1C is an excellent printer for makers who want a fast, fully-enclosed Core XY 3D printer in a single color. The recent announcement of the four color K2 lineup might give you pause, especially if you can wait a few more months. We have not reviewed the K2 yet, but we feel it's unlikely that the K1 can be upgraded to the new color system.
@@ -332,8 +309,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -341,4 +316,19 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-video-vibrancy-picking-the-best-5-enhancement-aids/"><u>[New] Video Vibrancy Picking the Best 5 Enhancement Aids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-kinemaster-edge-mastering-video-segmentation-and-transitioning/"><u>[Updated] 2024 Approved The Kinemaster Edge Mastering Video Segmentation and Transitioning</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-selection-of-android-and-ios-wedding-timer-apps-reviewed/"><u>2024 Approved Ultimate Selection of Android and iOS Wedding Timer Apps Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-green-car-options-what-sets-bevs-apart-from-phevs-fcevs-and-hybrids/"><u>Comparing Green Car Options: What Sets BEVs Apart From PHEVs, FCEVs, and Hybrids?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-correct-libxml2dll-absent-or-non-existent-message-errors/"><u>Effective Methods to Correct libxml2.dll Absent or Non-Existent Message Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-system-diagnostics-a-guide-to-windows-ping-usage/"><u>Enhancing System Diagnostics: A Guide to Windows Ping Usage</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-13-pro-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 13 Pro You Should Try Out</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y55s-5g-2023-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y55s 5G (2023)? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reconnect-your-ipad-to-wi-fi-expert-advice-for-a-successful-connection/"><u>Reconnect Your iPad to Wi-Fi: Expert Advice for a Successful Connection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-integration-viewing-your-icloud-images-on-apple-pcs-and-smartphones/"><u>Seamless Integration: Viewing Your iCloud Images on Apple, PCs & Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-zoom-performance-problems-is-the-blame-on-you-or-the-service/"><u>Understanding Zoom Performance Problems - Is The Blame On You Or The Service?</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+</ul></div>
 

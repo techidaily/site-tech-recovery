@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Tech Spectacle: The iPhone 16 'Glowtime', AI Advancements, and the New Apple Watch Series 10"
-date: 2024-10-29T19:30:33.522Z
-updated: 2024-10-31T04:17:47.882Z
+date: 2024-11-02T22:09:14.019Z
+updated: 2024-11-05T16:20:14.479Z
 tags:
   - apple
 categories:
@@ -61,10 +61,16 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,10 +94,16 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -119,10 +131,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -140,10 +152,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -192,22 +204,16 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-pip-functions-on-apple-devices/"><u>[New] 2024 Approved Mastering PIP Functions on Apple Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-selection-of-great-sports-flicks-available-today/"><u>Discover the Ultimate Selection of Great Sports Flicks Available Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-multitasking-a-guide-to-enabling-split-screen-view-on-a-macbook-air/"><u>Effortless Multitasking: A Guide to Enabling Split Screen View on a MacBook Air</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-restoring-online-functionality-to-amazon-echo-products-marked-as-off-by-alexa/"><u>Expert Tips for Restoring Online Functionality to Amazon Echo Products Marked as Off by Alexa</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-rectify-missing-or-undetected-propsysdll-errors-in-windows-system/"><u>How to Rectify: Missing or Undetected PropSys.dll Errors in Windows System</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-seamlessly-transition-from-quicktime-to-high-quality-mp4-video-files/"><u>How to Seamlessly Transition From QuickTime to High-Quality MP4 Video Files</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-mix-fold-3-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Mix Fold 3 for Free? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-14-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 14?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Note 30 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-asus-rog-phone-8-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Asus ROG Phone 8 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-infinix-zero-5g-2023-turbo-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Infinix Zero 5G 2023 Turbo Location | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solve-your-macbook-pros-keyboard-woes-effective-fix-solutions-for-non-functional-keys/"><u>Solve Your MacBook Pro's Keyboard Woes: Effective Fix Solutions for Non-Functional Keys</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-tutorial-sending-emojis-from-your-iphone/"><u>The Complete Tutorial: Sending Emojis From Your iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/todays-top-tv-shows-your-essential-guide-to-max-originals/"><u>Today's Top TV Shows: Your Essential Guide to Max Originals</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/update-your-iphones-area-code-a-comprehensive-instruction-for-region-adjustment/"><u>Update Your IPhone’s Area Code: A Comprehensive Instruction for Region Adjustment</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/1716183822170-new-2024-approved-how-to-get-more-instagram-video-views/"><u>[New] 2024 Approved How to Get More Instagram Video Views?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expert-recommendations-top-15-no-cost-audiosite-collections/"><u>[Updated] In 2024, Expert Recommendations Top 15 No-Cost Audiosite Collections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-must-haves-best-android-picture-adjusters/"><u>[Updated] Must-Haves Best Android Picture Adjusters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ace-the-art-of-tweaking-captions-and-tags-in-instagram/"><u>Ace the Art of Tweaking Captions & Tags in Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-efficiently-using-the-telnet-client-on-windows-systems/"><u>Essential Tips for Efficiently Using the Telnet Client on Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-effortlessly-with-these-5-superior-iphone-gps-apps/"><u>Explore Effortlessly with These 5 Superior iPhone GPS Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-viewing-live-coverage-of-the-2erth-summer-olympics/"><u>Guide to Viewing Live Coverage of the 2Erth Summer Olympics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-getting-to-know-the-premium-p2715q-a-high-definition-marvel/"><u>In 2024, Getting to Know the Premium P2715Q A High-Definition Marvel</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/online-video-promotion-experts-for-2024/"><u>Online Video Promotion Experts for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-inserting-dynamic-gpt-mentions-for-a-customized-chatgpt-interaction/"><u>The Ultimate Guide to Inserting Dynamic GPT Mentions for a Customized ChatGPT Interaction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-for-lgbtqplus-content-streaming-on-netflix-in-july-2024/"><u>Top Picks for LGBTQ+ Content Streaming on Netflix in July 2024</u></a></li>
 </ul></div>
 

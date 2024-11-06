@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your PS4 Controller - What Do The Blinks in Different Colors Indicate?
-date: 2024-09-09T16:30:36.134Z
-updated: 2024-09-10T16:30:36.134Z
+date: 2024-10-31T00:23:14.390Z
+updated: 2024-11-05T21:19:16.049Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting Your PS4 Controller - What Do The Blinks in Different Colors Indicate?
@@ -9,23 +9,11 @@ excerpt: This Article Describes Troubleshooting Your PS4 Controller - What Do Th
 thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps4-2326616_1280-09912014986f461fbafdce07c1e9fad1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Troubleshooting Guide to Addressing and Repairing WHEA Errors on PCs
  The Windows Hardware Error Architecture (WHEA) uncorrectable error is a Windows[stop code](https://www.lifewire.com/what-is-a-stop-code-2625685) displayed on a[blue screen](https://www.lifewire.com/blue-screen-of-death-bsod-2625816) . When this error occurs, your computer will typically compile some diagnostic data then reset. If the root problem persists, your computer will eventually crash again with the same WHEA uncorrectable error message.
 
  WHEA uncorrectable errors are usually associated with faulty hardware, but they can also be caused by driver conflicts, missing Windows updates, and even[overclocking](https://www.lifewire.com/what-is-overclocking-a-computer-4092341) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How the WHEA Uncorrectable Error Appears
 
  When this error occurs, you'll usually see a message like one of these:
@@ -36,11 +24,12 @@ thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/fi
  WHEA\_UNCORRECTABLE\_ERROR
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Causes of the WHEA Uncorrectable Error
 
  The WHEA uncorrectable error is a stop code displayed during blue screen crashes and is usually due to hardware failure. A failing hard drive, defective memory, improperly seated CPU, and a variety of other hardware issues can all result in a WHEA uncorrectable error.
@@ -50,17 +39,12 @@ thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/fi
  In some cases, overclocking can also cause this error to appear due to the extra strain overclocking puts on your CPU.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Fix a WHEA Uncorrectable Error
 
  Since most WHEA uncorrectable errors are caused by hardware failure, fixing this error usually involves tracking down the problem component and replacing it. However, the best place to start is on the software end because that's easier and less expensive.
@@ -86,11 +70,12 @@ thumbnail: https://www.lifewire.com/thmb/GGTZ0BXa-Os59BSoGo_ab_Mr7qs=/400x300/fi
  If you reset Windows and still experience the WHEA uncorrectable error, you have a hardware issue. Carefully inspect your hardware again, and seek professional assistance if you can't determine which piece of hardware has failed.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Other Blue Screen Problems Like the WHEA Uncorrectable Error
 
  The WHEA uncorrectable error is just one of many errors that can cause Windows to display the blue screen of death. If you're experiencing blue screen issues, we have a[complete list of blue screen error codes](https://www.lifewire.com/blue-screen-error-codes-4065576) that can help you get to the bottom of your problem.
@@ -126,8 +111,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +118,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-25-steps-forward-in-youtube-mastery-and-recognition/"><u>[New] 2024 Approved 25 Steps Forward in YouTube Mastery and Recognition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-6-ways-to-record-mov-files-on-windows-11-for-2024/"><u>[Updated] 6 Ways to Record .mov Files on Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lut-enthusiasts-delight-free-bundles-with-dji-minis-and-air-2/"><u>[Updated] LUT Enthusiasts' Delight – Free Bundles with DJI Minis & Air 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-top-picks-the-most-innovative-and-user-friendly-visual-voicemail-applications/"><u>2024'S Top Picks: The Most Innovative and User-Friendly Visual Voicemail Applications</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-driver-related-issues-in-battleye-services-error-code-breakdown-and-fixes/"><u>Diagnosing and Repairing Driver-Related Issues in BattlEye Services - Error Code Breakdown & Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-locating-erased-phone-contacts-on-an-android-device/"><u>Expert Strategies for Locating Erased Phone Contacts on an Android Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-pixel-tablet-unveiled-learn-about-release-date-specs-and-key-highlights/"><u>Google Pixel Tablet Unveiled - Learn About Release Date, Specs, and Key Highlights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capturing-beats-studio-mac-basics/"><u>In 2024, Capturing Beats Studio Mac Basics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-windows-11-gamers-guide-to-immaculate-game-recording/"><u>In 2024, Windows 11 Gamers' Guide to Immaculate Game Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-multi-bluetooth-speaker-setup-a-step-by-step-guide/"><u>Mastering Multi-Bluetooth Speaker Setup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-interrupted-heres-how-to-get-your-favorite-title-back-on-track/"><u>Netflix Interrupted? Here’s How to Get Your Favorite Title Back On Track</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quality-mechanical-keyboards-for-savvy-shoppers/"><u>Quality Mechanical Keyboards for Savvy Shoppers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/recovering-lost-live-footage-strategies-for-uninterrupted-streams/"><u>Recovering Lost Live Footage Strategies for Uninterrupted Streams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-workflow-with-these-top-file-analysis-tools/"><u>Streamline Your Workflow with These Top File Analysis Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-5-critical-points-before-investing-in-a-smartwatch/"><u>The Ultimate Guide: 5 Critical Points Before Investing in a Smartwatch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-11-leading-free-tools-to-automate-software-updates/"><u>The Ultimate List: 11 Leading Free Tools to Automate Software Updates</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's WWDC 2024 Revelations: The Essential 4 Features of iPadOS 18 & Which iPads They Apply To | ZDNET"
-date: 2024-10-30T07:20:37.501Z
-updated: 2024-10-31T07:55:11.009Z
+date: 2024-10-30T17:04:46.852Z
+updated: 2024-11-06T00:24:24.923Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,16 +64,10 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -85,10 +79,10 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -98,10 +92,10 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -142,19 +136,24 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhance-content-categorization-top-picks-for-the-7-cheapest-youtube-taggification-apps/"><u>[New] 2024 Approved Enhance Content Categorization Top Picks for the 7 Cheapest Youtube Taggification Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-scale-up-channel-followers-faster-and-cheaper/"><u>[New] 2024 Approved Scale Up Channel Followers Faster and Cheaper</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-f25-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo F25 Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-autonomous-vehicle-revealed-latest-updates-on-pricing-launch-timeline-and-features/"><u>Apple's Autonomous Vehicle Revealed: Latest Updates on Pricing, Launch Timeline & Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-end-of-yahoo-messenger-a-look-back-at-why-it-was-shut-down/"><u>Decoding the End of Yahoo! Messenger: A Look Back at Why It Was Shut Down</u></a></li>
-<li><a href="https://games-able.techidaily.com/hit-fast-the-ultimate-list-of-quick-game-apps-for-your-device/"><u>Hit Fast: The Ultimate List of Quick Game Apps for Your Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-solve-the-apple-watch-lte-connectivity-problem-quickly-and-easily/"><u>How to Solve the 'Apple Watch LTE Connectivity' Problem Quickly and Easily</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-eye-catching-effects-top-10-editing-wonders-on-tiktok/"><u>In 2024, Eye-Catching Effects Top 10 Editing Wonders on TikTok</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-12-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme 12 Pro 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-go-2023-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark Go (2023) Phone without PIN</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequential-screenings-experience-the-full-storyline-by-watching-transformers-in-order/"><u>Sequential Screenings: Experience the Full Storyline by Watching Transformers in Order</u></a></li>
-<li><a href="https://driver-install.techidaily.com/startech-driver-mastery-for-multiple-windows-environments/"><u>StarTech Driver Mastery for Multiple Windows Environments</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-xlivedll-files-for-smooth-computer-operation/"><u>Troubleshooting Missing Xlive.dll Files for Smooth Computer Operation</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-13-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 screen lock without password</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-a-compelling-narrative-a-key-to-more-viewers-and-subscribers/"><u>[New] Crafting a Compelling Narrative A Key to More Viewers and Subscribers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>[New] In 2024, SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-google-pixel-rhythms-the-ideal-online-source/"><u>[Updated] 2024 Approved Google Pixel Rhythms The Ideal Online Source</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-pursuing-seamless-integration-of-videos-on-instagram/"><u>[Updated] In 2024, Pursuing Seamless Integration of Videos on Instagram</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-watch-series-8-analysis-stealing-the-spotlight-despite-falling-short-of-samsungs-advanced-sensor-tech-zdnet-insights/"><u>Apple Watch Series 8 Analysis: Stealing the Spotlight Despite Falling Short of Samsung's Advanced Sensor Tech - ZDNet Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bridge-the-gap-between-mobile-and-desktop-using-bluestacks-to-run-android-apps-in-windows-10/"><u>Bridge the Gap Between Mobile and Desktop: Using BlueStacks to Run Android Apps in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-finest-graphic-design-tools-among-17-popular-picks/"><u>Discover the Finest Graphic Design Tools Among 17 Popular Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-the-latest-macos-a-comprehensive-guide-to-apples-operating-system-evolution/"><u>Discovering the Latest macOS: A Comprehensive Guide to Apple's Operating System Evolution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hitman-3-troubleshooting-preventing-system-crashes-during-gameplay-updated-guide/"><u>Hitman 3 Troubleshooting: Preventing System Crashes During Gameplay (Updated Guide)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hololens-review-unleashing-virtual-potential-with-microsoft/"><u>HoloLens Review – Unleashing Virtual Potential with Microsoft</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-create-rules-in-gmail-for-almost-anything/"><u>How to Create Rules in Gmail for (Almost) Anything</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-touchscreen-repair-top-5-techniques-for-windows-10-users/"><u>Mastering the Art of Touchscreen Repair: Top 5 Techniques for Windows 10 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-techniques-to-open-and-enjoy-your-ogm-media-content/"><u>Quick & Easy Techniques to Open and Enjoy Your OGM Media Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-repairing-black-screen-problem-in-facetime-calls/"><u>Step-by-Step Solutions: Repairing Black Screen Problem in FaceTime Calls</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-restoring-missing-msvcr80dll-files/"><u>The Complete Guide to Restoring Missing Msvcr8#0dll Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-your-tv-into-a-personalized-tiktok-theatre-easy-methods-inside/"><u>Transform Your TV Into A Personalized TikTok Theatre – Easy Methods Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trouble-with-aol-email-determining-if-the-service-is-down-or-user-issues/"><u>Trouble with AOL Email? Determining if the Service Is Down or User Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-contacting-snapchat-assistance-for-users/"><u>Ultimate Guide to Contacting Snapchat Assistance for Users</u></a></li>
 </ul></div>
 

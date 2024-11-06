@@ -1,7 +1,7 @@
 ---
 title: "Enabling/Disabling Network Discovery on Your PC with Windows 11: A Step-by-Step Guide"
-date: 2024-09-09T16:30:38.169Z
-updated: 2024-09-10T16:30:38.169Z
+date: 2024-11-05T00:06:58.128Z
+updated: 2024-11-05T20:44:55.369Z
 categories:
   - BestProducts
 description: "This Article Describes Enabling/Disabling Network Discovery on Your PC with Windows 11: A Step-by-Step Guide"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes Enabling/Disabling Network Discovery on Your PC
 thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc33817ba0857c51273b662cd.JPG
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enabling/Disabling Network Discovery on Your PC with Windows 11: A Step-by-Step Guide
 ### What to Know
 
@@ -33,55 +27,50 @@ thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc
 1. [Open the Windows 10 Action Center](https://www.lifewire.com/the-windows-10-notification-center-what-it-is-and-how-to-use-it-4150756) from the lower-right corner of the screen (pressing**Win** +**a** works, too), then select**Expand** (if you see that option).  
 ![Windows 10 desktop with Action Center open.](https://www.lifewire.com/thmb/gp-WAUkDBPn0cxP7l6D3N_lvOtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-turn-on-or-off-discovery-network-in-windows-10-cb05f0ab15f64658a1372c42d9b90435.jpg)
 2. Select**Network** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting Network in the Action Center.](https://www.lifewire.com/thmb/ZMleUGp-9BsGCwG-dWG2ToQ-aAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-turn-on-or-off-discovery-network-in-windows-10-30cfc2b69eac45b9aff649c3b5a6a5d1.jpg)
 3. Select**Network & Internet settings** .  
 ![Selecting Network and Internet settings in Windows 10.](https://www.lifewire.com/thmb/hzAb1fly6wKEIUDRR7xImR89ae8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-turn-on-or-off-discovery-network-in-windows-10-9bc5681e91c24a8ca02cad8c7b13aed8.jpg)
 4. Scroll down a bit and choose**Network and Sharing Center** .  
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Network settings in Windows 10.](https://www.lifewire.com/thmb/qnolazVfasJbC970PLRkOphPJ3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-turn-on-or-off-discovery-network-in-windows-10-1a4eb35ff184483fbbc8900e3a625ff9.jpg)
 5. When[Control Panel](https://www.lifewire.com/control-panel-2625841) opens, select**Change advanced sharing settings** from the left menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Windows 10 Control Panel network settings.](https://www.lifewire.com/thmb/vspgoHAgXFE9GTLJrOA8k7Xaiqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-turn-on-or-off-discovery-network-in-windows-10-ba43069cb90246c998756a627b40a8ae.jpg)
 6. Select**Turn on network discovery** to flip it on. To turn_off_ network discovery in Windows 10, choose**Turn off network discovery** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 10 network discovery settings.](https://www.lifewire.com/thmb/1sRkqQMn4YalJmeFZGoznJPvkB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-turn-on-or-off-discovery-network-in-windows-10-8beea7877c9c4399a61dafe0ddacfa74.jpg)  
  While here, you can also[turn file and printer sharing on and off](https://www.lifewire.com/windows-file-and-printer-sharing-818221) .
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. When finished, select**Save changes** . You can now close Control Panel and Settings.  
 ![Windows 10 Control Panel network discovery settings.](https://www.lifewire.com/thmb/K4SteWQHwkacaUCwBp9t7fdzrkw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-turn-on-or-off-discovery-network-in-windows-10-c725b34b5e164b928fe5cb5d3d355a69.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## What Does Windows 10 Network Discovery Mean?
 
  Network discovery refers to your computer’s ability to connect with and be found by nearby devices. To turn on network discovery means to make your device discoverable and connectable. When you turn off network discovery, you disable this feature, essentially protecting your computer by making it invisible.
@@ -114,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +110,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-apex-alchemy-choosing-the-best-laptops-for-video-wizards/"><u>[New] 2024 Approved Apex Alchemy Choosing the Best Laptops for Video Wizards</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-custom-youtube-shorts-thumbnails-effortlessly/"><u>[New] 2024 Approved How to Add Custom YouTube Shorts Thumbnails Effortlessly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-audiovisual-quality-its-significance-in-video-ranking/"><u>2024 Approved Audiovisual Quality Its Significance in Video Ranking</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>2024 Approved Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-basics-of-slug-lines-explained/"><u>2024 Approved The Basics of Slug Lines Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-instructions-on-how-to-update-and-download-realtek-driver-software/"><u>Easy Instructions on How to Update and Download Realtek Driver Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722842673523-easy-steps-for-setting-up-shared-access-to-your-printer-from-various-gadgets/"><u>Easy Steps for Setting Up Shared Access to Your Printer From Various Gadgets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-extra-protection-a-guide-to-turning-on-gmails-2fa/"><u>Enabling Extra Protection: A Guide to Turning On Gmail's 2FA</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-solve-d3dx924dll-missing-error-quickly/"><u>Expert Tips to Solve 'd3dx9_24.dll' Missing Error Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-javascript-runtime-dll-problems-expert-tips-and-techniques/"><u>Fixing JavaScript Runtime DLL Problems: Expert Tips & Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-drone-cutting-edge-tools-top-editors-unveiled/"><u>In 2024, Drone Cutting Edge Tools - Top Editors Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/innovation-reveal-previewing-the-highlights-at-apples-next-iphone-launch/"><u>Innovation Reveal: Previewing the Highlights at Apple's Next iPhone Launch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-snapchats-language-decoding-emoji-significances-inside-out/"><u>Mastering Snapchat's Language: Decoding Emoji Significances Inside Out</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-best-online-coupon-sites-to-slash-your-spending/"><u>Unlocking the Best Online Coupon Sites to Slash Your Spending</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-sony-xperia-5-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Sony Xperia 5 V?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-go-to-selection-top-13-freebie-pdf-editors-showcased-in-july-2024/"><u>Your Go-To Selection: Top 13 Freebie PDF Editors Showcased in July 2024</u></a></li>
+</ul></div>
 

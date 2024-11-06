@@ -1,7 +1,7 @@
 ---
 title: "To Upgrade or Not: Pros & Cons of Switching to iPhone 16, According to Expert Reviewers at ZDNet"
-date: 2024-10-25T23:45:57.807Z
-updated: 2024-10-31T00:36:39.836Z
+date: 2024-11-04T20:57:16.470Z
+updated: 2024-11-05T17:38:19.706Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. The camera
 
 Perhaps one of the most important features of any smartphone these days is the camera, so it is no surprise that camera quality is a big consideration for ZDNET editors. It probably is for you, too. The iPhone 16 lineup includes a new [Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/) feature that works in landscape or portrait mode with a button on the side of the iPhone. In addition, you can lightly press the button to show camera functions you can choose from, such as zoom, exposure, or focal lengths, by swiping between the options. 
@@ -53,13 +46,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -71,6 +57,13 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -94,16 +87,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -124,10 +117,16 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -135,6 +134,13 @@ Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am st
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -176,24 +182,20 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-free-youtube-ending-creators-top-6-picks/"><u>[New] 2024 Approved Best Free YouTube Ending Creators - Top 6 Picks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-prime-action-mic-choices-for-clear-videos/"><u>[Updated] Prime Action Mic Choices for Clear Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-guide-from-script-writing-to-final-audio-in-videos/"><u>2024 Approved Ultimate Guide From Script Writing to Final Audio in Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-f25-pro-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo F25 Pro 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-autoplay-on-apple-music-a-step-by-step-guide/"><u>Disabling Autoplay on Apple Music: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-your-viewing-experience-ultimate-setup-for-samsungs-4k-tv-screen/"><u>Enhancing Your Viewing Experience: Ultimate Setup for Samsung's 4K TV Screen</u></a></li>
-<li><a href="https://driver-download.techidaily.com/finding-and-installing-official-asus-biosuefi-updates-for-windows-users/"><u>Finding and Installing Official ASUS BIOS/UEFI Updates for Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-checking-past-and-present-audiences-for-your-google-docs/"><u>Guide: Checking Past and Present Audiences for Your Google Docs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-stop-0x00000078-phase0exception/"><u>How to Fix STOP 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-make-an-apple-genius-bar-appointment/"><u>How to Make an Apple Genius Bar Appointment</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-2-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infuse-photos-with-realism-facial-motion-blur-via-picsart-for-2024/"><u>Infuse Photos with Realism Facial Motion Blur via Picsart for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-15-reactivation-steps-a-step-by-step-walkthrough/"><u>IPhone 15 Reactivation Steps: A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-hacks-the-definitive-guide-to-sending-sound-based-messages-efficiently/"><u>IPhone Hacks: The Definitive Guide to Sending Sound-Based Messages Efficiently</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/micromobility-insights-key-dates-latest-updates-buzz-and-more/"><u>Micromobility Insights: Key Dates, Latest Updates, Buzz & More</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/stop-losses-maintaining-seamless-obs-recording-for-2024/"><u>Stop Losses Maintaining Seamless OBS Recording for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-motion-blur-from-theory-to-practice-in-ps/"><u>The Essential Guide to Motion Blur From Theory to Practice in PS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-following-mens-ncaa-basketball-from-march-madness-to-the-final-four/"><u>The Ultimate Guide to Following Men’s NCAA Basketball - From March Madness to the Final Four</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upgrade-your-mobile-queries-discover-the-latest-in-ai-search-on-android-and-ios-through-bing/"><u>Upgrade Your Mobile Queries: Discover the Latest in AI Search on Android and iOS Through Bing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-master-looped-video-techniques-for-instagram-top-4-strategies/"><u>[New] 2024 Approved Master Looped Video Techniques for Instagram Top 4 Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-experts-picks-the-top-5-professional-drone-brands/"><u>[Updated] Expert's Picks The Top 5 Professional Drone Brands</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-discovering-vector-images-a-beginners-overview-of-categories/"><u>[Updated] In 2024, Discovering Vector Images A Beginner’s Overview of Categories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unbeatable-youtube-video-titling-assistant/"><u>2024 Approved Unbeatable YouTube Video Titling Assistant</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-manually-initiating-a-fresh-start-of-your-pc-with-windows-safe-mode-activation/"><u>Expert Tips: Manually Initiating a Fresh Start of Your PC with Windows Safe Mode Activation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-you-tell-if-sonys-playstation-network-server-issues-affect-everyone-or-just-your-connection/"><u>How Can You Tell If Sony's PlayStation Network Server Issues Affect Everyone or Just Your Connection?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/keep-your-mac-awake-effective-methods-to-prevent-automatic-sleep/"><u>Keep Your Mac Awake: Effective Methods to Prevent Automatic Sleep</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-adding-new-fonts-to-iphones-library/"><u>Step-by-Step Tutorial: Adding New Fonts to iPhone's Library</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-activatedeactivate-windows-11s-touchscreen-input/"><u>Steps to Activate/Deactivate Windows 11'S Touchscreen Input</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/streamline-your-watch-time-enable-youtube-autoplay-on-fb-for-2024/"><u>Streamline Your Watch Time Enable YouTube Autoplay on FB for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-must-have-items-for-the-perfect-summer-everyday-carry-edc-kit/"><u>Top 7 Must-Have Items for the Perfect Summer Everyday Carry (EDC) Kit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-msodll-not-found-issue-in-windows-systems/"><u>Troubleshooting the 'mso.dll Not Found' Issue in Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-error-code-0xc0000185-causes-solutions-and-fixes/"><u>Understanding Error Code 0xC0000185 - Causes, Solutions & Fixes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-yet-effective-10-security-camera-software-options/"><u>Updated 2024 Approved Free Yet Effective 10 Security Camera Software Options</u></a></li>
 </ul></div>
 

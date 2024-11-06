@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Ways Apple's AI Must Evolve to Match the Might of OpenAI & Google: Insights From ZDNet"
-date: 2024-10-26T18:10:48.379Z
-updated: 2024-10-30T17:03:21.987Z
+date: 2024-11-03T20:51:01.226Z
+updated: 2024-11-05T21:44:29.967Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ Whether you're a [developer](https://www.zdnet.com/article/the-data-confirms-gen
 
 ## Productivity & Workflow Enhancements
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Regenerative AI (RAG) APIs & AI Writing Tools
 
 While Apple Intelligence's writing tools provide basic functionality like text rewrites and proofreading, future enhancements could leverage [Regenerative AI/Retrieval Augmented Generation (RAG)](https://www.zdnet.com/article/understanding-rag-how-to-integrate-generative-ai-llms-with-your-business-knowledge/) APIs to introduce more sophisticated features. This would include real-time grammar corrections, tone adjustments, and specialized models trained on industry-specific languages, such as legal or medical terminology. 
@@ -54,13 +47,6 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 * **Priority**: High -- This enhancement is crucial for professional sectors where precise terminology and real-time data incorporation are essential, especially in legal, healthcare, and business applications.
 
 **Use Case**: A legal professional drafting a contract could use AI to generate text based on legal standards and pull relevant case law or references from secure corporate databases. Similarly, a medical researcher could enhance their papers with precise terminology and industry knowledge, all sourced and verified by a specialized AI model.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Voice-based AI Workflow Automation & Proactive Notifications
 
@@ -101,16 +87,10 @@ AI could combine financial management tools with [real-time fraud detection](htt
 **Also: [Every iPhone model that will be updated to Apple's iOS 18 (and which ones won't)](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/)**
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Health & Wellness Innovations
@@ -128,13 +108,32 @@ AI could provide real-time diagnostics and predictive health insights by leverag
 **Also: [The 4 biggest new health features Apple just announced](https://www.zdnet.com/article/the-4-biggest-new-health-features-apple-just-announced/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creative & Media Tools
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. AI-Enhanced Media Production Tools
 
@@ -150,6 +149,13 @@ For creative professionals, AI could streamline tasks in Apple's creativity tool
 
 ## Sustainability & Accessibility
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Sustainability and Environmental Tracking
 
 Apple's AI could help users track and reduce their environmental impact by collecting data from [HomeKit](https://www.zdnet.com/home-and-office/smart-home/move-over-alexa-and-homekit-a-new-assistant-is-here-to-open-source-your-smart-home/) and [Matter-enabled devices](https://www.zdnet.com/home-and-office/smart-home/what-is-matter-how-the-connectivity-standard-can-change-your-smart-home/), EVs, and smart meters. AI could analyze energy consumption, recommend eco-friendly alternatives, and offer personalized sustainability tips based on user behavior and device usage patterns.
@@ -161,6 +167,13 @@ Apple's AI could help users track and reduce their environmental impact by colle
 **Use Case:** A user's HomeKit system could work with their EV to optimize charging during off-peak hours, and AI would provide recommendations for reducing energy consumption throughout the day.
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)** 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. AI Accessibility for Education and General Use
 
@@ -177,10 +190,16 @@ AI could further [enhance accessibility for users with disabilities](https://www
 ## Cross-Ecosystem & Personalization
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 9\. Gen AI Store & Broader AI Features for IoT Devices
@@ -206,13 +225,6 @@ AI could make Apple devices more intuitive by learning from user habits and beha
 **Use Case:** AI could recognize when a user typically works out, automatically suggesting their preferred workout playlist and adjusting device settings like Do Not Disturb to enhance focus. Similarly, AI could learn a user's work routine and suggest apps or contacts frequently used during work hours, streamlining daily tasks.
 
 **Also: [Two reasons why I'm thrilled that there's no new Apple Watch Ultra or AirPods Pro](https://www.zdnet.com/article/two-reasons-why-im-thrilled-that-theres-no-new-apple-watch-ultra-or-airpods-pro/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The future
 
@@ -252,24 +264,16 @@ While Apple's focus on privacy and on-device processing sets it apart, the compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/iscover-these-27-purely-free-youtube-audio-ripper-tools-for-2024/"><u>[New] Discover These 27 Purely Free YouTube Audio Ripper Tools for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-gopro-hero-series-comparison/"><u>[New] The GoPro Hero Series Comparison</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-msresourceappname-text-glitch-in-w11/"><u>Addressing 'MsResource/AppName Text' Glitch in W11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-revolutionizes-custom-ai-development-with-its-recent-upgrade-for-unique-gpt-creations/"><u>ChatGPT Revolutionizes Custom AI Development with Its Recent Upgrade for Unique GPT Creations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-mailcoms-termination-period-when-will-you-need-to-act/"><u>Deciphering Mail.com's Termination Period: When Will You Need to Act?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-connection-woes-with-paramountplus-streaming-on-firestick/"><u>Diagnosing and Repairing Connection Woes with Paramount+ Streaming on Firestick</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-sticky-keys-feature-in-windows-a-step-by-step-guide/"><u>Disabling Sticky Keys Feature in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-tech-support-corrective-steps-for-windows-bootmgr-errors/"><u>DIY Tech Support: Corrective Steps for Windows BOOTMGR Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-mirror-your-computer-monitor-on-tv-with-googles-chromecast-device/"><u>Easy Steps to Mirror Your Computer Monitor on TV with Google's Chromecast Device</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-securely-download-instagram-content-in-multiple-ways/"><u>How to Securely Download Instagram Content in Multiple Ways</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-watch-the-x-men-movies-in-order/"><u>How to Watch the X-Men Movies in Order</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-the-basics-advanced-video-splitting/"><u>In 2024, Beyond the Basics Advanced Video Splitting</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-secret-to-youtube-dominance-unveiled-by-creative-studio-insights/"><u>In 2024, The Secret to YouTube Dominance Unveiled by Creative Studio Insights</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/or-top-youtube-videos-select-rank-trackers-guide-for-2024/"><u>Monitor Top YouTube Videos - Select Rank Trackers Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-wi-fi-protocols-with-ease-unraveling-the-secrets-of-ieees-80211-be-ax-ac-bng-and-a/"><u>Navigating Wi-Fi Protocols with Ease: Unraveling the Secrets of IEEE's 802.11 Be, Ax, Ac, B/N/G, and A</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/optimizing-titles-and-tags-for-improved-youtube-visibility-for-2024/"><u>Optimizing Titles and Tags for Improved YouTube Visibility for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/secure-shots-with-a-steadier-gopro-video-technique-for-2024/"><u>Secure Shots with a Steadier GoPro Video Technique for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-why-your-ipad-is-unable-to-locate-or-connect-to-a-printer/"><u>Troubleshooting: Why Your iPad Is Unable to Locate or Connect to a Printer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-go-to-list-of-11-must-visit-free-film-download-sources/"><u>Your Go-To List of 11 Must-Visit Free Film Download Sources</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-comparing-profit-potential-dailymovement-and-youtubes-earnings/"><u>[Updated] Comparing Profit Potential DailyMovement and Youtube's Earnings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-toolbox-what-every-youtube-newbie-needs/"><u>[Updated] In 2024, The Ultimate Toolbox What Every YouTube Newbie Needs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-setup-integrating-your-bose-soundlink-audio-system/"><u>Effortless Setup: Integrating Your Bose SoundLink Audio System</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-display-technologies-srgb-over-rgb/"><u>In 2024, Optimal Display Technologies Srgb over Rgb</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-luck-with-matches-5-strategies-to-succeed-on-bumble/"><u>No Luck with Matches? 5 Strategies to Succeed on Bumble</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pivoting-careers-from-novice-to-industry-veteran/"><u>Pivoting Careers From Novice to Industry Veteran</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-enable-your-apple-watch-with-gmail-a-comprehensive-guide/"><u>Steps to Enable Your Apple Watch with Gmail: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-66-twitter-travel-influencers-find-amazing-offers-and-insider-tips/"><u>Top 66 Twitter Travel Influencers - Find Amazing Offers and Insider Tips!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whatsapp-or-signal-exploring-the-critical-differences-between-them/"><u>WhatsApp or Signal? Exploring the Critical Differences Between Them</u></a></li>
 </ul></div>
 

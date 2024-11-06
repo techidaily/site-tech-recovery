@@ -1,7 +1,7 @@
 ---
 title: "Optimizing PC Control: A Step-by-Step Guide to Leveraging the Google Home Mobile Interface on Desktop Systems"
-date: 2024-09-09T16:30:37.592Z
-updated: 2024-09-10T16:30:37.592Z
+date: 2024-11-03T16:58:54.667Z
+updated: 2024-11-05T20:16:26.243Z
 categories:
   - BestProducts
 description: "This Article Describes Optimizing PC Control: A Step-by-Step Guide to Leveraging the Google Home Mobile Interface on Desktop Systems"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes Optimizing PC Control: A Step-by-Step Guide to 
 thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18062d51200fd6852f871f665.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Maximizing PS5 Gameplay: A Step-by-Step Guide to Achieving a Buttery Smooth 1Nterframe Rate of 120FPS
 ### What to Know
 
@@ -33,43 +27,35 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
@@ -83,11 +69,12 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -125,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +119,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/losing-with-panache-free-youtubes-1-six/"><u>[New] Closing with Panache Free YouTube's #1 Six!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-capture-and-share-the-new-era-of-screen-recorders-on-spring/"><u>[Updated] 2024 Approved Capture and Share The New Era of Screen Recorders on Spring</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-core-elements-of-zd-soft-recording-features-for-2024/"><u>[Updated] The Core Elements of ZD Soft Recording Features for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-youtubes-potential-establishing-an-effective-upload-cadence-for-2024/"><u>[Updated] Unlocking YouTube's Potential Establishing an Effective Upload Cadence for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-guide-restoring-functionality-to-a-frozen-apple-watch-touch-panel/"><u>A Guide: Restoring Functionality to a Frozen Apple Watch Touch Panel</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amd-radeon-graphics-driver-update-v2410-latest-version/"><u>AMD Radeon Graphics Driver Update v24.10 - Latest Version</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/april-specials-exclusive-discounts-on-the-latest-apple-watch-models/"><u>April Specials: Exclusive Discounts on the Latest Apple Watch Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-resolving-loud-hardware-a-step-by-step-approach-for-pc-fans/"><u>Diagnosing and Resolving Loud Hardware: A Step-by-Step Approach for PC Fans</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-purge-dns-cache-on-mac-devices/"><u>Effective Ways to Purge DNS Cache on Mac Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/following-the-official-star-wars-saga-the-complete-guide-to-watching-sequentially-on-disneyplus/"><u>Following the Official 'Star Wars' Saga: The Complete Guide to Watching Sequentially on Disney+</u></a></li>
+<li><a href="https://extra-information.techidaily.com/foundations-of-mixing-adobe-auditions-fade-in-technique/"><u>Foundations of Mixing Adobe Audition’s Fade In Technique</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-the-art-of-extracting-fb-gifs-for-all-platforms-for-2024/"><u>Mastering the Art of Extracting FB GIFs for All Platforms for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-your-device-efficiency-with-windows-11-understanding-and-utilizing-the-battery-report-tool/"><u>Mastering Your Device Efficiency with Windows 11 - Understanding and Utilizing the Battery Report Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/new-release-alert-elevate-your-computers-performance-with-revo-uninstaller-pro-eb-version/"><u>New Release Alert: Elevate Your Computer's Performance with Revo Uninstaller Pro Eb Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-game-performance-addressing-modern-warfare-stutters-and-freezes-on-desktop-systems/"><u>Optimizing Game Performance: Addressing 'Modern Warfare' Stutters and Freezes on Desktop Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-rectifying-missing-msvcr71dll-error-messages/"><u>Troubleshooting Steps for Rectifying 'Missing Msvcr71.dll' Error Messages</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/troubleshooting-tips-enjoying-dvd-content-on-a-pc-with-windows-10-operating-system/"><u>Troubleshooting Tips: Enjoying DVD Content on a PC with Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-5-methods-for-reliable-data-backup-and-security/"><u>Ultimate Guide: 5 Methods for Reliable Data Backup and Security</u></a></li>
+</ul></div>
 

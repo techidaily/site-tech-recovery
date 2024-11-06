@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2024-10-25T00:30:38.944Z
-updated: 2024-10-30T18:13:19.965Z
+date: 2024-11-04T18:52:54.469Z
+updated: 2024-11-05T18:29:55.269Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,22 +128,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-5-vr-sets-elevating-uav-experience/"><u>[New] Ultimate 5 VR Sets Elevating UAV Experience</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-fun-on-faces-a-comprehensive-guide-to-cartoon-snaps/"><u>[Updated] 2024 Approved Fun on Faces A Comprehensive Guide to Cartoon Snaps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-numbers-game-estimating-income-from-viral-content/"><u>[Updated] The Numbers Game Estimating Income From Viral Content</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-infographic-8-ways-to-make-money-on-youtube-for-beginners/"><u>2024 Approved Infographic - 8 Ways to Make Money on YouTube for Beginners</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/effortless-guide-to-free-melodies-in-youtube-productions-for-2024/"><u>Effortless Guide to Free Melodies in YouTube Productions for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/evaluating-the-benefits-of-instagrams-selfie-credentials-for-2024/"><u>Evaluating the Benefits of Instagram’s Selfie Credentials for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-reasons-behind-the-worlds-shift-to-electric-cars/"><u>Exploring the Reasons Behind the World's Shift to Electric Cars</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-windows-11-screenshots-discover-4-effective-approaches/"><u>Mastering Windows 11 Screenshots: Discover 4 Effective Approaches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/merging-data-columns-efficiently-a-guide-to-consolidating-two-cells-in-microsoft-excel/"><u>Merging Data Columns Efficiently: A Guide to Consolidating Two Cells in Microsoft Excel</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-is-vn-video-editor-pro-worth-the-download-a-comprehensive-review/"><u>New In 2024, Is VN Video Editor Pro Worth the Download? A Comprehensive Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-504-gateway-timeouts-practical-solutions-for-website-downtime/"><u>Overcoming 504 Gateway Timeouts – Practical Solutions for Website Downtime</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pairing-and-managing-multiple-bluetooth-speakers-with-just-one-device/"><u>Pairing and Managing Multiple Bluetooth Speakers with Just One Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/reinstating-windows-10-file-explorer-on-your-new-windows-11-machine/"><u>Reinstating Windows 10 File Explorer on Your New Windows 11 Machine</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-of-smart-homes-exploring-rumors-and-specs-for-apples-personal-robot/"><u>The Future of Smart Homes: Exploring Rumors and Specs for Apple's Personal Robot</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-2024s-most-effective-study-tools/"><u>The Ultimate List of 2024'S Most Effective Study Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upgraded-performance-learn-to-install-a-fresh-battery-in-your-ipad/"><u>Upgraded Performance: Learn to Install a Fresh Battery in Your iPad</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-first-times-guide-to-essential-gopro-extras/"><u>[New] 2024 Approved First Time's Guide to Essential GoPro Extras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-amazing-notes-applications-top-7-picks-for-ipad-and-ipad-pro-enthusiasts/"><u>Discover Amazing Notes Applications: Top 7 Picks for iPad & iPad Pro Enthusiasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ensuring-email-safety-with-google-the-ultimate-guide-to-whitelisting-in-gmail/"><u>Ensuring Email Safety with Google: The Ultimate Guide to Whitelisting in Gmail</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-followers-to-fans-a-guide-to-thriving-instagram-presence-for-2024/"><u>From Followers to Fans A Guide to Thriving Instagram Presence for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-xr21-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia XR21 Phone Screen?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722880065629-iphone-15-troubleshooting-starting-fresh-with-a-reboot/"><u>IPhone 15 Troubleshooting: Starting Fresh with a Reboot</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209668009-9781608685776-love-on-every-breath/"><u>Love on Every Breath | Free Book</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-final-cut-pro-essentials-reversing-video-clips-in-minutes/"><u>New In 2024, Final Cut Pro Essentials Reversing Video Clips in Minutes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-task-management-with-chatgpt-a-step-by-step-guide/"><u>Revolutionizing Task Management with ChatGPT - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903275116-teslas-foray-into-phones-speculations-on-cost-features-and-launch-date-revealed/"><u>Tesla's Foray Into Phones: Speculations on Cost, Features, and Launch Date Revealed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-is-now-a-closer-look-at-tesla-robots-speculated-launch-date-pricing-strategy-and-engineering-marvels/"><u>The Future Is Now: A Closer Look at Tesla Robot's Speculated Launch Date, Pricing Strategy, and Engineering Marvels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-on-keeping-your-airpods-germ-free-a-comprehveguide-to-sanitization-and-maintenance/"><u>The Ultimate How-To on Keeping Your AirPods Germ-Free: A Comprehveguide to Sanitization and Maintenance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-shelldll-errors-on-your-computer/"><u>Troubleshooting Missing Shell.dll Errors on Your Computer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-the-advantages-of-ios-17/"><u>Understanding the Advantages of iOS 17</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-macos-version-15-sequoia-insight-scheduled-launch-revolutionary-functions-and-developments-revealed/"><u>Upcoming MacOS Version 15 (Sequoia) Insight: Scheduled Launch, Revolutionary Functions & Developments Revealed</u></a></li>
 </ul></div>
 

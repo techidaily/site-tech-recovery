@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2024-10-30T06:08:44.517Z
-updated: 2024-10-30T22:32:23.602Z
+date: 2024-10-29T16:08:44.172Z
+updated: 2024-11-05T23:48:08.248Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -56,16 +63,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -120,6 +121,13 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -131,13 +139,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -156,10 +157,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -176,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,15 +218,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/2024-approved-design-excellence-premier-templates-and-free-2023-plan-guide/"><u>2024 Approved Design Excellence Premier Templates & Free 2023 Plan Guide</u></a></li>
-<li><a href="https://discover-best.techidaily.com/como-converter-wmv-en-mp4-sin-costo-guia-completa-para-windows-y-mac/"><u>Cómo Converter WMV en MP4 Sin Costo: Guía Completa Para Windows Y Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-ipad-pro-and-macbook-air-key-distinctions-you-need-to-know/"><u>Comparing iPad Pro and MacBook Air: Key Distinctions You Need to Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-differences-between-ipad-pro-mini-m4-and-new-macbook-air-m1-a-comprehensive-guide/"><u>Decoding the Differences Between iPad Pro Mini (M4) and New MacBook Air M1 – A Comprehensive Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209826509-9780008366360-leo-2021-your-personal-horoscope/"><u>Leo 2021: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/oneplus-10-the-comprehensive-guide-to-latest-rumors-pre-launch-speculations-estimated-costs-and-release-timeline/"><u>OnePlus 10: The Comprehensive Guide to Latest Rumors, Pre-Launch Speculations, Estimated Costs & Release Timeline</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-teen-focused-films-streaming-now-on-netflix/"><u>Top Teen-Focused Films Streaming Now on Netflix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unmasking-pretend-pal-petitions-guidelines-for-spotting-bogus-buddy-bids-online/"><u>Unmasking Pretend Pal Petitions: Guidelines for Spotting Bogus Buddy Bids Online</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-create-stunning-animations-on-the-go-top-mobile-apps/"><u>Updated In 2024, Create Stunning Animations On-the-Go Top Mobile Apps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windows11dvd-mp4/"><u>Windows11互換のDVD MP4変換ソフトウェア | 完全無料で使えるオンラインサイト</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-conquer-the-social-scene-top-tools-for-post-and-follower-boost/"><u>[Updated] Conquer the Social Scene Top Tools for Post and Follower Boost</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-thanks-for-curating-premium-and-free-outro-themes-for-2024/"><u>[Updated] Thanks for Curating Premium & Free Outro Themes for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-art-of-solo-audio-stardom-stepwise-creation/"><u>[Updated] The Art of Solo Audio Stardom Stepwise Creation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-how-t-mobile-offers-seamless-wireless-connectivity-at-home/"><u>Decoding How T-Mobile Offers Seamless Wireless Connectivity at Home</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/explore-discoworld-the-top-10-theme-hits/"><u>Explore DiscoWorld The Top 10 Theme Hits</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-motorola-moto-g04-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Moto G04 phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-game-changer-discover-the-ultimate-apple-sports-experience-with-a-complimentary-app-techradar/"><u>IPhone Game Changer: Discover the Ultimate Apple Sports Experience with a Complimentary App | TechRadar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-google-duets-a-step-by-step-guide-to-integrating-with-gmail/"><u>Mastering Google Duets: A Step-by-Step Guide to Integrating with Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-your-email-management-with-these-30-powerful-gmail-keyboard-shortcuts/"><u>Streamline Your Email Management with These 30 Powerful Gmail Keyboard Shortcuts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-selection-leading-ceiling-audio-displays-unveiled/"><u>Ultimate Selection: Leading Ceiling Audio Displays Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-espn-plus-effortlessly-tips-for-lg-smart-tv-owners/"><u>Watch ESPN Plus Effortlessly - Tips for LG Smart TV Owners</u></a></li>
 </ul></div>
 
