@@ -1,7 +1,7 @@
 ---
 title: \\[A = W \\Times L \\
-date: 2024-11-04T17:04:03.041Z
-updated: 2024-11-06T00:57:13.045Z
+date: 2024-11-09T17:21:00.969Z
+updated: 2024-11-16T02:52:08.972Z
 tags:
   - apple
 categories:
@@ -41,18 +41,25 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Colors                 | Cloudy White, Sorta Sunny, Stormy Black                                                                                                                                      | Alpine Green, Silver, Gold, Graphite, Sierra Blue                                                                                                                                                                                                                                                                                                           |
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the Google Pixel 6 Pro if…
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
 
@@ -81,20 +88,13 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 13 Pro if...
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You want cinematic camera features
 
@@ -117,10 +117,16 @@ While not an actual product, the Apple ecosystem is still very much part of the 
 Image: Apple
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
@@ -161,19 +167,24 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-upgrade-your-iphone-cinematic-experience-must-have-equipment/"><u>[New] 2024 Approved Upgrade Your iPhone Cinematic Experience Must-Have Equipment</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unveiling-the-power-of-grading-insights-from-dr-john-doe-for-2024/"><u>[New] Unveiling the Power of Grading Insights From Dr. John Doe for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-leading-green-visual-effects-recorders-operating-guide/"><u>[Updated] 2024 Approved Leading Green Visual Effects Recorders Operating Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-next-big-apple-gathering/"><u>All You Need to Know About the Next Big Apple Gathering!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bypassing-the-black-hurdle-on-nba-2k21-before-the-new-year-rolls-in/"><u>Bypassing the Black Hurdle on NBA 2K21 Before the New Year Rolls In!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-issues-in-discord-voice-communication/"><u>Diagnosing and Resolving Issues in Discord Voice Communication</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-3-innovative-ways-for-windows-hardware-id-access/"><u>Exploring 3 Innovative Ways for Windows Hardware ID Access</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-sharing-your-printer-among-multiple-devices-through-networking/"><u>Guide: Sharing Your Printer Among Multiple Devices Through Networking</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-agni-2-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Agni 2 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-how-to-fix-microsoft-word-documents-that-refuse-to-load/"><u>Solving the Issue: How to Fix Microsoft Word Documents That Refuse to Load</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolving-iphone-remote-app-glitches-and-errors/"><u>Step-by-Step Guide: Resolving iPhone Remote App Glitches and Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-for-changing-mac-folder-color-preferences/"><u>The Ultimate How-To for Changing Mac Folder Color Preferences</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-apple-watch-when-it-wont-recognize-active-stands/"><u>Troubleshooting Your Apple Watch When It Won't Recognize Active Stands</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-etiology-of-fetal-alcohol-syndrome-for-2024/"><u>[New] Etiology of Fetal Alcohol Syndrome for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-optimize-capture-smooth-screenshots-with-dell-models/"><u>[New] Optimize Capture Smooth Screenshots with Dell Models</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unshakeable-video-quality-best-stabilizers/"><u>[Updated] 2024 Approved Unshakeable Video Quality - Best Stabilizers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-massive-audience-on-youtube-in-minutes-2-ways/"><u>[Updated] In 2024, Gain Massive Audience on YouTube in Minutes (2 Ways)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-8-in-virtual-reality-gaming/"><u>2024 Approved The Essential 8 in Virtual Reality Gaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/block-anonymous-calls-on-your-iphone-protect-your-privacy-with-this-simple-guide/"><u>Block Anonymous Calls on Your iPhone: Protect Your Privacy with This Simple Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-brand-with-a-trust-signal-how-to-obtain-an-instagram-verification-status/"><u>Boost Your Brand with a Trust Signal: How to Obtain an Instagram Verification Status</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/browsing-made-memorable-the-leading-screen-recorder-software/"><u>Browsing Made Memorable The Leading Screen Recorder Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-guide-automate-your-tweets-with-smart-scheduling-techniques/"><u>Easy Guide: Automate Your Tweets with Smart Scheduling Techniques</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209956370-9781989838105-guided-meditations-for-anxiety-depression-and-self-healing/"><u>Guided Meditations for Anxiety, Depression, and Self-Healing | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-properly-wipe-down-a-tv-remote-a-comprehensive-guide/"><u>How to Properly Wipe Down a TV Remote - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-building-a-stronger-presence-with-effective-youtube-pairings/"><u>In 2024, Building a Stronger Presence with Effective YouTube Pairings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/meta-quest-3-unveiled-comprehensive-insights-on-news-pricing-release-date-and-technical-specifications/"><u>Meta Quest 3 Unveiled - Comprehensive Insights on News, Pricing, Release Date and Technical Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protect-your-gmail-account-with-easy-steps-to-turn-on-two-step-verification/"><u>Protect Your Gmail Account with Easy Steps to Turn On Two-Step Verification</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207832660-tackling-windows-troubles-heres-how-you-can-resolve-error-0x8024402c-on-your-pc/"><u>Tackling Windows Troubles? Here's How You Can Resolve Error 0X8024402C on Your PC!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900906141-troubleshooting-quiet-moments-resolve-iphones-no-ringtone-issue-easily/"><u>Troubleshooting Quiet Moments: Resolve iPhone's No-Ringtone Issue Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-boosting-your-laptop-speed-in-7-easy-steps/"><u>Ultimate Guide: Boosting Your Laptop Speed in 7 Easy Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-immersive-soundscapes-with-dts-virtualx-technology/"><u>Unlocking Immersive Soundscapes with DTS Virtual:X Technology</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210807602-9781957869131-women-and-psychedelics/"><u>Women and Psychedelics | Free Book</u></a></li>
 </ul></div>
 

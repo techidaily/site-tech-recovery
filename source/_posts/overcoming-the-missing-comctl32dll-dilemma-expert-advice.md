@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Missing Comctl32.dll Dilemma - Expert Advice
-date: 2024-09-04T02:50:40.857Z
-updated: 2024-09-05T02:50:40.857Z
+date: 2024-11-11T05:20:46.243Z
+updated: 2024-11-16T04:20:57.695Z
 categories:
   - BestProducts
 description: This Article Describes Overcoming the Missing Comctl32.dll Dilemma - Expert Advice
@@ -27,54 +27,52 @@ thumbnail: https://www.lifewire.com/thmb/kht6E6LI-ZvRc-gHv0_lznDHQFA=/400x300/fi
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Apple, Inc / USPTO
 
  It's not hard to imagine that this device could be a next-generation AirPods product. It also brings to mind wearable computers like the[Humane AI pin](https://www.theverge.com/24126502/humane-ai-pin-review) . While that particular product hasn't succeeded, the concept of a wearable device with a next-generation interface could likely crop up more in the coming years.
@@ -84,12 +82,6 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -98,18 +90,6 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
@@ -126,14 +106,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +119,17 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-creating-a-professional-periscope-presence/"><u>[New] Creating a Professional Periscope Presence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-how-domestic-wireless-roaming-comes-to-life-with-t-mobiles-unique-approach/"><u>Exploring How Domestic Wireless Roaming Comes to Life with T-Mobile's Unique Approach</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975997180-get-your-insignia-usb-to-vga-adapter-running-with-ease/"><u>Get Your Insignia USB to VGA Adapter Running with Ease</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-asus-rog-phone-7-ultimate-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Asus ROG Phone 7 Ultimate to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-tutorial-on-replacing-your-ipad-battery-safely-and-effectively/"><u>In-Depth Tutorial on Replacing Your iPad Battery Safely and Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-hdcp-errors-with-ease-an-in-depth-look-at-troubleshooting-and-solutions/"><u>Navigating HDCP Errors with Ease: An In-Depth Look at Troubleshooting & Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-guide-iosipad-podcast-recording-tips-for-engaging-interviews-for-2024/"><u>Perfect Guide IOS/iPad Podcast Recording Tips for Engaging Interviews for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-gadget-insights-with-toms-hardware-hub/"><u>Pioneering Gadget Insights with Tom's Hardware Hub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-viewing-all-harry-potter-films-sequentially/"><u>Step-by-Step Guide: Viewing All Harry Potter Films Sequentially</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-electric-driveways-a-comprehensive-guide-to-bevs-phevs-and-fcevs/"><u>Understanding Electric Driveways: A Comprehensive Guide to BEVs, PHEVs & FCEVs</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Permanent Closure of Yahoo! Mail Accounts: A Comprehensive Tutorial"
-date: 2024-09-04T02:54:14.709Z
-updated: 2024-09-05T02:54:14.709Z
+date: 2024-11-13T21:17:04.971Z
+updated: 2024-11-16T00:20:11.958Z
 categories:
   - BestProducts
 description: "This Article Describes Permanent Closure of Yahoo! Mail Accounts: A Comprehensive Tutorial"
@@ -31,11 +31,12 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Google Pixel 9 Price Rumors
 
  We haven't seen any rumors or leaks about what the Pixel 9 will cost. For now, we'll assume pricing will match that of the Pixel 8 lineup. However, with the addition of an XL model, we're really only able to take a guess.
@@ -54,11 +55,12 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -68,22 +70,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Display
 
  Interestingly, the Pixel 9's screen might be a little smaller than the one on the Pixel 8\. It's not a huge change—6.03 inches versus 6.1 inches—but it does seem a bit weird when you think about it. One might assume an upgraded phone means it'll be bigger (or at least stay the same size), but not get_smaller_ .
@@ -111,29 +101,24 @@ MySmartPrice
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Other Specs
 
  Another big change we might see with the Pixel 9 is a new fingerprint sensor. Google's past phones have used an optical fingerprint sensor, but an unnamed source informed_Android Authority_ that[this year's phones could come with an ultrasonic reader](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/) . This is the same technology used in the Samsung Galaxy S24 and other smartphones. Instead of imaging the finger with light, it takes a 3D map using sound waves, which is supposed to make it faster and more secure.
@@ -141,6 +126,13 @@ MySmartPrice
  The Pixel 9 Pro might come with more RAM this year. An unnamed source with access to a purported Pixel 9 Pro (via[Rozetked](https://rozetked.me/news/33143-eksklyuziv-zhivye-foto-google-pixel-9-pro-ot-rozetked) ) claims the phone will have an additional 4 GB of RAM compared to last year's device, shooting it up to 16 GB of total memory.
 
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
 
@@ -150,14 +142,11 @@ MySmartPrice
 
 [Surprise: Google's Find My May Be More Private Than Apple's](https://www.lifewire.com/google-find-my-device-better-than-apple-8629920)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +155,26 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-first-choice-top-15-videography-power-tools/"><u>[New] First Choice Top 15 Videography Power Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-the-potential-in-depth-skype-call-recordings-for-2024/"><u>[New] Unlocking the Potential In-Depth Skype Call Recordings for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-discovering-best-phone-based-asmr-experiences/"><u>[Updated] In 2024, Discovering Best Phone-Based ASMR Experiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-securing-your-audio-library-the-top-5-steps-for-internet-radio-storage/"><u>[Updated] Securing Your Audio Library The Top 5 Steps for Internet Radio Storage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benzalkonium-chloride-commonly-found-in-hand-sanitizers-its-a-quaternary-ammonium-compound-effective-against-bacteria-and-some-viruses-however-its-effective32/"><u>Benzalkonium Chloride - Commonly Found in Hand Sanitizers, It's a Quaternary Ammonium Compound Effective Against Bacteria and some Viruses. However, Its Effectiveness Can Be Reduced by Organic Matter Like Blood or Dirt.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-viewing-all-james-bond-films-sequentially/"><u>Complete Guide: Viewing All James Bond Films Sequentially</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-icloud-email-account-defenses-implementing-multi-stage-verification/"><u>Enhancing iCloud Email Account Defenses - Implementing Multi-Stage Verification</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-watchlist-trending-movies-featuring-on-disneys-platform/"><u>Essential Watchlist: Trending Movies Featuring on Disney's Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/excel-mastery-effective-techniques-for-combining-columns/"><u>Excel Mastery: Effective Techniques for Combining Columns</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-navigating-and-controlling-roku-without-a-traditional-remote/"><u>Guide to Navigating and Controlling Roku without a Traditional Remote</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inexpensive-essentials-for-creating-your-dream-home-theater/"><u>Inexpensive Essentials for Creating Your Dream Home Theater</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-iphone-email-apps-reviewed-our-selections/"><u>Leading iPhone Email Apps Reviewed: Our Selections</u></a></li>
+<li><a href="https://driver-download.techidaily.com/need-brother-hl-l2360dw-drivers-download-the-most-recent-version-here/"><u>Need Brother HL-L2360DW Drivers? Download the Most Recent Version Here</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/schnell-handreichung-fur-die-behebung-von-partitionstabelfehlern-professionelle-tipps-and-losungen/"><u>Schnell-Handreichung Für Die Behebung Von Partitionstabelfehlern - Professionelle Tipps & Lösungen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-13-complimentary-pdf-editing-tools-you-can-start-using-in-july-2024/"><u>Top 13 Complimentary PDF Editing Tools You Can Start Using in July 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-recover-lost-helperdll-components/"><u>Troubleshooting Guide: How to Recover Lost Helper.dll Components</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-10-best-apps-for-real-time-soccer-and-match-broadcasting/"><u>Ultimate 10 Best Apps for Real-Time Soccer and Match Broadcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/utorrent-media-player-seamless-streaming-for-2024/"><u>UTorrent Media Player Seamless Streaming for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/wiping-your-discord-servers-from-pc-and-android-devices-for-2024/"><u>Wiping Your Discord Servers From PC and Android Devices for 2024</u></a></li>
+</ul></div>
 

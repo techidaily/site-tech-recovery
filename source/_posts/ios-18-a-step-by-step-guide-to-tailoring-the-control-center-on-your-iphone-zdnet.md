@@ -1,7 +1,7 @@
 ---
 title: "IOS 18: A Step-by-Step Guide to Tailoring the Control Center on Your iPhone - ZDNet"
-date: 2024-10-30T08:28:01.882Z
-updated: 2024-10-31T08:16:13.445Z
+date: 2024-11-10T16:07:09.102Z
+updated: 2024-11-15T20:43:01.541Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,6 +42,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,25 +58,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -78,10 +71,16 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -91,6 +90,13 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -134,18 +140,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-90-funniest-2-minute-tiktoks-ever/"><u>[New] 2024 Approved 90 Funniest 2-Minute TikToks Ever</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721963967805-discover-chatgpts-latest-upgrades-top-new-features-unveiled/"><u>Discover ChatGPT's Latest Upgrades: Top New Features Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-a-green-or-blue-screen-of-death-easy-to-follow-steps-and-tricks-to-rescue-your-tv-display/"><u>Fix a Green or Blue Screen of Death: Easy-to-Follow Steps and Tricks to Rescue Your TV Display</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-huawei-nova-y71-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Huawei Nova Y71 Devices | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-itel-s23-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Itel S23 to iPod | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/libcurldll-unavailable-fix-the-missing-dynamic-link-library-now/"><u>libcurl.dll Unavailable? Fix the Missing Dynamic Link Library Now</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/premier-ups-battery-systems-top-contenders-of-the-year-202/"><u>Premier UPS Battery Systems: Top Contenders of the Year 202</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamlessly-stream-disneyplus-content-with-chromecast-what-you-need-to-know/"><u>Seamlessly Stream Disney+ Content with Chromecast - What You Need to Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/securing-your-connection-overcoming-the-not-secured-message-online/"><u>Securing Your Connection: Overcoming the 'Not Secured' Message Online</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-zte-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from ZTE</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-artist-writes-an-ipad-guide-to-time-lapse-photography-for-2024/"><u>The Artist' Writes An iPad Guide to Time-Lapse Photography for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/uncovering-the-invisible-how-to-inspect-facebooks-data-trails-for-2024/"><u>Uncovering the Invisible How to Inspect Facebook's Data Trails for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>Updated How To Get More NFL Viewers For Your Sports Live Streaming Channel for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check/"><u>[New] In 2024, How to Preview Off-Facebook Activities and Should I Leave It On? Check</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-ten-frame-enhancers-for-visual-artistry-for-2024/"><u>[New] Top Ten Frame Enhancers for Visual Artistry for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-bridging-platforms-loop-ready-setups-for-youtube-and-tv/"><u>2024 Approved Bridging Platforms Loop-Ready Setups for YouTube and TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-archivos-amv-a-formatos-multiples-sin-costo-con-movavi-online-ultima-oferta-gratuita/"><u>Convertir Archivos AMV a Formatos Múltiples Sin Costo Con Movavi Online - Última Oferta Gratuita</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-no-cost-techniques-for-converting-avi-videos-into-high-quality-mp3-files/"><u>Discover No-Cost Techniques for Converting AVI Videos Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-transformation-change-audio-units-to-mp4-using-the-movavi-tool/"><u>Free Online Transformation: Change Audio Units to MP4 Using the Movavi Tool</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-gionee-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Gionee Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-ts-to-mp3/"><u>Movavi提供: 完全無償Ts to MP3ビデオコンバーターサービス</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movaviaiffape/"><u>Movaviの手軽なAIFFからAPEへの変換サービス - オンライン無料</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/must-have-3d-model-systems-in-animation-for-2024/"><u>Must-Have 3D Model Systems in Animation for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/os-melhores-11-conversores-de-filmes-mov-gratuitos-para-macs-e-pcs-solucoes-online/"><u>Os Melhores 11 Conversores De Filmes MOV Gratuitos Para Macs E PCs - Soluções Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/stills-extraction-procedure-windows-11-photos-guide-for-2024/"><u>Stills Extraction Procedure Windows 11 Photos Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-productivity-best-apps-to-turn-your-pcs-clock-into-an-animated-screensaver/"><u>Streamline Productivity: Best Apps to Turn Your PC’s Clock Into an Animated Screensaver</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-fixing-nvidia-geforce-overlay-issues/"><u>Troubleshooting Steps: Fixing NVIDIA GeForce Overlay Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/verspraeckeen-van-aiff-naar-mp3-online-kostenloos-movavi/"><u>Verspraeckeen Van AIFF Naar MP3 Online Kostenloos - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/vykreslovani-pocinkovky-jak-sestavit-zarizeni-pro-rozdelavani-obluzikov/"><u>Výkreslování Počinkovky: Jak Sestavit Zařízení Pro Rozdělávání Oblužíkov</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-webm-swf/"><u>스타일리시한 웹 아키운드를 위해 Movavi의 WEBM 툴픽에서 SWF 파일을 쉽게, 무료로 전환하는 방법</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mpeg-swfmovavi/"><u>オンラインで無料MPEG変換: SWFファイルをMovavi風に移行する方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wma-wma/"><u>スピーディな変換！WMAファイルを無料でオンラインで簡単に入手 - WMAオンラインコンバーター</u></a></li>
 </ul></div>
 

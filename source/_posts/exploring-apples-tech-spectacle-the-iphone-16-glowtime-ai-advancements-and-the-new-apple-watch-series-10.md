@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Tech Spectacle: The iPhone 16 'Glowtime', AI Advancements, and the New Apple Watch Series 10"
-date: 2024-11-02T22:09:14.019Z
-updated: 2024-11-05T16:20:14.479Z
+date: 2024-11-12T05:35:02.481Z
+updated: 2024-11-15T19:50:57.289Z
 tags:
   - apple
 categories:
@@ -61,16 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -94,16 +88,16 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -131,10 +125,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -152,10 +146,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -204,16 +198,19 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/1716183822170-new-2024-approved-how-to-get-more-instagram-video-views/"><u>[New] 2024 Approved How to Get More Instagram Video Views?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expert-recommendations-top-15-no-cost-audiosite-collections/"><u>[Updated] In 2024, Expert Recommendations Top 15 No-Cost Audiosite Collections</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-must-haves-best-android-picture-adjusters/"><u>[Updated] Must-Haves Best Android Picture Adjusters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ace-the-art-of-tweaking-captions-and-tags-in-instagram/"><u>Ace the Art of Tweaking Captions & Tags in Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-efficiently-using-the-telnet-client-on-windows-systems/"><u>Essential Tips for Efficiently Using the Telnet Client on Windows Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-effortlessly-with-these-5-superior-iphone-gps-apps/"><u>Explore Effortlessly with These 5 Superior iPhone GPS Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-viewing-live-coverage-of-the-2erth-summer-olympics/"><u>Guide to Viewing Live Coverage of the 2Erth Summer Olympics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-getting-to-know-the-premium-p2715q-a-high-definition-marvel/"><u>In 2024, Getting to Know the Premium P2715Q A High-Definition Marvel</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/online-video-promotion-experts-for-2024/"><u>Online Video Promotion Experts for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-inserting-dynamic-gpt-mentions-for-a-customized-chatgpt-interaction/"><u>The Ultimate Guide to Inserting Dynamic GPT Mentions for a Customized ChatGPT Interaction</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-for-lgbtqplus-content-streaming-on-netflix-in-july-2024/"><u>Top Picks for LGBTQ+ Content Streaming on Netflix in July 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-comprehensive-introduction-to-streamlabs-obs-for-2024/"><u>[Updated] A Comprehensive Introduction to Streamlabs OBS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-green-blueprint-planning-for-a-resilient-urban-future-for-2024/"><u>[Updated] Green Blueprint Planning for a Resilient Urban Future for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unleashing-screen-content-with-zdsofts-magic/"><u>[Updated] In 2024, Unleashing Screen Content with ZDSoft's Magic</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-professional-mix-techniques-for-crossfading-sounds-with-audacity/"><u>[Updated] Professional Mix Techniques for Crossfading Sounds with Audacity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722885403861-best-educational-apps-for-students-in-high-school-the-ultimate-list/"><u>Best Educational Apps for Students in High School - The Ultimate List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-removing-microsofts-copilot-from-your-windows-11-pc/"><u>Complete Guide: Removing Microsoft's Copilot From Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/copying-and-pasting-source-code-into-word-made-simple/"><u>Copying and Pasting Source Code Into Word Made Simple</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elite-iphone-and-android-edits-to-improve-gopro-content-for-2024/"><u>Elite iPhone & Android Edits to Improve GoPro Content for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/follow-the-buzz-best-twitter-tools-for-monitoring-popular-hashtags/"><u>Follow the Buzz: Best Twitter Tools for Monitoring Popular Hashtags</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-narzo-n53-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Narzo N53</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-new-skills-with-ease-unveiling-the-best-learning-apps-of-2024/"><u>Mastering New Skills with Ease: Unveiling the Best Learning Apps of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-zoom-camera-troubleshooting-challenges-effectively/"><u>Overcoming Zoom Camera Troubleshooting Challenges Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/synchronizing-multi-bluetooth-speakers-with-a-single-source-a-comprehensive-guide/"><u>Synchronizing Multi-Bluetooth Speakers with a Single Source: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-apple-iphone-12-is-leading-as-this-years-ultimate-smartphone-selection/"><u>Why the Apple iPhone 12 Is Leading as This Year’s Ultimate Smartphone Selection</u></a></li>
 </ul></div>
 

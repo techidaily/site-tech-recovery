@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2024-11-02T16:45:14.666Z
-updated: 2024-11-05T19:17:50.438Z
+date: 2024-11-14T22:21:04.235Z
+updated: 2024-11-16T00:03:44.972Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,22 +134,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-affordable-easy-to-use-video-capture-tools-for-windows/"><u>[New] In 2024, Affordable, Easy-to-Use Video Capture Tools for Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ancient-warriors-new-battlegrounds-top-games-like-the-japanese-epic/"><u>[Updated] Ancient Warriors, New Battlegrounds Top Games Like the Japanese Epic</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ultra-30-camera-detailed-review-of-the-garmin-virb/"><u>[Updated] Ultra 30 Camera Detailed Review of the Garmin VIRB</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-full-potential-of-zoom-with-youtube-live/"><u>[Updated] Unlocking the Full Potential of Zoom with YouTube Live</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-recording-equipment-for-creating-youtube-masterpieces-for-2024/"><u>Best Recording Equipment For Creating YouTube Masterpieces for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-these-10-free-online-movie-platforms-instead-of-netflix/"><u>Discover These 10 Free Online Movie Platforms Instead of Netflix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effectively-reducing-svchostexes-impact-on-your-system-speed-in-windows-11/"><u>Effectively Reducing svchost.exe's Impact on Your System Speed in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elite-collection-of-mobile-gaming-apps-you-cant-miss/"><u>Elite Collection of Mobile Gaming Apps You Can't Miss</u></a></li>
-<li><a href="https://win-blog.techidaily.com/filtro-gratuitos-e-conversion-de-formatos-em-video-transforme-o-ogv-em-ogg-com-a-ferramenta-on-line-do-movavi/"><u>Filtro Gratuitos E Conversion De Formatos Em Video: Transforme O OGV Em OGG Com a Ferramenta On-Line Do Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-lg-channels-vital-knowledge-for-successful-navigation/"><u>Mastering LG Channels: Vital Knowledge for Successful Navigation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quintessential-sports-cinematography-the-ultimate-list-of-great-flicks-to-stream-today/"><u>Quintessential Sports Cinematography: The Ultimate List of Great Flicks to Stream Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-controller-update-via-wireless-tech/"><u>Seamless Controller Update via Wireless Tech</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-missing-helperdll-error-a-step-by-step-guide/"><u>Solving the 'Missing Helper.dll' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/star-trek-saga-the-ultimate-guide-to-viewing-episodes-sequentially/"><u>Star Trek Saga: The Ultimate Guide to Viewing Episodes Sequentially</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-tracking-mobile-and-wifi-data-use/"><u>The Ultimate Tutorial on Tracking Mobile and WiFi Data Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-resolving-the-504-gateway-timeout-issue/"><u>Troubleshooting Steps: Resolving the 504 Gateway Timeout Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watching-the-conjuring-films-a-step-by-step-ordered-list/"><u>Watching The Conjuring Films: A Step-By-Step Ordered List</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-navigating-copyright-laws-for-instagram-music-postings/"><u>[New] 2024 Approved Navigating Copyright Laws for Instagram Music Postings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-iphone-screen-capture-with-simplicity/"><u>[Updated] Mastering iPhone Screen Capture with Simplicity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-meme-madness-the-iphone-edition/"><u>2024 Approved Meme Madness The iPhone Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-anker-maggo-wireless-charger-evaluation-unveiling-persistent-flaws-and-benefits/"><u>Comprehensive Anker MagGo Wireless Charger Evaluation: Unveiling Persistent Flaws and Benefits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903551265-comprehensive-guide-amazons-prime-day-2024-unveiled/"><u>Comprehensive Guide: Amazon's Prime Day 2024 Unveiled!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-fixing-missing-mfc42ddll-files-on-your-windows-pc/"><u>Expert Strategies for Fixing Missing mfc42d.dll Files on Your Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-comprehensive-worldwide-idp-report-by-abbyy-insights-and-findings/"><u>Exploring the Comprehensive Worldwide IDP Report by ABBYY: Insights and Findings</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-13t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi 13T Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-phantom-v-flip-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Phantom V Flip by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-meta-store-how-to-add-new-titles-to-your-oculus-quest-2-library/"><u>Navigating the Meta Store: How to Add New Titles to Your Oculus Quest 2 Library</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-the-missing-comctl32dll-dilemma-expert-advice/"><u>Overcoming the Missing Comctl32.dll Dilemma - Expert Advice</u></a></li>
+<li><a href="https://win-data.techidaily.com/regreso-a-los-datos-perdidos-en-tu-memoria-usb-sin-necesidad-de-programas-especiales-tutorial-completo-y-gratuito/"><u>Regreso a Los Datos Perdidos en Tu Memoria USB Sin Necesidad De Programas Especiales: Tutorial Completo Y Gratuito</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-msxml4dll-file-not-detected-a-step-by-step-guide/"><u>Resolving Msxml4.dll File Not Detected: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/seamless-iphone-help-with-apples-official-support-app-how-to-use-it-effectively/"><u>Seamless iPhone Help with Apple's Official Support App – How To Use It Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-how-to-address-and-repair-d3dx928dll-errors-on-your-computer/"><u>Step-by-Step Solution: How to Address and Repair 'd3dx9_28.dll' Errors on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-list-and-analysis-of-every-mac-os-update-ever-released/"><u>The Definitive List and Analysis of Every Mac OS Update Ever Released</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-whea-uncorrectable-error-on-your-computer-system/"><u>Troubleshooting the WHEA Uncorrectable Error on Your Computer System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/verizon-5g-unveiled-a-glimpse-at-the-telecommunications-revolution/"><u>Verizon 5G Unveiled: A Glimpse at the Telecommunications Revolution</u></a></li>
 </ul></div>
 

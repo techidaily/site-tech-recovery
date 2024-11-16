@@ -1,7 +1,7 @@
 ---
 title: Reconnect with Facebook Without an Email or Mobile Number – Easy Recovery Techniques Inside!
-date: 2024-09-04T02:50:27.151Z
-updated: 2024-09-05T02:50:27.151Z
+date: 2024-11-10T08:21:54.225Z
+updated: 2024-11-15T19:59:25.606Z
 categories:
   - BestProducts
 description: This Article Describes Reconnect with Facebook Without an Email or Mobile Number – Easy Recovery Techniques Inside!
@@ -21,6 +21,13 @@ Close
 
  This article explains what to do if you forget the password to your Facebook account. The instructions apply to desktop and mobile users.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Reset a Facebook Password on a Desktop 
 
  If you're logged out of Facebook and forgot your password, you can reset it in a few steps (most of the time). Here are your options:
@@ -29,10 +36,32 @@ Close
  If you see your profile, select it to log in automatically. You do not need to know or have access to your phone or email to do this.  
 ![The Recent Logins box on the Facebook website](https://www.lifewire.com/thmb/jKziL6y4zSeALDb9KEzGfAOgXuU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-recent-logins-bb0d9b3fce79486d9f04545eef100a27.png)  
  This only works if you checked the box to save your password the last time you logged in.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. If you're on a new device or Facebook doesn't remember your last login, select**Forgot password?** to open the Find Your Account page.
 3. Enter your name or the username associated with your account, then select**Search** .  
 ![Facebook's Find Your Account form with a box for entering your email or number](https://www.lifewire.com/thmb/kGjzRgz-FazMeBBiiHKJNDwpFH4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-find-your-account-31d395421c4240c7b4b8a7e8268e0957.png)  
  If you_do_ have access to your email account, enter it here. Then, select**Try another way** to see the option to reset your FB password with a code sent to your email account.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Facebook will show you matching search results. Select**This Is My Account** if you see your profile picture.  
 ![A list of Facebook profiles with This Is My Account buttons](https://www.lifewire.com/thmb/zYXu2H-Jyf-SWvyWAY_JirbjyHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-reset-your-password-217cc36f47654a799cbb1c976edaa959.png)  
  Don't see it? Select**I am not in this list** and then enter the name of a Facebook friend to help locate your account.
@@ -41,12 +70,6 @@ Close
  If you found your account but no longer have access to the phone number or email that's tied to your account, Facebook can't verify your identity.
 6. If you found your account and selected a method for receiving your reset code, enter the security code you received and select**Continue** to follow the remaining on-screen steps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Reset Facebook Password From the Facebook App 
 
  If you use Facebook on an iOS or Android device, here's how to recover your account:
@@ -56,12 +79,14 @@ Close
 3. Facebook will display part of the email or number associated with your account. If it looks right, select that reset option followed by**Continue** .  
 ![Facebook's Find Your Account form in the mobile app](https://www.lifewire.com/thmb/2qk50gzzgHMN8Zfn-eihVpmX0nk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-app-password-recovery-75f907d2c1c94a638e820bafac5173fe.png)
 4. Enter the code that was texted or emailed to you, then tap**Continue** .
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. When asked, create a new Facebook password, then tap**Continue** again to log in.
 
 [  What to Do When Facebook Isn't Sending Security Codes ](https://www.lifewire.com/fix-facebook-security-codes-5649770) 
@@ -97,8 +122,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +129,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screenprime-pro-for-advanced-users/"><u>[Updated] 2024 Approved ScreenPrime Pro for Advanced Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-gamers-eden-record-without-paying-in-24-for-2024/"><u>[Updated] Gamers' Eden Record Without Paying in '24 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-discovering-the-apple-m3-macbook-air-top-3-impressive-upgrades-highlighted-in-our-hands-on-review-insights-from-zdnet/"><u>1. Discovering the Apple M3 MacBook Air: Top 3 Impressive Upgrades Highlighted in Our Hands-On Review - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/st-desktop-and-online-gif-tools-ranked/"><u>10 Best Desktop & Online GIF Tools Ranked</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speak-out-leverage-ai-gratis/"><u>2024 Approved Speak Out, Leverage AI Gratis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-trailblazers-in-vr-eyewear-design/"><u>2024 Approved Trailblazers in VR Eyewear Design</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/an-in-depth-look-at-what-bing-really-is-and-how-it-works/"><u>An In-Depth Look at What Bing Really Is and How It Works</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-right-voice-ai-alexa-vs-google-assistant/"><u>Choosing the Right Voice AI: Alexa Vs. Google Assistant</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-on-watching-spider-man-no-way-home-online/"><u>Complete Guide on Watching 'Spider-Man: No Way Home' Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-to-fixing-undetected-external-display-by-a-mac-computer/"><u>DIY Guide to Fixing Undetected External Display by a Mac Computer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/effortless-mpeg-creation-from-youtube-content/"><u>Effortless MPEG Creation From YouTube Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-speeds-for-optimal-performance-a-guide-to-your-pcs-true-potential/"><u>Essential Speeds for Optimal Performance: A Guide to Your PC's True Potential</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722895973745-how-long-before-a-mailcom-email-address-gets-deleted-find-out-now/"><u>How Long Before a mail.com Email Address Gets Deleted – Find Out Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-cache-removal-on-your-android-phone-or-tablet/"><u>Mastering the Art of Cache Removal on Your Android Phone or Tablet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplify-your-remote-meetings-integrating-skype-and-zoom-for-2024/"><u>Simplify Your Remote Meetings Integrating Skype and Zoom for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-smartwatch-functions-and-features/"><u>The Ultimate Guide to Smartwatch Functions & Features</u></a></li>
+</ul></div>
 

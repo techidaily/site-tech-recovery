@@ -1,7 +1,7 @@
 ---
 title: Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet
-date: 2024-10-29T21:30:02.607Z
-updated: 2024-11-05T23:42:43.378Z
+date: 2024-11-10T05:38:50.180Z
+updated: 2024-11-16T00:57:04.882Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,16 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -89,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -137,19 +131,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[New] Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fundamental-concepts-of-cyber-narratives/"><u>[New] Fundamental Concepts of Cyber Narratives</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-video-sequencing-synergy-mastering-blend-modes-for-2024/"><u>[Updated] Video Sequencing Synergy Mastering Blend Modes for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-internet-laughter-fabricator/"><u>2024 Approved Internet Laughter Fabricator</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-tricks-for-fixing-petey-eyes-after-snapping-a-shot/"><u>DIY Tricks for Fixing Petey Eyes After Snapping a Shot</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-guide-resolving-performance-lags-on-windows-11-systems/"><u>Essential Guide: Resolving Performance Lags on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-methods-integrating-coding-examples-into-microsoft-word-documents/"><u>Expert Methods: Integrating Coding Examples Into Microsoft Word Documents</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/how-to-retrieve-missing-desktop-icons-in-windows-7-a-step-by-step-guide/"><u>How to Retrieve Missing Desktop Icons in Windows 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-fix-a-malfunctioning-router-or-access-point-a-10-step-process/"><u>How to Successfully Fix a Malfunctioning Router or Access Point – A 10 Step Process</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-of-green-screen-technology-in-kinemaster/"><u>In 2024, In-Depth Analysis of Green Screen Technology in Kinemaster</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-heat-equation-for-transient-analysis-in-one-dimension-is-tt-a-tx/"><u>The Heat Equation for Transient Analysis in One Dimension Is ∂T/∂t = Α ∂²T/∂x².</u></a></li>
-<li><a href="https://fox-links.techidaily.com/time-efficient-a-comprehensive-guide-to-srt-to-txt-switching/"><u>Time Efficient A Comprehensive Guide to SRT to TXT Switching</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-methods-para-comprimir-un-archivo-de-video-en-formato-mov-y-reduciendo-su-dimension/"><u>Top Methods Para Comprimir Un Archivo De Video en Formato MOV Y Reduciendo Su Dimensión</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-pc-performance-the-impact-of-memory-speeds-and-latency/"><u>Understanding PC Performance: The Impact of Memory Speeds & Latency</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-image-purification-avoiding-obscuring-elements/"><u>[New] Navigating Image Purification Avoiding Obscuring Elements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-full-potential-of-zoom-on-chromeos/"><u>[New] Unlocking the Full Potential of Zoom on ChromeOS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-choosing-the-right-display-tvs-vs-projectors-in-a-4k-era/"><u>[Updated] In 2024, Choosing the Right Display TVs vs Projectors in a 4K Era</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-meanings-behind-your-ps4-controllers-light-signals-blue-white-red-and-orange/"><u>Deciphering the Meanings Behind Your PS4 Controller's Light Signals: Blue, White, Red & Orange</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-insiders-guide-overcome-iphone-video-dullness-using-4-adobe-solutions/"><u>In 2024, [Insider's Guide] Overcome iPhone Video Dullness Using 4 Adobe Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-huawei-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Huawei FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-communication-top-free-online-tools-for-learning-sign-language-uncover-16-picks/"><u>Master the Art of Communication: Top Free Online Tools for Learning Sign Language – Uncover 16 Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/meta-quest-2-lite-the-next-generation-of-vr-predicted-price-points-and-launch-window-uncovered/"><u>Meta Quest 2 Lite: The Next Generation of VR - Predicted Price Points and Launch Window Uncovered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-zlibdll-error-a-comprehensive-guide/"><u>Resolving 'Zlib.dll' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/siri-not-functional-resolve-these-7-issues-for-a-seamless-ios-experience/"><u>Siri Not Functional? Resolve These 7 Issues for a Seamless iOS Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/stabilizing-pixels-the-truth-behind-photoshop-shake-for-2024/"><u>Stabilizing Pixels The Truth Behind Photoshop Shake for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-reattaching-a-detached-key-from-your-laptops-keyboard/"><u>Step-by-Step Guide: Reattaching a Detached Key From Your Laptop's Keyboard</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/testing-the-waters-a-thorough-review-of-the-data-lifeguard-by-western-digital/"><u>Testing the Waters: A Thorough Review of the Data Lifeguard by Western Digital</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-sharing-complete-photos-on-instagram-platforms/"><u>The Ultimate Tutorial for Sharing Complete Photos on Instagram Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-assemble-or-to-snap-up-choosing-between-custom-and-prebuilt-computers-for-optimal-performance/"><u>To Assemble or to Snap-Up? Choosing Between Custom and Prebuilt Computers for Optimal Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-true-distinctions-between-macs-and-pcs/"><u>Unveiling the True Distinctions Between Macs and PCs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-how-to-color-match-different-video-clips-in-powerdirector/"><u>Updated In 2024, How to Color Match Different Video Clips in PowerDirector?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-bing-inside-microsofts-internet-search-service/"><u>What Is Bing? Inside Microsoft’s Internet Search Service</u></a></li>
 </ul></div>
 

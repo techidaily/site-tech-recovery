@@ -1,7 +1,7 @@
 ---
 title: "Upgrading to iPhone 16: Pros & Cons According to Expert Reviewers at ZDNet"
-date: 2024-10-27T08:05:11.539Z
-updated: 2024-10-31T04:08:04.670Z
+date: 2024-11-14T22:05:53.033Z
+updated: 2024-11-16T00:28:48.970Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -52,6 +52,13 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -91,13 +98,6 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. The Apple Intelligence features aren't perfect
 
 Apple's biggest flexes over the last few months have been their Apple Intelligence and AI features, [which the iPhone 16 is the guinea pig for](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). While some of these new AI features are undeniably cool, like the new Camera Control, enhanced Siri features, and more, the features are still limited to the iPhone 15 Pro and above and rolling out only in beta over the next few weeks. 
@@ -108,6 +108,13 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -116,13 +123,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
@@ -130,10 +130,10 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -176,17 +176,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-vdq-quickscreen-recorder-report-in-depth-analysis/"><u>[Updated] 2024 Approved VDQ QuickScreen Recorder Report In-Depth Analysis</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-epson-wf-2940-printer-driver-compatible-with-windows-7-10-and-81/"><u>Download Epson WF-2940 Printer Driver Compatible with Windows 7, 10 & 8.1</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-gt-neo-5-se-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme GT Neo 5 SE Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-use-the-meta-quest-microphone/"><u>How to Use the Meta Quest Microphone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-shoppers-ultimate-list-of-top-rated-webcams/"><u>In 2024, Shopper’s Ultimate List of Top-Rated Webcams</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lifewire-curated-list-of-essential-movies-to-stream-today/"><u>Lifewire Curated List of Essential Movies to Stream Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-monitor-heat-on-your-macbook-device/"><u>Step-by-Step Guide to Monitor Heat on Your MacBook Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-4-essential-mobile-apps-for-efficient-home-painting-projects/"><u>Top 4 Essential Mobile Apps for Efficient Home Painting Projects</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-power-solutions-ultimate-camping-gear-reviews-by-industry-experts-insights-from-zdnet/"><u>Top-Rated Portable Power Solutions: Ultimate Camping Gear Reviews by Industry Experts - Insights From ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/troubleshoot-lack-of-sound-in-bandicam-recordings-with-these-4-methods/"><u>Troubleshoot Lack of Sound in Bandicam Recordings with These 4 Methods</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-notorious-bsod-for-usb-drivers-in-windows-11-solutions-unveiled/"><u>Troubleshooting the Notorious BSOD for USB Drivers in Windows 11 – Solutions Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/updating-microsoft-powerpoint-a-quick-guide/"><u>Updating Microsoft PowerPoint - A Quick Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-secrets-unveiled-the-ultimate-strategies-for-saving-disco-livestreams/"><u>[New] Secrets Unveiled The Ultimate Strategies for Saving Disco Livestreams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ideal-video-editing-software-enhance-your-webcam-content/"><u>[Updated] In 2024, Ideal Video Editing Software Enhance Your Webcam Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/compatibility-insight-can-ps4-games-be-used-with-the-next-gen-ps5/"><u>Compatibility Insight: Can PS4 Games Be Used With The Next-Gen PS5?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-wmd-file-format-to-avi-using-movavis-free-tool-for-australian-users/"><u>Convert WMD File Format to AVI Using Movavi's Free Tool for Australian Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/enhancing-user-experience-with-responsive-html-designs/"><u>Enhancing User Experience with Responsive HTML Designs</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-deadly-c0000022-breakdown-in-windows-10/"><u>Fixing the Deadly C0000022 Breakdown in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-mp3-and-wmv-formats-by-movavi/"><u>Free Online Converter - MP3 & WMV Formats by Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-reno-8t-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo Reno 8T 5G Phone Screen?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a15-4g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A15 4G Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-video-edits-with-mpeg-stream-editor-mpte-a-comprehensive-guide-on-merging-cutting-and-splitting-vob-files-expert-tips-from-movavi/"><u>Mastering Video Edits with MPEG Stream Editor (MPTE): A Comprehensive Guide on Merging, Cutting and Splitting VOB Files - Expert Tips From Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mpeg-to-swf-transformation-download-our-no-cost-online-service-by-movavi/"><u>MPEG to SWF Transformation: Download Our No-Cost Online Service by Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-watching-every-star-trek-film-sequentially/"><u>The Ultimate Guide: Watching Every Star Trek Film Sequentially</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-latest-payment-regulations-for-2024/"><u>YouTube's Latest Payment Regulations for 2024</u></a></li>
 </ul></div>
 

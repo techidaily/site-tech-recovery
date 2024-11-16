@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2024-11-03T23:57:39.734Z
-updated: 2024-11-05T21:34:31.450Z
+date: 2024-11-12T03:57:46.640Z
+updated: 2024-11-15T20:11:48.871Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,16 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +133,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,22 +187,21 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-tips-on-filming-with-drone/"><u>[New] 2024 Approved Tips on Filming with Drone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-master-the-art-of-fb-story-downloads-on-every-device-for-2024/"><u>[New] Master the Art of FB Story Downloads on Every Device for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-by-step-apple-techniques-for-high-quality-interviews-on-air/"><u>[Updated] In 2024, Step-by-Step Apple Techniques for High-Quality Interviews on Air</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovering-your-unique-email-a-step-by-step-guide/"><u>Discovering Your Unique Email: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-fixes-for-pdhdll-missing-or-unavailable-error-on-pc/"><u>Effective Fixes for Pdh.dll Missing or Unavailable Error on PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-zte-axon-40-lite-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-getting-starter-with-whatsapp-on-your-mac-computer/"><u>Expert Advice: Getting Starter with WhatsApp on Your Mac Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-watch-the-lord-of-the-rings-movies-in-order/"><u>How to Watch the ‘Lord of the Rings’ Movies in Order</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-color-correction-techniques/"><u>In 2024, Mastering Color Correction Techniques</u></a></li>
-<li><a href="https://discover-help.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery with ManyCam: Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-list-of-preferred-mac-snipping-apps-for-2024/"><u>The Ultimate List of Preferred Mac Snipping Apps for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-must-have-automated-pinning-apps-for-pinterest-success/"><u>Top 5 Must-Have Automated Pinning Apps for Pinterest Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-repairing-lameencdll-failures-with-audacity-lamemp3/"><u>Troubleshooting and Repairing lame_enc.dll Failures with Audacity LameMP3</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-chromecast-audio-sync-problems-for-seamless-playback/"><u>Troubleshooting Chromecast Audio Sync Problems for Seamless Playback</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-502-bad-gateway-mishap-solutions-and-remedies/"><u>Understanding the 502 Bad Gateway Mishap: Solutions & Remedies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-spotifys-ad-potential-a-complete-guide-for-2024/"><u>Unlocking Spotify's Ad Potential A Complete Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-tech-driven-patient-recovery-paths/"><u>[New] Tech-Driven Patient Recovery Paths</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevate-collaborative-workflow-enhancing-zoom-use-in-gmail-mail-for-2024/"><u>[Updated] Elevate Collaborative Workflow Enhancing Zoom Use in Gmail Mail for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-get-loved-fast-essential-bio-hacks-that-work-on-every-version-of-tinder/"><u>[Updated] In 2024, Get Loved, Fast Essential Bio Hacks that Work on Every Version of Tinder</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-tutorial-how-to-permanently-delete-items-from-the-windows-eboard-history/"><u>Complete Tutorial: How to Permanently Delete Items From the Windows Eboard History</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/data-saving-techniques-for-efficient-texting-on-mobile-networks/"><u>Data-Saving Techniques for Efficient Texting on Mobile Networks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-pc-display-updating-hdmi-drivers-in-w10w11/"><u>Enhance Your PC Display: Updating HDMI Drivers in W10/W11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-msvbvm50dll-expert-tips-and-solutions/"><u>How to Recover MSVBVM50.DLL: Expert Tips & Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-m34-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy M34 Fingerprint Lock</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-video-magic-summit/"><u>In 2024, Crafting Video Magic Summit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/regain-entry-to-your-ipad-tactics-to-retrieve-lost-passwords-and-unlock-codes/"><u>Regain Entry to Your iPad: Tactics to Retrieve Lost Passwords and Unlock Codes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/section-2c-increasingly-complex-questions-with-solutions/"><u>Section 2C: Increasingly Complex Questions with Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplify-household-planning-with-our-top-picks-of-7-family-friendly-calendar-applications/"><u>Simplify Household Planning with Our Top Picks of 7 Family-Friendly Calendar Applications</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-beat-weavers-treasury-high-res-dj-visual-samples-for-2024/"><u>The Beat Weaver's Treasury High-Res DJ Visual Samples for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-beginners-walkthrough-for-deploying-windows-1-groovy-on-fresh-hard-drives/"><u>The Beginner's Walkthrough for Deploying Windows 1 Groovy on Fresh Hard Drives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-resolving-the-missing-mingwm10dll-error-on-your-computer/"><u>Troubleshooting: Resolving the Missing mingwm10.dll Error on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-do-when-your-android-device-wont-get-any-texts-expert-advice/"><u>What To Do When Your Android Device Won't Get Any Texts: Expert Advice</u></a></li>
 </ul></div>
 

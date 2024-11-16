@@ -1,7 +1,7 @@
 ---
 title: Grand Debut of the Latest Samsung Mobile Device
-date: 2024-09-04T02:53:47.079Z
-updated: 2024-09-05T02:53:47.079Z
+date: 2024-11-12T02:38:19.255Z
+updated: 2024-11-15T16:40:34.043Z
 categories:
   - BestProducts
 description: This Article Describes Grand Debut of the Latest Samsung Mobile Device
@@ -37,17 +37,12 @@ thumbnail: https://www.lifewire.com/thmb/407rXIh5yU0iaLcuwNbkNGKca28=/400x300/fi
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -55,12 +50,6 @@ thumbnail: https://www.lifewire.com/thmb/407rXIh5yU0iaLcuwNbkNGKca28=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -76,11 +65,12 @@ thumbnail: https://www.lifewire.com/thmb/407rXIh5yU0iaLcuwNbkNGKca28=/400x300/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -102,6 +92,13 @@ thumbnail: https://www.lifewire.com/thmb/407rXIh5yU0iaLcuwNbkNGKca28=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -112,12 +109,6 @@ thumbnail: https://www.lifewire.com/thmb/407rXIh5yU0iaLcuwNbkNGKca28=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -131,11 +122,12 @@ thumbnail: https://www.lifewire.com/thmb/407rXIh5yU0iaLcuwNbkNGKca28=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -144,12 +136,6 @@ thumbnail: https://www.lifewire.com/thmb/407rXIh5yU0iaLcuwNbkNGKca28=/400x300/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -170,8 +156,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +163,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-essential-guide-to-simple-iphone-screen-recording/"><u>[New] 2024 Approved The Essential Guide to Simple Iphone Screen Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quick-access-to-quality-sound-with-easy-vrecorder-downloads/"><u>[Updated] 2024 Approved Quick Access to Quality Sound with Easy VRecorder Downloads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-uncover-these-top-ten-thriving-youtube-communities-today/"><u>[Updated] In 2024, Uncover These Top Ten Thriving YouTube Communities Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-complete-checklist-for-choosing-your-ideal-projector/"><u>A Complete Checklist for Choosing Your Ideal Projector</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ace-job-interviews-on-skype-innovative-techniques-to-dominate-the-screen-in-202email-protected/"><u>Ace Job Interviews on Skype: Innovative Techniques to Dominate the Screen in 202([Email Protected])</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-distinctions-of-home-theater-versus-stereo-receiver-technology-for-ultimate-sound-quality/"><u>Decoding the Distinctions of Home Theater Versus Stereo Receiver Technology for Ultimate Sound Quality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722882758812-discover-the-best-iphone-gps-tools-our-top-picks-for-you/"><u>Discover the Best iPhone GPS Tools: Our Top Picks for You!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-top-32-gratis-back-up-apps-expertly-rated-and-analyzed-guide/"><u>Discover the Top 32 Gratis Back-Up Apps: Expertly Rated and Analyzed Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/elite-video-call-and-chat-service-selections/"><u>Elite Video Call & Chat Service Selections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-wi-fi-calling-technology-meaning-usage-and-advantages/"><u>Exploring Wi-Fi Calling Technology: Meaning, Usage & Advantages</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-15-plus-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installation-of-codegpt-in-visual-studio-code/"><u>Installation of CodeGPT in Visual Studio Code</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-ipad-generation-whats-new-in-apples-tablet/"><u>Latest iPad Generation: What's New in Apple's Tablet?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-visibility-the-ultimate-guide-to-apple-tv-seo-success/"><u>Maximize Visibility: The Ultimate Guide to Apple TV SEO Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-together-how-to-watch-with-friends-in-real-time-via-screen-sharing-techniques/"><u>Netflix Together: How to Watch with Friends in Real-Time Via Screen Sharing Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solving-handbrake-dvd-burning-problems-on-windows-11/"><u>Solving Handbrake DVD Burning Problems on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-reducing-excessive-svchostexe-load-on-windows-10-system/"><u>Tips for Reducing Excessive svchost.exe Load on Windows 10 System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-power-issues-with-your-playstation-5-controller/"><u>Troubleshooting Tips: Resolving Power Issues with Your PlayStation 5 Controller</u></a></li>
+</ul></div>
 

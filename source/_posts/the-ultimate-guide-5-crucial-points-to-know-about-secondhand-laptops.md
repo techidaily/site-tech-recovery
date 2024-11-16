@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: 5 Crucial Points to Know About Secondhand Laptops"
-date: 2024-09-04T02:52:30.477Z
-updated: 2024-09-05T02:52:30.477Z
+date: 2024-11-13T04:05:41.968Z
+updated: 2024-11-16T06:35:25.480Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Guide: 5 Crucial Points to Know About Secondhand Laptops"
@@ -23,6 +23,13 @@ Close
 
  We've compiled this guide to help you understand what a refurbished laptop is and what to look for so you can find a refurb that looks and runs like new. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Are Refurbished Laptops? 
 
  Refurbished laptops are used or open-box laptops that have been inspected, cleaned, repaired and made ready for sale to a new owner.
@@ -43,24 +50,19 @@ Close
 * What condition should a refurbished laptop have?
 * How old should a refurbished laptop be?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Are Refurbished Laptops Just Used Laptops? 
 
  Refurbished and used laptops aren’t the same, but some refurbished laptops have been used before. In other cases, someone might have removed a computer from its box for some reason, at which point a seller can sell it as refurbished but not as new. Laptops purchased, opened, and returned to the store are prime candidates for refurbishment.
 
  Before a laptop is sold as refurbished, it's typically inspected for cosmetic wear and tear, tested to make sure it’s fully operational, repaired if necessary, and cleaned. In some cases, internal components will be replaced or upgraded even if they are still in working order. The laptop is usually factory reset, with a fresh[ operating system](https://www.lifewire.com/operating-systems-2625912) installation. That part is vital if someone previously used the laptop because you don’t want to buy a refurbished laptop that still has a bunch of data from the previous owner. 
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Do You Source a Refurbished Laptop? 
 
  When choosing a refurbished laptop, it’s essential to consider the source. If a laptop is factory refurbished, it was refurbished by the same manufacturer that initially made the laptop. It may be an open-box laptop that’s essentially new and has just been tested to make sure it works, or it may have been sent back as defective, repaired, tested, cleaned up, and made available for sale at a discount. Manufacturers usually provide detailed information about their refurbishing processes and offer the best warranties.
@@ -69,18 +71,6 @@ Close
 
 [  The 6 Best Places to Buy a Laptop in 2024 ](https://www.lifewire.com/best-places-to-buy-a-laptop-4164557) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Warranty Should a Refurbished Laptop Have? 
 
  Warranty periods vary from one refurbisher to the next, and some laptops don’t come with any warranty at all. New laptops usually come with a one-year warranty, and that’s what you should look for in a refurbished model. Even though refurbished laptops aren’t technically new, they’re sold as "like new," so the refurbisher should be willing to stand behind the product as if it were.
@@ -88,6 +78,13 @@ Close
  At a bare minimum, don’t settle for anything less than a three to six-month warranty. Never buy a refurbished laptop that doesn’t have a warranty or guarantee.
 
  If you buy a refurbished laptop with a shorter warranty period, make sure to inspect and test it thoroughly as soon as you get it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Condition Should a Refurbished Laptop Have? 
 
@@ -97,18 +94,6 @@ Close
 
  Some refurbishers will give letter or number grades to their laptops or refer to the condition with words like excellent, great, or satisfactory. Pay attention to the specific terminology, and if you pay for an "excellent-quality" laptop that’s supposed to be free of cosmetic blemishes, make sure that’s what you receive.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Old Should a Refurbished Laptop Be? 
 
  The ideal age of a refurbished laptop will depend on your budget and how you plan on using the machine.
@@ -121,12 +106,6 @@ Close
 
 [ How Long Do Laptops Last? ](https://www.lifewire.com/how-long-do-laptops-last-8550246) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Who Should Buy a Refurbished Laptop? 
 
  Refurbished laptops can save you a lot of money and provide excellent performance compared to the sticker price, so they represent a good option for many people.
@@ -136,12 +115,6 @@ Close
 * **Deal hunters** . Those searching for fantastic deals will want to target recently released open-box refurbished laptops for steep discounts on modern hardware.
 * **Budget gamers** . Brand-new budget laptops aren’t good for gaming because they use integrated graphics. Instead, consider looking for a refurbished[ gaming laptop](https://www.lifewire.com/things-to-consider-buying-gaming-laptop-5235493) with an actual[ video card](https://www.lifewire.com/what-is-a-video-card-2618161) that’s a few years old but still capable of handling the latest games on lower settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Should I Do After I Buy a Refurbished Laptop? 
 
  When you buy a refurbished laptop, you’ll have to do all the same data transfer and other tasks you'd have to do if you purchased a new device. In addition to those tasks, there are some unique concerns when going refurbished:
@@ -152,11 +125,12 @@ Close
 * Check the operation of the laptop. Make sure it boots up and runs all your apps or games, listen to see if the fan comes on, and verify that components like the[ optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) and webcam work.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  More Tips for Buying a Refurbished Laptop 
 
  Buying a refurbished laptop can save you a lot of money, but you have to vet the seller carefully. Anyone can say they refurbished a computer, but that doesn’t mean it was. It’s good to stick with factory-refurbished laptops, programs from established retailers, and refurbishing companies willing to provide references and detailed information on what they do.
@@ -194,8 +168,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +175,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-where-to-find/"><u>[New] Where to Find</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-mastering-hands-free-motion-an-overview/"><u>[Updated] In 2024, Mastering Hands-Free Motion An Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disablingenabling-the-touch-keyboard-on-your-windows-11-pc-a-step-by-step-guide/"><u>Disabling/Enabling the Touch Keyboard on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-epson-wf-2760-printer-drivers-for-windows-11-10-and-8/"><u>Download Epson WF-2760 Printer Drivers for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/easy-tutorial-capturing-audio-from-voice-calls-on-android-phones/"><u>Easy Tutorial: Capturing Audio From Voice Calls on Android Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-securely-update-your-signature-x-profile-key-with-a-new-password/"><u>How To Securely Update Your Signature X Profile Key with a New Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-m14-4g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy M14 4G FRP Bypass Instantly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-streaming-with-roku-for-students-and-travelers/"><u>The Ultimate Guide to Streaming with Roku for Students and Travelers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-tips-for-finding-the-best-protective-cases-for-your-smartphone/"><u>Top Tips for Finding the Best Protective Cases for Your Smartphone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-canary-an-easy-guide-for-users/"><u>Unlocking Windows Canary: An Easy Guide for Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/swfwebm/"><u>スムーズなオンライン変換: SWFからWEBMへ – モヴェイビーの方法</u></a></li>
+</ul></div>
 

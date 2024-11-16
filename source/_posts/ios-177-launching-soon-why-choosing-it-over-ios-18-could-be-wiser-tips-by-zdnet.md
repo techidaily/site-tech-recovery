@@ -1,7 +1,7 @@
 ---
 title: IOS 17.7 Launching Soon! Why Choosing It Over iOS 18 Could Be Wiser - Tips by ZDNET
-date: 2024-11-04T16:51:11.562Z
-updated: 2024-11-05T19:39:57.724Z
+date: 2024-11-11T16:19:46.144Z
+updated: 2024-11-16T03:56:30.692Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,16 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,16 +129,17 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-studio-excellence-the-top-5-editing-strategies/"><u>[New] OBS Studio Excellence The Top 5 Editing Strategies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-solution-for-the-401-unauthorized-response-problem/"><u>A Comprehensive Solution for the 401 Unauthorized Response Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amd-radeon-graphics-drives-latest-update-v2410-features/"><u>AMD Radeon Graphics Drives Latest Update v24.10 Features</u></a></li>
-<li><a href="https://discover-great.techidaily.com/cannot-locate-the-resource-page-missing/"><u>Cannot Locate the Resource (Page Missing)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-coolest-british-tv-series-playing-on-netflix-right-this-moment/"><u>Discover the Coolest British TV Series Playing on Netflix Right This Moment!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-analysis-unboxing-and-testing-the-third-gen-apple-tv-4k/"><u>Expert Analysis: Unboxing and Testing the Third Gen Apple TV 4K</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-4-gpt-4-turbo-and-gpt-phi-the-key-differences-unveiled/"><u>GPT-4, GPT-4 Turbo & GPT-Phi – The Key Differences Unveiled</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-pairing-your-apple-airpods-with-your-hp-computer/"><u>Step-by-Step Guide: Pairing Your Apple AirPods with Your HP Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/tecnicas-expertas-para-optimizar-y-comprimir-videos-avi-en-windows-e-ir-sin-sacrificar-su-claridad-visual/"><u>Técnicas Expertas Para Optimizar Y Comprimir Vídeos AVI en Windows E Ir Sin Sacrificar Su Claridad Visual</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-favorite-criminal-chronicles-on-podcasts-top-13/"><u>Ultimate List of Favorite Criminal Chronicles on Podcasts (Top 13)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capture-kings-face-off/"><u>[New] 2024 Approved Capture Kings Face-Off</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-navigating-firefoxs-picture-in-picture-capabilities/"><u>[New] 2024 Approved Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>[Updated] 2024 Approved How to Create Impactful Valorant Thumbnails A Compreayer's Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-securing-skype-conversations-via-obs-for-2024/"><u>[Updated] Securing Skype Conversations via OBS for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators-for-2024/"><u>[Updated] Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-samsungs-latest-gem-revealed-the-galaxy-z-flip-7-expected-costs-launch-timeline-and-specs-inside/"><u>Get Ahead of the Curve: Samsung's Latest Gem Revealed! The Galaxy Z Flip 7 - Expected Costs, Launch Timeline and Specs Inside</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-srt-file-creation-a-comprehensive-manual-for-2024/"><u>Mastering SRT File Creation A Comprehensive Manual for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-micro-mobility-universe-timelines-breaking-stories-and-hot-tips/"><u>Navigating the Micro-Mobility Universe: Timelines, Breaking Stories & Hot Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899546821-pixel-9-unveiled-anticipated-launch-details-and-pricing-revealed/"><u>Pixel 9 Unveiled? Anticipated Launch Details & Pricing Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-bootmgr-missing-problem-a-step-by-step-guide/"><u>Solving the BOOTMGR Missing Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-handbook-choosing-your-perfect-pc-or-notebook-for-education/"><u>The Definitive Handbook: Choosing Your Perfect PC or Notebook for Education</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/threads-of-time-looms-screen-record-mastery/"><u>Threads of Time Loom's Screen Record Mastery</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Plans & Promotions in May 2024 - Insider's Guide
-date: 2024-11-01T21:43:08.744Z
-updated: 2024-11-05T19:28:05.607Z
+date: 2024-11-12T03:14:22.430Z
+updated: 2024-11-15T23:00:52.279Z
 tags:
   - apple
 categories:
@@ -117,10 +117,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -147,6 +147,13 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -156,13 +163,6 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Variety:** We require a diverse range of products to be available, suiting different users and their needs.
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
 
@@ -177,10 +177,10 @@ In general, there is no difference in how much money you save whether you shop o
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
@@ -189,10 +189,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -244,17 +244,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unveil-secrets-to-speedy-caption-design-in-facebook-media/"><u>[New] 2024 Approved Unveil Secrets to Speedy Caption Design in Facebook Media</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-propel-your-social-impact-with-strategic-facebook-video-ads/"><u>[New] Propel Your Social Impact with Strategic Facebook Video Ads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-fresh-enhancements-in-ios-18-complimentary-launch-announced/"><u>Discover the Fresh Enhancements in iOS 18 – Complimentary Launch Announced</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dive-into-the-best-wet-proof-phone-pouches-of-2024-a-comprehensive-review/"><u>Dive Into the Best Wet-Proof Phone Pouches of 2024: A Comprehensive Review</u></a></li>
-<li><a href="https://fox-http.techidaily.com/enhance-audio-visual-experience-windows-media-player-subtitles/"><u>Enhance Audio-Visual Experience Windows Media Player Subtitles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/improve-your-health-with-these-9-chatgpt-tips-and-techniques/"><u>Improve Your Health with These 9 ChatGPT Tips and Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lost-access-learn-how-to-recover-your-ipad-passcode-easily/"><u>Lost Access? Learn How to Recover Your iPad Passcode Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/must-have-android-watchface-and-companion-apps-of-this-year/"><u>Must-Have Android Watchface and Companion Apps of This Year</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-507-best-instagram-captions-of-2024/"><u>The 507 Best Instagram Captions of 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-15-gaming-streaming-services-ultimate-guide/"><u>Top 15 Gaming Streaming Services: Ultimate Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-aol-mail-downtime-is-it-a-global-outage/"><u>Understanding AOL Mail Downtime: Is It a Global Outage?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726029735859-youtube/"><u>YouTubeビデオ字幕抽出方法詳細解説</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-ultimate-guide-to-streamlined-ocean-video-capture/"><u>[New] In 2024, The Ultimate Guide to Streamlined Ocean Video Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/"><u>[New] The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-use-of-vlc-for-media-creation/"><u>[Updated] Efficient Use of VLC for Media Creation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-pinnacle-of-engagement-custom-youtube-shorts-thumbnails-guide/"><u>[Updated] The Pinnacle of Engagement Custom YouTube Shorts Thumbnails Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-value-and-power-combined-a-selection-of-superior-mini-gaming-pcs/"><u>Best Value and Power Combined: A Selection of Superior Mini Gaming PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-hot-40i-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Hot 40i Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899078319-fix-slow-internet-resetting-network-parameters-on-your-mac-might-be-the-solution/"><u>Fix Slow Internet? Resetting Network Parameters on Your Mac Might Be the Solution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-your-messenger-presence-a-zodiac-guide/"><u>In 2024, Mastering Your Messenger Presence - A Zodiac Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sharing-your-favorite-tunes-a-guide-to-using-spotify-with-pals/"><u>Sharing Your Favorite Tunes: A Guide to Using Spotify with Pals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-monitoring-your-macbooks-heat-levels/"><u>Step-by-Step Guide: Monitoring Your MacBook's Heat Levels</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-setting-up-your-first-linux-vm-on-a-windows-10-pc/"><u>Step-by-Step Guide: Setting Up Your First Linux VM on a Windows 10 PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2528022-9781493043835-the-big-book-of-new-jersey-ghost-stories/"><u>The Big Book of New Jersey Ghost Stories | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-corrupted-haldll-in-windows-xp-systems/"><u>Troubleshooting Steps for Corrupted Hal.dll in Windows XP Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-oled-technology-an-in-depth-guide/"><u>Understanding OLED Technology: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlinked-chats-engaging-with-messenger-messages-even-if-you-dont-have-a-facebook-profile/"><u>Unlinked Chats: Engaging with Messenger Messages Even If You Don’t Have a Facebook Profile</u></a></li>
 </ul></div>
 

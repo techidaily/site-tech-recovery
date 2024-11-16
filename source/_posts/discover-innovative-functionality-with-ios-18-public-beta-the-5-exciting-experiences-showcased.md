@@ -1,7 +1,7 @@
 ---
 title: Discover Innovative Functionality with iOS 18 Public Beta – The 5 Exciting Experiences Showcased
-date: 2024-10-30T00:06:44.491Z
-updated: 2024-10-30T19:39:40.753Z
+date: 2024-11-09T03:36:51.716Z
+updated: 2024-11-16T05:02:28.940Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,18 +128,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-transform-your-drive-must-have-accessories-for-sj4000-owners/"><u>[New] 2024 Approved Transform Your Drive Must-Have Accessories for SJ4000 Owners</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unleash-potential-making-your-vids-go-viral/"><u>[New] In 2024, Unleash Potential Making Your Vids Go Viral</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-fixing-errors-when-unable-to-locate-physxloaderdll-on-your-pc/"><u>Guide to Fixing Errors When Unable to Locate physxloader.dll on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-xinput13dll-not-found-or-missing-errors/"><u>How to Fix Xinput1_3.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-guide-to-infusing-movement-into-images-in-illustrator/"><u>In 2024, A Guide to Infusing Movement Into Images in Illustrator</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-record-your-mac-view-in-minutes/"><u>In 2024, Record Your Mac View in Minutes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-productivity-with-two-monitors-on-a-mac-how-to-do-it/"><u>Maximize Productivity with Two Monitors on a Mac - How to Do It?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-wave-on-iphones-chatgpt-written-for-you/"><u>New Wave on iPhones: ChatGPT' Written for You</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-modifying-your-windows-11-taskbar-hue/"><u>Step-by-Step Guide: Modifying Your Windows 11 Taskbar Hue</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-for-hps-laserjet-p3015-model-on-window-systems/"><u>Step-by-Step Guide: Updating and Downloading Drivers for HP's LaserJet P3015 Model on Window Systems</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/success-strategies-for-retrieving-information-following-logical-storage-malfunction/"><u>Success Strategies for Retrieving Information Following Logical Storage Malfunction</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-gaming-console-picks-for-the-year-2024/"><u>Top Gaming Console Picks for the Year 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-streaming-made-simple-show-your-computer-screen-on-a-tv-via-chromecast/"><u>Wireless Streaming Made Simple: Show Your Computer Screen on a TV via Chromecast</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-obsessed-with-broadcasting-choose-between-xsplit-and-obs-for-2024/"><u>[Updated] Obsessed with Broadcasting? Choose Between XSplit & OBS for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-weaving-a-memorable-tiktok-outro-narrative-for-2024/"><u>[Updated] Weaving A Memorable TikTok Outro Narrative for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlimited-verbal-input-processing-for-free/"><u>2024 Approved Unlimited Verbal Input Processing for Free</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wavavi-movavi/"><u>免費網路直立WAV到AVI轉換 - 使用Movavi 影片編輯工具</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-guide-to-navigating-t-mobiles-domestic-roaming-agreements/"><u>A Guide to Navigating T-Mobile's Domestic Roaming Agreements</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl2280dw-drivers-for-pc-download-for-windows-111087-systems/"><u>Brother HL2280DW Drivers for PC: Download for Windows 11/10/8/7 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivo-wmv-a-formato-mov-sin-costo-con-herramientas-en-linea-movavi/"><u>Cómo Convertir Archivo WMV a Formato MOV Sin Costo Con Herramientas en Línea - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-and-convert-ogv-video-files-to-avi-for-free-today/"><u>Download and Convert OGV Video Files to AVI for Free Today!</u></a></li>
+<li><a href="https://discover-data.techidaily.com/effortless-guid-partition-restoration-on-windows-11-a-step-by-step-guide/"><u>Effortless Guid Partition Restoration on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-access-to-whatsapp-users-reined-in-by-germany-legislation/"><u>Facebook's Access to WhatsApp Users Reined in by Germany Legislation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/faster-than-ever-revolutionary-methods-to-speed-up-fb-videos/"><u>Faster Than Ever Revolutionary Methods to Speed Up FB Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-change-your-aac-files-into-high-quality-aiff-format-with-ease/"><u>Free Online Conversion: Change Your AAC Files Into High-Quality AIFF Format with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guia-paso-a-paso-para-cambiar-de-mp3-a-ogv-libremente-en-linea-usando-movavi-sin-gastos-involucrados/"><u>Guía Paso a Paso Para Cambiar De Mp3 a Ogv Libremente en Línea Usando Movavi: Sin Gastos Involucrados</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-pratique-comment-conversion-dun-fichier-ogg-en-mp3/"><u>Guide Pratique : Comment Conversion D'un Fichier Ogg en MP3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-rapide-pour-convertir-vob-en-wav-gratuite-en-ligne-via-movavi/"><u>Guide Rapide Pour Convertir VOB en WAV Gratuite en Ligne via Movavi</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-mp4-videos-for-free-9-excellent-options/"><u>New Cut MP4 Videos for Free 9 Excellent Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-aimp4/"><u>Online AIMP4 투영어 변환 편집기 - 무료 제공</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-mejores-reproductores-swf-compatibles-con-windows-10-y-mac/"><u>Top 7 Mejores Reproductores SWF Compatibles Con Windows 10 Y Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-nokia-c110-by-drfone-android/"><u>Universal Unlock Pattern for Nokia C110</u></a></li>
 </ul></div>
 

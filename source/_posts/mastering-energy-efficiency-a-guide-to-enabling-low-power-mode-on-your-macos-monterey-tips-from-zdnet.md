@@ -1,7 +1,7 @@
 ---
 title: "Mastering Energy Efficiency: A Guide to Enabling Low Power Mode on Your macOS Monterey - Tips From ZDNet"
-date: 2024-11-03T19:32:53.414Z
-updated: 2024-11-05T22:39:10.884Z
+date: 2024-11-11T18:43:27.598Z
+updated: 2024-11-15T21:14:17.793Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -78,10 +78,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -134,19 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-elevate-your-yt-content-creation-with-windows-movie-maker/"><u>[New] 2024 Approved Elevate Your YT Content Creation with Windows Movie Maker</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-total-capture-trio-setup/"><u>[Updated] 2024 Approved Total Capture Trio Setup</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-effortless-integration-of-xbox-and-facebook-streams/"><u>[Updated] Effortless Integration of Xbox and Facebook Streams</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breathtaking-lyric-videos-made-easy-by-lyric-video-maker/"><u>[Updated] In 2024, Breathtaking Lyric Videos Made Easy by Lyric Video Maker</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-the-art-of-closeup-essential-filmmaking-tips/"><u>[Updated] In 2024, Mastering the Art of Closeup Essential Filmmaking Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choose-your-next-binge-worthy-watch-with-these-top-picks-for-instant-streaming/"><u>Choose Your Next Binge-Worthy Watch with These Top Picks for Instant Streaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722875347040-discover-the-premier-network-server-rack-systems-for-2tiered-shelving-solutions/"><u>Discover the Premier Network Server Rack Systems for 2Tiered Shelving Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-slow-to-lightning-fast-upgrade-your-ps5-with-an-ssd-quick-guide/"><u>From Slow to Lightning Fast: Upgrade Your PS5 with an SSD Quick Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/groundbreaking-companies-at-the-vr-content-frontier/"><u>Groundbreaking Companies at the VR Content Frontier</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-11-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 11 Pro Max or iPad?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>In 2024, Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-reducing-or-removing-subwoofer-hum-issues/"><u>The Ultimate Fix for Reducing or Removing Subwoofer Hum Issues</u></a></li>
-<li><a href="https://win-webster.techidaily.com/troubleshooting-guide-freeing-a-trapped-sim-card-inside-an-iphone-with-effective-methods/"><u>Troubleshooting Guide: Freeing a Trapped SIM Card Inside an iPhone with Effective Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-is-telegram-messenger-and-how-does-it-work/"><u>What Is Telegram Messenger and How Does It Work?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-revolutionizing-video-content-youtube-marketings-top-5-secrets/"><u>[New] In 2024, Revolutionizing Video Content YouTube Marketing's #Top 5 Secrets</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoiding-regrets-in-digital-purchases-mastering-the-art-of-steam-game-returns/"><u>Avoiding Regrets in Digital Purchases: Mastering the Art of Steam Game Returns.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-v29-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo V29</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-methods-to-ensure-your-windows-machine-always-starts-in-safe-mode/"><u>Easy Methods to Ensure Your Windows Machine Always Starts in Safe Mode</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/entering-the-metaverse-discovering-6-rich-examples/"><u>Entering the Metaverse Discovering 6 Rich Examples</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-these-6-premier-websites-to-unlock-jaw-dropping-deals-and-coupons/"><u>Explore These 6 Premier Websites to Unlock Jaw-Dropping Deals and Coupons</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-asus-laptop-drivers-free-downloads-and-tips/"><u>How to Get the Latest ASUS Laptop Drivers – Free Downloads & Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-microsoft-edge-running-so-many-processes-on-windows/"><u>How to Stop Microsoft Edge Running So Many Processes on Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-simplified-live-streaming/"><u>In 2024, Mastering the Art of Simplified LIVE Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-roblox-not-working-understanding-network-errors-vs-player-connection-issues/"><u>Is Roblox Not Working? Understanding Network Errors vs Player Connection Issues</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-videopad-video-editor-review-features-performance-and-value-for-money/"><u>New Videopad Video Editor Review Features, Performance, and Value for Money</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-and-effective-guide-on-setting-up-an-amazon-fire-tv-stick-remote/"><u>Quick & Effective Guide on Setting Up an Amazon Fire TV Stick Remote</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-load-for-faster-team-collaboration/"><u>Reducing Load for Faster Team Collaboration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-quintet-of-people-search-platforms-you-need-to-know-about/"><u>The Quintet of People Search Platforms You Need to Know About</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/total-war-warhammer-iii-pc-version-permanent-solutions-to-eliminate-in-game-freezing-and-crashing/"><u>TOTAL WAR: WARHAMMER III PC Version – Permanent Solutions to Eliminate In-Game Freezing and Crashing!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unified-sound-experience-syncing-your-bluetooth-speakers-for-maximum-impact/"><u>Unified Sound Experience: Syncing Your Bluetooth Speakers for Maximum Impact</u></a></li>
 </ul></div>
 

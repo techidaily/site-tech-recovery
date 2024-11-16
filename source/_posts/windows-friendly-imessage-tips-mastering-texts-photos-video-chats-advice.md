@@ -1,7 +1,7 @@
 ---
 title: "Windows-Friendly iMessage Tips: Mastering Texts, Photos, Video Chats - Advice"
-date: 2024-11-01T17:59:13.140Z
-updated: 2024-11-05T23:06:16.459Z
+date: 2024-11-12T04:50:26.876Z
+updated: 2024-11-16T04:39:47.060Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -56,25 +63,11 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -85,6 +78,19 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -98,11 +104,25 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -121,10 +141,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -151,25 +171,11 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,20 +213,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-a-toast-to-trending-celebrating-reddit-writings-top-10/"><u>[New] A Toast to Trending Celebrating Reddit’ Writings (Top 10)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-best-8-online-hubs-for-downloading-free-3d-text-psdfiles/"><u>[Updated] 2024 Approved The Best 8 Online Hubs for Downloading Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-decoding-youtube-shorts-all-you-need-to-understand-for-2024/"><u>[Updated] Decoding YouTube Shorts All You Need to Understand for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-professional-advice-how-to-attach-srt-to-video-media-2024/"><u>[Updated] Professional Advice How to Attach SRT to Video Media 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/blur-out-distractions-a-guide-to-enhancing-focus-with-google-meets-background-feature/"><u>Blur Out Distractions: A Guide to Enhancing Focus with Google Meet's Background Feature</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-how-to-correctly-address-the-phase0exception-code-stop-0x00000078/"><u>Expert Advice on How to Correctly Address the PHASE0_EXCEPTION Code: Stop 0X00000078</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-strategies-to-fully-delete-a-yahoo-email-identifier-permanently/"><u>Expert Strategies to Fully Delete a Yahoo Email Identifier Permanently</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-logitech-g933-up-and-running-freshest-drivers-available/"><u>Get Your Logitech G933 Up and Running: Freshest Drivers Available!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-nubia-red-magic-9-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nubia Red Magic 9 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-integrating-playlist-videos-from-youtube-on-websites/"><u>In 2024, Integrating Playlist Videos From YouTube on Websites</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-high-school-successfully-with-these-10-powerful-mobile-tools/"><u>Navigating High School Successfully with These 10 Powerful Mobile Tools</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/section-2c-similar-questions-with-increasing-complexity/"><u>Section 2C: Similar Questions with Increasing Complexity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-vizio-smarttvs-wi-fi-connectivity-problems-with-ease/"><u>Solving Vizio SmartTV's Wi-Fi Connectivity Problems with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-the-best-family-friendly-films-streaming-on-amazon-prime-video-this-july/"><u>Top Picks: The Best Family-Friendly Films Streaming on Amazon Prime Video This July</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-elite-auto-clicker-software-top-5-choices-for-android-users/"><u>Unveiling the Elite Auto-Clicker Software: Top 5 Choices for Android Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-scriptwriting-mastery-conveying-emotions-through-words/"><u>[New] Scriptwriting Mastery Conveying Emotions Through Words</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-breakthrough-techniques-for-online-audio-archiving-and-editing-for-2024/"><u>[Updated] Breakthrough Techniques for Online Audio Archiving & Editing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-growth-catalysts-increasing-audience-engagement-on-youtube-for-2024/"><u>[Updated] Growth Catalysts Increasing Audience Engagement on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-pixelpanorama-crafting-collage-vids-on-gear/"><u>[Updated] In 2024, PixelPanorama Crafting Collage Vids on Gear</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-perfect-film-order-for-fans-of-taylor-swift/"><u>Discover the Perfect Film Order for Fans of Taylor Swift</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/emoji-insights-that-will-blow-your-mind-a-list-of-10-unexpected-facts/"><u>Emoji Insights That Will Blow Your Mind: A List of 10 Unexpected Facts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-p55-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Itel P55 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/introduction-to-dts-play-fi-and-its-features/"><u>Introduction to DTS Play-Fi and Its Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-email-recall-with-microsoft-outlooks-features/"><u>Mastering the Art of Email Recall with Microsoft Outlook's Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-bing-vs-chatgpt-an-in-depth-look-at-their-divergent-capabilities/"><u>Microsoft Bing Vs. ChatGPT: An In-Depth Look at Their Divergent Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-all-inclusive-guide-to-the-feature-packed-budget-friendly-ambient-weather-station-the-ws-2902a-osprey/"><u>The All-Inclusive Guide to the Feature-Packed, Budget-Friendly Ambient Weather Station: The WS-2902A Osprey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-essential-factors-for-choosing-the-right-smartwatch/"><u>Top 5 Essential Factors for Choosing the Right Smartwatch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-affordable-beginners-guide-to-building-a-home-theater-system/"><u>Top Affordable Beginner's Guide to Building a Home Theater System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-wi-fi-signal-boosters-the-ultimate-guide/"><u>Top Wi-Fi Signal Boosters : The Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-fixing-the-jscriptdll-not-found-issue/"><u>Troubleshooting and Fixing the jScript.dll Not Found Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/turn-your-cr2-photos-to-bmp-without-cost-using-movavis-web-based-tool/"><u>Turn Your CR2 Photos to BMP without Cost Using Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-features-of-the-new-kobo-clara-colour/"><u>Unveiling the Features of the New Kobo Clara Colour</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-hands-on-with-avs-video-editor-a-2023-review/"><u>Updated In 2024, Hands-On with AVS Video Editor A 2023 Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-dive-into-the-features-of-applee-latest-ipad-genius/"><u>What's New ? Dive Into the Features of Apple'e Latest iPad Genius!</u></a></li>
 </ul></div>
 

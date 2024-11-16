@@ -1,7 +1,7 @@
 ---
 title: The DIY Approach to Programming a Single Remote for Multiple Gadgets
-date: 2024-09-04T02:51:38.401Z
-updated: 2024-09-05T02:51:38.401Z
+date: 2024-11-11T00:55:59.670Z
+updated: 2024-11-16T03:10:34.372Z
 categories:
   - BestProducts
 description: This Article Describes The DIY Approach to Programming a Single Remote for Multiple Gadgets
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
  Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Direct Code Entry
 
  The easiest way to program a universal remote is to enter a code that identifies the product you wish to control. Codes may be provided via a "code sheet" or a web page where the codes are listed by brand and type of device (TV, Blu-ray Disc player, Home Theater Receiver, Cable Box, VCRs, and sometimes media streamers).
@@ -35,12 +42,6 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 6. After programming, see if the universal remote controls the basic functions of your device. For example, a universal remote should turn a TV off and on, change the volume, channel, and source input.  
  If you're using Direct Code Entry, write the successful code(s) in your user guide for later reference.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Auto Code Search
 
  You can use Auto Code Search if you don't have access to the specific code for the brand or type of device you wish to control. The remote will search through its database, testing several codes at a time.
@@ -57,11 +58,12 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 8. Test several functions on the remote and see if they work for your device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Brand Code Search
 
  Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
@@ -80,11 +82,12 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Manual Code Search
 
  Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
@@ -97,18 +100,6 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 4. If the power on your TV or device turns off, the remote has found the correct Code. Press**Stop** to save the code.
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Programming via IR Learning
 
  If supported, the IR learning method requires placing your universal remote and the remote of a device you wish to control so that they are pointing at each other. This process allows IR control light beams to transmit from the original device remote to the universal remote.
@@ -121,11 +112,12 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
  This process is long and tedious, especially if you have several devices you want to control. However, if you don't have access to the remote control codes or other methods fail, you may be able to use the IR learning process as your last result, provided your Universal Remote supports this programming option.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Programming via PC
 
  Another programming option available for some remotes is with a PC. One brand that supports this option is[Logitech Harmony](https://www.logitech.com/en-us/harmony-universal-remotes) .
@@ -138,18 +130,6 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
  A universal remote is a great way to clear that space on your coffee table, but also keep the following in mind:
@@ -192,8 +172,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +179,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-10-android-collage-innovations-to-elevate-creativity/"><u>[New] 10 Android Collage Innovations to Elevate Creativity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-guide-top-5-online-converters-for-gifs-to-videos/"><u>[Updated] 2024 Approved Ultimate Guide Top 5 Online Converters for GIFs to Videos</u></a></li>
+<li><a href="https://win-hot.techidaily.com/discover-the-top-ranking-free-sms-organizers-for-your-android-device/"><u>Discover the Top-Ranking Free SMS Organizers for Your Android Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-techniques-for-securing-email-addresstable-entry-on-servers/"><u>Essential Techniques for Securing Email Addresstable Entry on Servers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-cygwin1dll-errors-a-comprehensive-guide/"><u>Fixing ‘Cygwin1.dll’ Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-make-a-heart-on-a-keyboard/"><u>How to Make a Heart on a Keyboard</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stream-the-roku-channel-without-owning-an-actual-roku-device/"><u>How to Stream the Roku Channel Without Owning an Actual Roku Device</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-proficient-movie-recording-multiplatform-devices-unveiled/"><u>In 2024, Proficient Movie Recording Multiplatform Devices Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-repairing-a-stand-alone-headphone/"><u>In 2024, Repairing a Stand-Alone Headphone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfect-360-videography-streaming-tips-for-youtube/"><u>Perfect 360 Videography Streaming Tips for YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/perfect-hdr-portraits-with-our-expert-techniques/"><u>Perfect HDR Portraits with Our Expert Techniques</u></a></li>
+<li><a href="https://win-bits.techidaily.com/seamless-file-transfer-guide-connecting-your-pc-with-samsung-galaxy-s10/"><u>Seamless File Transfer Guide: Connecting Your PC with Samsung Galaxy S10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-msodll-error-a-comprehensive-guide/"><u>Solving the 'mso.dll' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-8-zero-cost-html-coding-tools-for-windows-users/"><u>The Ultimate List of 8 Zero-Cost HTML Coding Tools for Windows Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/three-ways-to-convert-youtube-music-tracks-safely-to-mp3-format-for-2024/"><u>Three Ways to Convert YouTube Music Tracks Safely to MP3 Format for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-of-nothing-phone-3-expected-release-schedule-price-points-and-technical-details/"><u>Unlocking the Secrets of Nothing Phone 3: Expected Release Schedule, Price Points & Technical Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/where-to-find-engaging-preschool-games-online-a-list-of-9-free-options/"><u>Where to Find Engaging Preschool Games Online - A List of 9 Free Options</u></a></li>
+</ul></div>
 

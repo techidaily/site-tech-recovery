@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2024-11-01T18:49:04.071Z
-updated: 2024-11-05T22:21:34.378Z
+date: 2024-11-09T05:05:48.278Z
+updated: 2024-11-16T02:04:46.436Z
 tags:
   - apple
 categories:
@@ -30,11 +30,25 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -43,13 +57,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -64,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -78,13 +85,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,18 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/crackle-streaming-service-watch-top-movies-and-shows-without-spending-a-penny/"><u>Crackle Streaming Service – Watch Top Movies and Shows Without Spending a Penny</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ver-your-top-10-choice-of-editors-for-youtube-short-videos/"><u>Discover Your Top 10 Choice of Editors for YouTube Short Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-unmatched-convenience-with-our-ankers-powercoreplus-26800-charger-bundle-analysis/"><u>Experience Unmatched Convenience with Our Anker's PowerCore+ 26800 Charger Bundle Analysis</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-itel-p40-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Itel P40 Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-check-your-data-usage/"><u>How to Check Your Data Usage</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a78-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Oppo A78 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/optimize-printing-on-laptops-with-improved-hp-printer-links/"><u>Optimize Printing on Laptops with Improved HP Printer Links</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-a-step-by-step-tutorial-on-returning-calls-to-concealed-phones/"><u>Solving the Mystery: A Step-by-Step Tutorial on Returning Calls to Concealed Phones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-fubotv-on-amazon-firestick/"><u>Step-by-Step Guide: Setting Up FuboTV on Amazon Firestick</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210117964-9781612834481-this-life-is-yours/"><u>This Life Is Yours | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-winhttpdll-is-missing-error-on-your-computer/"><u>Ultimate Guide: Resolving 'Winhttp.dll Is Missing' Error on Your Computer</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/understanding-the-iphone-se-2020-a-logical-review-of-apples-compact-powerhouse/"><u>Understanding the iPhone SE (2020): A Logical Review of Apple’s Compact Powerhouse</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-nvidia-quadro-rtx-4000-graphics-card-software/"><u>Update NVIDIA Quadro RTX 4000 Graphics Card Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/acs-top-mp4-cutters-for-youtube-success-for-2024/"><u>[New] Mac's Top MP4 Cutters for YouTube Success for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-review-of-picsart-app-a-step-by-step-guide/"><u>[Updated] Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-7-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 7 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-fixing-missing-mfc42dll-error-messages/"><u>Comprehensive Guide to Fixing Missing mfc42.dll Error Messages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cultivating-daily-zen-with-ai-your-guide-to-using-chatgpt-for-meditation-practices/"><u>Cultivating Daily Zen with AI: Your Guide to Using ChatGPT for Meditation Practices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultural-syntax-in-speech-brazilians-and-europeans/"><u>Cultural Syntax in Speech: Brazilians & Europeans</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-to-address-chatgpt-moderation-issues/"><u>Effective Techniques to Address ChatGPT Moderation Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-the-thrill-of-march-madness-and-final-four-with-our-live-mens-ncaa-radio-coverage/"><u>Experience the Thrill of March Madness & Final Four with Our Live Men's NCAA Radio Coverage!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a1-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A1 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-setup-process-accessing-gmail-emails-from-iphone-to-apple-watch/"><u>Navigating the Setup Process: Accessing Gmail Emails From iPhone to Apple Watch</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95688930-9781440534676-prosperity-spells/"><u>Prosperity Spells | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-for-failed-windows-10-may-2019-version-updates/"><u>Resolved: Troubleshooting Steps for Failed Windows 10 May 2019 Version Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-trick-for-removing-temporary-files-from-your-android-phone-or-tablet/"><u>The Ultimate Trick for Removing Temporary Files From Your Android Phone or Tablet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-youtube-policies-limits-on-number-of-your-channels/"><u>Understanding YouTube Policies: Limits On Number Of Your Channels</u></a></li>
 </ul></div>
 

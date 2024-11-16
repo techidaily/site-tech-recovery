@@ -1,7 +1,7 @@
 ---
 title: Identifying and Locating Hidden AirTags Around You - Insights From ZDNet
-date: 2024-10-29T22:27:42.064Z
-updated: 2024-11-05T20:48:27.876Z
+date: 2024-11-11T03:35:44.584Z
+updated: 2024-11-15T16:59:11.338Z
 tags:
   - apple
 categories:
@@ -33,6 +33,13 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
@@ -46,16 +53,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -66,14 +67,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-## Enable the Collaboration feature
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Enable the Collaboration feature
 
 ### 1\. Open an Apple Pages document
 
@@ -83,6 +84,13 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -90,13 +98,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -115,13 +116,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -163,24 +157,22 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-locating-youtubes-content-creation-hub-essential-guide/"><u>[Updated] In 2024, Locating YouTube's Content Creation Hub Essential Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-handling-missing-or-unavailable-d3dx925dll-issues/"><u>A Comprehensive Guide to Handling Missing or Unavailable d3dx9_25.dll Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-watch-wont-connect-discover-6-effective-fixes/"><u>Apple Watch Won't Connect? Discover 6 Effective Fixes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/digital-still-extraction-windows-11-guide-for-videos-for-2024/"><u>Digital Still Extraction Windows 11 Guide for Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-address-mapi32dll-not-detected-issues-in-windows/"><u>Effective Solutions to Address Mapi32.dll Not Detected Issues in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-accessories-included-with-your-nintendo-switch-purchase/"><u>Essential Accessories Included with Your Nintendo Switch Purchase</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-fix-kernel-base-ini-page-mapping-errors-quickly/"><u>Expert Tips to Fix 'Kernel Base Ini' Page Mapping Errors Quickly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-recommends-android-owners-switch-off-2g-network-support/"><u>Google Recommends Android Owners Switch Off 2G Network Support</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 11 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-clear-audio-crystal-clear-view-premium-webcams-for-podcasts/"><u>In 2024, Clear Audio, Crystal-Clear View Premium Webcams for Podcasts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-lava-blaze-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Lava Blaze Pro 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/seamless-approach-step-by-step-tutorial-for-making-a-recovery-disk-with-minimal-effort/"><u>Seamless Approach: Step-by-Step Tutorial for Making a Recovery Disk with Minimal Effort</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/secure-your-data-effective-encryption-of-files-on-a-usb-stick/"><u>Secure Your Data: Effective Encryption of Files on a USB Stick</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforming-your-space-into-a-karaoke-haven-a-comprehensive-guide-to-hosting-at-home/"><u>Transforming Your Space Into a Karaoke Haven: A Comprehensive Guide to Hosting at Home</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-when-you-cant-find-msstdfmtdll-on-your-pc/"><u>Troubleshooting Tips for When You Can't Find msstdfmt.dll on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722875027608-understanding-the-503-service-unavailable-error-causes-and-solutions/"><u>Understanding the 503 Service Unavailable Error: Causes and Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unearth-intriguing-tidbits-about-emojis-top-ten-emoji-discoveries/"><u>Unearth Intriguing Tidbits About Emojis - Top Ten Emoji Discoveries</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/witnessing-tech-history-unfold-with-the-apple-iphone-global-introduction/"><u>Witnessing Tech History Unfold with the Apple iPhone Global Introduction</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-overcoming-connectivity-issues-in-remote-recording/"><u>[New] 2024 Approved Overcoming Connectivity Issues in Remote Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-webm-audio-extraction-from-twitta-vids/"><u>[New] 2024 Approved WebM Audio Extraction From Twitta Vids</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-iconic-imagery-tales-untold/"><u>[New] Iconic Imagery Tales Untold</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-precision-shade-modifier/"><u>[New] Precision Shade Modifier</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlock-the-full-potential-of-your-gopro-4k-recordings/"><u>[New] Unlock the Full Potential of Your GoPro 4K Recordings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-email-providers-our-ultimate-top-10-picks/"><u>Best Free Email Providers: Our Ultimate Top 10 Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/customizing-your-samsung-smart-tvs-browser-tips-for-downloading-and-setting-up-alternatives/"><u>Customizing Your Samsung Smart TV's Browser: Tips for Downloading and Setting Up Alternatives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vs-gasoline-how-evs-excel-in-automotive-excellence/"><u>Electric Vs. Gasoline: How EVs Excel in Automotive Excellence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-i-replace-a-broken-or-missing-key-on-my-laptops-keyboard/"><u>How Do I Replace a Broken or Missing Key on My Laptop's Keyboard?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-excessive-cpu-consumption-by-msmpengine-in-windows-10/"><u>How to Stop Excessive CPU Consumption by MsMpEngine in Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-motorola-g24-power-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Motorola G24 Power to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unveiling-the-process-of-obs-installation-on-apple-devices/"><u>In 2024, Unveiling the Process of OBS Installation on Apple Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-instagram-video-soundtracking-techniques/"><u>Mastering the Art of Instagram Video Soundtracking Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-x3daudiodll-errors-on-your-pc-essential-troubleshooting-techniques/"><u>Overcoming x3daudio.dll Errors on Your PC: Essential Troubleshooting Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-overcoming-the-not-registered-on-network-hurdle-for-galaxy-devices/"><u>Step-by-Step Guide: Overcoming the 'Not Registered on Network' Hurdle for Galaxy Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-teen-centric-films-streaming-on-netflix/"><u>Top Teen-Centric Films Streaming on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-server-hiccups-can-you-confirm-if-discords-outage-is-universal-or-user-specific/"><u>Understanding Server Hiccups: Can You Confirm if Discord's Outage Is Universal or User-Specific?</u></a></li>
 </ul></div>
 

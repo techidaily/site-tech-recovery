@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Word Won't Open Your Document: Top Troubleshooting Techniques Revealed"
-date: 2024-09-04T02:55:06.840Z
-updated: 2024-09-05T02:55:06.840Z
+date: 2024-11-09T01:04:42.587Z
+updated: 2024-11-16T02:21:18.950Z
 categories:
   - BestProducts
 description: "This Article Describes Microsoft Word Won't Open Your Document: Top Troubleshooting Techniques Revealed"
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/c67ae945d13a65a17a2d97a04bd087435fddfcab7
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who Is Eligible for Microsoft's Student Discount?
 
  The Microsoft student discount is available to a wide range of people, including students, faculty, and even parents. Here are the general requirements:
@@ -39,11 +46,19 @@ thumbnail: https://thmb.techidaily.com/c67ae945d13a65a17a2d97a04bd087435fddfcab7
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -56,11 +71,12 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -91,8 +107,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +114,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-unlock-xps-movie-magic-software-essentials-for-2024/"><u>[New] Unlock XP's Movie Magic Software Essentials for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-capture-and-preserve-a-detailed-look-at-7-ways-to-log-webcasts/"><u>[Updated] 2024 Approved Capture and Preserve A Detailed Look at 7 Ways to Log Webcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-building-a-successful-facebook-charity-competition/"><u>2024 Approved Building a Successful Facebook Charity Competition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-mic-not-working-heres-a-step-by-step-guide-to-fixing-the-problem/"><u>Astro A10 Mic Not Working? Here's a Step-by-Step Guide to Fixing the Problem!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-mechanics-of-espnpluss-live-sports-and-content-delivery-on-demand/"><u>Decoding the Mechanics of ESPN+'s Live Sports and Content Delivery on Demand</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-forces-with-youtube-the-2024-partner-program-journey/"><u>Joining Forces with YouTube The 2024 Partner Program Journey</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-online-networks-for-workplace-success/"><u>Mastering Online Networks for Workplace Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-preservation-101-digitalization-of-ancestral-prints/"><u>Photo Preservation 101 Digitalization of Ancestral Prints</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revealing-the-curious-minds-how-to-spot-document-viewer-in-google-drive/"><u>Revealing the Curious Minds: How to Spot Document Viewer in Google Drive</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-m34-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy M34</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-unsecured-connection-message-a-step-by-step-guide/"><u>Solving the 'Unsecured Connection' Message: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-password-entry-woes-for-android-wi-fi-access/"><u>Troubleshooting Password Entry Woes for Android Wi-Fi Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-roku-closed-captioning-feature-that-refuses-to-activate/"><u>Troubleshooting Roku Closed Captioning Feature That Refuses to Activate</u></a></li>
+</ul></div>
 

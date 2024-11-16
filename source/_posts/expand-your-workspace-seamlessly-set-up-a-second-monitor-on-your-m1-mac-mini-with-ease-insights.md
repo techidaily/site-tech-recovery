@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Workspace: Seamlessly Set Up a Second Monitor on Your M1 Mac Mini with Ease | Insights"
-date: 2024-11-02T01:36:52.852Z
-updated: 2024-11-06T01:37:25.972Z
+date: 2024-11-09T17:03:20.729Z
+updated: 2024-11-15T19:38:38.036Z
 tags:
   - apple
 categories:
@@ -44,15 +44,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -64,10 +71,16 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +90,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -88,13 +101,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,18 +136,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pc-videography-leveraging-windows-hdr/"><u>[New] 2024 Approved PC Videography Leveraging Windows HDR</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-compact-and-cost-effective-mirrorless-4k-cameras-(1000/"><u>[New] In 2024, Compact and Cost-Effective Mirrorless 4K Cameras <$1,000</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-surpassing-peers-standing-out-in-the-vimeo-staffs-choices/"><u>[New] Surpassing Peers Standing Out in the Vimeo Staff's Choices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-videography-101-editing-essentials-taught/"><u>[New] YouTube Videography 101 Editing Essentials Taught</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capturing-live-streams-on-fb-top-techniques-revealed/"><u>2024 Approved Capturing Live Streams on FB Top Techniques Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-ways-to-restart-file-explorer-in-windows-11-and-11/"><u>4 Ways to Restart File Explorer in Windows 11 and 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/advanced-connections-the-premier-selection-of-cablewireless-routers-for-2amoons/"><u>Advanced Connections: The Premier Selection of Cable/Wireless Routers for 2Amoons</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enable-cross-platform-streaming-from-computermac-to-apple-tv-with-vlc/"><u>How To Enable Cross-Platform Streaming From Computer/Mac to Apple TV with VLC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-itel-a70-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Itel A70</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-1000-club-achievement-monthly-tips-for-insta-success-and-growth/"><u>In 2024, The 1,000 Club Achievement Monthly Tips for Insta Success and Growth</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipad-pro-vs-macbook-air-a-comprehensive-guide-to-choosing-between-m4-and-m3-models/"><u>IPad Pro Vs. MacBook Air: A Comprehensive Guide to Choosing Between M4 and M3 Models</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solutions-for-a-malfunctioning-xbox-series-x-or-s-headset-expert-tips-included/"><u>Solutions for a Malfunctioning Xbox Series X or S Headset - Expert Tips Included</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-windows-10-indispensable-hacks-and-fixes/"><u>[New] Unlocking Windows 10 Indispensable Hacks & Fixes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-the-art-top-5-hand-to-hand-combat-games/"><u>2024 Approved Mastering the Art Top 5 Hand-to-Hand Combat Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-elite-windows-apps-for-data-security-149-chars/"><u>7 Elite Windows Apps for Data Security (149 Chars)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-ring-coming-soon-find-out-about-possible-launch-date-cost-estimates-and-advanced-features/"><u>Apple Ring Coming Soon? Find Out About Possible Launch Date, Cost Estimates & Advanced Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/blu-ray-vs-streaming-making-the-right-choice-for-your-home-entertainment/"><u>Blu-Ray Vs. Streaming: Making the Right Choice for Your Home Entertainment</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/erfolgreiche-wiederherstellung-defekter-partitionen-auf-der-festplatte-erklart/"><u>Erfolgreiche Wiederherstellung Defekter Partitionen Auf Der Festplatte Erklärt</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-12-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme 12 Pro 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-expert-8-download-for-fb-movies/"><u>In 2024, Expert 8 Download for FB Movies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-remove-built-in-ios-applications-from-your-iphone/"><u>Is It Possible to Remove Built-In iOS Applications From Your iPhone?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/plotting-the-perfect-tiktok-outro-journey/"><u>Plotting the Perfect TikTok Outro Journey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-secrets-of-bass-management-working-mechanism-explained/"><u>Unraveling the Secrets of Bass Management - Working Mechanism Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-personal-gastronomic-companion-7-chatgpt-strategies/"><u>Your Personal Gastronomic Companion: 7 ChatGPT Strategies</u></a></li>
 </ul></div>
 

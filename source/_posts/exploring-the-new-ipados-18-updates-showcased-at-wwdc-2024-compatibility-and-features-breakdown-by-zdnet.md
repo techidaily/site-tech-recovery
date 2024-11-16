@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2024-10-30T22:32:00.280Z
-updated: 2024-11-05T21:01:45.589Z
+date: 2024-11-13T17:28:16.491Z
+updated: 2024-11-15T22:15:48.220Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,16 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -92,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -134,18 +128,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-enhancing-snap-memories-with-android-and-mac-apps/"><u>[New] Enhancing Snap Memories with Android and Mac Apps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/hare-your-stories-with-lush-soundtracks-in-2024/"><u>[New] Share Your Stories with Lush Soundtracks, In 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-premiere-previews-extravaganza/"><u>[Updated] 2024 Approved Premiere Previews Extravaganza</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quintessential-scripts-elevating-blockbusters/"><u>2024 Approved Quintessential Scripts Elevating Blockbusters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-tutorial-to-monitor-popular-interactions-on-youtube-for-2024/"><u>A Step-by-Step Tutorial to Monitor Popular Interactions on YouTube for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aether-explained-exploring-its-core-concepts-and-joining-procedures/"><u>Aether Explained: Exploring Its Core Concepts & Joining Procedures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-6-most-effective-homework-helpers-tailored-for-learners-and-parents-alike/"><u>Discover the 6 Most Effective Homework Helpers - Tailored for Learners and Parents Alike</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/lenovo-x1-carbon-effortless-driver-downloads-compatible-with-windows-11-and-7/"><u>Lenovo X1 Carbon: Effortless Driver Downloads Compatible with Windows 11 and 7</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimizing-podcasts-on-googles-platform-for-2024/"><u>Optimizing Podcasts on Google's Platform for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-guide-solving-startup-problems-with-mozilla-thunderbird/"><u>Quick Guide: Solving Startup Problems with Mozilla Thunderbird</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-to-correctly-fix-stop-error-0x00000078-phase-transition-malfunction/"><u>Step-by-Step Tutorial to Correctly Fix STOP Error 0X00000078 - Phase Transition Malfunction</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-thawing-your-frozen-macbook-air/"><u>Ultimate Guide to Thawing Your Frozen MacBook Air</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-incredible-drone-photoshoot-contenders-10-for-2024/"><u>[New] Incredible Drone Photoshoot Contenders #10 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[Updated] In 2024, A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamline-your-zoom-talks-with-camera-snaps/"><u>[Updated] In 2024, Streamline Your Zoom Talks with Camera Snaps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-peak-performance-cameras-for-athleticism/"><u>2024 Approved Peak Performance Cameras for Athleticism</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-step-by-step-process-of-permanently-removing-your-yahoo-email/"><u>Complete Guide: Step-by-Step Process of Permanently Removing Your Yahoo! Email</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-multiversus-stability-issues-with-our-top-8-fixing-techniques/"><u>Conquer MultiVersus Stability Issues with Our Top 8 Fixing Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-phantom-v-flip-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Phantom V Flip</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-access-a-tutorial-on-enabling-autologin-functionality-on-windows-computers/"><u>Effortless Access: A Tutorial on Enabling Autologin Functionality on Windows Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/embracing-the-future-with-verizons-advanced-5g-network/"><u>Embracing the Future with Verizon's Advanced 5G Network</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722897721115-get-the-scoop-on-the-new-google-pixel-tablet-key-features-release-timeline-and-news-coverage/"><u>Get the Scoop on the New Google Pixel Tablet - Key Features, Release Timeline & News Coverage.</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-make-every-moment-count-with-these-15-engaging-activities-while-listening-to-talk-shows/"><u>In 2024, Make Every Moment Count with These 15 Engaging Activities While Listening to Talk Shows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mailcom-determining-when-your-email-address-will-be-deactivated/"><u>Mail.com: Determining When Your Email Address Will Be Deactivated</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-pairing-process-linking-phone-and-oculus-quest-2-seamlessly/"><u>Mastering the Pairing Process: Linking Phone and Oculus Quest 2 Seamlessly</u></a></li>
 </ul></div>
 

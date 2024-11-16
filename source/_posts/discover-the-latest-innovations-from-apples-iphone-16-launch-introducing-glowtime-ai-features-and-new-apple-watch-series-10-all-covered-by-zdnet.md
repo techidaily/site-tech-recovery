@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2024-11-03T01:07:03.001Z
-updated: 2024-11-05T21:40:50.445Z
+date: 2024-11-11T03:04:24.400Z
+updated: 2024-11-16T01:20:57.932Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -86,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -99,13 +113,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -129,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -152,13 +159,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,16 +218,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-9-listing-best-virtual-microphones-recorders-2023/"><u>[Updated] In 2024, Ultimate 9 Listing Best Virtual Microphones Recorders 2023</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-your-youtube-income-through-understanding-cpm-for-2024/"><u>[Updated] Maximizing Your YouTube Income Through Understanding CPM for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avoiding-motherboard-issues-fixing-cmos-system-clock-corruption/"><u>Avoiding Motherboard Issues: Fixing CMOS System Clock Corruption</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovering-what-makes-telegram-a-unique-chat-service/"><u>Discovering What Makes Telegram a Unique Chat Service</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/elevate-your-win10-experience-new-driver-release-for-radeon-hd-6950/"><u>Elevate Your Win10 Experience: New Driver Release for Radeon HD 6950</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-movie-marathon-on-crackle-your-go-to-source-for-on-demand-entertainment/"><u>Free Movie Marathon on Crackle – Your Go-To Source for On-Demand Entertainment</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-a-headstart-on-the-next-wave-comprehensive-guide-to-the-rumored-samsung-galaxy-s25-its-price-arrival-and-technical-innovations/"><u>Get a Headstart on the Next Wave: Comprehensive Guide to the Rumored Samsung Galaxy S25 - Its Price, Arrival & Technical Innovations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-device-driver-conflicts-within-world-of-warcraft-games/"><u>How to Overcome Device Driver Conflicts Within World of Warcraft Games</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oneplus-11-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on OnePlus 11 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-my-mailcom-email-set-to-expire-how-to-check-and-extend-it/"><u>Is My Mail.com Email Set to Expire? How to Check and Extend It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-8-parent-control-solutions-our-picks/"><u>Top 8 Parent Control Solutions - Our Picks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-5-must-have-video-editing-software-for-macos-sierra-for-2024/"><u>[Updated] Top 5 Must-Have Video Editing Software for macOS Sierra for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-5-best-graphics-cards-for-4k-video-editing-and-rendering/"><u>2024 Approved 5 Best Graphics Cards for 4K Video Editing and Rendering</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y27-4g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y27 4G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/does-my-mailcom-email-address-have-an-expiration-date/"><u>Does My Mail.com Email Address Have an Expiration Date?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-docx-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .docx file online free - (Tutorial)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/local-groups-local-power-admin-techniques-for-win1110-homes/"><u>Local Groups, Local Power: Admin Techniques for Win11/10 Homes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-data-management-wise-utilization-for-smartphones-and-wi-fi/"><u>Mastering the Art of Data Management: Wise Utilization for Smartphones and Wi-Fi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/order-matters-how-to-enjoy-the-full-story-of-the-transformers-movies/"><u>Order Matters: How to Enjoy the Full Story of the Transformers Movies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-discover-7-secrets-to-a-faster-smarter-pc/"><u>Quick Fixes: Discover 7 Secrets to a Faster, Smarter PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-ar-100-inch-laptop-available-without-external-monitor-perfect-for-immersive-experience-zdnet-exclusive/"><u>Revolutionary AR 100 Inch Laptop Available Without External Monitor, Perfect for Immersive Experience! [ZDNet Exclusive]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-uncovering-hidden-youtube-comments-that-wont-display/"><u>Troubleshooting Tips: Uncovering Hidden YouTube Comments That Won't Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-expert-insights-and-ratings-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024: Expert Insights and Ratings | ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-espnplus-a-comprehensive-guide-to-the-world-of-sports-streaming/"><u>Understanding ESPN+: A Comprehensive Guide to the World of Sports Streaming</u></a></li>
 </ul></div>
 

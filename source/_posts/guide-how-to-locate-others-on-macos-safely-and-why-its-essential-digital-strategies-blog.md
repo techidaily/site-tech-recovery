@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog"
-date: 2024-11-02T16:24:43.174Z
-updated: 2024-11-05T21:33:28.786Z
+date: 2024-11-12T02:48:49.967Z
+updated: 2024-11-15T23:16:20.678Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,16 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,22 +140,14 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-seamless-speech-to-text-leveraging-googles-expertise/"><u>[New] 2024 Approved Seamless Speech-to-Text Leveraging Google's Expertise</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-essential-insight-the-most-efficient-snipping-software-for-windows/"><u>[Updated] 2024 Approved Essential Insight The Most Efficient Snipping Software for WINDOWS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-facebook-collage-in-minutes/"><u>2024 Approved Mastering Facebook Collage in Minutes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-7-alarm-clock-apps-to-transform-your-mornings/"><u>Discover the Ultimate List: 7 Alarm Clock Apps to Transform Your Mornings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-and-tricks-to-get-your-instagram-stories-uploaded/"><u>Expert Tips and Tricks to Get Your Instagram Stories Uploaded</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-solve-when-mfc42ddll-is-unavailable-on-your-system/"><u>Expert Tips to Solve When mfc42d.dll Is Unavailable on Your System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-the-scoop-on-apples-upcoming-auto-venture-latest-news-flurry-insider-price-guesses-and-in-depth-vehicle-specs/"><u>Get the Scoop on Apple's Upcoming Auto Venture: Latest News Flurry, Insider Price Guesses & In-Depth Vehicle Specs</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-an-incorrect-cpu-usage-in-the-windows-task-manager/"><u>How to Fix an Incorrect CPU Usage in the Windows Task Manager</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-magic-6-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor Magic 6? Fixed | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/industry-standard-guide-implementing-stopwatches-in-video-streaming-software/"><u>Industry Standard Guide Implementing Stopwatches in Video Streaming Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-location-tracking-on-iphone-with-our-favorite-5-gps-apps/"><u>Mastering Location Tracking on iPhone with Our Favorite 5 GPS Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/nurturing-relationships-inspiring-connections-with-your-viewers-for-2024/"><u>Nurturing Relationships Inspiring Connections With Your Viewers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/onepluss-next-evolution-a-sneak-peek-into-price-range-estimated-release-date-and-feature-set-for-upcoming-device/"><u>OnePlus's Next Evolution: A Sneak Peek Into Price Range, Estimated Release Date & Feature Set for Upcoming Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolve-paramount-plus-playback-problems-on-firestick-expert-tips-and-tricks/"><u>Resolve Paramount Plus Playback Problems on Firestick - Expert Tips & Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-lowdown-on-samsung-galaxy-watch-7-anticipated-cost-and-features-pre-release/"><u>The Lowdown on Samsung Galaxy Watch 7 - Anticipated Cost & Features Pre-Release</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unboxing-the-future-speculations-surrounding-oneplus-10s-launch-date-value-and-tech-innovations/"><u>Unboxing the Future: Speculations Surrounding OnePlus 10'S Launch Date, Value & Tech Innovations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>[New] The Definitive Guide to iPhones How to Grab Podcast Episodes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-8-alternative-messaging-platforms/"><u>Discover the Best 8 Alternative Messaging Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-cutting-edge-asus-expertbook-p5-with-intel-core-i7-and-lunar-lake-technology-inside/"><u>Discover the Cutting-Edge ASUS ExpertBook P5 with Intel Core I7 and Lunar Lake Technology Inside</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/effortlessly-stop-bluestacks-from-crashing-follow-these-5-remedial-actions/"><u>Effortlessly Stop BlueStacks From Crashing: Follow These 5 Remedial Actions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-education-with-these-9-must-have-tech-tools-for-students/"><u>Elevate Your Education with These 9 Must-Have Tech Tools for Students</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-physxloaderdll-is-missing-or-not-found-errors/"><u>How to Fix Physxloader.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2023-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2023 files</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/no-need-for-a-previous-copy-expert-guide-on-retrieving-iphone-information-without-backups/"><u>No Need for a Previous Copy: Expert Guide on Retrieving iPhone Information Without Backups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unified-contact-points-how-to-keep-one-phone-number-on-various-devices/"><u>Unified Contact Points: How to Keep One Phone Number on Various Devices</u></a></li>
 </ul></div>
 

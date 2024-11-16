@@ -1,7 +1,7 @@
 ---
 title: "Decoding 502 Gateway Malfunction: Causes & Fixes for Optimal Performance"
-date: 2024-09-04T02:52:34.476Z
-updated: 2024-09-05T02:52:34.476Z
+date: 2024-11-09T00:53:18.758Z
+updated: 2024-11-16T01:22:22.800Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding 502 Gateway Malfunction: Causes & Fixes for Optimal Performance"
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -27,6 +34,14 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
@@ -37,11 +52,12 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -53,17 +69,12 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -101,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +119,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-best-of-the-best-crafting-a-top-5-racing-game-selection/"><u>[New] 2024 Approved The Best of the Best Crafting a Top 5 Racing Game Selection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-creating-a-memorable-and-unique-moniker-for-your-filmora-content/"><u>[Updated] 2024 Approved Creating a Memorable and Unique Moniker for Your Filmora Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-deciphering-digital-domination-a-deep-dive-into-directors-videos-for-2024/"><u>[Updated] Deciphering Digital Domination A Deep Dive Into Directors' Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comparative-review-dji-phantom-3-vs-competitors/"><u>2024 Approved Comparative Review DJI Phantom 3 vs Competitors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-monitor-your-online-data-usage-at-home-or-work/"><u>Easy Ways to Monitor Your Online Data Usage at Home or Work</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-efficiently-utilize-googles-measure-feature-on-android-smartphones/"><u>How to Efficiently Utilize Google's Measure Feature on Android Smartphones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oppo-f23-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo F23 5G Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-multi-location-drops-in-google-mapping-platform/"><u>Mastering Multi-Location Drops in Google Mapping Platform</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pixelated-prowess-celebrating-the-best-shooter-classics-for-2024/"><u>Pixelated Prowess Celebrating the Best Shooter Classics for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-strategies-for-saving-data-with-smart-texting-habits/"><u>Top Strategies for Saving Data with Smart Texting Habits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/yahoo-mail-deletion-explained-how-to-ensure-total-removal-of-your-account/"><u>Yahoo Mail Deletion Explained: How To Ensure Total Removal of Your Account</u></a></li>
+</ul></div>
 

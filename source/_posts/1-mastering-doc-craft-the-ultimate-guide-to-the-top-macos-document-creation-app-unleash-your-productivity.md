@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2024-10-30T00:25:25.127Z
-updated: 2024-11-05T22:45:37.455Z
+date: 2024-11-13T08:45:39.168Z
+updated: 2024-11-16T07:29:05.280Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,21 +134,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>[Updated] 2024 Approved Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastering-the-craft-selecting-the-top-5-web-based-title-makers-for-2024/"><u>[Updated] Mastering the Craft Selecting the Top 5 Web-Based Title Makers for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-technique-for-anonymous-footage-via-image-smoothing-for-2024/"><u>[Updated] Technique for Anonymous Footage via Image Smoothing for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-alternative-footage-in-filmmaking/"><u>2024 Approved Leveraging Alternative Footage in Filmmaking</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intels-top-z270-motherboard-for-gamers-carbon-series-with-enhanced-features-and-free-access/"><u>Download Intel's Top Z270 Motherboard for Gamers: Carbon Series with Enhanced Features & Free Access</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-utilize-dual-viewing-with-ipad-screen-splitting-techniques/"><u>Effective Ways to Utilize Dual Viewing with iPad Screen Splitting Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-y55s-5g-2023-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo Y55s 5G (2023) Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-logitech-c615-a-sensible-investment-unveiling-its-features-and-price-appeal/"><u>Is the Logitech C615 a Sensible Investment? Unveiling Its Features & Price Appeal</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/pemulihan-data-terhenti-jawaban-untuk-windows-11-and-11-yang-berkeruntuhan/"><u>Pemulihan Data Terhenti: Jawaban Untuk Windows 11 & 11 Yang Berkeruntuhan</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/successful-guide-how-to-install-directx-12-on-windows-10/"><u>Successful Guide: How to Install DirectX 12 on Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-when-your-logitech-c922-hd-pro-camera-fails/"><u>Troubleshooting Steps for When Your Logitech C922 HD Pro Camera Fails</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-stuck-or-broken-widgets-in-windows-11-made-simple/"><u>Troubleshooting Stuck or Broken Widgets in Windows 11 Made Simple</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unify-your-visuals-a-beginners-guide-to-color-matching-in-final-cut-pro-for-2024/"><u>Unify Your Visuals A Beginners Guide to Color Matching in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/vmware-enhanced-keyboard-driver-what-is-it-and-how-to-install-it/"><u>VMware Enhanced Keyboard Driver - What Is It and How to Install It</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-10-install-stuck-at-just-a-moment-loop-fixed/"><u>Windows 10 Install Stuck at Just a Moment Loop [Fixed]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-11-black-and-white-screen-issue-solved/"><u>Windows 11 Black & White Screen Issue – Solved!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-the-perfect-introduction-15-viral-youtube-video-intros/"><u>[New] In 2024, Crafting the Perfect Introduction 15 Viral YouTube Video Intros</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hasty-instruction-saving-your-photos-as-youtube-channel-thumbnails/"><u>[New] In 2024, Hasty Instruction Saving Your Photos as YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-incognito-observer-of-online-chronicles/"><u>[New] Incognito Observer of Online Chronicles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-adding-closed-captions-to-vimeo-footage/"><u>[Updated] Adding Closed Captions to Vimeo Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-final-list-top-blu-ray-players-for-pcmacos-enthusiasts/"><u>[Updated] Final List Top Blu-Ray Players for PC/macOS Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-pump-up-your-viewership-with-these-proven-methods/"><u>[Updated] In 2024, Pump Up Your Viewership with These Proven Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-top-ten-historical-educational-video-streams-for-students/"><u>2024 Approved Top Ten Historical Educational Video Streams (For Students)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-for-downloading-and-using-fonts-on-ios-devices/"><u>A Comprehensive Tutorial for Downloading and Using Fonts on iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-that-flickering-touch-a-comprehensive-solution-for-surface-pro-display-issues/"><u>Fixing That Flickering Touch: A Comprehensive Solution for Surface Pro Display Issues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/harmonious-hummingbird-hustle-for-2024/"><u>Harmonious Hummingbird Hustle for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-windows-defender-error-0x80004004-instantly/"><u>How to Solve Windows Defender Error 0X80004004 Instantly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keep-your-mobile-number-off-public-repositories-a-step-by-step-guide-for-android-users/"><u>Keep Your Mobile Number Off Public Repositories: A Step-by-Step Guide for Android Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-quick-fixes-for-a-malfunctioning-amazon-fire-stick-remote/"><u>Master the Quick Fixes for a Malfunctioning Amazon Fire Stick Remote</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722863472658-ultimate-guide-resolving-the-dreaded-code-28-issues-on-your-windows-system/"><u>Ultimate Guide: Resolving the Dreaded Code 28 Issues on Your Windows System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-smartwatches-capabilities-and-innovations-unveiled/"><u>Understanding Smartwatches: Capabilities & Innovations Unveiled</u></a></li>
 </ul></div>
 

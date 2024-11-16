@@ -1,7 +1,7 @@
 ---
 title: The Evolution Continues with Apple's Brand-New iPhone Launch Event
-date: 2024-09-04T02:51:19.267Z
-updated: 2024-09-05T02:51:19.267Z
+date: 2024-11-12T01:25:01.652Z
+updated: 2024-11-15T19:13:53.645Z
 categories:
   - BestProducts
 description: This Article Describes The Evolution Continues with Apple's Brand-New iPhone Launch Event
@@ -41,12 +41,6 @@ thumbnail: https://www.lifewire.com/thmb/yPQjTGzN9auIv2CXwiwGwxKS0So=/400x300/fi
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%273166%27 height=%271676%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![iPhone 15 Pro features](https://www.lifewire.com/thmb/W5IYkEGNlzvUhlNEOkvgw50dDgc=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15ProFeatures-c322bb8455fb4be2af8125103040fef4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  PHOTO:
 
 Apple Inc
@@ -64,6 +58,13 @@ Apple Inc
  It can even use Shortcuts, which opens up even more possibilities.
 
 [9 Ways to Use the iPhone 15 Pro's Action Button](https://www.lifewire.com/ways-to-use-iphone-action-button-8346805)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Coolest Features of the iPhone 15 and 15 Pro
 
@@ -96,16 +97,23 @@ Apple Inc
 
 [USB-C: Everything You Need to Know](https://www.lifewire.com/usb-c-4149490)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The New Apple Watches
 
  This event included two new models of the Apple Watch: the standard Series 9 and the more rugged Ultra 2.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Series 9
 
  Apple showed off the latest Apple Watch, the Series 9, which provides several updates and improvements over the previous model. The first major update is the screen, which goes edge-to-edge and can display up to 2,000 nits, which is twice the maximum brightness of the Series 8.
@@ -120,12 +128,6 @@ Apple Inc
 
  Each case is available in 41 and 45mm sizes, and either one can optionally connect to a cellular network.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ultra 2
 
  The Apple Watch Ultra 2 only comes in one case size, but it's bigger than either of the Series 9 options. Its titanium frame measures 49mm, and its always-on display is also 50% brighter than the Series 9's screen, with a maximum output of 3,000 nits.
@@ -143,11 +145,12 @@ Apple Inc
  And, for outdoor emergencies, you can tap and hold the Action Button for a siren.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The Coolest Features
 
  Apple dropped a lot of information really quickly, but some features were definitely our favorites. Here are our picks for the best things about the Apple Watch Series 9 and Ultra 2.
@@ -155,11 +158,12 @@ Apple Inc
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%273623%27 height=%271000%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Features for the Apple Watch Series 9 and Apple Watch Ultra 2](https://www.lifewire.com/thmb/3C5VOVuE9rqpY8EWPB4gE_u_43E=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-9-and-Ultra-2-features-bd698a1b23f24eb6a796ced9763e23e0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  PHOTO:
 
 Apple Inc
@@ -177,17 +181,12 @@ Apple Inc
 [Double Tap on Apple Watch Series 9 Could Be the Coolest Feature Ever](https://www.lifewire.com/apple-watch-series-9-confirmed-7968679)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Pricing and Availability
 
  The Series 9 starts at $399, but the price will change depending on case material, size, connectivity, and band. Here's a quick breakdown:
@@ -209,14 +208,11 @@ Apple Inc
 
 [The Next Apple Event: Dates, News, Rumors, and Announcements](https://www.lifewire.com/apple-event-5097169)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -225,4 +221,18 @@ Apple Inc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-strategies-to-secure-best-youtube-collaborative-pairs/"><u>[New] 2024 Approved Strategies to Secure Best YouTube Collaborative Pairs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-11-techniques-for-stunning-color-balance/"><u>2024 Approved Top 11 Techniques for Stunning Color Balance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/flacwmamovavi/"><u>全自動音楽コーデック変換 - 無料でFLAC/WMAが使えるMovavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-handling-mfc42dll-is-absent-error-and-restoring-functionality/"><u>Expert Advice on Handling 'mfc42.dll Is Absent' Error and Restoring Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-cinematic-to-classic-tunes-navigating-the-contrast-between-home-theater-systems-and-stereo-receivers/"><u>From Cinematic to Classic Tunes: Navigating the Contrast Between Home Theater Systems and Stereo Receivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-newbies-to-pros-understanding-twitch-chat-basics/"><u>From Newbies to Pros: Understanding Twitch Chat Basics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-live-streaming-360-video-to-youtube-for-2024/"><u>How to Live Streaming 360 Video to Youtube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-exhilarating-freeness-of-screen-pairing-games/"><u>In 2024, Exhilarating Freeness of Screen Pairing Games</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-of-amazon-prime-day-2024-tips-and-insights-for-shopaholics/"><u>Unlocking the Secrets of Amazon Prime Day 2024 – Tips & Insights for Shopaholics</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/verspatete-dlls-in-windows-1011-wiederherstellungen-und-optimierungstechniken-fur-ein-reibungsloses-betriebssystem/"><u>Verspätete DLLs in Windows 10/11: Wiederherstellungen Und Optimierungstechniken Für Ein Reibungsloses Betriebssystem</u></a></li>
+</ul></div>
 

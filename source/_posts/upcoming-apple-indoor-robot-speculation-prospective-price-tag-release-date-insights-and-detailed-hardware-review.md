@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Indoor Robot Speculation: Prospective Price Tag, Release Date Insights & Detailed Hardware Review"
-date: 2024-09-04T02:50:48.807Z
-updated: 2024-09-05T02:50:48.807Z
+date: 2024-11-15T00:03:27.478Z
+updated: 2024-11-15T20:48:47.442Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Apple Indoor Robot Speculation: Prospective Price Tag, Release Date Insights & Detailed Hardware Review"
@@ -33,9 +33,23 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
  Like in previous years, there will be several models: iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, and iPhone 17 Slim.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 A September 2025 release date seems like a lock.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone 17 Price Rumors
 
@@ -47,22 +61,17 @@ A September 2025 release date seems like a lock.
 
  So, the iPhone 17 price might vary a little, but a starting price around $799 is a safe bet, with the cost going up based on screen size and storage. And of course, the Pro version will be more expensive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## iPhone 17 Specs & Features
 
  The iPhone 17 is rumored to introduce some major upgrades to its screen, big improvements to the cameras, faster processors, and more. Here's a summary of what's rumored:
@@ -90,24 +99,12 @@ A September 2025 release date seems like a lock.
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Processor and Chips
 
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
 
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Camera
 
  Rumors suggest at least three key improvements to the iPhone 17 series cameras.
@@ -124,22 +121,17 @@ A September 2025 release date seems like a lock.
 
  While not a widely reported rumor,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 may change its physical dimensions, becoming taller and skinnier, with a 19.6:9 aspect ratio (the aspect ratio of current iPhone is 16:9).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### AI
 
  While there are no specific rumors about the use of[AI](https://www.lifewire.com/artificial-intelligence-and-science-6386405) in the iPhone 17 yet, it's an absolute certainty that that model, and its version of the iOS, will feature lots of new AI tools. What they are depends on[what features debut with the iPhone 16/iOS 18 in 2024](https://www.lifewire.com/apple-is-using-ai-everywhere-7509132) , and how the rapidly changing AI field evolves, but count on some new artificial intelligence enhancements.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Latest News About iPhone 17
 
  We'll update this page regularly, as more news about the iPhone 17 becomes available. In the meantime, Lifewire has you covered for[smartphone news](https://www.lifewire.com/mobile-phones-4781509) and advice such as helping you decide[Which iPhone Should You Buy?](https://www.lifewire.com/pick-best-iphone-for-you-1999293)
@@ -154,14 +146,11 @@ A September 2025 release date seems like a lock.
 
 [Why a Dedicated iPhone Video Button Is a Great Idea](https://www.lifewire.com/dedicated-iphone-video-button-8546938)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +159,22 @@ A September 2025 release date seems like a lock.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-metaverse-marketing-plan/"><u>[New] A Step-by-Step Metaverse Marketing Plan</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fostering-creativity-the-most-innovative-6-nft-services/"><u>[New] Fostering Creativity The Most Innovative 6 NFT Services</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-great-debate-should-you-go-for-obs-or-bandicam/"><u>[New] In 2024, The Great Debate Should You Go for OBS or Bandicam?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-thumbnails-demystified-mac-edition/"><u>[New] YouTube Thumbnails Demystified - Mac Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-blueprints-of-bliss-building-a-virtual-mc-village-home/"><u>[Updated] Blueprints of Bliss Building a Virtual MC Village Home</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-decoding-the-visual-language-of-live-videos-on-youtube/"><u>2024 Approved Decoding the Visual Language of Live Videos on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-obtaining-markless-photos/"><u>2024 Approved Mastering the Art of Obtaining Markless Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899116584-apple-watch-not-connecting-try-these-6-solutions-for-a-successful-pairing/"><u>Apple Watch Not Connecting? Try These 6 Solutions for a Successful Pairing!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/emojis-decoded-revealing-the-astonishing-backstories-behind-your-favorite-icons/"><u>Emojis Decoded: Revealing the Astonishing Backstories Behind Your Favorite Icons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-transfer-google-photos-to-icloud/"><u>How to Transfer Google Photos to iCloud</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/komfortabel-portable-betriebssystem-windows-11-als-flash-laufwerk-herstellen/"><u>Komfortabel Portable Betriebssystem Windows 11 Als Flash-Laufwerk Herstellen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-and-correcting-content-restrictions-in-chatgpt/"><u>Navigating and Correcting Content Restrictions in ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-smart-searches-unlock-new-possibilities-with-microsofts-ai-integrated-bing/"><u>Pioneering Smart Searches: Unlock New Possibilities with Microsoft's AI-Integrated Bing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-a-spot-at-the-genius-bar-the-ultimate-guide-to-scheduling-apple-store-assistance/"><u>Securing a Spot at the Genius Bar: The Ultimate Guide to Scheduling Apple Store Assistance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streaming-on-the-go-using-a-mobile-hotspot-to-connect-your-fire-stick/"><u>Streaming on the Go: Using a Mobile Hotspot to Connect Your Fire Stick</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPad Air 4 vs iPad Air 5 Showdown: Is It Time to Upgrade Your Tablet? | Tech Advice"
-date: 2024-10-26T05:19:55.599Z
-updated: 2024-10-30T23:57:07.324Z
+date: 2024-11-10T02:34:49.954Z
+updated: 2024-11-16T03:17:50.195Z
 tags:
   - apple
 categories:
@@ -37,13 +37,6 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -61,16 +54,16 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. You're ready to embrace Apple's M1 supremacy
 
@@ -87,16 +80,10 @@ Camera performance isn't typically the key selling point for tablets, let alone 
 While the 12MP rear camera remains untouched, the front now houses a 12MP ultra-wide camera. With a wider field of view than the previous generation's 7MP FaceTime HD lens, the new iPad can take advantage of Center Stage, Apple's webcam feature that tracks and follows your face as you move around. This is particularly useful for presentations and FaceTime calls with friends and family.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. You thrive on 5G
@@ -111,24 +98,31 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 Image: Apple
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Price comes before anything else
 
 With the release of the new iPad Air, most third-party retailers have since marked down the 2020 model as a means to clear out inventory. The winner of this sequence is you, the consumer. At the time of writing, the iPad Air 4 can be had for as low as [$429](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-10-9-inch-Cellular-Generation-Renewed%2Fdp%2FB08PF8HCDJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0fd05516-7afe-47e7-81c2-ef0b479cd1b1%7Cdtp&dtb=1), less if you opt for an open-market retailer like eBay. That's more than a $150 difference compared to the new iPad Air 5 which, in a snapshot, only wins out on 5G, the front-facing camera, and processing power. If one, two, or even all three of those aspects are not on your priority list of features, then opting for the older iPad Air may be the best play here. 
 
 [Apple iPad Air (2020) $375.39 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J61FCVN%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0fd05516-7afe-47e7-81c2-ef0b479cd1b1%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
@@ -176,20 +170,24 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/astering-insta-video-sharing-from-youtube-for-2024/"><u>[New] Mastering Insta-Video Sharing From YouTube for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-film-makers-quick-guide-to-perfect-sea-scenes/"><u>[Updated] The Film-Maker’s Quick Guide to Perfect Sea Scenes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/behind-chatgpts-innovation-who-are-the-brain-trust/"><u>Behind ChatGPT's Innovation: Who Are The Brain Trust?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-childrens-movie-recommendations-for-disneyplus-in-july-2024/"><u>Best Children's Movie Recommendations for Disney+ in July 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambiar-formato-de-video-de-mpeg-a-mp4-gratuito-mediante-el-sitio-web-de-movavi/"><u>Cambiar Formato De Vídeo De MPEG a MP4 Gratuito Mediante El Sitio Web De Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-zero-30-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix Zero 30 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-narzo-60x-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme Narzo 60x 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170517578-mastering-xbox-one-play-anyhow/"><u>Mastering Xbox One: Play Anyhow</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-phone-search-strategies-finding-contact-details-safely-and-effectively/"><u>Online Phone Search Strategies: Finding Contact Details Safely and Effectively</u></a></li>
-<li><a href="https://games-able.techidaily.com/outsmart-glitching-computers-get-the-latest-nvidia-driver-now/"><u>Outsmart Glitching Computers – Get the Latest Nvidia Driver Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/perfecting-your-posts-with-sound-adding-music-to-instagram-videos-made-easy/"><u>Perfecting Your Posts with Sound: Adding Music to Instagram Videos Made Easy</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ficant-details-in-asmr-recording-art-for-2024/"><u>Significant Details in ASMR Recording Art for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-advapi32dll-file-missing-issues-on-your-computer/"><u>Solving the 'Advapi32.dll' File Missing Issues on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-missing-avcodecdll-errors-in-windows-1087/"><u>The Ultimate Solution to Missing Avcodec.dll Errors in Windows 10/8/7</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-6-minecraft-oriental-house-ideas/"><u>Top 6 Minecraft Oriental House Ideas</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-guide-to-structuring-youtube-content-with-separate-chapters/"><u>2024 Approved Guide to Structuring YouTube Content with Separate Chapters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-speedy-social-stardom-likes-plus-videos-on-instagram-guide/"><u>2024 Approved Speedy Social Stardom Likes + Videos on Instagram Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-convertir-tus-discos-dvd-a-archivos-avi-con-garantia-de-alta-fidelidad-desde-la-comodidad-de-tu-hogar/"><u>Cómo Convertir Tus Discos DVD a Archivos AVI Con Garantía De Alta Fidelidad Desde La Comodidad De Tu Hogar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crea-mp4-da-file-avi-online-e-gratuitamente-con-movavi/"><u>Crea MP4 Da File AVI Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficient-muziek-combinatie-met-de-movavi-mp3-verenigend-programma/"><u>Efficiënt Muziek Combinatie Met De Movavi MP3-Verenigend Programma</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-avi-videos-naar-flv-konvertereen-onlinelastige-mobavivi-losungen/"><u>Gratuit AVI-Video's Naar FLV Konvertereen - Onlinelastige Mobavivi Lösungen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 14</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-f5-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco F5 Pro 5G Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-12-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 12 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-sleek-and-powerful-valkyrie-al125-cpu-cooling-solution-crisp-ips-display-dazzling-rgb-light-effects-all-for-less-than-twenty-bucks/"><u>Introducing the Sleek and Powerful Valkyrie AL125 CPU Cooling Solution: Crisp IPS Display, Dazzling RGB Light Effects, All for Less than Twenty Bucks!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-filmbearbetare-100-oppen-for-egenhandel-affarstillfallen-i-sverige/"><u>Movavi Filmbearbetare, 100% Öppen För Egenhandel: Affärstillfällen I Sverige</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-web-based-audio-transcriber-no-cost-conversions-from-m4b-to-wav/"><u>Movavi's Web-Based Audio Transcriber: No Cost Conversions From M4B to WAV</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-7-best-filmmaking-software-you-should-know-low-budget/"><u>New 2024 Approved 7 Best Filmmaking Software You Should Know (Low Budget)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-gratistudio-fur-die-umwandlung-von-aiff-ins-format-flac-mit-movavi/"><u>Online-Gratistudio Für Die Umwandlung Von AIFF Ins Format FLAC Mit Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-ogv-videos-into-webm-streaming-on-demand-with-movavis-free-tool/"><u>Transform OGV Videos Into WebM Streaming on Demand with Movavi's Free Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforma-tu-archivo-mpg-en-un-grafico-animado-gif-de-forma-instantanea-y-sin-costo-con-convertmpgtogifcom/"><u>Transforma Tu Archivo MPG en Un Gráfico Animado GIF De Forma Instantánea Y Sin Costo Con ConvertMPGtoGif.com</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-instagram-stories-download-crafting-strategies/"><u>Unlocking Instagram Stories Download, Crafting Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-potential-with-quoras-poe-access/"><u>Unlocking Potential with Quora's POE Access</u></a></li>
 </ul></div>
 

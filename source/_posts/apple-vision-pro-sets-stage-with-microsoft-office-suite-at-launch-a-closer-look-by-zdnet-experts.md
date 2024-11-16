@@ -1,7 +1,7 @@
 ---
 title: Apple Vision Pro Sets Stage with Microsoft Office Suite at Launch - A Closer Look by ZDNet Experts
-date: 2024-10-27T16:38:21.743Z
-updated: 2024-10-31T03:39:52.079Z
+date: 2024-11-13T18:36:47.962Z
+updated: 2024-11-15T16:03:03.684Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -70,6 +77,13 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -87,10 +101,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -100,13 +114,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -143,13 +150,6 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -162,6 +162,13 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -173,13 +180,6 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -220,16 +220,18 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quintessential-memes-the-creation-guide/"><u>[Updated] In 2024, Quintessential Memes The Creation Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-essential-guide-to-transferring-tunes-across-platforms/"><u>[Updated] In 2024, The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-data-analytics-methods-for-market-research-analysis/"><u>2024 Approved Advanced Data Analytics Methods for Market Research Analysis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamlining-your-live-events-merging-obs-and-zoom/"><u>2024 Approved Streamlining Your Live Events Merging OBS and Zoom</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-solutions-to-read-and-edit-apples-pages-documents-on-your-personal-computer/"><u>Easy Solutions to Read & Edit Apple's Pages Documents on Your Personal Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-usb-20-insights-on-bandwidth-capacity-cable-variants-and-connection-types/"><u>Exploring the World of USB 2.0: Insights on Bandwidth Capacity, Cable Variants & Connection Types</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-steps-to-repair-your-pc-when-it-powers-up-with-blank-screen/"><u>Solving the Dilemma: Steps to Repair Your PC When It Powers Up with Blank Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-windows-11-users-facing-a-puzzling-black-display/"><u>Step-by-Step Solutions for Windows 11 Users Facing a Puzzling Black Display</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-instagram-memories-with-these-apps-for-2024/"><u>Unlocking Instagram Memories with These Apps for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-secrets-of-swift-youtube-subtitle-insertion/"><u>Unveiling the Secrets of Swift YouTube Subtitle Insertion</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-make-movies-like-a-pro-insider-secrets-for-producing-high-quality-videos/"><u>Updated 2024 Approved Make Movies Like a Pro Insider Secrets for Producing High-Quality Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-high-quality-videos-at-your-fingertesps-selecting-the-right-fps/"><u>[New] In 2024, High-Quality Videos at Your Fingertesps Selecting the Right FPS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-times-illusion-crafting-engaging-slow-motion-videos-on-ig/"><u>[New] Time's Illusion Crafting Engaging Slow-Motion Videos on IG</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-cutting-edge-techniques-for-advanced-hdr-images-in-aps/"><u>[Updated] In 2024, Cutting-Edge Techniques for Advanced HDR Images in APS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-gratuita-da-m4v-a-mov-in-streaming-live-utilizzo-di-movavi-converter-online/"><u>Conversion Gratuita Da M4V a MOV in Streaming Live - Utilizzo Di Movavi Converter Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-libre-de-wmv-en-3gp-en-ligne-mouvavi/"><u>Conversion Libre De WMV en 3GP en Ligne - Mouvavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ferramenta-de-migracao-audiovideo-facil-e-gratuita-mpeg-para-wav-no-movavi-on-line/"><u>Ferramenta De Migração Audio/Video Fácil E Gratuita - MPEG Para WAV No Movavi On-Line</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transform-mov-files-into-m4v-format-with-easy-steps/"><u>Free Online Conversion: Transform MOV Files Into M4V Format with Easy Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-3gp-videos-into-mjpeg-format-with-movavi/"><u>Free Online Conversion: Transforming 3GP Videos Into MJPEG Format with Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-windows-10-audio-capture/"><u>In 2024, Step-by-Step Windows 10 Audio Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rpiece-maker-scenery-and-sound-unite-for-2024/"><u>Masterpiece Maker Scenery & Sound Unite for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/reduce-high-resolution-video-sizes-hd-4k-nk-by-an-impressive-90-with-these-simple-steps/"><u>Reduce High-Resolution Video Sizes (HD, 4K, nK) by an Impressive 90% with These Simple Steps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726223590556-m4a-m4r-movavi/"><u>무료 인터넷에서 쉬운 M4A, M4R 교리 - Movavi 구독하기</u></a></li>
 </ul></div>
 

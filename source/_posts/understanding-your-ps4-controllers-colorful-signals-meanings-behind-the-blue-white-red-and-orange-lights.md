@@ -1,7 +1,7 @@
 ---
 title: "Understanding Your PS4 Controller's Colorful Signals: Meanings Behind the Blue, White, Red & Orange Lights"
-date: 2024-09-04T02:50:24.312Z
-updated: 2024-09-05T02:50:24.312Z
+date: 2024-11-09T23:01:38.653Z
+updated: 2024-11-16T02:20:32.251Z
 categories:
   - BestProducts
 description: "This Article Describes Understanding Your PS4 Controller's Colorful Signals: Meanings Behind the Blue, White, Red & Orange Lights"
@@ -32,6 +32,13 @@ Close
 
 InspiredImages/Pixabay
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Is My PS4 Controller Flashing White? 
 
  If the LED light on your PS4 controller is blinking white, it's due to one of two reasons:
@@ -42,11 +49,12 @@ InspiredImages/Pixabay
  If you continue to have trouble with your console, you can try[ resetting your PS4 to factory settings](https://www.lifewire.com/how-to-reset-your-ps4-4173916) , but you will lose any data on your hard drive that's not backed up to the cloud.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Why Is My PS4 Controller Blinking Red? 
 
  A flashing red light on a PS4 controller usually indicates a hardware issue such as a defective charging port, cable, or battery.
@@ -56,17 +64,12 @@ InspiredImages/Pixabay
  If you're sure the battery or charging port on your controller is defective, you can replace it. This is an advanced fix that requires you to open up your controller, so you might be better off buying a new one. If the controller is still under warranty, you should send it in for repairs.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Why Is My PS4 Controller Flashing Orange? 
 
  A blinking orange light on your PS4 means it is charging in rest mode. Try these fixes:
@@ -77,11 +80,12 @@ InspiredImages/Pixabay
 ![Supply Power to USB Ports in PlayStation 4 settings](https://www.lifewire.com/thmb/LJDfeunJAa8PB2wou89_OvQhlyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_why-is-my-ps4-controller-blinking-blue-white-red-or-orange-6754246-0eef66506e3b4750b67651589c886fb9.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To rule out minor technical hiccups, power cycle the PS4, then reset the controller and let it charge for a couple of hours. If the controller loses its charge too quickly, the internal battery is probably defective.
 
  FAQ
@@ -117,8 +121,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +128,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-best-virtual-race-titles-reviewed/"><u>[New] In 2024, Best Virtual Race Titles Reviewed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-seamless-access-watching-fb-videos-on-apple-tv-explained/"><u>[New] In 2024, Seamless Access Watching FB Videos on Apple TV Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-innovative-ways-to-record-and-preserve-streaming-sounds-online-for-2024/"><u>[New] Innovative Ways to Record and Preserve Streaming Sounds Online for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-15-steps-towards-perfecting-your-educational-video-content-for-youtube/"><u>[Updated] 2024 Approved 15 Steps Towards Perfecting Your Educational Video Content for YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-navigating-whatsapps-voice-exchange/"><u>[Updated] In 2024, Navigating WhatsApp's Voice Exchange</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/can-flipbuilder-facilitate-the-shift-from-traditional-text-pages-to-interactive-electronic-magazines/"><u>Can FlipBuilder Facilitate the Shift From Traditional Text Pages to Interactive Electronic Magazines?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defeating-error-messages-in-microsoft-edge-a-comprehensive-troubleshooting-approach/"><u>Defeating Error Messages in Microsoft Edge: A Comprehensive Troubleshooting Approach</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/directinputdll-problems-with-microsoft-troubleshooting-tips-and-solutions/"><u>DirectInput.dll Problems with Microsoft - Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-maintaining-and-wiping-down-your-hd-flat-panel-display/"><u>Expert Tips on Maintaining and Wiping Down Your HD Flat Panel Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-modify-netflix-geography-setting-swiftly/"><u>How to Modify Netflix Geography Setting Swiftly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-devices-from-your-google-home-setup/"><u>Step-by-Step Guide: Removing Devices From Your Google Home Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-viewing-diverse-video-formats-on-apple-tv-via-vlc/"><u>The Definitive Guide to Viewing Diverse Video Formats on Apple TV via VLC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-apple-watch-solutions-when-it-fails-to-detect-step-count/"><u>Troubleshooting Apple Watch: Solutions When It Fails to Detect Step Count</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-top-websites-for-downloading-pc-games-for-2024/"><u>Updated The Ultimate List Top Websites for Downloading PC Games for 2024</u></a></li>
+</ul></div>
 

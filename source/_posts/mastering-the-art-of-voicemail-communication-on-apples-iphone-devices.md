@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Voicemail Communication on Apple's iPhone Devices
-date: 2024-09-04T02:49:37.835Z
-updated: 2024-09-05T02:49:37.835Z
+date: 2024-11-10T00:29:02.570Z
+updated: 2024-11-15T22:23:33.215Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Voicemail Communication on Apple's iPhone Devices
@@ -25,6 +25,19 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -36,12 +49,6 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -50,11 +57,18 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -63,12 +77,6 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -106,12 +114,6 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -125,11 +127,12 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -139,17 +142,12 @@ thumbnail: https://www.lifewire.com/thmb/2TxfWay6NyIHTXllINutqJV57Vk=/400x300/fi
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -170,8 +168,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +175,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-zip-to-srt-conversion/"><u>[New] Mastering the Art of Zip to Srt Conversion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-prime-choices-of-drones-up-for-grabs/"><u>2024 Approved Prime Choices of Drones Up for Grabs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-pro-grade-streaming-tools-best-software-and-hardware-reviewed/"><u>2024 Approved Pro-Grade Streaming Tools Best Software & Hardware Reviewed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-smoother-gameplay-fixing-warzone-lag-and-increasing-frames-per-second-fps/"><u>Achieve Smoother Gameplay: Fixing Warzone Lag and Increasing Frames Per Second (FPS)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-dull-to-dynamic-a-guide-to-chromatic-finesse/"><u>From Dull to Dynamic A Guide to Chromatic Finesse</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-discover-the-best-comparing-free-video-players-vlc-and-mpc/"><u>In 2024, Discover the Best Comparing Free Video Players (VLC and MPC)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/launch-of-tcls-cutting-edge-smartglasses-a-new-contender-in-ar-technology/"><u>Launch of TCL's Cutting-Edge Smartglasses: A New Contender in AR Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/microsoft-enhances-word-with-advanced-copypaste-assistance/"><u>Microsoft Enhances Word with Advanced Copy/Paste Assistance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/polishing-your-queries-with-perplexity-ais-pages-ideal-for-whom/"><u>Polishing Your Queries with Perplexity AI's Pages - Ideal for Whom?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/privacy-of-your-interactions-with-chatgpt-how-secure-are-they/"><u>Privacy of Your Interactions with ChatGPT: How Secure Are They?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/quick-guide-activating-ssh-on-vmware-vcenter-top-3-methods/"><u>Quick Guide: Activating SSH on VMware vCenter - Top 3 Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rethink-your-calculations-why-relying-on-chatgpt-for-math-may-not-be-ideal/"><u>Rethink Your Calculations: Why Relying on ChatGPT for Math May Not Be Ideal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionizing-smartphone-photography-the-rise-of-liquid-lenses-and-what-it-means-for-you/"><u>Revolutionizing Smartphone Photography: The Rise of Liquid Lenses and What It Means for You</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/snapdragon-x-qualcomms-showdown-with-apple-silicon-demonstrates-impressive-performance/"><u>Snapdragon X: Qualcomm's Showdown with Apple Silicon Demonstrates Impressive Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-of-your-unresponsive-corsair-keyboard-easily/"><u>Solving the Dilemma of Your Unresponsive Corsair Keyboard Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-a14-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy A14 5G Android SIM Unlock APK</u></a></li>
+</ul></div>
 

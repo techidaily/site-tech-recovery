@@ -1,7 +1,7 @@
 ---
 title: "From Past to Present: The Intriguing Timeline of Electric Automobiles"
-date: 2024-09-04T02:49:49.488Z
-updated: 2024-09-05T02:49:49.488Z
+date: 2024-11-09T18:22:10.548Z
+updated: 2024-11-16T01:21:06.635Z
 categories:
   - BestProducts
 description: "This Article Describes From Past to Present: The Intriguing Timeline of Electric Automobiles"
@@ -35,23 +35,18 @@ Alex Dos Diaz
 
  Trains designed around the 1830s could carry heavy batteries and even receive power from electrified tracks but smaller passenger vehicles had to wait for battery technology to catch up.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1859 - 1881 
 
  In 1859, France took the lead in EV development. The lead acid battery was invented in France by Gaston Plante. It was later improved upon in 1881 by Camille Alphonse Faure and has been tweaked and further improved over the years. The arrival of the lead acid battery meant that it was finally actually possible for practical electric vehicles to hit the road.
 
  The lead acid battery is the same basic battery technology that’s still used by gas-powered vehicles today.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1890 - early 1900s 
 
@@ -59,12 +54,6 @@ Alex Dos Diaz
 
 ![Andrew Riker racing an electric car circa 1901](https://www.lifewire.com/thmb/z34R-qm5kDrzudPi50Wev_3oN-s=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/AndrewRiker_racingelectriccar_1901_VERTICAL_BACKGROUND-c5317d5f95884a8289af471dfa2fa005.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Andrew Riker and a friend racing an electric car circa 1901. 
 
 Smithsonian/Museum of American History
@@ -84,11 +73,12 @@ Smithsonian/Museum of American History
 ![An electric runabout used from 1906 to the early 1930s.](https://www.lifewire.com/thmb/ax2boBkX7o17b8u2EOnPmJZ8vtc=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Electricrunaboutagainstfadedbackground-4c68dce7cce04681a1b30fb07fbf5d95.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  An electric runabout used from 1906 to the early 1930s. 
 
  Original image courtesy of the Smithsonian/National Museum of American History
@@ -121,36 +111,25 @@ Smithsonian/Museum of American History
 
  The major automakers all saw electric vehicles on the horizon, but the consensus just before the turn of the 21st century was that battery technology still wouldn’t be advanced enough to provide enough range and reliability for a couple decades at the minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1999 - 2001 
 
  Suddenly, the technologies that would ultimately shake that up were developed in 1999 and 2001\. NCA battery technology was invented first, followed by MNC battery technology shortly thereafter. Both are variants on older lithium-ion cells, and both would go on to power modern electric vehicles.
 
  Those improved battery technologies created EV opportunities unlike any the world had seen previously. The industry exploded with new takes on electric vehicles.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2003 - 2014 
 
  Tesla, launched by Elon Musk, showed up on the scene in 2003 as a startup aimed at creating an affordable and practical electric vehicle. Prototypes of the Tesla Roadster were revealed in 2006, and the first Roadsters were delivered to customers in 2008\. Powered by NCA battery technology, the Roadster had a range of 244 miles, which was significantly higher than previous all-electric vehicles.
 
 ![An early yellow Tesla Roadster with black stripes.](https://www.lifewire.com/thmb/bmr_9NPoJ_wMl9NhKypYTo-j4l4=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Tesla_Roadster_edit2-3c087f9a02a44e85b92ea2d0c090f3f6.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Cherubino/Wikimedia Commons
 
  With Tesla electric vehicles on the road, a number of major automakers shortly followed suit. Mitsubishi launched their iMiEV electric vehicle in Japan in 2009, and other limited markets the following year, although only for lease and not for sale. 
@@ -161,6 +140,13 @@ Cherubino/Wikimedia Commons
 
  More than 18,000 charging stations were installed through this program, though the build-out of charging infrastructure continues to this day through other public and private initiatives.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Future of EVs 
 
  The history of the electric vehicle has been driven largely by battery technology, and that’s likely to continue into the future unless a new technology comes along that can effectively replace them. With the overall cost of batteries dropping and the technology continuing to advance, electric vehicles are likely to match gas-powered vehicles in terms of cost, range, and other factors.
@@ -170,11 +156,12 @@ Cherubino/Wikimedia Commons
  The idea is that, instead of plugging in and waiting, you could simply take a couple minutes to trade your battery for a fresh one. Other energy storage technologies, like hot swappable fuel cells, could also see use, but they’re so much less efficient than modern batteries that it seems unlikely.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2018 and Beyond 
 
  In 2018, the number of electric vehicles on the road in the United States first passed the one million mark. By 2020, that number had soared to 1.8 million. Growth in other locations, like Europe and China, has been even faster.
@@ -191,8 +178,6 @@ Cherubino/Wikimedia Commons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +185,21 @@ Cherubino/Wikimedia Commons
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-educator-elite-selective-learning-yt-channels-for-2024/"><u>[Updated] Educator Elite Selective Learning YT Channels for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-transforming-facebook-watchlists-implementing-autoplay-for-youtube-content/"><u>2024 Approved Transforming Facebook Watchlists Implementing Autoplay for YouTube Content</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-zte-nubia-z60-ultra-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From ZTE Nubia Z60 Ultra to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-your-iphone-13-survive-a-splash-unveiling-its-water-resistant-capabilities/"><u>Can Your iPhone 13 Survive a Splash: Unveiling Its Water-Resistant Capabilities</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-oneplus-11-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus 11 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-perfect-squares-imovie-guide-for-instagram-videos/"><u>In 2024, Crafting Perfect Squares IMovie Guide for Instagram Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-android-16-what-to-expect-in-pricing-release-timeline-and-device-specs-get-the-rumors/"><u>Inside Android 16: What to Expect in Pricing, Release Timeline, and Device Specs – Get the Rumors!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-social-media-giants-to-skyrocket-your-marketing-game-for-2024/"><u>Leveraging Social Media Giants to Skyrocket Your Marketing Game for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reactivating-the-automatic-spell-corrector-in-microsoft-outlook-easy-fixes/"><u>Reactivating the Automatic Spell Corrector in Microsoft Outlook: Easy Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/repairing-a-broken-wi-fi-link-with-your-surface-pro-a-comprehve-guide/"><u>Repairing a Broken Wi-Fi Link with Your Surface Pro - A Comprehve Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-most-durable-mobile-phones-hydrophobic-shells/"><u>Ultimate Guide to the Most Durable Mobile Phones Hydrophobic Shells</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Spark 10 5G | Dr.fone</u></a></li>
+</ul></div>
 

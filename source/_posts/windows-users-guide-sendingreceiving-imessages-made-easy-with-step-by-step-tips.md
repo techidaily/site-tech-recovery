@@ -1,7 +1,7 @@
 ---
 title: "Windows Users' Guide: Sending/Receiving iMessages Made Easy with Step-by-Step Tips"
-date: 2024-10-26T01:34:38.789Z
-updated: 2024-10-31T07:26:14.681Z
+date: 2024-11-12T17:03:48.939Z
+updated: 2024-11-15T20:14:36.673Z
 tags:
   - apple
 categories:
@@ -56,18 +56,18 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -85,24 +85,31 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -133,10 +140,10 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
@@ -146,10 +153,10 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -163,13 +170,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,17 +207,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-pro-pilots-choice-the-top-5-drone-picks-of-the-year/"><u>[New] In 2024, Pro Pilot's Choice The Top 5 Drone Picks of the Year</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transform-your-livestreams-with-eco-friendly-screen-effects/"><u>[Updated] 2024 Approved Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-7-best-online-youtube-tag-extractors-for-2024/"><u>[Updated] 7 Best Online YouTube Tag Extractors for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-mobile-carrier-companasternationalities-how-they-work/"><u>A Beginner's Guide to Mobile Carrier Companasternationalities: How They Work</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722860067072-discover-the-latest-features-of-thunderbird-52-by-mozilla-enhance-your-communication/"><u>Discover the Latest Features of Thunderbird 52 by Mozilla - Enhance Your Communication</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A14 4G Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-hype-of-new-samsung-phone-galaxy-z-flip-asterisk-7-price-guesswork-release-forecast-and-rumored-gadgets/"><u>Inside the Hype of New Samsung Phone - Galaxy Z Flip Asterisk 7; Price Guesswork, Release Forecast & Rumored Gadgets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-vocal-message-sending-instructions-for-beginners/"><u>IPhone Vocal Message Sending Instructions for Beginners</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamlessly-pair-apple-airpods-to-your-macbook-air-a-step-by-step-guide/"><u>Seamlessly Pair Apple AirPods to Your MacBook Air - A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-improvement-logitech-wired-earpiece-drivers/"><u>Swift Improvement: Logitech Wired Earpiece Drivers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-performance-of-yis-4k-actioncam/"><u>The Ultimate Performance of Yi's 4K ActionCam</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-g42-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia G42 5G Device</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-10-premier-android-and-ios-video-chat-tools/"><u>[New] Top 10 Premier Android & iOS Video Chat Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-people-to-subscribe-to-your-youtube-channel/"><u>[Updated] 2024 Approved How to Get People to Subscribe to Your YouTube Channel</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-metaverse-chronicles-the-best-sci-fi-movies-to-explore-new-universes/"><u>[Updated] 2024 Approved Metaverse Chronicles The Best Sci-Fi Movies to Explore New Universes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimizing-your-windows-10-experience-using-zoom-effectively/"><u>[Updated] Optimizing Your Windows 10 Experience Using Zoom Effectively</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-diy-iphone-7-screen-recording-techniques/"><u>2024 Approved DIY IPhone 7 Screen Recording Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726227629827-heic-jpg/"><u>採用最佳免費 HEIC 改成 JPG 工具，全新熱門轉換方式逐一介紹！</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726226238140-3gpmjpeg-movavi/"><u>無限制網路免費3GP到MJPEG格式转换 - 使用Movavi工具</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-gratis-movavi-video-transcoder-movil-y-descargador-de-videos-libre/"><u>Download Gratis Movavi Video Transcoder - Móvil Y Descargador De Videos Libre</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-moto-g84-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Moto G84 5G</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/mkv-to-xbox-360-format-the-ultimate-guide-for-seamless-video-conversion-tools/"><u>MKV to Xbox 360 Format: The Ultimate Guide for Seamless Video Conversion Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-no-cost-tool-to-transform-video-object-streaming-vos-to-windows-media-audio-wma/"><u>Movavi's No-Cost Tool to Transform Video Object Streaming (VOS) to Windows Media Audio (.WMA)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726228164844-movavi-202/"><u>Movavi视频编辑器 202</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-your-selling-strategy-with-lazlive-live-selling/"><u>New 2024 Approved Your Selling Strategy With LazLive Live Selling</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-10-funniest-subreddits-to-find-hilarious-memes-picked/"><u>Updated In 2024, 10 Funniest Subreddits to Find Hilarious Memes (Picked)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Forcing Your Windows Computer to Start in Safe Mode Automatically
-date: 2024-09-04T02:51:42.671Z
-updated: 2024-09-05T02:51:42.671Z
+date: 2024-11-14T17:45:08.465Z
+updated: 2024-11-16T08:05:55.235Z
 categories:
   - BestProducts
 description: This Article Describes Quick Tips for Forcing Your Windows Computer to Start in Safe Mode Automatically
@@ -25,11 +25,27 @@ thumbnail: https://www.lifewire.com/thmb/2PzECV0th8lkw2Wd2G3VSAac2Xk=/540x405/fi
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
 ![Restart menu in Windows 10](https://www.lifewire.com/thmb/BfpzNB-2PZs2XbtmfAqOhjUL7Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-5c8032ed46e0fb00019b8ed8.jpg)  
  There's always the slim chance that the Code 28 error you're seeing in Device Manager was caused by a fluke with Device Manager or in your[BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820) . If that's the case, a reboot might fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Did you install a device or make a change in Device Manager just before you noticed the error? If so, it's very possible that the change you made caused the problem.  
  Undo the change, restart your PC, and then check again for the Code 28 error.  
  Depending on the changes you made, some solutions might include removing or re-configuring the newly installed device,[rolling back the driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) to the version prior to your update, or[using System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) to undo recent Device Manager changes.  
 ![System Restore button for Windows 10](https://www.lifewire.com/thmb/dLFN9DPEpHd1ClDWsExz8wKhnMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restoresystemWindows-5c80332846e0fb00011bf425.jpg)
 3. [Update the drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) for the device. Installing the latest manufacturer supplied drivers for a device with the Code 28 error is the most likely solution to the problem.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Make sure you install the drivers for the correct operating system. For example, if you're using Windows 10[64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) , install the drivers designed for that specific[version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) . Many of these errors are caused by attempting to install the wrong drivers for a device. One way to be sure you're getting the right driver is to use a[free driver updater tool](https://www.lifewire.com/free-driver-updater-tools-2619206) .  
  If the drivers won't update, try disabling your antivirus software during the update process. Sometimes these programs misinterpret your driver updating as malicious and block it.
 4. [Install the latest Windows service pack](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Microsoft regularly releases[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and other[patches](https://www.lifewire.com/what-is-a-patch-2625960) for their operating systems, one of which may contain a fix for the cause of the Code 28 error.  
@@ -39,11 +55,12 @@ thumbnail: https://www.lifewire.com/thmb/2PzECV0th8lkw2Wd2G3VSAac2Xk=/540x405/fi
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Causes of a Code 28 Error
 
  The Code 28 error is one of several possible [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) you could see for a piece of hardware. As mentioned above, it's almost always caused by a missing driver for that particular piece of hardware.
@@ -59,11 +76,12 @@ thumbnail: https://www.lifewire.com/thmb/2PzECV0th8lkw2Wd2G3VSAac2Xk=/540x405/fi
 ![Device error Code 28 on Windows 10 desktop](https://www.lifewire.com/thmb/nu2GconMBW2tTuJo6e9kYszSKe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) . If you see the Code 28 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) that you should not troubleshoot as a Device Manager problem.
 
  FAQ
@@ -95,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +120,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/month-exclusive-discounts-on-latest-apple-watch-models-you-cant-miss/"><u>[Month]: Exclusive Discounts on Latest Apple Watch Models You Can't Miss</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud/"><u>[Updated] 2024 Approved The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-dynamic-cutting-the-best-6-mac-os-big-sur-video-editors-unveiled-for-2024/"><u>[Updated] Dynamic Cutting The Best 6 Mac OS Big Sur Video Editors Unveiled for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-dialogue-designer-space/"><u>[Updated] Prime Dialogue Designer Space</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-most-popular-combo-deals-cable-modems-meet-wireless-routers/"><u>2024'S Most Popular Combo Deals: Cable Modems Meet Wireless Routers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-data-protection-through-cookiebots-consent-platform/"><u>Advanced Data Protection Through Cookiebot's Consent Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-explained-a-look-into-its-corporate-parentage-and-founders/"><u>ChatGPT Explained: A Look Into Its Corporate Parentage and Founders</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-music-on-iphone-12-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Music on iPhone 12</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y100-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y100 to Roku | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-guide-to-finding-unique-video-graphics-online/"><u>In 2024, The Ultimate Guide to Finding Unique Video Graphics Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-ear-apple-gadget-revealed-speculations-on-cost-launch-timeline-and-features/"><u>In-Ear Apple Gadget Revealed: Speculations on Cost, Launch Timeline, and Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-showdown-discovering-the-unique-features-of-mini-and-air-variants/"><u>IPad Showdown: Discovering the Unique Features of Mini and Air Variants</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tutorial-on-controlling-information-input-in-microsoft-excel-through-data-validation-rules/"><u>Step-by-Step Tutorial on Controlling Information Input in Microsoft Excel Through Data Validation Rules</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722876874865-top-10-must-have-note-taking-apps/"><u>Top 10 Must-Have Note-Taking Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-text-message-problems-on-your-android-phone/"><u>Troubleshooting Text Message Problems on Your Android Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-order-of-transformers-movies-for-binge-watching/"><u>Ultimate Order of Transformers Movies for Binge-Watching</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-power-and-performance-top-ranked-apc-gamers-uninterruptible-power-supply/"><u>Ultimate Power & Performance: Top-Ranked APC Gamer's Uninterruptible Power Supply</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-potential-launch-8-personalized-ai-tools/"><u>Unleash Potential: Launch 8 Personalized AI Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722862532724-usb-tethering-not-working-heres-what-to-do-next/"><u>USB Tethering Not Working? Here's What to Do Next!</u></a></li>
+</ul></div>
 

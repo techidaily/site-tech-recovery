@@ -1,7 +1,7 @@
 ---
 title: "An 8-Hour Test Run with the Apple Vision Pro: Satisfaction Levels Assessed by ZDNet"
-date: 2024-10-29T18:59:26.534Z
-updated: 2024-11-05T23:14:18.502Z
+date: 2024-11-11T17:03:58.647Z
+updated: 2024-11-15T21:17:00.181Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -45,6 +52,13 @@ Screenshot by Lance Whitney/ZDNET
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -62,6 +76,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -78,13 +99,6 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
@@ -92,16 +106,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -112,25 +120,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -168,22 +162,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-primewave-riders-most-fancied-and-binge-watched-originals-on-twitter/"><u>[New] 2024 Approved PrimeWave Riders Most Fancied & Binge-Watched Originals on Twitter</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-compreeved-guide-to-creating-stellar-youtube-outros/"><u>[Updated] 2024 Approved Compreeved Guide to Creating Stellar YouTube Outros</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-clear-acoustic-advantages-review-of-the-top-6-stream-ready-mic-models-for-2024/"><u>[Updated] Clear Acoustic Advantages Review of the Top 6 Stream-Ready Mic Models for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-story-and-sound-scriptwriting-for-visual-media/"><u>2024 Approved Bridging Story and Sound Scriptwriting for Visual Media</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-cognitive-clash-ultimate-gk-video-quizzes/"><u>2024 Approved Cognitive Clash - Ultimate GK Video Quizzes</u></a></li>
-<li><a href="https://games-able.techidaily.com/battlefronts-of-yesteryears-11-immersive-ww2-games/"><u>Battlefronts of Yesteryears: 11 Immersive WW2 Games</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-digital-solutions-for-converting-images-to-film/"><u>Best Digital Solutions for Converting Images to Film</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ownership-patterns-for-art-from-algorithms/"><u>Ownership Patterns for Art From Algorithms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reversing-your-pc-display-orientation-easy-steps-to-master-it/"><u>Reversing Your PC Display Orientation - Easy Steps to Master It</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-automated-troubleshooting-in-windows-11/"><u>Seamless Automated Troubleshooting in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-quickly-resolve-print-queue-issues-a-complete-guide/"><u>Simple Steps to Quickly Resolve Print Queue Issues: A Complete Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/skyrocket-minecraft-frames-per-second-expert-strategies-for-high-end-pc-optimization-updated/"><u>Skyrocket Minecraft Frames per Second: Expert Strategies for High-End PC Optimization - Updated</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-turning-off-microsofts-cortana-on-your-windows-10-device/"><u>Step-by-Step Guide: Turning Off Microsoft's Cortana on Your Windows 10 Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-how-to-pair-laptop-and-projector/"><u>Step-by-Step Tutorial on How to Pair Laptop and Projector</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/top-gratis-video-player-software-supporting-h265hevc-and-4k-quality/"><u>Top Gratis Video Player Software Supporting H.265/HEVC & 4K Quality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-pdfs-with-ease-seamlessly-turn-them-into-excel-spreadsheets-now/"><u>Transform Your PDFs with Ease - Seamlessly Turn Them Into Excel Spreadsheets Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforming-your-iphone-into-a-portable-wi-fi-access-point-a-step-by-step-guide/"><u>Transforming Your iPhone Into a Portable Wi-Fi Access Point: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-clarity-crusade-enhancing-video-in-zoom-meetings-for-2024/"><u>[New] Clarity Crusade Enhancing Video in Zoom Meetings for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-discovering-androids-premier-mobas-ranked/"><u>[New] In 2024, Discovering Android's Premier MOBAs Ranked</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-decoding-the-average-earning-scale-for-podcasters/"><u>[Updated] Decoding the Average Earning Scale for Podcasters</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-guide-to-disable-recommended-podcast-features-in-spotify/"><u>[Updated] Guide to Disable Recommended Podcast Features in Spotify</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-precision-preservation-adding-dates-to-photos-with-ease/"><u>[Updated] Precision Preservation Adding Dates to Photos with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-rideshare-apps-more-economical-than-traditional-taxis/"><u>Are Rideshare Apps More Economical than Traditional Taxis?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722898350876-discover-the-greatest-free-defrag-solutions-of-2024-ranked/"><u>Discover the Greatest Free Defrag Solutions of 2024 - Ranked!</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-11-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-effective-management-of-your-tweets-with-a-content-calendar/"><u>Step-by-Step Tutorial: Effective Management of Your Tweets with a Content Calendar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-for-users-with-locked-or-inactive-instagram-profiles/"><u>Troubleshooting for Users with Locked or Inactive Instagram Profiles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-elite-five-for-privacy-centric-email-solutions/"><u>Unveiling the Elite Five for Privacy-Centric Email Solutions</u></a></li>
 </ul></div>
 

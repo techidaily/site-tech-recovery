@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Must-Have Products & Steals for August 2024: A Comprehensive Guide | DigitalTimes"
-date: 2024-10-30T19:59:32.737Z
-updated: 2024-11-05T22:40:21.840Z
+date: 2024-11-12T06:46:47.700Z
+updated: 2024-11-15T22:50:06.865Z
 tags:
   - apple
 categories:
@@ -157,13 +157,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb8114c70-8128-4be6-9cd8-0cc4fe36c521%7Cdtp&dtb=1)
@@ -178,16 +171,22 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
 
@@ -200,10 +199,10 @@ This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
@@ -220,10 +219,10 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -246,6 +245,13 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -291,17 +297,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-fabled-frontiers-top-10-roguely-ventures/"><u>[New] Fabled Frontiers Top 10 Roguely Ventures</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-identifying-10-quick-growth-youtube-blogs-that-encourage/"><u>[New] In 2024, Identifying 10 Quick-Growth YouTube Blogs that Encourage</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-multimedia-transfer-facebook-videos-on-whatsapp-for-2024/"><u>[New] Mastering Multimedia Transfer Facebook Videos on WhatsApp for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719148923934-cross-platform-connectivity-share-your-fb-memories-anywhere/"><u>Cross-Platform Connectivity: Share Your Fb Memories Anywhere</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-correct-that-mia-d3dx9-library-problem-once-and-for-all/"><u>DIY: Correct That MIA D3DX9 Library Problem Once and For All</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-remedies-for-overcoming-failed-d3d9-hardware-initialization-challenges/"><u>Effective Remedies for Overcoming Failed D3D9 Hardware Initialization Challenges</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-dealing-with-mistakes-self-representation-during-online-chats/"><u>In 2024, Dealing with Mistakes Self-Representation During Online Chats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-online-converter-free-convert-dng-to-png-images-instantaneamente/"><u>Movavi Online: Converter Free - Convert DNG to PNG Images Instantaneamente!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-the-absent-msvcr80dll-step-by-step-guide/"><u>Solving the Mystery of the Absent msvcr80.dll: Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-creating-a-pdf-from-assorted-jpeg-photos/"><u>Step-by-Step Tutorial on Creating a PDF From Assorted JPEG Photos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-no-cost-driver-renewal-applications-july-2024-edition/"><u>The Ultimate List of No-Cost Driver Renewal Applications - July 2024 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-microsoft-teams-understanding-server-errors-vs-personal-connectivity-problems/"><u>Troubleshooting Microsoft Teams - Understanding Server Errors Vs. Personal Connectivity Problems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-edits-the-best-video-editors-ranked/"><u>[Updated] 2024 Approved Elite Edits The Best Video Editors Ranked</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-add-music-to-ig-story-an-ultimate-guide/"><u>[Updated] How to Add Music to IG Story – an Ultimate Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adaptability-and-agility-key-attributes-for-thriving-in-a-changing-market-landscape/"><u>Adaptability & Agility Key Attributes for Thriving in a Changing Market Landscape</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beat-the-blues-a-comprehensive-solution-to-tackle-code-19-in-windows-environments/"><u>Beat the Blues: A Comprehensive Solution to Tackle 'Code 19' In Windows Environments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-review-of-the-newest-amd-radeon-graphics-drivers-version-2410/"><u>Comprehensive Review of the Newest AMD Radeon Graphics Drivers Version 24.10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/delving-into-meta-ai-unveiling-the-power-behind-advanced-algorithms/"><u>Delving Into Meta AI: Unveiling the Power Behind Advanced Algorithms</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-shutdown-the-guide-to-auto-mode-with-windows-1011/"><u>Efficient Shutdown: The Guide to Auto Mode with Windows 10/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-selecting-a-high-quality-home-entertainment-system/"><u>Expert Tips on Selecting a High-Quality Home Entertainment System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-legacy-of-yahoo-messenger-a-comprehensive-guide/"><u>Exploring the Legacy of Yahoo! Messenger: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tips-for-safeguarding-your-youtube-presence/"><u>In 2024, Tips for Safeguarding Your YouTube Presence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-issue-what-to-do-when-you-cant-find-libeay32dll/"><u>Resolving the Issue: What to Do When You Can't Find Libeay32.dll</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-lost-apple-iconography-essential-troubleshooting-steps-for-iphones/"><u>Restore Lost Apple Iconography: Essential Troubleshooting Steps for iPhones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-most-debated-apple-innovations-of-all-time-from-scorn-to-stardom/"><u>The Most Debated Apple Innovations of All Time - From Scorn to Stardom</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-motorola-moto-g14-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Motorola Moto G14 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unpacking-the-influence-of-marvels-spider-man-miles-morales-focused-story-significant-impact/"><u>Unpacking the Influence of Marvel's Spider-Man: Miles Morales – Focused Story, Significant Impact</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Diagnose & Resolve Stop Error Code 0X0000007B: A Detailed Walkthrough for Windows Users"
-date: 2024-09-04T02:53:54.078Z
-updated: 2024-09-05T02:53:54.078Z
+date: 2024-11-13T18:45:42.138Z
+updated: 2024-11-16T08:05:41.538Z
 categories:
   - BestProducts
 description: "This Article Describes Diagnose & Resolve Stop Error Code 0X0000007B: A Detailed Walkthrough for Windows Users"
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  The Code 28 error could apply to any hardware device in Device Manager, but most seem to affect USB devices and sound cards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix a Code 28 Error
 
  Any of Microsoft's operating systems could experience a Code 28 Device Manager error, including Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, and more. These directions apply to all of those Windows versions.
@@ -30,6 +37,14 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
  Depending on the changes you made, some solutions might include removing or re-configuring the newly installed device,[rolling back the driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) to the version prior to your update, or[using System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) to undo recent Device Manager changes.  
 ![System Restore button for Windows 10](https://www.lifewire.com/thmb/dLFN9DPEpHd1ClDWsExz8wKhnMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restoresystemWindows-5c80332846e0fb00011bf425.jpg)
 3. [Update the drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) for the device. Installing the latest manufacturer supplied drivers for a device with the Code 28 error is the most likely solution to the problem.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Make sure you install the drivers for the correct operating system. For example, if you're using Windows 10[64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) , install the drivers designed for that specific[version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) . Many of these errors are caused by attempting to install the wrong drivers for a device. One way to be sure you're getting the right driver is to use a[free driver updater tool](https://www.lifewire.com/free-driver-updater-tools-2619206) .  
  If the drivers won't update, try disabling your antivirus software during the update process. Sometimes these programs misinterpret your driver updating as malicious and block it.
 4. [Install the latest Windows service pack](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Microsoft regularly releases[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and other[patches](https://www.lifewire.com/what-is-a-patch-2625960) for their operating systems, one of which may contain a fix for the cause of the Code 28 error.  
@@ -39,17 +54,12 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Causes of a Code 28 Error
 
  The Code 28 error is one of several possible [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) you could see for a piece of hardware. As mentioned above, it's almost always caused by a missing driver for that particular piece of hardware.
@@ -65,17 +75,12 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 ![Device error Code 28 on Windows 10 desktop](https://www.lifewire.com/thmb/nu2GconMBW2tTuJo6e9kYszSKe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) . If you see the Code 28 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) that you should not troubleshoot as a Device Manager problem.
 
  FAQ
@@ -107,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +119,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-cutting-edge-complete-rotation-videography-equipment/"><u>[New] 2024 Approved Cutting Edge Complete Rotation Videography Equipment</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-screen-capture-contenders-a-comprehensive-review/"><u>[New] In 2024, Top Screen Capture Contenders A Comprehensive Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-affordable-action-camera-excellence-top-6-for-under-100-savings/"><u>[Updated] Affordable Action Camera Excellence – Top 6 for Under $100 Savings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-professional-slideshow-resources-for-entrepreneurs/"><u>[Updated] Free Professional Slideshow Resources for Entrepreneurs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-full-potential-of-pc-sound-capture-for-2024/"><u>[Updated] Unlocking the Full Potential of PC Sound Capture for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-whatsapps-competitor-a-line-app-evaluation/"><u>Comprehensive Guide to WhatsApp's Competitor – A Line App Evaluation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-acquiring-new-applications-on-a-samsung-smart-television-system/"><u>Easy Instructions for Acquiring New Applications on a Samsung Smart Television System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-fixing-optical-drive-ejection-problems-on-your-computer/"><u>Expert Advice for Fixing Optical Drive Ejection Problems on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-top-tier-key-tracking-gadgets-dominating-2024/"><u>Explore the Top-Tier Key Tracking Gadgets Dominating 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-out-who-watches-your-youtube-content-strategies-inside/"><u>Find Out Who Watches Your YouTube Content - Strategies Inside</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tier-pdf-visual-improvements/"><u>In 2024, Top-Tier PDF Visual Improvements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/safeguarding-privacy-while-unlocking-an-ipad-without-a-passcode/"><u>Safeguarding Privacy While Unlocking an iPad Without a Passcode</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-for-converting-mov-videos-to-mp4-with-windows-10-a-comprehensive-how-to/"><u>Top Strategies for Converting MOV Videos to MP4 with Windows 10 - A Comprehensive How-To</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-issues-with-call-functionality-on-your-android-device/"><u>Ultimate Guide: Resolving Issues with Call Functionality on Your Android Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/unfolding-digital-horizons-what-is-the-metaverse/"><u>Unfolding Digital Horizons: What Is the Metaverse?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-discover-the-best-8-rain-sound-archives-for-free-download-a-complete-list-for-2024/"><u>Updated Discover the Best 8 Rain Sound Archives for Free Download - A Complete List for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/winning-strategies-against-troublesome-code-28-errors-in-windows-systems/"><u>Winning Strategies Against Troublesome Code 28 Errors in Windows Systems</u></a></li>
+</ul></div>
 

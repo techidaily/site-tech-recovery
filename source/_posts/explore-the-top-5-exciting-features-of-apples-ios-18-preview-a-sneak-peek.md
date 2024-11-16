@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2024-11-04T18:52:54.469Z
-updated: 2024-11-05T18:29:55.269Z
+date: 2024-11-11T03:24:05.217Z
+updated: 2024-11-15T16:03:41.992Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,20 +128,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-first-times-guide-to-essential-gopro-extras/"><u>[New] 2024 Approved First Time's Guide to Essential GoPro Extras</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-amazing-notes-applications-top-7-picks-for-ipad-and-ipad-pro-enthusiasts/"><u>Discover Amazing Notes Applications: Top 7 Picks for iPad & iPad Pro Enthusiasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ensuring-email-safety-with-google-the-ultimate-guide-to-whitelisting-in-gmail/"><u>Ensuring Email Safety with Google: The Ultimate Guide to Whitelisting in Gmail</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-followers-to-fans-a-guide-to-thriving-instagram-presence-for-2024/"><u>From Followers to Fans A Guide to Thriving Instagram Presence for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-xr21-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia XR21 Phone Screen?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722880065629-iphone-15-troubleshooting-starting-fresh-with-a-reboot/"><u>IPhone 15 Troubleshooting: Starting Fresh with a Reboot</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209668009-9781608685776-love-on-every-breath/"><u>Love on Every Breath | Free Book</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-final-cut-pro-essentials-reversing-video-clips-in-minutes/"><u>New In 2024, Final Cut Pro Essentials Reversing Video Clips in Minutes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-task-management-with-chatgpt-a-step-by-step-guide/"><u>Revolutionizing Task Management with ChatGPT - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722903275116-teslas-foray-into-phones-speculations-on-cost-features-and-launch-date-revealed/"><u>Tesla's Foray Into Phones: Speculations on Cost, Features, and Launch Date Revealed!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-is-now-a-closer-look-at-tesla-robots-speculated-launch-date-pricing-strategy-and-engineering-marvels/"><u>The Future Is Now: A Closer Look at Tesla Robot's Speculated Launch Date, Pricing Strategy, and Engineering Marvels</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-on-keeping-your-airpods-germ-free-a-comprehveguide-to-sanitization-and-maintenance/"><u>The Ultimate How-To on Keeping Your AirPods Germ-Free: A Comprehveguide to Sanitization and Maintenance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-shelldll-errors-on-your-computer/"><u>Troubleshooting Missing Shell.dll Errors on Your Computer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/understanding-the-advantages-of-ios-17/"><u>Understanding the Advantages of iOS 17</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-macos-version-15-sequoia-insight-scheduled-launch-revolutionary-functions-and-developments-revealed/"><u>Upcoming MacOS Version 15 (Sequoia) Insight: Scheduled Launch, Revolutionary Functions & Developments Revealed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-digital-designs-to-emoji-delights-making-the-most-of-your-gifs/"><u>[New] 2024 Approved From Digital Designs to Emoji Delights Making the Most of Your GIFs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-aerial-device-typologies/"><u>[New] Aerial Device Typologies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-expert-tips-for-creating-dynamic-youtube-splits/"><u>[New] In 2024, Expert Tips for Creating Dynamic YouTube Splits</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-laugh-ledger-curating-the-best-meme-text-tools/"><u>[Updated] Laugh Ledger Curating the Best Meme Text Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/begin-anew-with-windows-11-your-ultimate-guide-for-new-hard-drives/"><u>Begin Anew with Windows 11: Your Ultimate Guide for New Hard Drives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-elite-netgear-routers-dominating-the-market/"><u>Comprehensive Review: Elite Netgear Routers Dominating the Market</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722211565553-does-chatgpt-ever-tread-the-line-of-plagiarism-a-deep-dive-into-its-data-practices/"><u>Does ChatGPT Ever Tread the Line of Plagiarism? A Deep Dive Into Its Data Practices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-zoom-with-a-chrome-os-device/"><u>Enhancing Zoom with a Chrome OS Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/error-free-pc-tackling-missing-or-unavailable-mfc42ddll-problems-today/"><u>Error-Free PC: Tackling Missing or Unavailable mfc42d.dll Problems Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-combat-and-resolve-code-31-glitches-on-your-windows-operating-system/"><u>Expert Tips to Combat and Resolve Code # 31 Glitches on Your Windows Operating System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-in-on-the-action-anticipating-price-launch-date-and-specs-of-new-apple-listening-innovation/"><u>Get in on the Action: Anticipating Price, Launch Date, and Specs of New Apple Listening Innovation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-hangouts-demystified-what-was-it-designed-for/"><u>Google Hangouts Demystified: What Was It Designed For?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-13-mini-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 13 mini After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/premium-choices-for-group-video-and-voice-calls-online/"><u>Premium Choices for Group Video and Voice Calls Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-fixing-the-504-gateway-timeout-response-on-your-site/"><u>Understanding and Fixing the 504 Gateway Timeout Response on Your Site</u></a></li>
 </ul></div>
 

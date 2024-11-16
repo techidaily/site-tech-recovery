@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary OnTrac: Dyson Unveils Wireless Earbuds Set to Outshine Apple AirPods Pro"
-date: 2024-10-28T03:21:11.133Z
-updated: 2024-10-30T18:36:45.404Z
+date: 2024-11-12T07:55:14.546Z
+updated: 2024-11-16T01:38:54.668Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
 
 Emphasizing [ethical AI](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/) development will ensure fairness, transparency, and accountability. Ethical AI involves addressing biases in AI models, ensuring AI decisions are explainable, and adhering to principles that prevent misuse or harm. This approach will help build trust and set a high standard in the AI industry.
@@ -68,10 +61,10 @@ Providing private or family-specific AI instances would further enhance privacy 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
@@ -88,6 +81,13 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
 
 To meet the growing demand for fast application response times, I believe Apple should consider using AI-accelerated edge devices capable of handling complex AI tasks locally. This would help reduce latency and improve overall performance. Apple's vertically integrated supply chain will likely involve AI servers powered by M2 Ultra and M4 chips, especially within its data centers. This setup would ensure seamless integration with Apple's software and provide greater control over performance and security. Localized processing can be enabled by placing these devices strategically in regional and metropolitan data centers, reducing the reliance on internet bandwidth.
@@ -95,6 +95,13 @@ To meet the growing demand for fast application response times, I believe Apple 
 **Also: [AI at the edge: 5G and the Internet of Things see fast times ahead](https://www.zdnet.com/article/ai-at-the-edge-fast-times-ahead-for-5g-and-the-internet-of-things/)**
 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
 
@@ -105,13 +112,6 @@ Apple's AI should proactively anticipate user needs and provide personalized exp
 AI can enhance contextual awareness by integrating with sensors and data sources on Apple devices. For example, starting a workout on Fitness+ could prompt AI to suggest a matching Apple Music playlist, monitor health metrics in real-time with Apple Watch, and provide motivational prompts. AI can analyze user behavior to offer smart recommendations for content, activities, and products, acting as a personal assistant attuned to individual tastes.
 
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
 
@@ -130,10 +130,10 @@ Leveraging AI to enhance HomeKit's capabilities is essential, especially since H
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
@@ -178,22 +178,14 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-beginners-guide-adding-text-overlays-on-youtube/"><u>[New] Beginner's Guide Adding Text Overlays on YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-ipad-audio-recorder-software-list-3/"><u>[New] In 2024, Leading iPad Audio Recorder Software List #3</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-master-techniques-for-live-sport-broadcast-recording/"><u>[New] In 2024, Master Techniques for Live Sport Broadcast Recording</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-13-mini-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 13 mini Activity | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-resolving-a-whea-unrecoverable-fault/"><u>Complete Guide: Resolving a WHEA Unrecoverable Fault</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquering-virtual-worlds-perfecting-steam-gaming-settings-for-meta-quest-headset/"><u>Conquering Virtual Worlds: Perfecting Steam Gaming Settings for Meta Quest Headset</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-error-code-0x80n070570-expert-guide-on-troubleshooting-and-fix/"><u>Decoding Error Code 0X80n070570: Expert Guide on Troubleshooting and Fix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-windows-11-shutdown-failures-for-a-smooth-exit/"><u>Diagnosing and Repairing Windows 11 Shutdown Failures for a Smooth Exit</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminate-mingwm10dll-missing-errors-with-these-effective-techniques/"><u>Eliminate Mingwm10.dll Missing Errors with These Effective Techniques</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-or-linkedin-understanding-your-ideal-group-setting/"><u>Facebook or LinkedIn? Understanding Your Ideal Group Setting</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-iphone-video-editing-for-quick-clear-trims-for-2024/"><u>Master iPhone Video Editing for Quick, Clear Trims for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-audio-quality-integrating-srt-into-mp4/"><u>Mastering Audio Quality Integrating SRT Into MP4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/neo-qled-vs-oled-technology-in-televisions-a-comprehensive-guide/"><u>Neo QLED Vs. OLED Technology in Televisions - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fix-how-to-take-out-your-personal-pin-on-windows-11/"><u>Quick Fix: How to Take Out Your Personal Pin on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resetting-your-newx-account-a-step-by-step-guide/"><u>Resetting Your NewX Account: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-insights-on-using-windows-10-battery-information-tool-effectively/"><u>Unveiling Insights on Using Windows 10 Battery Information Tool Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mix-mastery-choosing-top-dj-videos-for-events/"><u>[New] Mix Mastery Choosing Top DJ Videos for Events</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tips-for-obtaining-pristine-images-at-no-cost/"><u>[Updated] Top Tips for Obtaining Pristine Images at No Cost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024-16/"><u>【2024推薦】你需要知道的：最好用及免費影片合成工具清單 - 頂級選擇前16名</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-innovatively-deploy-music-stickers-on-instafeatures/"><u>2024 Approved How to Innovatively Deploy Music Stickers on InstaFeatures</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-proving-ground-for-a-wealthy-creator-carryminatis-story-ajey/"><u>2024 Approved Proving Ground for a Wealthy Creator CarryMinati's Story (Ajey)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-11-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/political-campaign-imagery-and-visual-branding-explore-the-power-of-design-with-movavi/"><u>Political Campaign Imagery & Visual Branding: Explore the Power of Design with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-youtube-to-mp4-converter-change-your-video-extensions-instantly-online/"><u>Seamless YouTube-to-MP4 Converter: Change Your Video Extensions Instantly Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mov-3g2-movavi/"><u>데스크톱에서 공연 비용 없이 MOV 파일을 3G2 형식으로 전환하는 방법 - MOVAVI 지원</u></a></li>
 </ul></div>
 
