@@ -1,7 +1,7 @@
 ---
 title: "Apple Declares Your Gadget Vintage: A Guide to Legacy Tech & Future Updates | ZDNet"
-date: 2024-11-10T00:07:45.450Z
-updated: 2024-11-15T21:11:24.117Z
+date: 2024-11-21T16:04:07.376Z
+updated: 2024-11-25T16:06:57.836Z
 tags:
   - apple
 categories:
@@ -28,13 +28,14 @@ In this article, I'll show you how to take both screenshots and screen recording
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -64,10 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -109,10 +107,7 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -162,22 +157,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-your-makeup-maestro-journey-establishing-a-channel-for-beauty-buffs/"><u>[New] 2024 Approved Your Makeup Maestro Journey Establishing a Channel for Beauty Buffs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-capturing-waves-how-to-record-internet-radios-step-by-step/"><u>[New] Capturing Waves How To Record Internet Radios Step-by-Step</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-tweet-to-facebook-video-sharing-a-2023-perspective/"><u>[Updated] 2024 Approved Tweet-to-Facebook Video Sharing A 2023 Perspective</u></a></li>
-<li><a href="https://win-trending.techidaily.com/2021-ultimate-shopping-manual-navigating-black-friday-and-cyber-monday-deals-on-zdnet/"><u>2021 Ultimate Shopping Manual: Navigating Black Friday & Cyber Monday Deals on ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-s23-tactical-edition-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy S23 Tactical Edition is off? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-crafting-perfect-rules-in-your-gmail-inbox/"><u>Comprehensive Strategies for Crafting Perfect Rules in Your Gmail Inbox</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-free-drivers-ensuring-validation-and-proper-computer-fit/"><u>Error-Free Drivers: Ensuring Validation and Proper Computer Fit</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/finding-the-perfect-gaming-phone-amongst-iphones-expert-tips-and-rankings/"><u>Finding the Perfect Gaming Phone Amongst iPhones: Expert Tips & Rankings.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-tech-trends-dive-into-samsungs-2025-showcase-official-news-speculations-and-more/"><u>Get Ahead of Tech Trends: Dive Into Samsung's 2025 Showcase – Official News, Speculations & More!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-x90s-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo X90S FRP In 3 Different Ways</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/secrets-unveiled-seamlessly-download-your-favorite-vimeo-videos-anywhere-for-2024/"><u>Secrets Unveiled Seamlessly Download Your Favorite Vimeo Videos Anywhere for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-hiding-your-phone-number-in-android-settings/"><u>Step-by-Step Guide: Hiding Your Phone Number in Android Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-empty-out-every-email-from-your-android-or-ios-gmail-app/"><u>Step-by-Step Tutorial: Empty Out Every Email From Your Android or iOS Gmail App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-most-essential-android-wear-apps-for-a-smarter-watch-experience/"><u>The Most Essential Android Wear Apps for a Smarter Watch Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-the-no-matches-found-issue-on-bumble/"><u>Ultimate Guide: Solving the 'No Matches Found' Issue on Bumble</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-snapping-screenshots-like-a-pro-on-hp-systems/"><u>Ultimate Tutorial: Snapping Screenshots Like a Pro on HP Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncover-the-best-android-photo-editor-does-picku-stand-out-in-2024/"><u>Uncover the Best Android Photo Editor – Does PickU Stand Out, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-consistent-viewing-automatic-youtube-video-playback-on-tv/"><u>[New] 2024 Approved Consistent Viewing Automatic YouTube Video Playback on TV</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[Updated] In 2024, Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-you-ready-for-enhanced-gaming-performance-with-rtx-technology/"><u>Are You Ready for Enhanced Gaming Performance with RTX Technology?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-on-removing-photographs-from-your-facebook-profile/"><u>Complete Tutorial on Removing Photographs From Your Facebook Profile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-font-transformation-for-enhanced-reading-on-windows-11/"><u>Effortless Font Transformation for Enhanced Reading on Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/leveraging-consumer-reviews-for-youtube-wealth-creation-for-2024/"><u>Leveraging Consumer Reviews for YouTube Wealth Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/online-streaming-hierarchy-who-rises-above-vimeo-or-giants-like-youtubes-and-dailymotions-in-2024/"><u>Online Streaming Hierarchy Who Rises Above – Vimeo or Giants Like YouTubes and DailyMotions, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tips-pressing-the-perfect-combination-for-a-digital-hearts/"><u>Quick Tips: Pressing the Perfect Combination for a Digital Hearts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-fixing-answering-problems-with-your-samsung-galaxy-watch/"><u>Step-by-Step Guide to Fixing Answering Problems with Your Samsung Galaxy Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolving-a-whea-unrecoverable-fault-on-your-pc/"><u>Step-by-Step Guide: Resolving a WHEA Unrecoverable Fault on Your PC</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-tutorial-for-retrieving-unintentionally-modified-word-documents-using-windows-11-features/"><u>Step-by-Step Tutorial for Retrieving Unintentionally Modified Word Documents Using Windows 11 Features</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-animator-marketplace-of-custom-creative-stunts/"><u>The Animator' Marketplace of Custom Creative Stunts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-path-to-professional-presence-youtube-tips-and-tricks-for-2024/"><u>The Path to Professional Presence YouTube Tips & Tricks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-introductory-ai-toolsets-perfect-for-newcomers/"><u>Top 9 Introductory AI Toolsets Perfect for Newcomers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-role-of-rtx-gpus-a-comprehensive-guide/"><u>Understanding the Role of RTX GPUs: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2024-11-12T03:57:46.640Z
-updated: 2024-11-15T20:11:48.871Z
+date: 2024-11-20T17:32:12.871Z
+updated: 2024-11-25T16:00:17.885Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -51,10 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,16 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -133,10 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,21 +176,17 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-tech-driven-patient-recovery-paths/"><u>[New] Tech-Driven Patient Recovery Paths</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-elevate-collaborative-workflow-enhancing-zoom-use-in-gmail-mail-for-2024/"><u>[Updated] Elevate Collaborative Workflow Enhancing Zoom Use in Gmail Mail for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-get-loved-fast-essential-bio-hacks-that-work-on-every-version-of-tinder/"><u>[Updated] In 2024, Get Loved, Fast Essential Bio Hacks that Work on Every Version of Tinder</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/complete-tutorial-how-to-permanently-delete-items-from-the-windows-eboard-history/"><u>Complete Tutorial: How to Permanently Delete Items From the Windows Eboard History</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/data-saving-techniques-for-efficient-texting-on-mobile-networks/"><u>Data-Saving Techniques for Efficient Texting on Mobile Networks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-your-pc-display-updating-hdmi-drivers-in-w10w11/"><u>Enhance Your PC Display: Updating HDMI Drivers in W10/W11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-recover-msvbvm50dll-expert-tips-and-solutions/"><u>How to Recover MSVBVM50.DLL: Expert Tips & Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-m34-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy M34 Fingerprint Lock</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-video-magic-summit/"><u>In 2024, Crafting Video Magic Summit</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/regain-entry-to-your-ipad-tactics-to-retrieve-lost-passwords-and-unlock-codes/"><u>Regain Entry to Your iPad: Tactics to Retrieve Lost Passwords and Unlock Codes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/section-2c-increasingly-complex-questions-with-solutions/"><u>Section 2C: Increasingly Complex Questions with Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simplify-household-planning-with-our-top-picks-of-7-family-friendly-calendar-applications/"><u>Simplify Household Planning with Our Top Picks of 7 Family-Friendly Calendar Applications</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-beat-weavers-treasury-high-res-dj-visual-samples-for-2024/"><u>The Beat Weaver's Treasury High-Res DJ Visual Samples for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-beginners-walkthrough-for-deploying-windows-1-groovy-on-fresh-hard-drives/"><u>The Beginner's Walkthrough for Deploying Windows 1 Groovy on Fresh Hard Drives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-resolving-the-missing-mingwm10dll-error-on-your-computer/"><u>Troubleshooting: Resolving the Missing mingwm10.dll Error on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-do-when-your-android-device-wont-get-any-texts-expert-advice/"><u>What To Do When Your Android Device Won't Get Any Texts: Expert Advice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/behind-the-scenes-of-chatgpt-identifying-microsoft-as-its-architect-and-guardian/"><u>Behind the Scenes of ChatGPT: Identifying Microsoft as Its Architect and Guardian</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-home-studio-secure-the-latest-scarlett-2i4-drivers-for-windows-download/"><u>Enhance Your Home Studio: Secure the Latest Scarlett 2I4 Drivers for Windows (Download)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-diagnosing-and-correcting-hps-code-43-malfunctions/"><u>Expert Tips for Diagnosing & Correcting HP'S Code 43 Malfunctions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gifinstagram/"><u>GIFを使ったInstagramストーリーズアップロードガイド: 完全取材</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-3-for-pc-resolving-unexpected-black-screen-errors-effectively/"><u>Hitman 3 for PC - Resolving Unexpected Black Screen Errors Effectively</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-secrets-to-flawless-photo-cropping-online/"><u>In 2024, Professional Secrets to Flawless Photo Cropping Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-video-mastery-posting-on-snapchat-from-twitter-revealed/"><u>In 2024, Video Mastery Posting on Snapchat From Twitter Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-factors-every-serious-gamer-should-assess-when-shopping-for-a-new-gaming-rig/"><u>Key Factors Every Serious Gamer Should Assess When Shopping for a New Gaming Rig</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/obscure-watching-methods-5-unique-stories-apps-for-2024/"><u>Obscure Watching Methods 5 Unique Stories Apps for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-quiet-how-to-turn-up-the-volume-on-your-minecraft-soundscape/"><u>PC Gaming Quiet: How to Turn Up the Volume on Your Minecraft Soundscape</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fix-for-mac-programs-that-refuse-to-launch-expert-tips-and-advice/"><u>Quick Fix for Mac Programs that Refuse to Launch: Expert Tips & Advice</u></a></li>
 </ul></div>
 

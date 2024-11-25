@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2024-11-13T18:41:59.618Z
-updated: 2024-11-16T06:54:48.411Z
+date: 2024-11-21T16:19:33.912Z
+updated: 2024-11-25T17:08:23.243Z
 tags:
   - apple
 categories:
@@ -45,10 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +53,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -70,6 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -77,10 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,18 +122,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-automating-subtitles-for-social-media-visuals-on-instagram-for-2024/"><u>[Updated] Automating Subtitles for Social Media Visuals on Instagram for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastering-multi-platform-skype-group-formation-for-2024/"><u>[Updated] Mastering Multi-Platform Skype Group Formation for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-rhythm-and-reels-posting-melodies-on-social-media-for-2024/"><u>[Updated] Rhythm & Reels Posting Melodies on Social Media for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-elon-musks-robotaxi-venture-release-timeline-pricing-and-specs-revealed/"><u>All You Need to Know About Elon Musk’s Robotaxi Venture - Release Timeline, Pricing, and Specs Revealed!</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/einfach-umsetzen-google-foto-bilder-perfekt-in-den-icloud-speicher-verschieben/"><u>Einfach Umsetzen: Google Foto-Bilder Perfekt in Den iCloud-Speicher Verschieben</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-in-house-digital-broadcast-clarity-using-the-best-indoor-antennas/"><u>Enhance In-House Digital Broadcast Clarity Using the Best Indoor Antennas</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-12-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 12 Pro | Stellar</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-escalate-your-channels-popularity-to-1kplus/"><u>In 2024, Escalate Your Channel's Popularity to 1K+</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-comparison-game-youtube-against-dailymention/"><u>In 2024, The Comparison Game YouTube Against DailyMention</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/smartwatch-buying-guide-5-crucial-aspects-you-cant-ignore/"><u>Smartwatch Buying Guide: 5 Crucial Aspects You Can't Ignore</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-effective-methods-to-restore-airpods-charging-function/"><u>Troubleshoot: Effective Methods to Restore AirPods' Charging Function</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-quipquill-memes-and-more-at-your-fingertips/"><u>[Updated] 2024 Approved QuipQuill Memes & More at Your Fingertips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-penning-perfectly-captivating-podcast-descriptions-for-2024/"><u>[Updated] Penning Perfectly Captivating Podcast Descriptions for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>[Updated] Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-tips-for-teachers-using-youtube-in-classroom/"><u>2024 Approved Tips for Teachers Using YouTube in Classroom</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-lgbt-cinema-available-on-netflix-in-june-2024/"><u>Discover the Best LGBT Cinema Available on Netflix in June 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dnssddll-gone-missing-heres-how-to-correct-it-and-avoid-common-pitfalls/"><u>dnssd.dll Gone Missing? Here's How to Correct It and Avoid Common Pitfalls</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tional-gaming-content-on-youtube/"><u>Educational Gaming Content on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-team-communication-effective-strategies-for-using-slack-at-work/"><u>Enhancing Team Communication: Effective Strategies for Using Slack at Work</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/essential-gimbal-selection-tips-for-aerial-photography-for-2024/"><u>Essential Gimbal Selection Tips for Aerial Photography for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-future-of-conversational-ai-bards-top-7-features-from-googol-io-2hren/"><u>Explore the Future of Conversational AI: BARD's Top 7 Features From Googol I/O 2Hren</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-impact-of-watchos-10-updates-on-locating-iphones-via-apple-watch-a-critical-review-zdnet/"><u>Exploring the Impact of WatchOS 10 Updates on Locating iPhones via Apple Watch: A Critical Review | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-edit-messages-on-instagram/"><u>How to Edit Messages on Instagram</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-14-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review/"><u>In 2024, Unveiling Yuneec’s Typhoon H An Aerial Powerhouse Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-connection-linking-oculus-quest-2-to-a-handheld-device-efficiently/"><u>Mastering the Connection: Linking Oculus Quest 2 to a Handheld Device Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-cygwin1dll-absent-error-a-step-by-step-guide/"><u>Resolving 'Cygwin1.dll' Absent Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-fixing-a-vizio-tvs-lost-wi-fi-link/"><u>Step-by-Step Solution for Fixing a Vizio TV's Lost Wi-Fi Link</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-resolving-the-dsounddll-not-detected-error-on-pc/"><u>Understanding and Resolving the 'dsound.dll Not Detected' Error on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-of-packet-travel-the-ultimate-tutorial-for-executing-tracert-in-windows-environments/"><u>Unveiling the Secrets of Packet Travel: The Ultimate Tutorial for Executing Tracert in Windows Environments</u></a></li>
 </ul></div>
 

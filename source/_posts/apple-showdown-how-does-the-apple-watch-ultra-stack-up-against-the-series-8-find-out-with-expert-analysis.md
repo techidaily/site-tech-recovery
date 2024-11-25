@@ -1,7 +1,7 @@
 ---
 title: "Apple Showdown: How Does the Apple Watch Ultra Stack Up Against the Series 8? Find Out with Expert Analysis"
-date: 2024-11-12T03:31:14.430Z
-updated: 2024-11-16T01:54:53.801Z
+date: 2024-11-24T16:55:23.355Z
+updated: 2024-11-25T18:01:31.665Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | |  Apple Watch Ultra | Apple Watch Series 8                                                            |                                                                         |
@@ -44,23 +48,9 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Ultra if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You're ready for a new Apple Watch design
 
@@ -80,13 +70,6 @@ Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hour
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. You need a ruggedized watch
 
 As for ruggedness, the Ultra has a long list of certifications -- most of which I had no idea existed until now. For instance, the Ultra is EN13319 certified, which is a widely recognized standard for dive computers and depth gauges. There's a depth sensor built into the watch itself so it'll know when you're diving and automatically adjust to the environment. Its water resistance is rated at 100 meters, which goes toe to toe with [actual sport watches](https://www.zdnet.com/article/best-sports-watch/). 
@@ -98,6 +81,10 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 **More: [Apple Watch Ultra: Price, release date, and features](https://www.zdnet.com/article/apple-watch-ultra-price-release-date-features-colors-everything-you-need-to-know/)**
 
 [Apple Watch Ultra $799 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Series 8 if…
 
@@ -114,10 +101,7 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You're not ready to pay $799 for a watch
@@ -130,6 +114,10 @@ For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Don't need all of the extreme outdoor features
 
 Even if you like the design of the Ultra, it has more features than I'd wager most people will ever need. Two different types of GPS tracking, the ability to withstand a depth of 100m underwater, and the 2,000 nits display for outdoor viewing can all be overkill. 
@@ -141,6 +129,10 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 **More: [The best Apple Watch models of 2022](https://www.zdnet.com/article/best-apple-watch/)**
 
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -178,21 +170,22 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-google-hangout-optimization-advanced-methods-4-tips/"><u>[New] 2024 Approved Google Hangout Optimization Advanced Methods, 4 Tips</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-merging-text-and-vision-on-a-limited-budget/"><u>[New] In 2024, Merging Text & Vision on a Limited Budget</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-elevate-your-videos-a-complete-shift-from-sdr-to-hdr/"><u>[Updated] Elevate Your Videos A Complete Shift From SDR to HDR</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-prime-16-video-openers-to-surge-your-traffic/"><u>[Updated] Prime 16 Video Openers to Surge Your Traffic</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bridging-devices-with-ease-the-ultimate-tutorial-for-pc-users-of-google-homes-mobile-app/"><u>Bridging Devices with Ease: The Ultimate Tutorial for PC Users of Google Home's Mobile App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-for-correcting-gsdll32dll-is-missing-issues/"><u>Comprehensive Solutions for Correcting 'gsdll32.dll Is Missing' Issues</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-asus-rog-phone-7-ultimate-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Asus ROG Phone 7 Ultimate in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-origins-the-birth-and-growth-of-netflixs-dvd-rental-business/"><u>Exploring the Origins: The Birth and Growth of Netflix’s DVD Rental Business</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-gpt-mentions-to-call-out-custom-gpts-in-any-chatgpt-conversation/"><u>How to Use GPT Mentions to Call Out Custom GPTs in Any ChatGPT Conversation</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-8-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 8 After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-enjoy-netflix-without-a-subscription-find-out-now/"><u>Is It Possible to Enjoy Netflix Without a Subscription? Find Out Now</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-fixes-easy-driver-update-process-for-your-intel-nuc-device/"><u>Quick Fixes: Easy Driver Update Process for Your Intel NUC Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-multi-tasking-with-splitscreen-mode-on-your-macbook-air/"><u>Step-by-Step Guide: Mastering Multi-Tasking with Splitscreen Mode on Your MacBook Air</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-role-of-arvr-in-medical-training/"><u>The Role of AR/VR in Medical Training</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-waterproof-smartphone-protectors-2024/"><u>Top-Rated Waterproof Smartphone Protectors 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-diagnosing-and-repairing-the-missing-mss3-32-dll-file-error/"><u>Ultimate Guide to Diagnosing and Repairing the Missing MSS3 32 DLL File Error</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-undercover-upsell-simple-image-saving/"><u>[Updated] 2024 Approved The Undercover Upsell Simple Image Saving</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-definitive-guide-for-effective-and-smooth-youtube-video-uploads/"><u>[Updated] In 2024, The Definitive Guide for Effective and Smooth YouTube Video Uploads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-zippyzoom-tortoisepic-timestretch/"><u>[Updated] ZippyZoom TortoisePic TimeStretch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-practices-in-on-screen-moment-preservation-for-2024/"><u>Best Practices in On-Screen Moment Preservation for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/customizable-mcb-visuals-for-youtube-banners/"><u>Customizable MCB Visuals for YouTube Banners</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-apple-vision-pro-specs-value-and-performance-insights-a-thorough-walkthrough-by-tech-experts-at-zdnet/"><u>Deciphering the Apple Vision Pro Specs, Value & Performance Insights | A Thorough Walkthrough by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detecting-the-presence-of-an-airtag-tracker-on-you-or-your-belongings-tips-and-strategies-for-privacy-protection/"><u>Detecting the Presence of an AirTag Tracker on You or Your Belongings | Tips & Strategies for Privacy Protection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-iphone-experience-must-have-anker-charger-additions-coming-soon/"><u>Elevate Your iPhone Experience: Must-Have Anker Charger Additions Coming Soon</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevating-your-online-empire-a-guide-to-massive-facebook-following/"><u>Elevating Your Online Empire A Guide to Massive Facebook Following</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-your-hands-on-macos-15-sequoia-early-access-download-instructions-for-mac-users-zdnet-coverage/"><u>Get Your Hands on MacOS 15 Sequoia Early Access! Download Instructions for Mac Users | ZDNet Coverage.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-to-reactivate-the-dormant-wsreset-service/"><u>Proven Methods to Reactivate the Dormant WSReset Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/save-big-on-tech-unbeatable-apple-promotions-for-july-2nt-2024-featuring-phones-smartwatches-and-tablets-zdnet/"><u>Save Big on Tech: Unbeatable Apple Promotions for July 2N't 2024 Featuring Phones, Smartwatches & Tablets | ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-magsafe-wallet-picks-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Wallet Picks - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/two-pronged-approach-to-perfecting-your-youtube-video-introduction-for-2024/"><u>Two-Pronged Approach to Perfecting Your YouTube Video Introduction for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-showdown-samsung-vs-apple-choosing-the-right-smartwatch-ultra-for-you/"><u>Ultimate Showdown: Samsung Vs. Apple - Choosing the Right Smartwatch Ultra for You!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgraded-or-just-costly-hype-a-comprehensive-analysis-of-iphone-16-pro-against-iphone-n14-pro/"><u>Upgraded or Just Costly Hype? A Comprehensive Analysis of iPhone 16 Pro Against iPhone N_14 Pro</u></a></li>
 </ul></div>
 

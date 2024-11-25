@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2024-11-09T08:41:53.400Z
-updated: 2024-11-15T21:41:06.902Z
+date: 2024-11-19T16:00:39.920Z
+updated: 2024-11-25T18:08:04.798Z
 tags:
   - apple
 categories:
@@ -28,15 +28,16 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,10 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -63,10 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -100,10 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,20 +140,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>[Updated] 2024 Approved Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-immersive-world-of-lg-27ud68/"><u>2024 Approved Discovering the Immersive World of LG 27UD68</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-picture-in-picture-pro-optimizing-your-viewing-with-netflixs-floating-window-feature/"><u>2024 Approved Picture-in-Picture Pro Optimizing Your Viewing with Netflix's Floating Window Feature</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-tantalizing-flavors-with-these-top-10-culinary-series-on-netflix/"><u>Explore Tantalizing Flavors with These Top 10 Culinary Series on Netflix</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-vivo-y200-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y200 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Tecno Phantom V Flip? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-easily-install-and-update-sata-controller-drivers-on-your-pc-with-windows/"><u>How to Easily Install and Update SATA Controller Drivers on Your PC with Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-resolve-a-faulty-cmos-checksum-on-your-pc/"><u>How to Successfully Resolve a Faulty CMOS Checksum on Your PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-google-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Google Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-ios-updates-a-comprehensive-guide-for-seamless-installation/"><u>Mastering iOS Updates: A Comprehensive Guide for Seamless Installation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-two-screen-viewing-step-by-step-guide-for-netflix-users-for-2024/"><u>Mastering Two Screen Viewing - Step By Step Guide For Netflix Users for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/quick-fixes-for-missing-sound-in-obs-for-2024/"><u>Quick Fixes for Missing Sound in OBS for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/surviving-rough-seas-assessing-the-waterproof-features-of-the-iphone-15-pro-max/"><u>Surviving Rough Seas: Assessing the Waterproof Features of the iPhone 15 Pro Max</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-cable-tv-vs-streaming-services-key-distinctions/"><u>Understanding Cable TV Vs. Streaming Services: Key Distinctions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unexpected-situations-solved-regain-access-to-your-ipad-without-the-original-password/"><u>Unexpected Situations Solved: Regain Access to Your iPad Without the Original Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-11x-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme 11X 5G</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211383049-9781957811048-discourses-volume-4-2017/"><u>Discourses Volume 4, 2017 | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ensure-email-safety-in-mac-os-x-by-setting-up-whitelisted-domains/"><u>Ensure Email Safety in Mac OS X by Setting Up Whitelisted Domains</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fun-filled-guide-to-playful-shenanigans-on-your-mobile-tech-iphone-and-ipad-edition/"><u>Fun-Filled Guide to Playful Shenanigans on Your Mobile Tech: IPhone & iPad Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-resolve-d3dx930dll-errors-when-they-go-unfound-or-vanish/"><u>How to Correctly Resolve d3dx9_30.dll Errors When They Go Unfound or Vanish</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-se-2022-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone SE (2022) After Forgetting the Passcode?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-recording-internet-radios-simplified-tips-and-tricks/"><u>In 2024, Recording Internet Radios Simplified Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/joining-forces-a-guide-on-linking-up-several-bluetooth-soundboxes/"><u>Joining Forces: A Guide on Linking Up Several Bluetooth Soundboxes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-ups-solutions-reviewed-choose-the-perfect-backup/"><u>Leading UPS Solutions Reviewed - Choose the Perfect Backup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-accessing-espnplus-through-lg-smart-tv-interface/"><u>Step-by-Step Tutorial: Accessing ESPN+ Through LG Smart TV Interface</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-your-media-collection-with-funimate-for-2024/"><u>Streamline Your Media Collection with Funimate for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982733676-troubleshooting-complete-no-more-fifa-20-crashes-for-windows-users/"><u>Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-for-connecting-laptops-and-televisions-with-an-hdmi-link/"><u>Ultimate Troubleshooting for Connecting Laptops and Televisions with an HDMI Link</u></a></li>
+<li><a href="https://facebook.techidaily.com/unboxing-facebook-and-instagrams-latest-ad-ventures/"><u>Unboxing Facebook & Instagram's Latest Ad Ventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-capabilities-of-the-latest-claude-generation/"><u>Unveiling the Capabilities of the Latest Claude Generation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrade-to-mozilla-thunderbird-unveiling-version-170-build-52/"><u>Upgrade to Mozilla Thunderbird: Unveiling Version 17.0 (Build 52)</u></a></li>
 </ul></div>
 

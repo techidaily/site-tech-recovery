@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Rumors Surrounding Apple's Electric Vehicle: Uncover Potential Price Points and Features"
-date: 2024-09-04T02:49:38.512Z
-updated: 2024-09-05T02:49:38.512Z
+date: 2024-11-22T16:23:51.288Z
+updated: 2024-11-25T16:33:06.205Z
 categories:
   - BestProducts
 description: "This Article Describes Exclusive Rumors Surrounding Apple's Electric Vehicle: Uncover Potential Price Points and Features"
@@ -46,17 +46,9 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
  If Apple wants to make their car idea happen, we could see a revival by 2028 or 2029\. But it'll only happen if they can strike a deal with Rivian or another car company.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Car Price Rumors 
 
  The only way to know what the Apple car could have cost is to look at what other companies are doing.
@@ -69,13 +61,25 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
 ![Apple Car concept](https://www.lifewire.com/thmb/JjLbHffcA4sPEkAvIevHx0Lp664=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-car-interior-concept-98c4063ff2814baea4c66ee35503d3ac.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vanarama
 
 [  9 Questions to Ask Yourself Before You Buy an EV ](https://www.lifewire.com/questions-to-ask-before-buying-an-ev-5202902) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How the Apple Car Might Have Worked 
 
  Exploring the Apple car features isn't something anyone can do because nothing was ever officially announced. But since smart cars are already on the roads today, we're not totally in the dark when we guess what could have been included in Apple's car.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Self-Driving 
 
@@ -114,17 +118,9 @@ Vanarama
 ![Canoo Lifestyle Vehicle rear lounge seating](https://www.lifewire.com/thmb/MbfMZiAe5CjoTAbib9NM6GF0llQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/key-4-e8b0605712f24e2e9ea9f995de1812e1.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Canoo Lifestyle Vehicle rear lounge seating. 
 
 Canoo
@@ -133,18 +129,6 @@ Canoo
 
 ![Apple Car concept](https://www.lifewire.com/thmb/yuMXwEwEQAzyjbSQ8ylet0M1fIY=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-car-interior-concept-seats-9e3296e29e3a4d3698d7efa0bb2ddb0c.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Seating concept for Apple Car. 
 
 Vanarama
@@ -166,17 +150,9 @@ Tesla
  There was even talk that the Apple car would include a detachable infotainment device so the driver can still access climate control, music, etc. when they swivel the chair around.[ Incorporating a headset](https://www.patentlyapple.com/2024/02/8-hmd-patents-were-published-this-week-including-one-for-using-vision-pro-when-driving-a-vehicle-that-supports-in-air-gesture.html) like the[ Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) into the driving experience would have been interesting as well.  
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Range 
 
  The prediction was that Apple's car would be self-driving and electric, only there isn't a lot to be said about range. Between batteries and[ regenerative braking](https://www.lifewire.com/how-does-regenerative-braking-work-5201632) technology, most new EVs are capable of at least 250 miles, but some exceed 400 miles, and even fewer, like[ Aptera, claim up to a 1,000-mile range](https://aptera.us/vehicle/) .
@@ -200,12 +176,6 @@ Vanarama
 
  Vanarama's concept is only one take on how the car might have looked. Of course, nobody knows for sure, but[ Erick Martinez's designs](https://www.erick-martinez.com/icar) show a much smoother exterior. For an interesting, but unrealistic and honestly silly take, check out[ Devanga Borah's pod-style microcar design](https://www.instagram.com/p/CT9-0jaJvam/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Safety 
 
  Automated driving carries several prerequisites that make the car safer than one not as smart. Features like[ lane centering](https://www.lifewire.com/how-does-lane-centering-work-5188779) , automatic braking, and blind-spot alerts are a given, so what unique features might Apple have done to make its car safer than other vehicles on the road?
@@ -216,12 +186,6 @@ Vanarama
 
  With passengers potentially facing each other while in motion, collision risks sound even more dangerous than they do in a traditional vehicle where everyone faces the same direction. Apple had a solution to that problem—a[ patent uncovered by Patently Apple](https://www.patentlyapple.com/2020/05/apple-wins-a-project-titan-patent-illustrating-next-gen-seat-belt-systems-that-includes-roof-and-lapbelt-airbags.html) in 2020 describes ample airbags and rail-mounted seats that can move in response to a collision to create distance between the occupants. Another[ patent for reinforced windows](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=11,446,986.PN.&OS=PN/11,446,986&RS=PN/11,446,986) was reported in 2022.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Charging 
 
  A[ charging station patent spotted by Patently Apple](https://www.patentlyapple.com/2022/05/apple-has-won-a-patent-for-a-future-automated-electric-vehicle-charging-station.html) confirms that Apple was interested in adding some sort of automated charging mechanism to the vehicle for it to attach to a charging station without any manual input by the passengers. For illustrations and other details,[ check out patent 11,325,491 at USPTO](http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=11,325,491) .
@@ -252,12 +216,6 @@ Vanarama
 
 ![vehicle's external display that says waiting for you to cross](https://www.lifewire.com/thmb/O65adpyjUraRfkZdBski5i1WVoU=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/waiting-for-you-to-cross-external-display-776df2ff6f8246b4a252208f7380009b.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Latest News About the Apple Car 
 
  You can [ get more Smart and Connected Life news from Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Here are other related stories and some early rumors we found about the Apple car specifically:  
@@ -280,8 +238,6 @@ Vanarama
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,4 +245,20 @@ Vanarama
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-techniques-for-convenient-iphone-screen-recording-for-2024/"><u>[New] Essential Techniques for Convenient Iphone Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-prodigious-platform-professionals/"><u>2024 Approved Prodigious Platform Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726220210600-flacmp3-movavi/"><u>免費網路FLAC到MP3格式转换 - 使用Movavi媒体转换器</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-reconocer-y-acceder-a-un-archivo-en-formato-mp4-instrucciones-paso-a-paso/"><u>Cómo Reconocer Y Acceder a Un Archivo en Formato MP4: Instrucciones Paso a Paso</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/creer-des-gifs-a-partir-de-fichiers-tiff-gratuitement-enligne-via-movavi/"><u>Créer Des GIFs À Partir De Fichiers TIFF Gratuitement Enligne via Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-guide-to-overcome-kernelbasedll-system-failures-now/"><u>Effortless Guide to Overcome KernelBase.dll System Failures - Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-tuning-your-obs-settings-a-guide-to-ultimate-video-quality-and-performance/"><u>Expertly Tuning Your OBS Settings: A Guide to Ultimate Video Quality and Performance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-v30-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo V30 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-beginners-blueprint-to-free-youtube-audio-to-text/"><u>In 2024, The Beginner's Blueprint to Free YouTube Audio to Text</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-nokia-c210-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrading-your-system-wisely-tips-and-reviews-by-proficient-team-at-toms-hardware/"><u>Upgrading Your System Wisely: Tips and Reviews by Proficient Team at Tom's Hardware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wi-fi-tga-png-movavi/"><u>무료 Wi-Fi용 동영상 TGA PNG 전환 - Movavi</u></a></li>
+</ul></div>
 

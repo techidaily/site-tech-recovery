@@ -1,7 +1,7 @@
 ---
 title: "Activating Push Alerts: Setting Up Slack App Notifications on Apple Watch - Tutorial"
-date: 2024-11-14T07:42:10.781Z
-updated: 2024-11-16T05:32:02.723Z
+date: 2024-11-24T16:32:59.668Z
+updated: 2024-11-25T16:31:52.128Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
@@ -59,10 +63,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -80,10 +81,7 @@ Screenshot by David Gewirtz/ZDNET
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -103,13 +101,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -131,22 +122,23 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -187,22 +179,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-selective-removers-to-purify-video-identity-signs/"><u>[New] In 2024, Selective Removers to Purify Video Identity Signs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-halt-spotify-from-automatically-playing-podcasts/"><u>2024 Approved How to Halt Spotify From Automatically Playing Podcasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-adding-a-unique-email-signature-on-godaddy-mail-platform/"><u>A Beginner's Guide to Adding a Unique Email Signature on GoDaddy Mail Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-utorrent-download-speed-ultimate-guide-to-resolving-lag-issues/"><u>Boost Your uTorrent Download Speed: Ultimate Guide to Resolving Lag Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-when-you-cant-find-msvcrtdll-on-windows-expert-tips-and-tricks/"><u>Easy Fixes for When You Can’t Find MSVCRT.DLL on Windows: Expert Tips & Tricks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tial-recording-steps-for-youtube-audio-extraction-for-2024/"><u>Essential Recording Steps for YouTube Audio Extraction for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tial-tips-sharing-your-apple-devices-screen-with-youtube-for-2024/"><u>Essential Tips Sharing Your Apple Devices Screen with YouTube for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-technology-that-powers-electric-motorbikes/"><u>Exploring the Technology That Powers Electric Motorbikes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-harness-chatgpts-abilities-across-various-linguistic-platforms/"><u>How to Harness ChatGPT's Abilities Across Various Linguistic Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-view-and-enjoy-tiktok-content-directly-on-your-hdtv/"><u>How to View and Enjoy TikTok Content Directly on Your HDTV</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-to-surge-in-youtubers-popularity/"><u>In 2024, The Blueprint to Surge in Youtubers' Popularity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reconnect-with-facebook-without-an-email-or-mobile-number-easy-recovery-techniques-inside/"><u>Reconnect with Facebook Without an Email or Mobile Number – Easy Recovery Techniques Inside!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-fix-for-binkw32dll-missing-a-user-friendly-approach/"><u>The Complete Fix for 'Binkw32.dll Missing' - A User-Friendly Approach</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-your-ps4-controllers-colorful-signals-meanings-behind-the-blue-white-red-and-orange-lights/"><u>Understanding Your PS4 Controller's Colorful Signals: Meanings Behind the Blue, White, Red & Orange Lights</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unleashing-creativity-new-font-addition-strategies-for-ae-for-2024/"><u>Unleashing Creativity New Font Addition Strategies for AE for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-a-guide-to-activating-and-navigating-the-hidden-finder-sidebar/"><u>Unlocking the Secrets: A Guide to Activating and Navigating the Hidden Finder Sidebar</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-dying-lights-charms-a-cooperative-first-person-leap-into-survival/"><u>Unveiling Dying Light's Charms: A Cooperative First-Person Leap Into Survival</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-control-youtube-audio-mobiledesktop-approach/"><u>[New] 2024 Approved Control YouTube Audio Mobile/Desktop Approach</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-efficient-techniques-in-screencastify-recording-for-2024/"><u>[New] Unveiling Efficient Techniques in Screencastify Recording for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-laptop-not-using-gpu-windows-1011/"><u>[SOLVED] Laptop Not Using GPU Windows 10/11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success/"><u>[Updated] Crafting Compelling Narratives in Instagram Ads Top 10 Tips for Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-art-of-gamers-intros-top-12-yt-videographers-lists/"><u>[Updated] Mastering the Art of Gamers' Intros Top 12 YT Videographers' Lists</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pricing-outline-the-cost-to-film-melodies-visually-for-2024/"><u>[Updated] Pricing Outline The Cost to Film Melodies Visually for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-lightened-up-heres-how-to-switch-back-to-dark-mode/"><u>Facebook Lightened Up? Here’s How to Switch Back to Dark Mode!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-people-lookup-6-quick-techniques-to-easily-find-someone/"><u>Facebook People Lookup: 6 Quick Techniques to Easily Find Someone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/gopro-videos-not-playing-smoothly-on-your-pc-heres-how-to-fix-uneven-frame-rates-and-buffering-problems/"><u>GoPro Videos Not Playing Smoothly on Your PC? Here's How to Fix Uneven Frame Rates and Buffering Problems!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-activating-two-factor-verification-on-twitch-for-added-safety/"><u>Guide to Activating Two-Factor Verification on Twitch for Added Safety</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immersive-audio-awaits-discover-the-best-15-dolby-atmos-films-to-stream-at-home/"><u>Immersive Audio Awaits: Discover the Best 15 Dolby Atmos Films to Stream at Home</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-macos-finder-adjusting-visibility-options-for-main-and-sub-folders/"><u>Mastering macOS Finder: Adjusting Visibility Options for Main and Sub-Folders</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pairing-problem-try-these-6-solutions-for-an-unresponsive-apple-watch/"><u>Pairing Problem? Try These 6 Solutions for an Unresponsive Apple Watch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/simplify-screenplay-to-film-use-windows-movie-maker-win11-for-2024/"><u>Simplify Screenplay to Film Use Windows Movie Maker (Win11) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-halting-haldll-errors-in-windows-operating-systems/"><u>Step-by-Step Guide: Halting hal.dll Errors in Windows Operating Systems</u></a></li>
 </ul></div>
 

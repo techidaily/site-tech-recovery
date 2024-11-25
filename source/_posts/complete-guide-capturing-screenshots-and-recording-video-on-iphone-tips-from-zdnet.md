@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2024-11-09T20:28:29.953Z
-updated: 2024-11-15T21:47:13.755Z
+date: 2024-11-23T17:16:36.758Z
+updated: 2024-11-25T17:12:25.399Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to screen record on any iPhone
 
 * **Materials needed:** Any iPhone running iOS 14.0 or later
@@ -30,10 +34,7 @@ You'll find the necessary setting in the Control Center section of your Settings
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open your Settings app and find "Control Center"
@@ -64,6 +65,10 @@ While recording, your Screen Recording button will look like this (minus the red
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Begin screen recording
 
 When you're ready to begin recording, tap the Screen Recording button. This starts a 3-second countdown. At the end of it, the recording will begin. This countdown time can be used to close the Control Center and get back to the true subject of your Screen Recording before the video capture actually begins. 
@@ -74,13 +79,6 @@ Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 5: Record
 
 This is when you'll want to complete whatever task it is you wanted to screen record. Once you've finished recording your task, move on to the final step below.
@@ -88,13 +86,6 @@ This is when you'll want to complete whatever task it is you wanted to screen re
 This is the confirmation box that will appear when you stop your recording. 
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. End your recording
 
@@ -104,24 +95,19 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
 
@@ -167,18 +153,24 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-engage-in-enlightening-youtube-exchanges/"><u>[New] In 2024, Engage in Enlightening YouTube Exchanges</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-tips-and-tricks-for-professional-logitech-webcam-recordings-for-2024/"><u>[New] Tips & Tricks for Professional Logitech Webcam Recordings for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-convenient-way-to-mute-youtube-channels-on-pcmobile/"><u>[Updated] In 2024, The Convenient Way to Mute Youtube Channels on PC/Mobile</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-note-30-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Note 30 FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-performance-by-resetting-cache-in-android-detailed-instructions/"><u>Boost Performance by Resetting Cache in Android – Detailed Instructions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-italys-recent-decision-to-halt-access-to-chatgpt-effectively-and-abruptly/"><u>Decoding Italy's Recent Decision to Halt Access to ChatGPT Effectively and Abruptly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-locating-personal-contact-details-online/"><u>Effective Strategies for Locating Personal Contact Details Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-total-deletion-of-inbox-messages-in-the-gmail-app-across-platforms/"><u>Expert Advice: Total Deletion of Inbox Messages in the Gmail App Across Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-building-your-ideal-everyday-carry-for-summer/"><u>Expert Tips: Building Your Ideal Everyday Carry for Summer</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-moto-g-5g-2023-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Moto G 5G (2023) to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/purchasing-made-easy-5-critical-factors-for-selecting-a-fitness-band/"><u>Purchasing Made Easy: 5 Critical Factors for Selecting a Fitness Band</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-setting-up-disney-plus-streaming-on-your-google-chromecast-device/"><u>The Ultimate Walkthrough: Setting Up Disney Plus Streaming on Your Google Chromecast Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-4k-on-any-laptop-the-innovative-gadget-that-overcomes-hardware-limitations-zdnet/"><u>Upgrade to 4K on Any Laptop - The Innovative Gadget That Overcomes Hardware Limitations | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-adobe-tactics-for-dynamic-3d-text-design/"><u>[New] Adobe Tactics for Dynamic 3D Text Design</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-optimize-and-streamline-your-podcast-entry/"><u>[Updated] 2024 Approved Optimize and Streamline Your Podcast Entry</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-alternatives-to-xsplit-for-digital-media-masters-for-2024/"><u>[Updated] Alternatives to Xsplit for Digital Media Masters for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-expert-5-virtual-screenshots-tech/"><u>[Updated] In 2024, Expert 5 Virtual Screenshots Tech</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-premier-mac-programming-options-excluding-bandicam/"><u>[Updated] Premier Mac Programming Options Excluding Bandicam</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-instagram-presence-with-metaai-strategies-and-tips/"><u>Boost Your Instagram Presence with MetaAI: Strategies and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-pc-repair-learn-the-secrets-of-effective-cmos-flushing-for-fresh-bios-start/"><u>DIY PC Repair: Learn the Secrets of Effective CMOS Flushing for Fresh BIOS Start</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-did-netflixs-dvd-rental-scheme-pave-way-for-digital-revolution/"><u>How Did Netflix's DVD Rental Scheme Pave Way for Digital Revolution?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-quickly-repair-vcompdll-file-not-located-problem-on-windows/"><u>How To Quickly Repair 'vcomp.dll File Not Located' Problem on Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-resolve-instagram-video-glitches-today/"><u>In 2024, Resolve Instagram Video Glitches Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-video-production-with-these-top-editing-software-choices/"><u>Master Video Production with These Top Editing Software Choices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-to-address-and-repair-missing-msodll-file-notifications/"><u>Quick Fixes to Address and Repair Missing mso.dll File Notifications</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/secure-your-digital-life-instantly-with-6-practical-cybersecurity-steps-expert-advice-by-zdnet/"><u>Secure Your Digital Life Instantly with 6 Practical Cybersecurity Steps, Expert Advice by ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/solo-spotlight-crafting-a-chart-topping-podcast/"><u>Solo Spotlight Crafting a Chart-Topping Podcast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-nspr4dll-file-not-found-a-step-by-step-guide/"><u>Solving 'Nspr4.dll' File Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/algorithmic-youtube-video-selections/"><u>Stop Algorithmic YouTube Video Selections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722853436770-tackle-that-troublesome-blue-on-your-tv-discover-these-8-effective-fixes-now/"><u>Tackle That Troublesome Blue on Your TV - Discover These 8 Effective Fixes Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-selection-leading-email-apps-on-iphone/"><u>The Ultimate Selection: Leading Email Apps on iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-your-computer-with-free-themes-15-stunning-windows-11-makeovers/"><u>Transform Your Computer with Free Themes: 15 Stunning Windows 11 Makeovers</u></a></li>
 </ul></div>
 

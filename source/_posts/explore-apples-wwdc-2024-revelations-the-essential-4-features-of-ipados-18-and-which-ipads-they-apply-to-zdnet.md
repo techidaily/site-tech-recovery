@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's WWDC 2024 Revelations: The Essential 4 Features of iPadOS 18 & Which iPads They Apply To | ZDNET"
-date: 2024-11-11T20:46:45.347Z
-updated: 2024-11-15T18:59:38.084Z
+date: 2024-11-20T17:39:59.401Z
+updated: 2024-11-25T18:11:38.901Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. AI all around
 
 Apple is planning to [fully bake AI into iOS 18](https://www.zdnet.com/article/3-ai-features-ios-18-needs-to-catch-up-with-android/), according to several reports.
@@ -51,10 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,10 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -79,16 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -98,10 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -142,17 +128,17 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-filmcrafters-compendium-unpacked-qanda/"><u>[New] FilmCrafters' Compendium Unpacked Q&A</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-networking-haven-beyond-vidcon/"><u>[New] The Ultimate Networking Haven Beyond VidCon</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-toolkit-facebook-live-recording-conversion/"><u>[Updated] 2024 Approved The Ultimate Toolkit Facebook Live Recording Conversion</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ct-1000-viewers-quickly-on-youtube/"><u>Attract 1,000 Viewers Quickly on YouTube</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/capturing-your-screen-in-windows-11-discover-these-4-simple-ways/"><u>Capturing Your Screen in Windows 11: Discover These 4 Simple Ways</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-troubleshooting-airpod-pairing-and-reset-issues/"><u>Complete Guide: Troubleshooting AirPod Pairing & Reset Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-steelseries-arctis-prime-microphone-back-up-and-running/"><u>Fixing the Issue: How to Get Your SteelSeries Arctis Prime Microphone Back Up and Running</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-12-mini-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 12 mini? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-ace-3-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from OnePlus Ace 3 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos/"><u>Instant Video Playback on FB Enabling Auto-Play of Youtube Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-17-scoop-price-guesswork-prospective-launch-date-and-upcoming-features-covered/"><u>IPhone 17 Scoop: Price Guesswork, Prospective Launch Date & Upcoming Features Covered</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-full-potential-of-your-meta-headsets-integrated-voice-recognition/"><u>Unlocking the Full Potential of Your Meta Headset's Integrated Voice Recognition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-your-best-vr-camera-insights-for-2024/"><u>Choosing Your Best VR Camera Insights for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-razr-40-ultra-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Razr 40 Ultra support MOV videos ?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-headphone-port-on-your-laptop-a-comprehensive-guide/"><u>Fixing a Non-Functional Headphone Port on Your Laptop: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/garmin-vivomove-hr-analysis-the-chic-fitness-tracker-perfect-for-health-conscious-individuals/"><u>Garmin Vivomove HR Analysis: The Chic Fitness Tracker Perfect for Health-Conscious Individuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-terminology-trek-through-the-virtual-landscape/"><u>In 2024, Terminology Trek Through the Virtual Landscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-horizons-registering-for-cutting-edge-plugin-updates/"><u>New Horizons: Registering for Cutting-Edge Plugin Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-challenges-with-malfunctioning-smart-tv-apps-a-focus-on-samsung-devices/"><u>Overcoming Challenges with Malfunctioning Smart TV Apps: A Focus on Samsung Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sticky-situations-solved-tiktok-video-cleanup-for-2024/"><u>Sticky Situations Solved TikTok Video Cleanup for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-exhilarating-sports-flicks-on-demand/"><u>The Ultimate List of Exhilarating Sports Flicks on Demand</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-ceiling-sound-systems-2024s-must-have-picks/"><u>Top Rated Ceiling Sound Systems - 2024'S Must-Have Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-steps-to-permanently-remove-your-tiktok-profile/"><u>Ultimate Guide: Steps to Permanently Remove Your TikTok Profile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-xbox-service-interruptions-when-is-it-down-for-everyone/"><u>Understanding Xbox Service Interruptions – When Is It Down for Everyone?</u></a></li>
 </ul></div>
 

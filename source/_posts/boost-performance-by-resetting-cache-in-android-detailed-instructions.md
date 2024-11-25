@@ -1,7 +1,7 @@
 ---
 title: Boost Performance by Resetting Cache in Android – Detailed Instructions
-date: 2024-09-04T02:49:40.648Z
-updated: 2024-09-05T02:49:40.648Z
+date: 2024-11-21T16:30:58.737Z
+updated: 2024-11-25T16:32:01.592Z
 categories:
   - BestProducts
 description: This Article Describes Boost Performance by Resetting Cache in Android – Detailed Instructions
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/KWW-p0HtRkbdyWnWuK_R2KLBwns=/400x300/fi
 
  This article covers how to upload a new avatar on[Discord](https://www.lifewire.com/discord-4174046) using the desktop app, browser, and mobile apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Update Your Discord Avatar
 
  The process for adding or updating your profile picture is the same in a browser and the app. You can also remove the image; Discord doesn't require one.
@@ -28,23 +32,36 @@ thumbnail: https://www.lifewire.com/thmb/KWW-p0HtRkbdyWnWuK_R2KLBwns=/400x300/fi
 2. Click settings cog at the bottom left next to the current image.  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/CtVsFOH3NrM_Osbk4QgSVA-zC_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage1-be91f7e650f246a5b059b8808831e078.jpg)
 3. Select the three-dotted menu to the right of where the image goes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Change Avatar** .  
  To delete your avatar, select**Delete Avatar** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/_ubg4ot8XIxsdRiJKl8yi2czZzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage3-ff81b24cf09447b1a89298c27ef9af4a.jpg)
 5. Choose an image.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/7p7WSfd6m8IiCjx-Vn3CrNBi5wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage4-a6205545762a49769b025839f0882ec9.jpg)
 6. You can resize or center the image as you see fit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Apply** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zPQvP51LFBMX5W5ivjpzObfupIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg)
 8. Click**Save Changes** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zSsiau7LE9NhHuZBkN1EWnu9i48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage7-b6dbbf06f586439d9dcb7d360501836b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Update Your Discord Image on Mobile
 
  The process for changing your avatar via the Discord mobile app is similar. The screenshots below are from Android, but the process is the same on an iPhone, just with a different look. Again, you can remove your avatar altogether if you don't want one.
@@ -55,30 +72,12 @@ thumbnail: https://www.lifewire.com/thmb/KWW-p0HtRkbdyWnWuK_R2KLBwns=/400x300/fi
 4. Select the image or image placeholder. Tap**Remove Icon** to delete your profile image.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/LRJUnTntO_h20_BNbgEV-ueDPQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile1-3-f0ef1c7128364173b3d659461cd7b74c.jpg)
 5. If this is the first time you've uploaded a profile picture, Discord will ask you for two permissions: to access your camera and your photos and videos. Tap**Allow** or**While using the app** on at least one of these options to proceed.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select an image app.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/86Z7ytxgb26C9ZIg9qv92lbXy90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile4-6-e7f871a42b974f36a95af316c6f8d0c3.jpg)
 7. Choose an image and tap**Upload** . You can crop and zoom if you need to, but you have to do it before selecting the**Upload** button (there's a**Crop** button that shows up after you choose the image).
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Click the checkmark at the top right when you're satisfied if you cropped your image, then press**Save** to save the changes.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/VI2elSd14X27hKFsCroqVin3bEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile7-9-0291015a37e24a9b916667e373b615e4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  FAQ
 
 * Why can't I change my profile picture on Discord?  
@@ -110,8 +109,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +116,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-50plus-best-text-techniques-in-film-making/"><u>[Updated] 50+ Best Text Techniques in Film-Making</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-bandicam-revolutionizing-screen-capture-for-modern-media/"><u>[Updated] In 2024, Bandicam Revolutionizing Screen Capture for Modern Media</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-deep-dive-into-wi-fi-generations-exploring-from-80211abg-to-be-and-ax-standards/"><u>A Deep Dive Into Wi-Fi Generations: Exploring From 802.11A/B/G to Be & Ax Standards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-google-and-samsungs-finest-the-ultimate-guide-to-selecting-an-android-watch-zdnet/"><u>Choosing Between Google and Samsung's Finest: The Ultimate Guide to Selecting an Android Watch | ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-reviews-of-minecraft-the-go-to-game-for-all-generations/"><u>Comprehensive Reviews of Minecraft: The Go-To Game for All Generations</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/elevate-site-analytics-with-cookiebot-integration-boosting-visitor-insights-and-seo-performance/"><u>Elevate Site Analytics with Cookiebot Integration – Boosting Visitor Insights and SEO Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/error-0x80070570-decoded-diagnosis-and-remedies-for-a-common-system-hiccup/"><u>Error 0X80070570 Decoded: Diagnosis and Remedies for a Common System Hiccup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/evaluating-radiant-qualities-of-hd-lighting-for-2024/"><u>Evaluating Radiant Qualities of HD Lighting for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-powerhouse-reviewing-asus-maximus-z79e-formula-motherboard-with-exceptional-hybrid-chill-tech-and-high-end-specs/"><u>Explore the Powerhouse: Reviewing Asus Maximus Z79e Formula Motherboard with Exceptional Hybrid Chill Tech & High-End Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-guide-how-to-address-cannot-find-cwindowssystem32mfc42dll-errors/"><u>Fix Guide: How to Address Cannot Find C: WINDOWS System32 Mfc42.dll Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-sync-apple-homepod-with-your-television-for-enhanced-audio-experience/"><u>How to Sync Apple HomePod with Your Television for Enhanced Audio Experience</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-poco-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Poco FRP In 3 Different Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/innovative-techniques-for-crafting-reversed-video-content-on-snapchat-a-comprehensive-guide/"><u>Innovative Techniques for Crafting Reversed Video Content on Snapchat - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tapping-into-scholarly-deals-the-ultimate-strategy-for-acquiring-a-tidal-student-price-cut/"><u>Tapping Into Scholarly Deals: The Ultimate Strategy for Acquiring a Tidal Student Price Cut</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-step-by-step-walkthrough-of-texting-on-your-ipad-device/"><u>The Complete Step-by-Step Walkthrough of Texting on Your iPad Device</u></a></li>
+</ul></div>
 

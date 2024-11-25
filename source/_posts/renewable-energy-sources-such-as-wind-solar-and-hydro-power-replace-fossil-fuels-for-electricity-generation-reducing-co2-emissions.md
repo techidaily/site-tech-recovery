@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2024-11-09T02:38:13.277Z
-updated: 2024-11-15T22:26:58.061Z
+date: 2024-11-21T17:52:34.905Z
+updated: 2024-11-25T16:05:30.529Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
 
@@ -55,13 +59,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
 
@@ -103,6 +100,10 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -112,13 +113,6 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 **Also: [How the iPhone 15 Pro Max challenges mirrorless cameras: We compare price and performance](https://www.zdnet.com/article/how-the-iphone-15-pro-max-challenges-mirrorless-cameras-we-compare-price-and-performance/)**
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
 
@@ -136,6 +130,10 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -149,6 +147,10 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -171,10 +173,7 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
@@ -198,13 +197,6 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -262,19 +254,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-theta-s-revealed-an-extensive-product-evaluation/"><u>[New] 2024 Approved Theta S Revealed An Extensive Product Evaluation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-bridging-the-web-with-instagram-a-url-tutorial-for-2024/"><u>[New] Bridging the Web with Instagram A URL Tutorial for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-next-gen-coding-is-av1-superior-to-vp9/"><u>[Updated] Exploring Next-Gen Coding Is AV1 Superior to VP9?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-mobileweb-invest-in-no-cost-imagery-upgrade/"><u>[Updated] Prime Mobile/Web Invest in No-Cost Imagery Upgrade</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-start-utilizing-zoom-in-windows-10-environment/"><u>[Updated] Quick Start Utilizing Zoom in Windows 10 Environment</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/climate-change-law-seeks-to-mitigate-global-warming-by-regulating-greenhouse-gas-emissions-through-various-legal-mechanisms-including-market-based-approache43/"><u>Climate Change Law Seeks to Mitigate Global Warming by Regulating Greenhouse Gas Emissions Through Various Legal Mechanisms, Including Market-Based Approaches Like Cap-and-Trade Systems and Carbon Taxes.</u></a></li>
-<li><a href="https://win11.techidaily.com/decoy-control-panel-mastering-invisibility-in-win-1011/"><u>Decoy Control Panel - Mastering Invisibility in Win 10/11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-techniques-for-opening-rar-compressed-folders-on-a-mac/"><u>Expert Techniques for Opening .rar Compressed Folders on a Mac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-wireless-audio-with-dts-play-fi-explained/"><u>Exploring the World of Wireless Audio with DTS Play-Fi Explained</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-magic-v2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor Magic V2 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic5-ultimate-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Magic5 Ultimate Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/list-of-ipads-with-integrated-gps-technology/"><u>List of iPads with Integrated GPS Technology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/to-invest-or-not-in-minecraft-realms-a-cost-benefit-analysis/"><u>To Invest or Not in Minecraft Realms: A Cost-Benefit Analysis.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-why-you-might-want-or-not-a-blu-ray-player/"><u>Understanding Why You Might Want (or Not) a Blu-Ray Player</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-finding-your-ideal-screen-recorder-obs-or-fraps/"><u>[New] Finding Your Ideal Screen Recorder OBS or Fraps?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-prime-video-turning-off-captions-for-a-clearer-watching-experience/"><u>Amazon Prime Video: Turning Off Captions for a Clearer Watching Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-netgear-default-passwords-guide-july-update-2024/"><u>Comprehensive NETGEAR Default Passwords Guide - July Update 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/te-your-channels-image-for-boosted-youtube-subscriptions/"><u>Elevate Your Channels' Image for Boosted YouTube Subscriptions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-tutorial-for-effective-telegram-usage/"><u>Expert Tutorial for Effective Telegram Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-tool-or-trap-for-disinformation/"><u>Generative AI: Tool or Trap for Disinformation?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/go-viral-in-10-easy-steps-on-instagram-the-ultimate-guide/"><u>Go #Viral in 10 Easy Steps on Instagram - The Ultimate Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuidade-ilimitada-download-de-conversor-mp3au-online-do-movavi/"><u>Gratuidade Ilimitada: Download De Conversor MP3/AU Online Do Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/insiders-look-at-3d-lut-design-for-2024/"><u>Insider's Look at 3D LUT Design for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keeping-your-macbook-awake-tips-to-stop-it-from-going-to-sleep-with-closed-lid/"><u>Keeping Your MacBook Awake: Tips to Stop It From Going to Sleep with Closed Lid</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simply-connect-your-samsung-soundbar-to-your-tv-a-comprehensive-tutorial/"><u>Simply Connect Your Samsung Soundbar to Your TV – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-walkthrough-for-canceling-your-subscription-to-paramountplus/"><u>Ultimate Walkthrough for Canceling Your Subscription to Paramount+</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-mystery-fixing-unable-to-dial-or-answer-incoming-calls-in-android-phones/"><u>Unlock the Mystery: Fixing Unable to Dial or Answer Incoming Calls in Android Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrading-to-an-ssd-for-your-playstation-5-a-comprehensive-installation-guide/"><u>Upgrading to an SSD for Your PlayStation 5 - A Comprehensive Installation Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95873747-9786171235656-samye-zhutkie-i-misticheskie-mesta-na-planete-i-tajny-ih-zhitelej-samye-zhutkie-i-misticheskie-mesta-na-planete-i-tajny-ih-zhitelej/"><u>Самые жуткие и мистические места на планете и тайны их жителей (Samye zhutkie i misticheskie mesta na planete i tajny ih zhitelej) | Free Book</u></a></li>
 </ul></div>
 

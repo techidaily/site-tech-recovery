@@ -1,7 +1,7 @@
 ---
 title: "Making Content Universal: How to Insert Text Overlays in IG Stories"
-date: 2024-09-04T02:49:38.357Z
-updated: 2024-09-05T02:49:38.357Z
+date: 2024-11-23T16:14:49.114Z
+updated: 2024-11-25T16:08:12.997Z
 categories:
   - BestProducts
 description: "This Article Describes Making Content Universal: How to Insert Text Overlays in IG Stories"
@@ -20,6 +20,10 @@ Close
 
  Adding captions is a great way to make your stories more accessible to more people. Here's how to add captions to Instagram stories and turn on automatic captions for the stories you view.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Add Captions to Your Instagram Story 
 
  Adding captions to your stories is one of those[ things you should be doing on Instagram](https://www.lifewire.com/things-you-should-definitely-be-doing-on-instagram-3485874) . Here's how to add captions the next time you make a story.
@@ -36,11 +40,9 @@ Close
 ![Instagram speech transcript, edit words in caption, transcript corrected.](https://www.lifewire.com/thmb/mH774TATn8g-KPdLQnayq_iBO-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006captions-3fe8e98dd5f84ab9b03f41938aa01417.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Get Captions on Instagram Stories 
 
  You also have the option to turn on automatic captions for the stories and reels that appear on your Instagram feed. Here's how to enable this feature.
@@ -51,35 +53,24 @@ Close
 4. Tap**Accessibility** .  
 ![Navigating to the Accessibility section of Settings and activity in the Instagram app](https://www.lifewire.com/thmb/fRQ5pzJlmuOEnCz1pZMza94YT9M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_add-captions-to-instagram-stories-6503064-00cc56c1f7e94870971aea729c112b50.jpg)
 5. Choose the arrow beside**Captions and translations** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Move the toggle for**Captions** to the right.
 7. Captions will automatically generate on videos with speech.  
 ![Turn on auto captions, will automatically play on stories with speech](https://www.lifewire.com/thmb/fiX2Ckj8Uvo55Kj0jrMTGUKW950=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007stories-3a9a638e662e41359d11ca21ab9d6f58.jpg)  
  Automatic captions will show even when your volume is turned up. Videos that were captioned by their creators may display two sets of captions.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Automatic Captions on Instagram 
 
  Some people don't add captions to their Instagram stories. To see captions on those stories, you will need to enable automatic captions.
@@ -122,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +120,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-boost-engagement-posting-twitter-videos-on-snapchat-for-2024/"><u>[Updated] Boost Engagement Posting Twitter Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-chef-challenges-top-10-improvisational-cooking-videos/"><u>[Updated] Chef Challenges Top 10 Improvisational Cooking Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-securing-your-speech-on-the-ipad-for-2024/"><u>[Updated] Securing Your Speech on the iPad for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazfit-gts-analysis-when-style-meets-endurance-training-is-it-a-perfect-match/"><u>Amazfit GTS Analysis: When Style Meets Endurance Training – Is It a Perfect Match?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-weapon-in-agile-combat-a-comparative-analysis-of-trello-and-jira/"><u>Choosing Your Weapon in Agile Combat: A Comparative Analysis of Trello and Jira</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descargar-e-convertir-archivos-flv-a-formatos-de-alto-rango-con-movavi-sin-coste/"><u>Descargar E Convertir Archivos FLV a Formatos De Alto Rango Con Movavi - Sin Coste</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-google-pixel-8-pro-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-imovie-update-now-available-for-windows-users-official-202n4-version/"><u>Latest iMovie Update Now Available for Windows Users (Official) - 202N4 Version</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tecnicas-de-corte-e-edicao-de-video-como-aplicar-borda-preta-ao-seu-conteudo-visual/"><u>Técnicas De Corte E Edição De Vídeo: Como Aplicar Borda Preta Ao Seu Conteúdo Visual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-unfreezing-call-of-duty-vanguard-gameplay-smoothly/"><u>Troubleshooting Tips for Unfreezing Call of Duty: Vanguard Gameplay Smoothly</u></a></li>
+</ul></div>
 

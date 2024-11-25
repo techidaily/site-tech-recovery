@@ -1,7 +1,7 @@
 ---
 title: Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet
-date: 2024-11-10T05:38:50.180Z
-updated: 2024-11-16T00:57:04.882Z
+date: 2024-11-21T18:24:33.077Z
+updated: 2024-11-25T16:55:39.691Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -51,10 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,24 +126,18 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-image-purification-avoiding-obscuring-elements/"><u>[New] Navigating Image Purification Avoiding Obscuring Elements</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-full-potential-of-zoom-on-chromeos/"><u>[New] Unlocking the Full Potential of Zoom on ChromeOS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-choosing-the-right-display-tvs-vs-projectors-in-a-4k-era/"><u>[Updated] In 2024, Choosing the Right Display TVs vs Projectors in a 4K Era</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-the-meanings-behind-your-ps4-controllers-light-signals-blue-white-red-and-orange/"><u>Deciphering the Meanings Behind Your PS4 Controller's Light Signals: Blue, White, Red & Orange</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-insiders-guide-overcome-iphone-video-dullness-using-4-adobe-solutions/"><u>In 2024, [Insider's Guide] Overcome iPhone Video Dullness Using 4 Adobe Solutions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-huawei-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Huawei FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-communication-top-free-online-tools-for-learning-sign-language-uncover-16-picks/"><u>Master the Art of Communication: Top Free Online Tools for Learning Sign Language – Uncover 16 Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/meta-quest-2-lite-the-next-generation-of-vr-predicted-price-points-and-launch-window-uncovered/"><u>Meta Quest 2 Lite: The Next Generation of VR - Predicted Price Points and Launch Window Uncovered</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-zlibdll-error-a-comprehensive-guide/"><u>Resolving 'Zlib.dll' Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/siri-not-functional-resolve-these-7-issues-for-a-seamless-ios-experience/"><u>Siri Not Functional? Resolve These 7 Issues for a Seamless iOS Experience</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/stabilizing-pixels-the-truth-behind-photoshop-shake-for-2024/"><u>Stabilizing Pixels The Truth Behind Photoshop Shake for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-reattaching-a-detached-key-from-your-laptops-keyboard/"><u>Step-by-Step Guide: Reattaching a Detached Key From Your Laptop's Keyboard</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/testing-the-waters-a-thorough-review-of-the-data-lifeguard-by-western-digital/"><u>Testing the Waters: A Thorough Review of the Data Lifeguard by Western Digital</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-sharing-complete-photos-on-instagram-platforms/"><u>The Ultimate Tutorial for Sharing Complete Photos on Instagram Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/to-assemble-or-to-snap-up-choosing-between-custom-and-prebuilt-computers-for-optimal-performance/"><u>To Assemble or to Snap-Up? Choosing Between Custom and Prebuilt Computers for Optimal Performance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-true-distinctions-between-macs-and-pcs/"><u>Unveiling the True Distinctions Between Macs and PCs</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-how-to-color-match-different-video-clips-in-powerdirector/"><u>Updated In 2024, How to Color Match Different Video Clips in PowerDirector?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-is-bing-inside-microsofts-internet-search-service/"><u>What Is Bing? Inside Microsoft’s Internet Search Service</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-essential-tips-for-subtitling-stories-on-instagram/"><u>[New] The Essential Tips for Subtitling Stories on Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-art-of-video-marketing-11-tips-to-skyrocket-fb-traffic/"><u>2024 Approved The Art of Video Marketing 11 Tips to Skyrocket FB Traffic</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-steps-to-swap-out-your-old-ipads-power-source/"><u>Complete Guide: Steps to Swap Out Your Old iPad's Power Source</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-ghostly-issue-make-disappeared-app-icons-reappear/"><u>Fix Your iPhone's Ghostly Issue: Make Disappeared App Icons Reappear</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-meizu-21-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Meizu 21 Pattern Lock Screen</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-free-camera-screen-recorders-deep-dive-review-and-top-alternatives/"><u>In 2024, Free Camera Screen Recorders Deep Dive Review and Top Alternatives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-information-about-samsung-televisions-and-their-integrated-apps/"><u>Key Information About Samsung Televisions & Their Integrated Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/master-the-art-of-live-streaming-old-content-with-facebook-tools-for-2024/"><u>Master the Art of Live-Streaming Old Content with Facebook Tools for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-struggles-heres-how-to-get-smooth-streaming-again/"><u>Netflix Struggles? Here's How to Get Smooth Streaming Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionary-apple-iphone-release-whats-new-and-exciting/"><u>Revolutionary Apple iPhone Release: What's New and Exciting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-troubleshooting-resolving-jscriptdll-errors-on-your-pc/"><u>Step-by-Step Troubleshooting: Resolving Jscript.dll Errors on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tackling-the-mystery-of-bsod-stop-code-0x0000007b-strategies-for-a-smooth-fix/"><u>Tackling the Mystery of BSOD STOP Code 0X0000007B: Strategies for a Smooth Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015189061-troubleshooting-stuttering-sounds-on-windows-systems-windows-107-effective-fixes-inside/"><u>Troubleshooting Stuttering Sounds on Windows Systems (Windows 10/7) – Effective Fixes Inside</u></a></li>
 </ul></div>
 

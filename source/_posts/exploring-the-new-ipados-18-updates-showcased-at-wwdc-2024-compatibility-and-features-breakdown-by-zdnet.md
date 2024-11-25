@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2024-11-13T17:28:16.491Z
-updated: 2024-11-15T22:15:48.220Z
+date: 2024-11-24T18:02:53.672Z
+updated: 2024-11-25T18:34:34.117Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Place your Home screen icons anywhere
 
 With iOS 18, you can customize the Home screen by moving icons to any spot and applying different themes. To dive in, press down on any empty area of the Home screen. Drag an icon to any location on the screen, and it will stay in place. This means you can place icons in columns, as a border around the screen, or just free-floating in space.
@@ -43,10 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,19 +120,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-incredible-drone-photoshoot-contenders-10-for-2024/"><u>[New] Incredible Drone Photoshoot Contenders #10 for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[Updated] In 2024, A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamline-your-zoom-talks-with-camera-snaps/"><u>[Updated] In 2024, Streamline Your Zoom Talks with Camera Snaps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-peak-performance-cameras-for-athleticism/"><u>2024 Approved Peak Performance Cameras for Athleticism</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-step-by-step-process-of-permanently-removing-your-yahoo-email/"><u>Complete Guide: Step-by-Step Process of Permanently Removing Your Yahoo! Email</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-multiversus-stability-issues-with-our-top-8-fixing-techniques/"><u>Conquer MultiVersus Stability Issues with Our Top 8 Fixing Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-phantom-v-flip-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Phantom V Flip</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-access-a-tutorial-on-enabling-autologin-functionality-on-windows-computers/"><u>Effortless Access: A Tutorial on Enabling Autologin Functionality on Windows Computers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/embracing-the-future-with-verizons-advanced-5g-network/"><u>Embracing the Future with Verizon's Advanced 5G Network</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722897721115-get-the-scoop-on-the-new-google-pixel-tablet-key-features-release-timeline-and-news-coverage/"><u>Get the Scoop on the New Google Pixel Tablet - Key Features, Release Timeline & News Coverage.</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-make-every-moment-count-with-these-15-engaging-activities-while-listening-to-talk-shows/"><u>In 2024, Make Every Moment Count with These 15 Engaging Activities While Listening to Talk Shows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mailcom-determining-when-your-email-address-will-be-deactivated/"><u>Mail.com: Determining When Your Email Address Will Be Deactivated</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-pairing-process-linking-phone-and-oculus-quest-2-seamlessly/"><u>Mastering the Pairing Process: Linking Phone and Oculus Quest 2 Seamlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freeframe-finder-unearthing-elite-tiktok-background-art/"><u>[New] FreeFrame Finder Unearthing Elite TikTok Background Art</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-examining-video-sharing-platforms-the-vimeo-and-youtube-divide/"><u>[New] In 2024, Examining Video Sharing Platforms The Vimeo & YouTube Divide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-zoom-techniques-for-peak-call-quality-for-2024/"><u>[Updated] Cutting Edge Zoom Techniques for Peak Call Quality for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-evaluating-the-financial-giants-mr-beast/"><u>[Updated] In 2024, Evaluating the Financial Giants Mr. Beast</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-quick-guide-to-restore-video-sharing-in-fb-messengers-iosandroid/"><u>2024 Approved Quick Guide to Restore Video Sharing in FB Messengers (iOS/Android)</u></a></li>
+<li><a href="https://games-able.techidaily.com/andaseats-cheat-codes-a-limited-time-event/"><u>AndaSeat's 'Cheat Codes': A Limited-Time Event</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-well-does-the-latest-iphone-14-stack-up-insights-from-zdnets-in-depth-analysis/"><u>How Well Does the Latest iPhone 14 Stack Up? Insights From ZDNet's In-Depth Analysis.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-maintenance-revolution-apple-authorizes-reuse-of-components-in-device-fixes-techinsights/"><u>IPhone Maintenance Revolution: Apple Authorizes Reuse of Components in Device Fixes | TechInsights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-your-apple-watchs-battery-top-8-essential-setting-adjustments-revealed/"><u>Maximize Your Apple Watch's Battery: Top 8 Essential Setting Adjustments Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/obs-setup-guide-for-macos-downloading-and-setting-up-for-2024/"><u>OBS Setup Guide for macOS Downloading & Setting Up for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/one-week-with-an-ergo-split-keyboard-how-my-entire-setup-transformed-after-the-change/"><u>One Week with an Ergo-Split Keyboard: How My Entire Setup Transformed After the Change!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reforestation-and-afforestation-expand-carbon-sinks-by-increasing-the-number-of-trees-that-absorb-co2-from-the-atmosphere/"><u>Reforestation and Afforestation Expand Carbon Sinks by Increasing the Number of Trees that Absorb CO2 From the Atmosphere.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/xpgs-innovative-cpu-cooler-the-integrated-pump-loop-and-radiator-for-ultimate-high-wattage-control-up-to-280w/"><u>XPG's Innovative CPU Cooler – The Integrated Pump, Loop & Radiator for Ultimate High Wattage Control (Up To 280W)</u></a></li>
 </ul></div>
 

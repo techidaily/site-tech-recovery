@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Insights on Pros and Cons From ZDNet Editors
-date: 2024-11-11T07:02:23.821Z
-updated: 2024-11-16T00:40:13.597Z
+date: 2024-11-19T18:06:51.949Z
+updated: 2024-11-25T16:25:53.367Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -39,10 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,22 +124,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-chatcam-save-extractor-for-facebook/"><u>[New] 2024 Approved ChatCam Save Extractor for Facebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-8-strategies-livestreaming-webinars-without-costs/"><u>[Updated] 2024 Approved 8 Strategies Livestreaming Webinars Without Costs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-retrospective-glance-how-mary-jo-foley-became-a-leading-voice-in-microsoft-coverage-for-zdnet/"><u>A Retrospective Glance: How Mary Jo Foley Became a Leading Voice in Microsoft Coverage for ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-kid-friendly-movie-collection-spotlighted-for-disneyplus-viewers-in-july/"><u>Essential Kid-Friendly Movie Collection Spotlighted for Disney+ Viewers in July</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-turn-off-copilot-feature-in-your-pc-running-windows-11/"><u>Expert Advice: How to Turn Off Copilot Feature in Your PC Running Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-future-with-ios-18-launch-window-gratis-access-cutting-edge-features-and-fresh-news-overview/"><u>Explore the Future with iOS 18: Launch Window, Gratis Access, Cutting-Edge Features, and Fresh News Overview</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-ultimate-selection-of-lgbtqplus-movie-gems-on-netflix-july-edition/"><u>Explore the Ultimate Selection of LGBTQ+ Movie Gems on Netflix - July Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-cancel-and-terminate-your-twitch-account/"><u>How To Seamlessly Cancel and Terminate Your Twitch Account</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-mini-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 12 mini with/without SIM Card</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-no-fee-android-chat-apps-rated/"><u>In 2024, Top No-Fee Android Chat Apps Rated</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolve-your-x3daudiodll-file-not-detected-problem-with-these-tips/"><u>Resolve Your X3DAudio.dll File Not Detected Problem with These Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequencing-the-autobots-and-decepticons-how-to-watch-every-transformers-movie-in-order/"><u>Sequencing the Autobots and Decepticons: How to Watch Every Transformers Movie in Order</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ces-symphony-strategies-for-capturing-pristine-audio/"><u>Silence's Symphony Strategies for Capturing Pristine Audio</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-free-microsoft-word-access-a-users-guide-for-no-cost-document-editing/"><u>Unlocking Free Microsoft Word Access: A User's Guide for No-Cost Document Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-amass-1000-supporters-for-your-channel/"><u>[New] In 2024, Amass 1,000 Supporters for Your Channel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-10-memes-blending-hilarity-and-emotional-depth-on-insta/"><u>[New] Top 10 Memes Blending Hilarity and Emotional Depth on Insta</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-ranked-screen-recorder-for-seamless-youtubing/"><u>[New] Top-Ranked Screen Recorder for Seamless YouTubing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-meme-master-tracking-jake-pauls-youtube-evolution/"><u>[Updated] Meme Master Tracking Jake Paul's YouTube Evolution</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pro-gamers-fbx-filming-techniques-for-2024/"><u>[Updated] Pro Gamers' FBX Filming Techniques for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-complete-how-to-for-free-countdown-timers-for-2024/"><u>[Updated] The Complete How-To for Free Countdown Timers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversao-ao-vivo-e-gratuita-mkv-para-mxf-utilizando-o-movavi-tutorial-detalhado/"><u>Conversão Ao Vivo E Gratuita: MKV Para MXF Utilizando O Movavi – Tutorial Detalhado</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-bass-controls-a-deep-dive-into-the-mechanics-of-bass-management/"><u>Demystifying Bass Controls: A Deep Dive Into the Mechanics of Bass Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-picked-selection-of-top-free-virus-detectors-of-this-year/"><u>Explore Our Picked Selection of Top Free Virus Detectors of This Year</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-editing-tips-for-perfectly-resizing-pictures-for-instagram/"><u>Mastering the Art of Image Editing: Tips for Perfectly Resizing Pictures for Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-ethernet-options-how-does-cat5-cable-stack-up-against-cat6/"><u>Navigating Ethernet Options: How Does Cat5 Cable Stack Up Against Cat6?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/playing-h264-videos-on-your-computer-a-comprehensive-guide-for-windows-and-macos-users/"><u>Playing H.264 Videos on Your Computer: A Comprehensive Guide for Windows & macOS Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-cutting-edge-ipad-lineup-exploring-apples-latest-innovation/"><u>The Cutting-Edge iPad Lineup: Exploring Apple’s Latest Innovation</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-speedy-and-easy-to-play-apps-for-androidiphone/"><u>Top 20 Speedy & Easy-to-Play Apps for Android/iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-confusing-aspects-of-twitch-chat-explained-for-new-streamers/"><u>Top Confusing Aspects of Twitch Chat Explained for New Streamers</u></a></li>
 </ul></div>
 

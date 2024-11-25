@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2024-11-14T22:21:04.235Z
-updated: 2024-11-16T00:03:44.972Z
+date: 2024-11-22T17:19:41.191Z
+updated: 2024-11-25T16:41:49.184Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -36,10 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,24 +129,17 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-navigating-copyright-laws-for-instagram-music-postings/"><u>[New] 2024 Approved Navigating Copyright Laws for Instagram Music Postings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-iphone-screen-capture-with-simplicity/"><u>[Updated] Mastering iPhone Screen Capture with Simplicity</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-meme-madness-the-iphone-edition/"><u>2024 Approved Meme Madness The iPhone Edition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comprehensive-anker-maggo-wireless-charger-evaluation-unveiling-persistent-flaws-and-benefits/"><u>Comprehensive Anker MagGo Wireless Charger Evaluation: Unveiling Persistent Flaws and Benefits</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722903551265-comprehensive-guide-amazons-prime-day-2024-unveiled/"><u>Comprehensive Guide: Amazon's Prime Day 2024 Unveiled!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-fixing-missing-mfc42ddll-files-on-your-windows-pc/"><u>Expert Strategies for Fixing Missing mfc42d.dll Files on Your Windows PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-comprehensive-worldwide-idp-report-by-abbyy-insights-and-findings/"><u>Exploring the Comprehensive Worldwide IDP Report by ABBYY: Insights and Findings</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-13t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi 13T Devices | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-phantom-v-flip-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Phantom V Flip by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-meta-store-how-to-add-new-titles-to-your-oculus-quest-2-library/"><u>Navigating the Meta Store: How to Add New Titles to Your Oculus Quest 2 Library</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-the-missing-comctl32dll-dilemma-expert-advice/"><u>Overcoming the Missing Comctl32.dll Dilemma - Expert Advice</u></a></li>
-<li><a href="https://win-data.techidaily.com/regreso-a-los-datos-perdidos-en-tu-memoria-usb-sin-necesidad-de-programas-especiales-tutorial-completo-y-gratuito/"><u>Regreso a Los Datos Perdidos en Tu Memoria USB Sin Necesidad De Programas Especiales: Tutorial Completo Y Gratuito</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-msxml4dll-file-not-detected-a-step-by-step-guide/"><u>Resolving Msxml4.dll File Not Detected: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/seamless-iphone-help-with-apples-official-support-app-how-to-use-it-effectively/"><u>Seamless iPhone Help with Apple's Official Support App – How To Use It Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-how-to-address-and-repair-d3dx928dll-errors-on-your-computer/"><u>Step-by-Step Solution: How to Address and Repair 'd3dx9_28.dll' Errors on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-list-and-analysis-of-every-mac-os-update-ever-released/"><u>The Definitive List and Analysis of Every Mac OS Update Ever Released</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-whea-uncorrectable-error-on-your-computer-system/"><u>Troubleshooting the WHEA Uncorrectable Error on Your Computer System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unfreeze-handbrake-on-widows-effortlessly/"><u>Unfreeze HandBrake on Widows, Effortlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/verizon-5g-unveiled-a-glimpse-at-the-telecommunications-revolution/"><u>Verizon 5G Unveiled: A Glimpse at the Telecommunications Revolution</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-adjusting-youtubes-viewership-limits-for-content/"><u>[New] 2024 Approved Adjusting YouTube's Viewership Limits for Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-social-media-savviness-mastering-4-techniques-to-record-facebook-lives/"><u>[New] In 2024, Social Media Savviness Mastering 4 Techniques to Record Facebook Lives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-shining-up-photos-on-instagram-three-effective-ways/"><u>[Updated] 2024 Approved Shining Up Photos on Instagram Three Effective Ways</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-most-popular-anime-themed-tiktok-videos-of-all-time/"><u>[Updated] In 2024, The Most Popular Anime-Themed TikTok Videos of All Time</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-googles-communication-legacy-an-insight-into-google-hangouts/"><u>Exploring Google's Communication Legacy: An Insight Into Google Hangouts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/flat-screen-care-101-best-practices-for-keeping-your-tv-immaculate/"><u>Flat Screen Care 101: Best Practices for Keeping Your TV Immaculate</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-a-non-ejectable-disc-player-tips-and-solutions/"><u>How to Repair a Non-Ejectable Disc Player: Tips & Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 6s Plus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-capture-on-xbox-consoles/"><u>Mastering the Art of Image Capture on Xbox Consoles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-overwatch-startup-issue-how-to-address-black-screen-malfunction/"><u>Resolving Overwatch Startup Issue - How to Address Black Screen Malfunction</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-tutorial-on-restoring-information-from-a-failed-booting-dell-hard-drive/"><u>Step-by-Step Tutorial on Restoring Information From a Failed Booting Dell Hard Drive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-3-emerging-technology-trends-you-cant-ignore/"><u>Top 3 Emerging Technology Trends You Can't Ignore</u></a></li>
 </ul></div>
 

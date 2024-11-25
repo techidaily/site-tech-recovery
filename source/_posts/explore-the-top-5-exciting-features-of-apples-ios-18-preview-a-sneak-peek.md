@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2024-11-11T03:24:05.217Z
-updated: 2024-11-15T16:03:41.992Z
+date: 2024-11-23T17:17:26.424Z
+updated: 2024-11-25T17:00:32.978Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Place your Home screen icons anywhere
 
 With iOS 18, you can customize the Home screen by moving icons to any spot and applying different themes. To dive in, press down on any empty area of the Home screen. Drag an icon to any location on the screen, and it will stay in place. This means you can place icons in columns, as a border around the screen, or just free-floating in space.
@@ -43,10 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,20 +120,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-digital-designs-to-emoji-delights-making-the-most-of-your-gifs/"><u>[New] 2024 Approved From Digital Designs to Emoji Delights Making the Most of Your GIFs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-aerial-device-typologies/"><u>[New] Aerial Device Typologies</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-expert-tips-for-creating-dynamic-youtube-splits/"><u>[New] In 2024, Expert Tips for Creating Dynamic YouTube Splits</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-laugh-ledger-curating-the-best-meme-text-tools/"><u>[Updated] Laugh Ledger Curating the Best Meme Text Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/begin-anew-with-windows-11-your-ultimate-guide-for-new-hard-drives/"><u>Begin Anew with Windows 11: Your Ultimate Guide for New Hard Drives</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-elite-netgear-routers-dominating-the-market/"><u>Comprehensive Review: Elite Netgear Routers Dominating the Market</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722211565553-does-chatgpt-ever-tread-the-line-of-plagiarism-a-deep-dive-into-its-data-practices/"><u>Does ChatGPT Ever Tread the Line of Plagiarism? A Deep Dive Into Its Data Practices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhancing-zoom-with-a-chrome-os-device/"><u>Enhancing Zoom with a Chrome OS Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/error-free-pc-tackling-missing-or-unavailable-mfc42ddll-problems-today/"><u>Error-Free PC: Tackling Missing or Unavailable mfc42d.dll Problems Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-combat-and-resolve-code-31-glitches-on-your-windows-operating-system/"><u>Expert Tips to Combat and Resolve Code # 31 Glitches on Your Windows Operating System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-in-on-the-action-anticipating-price-launch-date-and-specs-of-new-apple-listening-innovation/"><u>Get in on the Action: Anticipating Price, Launch Date, and Specs of New Apple Listening Innovation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/google-hangouts-demystified-what-was-it-designed-for/"><u>Google Hangouts Demystified: What Was It Designed For?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-13-mini-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 13 mini After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/premium-choices-for-group-video-and-voice-calls-online/"><u>Premium Choices for Group Video and Voice Calls Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-fixing-the-504-gateway-timeout-response-on-your-site/"><u>Understanding and Fixing the 504 Gateway Timeout Response on Your Site</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-enhancing-visuals-tips-for-recording-ppt-effectively/"><u>[New] Enhancing Visuals Tips for Recording PPT Effectively</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-uncover-the-hidden-gems-of-the-youtube-tv-experience/"><u>2024 Approved Uncover the Hidden Gems of the YouTube TV Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-sending-steam-gifts-via-email/"><u>A Step-by-Step Guide: Sending Steam Gifts via Email</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comment-convertir-et-transferer-des-films-vhs-vers-un-dvd-personnalise-sur-votre-ordinateur/"><u>Comment Convertir Et Transférer Des Films VHS Vers Un DVD Personnalisé Sur Votre Ordinateur</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-watchlist-the-ultimate-dragon-ball-binge-watching-plan/"><u>Complete Watchlist: The Ultimate Dragon Ball Binge-Watching Plan</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-instructions-to-update-the/"><u>Comprehensive Instructions to Update The</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-drivers-updater-tools-available-this-july-2024/"><u>Discover the Best Free Drivers Updater Tools Available This July 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/emerging-phoenix-pdf-damage-cure/"><u>Emerging Phoenix: PDF Damage Cure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-melodies-await-explore-the-best-sites-to-legally-download-music-at-no-cost/"><u>Free Melodies Await! Explore the Best Sites to Legally Download Music at No Cost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722872559662-fun-and-educational-web-games-for-youngsters-the-ultimate-top-seven/"><u>Fun and Educational Web Games for Youngsters - The Ultimate Top Seven</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-pixel-watch-what-to-expect-in-specs-pricing-and-launch-date/"><u>Google Pixel Watch: What to Expect in Specs, Pricing and Launch Date?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-xs-maxipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone XS Max/iPad/iPod</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-find-x7-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Find X7 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/schnell-und-einfach-wiederauffinden-verschwundener-wortdokumente-fuhren-sie-ihre-reparatur-durch-kostenlos/"><u>Schnell Und Einfach: Wiederauffinden Verschwundener Wortdokumente – Führen Sie Ihre Reparatur Durch (Kostenlos)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/surviving-heatwaves-and-frostbite-the-durability-of-evs-againnst-drastic-weather-conditions/"><u>Surviving Heatwaves & Frostbite: The Durability of EVs Againnst Drastic Weather Conditions</u></a></li>
 </ul></div>
 

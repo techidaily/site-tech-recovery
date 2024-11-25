@@ -1,7 +1,7 @@
 ---
 title: "In The Ring with Top Tier Laptops: Comparing Samsung Galaxy Book 3Ultra Vs. Apple's MacBook Pro | Expert Insights"
-date: 2024-11-11T02:06:46.535Z
-updated: 2024-11-15T21:41:48.290Z
+date: 2024-11-23T17:16:41.273Z
+updated: 2024-11-25T17:56:10.133Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **Samsung Galaxy Book 3 Ultra** | **Apple M2-gen MacBook Pro (16-inch)**                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                   |
@@ -49,13 +53,6 @@ There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic
 
 Samsung
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  1\. You're committed to Samsung's ecosystem
 
 ### Samsung Unpacked
@@ -73,10 +70,7 @@ If you've already got a Galaxy smartphone or tablet, there are definitely practi
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want maximum software compatibility
@@ -89,29 +83,19 @@ The other factor is Apple's switch to its own silicon. When Apple was using Inte
 
 [Buy Samsung's Galaxy Book 3 Ultra $2,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy Apple's 16-inch M2-gen MacBook Pro if...
 
 The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook Pro.
 
 Apple
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -132,6 +116,10 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You need a ton of RAM or storage
 
 The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra with are 32GB and 1TB, respectively. While these are plenty for the average user, a content creator might fill that storage quickly with 8K video, while the RAM limitation might strain processing times within their workflow. The MacBook Pro, however, can be configured with as much as 96GB of RAM and 8TB of storage. That's triple the memory and eight times the storage of its competitor. Of course, such a maxed-out beast would be expensive, but the option remains for the most demanding laptop users who actually need all of that memory and space. 
@@ -139,6 +127,10 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -193,18 +185,19 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-inclusive-iptv-service-distribution-for-2024/"><u>[New] Inclusive IPTV Service Distribution for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-laughoutloud-maker-get-funny-faces-on-the-web/"><u>[New] LaughOutLoud Maker Get Funny Faces on the Web</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-effortless-online-guide-youtube-video-to-gif-magic-no-download/"><u>[Updated] 2024 Approved Effortless Online Guide YouTube Video to GIF Magic (No Download)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-obs-masterclass-for-beginners-stream-to-youtube-flawlessly/"><u>[Updated] 2024 Approved OBS Masterclass for Beginners Stream to YouTube Flawlessly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-mini-masterpieces-top-6-coolest-mini-houses-in-mc/"><u>2024 Approved Mini Masterpieces Top 6 Coolest Mini-Houses in MC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722870663062-amazon-prime-day-2024-your-ultimate-guide-insights-and-tips/"><u>Amazon Prime Day 2024: Your Ultimate Guide - Insights & Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-snapping-screen-captures-on-windows-and-mac-computers/"><u>Comprehensive Guide: Snapping Screen Captures on Windows and Mac Computers</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/discover-the-ideal-no-cost-solution-for-your-ipod-videos-with-our-pick-of-the-premier-free-ipod-video-converters-on-the-market/"><u>Discover the Ideal No-Cost Solution for Your iPod Videos with Our Pick of the Premier Free iPod Video Converters on the Market!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-disk-defragmenter-applications-the-best-picks-for-july-2n-2024/"><u>Free Disk Defragmenter Applications: The Best Picks for July 2N, 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-f25-pro-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo F25 Pro 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/remedying-screen-color-shifts-and-warping-a-complete-guide/"><u>Remedying Screen Color Shifts & Warping: A Complete Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/retrieve-deleted-notifications-tips-for-finding-old-messages-on-an-iphone/"><u>Retrieve Deleted Notifications: Tips for Finding Old Messages on an iPhone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-genius-behind-effective-podcast-visual-identity-for-2024/"><u>The Genius Behind Effective Podcast Visual Identity for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-full-exploration-screenflow-v4-on-the-mac-platform-for-2024/"><u>[New] Full Exploration ScreenFlow v4 on the Mac Platform for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-easy-setup-making-a-direct-path-for-youtube-subscribers/"><u>[Updated] In 2024, Easy Setup Making a Direct Path for YouTube Subscribers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-precision-in-broadcasting-zoom-and-fb-live-strategies/"><u>[Updated] Precision in Broadcasting ZOOM & FB Live Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-pop-7-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Pop 7 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-ultimate-selection-best-in-mesh-wireless-home-networks/"><u>2024'S Ultimate Selection: Best in Mesh Wireless Home Networks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-16-unveiled-price-scoop-release-date-and-features-stay-ahead-with-our-comprehensive-guide/"><u>Android 16 Unveiled: Price Scoop, Release Date & Features - Stay Ahead with Our Comprehensive Guide!</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-gt-5-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme GT 5 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722851645918-defend-your-computer-15-recommended-free-bootable-malware-defense-programs/"><u>Defend Your Computer: 15 Recommended Free Bootable Malware Defense Programs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-instagram-repost-strategies/"><u>In 2024, Essential Instagram Repost Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-guide-canon-mp280mg2800-printer-drivers-on-windows-operating-systems/"><u>Installation Guide: Canon MP280/MG2800 Printer Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722862889504-master-the-art-of-hard-resetting-across-different-ipad-models-here/"><u>Master the Art of Hard Resetting Across Different iPad Models Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/professional-tricks-to-fix-your-furry-friends-photo-eyes-flawlessly/"><u>Professional Tricks to Fix Your Furry Friend’s Photo Eyes Flawlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-perfect-way-to-blend-multiple-spotify-lists-into-one-harmonious-mix/"><u>The Perfect Way to Blend Multiple Spotify Lists Into One Harmonious Mix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-combining-your-fortnite-profiles-seamlessly/"><u>Ultimate Guide: Combining Your Fortnite Profiles Seamlessly</u></a></li>
 </ul></div>
 

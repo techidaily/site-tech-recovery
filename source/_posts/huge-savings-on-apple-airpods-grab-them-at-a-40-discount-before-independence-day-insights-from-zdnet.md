@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet"
-date: 2024-11-11T02:09:56.760Z
-updated: 2024-11-16T04:23:20.452Z
+date: 2024-11-18T18:26:45.898Z
+updated: 2024-11-25T16:05:23.962Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8fc6b51a-545c-47ed-9fa6-87cbc8d2712f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -58,26 +62,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-production-to-publication-streamlining-video-submission-for-2024/"><u>[New] From Production to Publication Streamlining Video Submission for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastery-in-broadcast-4-approaches-for-televised-facebook-lives/"><u>2024 Approved Mastery in Broadcast 4 Approaches for Televised Facebook Lives</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/comparative-analysis-of-screen-capture-software-obs-and-fraps-for-2024/"><u>Comparative Analysis of Screen Capture Software OBS and Fraps for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-portable-executable-pe-syntax/"><u>Decoding Windows Portable Executable (PE) Syntax</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-techniques-for-time-control-in-your-iphone-photography-sessions/"><u>Easy Techniques for Time Control in Your iPhone Photography Sessions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/ibeatpro-tips-for-mobile-music-video-filmmaking-for-2024/"><u>IBeatPro Tips for Mobile Music Video Filmmaking for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo T2 Pro 5G?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722888990859-inside-sonys-state-of-play-new-gadgets-games-and-industry-forecasts-revealed/"><u>Inside Sony's State of Play : New Gadgets, Games, and Industry Forecasts Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/june-2024s-most-unbeatable-best-buy-deals-revealed-by-zdnet/"><u>June 2024'S Most Unbeatable Best Buy Deals Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/learn-new-tongues-our-picks-for-free-language-resources/"><u>Learn New Tongues: Our Picks for Free Language Resources</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-dciman32dll-file-absence-a-comprehensive-guide/"><u>Solving dciman32.dll File Absence: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-on-leveraging-the-power-of-google-gemini/"><u>Ultimate Tips on Leveraging the Power of Google Gemini</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-pursuing-profits-the-path-to-fiscal-gains-through-videography/"><u>[New] 2024 Approved Pursuing Profits The Path to Fiscal Gains Through Videography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-tutorial-applying-computer-vhs-filters/"><u>[New] Step-by-Step Tutorial Applying Computer VHS Filters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aiding-academic-success-discover-the-6-greatest-study-apps-for-kids-and-their-guardians/"><u>Aiding Academic Success: Discover the 6 Greatest Study Apps for Kids and Their Guardians</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-factors-when-choosing-your-dream-gaming-computer/"><u>Essential Factors When Choosing Your Dream Gaming Computer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/essential-software-for-online-gaming-shows/"><u>Essential Software for Online Gaming Shows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-buzz-on-google-pixel-fold-2-price-predictions-launch-date-anticipations-full-specifications-and-hidden-gems-in-rumors/"><u>Inside the Buzz on Google Pixel Fold 2: Price Predictions, Launch Date Anticipations, Full Specifications, and Hidden Gems in Rumors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-when-vcompdll-is-missing-or-cant-be-found/"><u>Step-by-Step Fix for When Vcomp.dll Is Missing or Can't Be Found</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-gratuits-logiciels-de-sauvegarde-incrementielle-pour-windows-10-un-choix-facile-et-fiable/"><u>Top Gratuits Logiciels De Sauvegarde Incrémentielle Pour Windows 10 : Un Choix Facile Et Fiable</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-bluetooth-tracking-devices-your-ultimate-guide/"><u>Top-Rated Bluetooth Tracking Devices : Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-james-bond-marathon-watch-the-franchise-chronologically/"><u>Ultimate James Bond Marathon: Watch the Franchise Chronologically</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-to-increasing-your-twitter-fanbase-quickly-and-effectively/"><u>Unlock the Secrets to Increasing Your Twitter Fanbase Quickly and Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-time-and-intelligence-gpt-powered-wearables-on-the-rise/"><u>Unlocking Time and Intelligence: GPT-Powered Wearables on the Rise</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices/"><u>Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wmaaiff-movavi/"><u>コストなしでWMAとAIFFを変換する – オンラインツール集（Movavi）</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

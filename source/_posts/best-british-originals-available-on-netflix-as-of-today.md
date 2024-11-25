@@ -1,7 +1,7 @@
 ---
 title: Best British Originals Available on Netflix as of [Today]
-date: 2024-08-30T16:28:28.926Z
-updated: 2024-08-31T16:28:28.926Z
+date: 2024-11-23T18:34:35.874Z
+updated: 2024-11-25T18:30:33.560Z
 categories:
   - BestProducts
 description: This Article Describes Best British Originals Available on Netflix as of [Today]
@@ -21,6 +21,10 @@ of 05
 ## [Apple Maps](https://www.apple.com/maps/)
 
 ![Apple Maps app on iPhone](https://www.lifewire.com/thmb/K_evkXkx8-VwMNM9OrAYu0DRf-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-iphone-gps-apps-1683498-07a8400290564013ad8546f191a5320b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -59,6 +63,10 @@ of 05
 
 ![Google Maps screens on iOS](https://www.lifewire.com/thmb/On7sN_j8REvpI2GhgevdVfBYNUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_iphone-gps-navigation-apps-1683498-5c23e7e146e0fb0001adef3e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Convenient voice search. No typing required.
@@ -88,16 +96,10 @@ of 05
 
 of 05
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## [TomTom GO Navigation](https://www.tomtom.com/navigation/)
 
 ![TomTom Go screens on iOS](https://www.lifewire.com/thmb/ES5Q2dhGWfscLQaKzYs-3zvgQo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_iphone-gps-navigation-apps-1683498-5c23e7bf46e0fb00013ca0aa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * A la carte downloadable maps with weekly updates.
@@ -128,21 +130,13 @@ of 05
 of 05
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Waze](https://www.waze.com/apps/)
 
 ![Three iOS Waze screens](https://www.lifewire.com/thmb/5qLAe1W_WyMYwRfkXwbrDOwmBVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_iphone-gps-navigation-apps-1683498-5c23e7fa46e0fb000194bad7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  What We Like
 
 * Live, community-based traffic information.
@@ -170,15 +164,17 @@ of 05
 of 05
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Gaia GPS](https://www.gaiagps.com/)
 
 ![Gaia GPS app on iPhone](https://www.lifewire.com/thmb/uNbofhHKQSfJv2XIGx8i4EmntOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-iphone-gps-apps-1683498-10b23c2eaa5b459e94019799f142e0f7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Searchable trail database.
@@ -224,8 +220,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +227,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-video-capturing-across-devices-and-platforms/"><u>[New] Mastering Video Capturing Across Devices and Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-abridged-blueprint-for-starting-virtual-conversations-zoom-edition/"><u>[Updated] Abridged Blueprint for Starting Virtual Conversations Zoom Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-the-premier-stylus-tablets-of-202n-features-specs-and-expert-reviews-zettanet/"><u>Comprehensive Guide to the Premier Stylus Tablets of 202N - Features, Specs, and Expert Reviews | ZettaNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-photo-editing-the-top-10-apps-with-sweet-stickers/"><u>Cutting-Edge Photo Editing The Top 10 Apps with Sweet Stickers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/back-unrequested-youtube-recommendations-for-2024/"><u>Dial Back Unrequested YouTube Recommendations for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gear-up-with-top-anker-chargers-featured-by-zdnet-perfect-match-for-new-iphones-coming-soon/"><u>Gear Up with Top Anker Chargers, Featured by ZDNet - Perfect Match for New iPhones Coming Soon!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-galaxy-s23-tactical-edition-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Galaxy S23 Tactical Edition Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-tech-5-must-have-streaming-webcams-for-gamers/"><u>In 2024, Essential Tech 5 Must-Have Streaming Webcams for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-slow-download-challenges-in-utorrent-a-step-by-step-guide/"><u>Overcoming Slow Download Challenges in uTorrent: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-temptation-of-tech-deals-a-deep-dive-into-my-spontaneous-purchase-of-apples-affordable-usb-c-earpods-during-prime-day-analysis/"><u>The Temptation of Tech Deals: A Deep Dive Into My Spontaneous Purchase of Apple's Affordable USB-C EarPods During Prime Day | Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-notetaker-tablets-of-2024-comprehensive-reviews-and-comparisons/"><u>Top Notetaker Tablets of 2024 - Comprehensive Reviews & Comparisons</u></a></li>
+</ul></div>
 

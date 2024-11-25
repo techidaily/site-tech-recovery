@@ -1,7 +1,7 @@
 ---
 title: Anticipated Announcements at the New Google Summit - What's Coming?
-date: 2024-08-30T16:27:44.250Z
-updated: 2024-08-31T16:27:44.250Z
+date: 2024-11-20T16:17:51.085Z
+updated: 2024-11-25T16:00:12.041Z
 categories:
   - BestProducts
 description: This Article Describes Anticipated Announcements at the New Google Summit - What's Coming?
@@ -12,17 +12,26 @@ thumbnail: https://www.lifewire.com/thmb/pylUd4FeVZP63g10GeMvlcl2waA=/400x300/fi
 ## Anticipated Announcements at the New Google Summit - What's Coming?
  Google holds events both annually and less regularly to announce new products and functionality. Google I/O is the company's conference for developers, while Made by Google is more consumer-facing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Date for the Next Google Event?
 
  The next Made by Google event is scheduled for August 13 at 10 AM PT. The last one,[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , was on May 14.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Will Google Announce?
 
  According to the company, the next Google event will be about Pixel devices, Android, and[Gemini](https://www.lifewire.com/what-is-google-bard-7151624) . We're due for updates on the[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ,[Pixel 9 phone](https://www.lifewire.com/google-pixel-9-8630767) ,[Pixel Tablet 2](https://www.lifewire.com/google-pixel-tablet-2-8600572) , and[Pixel Watch 3.](https://www.lifewire.com/google-pixel-watch-3-8431024)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Previous Google Events
 
  At Google's last event, the keynote for[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , the company talked almost exclusively about its Gemini AI platform. They showed off features that give you summaries of email threads and spreadsheets and an "AI Teammate" that you can add to Workspace to keep track of projects.
@@ -32,8 +41,9 @@ thumbnail: https://www.lifewire.com/thmb/pylUd4FeVZP63g10GeMvlcl2waA=/400x300/fi
  You can watch the entire event below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About Google
 
  You can [get more tech news from Lifewire](https://www.lifewire.com/news-4795879) , but here are our top Google-related stories.
@@ -68,8 +78,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,4 +85,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-harnessing-the-power-of-video-the-most-effective-fb-ad-practices/"><u>[New] 2024 Approved Harnessing the Power of Video The Most Effective FB Ad Practices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bringing-facial-movement-to-life-with-picsarts-effects/"><u>[New] Bringing Facial Movement to Life with Picsart's Effects</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-sculpt-perfect-images-on-youtube-with-right-dimensions-for-2024/"><u>[Updated] How to Sculpt Perfect Images on YouTube with Right Dimensions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-resolving-the-frustrating-quirks-of-apples-latest-iphone-a-must-read-guide-tech-insider/"><u>1. Resolving the Frustrating Quirks of Apple's Latest iPhone: A Must-Read Guide | Tech Insider</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-and-effective-how-the-anker-power-bank-at-just-20-transforms-portable-charging-expert-tips/"><u>Affordable & Effective: How the Anker Power Bank at Just $20 Transforms Portable Charging - Expert Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoid-these-devastating-errors-on-your-apple-vision-pro-or-face-serious-consequences-expert-tips-inside/"><u>Avoid These Devastating Errors on Your Apple Vision Pro or Face Serious Consequences! Expert Tips Inside.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/budget-friendly-iphone-14-plus-with-extended-battery-life-and-top-reasons-to-choose-it-expert-review/"><u>Budget-Friendly iPhone 14 Plus with Extended Battery Life and Top Reasons to Choose It | Expert Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capacitance-c-is-measured-in-farads-f/"><u>Capacitance (C) Is Measured in Farads (F).</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-digital-golds-guardians-cryptocurrency-stability-coins/"><u>Decoding Digital Gold's Guardians: Cryptocurrency Stability Coins</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-retro-filters-to-polish-video-pieces/"><u>Essential Retro Filters to Polish Video Pieces</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/how-to-generate-speech-from-text-the-top-text-to-speech-converters/"><u>How To Generate Speech From Text | The Top Text-to-Speech Converters</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/"><u>In 2024, Exploring How TSeries Harnesses Revenue From Online Viewer Base (YouTube)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-navigating-ad-blocking-in-chrome-firefox-android-and-ios-for-youtube/"><u>In 2024, Navigating Ad-Blocking in Chrome, Firefox, Android, & iOS for YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-reclaiming-gone-reddit-content-a-time-saving-guide/"><u>In 2024, Reclaiming Gone-Reddit Content A Time-Saving Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/labor-day-bash-perfection-essential-strategies-and-advice-according-to-zdnet-experts/"><u>Labor Day Bash Perfection: Essential Strategies and Advice According to ZDNET Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/making-the-right-pick-in-apples-notebook-lineup-in-depth-review-of-m2-vs-m3-macbook-air-options-zdnet-insights/"><u>Making the Right Pick in Apple's Notebook Lineup: In-Depth Review of M2 Vs. M3 MacBook Air Options | ZDNET Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/peloton-vs-myx-comparing-bike-sturdiness-for-heavier-cyclists-find-out-which-supports-more/"><u>Peloton vs Myx: Comparing Bike Sturdiness for Heavier Cyclists – Find Out Which Supports More!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-airtag-wallets-in-2er-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated AirTag Wallets in 2Er 2024 - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-leading-note-taking-tablets-of-2023-expertly-reviewed-for-maximum-efficiency-pcmag/"><u>Ultimate Guide to the Leading Note-Taking Tablets of 2023: Expertly Reviewed for Maximum Efficiency | PCMag</u></a></li>
+</ul></div>
 

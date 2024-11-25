@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Plans & Promotions in May 2024 - Insider's Guide
-date: 2024-11-12T03:14:22.430Z
-updated: 2024-11-15T23:00:52.279Z
+date: 2024-11-18T17:49:05.343Z
+updated: 2024-11-25T18:20:41.639Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -116,13 +120,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -137,6 +134,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -148,10 +149,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -177,10 +175,7 @@ In general, there is no difference in how much money you save whether you shop o
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
@@ -189,10 +184,7 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -244,20 +236,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-ultimate-guide-to-streamlined-ocean-video-capture/"><u>[New] In 2024, The Ultimate Guide to Streamlined Ocean Video Capture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/"><u>[New] The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-use-of-vlc-for-media-creation/"><u>[Updated] Efficient Use of VLC for Media Creation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-pinnacle-of-engagement-custom-youtube-shorts-thumbnails-guide/"><u>[Updated] The Pinnacle of Engagement Custom YouTube Shorts Thumbnails Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-value-and-power-combined-a-selection-of-superior-mini-gaming-pcs/"><u>Best Value and Power Combined: A Selection of Superior Mini Gaming PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-infinix-hot-40i-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Hot 40i Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899078319-fix-slow-internet-resetting-network-parameters-on-your-mac-might-be-the-solution/"><u>Fix Slow Internet? Resetting Network Parameters on Your Mac Might Be the Solution</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-your-messenger-presence-a-zodiac-guide/"><u>In 2024, Mastering Your Messenger Presence - A Zodiac Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sharing-your-favorite-tunes-a-guide-to-using-spotify-with-pals/"><u>Sharing Your Favorite Tunes: A Guide to Using Spotify with Pals</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-monitoring-your-macbooks-heat-levels/"><u>Step-by-Step Guide: Monitoring Your MacBook's Heat Levels</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-setting-up-your-first-linux-vm-on-a-windows-10-pc/"><u>Step-by-Step Guide: Setting Up Your First Linux VM on a Windows 10 PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2528022-9781493043835-the-big-book-of-new-jersey-ghost-stories/"><u>The Big Book of New Jersey Ghost Stories | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-corrupted-haldll-in-windows-xp-systems/"><u>Troubleshooting Steps for Corrupted Hal.dll in Windows XP Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-oled-technology-an-in-depth-guide/"><u>Understanding OLED Technology: An In-Depth Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlinked-chats-engaging-with-messenger-messages-even-if-you-dont-have-a-facebook-profile/"><u>Unlinked Chats: Engaging with Messenger Messages Even If You Don’t Have a Facebook Profile</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cast-distribution-license-for-screen-viewing/"><u>[New] 2024 Approved Cast Distribution License for Screen Viewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-an-in-depth-look-at-video-apps-for-iphone-and-android-users-for-2024/"><u>[New] An In-Depth Look at Video Apps for iPhone & Android Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-inside-out-top-tips-for-windows-11-pros/"><u>[New] Inside Out Top Tips for Windows 11 Pros</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elevate-your-content-with-expertly-crafted-360-videos-for-fb/"><u>[Updated] In 2024, Elevate Your Content with Expertly Crafted 360 Videos for FB</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/3windows-11bios/"><u>3つのシンプルな方法でWindows 11上のBIOSを開始する - ユーザーフレンドリーチュートリアル</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dbpower-600a-high-performance-18000mah-portable-power-station-revealed-ultimate-battery-backup/"><u>DBPower 600A High-Performance 18,000mAh Portable Power Station Revealed - Ultimate Battery Backup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-http-502-errors-insights-and-fixes-for-webmasters/"><u>Dealing with HTTP 502 Errors: Insights & Fixes for Webmasters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-cars-unfolding-their-historical-saga/"><u>Electric Cars: Unfolding Their Historical Saga</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-v29-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo V29 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-leaks-on-apples-next-gen-m4-mac-mini-price-insights-release-timeline-and-specs-preview/"><u>Latest Leaks on Apple's Next-Gen M4 Mac Mini - Price Insights, Release Timeline, and Specs Preview</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-choosing-and-crafting-whatsapp-alerts/"><u>Mastering the Art of Choosing & Crafting WhatsApp Alerts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-the-maze-of-gmail-archives-to-find-your-lost-emails-tips-inside/"><u>Navigate the Maze of Gmail Archives to Find Your Lost Emails - Tips Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-xinput13dll-file-is-absent-dilemma/"><u>Solving the 'xinput1_3.dll File Is Absent' Dilemma</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-repair-and-restart-a-stalled-mozilla-thunderbird-program/"><u>Steps to Repair and Restart a Stalled Mozilla Thunderbird Program</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722863973590-top-11-free-movie-downloading-sites-youll-love/"><u>Top 11 Free Movie Downloading Sites You'll Love!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-zoom-problems-when-does-the-fault-lie-with-the-app/"><u>Troubleshooting Zoom Problems: When Does the Fault Lie with the App?</u></a></li>
 </ul></div>
 

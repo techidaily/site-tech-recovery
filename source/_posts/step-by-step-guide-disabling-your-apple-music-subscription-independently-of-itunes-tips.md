@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling Your Apple Music Subscription Independently of iTunes - Tips"
-date: 2024-11-10T08:17:37.583Z
-updated: 2024-11-16T05:25:13.368Z
+date: 2024-11-20T17:00:10.432Z
+updated: 2024-11-25T16:03:38.100Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -63,6 +56,10 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -70,10 +67,7 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -86,13 +80,6 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
@@ -104,6 +91,10 @@ Screenshot by Lance Whitney/ZDNET
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -128,10 +119,7 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -146,24 +134,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -213,22 +192,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-mastering-facebook-video-auto-play/"><u>[New] Mastering Facebook Video Auto-Play</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elite-aerial-camera-assistants-for-gopro-enthusiasts/"><u>[Updated] Elite Aerial Camera Assistants for GoPro Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/achieve-more-with-costless-timer-software/"><u>Achieve More with Costless Timer Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/before-purchasing-your-next-smartwatch-5-critical-aspects-to-review/"><u>Before Purchasing Your Next Smartwatch: 5 Critical Aspects to Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-steps-to-remove-the-epic-games-launcher-from-your-pc/"><u>Complete Guide: Steps to Remove the Epic Games Launcher From Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-15-dolby-atmos-movies-to-enhance-your-tv-viewing-party/"><u>Discover the Best 15 Dolby Atmos Movies to Enhance Your TV Viewing Party</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-possibilities-is-there-a-free-version-of-microsoft-word-available/"><u>Exploring the Possibilities: Is There a Free Version of Microsoft Word Available?</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro Max System Issues? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-watch-deleted-youtube-secrets-to-accessing-lost-content/"><u>In 2024, Watch Deleted YouTube Secrets to Accessing Lost Content</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-cross-platform-communication-facilitating-facetime-on-windows-systems/"><u>Mastering Cross-Platform Communication: Facilitating FaceTime on Windows Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/spotify-discount-101-a-students-blueprint-to-enjoy-music-at-half-price/"><u>Spotify Discount 101: A Student’s Blueprint to Enjoy Music at Half Price</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-fleeting-feed-of-fb-shorts/"><u>The Fleeting Feed of FB Shorts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-great-debate-crafting-your-own-pc-or-opting-for-a-store-bought-setup/"><u>The Great Debate: Crafting Your Own PC or Opting for a Store Bought Setup.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-generation-unfolds-with-samsung-galaxy-z-flip-6-dive-deep-into-news-and-features/"><u>The Next Generation Unfolds with Samsung Galaxy Z Flip 6 - Dive Deep Into News and Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-essential-study-apps-every-student-and-parent-should-know/"><u>Top 6 Essential Study Apps Every Student and Parent Should Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unleash-hilarious-mischief-creative-iphone-and-ipad-trickery-for-friends-amusement/"><u>Unleash Hilarious Mischief: Creative iPhone & iPad Trickery for Friends' Amusement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-lights-camera-action-youtubes-17-essentials/"><u>[New] 2024 Approved Lights, Camera, Action! - YouTube's #17 Essentials</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-vivid-visual-storytelling-the-fade-technique/"><u>[Updated] 2024 Approved Vivid Visual Storytelling The Fade Technique</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-analysis-whatsapps-vocal-communication/"><u>2024 Approved A Comprehensive Analysis WhatsApp’s Vocal Communication</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-gopro-time-lapse-tips-create-epic-time-lapse-video/"><u>2024 Approved GoPro Time Lapse Tips Create Epic Time Lapse Video</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-video-second-count-20-megabits-file-size/"><u>2024 Approved Video Second Count 20 Megabits File Size</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-simple-strategies-for-enhancing-your-facebook-usage/"><u>5 Simple Strategies for Enhancing Your Facebook Usage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-buying-your-next-dash-cam-here-are-the-9-things-you-need-to-know/"><u>Before Buying Your Next Dash Cam - Here Are the 9 Things You Need To Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-fixing-unwanted-grid-patterns-on-your-flat-screen-tv/"><u>Expert Tips for Fixing Unwanted Grid Patterns on Your Flat Screen TV</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/explore-americas-top-karaoke-spots-with-prices-capping-at-just-1n50-sing-your-heart-out/"><u>Explore America's Top Karaoke Spots with Prices Capping at Just $1N50 - Sing Your Heart Out!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-shell32dll-not-found-or-missing-errors/"><u>How to Fix Shell32.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-facebook-image-search-to-find-someone/"><u>How to Use Facebook Image Search to Find Someone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stream-laptop-display-onto-hdtv-with-simple-hdmi-linkup-methods/"><u>How To: Stream Laptop Display Onto HDTV With Simple HDMI Linkup Methods</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-free-youtube-earning-predictors/"><u>In 2024, Free YouTube Earning Predictors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restore-a-shut-down-or-disabled-instagram-profile-effectively/"><u>Restore a Shut Down or Disabled Instagram Profile Effectively</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/seamlessly-watch-flv-content-on-ios-devices-a-simple-tutorial/"><u>Seamlessly Watch FLV Content on iOS Devices - A Simple Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-repair-restoring-functionality-to-stuck-disc-readers-on-pcs/"><u>Step-by-Step Repair: Restoring Functionality to Stuck Disc Readers on PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-strategies-unlocking-success-in-royal-match/"><u>Step-by-Step Strategies: Unlocking Success in 'Royal Match'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-the-elusive-msvcr7ec-runtime-library/"><u>Troubleshooting Tips for the Elusive MSVCR7e/C Runtime Library</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Energy Efficiency: A Guide to Enabling Low Power Mode on Your macOS Monterey - Tips From ZDNet"
-date: 2024-11-11T18:43:27.598Z
-updated: 2024-11-15T21:14:17.793Z
+date: 2024-11-23T16:07:57.375Z
+updated: 2024-11-25T17:14:33.734Z
 tags:
   - apple
 categories:
@@ -28,13 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -51,25 +52,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -78,10 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -92,11 +76,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,22 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-revolutionizing-video-content-youtube-marketings-top-5-secrets/"><u>[New] In 2024, Revolutionizing Video Content YouTube Marketing's #Top 5 Secrets</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avoiding-regrets-in-digital-purchases-mastering-the-art-of-steam-game-returns/"><u>Avoiding Regrets in Digital Purchases: Mastering the Art of Steam Game Returns.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-v29-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo V29</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-methods-to-ensure-your-windows-machine-always-starts-in-safe-mode/"><u>Easy Methods to Ensure Your Windows Machine Always Starts in Safe Mode</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/entering-the-metaverse-discovering-6-rich-examples/"><u>Entering the Metaverse Discovering 6 Rich Examples</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-6-premier-websites-to-unlock-jaw-dropping-deals-and-coupons/"><u>Explore These 6 Premier Websites to Unlock Jaw-Dropping Deals and Coupons</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-asus-laptop-drivers-free-downloads-and-tips/"><u>How to Get the Latest ASUS Laptop Drivers – Free Downloads & Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-microsoft-edge-running-so-many-processes-on-windows/"><u>How to Stop Microsoft Edge Running So Many Processes on Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-simplified-live-streaming/"><u>In 2024, Mastering the Art of Simplified LIVE Streaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-roblox-not-working-understanding-network-errors-vs-player-connection-issues/"><u>Is Roblox Not Working? Understanding Network Errors vs Player Connection Issues</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-videopad-video-editor-review-features-performance-and-value-for-money/"><u>New Videopad Video Editor Review Features, Performance, and Value for Money</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-and-effective-guide-on-setting-up-an-amazon-fire-tv-stick-remote/"><u>Quick & Effective Guide on Setting Up an Amazon Fire TV Stick Remote</u></a></li>
-<li><a href="https://win11.techidaily.com/reducing-load-for-faster-team-collaboration/"><u>Reducing Load for Faster Team Collaboration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-quintet-of-people-search-platforms-you-need-to-know-about/"><u>The Quintet of People Search Platforms You Need to Know About</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/total-war-warhammer-iii-pc-version-permanent-solutions-to-eliminate-in-game-freezing-and-crashing/"><u>TOTAL WAR: WARHAMMER III PC Version – Permanent Solutions to Eliminate In-Game Freezing and Crashing!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unified-sound-experience-syncing-your-bluetooth-speakers-for-maximum-impact/"><u>Unified Sound Experience: Syncing Your Bluetooth Speakers for Maximum Impact</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-vision-capture-expert-insights-into-video-tech/"><u>[Updated] 2024 Approved Vision Capture Expert Insights Into Video Tech</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-secrets-of-striking-youtube-live-images/"><u>[Updated] Unveiling the Secrets of Striking YouTube Live Images</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/8-best-free-html-editors-for-windows/"><u>8 Best Free HTML Editors for Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-on-transferring-spotify-playlist-data-into-editable-text-files/"><u>Complete Guide on Transferring Spotify Playlist Data Into Editable Text Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-set-up-iphone-compatible-drivers-on-windows-10/"><u>Download & Set Up iPhone-Compatible Drivers on Windows 10</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/download-gratuito-di-windows-10-con-una-guida-completa-fatta-a-secco/"><u>Download Gratuito Di Windows 10 Con Una Guida Completa Fatta a Secco</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-picks-best-no-cost-polyglot-platforms-for-mastering-languages/"><u>Expert Picks: Best No-Cost Polyglot Platforms for Mastering Languages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-android-16-update-release-schedule-pricing-features-and-upcoming-rumors/"><u>Free Android 16 Update: Release Schedule, Pricing, Features & Upcoming Rumors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-hdd-evaluation-programs-the-2024-best-picks-for-optimal-performance/"><u>Free HDD Evaluation Programs: The 2024 Best Picks for Optimal Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-overcome-delay-challenges-with-google-chromecast-audio/"><u>How to Overcome Delay Challenges with Google Chromecast Audio</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-tame-a-buzzing-machine-fixing-problematic-computing-fans/"><u>How to Tame a Buzzing Machine: Fixing Problematic Computing Fans</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blades-new-vision-in-ultra-high-definition-clarity/"><u>In 2024, Blade's New Vision in Ultra-High Definition Clarity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-asus-rog-phone-8-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Asus ROG Phone 8 Pro Face Lock?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pros-picks-top-10-shaky-free-cameras-for-action/"><u>In 2024, Pro's Picks Top 10 Shaky-Free Cameras for Action</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722858426850-power-up-your-phone-on-the-go-no-charger-needed/"><u>Power Up Your Phone on the Go: No Charger Needed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rediscovering-the-80s-a-guide-to-timeless-movies-you-need-to-see-today/"><u>Rediscovering the '80S: A Guide to Timeless Movies You Need to See Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-the-art-of-selfie-photography-with-ring-lights/"><u>Step-by-Step Guide: Mastering the Art of Selfie Photography with Ring Lights</u></a></li>
 </ul></div>
 

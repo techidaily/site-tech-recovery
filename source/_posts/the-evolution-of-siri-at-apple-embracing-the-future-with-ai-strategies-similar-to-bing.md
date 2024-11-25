@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Siri at Apple - Embracing the Future with AI Strategies Similar to Bing
-date: 2024-11-15T07:02:35.432Z
-updated: 2024-11-15T22:19:01.706Z
+date: 2024-11-19T18:30:10.623Z
+updated: 2024-11-25T18:35:42.780Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hey Siri, let's talk about Microsoft
 
 Yet now, and urgently, Apple is thrusting itself further into AI. Cupertino [already claims](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) its on-device AI is better than GPT-4\. The name of its on-device system? ReALM (Reference Resolution As Language Modeling), apparently.
@@ -73,10 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -125,18 +126,18 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-correct-iosandroid-video-failures-on-fb/"><u>[New] 2024 Approved Correct iOS/Android Video Failures on FB</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-going-back-in-space-and-time-rewind-your-instagram-video/"><u>[New] 2024 Approved Going Back in Space and Time Rewind Your Instagram Video</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-optimal-speech-devices-web-based/"><u>[New] In 2024, Optimal Speech Devices, Web-Based</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-uncomplicated-routines-to-streamline-your-online-sessions-pcmac-os-for-2024/"><u>[New] Uncomplicated Routines to Streamline Your Online Sessions - PC/Mac OS for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/anticipated-launch-the-coming-of-the-foldable-iphone-pricing-specs-and-release-dates-unveiled/"><u>Anticipated Launch: The Coming of the Foldable iPhone - Pricing, Specs, and Release Dates Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-view-and-manipulate-pages-documents-in-microsoft-edge-or-chrome/"><u>Easy Steps to View and Manipulate Pages Documents in Microsoft Edge or Chrome</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-capturing-content-with-precision-best-practices-for-igtv-video-downloads/"><u>In 2024, Capturing Content with Precision Best Practices for IGTV Video Downloads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-screenshots-how-to-freeze-your-hp-laptops-momentum/"><u>Mastering Screenshots: How to Freeze Your HP Laptop’s Momentum</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/powering-forward-a-concise-history-of-electric-transportation-innovations/"><u>Powering Forward: A Concise History of Electric Transportation Innovations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/preserving-an-open-internet-the-key-factors-behind-net-neutrality-explained/"><u>Preserving an Open Internet: The Key Factors Behind Net Neutrality Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-start-tutorial-for-configuring-your-amazon-echo-dot/"><u>Quick Start Tutorial for Configuring Your Amazon Echo Dot</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unleash-your-ugc-making-memes-and-marks-on-fb-for-2024/"><u>Unleash Your UGC Making Memes and Marks on FB for 2024</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-honor-magic-vs-2-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Honor Magic Vs 2 password or pattern lock</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-game-editor-tools-for-novices/"><u>[New] 2024 Approved Essential Game Editor Tools for Novices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instas-music-guide-essentials/"><u>[New] 2024 Approved Insta's Music Guide Essentials</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-urban-unleashed-best-matches-to-grand-theft-auto-v/"><u>[New] 2024 Approved Urban Unleashed Best Matches to Grand Theft Auto V</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chronicles-that-captivate-top-youtube-storytelling-channels-2023/"><u>2024 Approved Chronicles that Captivate Top YouTube Storytelling Channels 2023</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-overview-of-verizons-role-in-todays-5g-revolution/"><u>A Comprehensive Overview of Verizon's Role in Today's 5G Revolution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-to-upgrade-your-idevices-snapshots/"><u>Expert Advice to Upgrade Your iDevice's Snapshots</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-15-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 15 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-steps-for-fixing-failed-to-play-test-sound-mishaps/"><u>Simple Steps for Fixing 'Failed to Play Test Sound' Mishaps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-tracking-electric-car-chargers-via-google-maps/"><u>The Ultimate Guide to Tracking Electric Car Chargers via Google Maps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-no-cost-sport-live-streams-you-cant-miss/"><u>Top 5 No-Cost Sport Live Streams You Can't Miss</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-absent-jvmdll-file-tips-and-solutions-for-windows-users/"><u>Troubleshooting the Absent jvm.dll File: Tips and Solutions for Windows Users</u></a></li>
+<li><a href="https://win-premium.techidaily.com/pc-2/"><u>デル・エイリアンウェアPC向けに強力なバックアップとシステム再生手順: 2通りのガイド</u></a></li>
 </ul></div>
 

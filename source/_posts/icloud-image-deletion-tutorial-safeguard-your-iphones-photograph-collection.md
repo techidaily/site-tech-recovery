@@ -1,7 +1,7 @@
 ---
 title: ICloud Image Deletion Tutorial - Safeguard Your iPhone's Photograph Collection
-date: 2024-08-30T16:28:53.524Z
-updated: 2024-08-31T16:28:53.524Z
+date: 2024-11-24T16:42:00.205Z
+updated: 2024-11-25T16:36:39.779Z
 categories:
   - BestProducts
 description: This Article Describes ICloud Image Deletion Tutorial - Safeguard Your iPhone's Photograph Collection
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 
  This article explains how to delete photos from iCloud without removing them from your iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to See if Syncing is Turned On or Off on iPhone
 
  Syncing must be off to ensure photos deleted from iCloud aren't removed from your iPhone as well. To check whether or not iCloud Photo syncing is enabled on your iPhone, follow these steps:
@@ -32,12 +36,13 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 4. Now, you can delete photos from iCloud without removing them automatically from the iPhone. Follow the same steps to turn off iCloud syncing for any other Apple device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Delete Photos From iCloud While Keeping Them on the iPhone
 
  To delete photos from iCloud without deleting them from the iPhone, you need to check your phone's syncing status. Be sure syncing is turned off. Then, follow the steps below to remove images from iCloud only:
@@ -46,23 +51,15 @@ No advertising on the website.
 2. Select**Photos** .  
 ![Photos in iCloud](https://www.lifewire.com/thmb/qE3HFTnz0S_6mVd-058Kb_p1fUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_delete-photos-from-icloud-5218812-802b8709be6546279b3c1d8a9caae9e9.jpg)
 3. Press the**Ctrl** (Windows) or**Command** (macOS) key on your keyboard and select the photos you want to delete.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
-![Selected photo in iCloud Photos](https://www.lifewire.com/thmb/EVp2jB02DvehpdfiEiH_oigpMW0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_delete-photos-from-icloud-5218812-70d5dc6315c24376af07a234b8e76203.jpg)
-4. Select the**Delete** (trash can) icon to delete the selected photos.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-5. The photos will be deleted from iCloud. With iCloud Photos turned off on your device, the photos in the iPhone's Photos library will not be affected.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Selected photo in iCloud Photos](https://www.lifewire.com/thmb/EVp2jB02DvehpdfiEiH_oigpMW0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_delete-photos-from-icloud-5218812-70d5dc6315c24376af07a234b8e76203.jpg)
+4. Select the**Delete** (trash can) icon to delete the selected photos.
+5. The photos will be deleted from iCloud. With iCloud Photos turned off on your device, the photos in the iPhone's Photos library will not be affected.
+
 ### Tip
 
  When deleted, photos and videos are shifted to the**Recently Deleted** folder on both iCloud and the iPhone. They will be permanently deleted after 30 days, thus making it possible to recover them if you change your mind. To remove them permanently before 30 days, go to the Recently Deleted folder and select**Delete All** .
@@ -70,8 +67,9 @@ No advertising on the website.
 [How to Mass Delete Images and Photos in Bulk on iPhone, iPad](https://www.lifewire.com/bulk-delete-images-iphone-ipad-2740750)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Understanding the 'Optimize iPhone Storage' Setting
 
  If**Optimize iPhone Storage** is enabled, all your full-resolution photos and videos are kept on iCloud and only the latest photos and videos are on the iPhone.
@@ -113,8 +111,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +118,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/official-release-ultimate-winx-dvd-ripper-platinum-effortless-conversion-from-dvd-to-premium-mp4-h264hevc-within-5-minutes/"><u>[Official Release] Ultimate WinX DVD Ripper Platinum: Effortless Conversion From DVD to Premium MP4 (H.264/HEVC) Within 5 Minutes!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-leading-6-video-languages-conversion-aids/"><u>[Updated] Leading 6 Video Languages Conversion Aids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snap-to-success-top-pixlr-editing-methods-unveiled/"><u>[Updated] Snap to Success Top Pixlr Editing Methods Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-enhancements-required-for-apple-vision-pros-successful-integration-into-the-corporate-world-insights/"><u>Essential Enhancements Required for Apple Vision Pro's Successful Integration Into the Corporate World: Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-avoidance-tactics-no-more-recommended-podcasts-on-spotify/"><u>In 2024, Avoidance Tactics No More Recommended Podcasts on Spotify</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-25-capture-apps-for-your-windows-10-device/"><u>In 2024, Top 25 Capture Apps for Your Windows 10 Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-dilemma-decoded-expert-tips-on-selecting-the-perfect-apple-machine-macbook-air-or-macbook-pro/"><u>MacBook Dilemma Decoded: Expert Tips on Selecting the Perfect Apple Machine - MacBook Air or MacBook Pro?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-apple-music-unsubscriptions-a-no-itunes-required-tutorial-featured/"><u>Navigating Apple Music Unsubscriptions: A No iTunes Required Tutorial Featured</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/level-cinema-selection-youtube-edition-for-2024/"><u>Next-Level Cinema Selection - YouTube Edition for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnecting-brothers-print-to-end-offline-status-woes/"><u>Reconnecting Brothers Print to End Offline Status Woes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-desired-additions-for-visionos-anticipated-updates-from-apple-in-the-latest-wwdc-highlights-zdnet-insights/"><u>Top 10 Desired Additions for VisionOS: Anticipated Updates From Apple in the Latest WWDC Highlights - ZDNet Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1727788390953-top-rated-airtag-wallets-in-2er-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated AirTag Wallets in 2Er 2024 - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+</ul></div>
 

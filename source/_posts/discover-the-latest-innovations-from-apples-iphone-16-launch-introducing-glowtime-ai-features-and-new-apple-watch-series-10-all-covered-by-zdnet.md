@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2024-11-11T03:04:24.400Z
-updated: 2024-11-16T01:20:57.932Z
+date: 2024-11-23T17:08:04.372Z
+updated: 2024-11-25T17:24:34.846Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,10 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -94,10 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -113,6 +111,10 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -136,10 +138,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -166,13 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,18 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-5-must-have-video-editing-software-for-macos-sierra-for-2024/"><u>[Updated] Top 5 Must-Have Video Editing Software for macOS Sierra for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-5-best-graphics-cards-for-4k-video-editing-and-rendering/"><u>2024 Approved 5 Best Graphics Cards for 4K Video Editing and Rendering</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y27-4g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y27 4G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/does-my-mailcom-email-address-have-an-expiration-date/"><u>Does My Mail.com Email Address Have an Expiration Date?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-docx-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .docx file online free - (Tutorial)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/local-groups-local-power-admin-techniques-for-win1110-homes/"><u>Local Groups, Local Power: Admin Techniques for Win11/10 Homes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-data-management-wise-utilization-for-smartphones-and-wi-fi/"><u>Mastering the Art of Data Management: Wise Utilization for Smartphones and Wi-Fi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/order-matters-how-to-enjoy-the-full-story-of-the-transformers-movies/"><u>Order Matters: How to Enjoy the Full Story of the Transformers Movies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-discover-7-secrets-to-a-faster-smarter-pc/"><u>Quick Fixes: Discover 7 Secrets to a Faster, Smarter PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-ar-100-inch-laptop-available-without-external-monitor-perfect-for-immersive-experience-zdnet-exclusive/"><u>Revolutionary AR 100 Inch Laptop Available Without External Monitor, Perfect for Immersive Experience! [ZDNet Exclusive]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-uncovering-hidden-youtube-comments-that-wont-display/"><u>Troubleshooting Tips: Uncovering Hidden YouTube Comments That Won't Display</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-expert-insights-and-ratings-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024: Expert Insights and Ratings | ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-espnplus-a-comprehensive-guide-to-the-world-of-sports-streaming/"><u>Understanding ESPN+: A Comprehensive Guide to the World of Sports Streaming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-addressing-the-myself-glitch-on-social-media-platforms-for-2024/"><u>[New] Addressing the 'Myself' Glitch on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-androids-complete-guide-to-lightroom/"><u>[Updated] In 2024, Android's Complete Guide to Lightroom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mycam-recorder-unveiled-an-expert-review-for-2024/"><u>[Updated] MyCam Recorder Unveiled An Expert Review for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-windows-system-error-31-expert-advice/"><u>Diagnosing and Repairing Windows System Error 31 – Expert Advice</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tips-optimizing-old-photos-using-premier-fixing-apps/"><u>Expert Tips: Optimizing Old Photos Using Premier Fixing Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-role-of-a-dac-in-high-quality-sound-should-you-invest-in-one/"><u>Exploring the Role of a DAC in High-Quality Sound: Should You Invest in One?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/finding-someone-fast-check-out-these-8-search-tools/"><u>Finding Someone Fast? Check Out These 8 Search Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-on-essential-samsung-gear-vr-experiences-for-2024/"><u>Game On Essential Samsung Gear VR Experiences for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-dts-play-fi-transform-your-music-experience/"><u>How Does DTS Play-Fi Transform Your Music Experience?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-6-plus-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 6 Plus Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-resolve-non-working-usb-mobile-hotspot-functions/"><u>Steps To Resolve Non-Working USB Mobile Hotspot Functions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-f23-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo F23 5G Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-to-fix-the-mfc42dll-not-detected-problem-easily/"><u>Troubleshooting Tips to Fix the 'mfc42.dll Not Detected' Problem Easily</u></a></li>
 </ul></div>
 

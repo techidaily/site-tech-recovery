@@ -1,7 +1,7 @@
 ---
 title: "Integrating Ubuntu Into macOS: A Step-by-Step Tutorial for Combining Linux and Xcode in One Smart Trick Insights"
-date: 2024-11-11T00:41:42.865Z
-updated: 2024-11-15T17:27:39.298Z
+date: 2024-11-19T18:02:03.911Z
+updated: 2024-11-25T16:20:16.558Z
 tags:
   - apple
 categories:
@@ -28,20 +28,21 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,10 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -63,13 +61,6 @@ Screenshot by Lance Whitney/ZDNET
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -85,6 +76,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,18 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-discover-the-power-of-mycam-recording-features/"><u>[New] In 2024, Discover the Power of MyCam Recording Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-the-vault-the-wealth-of-mr-beast/"><u>[New] Unlocking the Vault The Wealth of Mr. Beast</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-pinpointing-your-custom-designed-music-haven-on-youtube/"><u>[Updated] Pinpointing Your Custom-Designed Music Haven on Youtube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-resonance-realm-the-mac-studio-guide/"><u>[Updated] Resonance Realm The Mac Studio Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-pinnacle-guide-to-choosing-top-after-effects-plugins-for-2024/"><u>[Updated] The Pinnacle Guide to Choosing Top After Effects Plugins for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-in-games-on-the-rise-deciphering-steams-latest-decisions/"><u>AI in Games on the Rise: Deciphering Steam’s Latest Decisions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-7-alarm-clock-apps-available-today/"><u>Discover the Best 7 Alarm Clock Apps Available Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correct-missing-or-inaccessible-winhttpdll-errors-efficiently/"><u>How to Correct Missing or Inaccessible Winhttp.dll Errors Efficiently</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-your-stadia-headset-wont-connect/"><u>How to Fix It When Your Stadia Headset Won't Connect</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-efficient-strategies-for-deleting-an-overdue-linkedin-profile/"><u>In 2024, Efficient Strategies for Deleting an Overdue LinkedIn Profile</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-prime-sd-card-selections-for-optimal-gopro-hero-78-performance/"><u>In 2024, Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-addressing-and-correcting-kernel32dll-complications-in-windows/"><u>The Ultimate Fix: Addressing and Correcting Kernel32.dll Complications in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-stream-undoing-simplified-15-actionable-insights-to-retrace-your-broadcast-trail/"><u>[New] Stream Undoing Simplified 15 Actionable Insights to Retrace Your Broadcast Trail</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-profits-a-comprehensive-vimeo-revenue-strategy/"><u>[Updated] Mastering Profits A Comprehensive Vimeo Revenue Strategy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-structuring-a-compelling-resume-cv-on-linkedin/"><u>[Updated] Structuring a Compelling Resume (CV) on LinkedIn</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-opt-out-of-emergency-and-amber-programs-on-iphones-easily/"><u>How To Opt Out of Emergency and Amber Programs on iPhones Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-deletion-on-facebook-a-step-by-step-process/"><u>Mastering the Art of Image Deletion on Facebook - A Step-by-Step Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rapid-advancements-in-bing-ai-enhanced-speed-and-innovative-control-options-unveiled/"><u>Rapid Advancements in Bing AI - Enhanced Speed & Innovative Control Options Unveiled</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/real-time-transmission-of-recorded-content-on-social-media-via-facebook/"><u>Real-Time Transmission of Recorded Content on Social Media via Facebook</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-prime-day-deals-on-benq-monitors-and-projectors/"><u>The Best Prime Day Deals on BenQ Monitors & Projectors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-landscape-of-augmented-reality-stickers-spotlight-on-google-for-2024/"><u>The Landscape of Augmented Reality Stickers Spotlight on Google for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-meta-quest-3-unveiling-latest-updates-on-pricing-launch-timeline-and-technical-specifications/"><u>The Meta Quest 3: Unveiling Latest Updates on Pricing, Launch Timeline, and Technical Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-non-ringing-iphones-a-step-by-step-guide/"><u>Troubleshooting Non-Ringing iPhones: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-the-x3daudiodll-absent-error-on-your-pc/"><u>Troubleshooting Steps for Resolving the X3DAudio.dll Absent Error on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/winning-strategies-for-beating-the-fearsome-lynels-in-zeldas-botw-quest/"><u>Winning Strategies for Beating the Fearsome Lynels in Zelda's BOTW Quest</u></a></li>
 </ul></div>
 

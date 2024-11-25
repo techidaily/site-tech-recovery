@@ -1,7 +1,7 @@
 ---
 title: "Battle of the Smartwatch Giants: Assessing the Pros and Cons of Samsung's Ultra Vs. Apple's Ultra – Making an Informed Purchase Decision with ZDNET"
-date: 2024-11-11T20:41:10.274Z
-updated: 2024-11-15T19:58:29.384Z
+date: 2024-11-20T17:42:50.637Z
+updated: 2024-11-25T18:02:03.922Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ Matthew Miller/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 * The [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSVJ7BRX%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84f8b474-99e4-4ffb-b335-9a0059da90cd%7Cdtp&dtb=1) is on sale ahead of Labor Day for $699 on Amazon for the Blue Alpine Loop, Gray Trail Loop, and Orange Ocean Band configurations.
@@ -29,10 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -96,10 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,10 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -153,18 +148,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-demystifying-encoding-a-beginners-approach-to-av1/"><u>[New] 2024 Approved Demystifying Encoding A Beginner's Approach to AV1</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-windows-phone-apps-for-your-cinematic-journey/"><u>2024 Approved Best Windows Phone Apps for Your Cinematic Journey</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-puzzle-prints-crafting-hilarity-in-minutes/"><u>2024 Approved Puzzle Prints Crafting Hilarity in Minutes</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/1728487582025-windows-11/"><u>如何从 Windows 11 的资源管理器垃圾箱中恢复文件 - 全面教程</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-iphone-gps-tracking-apps-our-expert-picks/"><u>Discover the Best iPhone GPS Tracking Apps: Our Expert Picks!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovering-the-world-of-smartwatches-purposes-and-use-cases/"><u>Discovering the World of Smartwatches: Purposes and Use Cases</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-connection-issues-6-effective-methods-for-an-unresponsive-apple-watch/"><u>Fixing Connection Issues: 6 Effective Methods for an Unresponsive Apple Watch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-look-at-how-t-mobile-operates-seamless-domestic-roaming-for-customers/"><u>Inside Look at How T-Mobile Operates Seamless Domestic Roaming for Customers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/most-effective-and-durable-oversized-computer-mouse-pads-reviewed/"><u>Most Effective and Durable Oversized Computer Mouse Pads Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-child-online-security-the-best-8-tools-for-parents/"><u>Navigating Child Online Security: The Best 8 Tools for Parents</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-5-steps-to-ensure-your-windows-system-is-safe-and-locked/"><u>Ultimate Guide: 5 Steps To Ensure Your Windows System Is Safe and Locked</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-t-mobiles-home-network-roaming-features/"><u>Understanding T-Mobile's Home Network Roaming Features</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-a-photo-collage-on-maciphone-using-iphoto/"><u>Updated In 2024, How to Make a Photo Collage on Mac/iPhone Using iPhoto?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-transform-your-photos-with-ease-comprehensive-guide-on-background-erasure-tool-usage/"><u>[New] In 2024, Transform Your Photos with Ease Comprehensive Guide on Background Erasure Tool Usage</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-masterful-moments-made-simple-the-snapchat-lens-guide/"><u>[Updated] 2024 Approved Masterful Moments Made Simple The Snapchat Lens Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-proficient-use-of-obs-studio-on-your-android-phone/"><u>[Updated] 2024 Approved Proficient Use of OBS Studio on Your Android Phone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-gamers-guide-to-elite-streaming-platforms/"><u>[Updated] Gamers' Guide to Elite Streaming Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-perfect-pan-and-tilt-for-clearer-captures/"><u>2024 Approved Perfect Pan & Tilt for Clearer Captures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capture-stunning-images-advanced-zoom-features-on-idevices/"><u>Capture Stunning Images: Advanced Zoom Features on iDevices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-overview-of-applications-for-samsung-television-units/"><u>Comprehensive Overview of Applications for Samsung Television Units</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-online-presence-editing-expertise-for-haul-vlogs/"><u>Elevate Your Online Presence Editing Expertise for Haul Vlogs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/hd-video-editing-made-easy-top-5-software-options-for-2024/"><u>HD Video Editing Made Easy Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-microphones-for-precision-in-4k-video-and-sound-recording-for-2024/"><u>Ideal Microphones for Precision in 4K Video & Sound Recording for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/methods-for-finding-the-owner-of-an-anonymous-caller/"><u>Methods for Finding the Owner of an Anonymous Caller</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-strategies-for-downloading-audio-from-pinterest-videos-for-2024/"><u>Optimal Strategies for Downloading Audio From Pinterest Videos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reassessing-government-use-of-major-it-companies-following-microsofts-outages-time-for-change/"><u>Reassessing Government Use of Major IT Companies Following Microsoft's Outages – Time For Change?</u></a></li>
 </ul></div>
 

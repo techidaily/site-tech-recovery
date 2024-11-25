@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Ways Apple's AI Must Evolve to Match the Might of OpenAI & Google: Insights From ZDNet"
-date: 2024-11-12T01:06:36.567Z
-updated: 2024-11-16T06:09:58.838Z
+date: 2024-11-21T17:35:49.479Z
+updated: 2024-11-25T17:36:26.772Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ Whether you're a [developer](https://www.zdnet.com/article/the-data-confirms-gen
 
 ## Productivity & Workflow Enhancements
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Regenerative AI (RAG) APIs & AI Writing Tools
 
 While Apple Intelligence's writing tools provide basic functionality like text rewrites and proofreading, future enhancements could leverage [Regenerative AI/Retrieval Augmented Generation (RAG)](https://www.zdnet.com/article/understanding-rag-how-to-integrate-generative-ai-llms-with-your-business-knowledge/) APIs to introduce more sophisticated features. This would include real-time grammar corrections, tone adjustments, and specialized models trained on industry-specific languages, such as legal or medical terminology. 
@@ -56,16 +49,7 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 **Use Case**: A legal professional drafting a contract could use AI to generate text based on legal standards and pull relevant case law or references from secure corporate databases. Similarly, a medical researcher could enhance their papers with precise terminology and industry knowledge, all sourced and verified by a specialized AI model.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Voice-based AI Workflow Automation & Proactive Notifications
@@ -82,6 +66,10 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 
 ## Security & Privacy Enhancements
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Enhanced AI Privacy and Security Controls
 
 As AI becomes more integrated into daily use, Apple can enhance its privacy and security controls, allowing users to customize how AI interacts with personal data. Users could have granular control over what information third-party apps can access and how this data is used, ensuring all AI interactions comply with [privacy expectations](https://www.zdnet.com/article/you-can-make-big-money-from-ai-but-only-if-people-trust-your-data/).
@@ -95,10 +83,7 @@ As AI becomes more integrated into daily use, Apple can enhance its privacy and 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Financial Management and Security
@@ -129,13 +114,6 @@ AI could provide real-time diagnostics and predictive health insights by leverag
 
 ## Creative & Media Tools
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. AI-Enhanced Media Production Tools
 
 For creative professionals, AI could streamline tasks in Apple's creativity tools, such as [Final Cut Pro](https://www.zdnet.com/article/these-new-final-cut-pro-for-ipad-features-are-game-changing-for-me-as-a-filmmaker/) and GarageBand. AI could automate video editing, sound mixing, and effects generation, suggesting edits based on user preferences and creative style. This approach would allow users to focus on the creative aspects of their work, leaving repetitive tasks to the AI.
@@ -148,7 +126,15 @@ For creative professionals, AI could streamline tasks in Apple's creativity tool
 
 **Also: [Want Apple's new AI features without buying a new iPhone? Try this app](https://www.zdnet.com/article/want-apples-new-ai-features-without-buying-a-new-iphone-try-this-app/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sustainability & Accessibility
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Sustainability and Environmental Tracking
 
@@ -162,13 +148,6 @@ Apple's AI could help users track and reduce their environmental impact by colle
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)** 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. AI Accessibility for Education and General Use
 
 AI could further [enhance accessibility for users with disabilities](https://www.zdnet.com/article/apple-accessibility-features-will-let-you-control-an-iphone-with-your-eyes/) by adapting device interfaces and content dynamically. Real-time captioning, gesture recognition, and adaptive learning environments could help students and users with disabilities interact with Apple devices more easily. AI could also support personalized learning, adapting content presentation based on individual needs.
@@ -180,19 +159,6 @@ AI could further [enhance accessibility for users with disabilities](https://www
 **Use Case:** A student with a hearing impairment could use real-time captioning during online classes or lectures, while AI adapts learning materials to suit their individual needs.
 
 **Also: [Your AirPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Cross-Ecosystem & Personalization
 
@@ -207,6 +173,10 @@ Apple could launch a dedicated Gen AI Store for AI-powered apps, enabling users 
 **Use Case:** A user could download a home automation AI from the Gen AI Store, which coordinates energy usage and home activities based on daily routines, and learning patterns to optimize efficiency.
 
 **Also: [Buying an Apple Watch Series 10? Consider these 3 features before upgrading](https://www.zdnet.com/article/buying-an-apple-watch-series-10-consider-these-3-features-before-upgrading/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10\. AI Learning and Personalization
 
@@ -258,22 +228,20 @@ While Apple's focus on privacy and on-device processing sets it apart, the compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-10-top-value-hd-cameras-for-extreme-sports/"><u>[New] 10 Top Value HD Cameras for Extreme Sports</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-zoom-conference-configuration-essentials-for-2024/"><u>[Updated] Zoom Conference Configuration Essentials for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/alternative-connection-methods-for-your-logitech-wireless-mouse/"><u>Alternative Connection Methods for Your Logitech Wireless Mouse</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-10-must-have-apps-to-master-your-high-school-experience/"><u>Discover the 10 Must-Have Apps to Master Your High School Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-leading-note-taking-software-of-2024-our-ultimate-selection/"><u>Discover the Leading Note Taking Software of 2024: Our Ultimate Selection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-apples-latest-launch-find-your-new-go-to-macbook-here/"><u>Exploring Apple's Latest Launch: Find Your New Go-To MacBook Here!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fast-setup-guide-get-your-hp-officejet-nv-5740-drivers-instantly/"><u>Fast Setup Guide: Get Your HP OfficeJet Nv-5740 Drivers Instantly</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-evening-enchantments-in-motion-reviewing-childrens-narrative-videos/"><u>In 2024, Evening Enchantments in Motion Reviewing Children's Narrative Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/managing-game-bar-introspection-in-windows-11-scope/"><u>Managing Game Bar Introspection in Windows 11 Scope</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-past-alerts-and-notifications-on-ios-devices-effortlessly/"><u>Navigating Through Past Alerts and Notifications on iOS Devices Effortlessly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/skys-dynamic-range-masterpieces-website-roundup/"><u>Sky's Dynamic Range Masterpieces - Website Roundup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-the-libgdk-win32-20-0dll-not-found-error-message/"><u>Step-by-Step Fix for The libgdk-win32-2.0-0.dll Not Found Error Message</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-your-iphones-blurry-images-by-correcting-the-autofocus-malfunction/"><u>Troubleshoot Your iPhone's Blurry Images by Correcting the Autofocus Malfunction</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-windows-with-effective-pin-techniques/"><u>Unlock Windows with Effective PIN Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-and-wired-how-to-link-nintendo-switch-to-tvs-smoothly/"><u>Wireless and Wired: How to Link Nintendo Switch to TVs Smoothly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-online-meeting-capture-the-leading-5-gadgets-for-2024/"><u>[New] Best Online Meeting Capture The Leading 5 Gadgets for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-in-depth-analysis-freelens-webcam-recorder-app/"><u>[New] In 2024, In-Depth Analysis Freelens Webcam Recorder App</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-step-into-fame-the-essential-blueprint-for-adding-channels-as-features-on-youtube/"><u>[New] In 2024, Step Into Fame The Essential Blueprint for Adding Channels as Features on Youtube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-to-increase-periscope-stream-velocity/"><u>[Updated] Techniques to Increase Periscope Stream Velocity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-most-advanced-macbook-series-top-picks-and-detailed-analysis/"><u>2024'S Most Advanced MacBook Series: Top Picks and Detailed Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ace-apple-watch-discounts-for-july-2e-find-the-coolest-deals-of-2024/"><u>Ace Apple Watch Discounts for July 2E! Find the Coolest Deals of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-the-m2-and-m3-macbook-air-models-a-comprehensive-guide-for-consumers/"><u>Comparing the M2 and M3 MacBook Air Models: A Comprehensive Guide for Consumers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dont-miss-out-explore-our-curated-list-of-18-most-attractive-prime-day-discounts-for-high-performance-laptops-by-hp-apple-and-razer/"><u>Don't Miss Out: Explore Our Curated List of 18 Most Attractive Prime Day Discounts for High-Performance Laptops by HP, Apple & Razer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M14 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962784493-improve-your-bluetooth-connectivity-on-windows-latest-microsoft-drivers-for-win-7810-and-11-download-today/"><u>Improve Your Bluetooth Connectivity on Windows: Latest Microsoft Drivers for Win 7/8/10 & 11 - Download Today!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-economic-planning-for-your-upcoming-music-video/"><u>In 2024, Economic Planning for Your Upcoming Music Video</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-sony-xperia-5-v-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Sony Xperia 5 V online without jailbreak</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-four-ai-enhancements-required-for-iphones-to-match-androids-capabilities-insights-from-zdnet/"><u>Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-tablet-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Tablet Picks : Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-im-choosing-the-new-iphone-16-pro-instead-of-max-apples-persuasive-argument-unveiled-tech-insights/"><u>Why I'm Choosing the New iPhone 16 Pro Instead of Max : Apple's Persuasive Argument Unveiled | Tech Insights</u></a></li>
 </ul></div>
 

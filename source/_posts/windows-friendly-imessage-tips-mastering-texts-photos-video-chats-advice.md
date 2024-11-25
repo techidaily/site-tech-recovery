@@ -1,7 +1,7 @@
 ---
 title: "Windows-Friendly iMessage Tips: Mastering Texts, Photos, Video Chats - Advice"
-date: 2024-11-12T04:50:26.876Z
-updated: 2024-11-16T04:39:47.060Z
+date: 2024-11-21T17:05:06.718Z
+updated: 2024-11-25T16:33:33.581Z
 tags:
   - apple
 categories:
@@ -45,10 +45,7 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 ## How to send and receive iMessages on Windows
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
@@ -69,6 +66,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -80,16 +81,7 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
@@ -104,25 +96,11 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -141,10 +119,7 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -176,6 +151,10 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,24 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-scriptwriting-mastery-conveying-emotions-through-words/"><u>[New] Scriptwriting Mastery Conveying Emotions Through Words</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-breakthrough-techniques-for-online-audio-archiving-and-editing-for-2024/"><u>[Updated] Breakthrough Techniques for Online Audio Archiving & Editing for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-growth-catalysts-increasing-audience-engagement-on-youtube-for-2024/"><u>[Updated] Growth Catalysts Increasing Audience Engagement on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-pixelpanorama-crafting-collage-vids-on-gear/"><u>[Updated] In 2024, PixelPanorama Crafting Collage Vids on Gear</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-perfect-film-order-for-fans-of-taylor-swift/"><u>Discover the Perfect Film Order for Fans of Taylor Swift</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/emoji-insights-that-will-blow-your-mind-a-list-of-10-unexpected-facts/"><u>Emoji Insights That Will Blow Your Mind: A List of 10 Unexpected Facts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-p55-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Itel P55 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/introduction-to-dts-play-fi-and-its-features/"><u>Introduction to DTS Play-Fi and Its Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-email-recall-with-microsoft-outlooks-features/"><u>Mastering the Art of Email Recall with Microsoft Outlook's Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/microsoft-bing-vs-chatgpt-an-in-depth-look-at-their-divergent-capabilities/"><u>Microsoft Bing Vs. ChatGPT: An In-Depth Look at Their Divergent Capabilities</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-all-inclusive-guide-to-the-feature-packed-budget-friendly-ambient-weather-station-the-ws-2902a-osprey/"><u>The All-Inclusive Guide to the Feature-Packed, Budget-Friendly Ambient Weather Station: The WS-2902A Osprey</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-essential-factors-for-choosing-the-right-smartwatch/"><u>Top 5 Essential Factors for Choosing the Right Smartwatch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-affordable-beginners-guide-to-building-a-home-theater-system/"><u>Top Affordable Beginner's Guide to Building a Home Theater System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-wi-fi-signal-boosters-the-ultimate-guide/"><u>Top Wi-Fi Signal Boosters : The Ultimate Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-fixing-the-jscriptdll-not-found-issue/"><u>Troubleshooting and Fixing the jScript.dll Not Found Issue</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/turn-your-cr2-photos-to-bmp-without-cost-using-movavis-web-based-tool/"><u>Turn Your CR2 Photos to BMP without Cost Using Movavi's Web-Based Tool</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-features-of-the-new-kobo-clara-colour/"><u>Unveiling the Features of the New Kobo Clara Colour</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-hands-on-with-avs-video-editor-a-2023-review/"><u>Updated In 2024, Hands-On with AVS Video Editor A 2023 Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-new-dive-into-the-features-of-applee-latest-ipad-genius/"><u>What's New ? Dive Into the Features of Apple'e Latest iPad Genius!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-magix-acid-pros-successors-in-vector-editing/"><u>[Updated] In 2024, Magix ACID Pro's Successors in Vector Editing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tailor-your-insta-experience-no-more-suggestions/"><u>2024 Approved Tailor Your Insta Experience No More Suggestions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-free-movie-streams-online-today/"><u>Discover the Ultimate List: Free Movie Streams Online Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-turning-off-facebook-access-from-your-android-device-for-good/"><u>Guide to Turning Off Facebook Access From Your Android Device for Good</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y27-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y27 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-chromeos-direct-screens-capture-tool/"><u>In 2024, ChromeOS Direct Screens Capture Tool</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-whats-new-with-bandicam-the-2023-expert-analysis/"><u>In 2024, What's New with Bandicam – The 2023 Expert Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/los-mejores-20-conversores-de-videos-sin-coste-para-pcs-con-windows-comparativa-exhaustiva-entre-versiones-11-8-y-7/"><u>Los Mejores 20 Conversores De Vídeos Sin Coste Para PCs Con Windows: Comparativa Exhaustiva Entre Versiones 11, 8 Y 7</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/low-end-pc-visual-recorders-for-2024/"><u>Low-End PC Visual Recorders for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/meta-quest-3-lite-sneak-peek-forecasting-price-tags-arrival-dates-and-rumored-specifications/"><u>Meta Quest 3 Lite Sneak Peek: Forecasting Price Tags, Arrival Dates & Rumored Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-when-zooms-video-capture-feature-wont-work/"><u>Quick Fixes for When Zoom's Video Capture Feature Won't Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revealing-the-network-behind-your-viral-facebook-content-a-detailed-walkthrough/"><u>Revealing the Network Behind Your Viral Facebook Content – A Detailed Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-downloading-and-enjoying-apple-tv-on-firestick/"><u>Step-by-Step Instructions: Downloading and Enjoying Apple TV on Firestick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-best-free-email-services-you-should-try-today/"><u>Top 10 Best Free Email Services You Should Try Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transient-heat-transfer-involves-time-dependent-temperature-changes-as-materials-move-towards-thermal-equilibrium/"><u>Transient Heat Transfer Involves Time-Dependent Temperature Changes as Materials Move Towards Thermal Equilibrium.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-issues-with-samsung-television-apps-that-wont-start/"><u>Troubleshooting Issues with Samsung Television Apps That Won’t Start</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-audit-steps-for-default-user-permission-reset/"><u>Win11 Audit: Steps for Default User Permission Reset</u></a></li>
 </ul></div>
 

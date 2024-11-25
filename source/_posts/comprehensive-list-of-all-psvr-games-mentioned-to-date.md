@@ -1,7 +1,7 @@
 ---
 title: Comprehensive List of All PSVR² Games Mentioned to Date
-date: 2024-08-30T16:29:11.278Z
-updated: 2024-08-31T16:29:11.278Z
+date: 2024-11-20T17:58:53.316Z
+updated: 2024-11-25T18:08:10.937Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive List of All PSVR² Games Mentioned to Date
@@ -25,6 +25,10 @@ of 12
 ## [Smart Defrag](https://www.lifewire.com/smart-defrag-review-2619163)
 
 ![Smart Defrag disk defrag tab](https://www.lifewire.com/thmb/uXqJPBFs4h9ptryP1X4mnGitSgQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/smart-defrag-9-80c0adc5713e43ada965070a8fe9ea5c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -64,6 +68,10 @@ of 12
 
 ![Defraggler v2.20.989](https://www.lifewire.com/thmb/CjKUn3gJ4D-F-gU1QIx_gQxFDyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/defraggler-569f9f3e5f9b58eba4acd33d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Defrags can be run automatically on a schedule
@@ -95,12 +103,13 @@ of 12
 
 of 12
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## [Auslogics Disk Defrag](https://www.auslogics.com/en/software/disk-defrag/)
 
 ![Auslogics Disk Defrag v10 in Windows 10](https://www.lifewire.com/thmb/HJ-rjKb7XPxOvTdflqEazjJbw2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/auslogics-disk-defrag-013fecab616b4d37a05e278d6f74a7e7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -134,8 +143,9 @@ of 12
 of 12
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [WinContig](https://www.mdtzone.it/sw/wincontig/en/index.html)
 
 ![WinContig list of fragmented files](https://www.lifewire.com/thmb/DrK2sgI5mIL8t5_bpRF7Fb_n4Js=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wincontig-fragmented-files-list-00ba6e2227fc44cbbcc731de148be02a.png)
@@ -167,9 +177,6 @@ of 12
 
 of 12
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Disk Defragmenter](https://www.lifewire.com/how-to-defrag-your-computer-3506876)
 
 ![Screenshot of Disk Defragmenter in Windows 7](https://www.lifewire.com/thmb/0h4EGCSnVxS3PBnxQSwq8MBvvao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-disk-defragmenter-5995a83603f40200111eec36.png)
@@ -200,9 +207,6 @@ Disk Defragmenter.
 
 of 12
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Disk SpeedUp](https://www.glarysoft.com/disk-speedup/download/)
 
 ![Disk SpeedUp in Windows 11](https://www.lifewire.com/thmb/bJNI1kyOFYst62MigwhiH-ncXZY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/disk-speedup-1330725c61ad47a8868f51ce776217f4.png)
@@ -239,16 +243,10 @@ of 12
 
 of 12
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [Wise Care 365](https://www.lifewire.com/wise-care-365-review-2625184)
 
 ![Screenshot of Wise Care 365 v3.9.2 in Windows 10](https://www.lifewire.com/thmb/0kv5m8AmsefeirIA1S2tIZxtGQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wise-care-365-56a6fb193df78cf77291410b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 Wise Care 365.
 
  What We Like
@@ -287,8 +285,9 @@ of 12
 ![Puran Defrag - Free Defrag Software](https://www.lifewire.com/thmb/vD7qm-Nu574NMVwAS1QPa1x9YHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/puran-defrag-free-defrag-software-56a6f9495f9b58b7d0e5c7d4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Puran Defrag. © Puran Software
 
  What We Like
@@ -332,8 +331,9 @@ of 12
 ![Screenshot of Toolwiz SmartDefrag](https://www.lifewire.com/thmb/axSA-xzxqXXm5GstEgjvuvs5r4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/toolwiz-smartdefrag-free-5995a5a0aad52b00117a63f6.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Toolwiz SmartDefrag. © ToolWiz Software
 
  What We Like
@@ -365,13 +365,14 @@ Toolwiz SmartDefrag. © ToolWiz Software
 
 of 12
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [UltraDefrag](https://sourceforge.net/projects/ultradefrag/files/stable-release/)
 
 ![UltraDefrag v7.0.0](https://www.lifewire.com/thmb/XIJD2RV6jubEf6Zoq-JwP6n1xmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ultradefrag-5995a657af5d3a0010e579e1.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  What We Like
 
 * Advanced options hidden away for beginners
@@ -402,6 +403,10 @@ of 12
 ## [O&O Defrag Free Edition](https://www.majorgeeks.com/files/details/oo%5Fdefrag%5Ffree%5Fedition.html)
 
 ![O&amp;O Defrag Free Edition - Free Defrag Software](https://www.lifewire.com/thmb/bcCfo20FvYAkPGiQO0yDtvKI3cs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/o-o-defrag-free-edition-free-defrag-software-56a6f9495f9b58b7d0e5c7d7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  O&O Defrag Free Edition. © O&O Software
 
@@ -437,8 +442,9 @@ of 12
 of 12
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [MyDefrag](https://www.majorgeeks.com/files/details/mydefrag.html)
 
 ![Screenshot of MyDefrag](https://www.lifewire.com/thmb/PCEfNCGAHrNMfzsnb7Hm1YT7abo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mydefrag-5995a68f054ad900119dc8ee.png)
@@ -492,8 +498,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -501,4 +505,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-audio-visual-harmony-in-digital-photos/"><u>[New] Audio-Visual Harmony in Digital Photos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-panoramic-photography-at-its-finest-top-11-camera-picks/"><u>[New] Panoramic Photography at Its Finest Top 11 Camera Picks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-economys-choice-high-quality-360-video-capabilities/"><u>[Updated] 2024 Approved Economy's Choice High-Quality 360° Video Capabilities</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-9-affordable-online-editors-for-youtube-for-2024/"><u>[Updated] Discover 9 Affordable Online Editors for YouTube for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-discover-how-to-get-high-quality-images-at-zero-cost-for-2024/"><u>[Updated] Discover How To Get High-Quality Images at Zero Cost for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-unveils-future-ai-innovations-set-for-integration-in-upcoming-iphone-models-zdnet-reports/"><u>Apple Unveils Future AI Innovations Set for Integration in Upcoming iPhone Models | ZDNet Reports</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/backup-your-customized-book-creation-preferences-in-flipbuilder-a-step-by-step-guide/"><u>Backup Your Customized Book Creation Preferences in FlipBuilder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guide-why-every-iphone-16-owner-should-consider-using-a-protective-case-insights-and-tips-for-first-time-users/"><u>Essential Guide: Why Every iPhone 16 Owner Should Consider Using a Protective Case - Insights and Tips for First-Time Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/future-ready-audio-gadgets-the-ultimate-mp3-player-guide-cnet/"><u>Future-Ready Audio Gadgets: The Ultimate MP3 Player Guide | CNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oneplus-12r-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For OnePlus 12R</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-18-update-brings-crucial-new-message-security-enhancement-to-your-iphone-not-powered-by-artificial-intelligence-tech-news/"><u>IOS 18 Update Brings Crucial New Message Security Enhancement to Your iPhone – Not Powered by Artificial Intelligence | Tech News</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-wallet-app-integration-adding-your-drivers-license-region-specific-guide/"><u>IPhone Wallet App Integration: Adding Your Driver's License - Region-Specific Guide</u></a></li>
+<li><a href="https://solve-info.techidaily.com/les-avantages-dutiliser-locr-dabbevillier-pour-les-amateurs-de-vin-la-solution-la-plus-appreciee-par-vivino/"><u>Les Avantages D'utiliser L'OCR D'Abbevillier Pour Les Amateurs De Vin: La Solution La Plus Appréciée Par Vivino</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-video-upload-procedures-on-chrome-devices/"><u>Navigating Video Upload Procedures on Chrome Devices</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/revolutionizing-patient-payments-master-the-revenue-cycle-with-abbyys-ebook-on-healthcare-finance/"><u>Revolutionizing Patient Payments: Master the Revenue Cycle with ABBYY's eBook on Healthcare Finance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-hands-on-deal-preorder-apples-latest-series-10-smartwatch-with-money-saving-tips-insights/"><u>Secure Your Hands-On Deal - Preorder Apple's Latest Series 10 Smartwatch with Money-Saving Tips Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-revolutionary-iphone-os-18-innovations-unveiled-at-apples-wwdc-keynote-the-beginning-of-an-ai-era-techinsights/"><u>Top 5 Revolutionary iPhone OS 18 Innovations Unveiled at Apple's WWDC Keynote: The Beginning of an AI Era | TechInsights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-premiere-airtag-accessories-2024-reviews/"><u>Ultimate Guide to the Premiere AirTag Accessories 2024 Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-stealthy-star-how-apples-349-ipad-outshone-others-at-the-exciting-let-loose-showcase-insights/"><u>Unveiling the Stealthy Star: How Apple’s $349 iPad Outshone Others at the Exciting ‘Let Loose’ Showcase - Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlined Content Creation with iOS 18 on iPhone 14, Revealed by ZDNet Experts
-date: 2024-11-10T23:30:46.137Z
-updated: 2024-11-16T03:03:17.143Z
+date: 2024-11-24T16:21:33.432Z
+updated: 2024-11-25T17:48:00.538Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Video scroll bar and playback options
 
 Allison Jewell/ZDNET
@@ -59,16 +63,7 @@ When you do find the perfect take, the editing menu now allows an option to slow
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
@@ -88,10 +83,7 @@ For example, during the Apple launch, my phone was essentially exploding with co
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Filter button
@@ -109,10 +101,7 @@ To narrow content more, you can also filter to favorites, previously edited cont
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Honorable mentions
@@ -123,10 +112,7 @@ And just with one slide up, it resets the filters. If you add the ability to org
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
@@ -189,20 +175,22 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-leveraging-instagram-for-monetary-success/"><u>[New] Leveraging Instagram for Monetary Success</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-mastering-tiktok-streams-top-4-methods-on-pc-for-2024/"><u>[New] Mastering TikTok Streams Top 4 Methods on PC for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-clicker-article-titles-maker/"><u>[Updated] 2024 Approved Top Clicker Article Titles Maker</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-kazam-screen-recorder-review/"><u>2024 Approved Kazam Screen Recorder Review</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/d-the-leading-films-hidden-cinema-treasures-for-2024/"><u>Beyond the Leading Films Hidden Cinema Treasures for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-your-windows-11-search-back-on-track-expert-solutions-inside/"><u>Get Your Windows 11 Search Back on Track – Expert Solutions Inside!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-sanitize-your-televisions-remote-device/"><u>How to Effectively Sanitize Your Television's Remote Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlb-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xlb file document online</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-11-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 15 Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rumors-vs-facts-on-tesla-botataxi-insights-into-pricing-availability-specs/"><u>Rumors Vs. Facts on Tesla Botataxi - Insights Into Pricing, Availability, Specs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-the-windows-recovery-environment-from-your-pc/"><u>Step-by-Step Guide: Removing the Windows Recovery Environment From Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-sending-instant-messages-through-mozilla-thunderbirds-integrated-chat/"><u>The Definitive Guide to Sending Instant Messages Through Mozilla Thunderbird's Integrated Chat</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-mfc42dll-file-cannot-be-found-issues/"><u>Ultimate Guide: Resolving 'MFC42.DLL File Cannot Be Found' Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watch-tiktok-clips-on-a-big-screen-best-methods-and-apps-for-enhanced-viewing/"><u>Watch TikTok Clips on a Big Screen: Best Methods and Apps for Enhanced Viewing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-gopro-hero5-black-vs-garmin-virb-ultra-30-which-better-2022-upda/"><u>[New] 2024 Approved GoPro Hero5 Black VS Garmin VIRB Ultra 30 Which Better? [2022 Upda]</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-instantly-access-fb-videos-on-your-apple-entertainment-center/"><u>[New] In 2024, Instantly Access FB Videos on Your Apple Entertainment Center</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elite-gaming-setup-essentials-revealed-for-2024/"><u>[Updated] Elite Gaming Setup Essentials Revealed for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-taming-zooms-visuals-a-step-by-step-blur-journey/"><u>[Updated] In 2024, Taming Zoom's Visuals A Step-by-Step Blur Journey</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-macs-premier-screen-capture-tools/"><u>[Updated] The Ultimate Guide to Mac's Premier Screen Capture Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-apple-unveils-vision-pro-the-new-era-of-ultimate-digital-entertainment-explore-on-zdnet/"><u>1. Apple Unveils Vision Pro: The New Era of Ultimate Digital Entertainment - Explore on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-what-is-virtual-reality-and-how-does-it-work/"><u>2024 Approved What Is Virtual Reality and How Does It Work?</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-dilemma-of-windows-code-crashes/"><u>Decoding the Dilemma of Windows Code Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-data-handling-in-modern-windows-file-deletion-automation/"><u>Efficient Data Handling in Modern Windows: File Deletion Automation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generate-impressive-corporate-emails-instantly-for-free-discover-how-chatgpt-and-ai-innovation-can-streamline-your-inbox/"><u>Generate Impressive Corporate Emails Instantly for Free - Discover How ChatGPT & AI Innovation Can Streamline Your Inbox</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-15-assessment-top-pick-for-enthusiasts-and-professionals-alike/"><u>IPhone 15 Assessment - Top Pick for Enthusiasts and Professionals Alike!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-iphone-n-charge-rates-with-esrs-new-qi2-magsafe-battery-chargers-the-ultimate-guide-to-faster-heat-free-power-using-cryoboost-technology-9/"><u>Revolutionize Your iPhone N Charge Rates with ESR's New Qi2 MagSafe Battery Chargers: The Ultimate Guide to Faster, Heat-Free Power Using CryoBoost Technology | GadgetInsight</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-discontinue-your-subscription-deactivating-apple-music-without-using-itunes-insights-from-zdnet/"><u>Steps to Discontinue Your Subscription: Deactivating Apple Music Without Using iTunes - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-affordable-alternative-xr-headsets-reviewed-zdnet/"><u>Switching From Apple Vision Pro & Meta Quest 3: Affordable Alternative XR Headsets Reviewed | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-your-workspace-boosting-productivity-with-an-ipad-pro-in-a-home-office-setting/"><u>Transforming Your Workspace: Boosting Productivity with an iPad Pro in a Home Office Setting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secret-to-a-complimentary-macbook-air-m3-at-best-buy-exclusive-guide/"><u>Unlock the Secret to a Complimentary MacBook Air M3 at Best Buy – Exclusive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-studio-excellence-the-revolutionary-audio-capabilities-of-apples-latest-iphone-model-as-reviewed-by-zdnet/"><u>Unlocking Studio Excellence: The Revolutionary Audio Capabilities of Apple's Latest iPhone Model, as Reviewed by ZDNET</u></a></li>
 </ul></div>
 

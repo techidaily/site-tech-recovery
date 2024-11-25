@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2024-11-09T05:40:31.525Z
-updated: 2024-11-15T18:31:13.172Z
+date: 2024-11-22T18:02:07.994Z
+updated: 2024-11-25T16:33:58.121Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -35,6 +39,10 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -55,13 +63,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -78,6 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -91,10 +96,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -122,10 +124,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -155,19 +154,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -224,22 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-building-blocks-to-successful-video-editing-on-windows-8-for-2024/"><u>[New] Building Blocks to Successful Video Editing on Windows 8 for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-t-series-youtube-revenue-an-overview/"><u>[New] In 2024, T-Series YouTube Revenue An Overview</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-interactive-image-merging-for-desktop-enthusiasts-for-2024/"><u>[New] Interactive Image Merging for Desktop Enthusiasts for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-innovating-with-ideas-constructing-your-unique-tiktok-sequence/"><u>[Updated] In 2024, Innovating with Ideas Constructing Your Unique TikTok Sequence</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-a-comprehensive-guide-to-personalizing-video-images/"><u>2024 Approved A Comprehensive Guide to Personalizing Video Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-consumers-speak-the-vllo-narrative/"><u>2024 Approved Consumers Speak The VLLO Narrative</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boosting-your-ps5s-performance-tips-for-consistently-hitting-120-frames-per-second-in-games/"><u>Boosting Your PS5's Performance: Tips for Consistently Hitting 120 Frames Per Second in Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-mozillas-thunderbird-email-client-version-52-now-available/"><u>Download Mozilla's Thunderbird Email Client, Version 52 Now Available</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tial-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android/"><u>Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gmail-shortcuts-revealed-how-to-batch-pick-multiple-emails-at-once/"><u>Gmail Shortcuts Revealed: How to Batch Pick Multiple Emails at Once</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-note-13-proplus-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi Note 13 Pro+ 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-switch-on-and-off-touch-typing-tool-in-your-pcs-operating-system/"><u>How to Switch on and Off Touch Typing Tool in Your PC's Operating System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inviting-friends-into-a-joint-photography-collection-using-iphone/"><u>Inviting Friends Into a Joint Photography Collection Using iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tesla-robotaxi-update-a-closer-look-at-rumored-costs-launch-dates-and-vehicle-specifications/"><u>Tesla Robotaxi Update - A Closer Look at Rumored Costs, Launch Dates, and Vehicle Specifications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-guide-to-setting-up-rules-in-gmail-for-efficient-management/"><u>The Comprehensive Guide to Setting Up Rules in Gmail for Efficient Management</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-expansion-coefficient-is-the-rate-at-which-a-material-expands-or-contracts-in-response-to-temperature-changes-matching-this-closely-with-natural-tooth-s347/"><u>The Expansion Coefficient Is the Rate at Which a Material Expands or Contracts in Response to Temperature Changes. Matching This Closely with Natural Tooth Structure Minimizes Stress and Potential Damage.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-iphones-for-gamers-finding-the-ultimate-mobile-gaming-experience/"><u>Top iPhones for Gamers: Finding the Ultimate Mobile Gaming Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-critical-analysis-of-the-best-free-video-chat-software-suitable-for-businesses-and-educators/"><u>[New] 2024 Approved Critical Analysis of the Best Free Video Chat Software Suitable for Businesses & Educators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-choosing-the-clearer-display-ultrawide-vs-uhd-4k-explored/"><u>[Updated] 2024 Approved Choosing the Clearer Display UltraWide vs UHD 4K Explored</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streamlining-success-strategies-for-daily-vlog-authenticity/"><u>[Updated] 2024 Approved Streamlining Success Strategies for Daily Vlog Authenticity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-twitch-live-reset-guide/"><u>[Updated] 2024 Approved Twitch Live Reset Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-visual-experience-eizos-4k-monitor-reviewed/"><u>[Updated] Ultimate Visual Experience EIZO's 4K Monitor Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-revamp-your-powerpoint-slides-with-latest-versions/"><u>How to Revamp Your PowerPoint Slides with Latest Versions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/hunterio-alternatives-explored-top-19-solutions-for-effective-email-extraction-and-validation-seo-powersuite-insights/"><u>Hunter.io Alternatives Explored: Top 19 Solutions for Effective Email Extraction and Validation | SEO PowerSuite Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-t2x-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo T2x 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-the-challenge-of-cygwin1dll-not-found-mistakes-with-ease/"><u>Overcoming the Challenge of Cygwin1.dll Not Found Mistakes with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secrets-to-getting-your-account-verification-badge-on-formerly-twitter/"><u>Secrets to Getting Your Account Verification Badge on Formerly Twitter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-what-to-do-if-tiktok-is-malfunctioning/"><u>Step-by-Step Solution: What To Do If TikTok Is Malfunctioning?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stepping-into-tomorrow-what-to-expect-from-verizon-5g-networks/"><u>Stepping Into Tomorrow: What to Expect From Verizon 5G Networks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/updates-from-apples-2025-wwdc-latest-innovations-and-headlines/"><u>Updates From Apple's 2025 WWDC: Latest Innovations & Headlines</u></a></li>
 </ul></div>
 

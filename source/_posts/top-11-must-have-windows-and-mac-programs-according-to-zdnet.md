@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & Mac Programs According to ZDNet
-date: 2024-11-12T23:32:12.730Z
-updated: 2024-11-16T03:40:30.462Z
+date: 2024-11-20T17:30:07.407Z
+updated: 2024-11-25T16:07:51.568Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Productivity
 
 Show less 
@@ -49,6 +53,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Tweeten](https://tweetenapp.com/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tweeten
 
@@ -82,13 +90,6 @@ Show less
 
 ## Adobe Acrobat Pro DC
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### From the inventor of the PDF standard
 
 I suppose I could use a free PDF reader, but I spend enough time editing and annotating files saved in this format that the extra capabilities of the full-strength Adobe package (especially editing and annotation tools) are worth the $15 a month I pay. I understand the arguments of those who object to software subscriptions, but the perpetual license version is $449, which seems like something less than a bargain. If you don't need the full feature set, a Standard version costs a few dollars per month less.
@@ -101,7 +102,15 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Quicken Home and Business
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I hate it, but I use it
 
@@ -112,10 +121,7 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Browser and extensions
@@ -125,10 +131,7 @@ Show less
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Edge (Chromium)
@@ -145,21 +148,7 @@ Show less
 
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1Password
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Everyone needs a password manager
 
@@ -173,13 +162,6 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Workona
 
 ### The cleanest way to organize browser tabs
@@ -190,6 +172,10 @@ Because Workona is currently in preview, it's free. After it's officially releas
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Media
 
 Show less 
@@ -199,16 +185,7 @@ Show less
 ## Spotify Music
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
@@ -223,6 +200,10 @@ Show less
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VLC Media Player
 
 ### Free, open source, handles every format imaginable
@@ -234,13 +215,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MediaMonkey
 
@@ -282,22 +256,18 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-vlogger-top-tips-to-enhance-your-tiktok-videos/"><u>[New] From Novice to Vlogger Top Tips to Enhance Your TikTok Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unseen-underpinnings-of-user-interface-craftsmanship/"><u>[New] Unseen Underpinnings of User Interface Craftsmanship</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>[Updated] Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-use-zoom-in-your-daily-gmail-routine/"><u>2024 Approved How to Use Zoom in Your Daily Gmail Routine</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-entertainment-awaits-your-guide-to-8-fantastic-roku-channels/"><u>Free Entertainment Awaits: Your Guide to 8 Fantastic Roku Channels</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-the-latest-geforce-rtx-the-blood-of-olympus-or-blood-of-the-gods-is-a-term-used-in-greek-mythology-to-describe-an-event-that-occurs-when-all-of-the-sons69/"><u>Get the Latest GeForce RTX The '''''Blood of Olympus''''' (Or Blood of the Gods) Is a Term Used in Greek Mythology to Describe an Event that Occurs when All of the Sons and Daughters of Zeus Are Dead: It Signifies the End of the World, or ''Apotheosis''.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-does-pope-francis-manage-digital-messaging-within-the-holy-see/"><u>How Does Pope Francis Manage Digital Messaging Within The Holy See?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/logitech-keyboard-shortcuts-capturing-your-screen-effortlessly/"><u>Logitech Keyboard Shortcuts: Capturing Your Screen Effortlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-how-to-refresh-a-powerpoint-file/"><u>Step-by-Step Instructions on How to Refresh a PowerPoint File</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-causes-of-sluggish-wi-fi-performance-on-mobile-devices/"><u>Top 7 Causes of Sluggish Wi-Fi Performance on Mobile Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/total-privacy-boost-clear-your-browsers-cache-on-any-major-platform-with-simple-steps/"><u>Total Privacy Boost: Clear Your Browser's Cache on Any Major Platform with Simple Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-star-wars-jedi-fallen-order-failure-to-start/"><u>Troubleshooting Steps: Star Wars Jedi: Fallen Order Failure to Start</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-of-snapchats-pictographic-language-the-definitive-emoji-key/"><u>Unraveling the Mystery of Snapchat's Pictographic Language: The Definitive Emoji Key</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultra-compact-chip-based-3d-printer-smaller-than-a-coin-and-no-mechanical-components/"><u>Unveiling the Ultra-Compact Chip-Based 3D Printer – Smaller than a Coin & No Mechanical Components</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-in-this-article-we-are-going-to-take-you-through-some-of-the-best-8k-video-editing-software-products-on-the-market-and-help-you-select-the-a/"><u>Updated In 2024, In This Article, We Are Going to Take You Through some of the Best 8K Video Editing Software Products on the Market and Help You Select the App that Can Cater to All of Your Video Editing Needs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/upgrade-your-wi-fi-coverage-with-the-netgear-nighthawk-x6s-range-extender/"><u>Upgrade Your Wi-Fi Coverage with the Netgear Nighthawk X6S Range Extender</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-are-memes-and-how-do-they-spread-online/"><u>What Are Memes and How Do They Spread Online?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essential-checklist-for-full-facebook-messaging-archives/"><u>[Updated] 2024 Approved The Essential Checklist for Full Facebook Messaging Archives</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-innovative-10-plugin-upgrades-for-fcp-users-for-2024/"><u>[Updated] Innovative 10 Plugin Upgrades for FCP Users for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-advanced-pixlr-editing-hacks-for-stunning-photos-for-2024/"><u>10 Advanced Pixlr Editing Hacks for Stunning Photos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquer-common-facetime-errors-a-step-by-step-guide-to-resolving-unexpected-black-screens/"><u>Conquer Common FaceTime Errors: A Step-by-Step Guide to Resolving Unexpected Black Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-your-feed-crafting-engaging-instagram-videos-for-2024/"><u>Elevate Your Feed Crafting Engaging Instagram Videos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-fixes-for-when-your-mozilla-thunderbird-email-client-wont-open-correctly/"><u>Essential Fixes for When Your Mozilla Thunderbird Email Client Won't Open Correctly</u></a></li>
+<li><a href="https://win-unique.techidaily.com/free-material-design-kit-for-react-harnessing-the-power-of-material-ui-from-creative-tim/"><u>Free Material Design Kit for React: Harnessing the Power of Material-UI From Creative Tim</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-sony-xperia-1-v-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Sony Xperia 1 V FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-x50i-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor X50i Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/periscope-recording-for-beginners-a-complete-walkthrough-for-2024/"><u>Periscope Recording for Beginners A Complete Walkthrough for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-msidll-file-not-found-issue-step-by-step-troubleshooting-guide/"><u>Resolving the msi.dll File Not Found Issue: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-monitoring-and-managing-your-internet-data-consumption/"><u>Step-by-Step Guide: Monitoring and Managing Your Internet Data Consumption</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-iphone-email-clients-of-2024-our-recommended-picks/"><u>Top 5 iPhone Email Clients of 2024: Our Recommended Picks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Transformative Experience with Apple Vision Pro: Enthralling Yet Exhausting - A Review of a Classic TV Series"
-date: 2024-11-12T08:33:10.301Z
-updated: 2024-11-16T04:39:34.326Z
+date: 2024-11-21T17:13:40.791Z
+updated: 2024-11-25T16:54:50.819Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ I've been wanting to rewatch the entire four seasons of _For All Mankind_, the a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Apple TV+ on the Vision Pro
 
 The Apple TV+ app provides a couple of viewing options on the Vision Pro. The first is just a window in passthrough mode, where you see the show floating in space, with whatever your room is as a backdrop. That didn't interest me at all. I wanted full immersion. 
@@ -80,23 +84,9 @@ It wasn't distracting enough for me to stop the show, but it was one of those an
 
 And yet, watching the show was incredible in that environment. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The reality of virtual reality
 
 But it wasn't all vintage 1969 Corvette Stingrays and Apollo 11\. There were some problems. The first was audio… 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. AirPods ala mode
 
@@ -138,6 +128,10 @@ I made sure to close and blink my eyes throughout the viewing experience, but by
 
 To alleviate the itching, I stopped the video a few times, loosened the headset, and scratch it. That's a bit of an immersion killer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. No coffee for you
 
 Did you know you can't drink inside a Vision Pro? To be fair, you also can't drink inside of a Meta Quest 3\. Basically, you can't tip the cup without it hitting the headset. 
@@ -148,6 +142,10 @@ I wound up drinking my coffee through a straw, but that was also a bit of a prob
 
 After trying this once, I waited until the times I needed to scratch itches to take sips. Not ideal. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Jumpy-jump, flail, flail
 
 There's supposed to be a people detection feature in the Vision Pro that opens a bit of a portal if someone walks up to you and stands in front of you. But when my wife reached across the couch with an insistent tap, there was no such warning. 
@@ -156,6 +154,10 @@ It wasn't as much that it was startling. It was more that it took some coordinat
 
 I'm sure it looked ridiculous to her, and I know it was somewhat stressful to me. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Oh, my furrowed brow
 
 I did notice brow pain while watching, but the entertainment experience was so enthralling that I put up with it. After finishing the show and safely stowing the Vision Pro, I noticed that my brow, where the Vision Pro apparently transferred most of its pressure, really hurt. 
@@ -163,10 +165,7 @@ I did notice brow pain while watching, but the entertainment experience was so e
 To be fair, it's not a terrible level of hurt, like when you stub your toe. But it's painful enough that it's worth remarking about. The pain went away after about ten minutes. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. In VR, nobody can hear you stream
@@ -174,13 +173,6 @@ To be fair, it's not a terrible level of hurt, like when you stub your toe. But 
 I can confirm the sense of isolation some [Vision Pro reviewers have reported](https://www.zdnet.com/article/i-tried-apple-vision-pro-for-a-weekend-and-here-are-my-3-biggest-takeaways/#:~:text=3.%20It%27s%20lonely%20in%20the%20spatial%20computing%20world). To be fair, I was purposely going for the isolation, because I didn't want to be involved in my wife's Zoom meeting. 
 
 But when my pup came over, I could feel him and pet him, but he couldn't look at my face and I couldn't see him. It wasn't a terrible moment, because he has prodigious lap-sitting skills, but I wanted to look back at his little face and couldn't. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Is it worth it?
 
@@ -236,19 +228,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-hidden-media-strategies-for-displaying-on-your-timeline/"><u>2024 Approved Hidden Media Strategies for Displaying on Your Timeline</u></a></li>
-<li><a href="https://win-forum.techidaily.com/activating-wol-technology-in-windows-10-and-windows-11-a-comprehensive-guide/"><u>Activating WOL Technology in Windows 10 and Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/challenging-bots-clauses-quest-versus-gpt-task-mastery/"><u>Challenging Bots: Clause's Quest Versus GPT Task Mastery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/coming-soon-anticipated-features-and-pricing-details-for-the-upcoming-google-pixel-smartwatch-release-dates-and-speculations/"><u>Coming Soon? Anticipated Features & Pricing Details for the Upcoming Google Pixel Smartwatch - Release Dates and Speculations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-retrieving-deleted-texts-across-all-mobile-devices/"><u>Guide: Retrieving Deleted Texts Across All Mobile Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-x100-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo X100 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/netflix-ui-800-3-glitch-heres-how-you-can-resolve-it-easily/"><u>Netflix UI-800-3 Glitch? Here's How You Can Resolve It Easily!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-multi-device-syncing-of-your-icloud-gallery-on-ios-pcs-and-android/"><u>Seamless Multi-Device Syncing of Your iCloud Gallery on iOS, PCs & Android</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/secrets-of-smooth-transfer-mcc-files-uploaded-on-vimeo-for-2024/"><u>Secrets of Smooth Transfer MCC Files Uploaded on Vimeo for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-a-hidden-wi-fi-signal-tips-and-techniques/"><u>Troubleshooting a Hidden Wi-Fi Signal: Tips & Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-black-ops-cold-war-overcome-the-errorcode-0xc0000005-issue-now/"><u>Troubleshooting Black Ops Cold War: Overcome the ERROR_CODE 0xC0000005 Issue Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-effective-ways-to-download-the-epson-xp-830-printer-driver/"><u>Troubleshooting Tips: Effective Ways to Download the Epson XP-830 Printer Driver</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/unveiling-the-secrets-a-guide-to-7-exceptional-transition-audio-files-complimentary/"><u>Unveiling the Secrets A Guide to 7 Exceptional Transition Audio Files (Complimentary)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>[New] 2024 Approved Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-search-comments-on-youtube-quickly/"><u>[New] 2024 Approved How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-perfecting-npc-details-with-zoom-in-on-roblox-for-2024/"><u>[New] Perfecting NPC Details with Zoom In on Roblox for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5-essential-tools-and-platforms-crucial-for-successful-twitch-broadcasting/"><u>5 Essential Tools and Platforms Crucial for Successful Twitch Broadcasting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-solutions-for-overcoming-windows-1110-troubleshooting-challenges-and-errors/"><u>Effective Solutions for Overcoming Windows 11/10 Troubleshooting Challenges and Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/every-game-for-the-new-playstation-vr2-a-comprehensive-listing/"><u>Every Game for the New PlayStation VR2: A Comprehensive Listing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-11-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 11 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-comctl32dll-file-absent-step-by-step-guide/"><u>Resolving 'Comctl32.dll' File Absent - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-a-blue-tick-on-x-essential-steps-for-account-verification/"><u>Securing a Blue Tick on X: Essential Steps for Account Verification</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resetting-and-securing-your-new-x-account-password/"><u>Ultimate Guide: Resetting and Securing Your New X Account Password</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-updating-your-razer-blade-17-graphics-and-system-drivers-on-windows-11-10-8-or-n/"><u>Ultimate Guide: Updating Your Razer Blade 17 Graphics & System Drivers on Windows 11, 10, 8, or N</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unblocking-techniques-reaching-out-to-unknown-numbers/"><u>Unblocking Techniques: Reaching Out to Unknown Numbers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-concept-of-wi-fi-calls-on-your-smartphone/"><u>Unraveling the Concept of Wi-Fi Calls on Your Smartphone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-add-audio-to-video-in-android-for-2024/"><u>Updated How to Add Audio to Video in Android for 2024</u></a></li>
 </ul></div>
 

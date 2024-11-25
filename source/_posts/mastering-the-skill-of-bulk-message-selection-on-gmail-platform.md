@@ -1,7 +1,7 @@
 ---
 title: Mastering the Skill of Bulk Message Selection on Gmail Platform
-date: 2024-08-30T16:27:46.990Z
-updated: 2024-08-31T16:27:46.990Z
+date: 2024-11-21T17:36:19.903Z
+updated: 2024-11-25T17:59:19.561Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Skill of Bulk Message Selection on Gmail Platform
@@ -25,6 +25,10 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -37,8 +41,9 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -47,8 +52,9 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -57,14 +63,15 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -77,9 +84,6 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -100,6 +104,10 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -112,9 +120,6 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -123,9 +128,6 @@ thumbnail: https://www.lifewire.com/thmb/eui4WJ6YRUOFT3yFenMG8CwUrKI=/400x300/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -146,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +155,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-ideas-that-make-your-meme-go-global/"><u>[New] Ideas That Make Your Meme Go Global</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-navigating-the-world-of-zooms-camera-snapping-easily/"><u>[Updated] Navigating the World of Zoom's Camera Snapping Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-streamline-your-virtual-sessions-with-these-top-10-tools/"><u>2024 Approved Streamline Your Virtual Sessions with These Top 10 Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dive-into-marvel-world-with-apple-vision-pro-starting-may-30th-discover-how/"><u>Dive Into Marvel World with Apple Vision Pro, Starting May 30Th – Discover How!</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-record-your-iphone-conversations-with-ios-18-no-more-third-party-dependence-exploration/"><u>How to Record Your iPhone Conversations with iOS 18, No More Third-Party Dependence Exploration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-secret-to-imovies-edge-cropping/"><u>In 2024, The Secret to iMovie’s Edge Cropping</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-your-image-transformation-with-complete-facetune-guide-for-2024/"><u>Master Your Image Transformation with Complete Facetune Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-apple-vision-pro-ultimate-guide-to-flawless-screen-captures-and-recording-techniques-zdnet/"><u>Mastering Apple Vision Pro: Ultimate Guide to Flawless Screen Captures & Recording Techniques | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-multiple-network-profiles-on-macos-a-step-by-step-guide/"><u>Mastering Multiple Network Profiles on macOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavis-no-cost-solution-how-to-change-mp4-audio-m4a-to-vob-video-online-easily/"><u>Movavi's No-Cost Solution: How to Change MP4 Audio (M4A) to VOB Video Online Easily</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/d-the-best-7-android-adblockers-for-screen-freedom/"><u>Ranked The Best 7 Android AdBlockers for Screen Freedom</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-of-portable-charging-with-a-20-anker-power-bank-expert-review/"><u>Solving the Dilemma of Portable Charging with a $20 Anker Power Bank | Expert Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-kid-friendly-smartphones-a-guide/"><u>Top Kid-Friendly Smartphones: A Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-deal-of-a-lifetime-99-apple-watch-series-10-preorders-only-at-best-buy-a-complete-tutorial-zdnet/"><u>Unlock the Deal of a Lifetime: $99 Apple Watch Series 10 Preorders Only at Best Buy - A Complete Tutorial | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/vision-pro-eyewear-could-get-breath-analysis-tool-from-apple-sources-say-digitalinsightszdnet/"><u>Vision Pro Eyewear Could Get Breath Analysis Tool From Apple, Sources Say | DigitalInsightsZDNet</u></a></li>
+</ul></div>
 

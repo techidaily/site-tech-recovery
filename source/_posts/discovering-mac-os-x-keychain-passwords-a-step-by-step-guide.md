@@ -1,7 +1,7 @@
 ---
 title: "Discovering Mac OS X Keychain Passwords: A Step-by-Step Guide"
-date: 2024-11-12T08:23:07.500Z
-updated: 2024-11-15T21:41:56.321Z
+date: 2024-11-23T18:31:35.141Z
+updated: 2024-11-25T16:01:42.513Z
 tags:
   - apple
 categories:
@@ -18,9 +18,17 @@ I will start this out by reminding everyone that you should be using a password 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
 
@@ -31,10 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -48,10 +53,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -69,16 +71,7 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -88,13 +81,6 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -127,18 +113,22 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-pureimagezone-premium-tool-to-remove-backgrounds-for-2024/"><u>[New] PureImageZone Premium Tool to Remove Backgrounds for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-art-of-changing-igtv-video-covers-for-2024/"><u>[New] The Art of Changing IGTV Video Covers for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-filmmaking-made-easy-pc-mac-and-smartphone-techniques/"><u>[Updated] Filmmaking Made Easy PC, Mac & Smartphone Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-finest-html5-video-tools-for-content-creators/"><u>2024 Approved The Finest HTML5 Video Tools for Content Creators</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/handling-normalizdll-absence-effective-techniques-for-restoration-and-recovery/"><u>Handling Normaliz.dll Absence: Effective Techniques for Restoration and Recovery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-codegpt-work-and-its-potential-to-transform-coding/"><u>How Does CodeGPT Work, And Its Potential to Transform Coding?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-prevent-automatic-song-playback-in-apple-music/"><u>How to Prevent Automatic Song Playback in Apple Music</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-crimson-crash-simple-solutions-for-red-screen-troubleshooting/"><u>Overcome the Crimson Crash: Simple Solutions for Red Screen Troubleshooting</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-silent-notification-problem-on-your-iphone/"><u>Resolving the Silent Notification Problem on Your iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamlined-control-setting-up-and-using-remote-assistance-for-your-samsung-tv/"><u>Streamlined Control: Setting Up and Using Remote Assistance for Your Samsung TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamlined-entertainment-a-deep-dive-into-streaming-devices/"><u>Streamlined Entertainment: A Deep Dive Into Streaming Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-secretly-hidden-apps-on-your-iphone-a-comprehensive-guide/"><u>Unlocking Secretly Hidden Apps on Your iPhone – A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-next-level-video-top-webcam-filters-for-flawless-broadcasts/"><u>[New] 2024 Approved Next Level Video Top Webcam Filters for Flawless Broadcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-next-level-android-for-3d-video-enthusiasts/"><u>[New] In 2024, Next-Level Android for 3D Video Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-optimizing-recording-quality-tips-and-tricks-for-ps3-gamers/"><u>2024 Approved Optimizing Recording Quality Tips and Tricks for PS3 Gamers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/avoiding-common-pitfalls-using-movie-maker-on-windows-8/"><u>Avoiding Common Pitfalls Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-entertainment-options-adding-apps-to-your-samsung-smart-tv-easily/"><u>Boost Your Entertainment Options: Adding Apps to Your Samsung Smart TV Easily</u></a></li>
+<li><a href="https://win-best.techidaily.com/detaillierte-anleitung-zum-austausch-der-ssd-im-hp-pavilion-x360-sicher-bleiben-sie-dabei-ungeschuttelt/"><u>Detaillierte Anleitung Zum Austausch Der SSD Im HP Pavilion X360 - Sicher Bleiben Sie Dabei Ungeschüttelt</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-superior-graphic-design-applications-ranking-the-best-17-options/"><u>Discover Superior Graphic Design Applications: Ranking the Best 17 Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-missing-dependencies-in-windows-applications/"><u>How To Correctly Handle Missing Dependencies in Windows Applications</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-y02t-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo Y02T FRP Locks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-y27-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo Y27 5G Is Unlocked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-resetting-browse-data-in-top-web-browsers-today/"><u>Master the Art of Resetting Browse Data in Top Web Browsers Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-oleaut32dll-file-missing-issue-a-comprehensive-guide/"><u>Resolving the OleAut32.dll File Missing Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-haldll-file-absence-on-windows-xp/"><u>Step-by-Step Guide: Correcting Hal.dll File Absence on Windows XP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-troubleshooting-resolve-xlivedll-is-missing-issues/"><u>Step-by-Step Troubleshooting: Resolve 'xlive.dll Is Missing' Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-secure-amd-ryzen-5-2600-driver-software-with-ease/"><u>Step-by-Step: Secure AMD Ryzen 5 2600 Driver Software with Ease</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-f15-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy F15 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-amazon-prime-captions-a-guide-to-solving-non-functional-subtitles/"><u>Troubleshooting Amazon Prime Captions: A Guide to Solving Non-Functional Subtitles</u></a></li>
 </ul></div>
 

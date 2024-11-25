@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2024-11-09T05:05:48.278Z
-updated: 2024-11-16T02:04:46.436Z
+date: 2024-11-23T16:25:14.882Z
+updated: 2024-11-25T17:08:49.082Z
 tags:
   - apple
 categories:
@@ -28,13 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -64,6 +62,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -71,10 +73,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -90,13 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,19 +126,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/acs-top-mp4-cutters-for-youtube-success-for-2024/"><u>[New] Mac's Top MP4 Cutters for YouTube Success for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-review-of-picsart-app-a-step-by-step-guide/"><u>[Updated] Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-7-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 7 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-fixing-missing-mfc42dll-error-messages/"><u>Comprehensive Guide to Fixing Missing mfc42.dll Error Messages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cultivating-daily-zen-with-ai-your-guide-to-using-chatgpt-for-meditation-practices/"><u>Cultivating Daily Zen with AI: Your Guide to Using ChatGPT for Meditation Practices</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cultural-syntax-in-speech-brazilians-and-europeans/"><u>Cultural Syntax in Speech: Brazilians & Europeans</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-techniques-to-address-chatgpt-moderation-issues/"><u>Effective Techniques to Address ChatGPT Moderation Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-the-thrill-of-march-madness-and-final-four-with-our-live-mens-ncaa-radio-coverage/"><u>Experience the Thrill of March Madness & Final Four with Our Live Men's NCAA Radio Coverage!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a1-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A1 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-setup-process-accessing-gmail-emails-from-iphone-to-apple-watch/"><u>Navigating the Setup Process: Accessing Gmail Emails From iPhone to Apple Watch</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95688930-9781440534676-prosperity-spells/"><u>Prosperity Spells | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-for-failed-windows-10-may-2019-version-updates/"><u>Resolved: Troubleshooting Steps for Failed Windows 10 May 2019 Version Updates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-trick-for-removing-temporary-files-from-your-android-phone-or-tablet/"><u>The Ultimate Trick for Removing Temporary Files From Your Android Phone or Tablet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-youtube-policies-limits-on-number-of-your-channels/"><u>Understanding YouTube Policies: Limits On Number Of Your Channels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-comprehensive-guide-your-shorts-hidden-thumbnails-for-2024/"><u>[New] Comprehensive Guide Your Shorts' Hidden Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-perfect-blend-of-creativity-and-data-for-title-genius-for-2024/"><u>[New] The Perfect Blend of Creativity & Data for Title Genius for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-visionary-artists-top-5-innovative-photographers-plus-videographers-w-music/"><u>[New] Visionary Artists Top 5 Innovative Photographers + Videographers W/ Music</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-the-screen-metaverse-vs-omniverse-dissected/"><u>[Updated] Beyond the Screen Metaverse Vs. Omniverse Dissected</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-crafting-a-new-digital-persona-comprehensible-steps-for-changing-tiktok-handle/"><u>2024 Approved Crafting a New Digital Persona Comprehensible Steps for Changing TikTok Handle</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/debunking-greenwashing-how-eco-friendly-are-electric-autos-in-reality/"><u>Debunking Greenwashing: How Eco-Friendly Are Electric Autos in Reality?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-chromecast-sound-problems-a-comprehensive-guide-for-users/"><u>Fixing Chromecast Sound Problems: A Comprehensive Guide for Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-alternative-cinema-choices-for-every-fan/"><u>In 2024, Alternative Cinema Choices for Every Fan</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-d3dx933dll-file-not-found-a-step-by-step-guide/"><u>Solving d3dx9_33.dll File Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-for-linking-a-samsung-blu-ray-remote-controller-to-hdtvs/"><u>Ultimate Troubleshooting Tips for Linking a Samsung Blu-Ray Remote Controller to HDTVs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-page-not-found-mistake-a-comprehensive-guide/"><u>Understanding the 'Page Not Found' Mistake: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-virtual-matrix-current-landscape-and-future-challenges/"><u>Unveiling the Virtual Matrix Current Landscape & Future Challenges</u></a></li>
 </ul></div>
 

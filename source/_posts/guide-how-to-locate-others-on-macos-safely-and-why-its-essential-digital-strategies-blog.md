@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog"
-date: 2024-11-12T02:48:49.967Z
-updated: 2024-11-15T23:16:20.678Z
+date: 2024-11-19T17:22:48.648Z
+updated: 2024-11-25T16:36:26.645Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -36,10 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,16 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,14 +129,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>[New] The Definitive Guide to iPhones How to Grab Podcast Episodes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-8-alternative-messaging-platforms/"><u>Discover the Best 8 Alternative Messaging Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-cutting-edge-asus-expertbook-p5-with-intel-core-i7-and-lunar-lake-technology-inside/"><u>Discover the Cutting-Edge ASUS ExpertBook P5 with Intel Core I7 and Lunar Lake Technology Inside</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/effortlessly-stop-bluestacks-from-crashing-follow-these-5-remedial-actions/"><u>Effortlessly Stop BlueStacks From Crashing: Follow These 5 Remedial Actions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-education-with-these-9-must-have-tech-tools-for-students/"><u>Elevate Your Education with These 9 Must-Have Tech Tools for Students</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-physxloaderdll-is-missing-or-not-found-errors/"><u>How to Fix Physxloader.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2023-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2023 files</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/no-need-for-a-previous-copy-expert-guide-on-retrieving-iphone-information-without-backups/"><u>No Need for a Previous Copy: Expert Guide on Retrieving iPhone Information Without Backups</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unified-contact-points-how-to-keep-one-phone-number-on-various-devices/"><u>Unified Contact Points: How to Keep One Phone Number on Various Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stop-the-mist-secrets-to-a-clean-gopro-shot/"><u>[New] Stop the Mist Secrets to a Clean GoPro Shot</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-compre-written-in-the-stars-harnessing-hidden-opportunities-for-insta-sponsorships-for-2024/"><u>[New] The Compre Written in the Stars Harnessing Hidden Opportunities for Insta-Sponsorships for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-strategies-for-maximizing-video-impact-while-staying-in-cc-zone/"><u>[Updated] Strategies for Maximizing Video Impact While Staying in CC Zone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/childhood-dreams-in-action-with-the-holy-stone-rc-car-collection-a-review-of-toys-that-spark-joy-and-competition/"><u>Childhood Dreams in Action with the Holy Stone RC Car Collection - A Review of Toys that Spark Joy and Competition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-buzz-insightful-analysis-of-anticipated-prices-and-technical-specs-for-teslas-imminent-robotic-marvel/"><u>Decoding the Buzz: Insightful Analysis of Anticipated Prices and Technical Specs for Tesla's Imminent Robotic Marvel</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-3-dimensional-entertainment-your-guide-to-watch-movies-at-home-via-fandango-platform/"><u>Exploring 3-Dimensional Entertainment: Your Guide to Watch Movies at Home via Fandango Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-key-differences-mac-vs-pc-comparison-explained/"><u>Exploring Key Differences: Mac Vs. PC Comparison Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-nintendo-switch-starter-kit-whats-inside/"><u>Exploring the Nintendo Switch Starter Kit – What's Inside?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-outdated-or-corrupted-graphics-drivers-can-cause-minecraft-to-crash-on-your-windows-pc-and-how-to-fix-it/"><u>How Outdated or Corrupted Graphics Drivers Can Cause Minecraft to Crash on Your Windows PC – and How to Fix It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-not-working-fix-it-now-expert-advice-for-roku-users/"><u>Netflix Not Working? Fix It Now - Expert Advice for Roku Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-videopad-video-editor-is-it-worth-the-investment-a-detailed-review/"><u>New Videopad Video Editor Is It Worth the Investment? A Detailed Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-essential-homework-helpers-for-students-and-parents-best-apps-reviewed/"><u>Top 6 Essential Homework Helpers for Students & Parents: Best Apps Reviewed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-ipad-mouse-compatible-options/"><u>Top-Rated iPad Mouse Compatible Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-the-finest-75-inch-tvs-of-2024-thoroughly-tested-and-reviewed-by-industry-pros-screenselect/"><u>Ultimate Guide to the Finest 75-Inch TVs of 2024 - Thoroughly Tested & Reviewed by Industry Pros | ScreenSelect</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-syncing-your-fire-stick-controller-perfectly/"><u>Ultimate Guide: Syncing Your Fire Stick Controller Perfectly</u></a></li>
 </ul></div>
 

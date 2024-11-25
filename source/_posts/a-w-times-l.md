@@ -1,7 +1,7 @@
 ---
 title: \\[A = W \\Times L \\
-date: 2024-11-09T17:21:00.969Z
-updated: 2024-11-16T02:52:08.972Z
+date: 2024-11-18T17:53:57.238Z
+updated: 2024-11-25T16:30:14.584Z
 tags:
   - apple
 categories:
@@ -46,20 +46,10 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the Google Pixel 6 Pro if…
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
 
@@ -68,6 +58,10 @@ The Google Pixel has always been known for its exceptional computational photogr
 One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows users to capture a clear photo of a moving object, something you'd typically need a tripod for. Motion Mode includes an Action Pan option to dial up the shutter speed and capture fast-moving subjects like cars and subways. There's also a Long Exposure option that, like Action Pan, adds a creative blur to the background for a "Pro" look and feel. 
 
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You want a bigger battery
 
@@ -87,14 +81,11 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 13 Pro if...
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You want cinematic camera features
 
@@ -108,6 +99,10 @@ The iPhone 13 Pro also features new photographic styles. Different from your typ
 
 Lastly, Cinematic Mode shoots videos with a soft, out-of-focus background so that the subject of interest and the depth map are kept separate. With AI processing, the focus can intelligently shift when the subject turns around and his or her back is then facing the camera. Overall, the special mode gives a more movie-like quality to your iPhone videos 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You own other Apple products (AirPods, Apple Watch, iPad, MacBook, etc.)
 
 There's a reason for Apple's cult following and customer loyalty. Its products have always followed a "strength in numbers" philosophy, enhancing existing services when more than one device is integrated. This interlocking of hardware and software is best described as Apple's walled garden, making it difficult for users to switch out once they're invested. 
@@ -117,16 +112,7 @@ While not an actual product, the Apple ecosystem is still very much part of the 
 Image: Apple
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
@@ -167,24 +153,20 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-etiology-of-fetal-alcohol-syndrome-for-2024/"><u>[New] Etiology of Fetal Alcohol Syndrome for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-optimize-capture-smooth-screenshots-with-dell-models/"><u>[New] Optimize Capture Smooth Screenshots with Dell Models</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unshakeable-video-quality-best-stabilizers/"><u>[Updated] 2024 Approved Unshakeable Video Quality - Best Stabilizers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-massive-audience-on-youtube-in-minutes-2-ways/"><u>[Updated] In 2024, Gain Massive Audience on YouTube in Minutes (2 Ways)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-8-in-virtual-reality-gaming/"><u>2024 Approved The Essential 8 in Virtual Reality Gaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/block-anonymous-calls-on-your-iphone-protect-your-privacy-with-this-simple-guide/"><u>Block Anonymous Calls on Your iPhone: Protect Your Privacy with This Simple Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-brand-with-a-trust-signal-how-to-obtain-an-instagram-verification-status/"><u>Boost Your Brand with a Trust Signal: How to Obtain an Instagram Verification Status</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/browsing-made-memorable-the-leading-screen-recorder-software/"><u>Browsing Made Memorable The Leading Screen Recorder Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-guide-automate-your-tweets-with-smart-scheduling-techniques/"><u>Easy Guide: Automate Your Tweets with Smart Scheduling Techniques</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209956370-9781989838105-guided-meditations-for-anxiety-depression-and-self-healing/"><u>Guided Meditations for Anxiety, Depression, and Self-Healing | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-properly-wipe-down-a-tv-remote-a-comprehensive-guide/"><u>How to Properly Wipe Down a TV Remote - A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-building-a-stronger-presence-with-effective-youtube-pairings/"><u>In 2024, Building a Stronger Presence with Effective YouTube Pairings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/meta-quest-3-unveiled-comprehensive-insights-on-news-pricing-release-date-and-technical-specifications/"><u>Meta Quest 3 Unveiled - Comprehensive Insights on News, Pricing, Release Date and Technical Specifications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protect-your-gmail-account-with-easy-steps-to-turn-on-two-step-verification/"><u>Protect Your Gmail Account with Easy Steps to Turn On Two-Step Verification</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207832660-tackling-windows-troubles-heres-how-you-can-resolve-error-0x8024402c-on-your-pc/"><u>Tackling Windows Troubles? Here's How You Can Resolve Error 0X8024402C on Your PC!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722900906141-troubleshooting-quiet-moments-resolve-iphones-no-ringtone-issue-easily/"><u>Troubleshooting Quiet Moments: Resolve iPhone's No-Ringtone Issue Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-boosting-your-laptop-speed-in-7-easy-steps/"><u>Ultimate Guide: Boosting Your Laptop Speed in 7 Easy Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-immersive-soundscapes-with-dts-virtualx-technology/"><u>Unlocking Immersive Soundscapes with DTS Virtual:X Technology</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210807602-9781957869131-women-and-psychedelics/"><u>Women and Psychedelics | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-20-anime-opening-anthems/"><u>[New] Excellent 20 Anime Opening Anthems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-techniques-for-high-quality-android-recordings-for-2024/"><u>[New] Expert Techniques for High-Quality Android Recordings for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-demanding-high-standards-is-aurora-up-to-par/"><u>[New] In 2024, Demanding High Standards Is Aurora Up to Par?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-accuracy-audit-a-vll-driven-review/"><u>2024 Approved Accuracy Audit A VLL-Driven Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-speed-with-these-12-beloved-free-typing-courses-for-everyone-any-age/"><u>Boost Your Speed With These 12 Beloved Free Typing Courses for Everyone, Any Age</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-perfect-smartphone-iphone-or-android-which-fits-your-needs-better/"><u>Choosing Your Perfect Smartphone: IPhone or Android – Which Fits Your Needs Better?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175714264-explore-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Explore Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900848326-explore-the-coolest-free-windows-11-skins-and-themes-available-now/"><u>Explore the Coolest FREE Windows 11 Skins and Themes Available Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-correctly-handling-openal32dll-is-not-present-system-messages/"><u>Guide: Correctly Handling 'OpenAL32.dll Is Not Present' System Messages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-image-retrieval-on-pexels-a-step-by-step-guide/"><u>In 2024, Mastering Image Retrieval on Pexels A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-realme-gt-3-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Realme GT 3 Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimize-your-slumber-experience-our-favorite-5-apple-watch-applications-for-sound-sleep/"><u>Optimize Your Slumber Experience - Our Favorite 5 Apple Watch Applications for Sound Sleep</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/optimizing-obs-studio-5-editing-game-changers/"><u>Optimizing OBS Studio 5 Editing Game Changers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/order-matters-how-to-experience-the-full-storyline-of-the-iconic-superman-movies/"><u>Order Matters: How to Experience the Full Storyline of the Iconic 'Superman' Movies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-the-best-free-streaming-services-for-music-on-both-android-and-ios-phones/"><u>Uncover the Best Free Streaming Services for Music on Both Android and iOS Phones</u></a></li>
 </ul></div>
 
