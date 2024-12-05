@@ -1,7 +1,7 @@
 ---
 title: "Upgrading From iPhone 13 to iPhone 14: Will My Case Still Fit? Expert Insights by ZDNET"
-date: 2024-11-15T04:40:24.208Z
-updated: 2024-11-15T17:39:18.707Z
+date: 2024-12-03T02:06:26.030Z
+updated: 2024-12-04T19:38:17.655Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ Every time Apple adds a new line of products it also seems to add on new accesso
 
 Long answer short, for the regular-size model, you don't have to switch out your iPhone 13 case if you're getting an iPhone 14\. Yes, your current case will work with the iPhone 14, so you can save the hassle and your money if you already have an [iPhone 13](https://www.zdnet.com/product/apple-iphone-13/) with a case. Don't let the ads and the slight change in dimensions fool you. Here's the breakdown of those dimensions so you can see for yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does an iPhone 13 case fit on an iPhone 14?
 
 Yes. Despite their **0.01**\-**inch** difference in depth, both the iPhone 13 and iPhone 14 have a **6.1-inch display screen**, are **5.78 inches high**, and are **2.82 inches wide.** That difference is not enough to make it necessary to invest in an entirely new case (though of course you can if you want to). If you look on Amazon, you'll see cases that are listed as compatible with both the iPhone 13 and iPhone 14\. [This](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCASEKOO-iPhone-13-Protection-Shockproof%2Fdp%2FB0967K2MWY%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3DV0U5JLZKTZDZ%26keywords%3Diphone%2B13%2Bcase%26qid%3D1662666716%26s%3Delectronics%26sprefix%3Diphone%2B13%2Bcase%2Celectronics%2C363%26sr%3D1-1-spons%26smid%3DA2WI2R6H3U1YSA%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3f77d920-3910-40a0-af07-619bdd6ff42f%7Cdtp&dtb=1) case, for example, fits either.
@@ -49,6 +42,10 @@ The iPhone 13 next to the iPhone 14.
 
 Image: Apple
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What about an iPhone 13 Pro case on an iPhone 14 Pro?
 
 Unfortunately, when it comes to the [iPhone 14 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-14-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), you do need a new case. The iPhone 14 Pro is 0.03 inch higher (at 5.81 inches) than the iPhone 13 Pro, subtracts 0.01 inch from the width (to reach 2.81 inches) and adds 0.01 inch to the depth (now 0.31 inch). The iPhone 14 Pro also adds a new camera, making the lenses and overall camera area bigger, so your 13 Pro case would conflict with the camera bump of the 14 Pro.
@@ -56,6 +53,10 @@ Unfortunately, when it comes to the [iPhone 14 Pro](https://apple.sjv.io/c/15904
 Click [here](https://www.apple.com/iphone-14-pro/specs/) to see the exact dimensions of the iPhone 14 Pro models.
 
 **Also:** [**iPhone 13 Pro vs. iPhone 14 Pro: Is it worth the upgrade?**](https://www.zdnet.com/article/iphone-14-pro-vs-iphone-13-pro/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What about the iPhone 13 Pro Max and iPhone 14 Pro Max?
 
@@ -68,10 +69,7 @@ Click [here](https://www.apple.com/iphone-14-pro/specs/) to see the exact dimens
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will my iPhone 13 case fit the iPhone 14 phone?
@@ -79,10 +77,7 @@ Jason Hiner/ZDNET
 Yes. The cases are interchangeable thanks to the slightest of differences in depth only between the iPhone 13's and iPhone 14's dimensions. Merchants such as Amazon are already selling cases that are advertised for "iPhone 13 or 14." For the Pro and Pro Max models, though, you do need to get a new case due to the addition of a new camera lens and the bigger dimensions of the sensors overall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does the iPhone 14 have a Lightning cable or a USB-C port?
@@ -90,10 +85,7 @@ Yes. The cases are interchangeable thanks to the slightest of differences in dep
 The rumors of the iPhone 14 charging completely wirelessly are not true. All models of iPhone's newest generation will continue to use Lightning to charge. So you will not have to invest in a new charger if you already have an iPhone 5 or later.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does Apple sell MagSafe cases for iPhone 14?
@@ -132,17 +124,20 @@ Yes. Along with its regular repertoire of cases, Apple does sell MagSafe cases f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-premium-viewer-ultimate-video-quality-on-pcmobile/"><u>[New] Premium Viewer Ultimate Video Quality on PC/Mobile</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225771726-wma-m4v-movavi/"><u>無料で使いやすくて高速！オンラインWMA M4Vコンバーター - Movaviのご利用者へ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-chatgpt-harnessing-ai-generation-power/"><u>Discovering ChatGPT: Harnessing AI Generation Power</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-insert-text-overlays-in-videos-learn-the-best-approaches/"><u>Effective Strategies to Insert Text Overlays in Videos - Learn the Best Approaches!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/empowering-remote-teams-with-google-meets-whiteboard-features-on-various-devices/"><u>Empowering Remote Teams with Google Meet's Whiteboard Features on Various Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuit-online-converteren-van-3gpp-naar-m4a-met-movavi/"><u>Gratuit Online: Converteren Van 3GPP Naar M4A Met Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a59-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A59 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-depth-look-at-ankers-bulky-reliable-qi-wireless-power-bank-with-66k-capacity-a-detailed-iphone-compatibility-review/"><u>In-Depth Look at Anker's Bulky, Reliable Qi Wireless Power Bank with 6.6K Capacity: A Detailed iPhone Compatibility Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/jpeg-jpg-online-movavi/"><u>JPEG 파일을 무료로 JPG로 바꾸는 Online 도구 - Movavi</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-access-fix-palworlds-login-failed-to-eos-error-with-our-top-tips/"><u>Mastering the Art of Access: Fix Palworld's 'Login Failed to EOS Error' With Our Top Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mp3mp4-asf-movavi/"><u>MP3/MP4免費轉換成 ASF格式 - 使用 Movavi 影像工具無須付費</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ourney-journaling-paving-your-way-in-the-world-of-travel-vlogging-for-2024/"><u>[New] Journey Journaling Paving Your Way in the World of Travel Vlogging for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimal-pathways-iphoneipad-videos-to-your-youtube-channel/"><u>2024 Approved Optimal Pathways IPhone/iPad Videos to Your YouTube Channel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-shine-bright-enhancing-video-quality-tools/"><u>2024 Approved Shine Bright Enhancing Video Quality Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/audiovisual-elevation-leading-high-definition-hdmi-21-displays/"><u>Audiovisual Elevation Leading High-Definition (HDMI 2.1) Displays</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-fitness-tracking-apps-our-picks/"><u>Best Fitness Tracking Apps: Our Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cutting-edge-cost-effective-risc-v-laptop-by-chinese-startup-for-developer-professionals-only-300/"><u>Cutting-Edge, Cost-Effective RISC-V Laptop by Chinese Startup for Developer Professionals – Only $300</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-errors-when-you-cant-find-wininetdll-on-your-computer-easily/"><u>Fixing Errors When You Can't Find Wininet.dll on Your Computer Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalizing-your-desktop-learn-to-alter-font-preferences-in-windows-11/"><u>Personalizing Your Desktop: Learn to Alter Font Preferences in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-customize-gmail-sounds-on-android-and-ios/"><u>Step-by-Step Guide: Customize Gmail Sounds on Android & iOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/syncing-up-with-friends-on-spotify-is-concurrent-listening-an-option/"><u>Syncing Up with Friends on Spotify: Is Concurrent Listening an Option?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-chronological-viewing-experience-for-how-to-train-your-dragon-movies/"><u>The Complete Chronological Viewing Experience for How To Train Your Dragon Movies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-connecting-with-snapchats-help-center/"><u>Ultimate Tips for Connecting with Snapchat's Help Center</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-googles-innovative-language-strategist-palm-2/"><u>Unveiling Google's Innovative Language Strategist: PaLM 2</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-get-noticed-top-rated-free-animated-logo-creators-plus-creative-insights-for-2024/"><u>Updated Get Noticed Top-Rated Free Animated Logo Creators + Creative Insights for 2024</u></a></li>
 </ul></div>
 

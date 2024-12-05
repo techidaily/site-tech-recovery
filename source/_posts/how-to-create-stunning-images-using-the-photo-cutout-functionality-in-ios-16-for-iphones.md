@@ -1,7 +1,7 @@
 ---
 title: How to Create Stunning Images Using the Photo Cutout Functionality in iOS 16 for iPhones
-date: 2024-08-30T16:19:04.765Z
-updated: 2024-08-31T16:19:04.765Z
+date: 2024-11-30T02:23:21.391Z
+updated: 2024-12-04T22:19:41.263Z
 categories:
   - BestProducts
 description: This Article Describes How to Create Stunning Images Using the Photo Cutout Functionality in iOS 16 for iPhones
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/Lg26HhAbkXuckyq27b268vJFCBw=/400x300/fi
 ---
 
 ## How to Create Stunning Images Using the Photo Cutout Functionality in iOS 16 for iPhones
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Open**Photos** \> tap and hold the object until you see glowing outline >**Copy** \> paste image into another app.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/Lg26HhAbkXuckyq27b268vJFCBw=/400x300/fi
 * Photo Cutout is also available in Messages and Safari.
 
  This article provides step-by-step instructions for how to use iOS 16's Photo Cutout feature to remove people and objects from their backgrounds. To use the feature, you must be running iOS 16 or up on an iPhone XS/XR or newer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Image Cutout on iPhone
 
@@ -33,14 +42,24 @@ thumbnail: https://www.lifewire.com/thmb/Lg26HhAbkXuckyq27b268vJFCBw=/400x300/fi
  Tap**Copy** to copy the image to your iPhone clipboard. You can then go to another app and paste it using the same process as[copying and pasting](https://www.lifewire.com/copy-paste-text-on-iphone-1999898) text.  
 ![Tap and hold on the subject of a photo to separate it from the background.](https://www.lifewire.com/thmb/sWLmtgasblB8Xrrkc4fBEOn7b3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-UsePhotoCutoutonaniPhone-annotated-v2-8e4ae00da27b448e8ac6f42bae5df41b.jpg)
 5. Tap**Share** and select the app from the list of sharing options. The object you selected will be added to that app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Whether you copied or shared the cut-out object, it's now available for use—editing, sending via email or text, and more—with whatever options and features are available in the app you added it to.  
 ![Steps to paste a cutout image into an email on an iPhone.](https://www.lifewire.com/thmb/xjdNuaI0pZwXMZVvdN0eY_Q7bwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-UsePhotoCutoutonaniPhone-annotated-f4597825a2ee4b899f4b826f6a277037.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can't change the border outlining the selection of the object. In our testing, the iPhone almost always drew the correct border around a person or object without missing important details or including extraneous objects. However, it did make a few mistakes and, as of now, there's no way to adjust what is included.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Photo Cutout Is Based on Visual Lookup
 
  Photo Cutout is based on a technology Apple introduced with iOS 15 called[Visual Lookup](https://www.lifewire.com/use-visual-lookup-in-photos-ios-15-5195054) .
@@ -80,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +106,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-securing-your-snapshots-premium-and-budget-friendly-cloud-options/"><u>[New] 2024 Approved Securing Your Snapshots Premium and Budget-Friendly Cloud Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adept-adjustments-mastering-the-chromatic-dance/"><u>[New] Adept Adjustments Mastering the Chromatic Dance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-assessment-of-various-camera-types-for-videos/"><u>[New] Assessment of Various Camera Types for Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rafting-gifs-from-youtube-detailed-step-by-step-guide-for-pcmobile/"><u>[New] Crafting GIFs From YouTube Detailed Step-by-Step Guide for PC/Mobile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-list-of-11-uplifting-movies-guaranteed-to-spark-your-imagination/"><u>A List of 11 Uplifting Movies Guaranteed to Spark Your Imagination</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-you-buy-key-considerations-for-selecting-high-quality-stereo-speakers-infographic/"><u>Before You Buy - Key Considerations For Selecting High-Quality Stereo Speakers (Infographic)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-tutorial-importing-and-integrating-recovered-edb-mailboxes-into-live-exchange-systems/"><u>Comprehensive Tutorial: Importing and Integrating Recovered EDB Mailboxes Into Live Exchange Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-v30-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo V30</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-blizzard-battlenet-experiencing-a-glitch-distinguishing-between-outages-and-individual-connectivity-troubles/"><u>Is Blizzard Battle.net Experiencing a Glitch? Distinguishing Between Outages and Individual Connectivity Troubles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/our-5-favorite-sleep-apps-for-apple-watch/"><u>Our 5 Favorite Sleep Apps for Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-fixing-missing-binkw32dll-errors-in-windows-systems/"><u>Step-by-Step Solutions for Fixing Missing binkw32.dll Errors in Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-unspoken-perks-of-going-electric-complimentary-parking-and-express-lanes-for-you/"><u>The Unspoken Perks of Going Electric: Complimentary Parking and Express Lanes for You</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722896620281-unlocking-a-frozen-chromebook-discover-these-8-fixes/"><u>Unlocking a Frozen Chromebook - Discover These 8 Fixes</u></a></li>
+</ul></div>
 

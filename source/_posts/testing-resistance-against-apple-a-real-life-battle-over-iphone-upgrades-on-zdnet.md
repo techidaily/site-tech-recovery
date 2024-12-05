@@ -1,7 +1,7 @@
 ---
 title: "Testing Resistance Against Apple: A Real-Life Battle Over iPhone Upgrades on ZDNet"
-date: 2024-11-13T05:39:34.169Z
-updated: 2024-11-16T01:31:11.064Z
+date: 2024-11-28T16:40:05.044Z
+updated: 2024-12-05T05:47:18.768Z
 tags:
   - apple
 categories:
@@ -46,6 +46,10 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## It's the camera, stupid
 
 The company's first gambit is: "iPhone 15 captures up to 4x the resolution of iPhone 12for a new level of detail and color."
@@ -63,10 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -88,10 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -152,20 +150,20 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harness-your-creativity-with-high-quality-free-images-from-these-12-sites/"><u>[New] Harness Your Creativity with High-Quality, Free Images From These 12 Sites</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-comprehensive-guidebook-on-crafting-engaging-videotutorials/"><u>[New] In 2024, Comprehensive Guidebook on Crafting Engaging Videotutorials</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-hacks-for-skipping-edgenuity-video-lessons-fast-for-2024/"><u>[Updated] Hacks for Skipping Edgenuity Video Lessons Fast for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-setting-up-your-first-zoom-call-on-android/"><u>[Updated] Setting Up Your First Zoom Call on Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-118/"><u>💻Windows 11の最高スクリーンレコーダー：画面キャプチャの達人8つを紹介しよう！</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wav-m4a-movavi/"><u>移動網站 WAV 自由轉 M4A - 利用 Movavi 音頻格式改變器</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bypassing-sims-joining-gpt-and-telegram-with-ease/"><u>Bypassing SIMs: Joining GPT and Telegram with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-utilizar-el-efecto-desplazamiento-en-capturas-de-pantalla-tecnica-detallada-para-usuarios-de-windows-11/"><u>Cómo Utilizar El Efecto Desplazamiento en Capturas De Pantalla: Técnica Detallada Para Usuarios De Windows ˈ11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-transforming-your-ifo-media-into-high-quality-mp4-using-windows-or-macos-systems/"><u>Easy Tutorial: Transforming Your IFO Media Into High-Quality MP4 Using Windows or macOS Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-conversion-of-swf-files-to-mp4-format-via-web-services-explore-the-top-solutions/"><u>Free Conversion of SWF Files to MP4 Format via Web Services: Explore the Top Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-the-best-ai-for-interactive-document-exploration/"><u>Introducing the Best AI for Interactive Document Exploration</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lg-2n4lh4830-streaming-television-affordable-quality-without-compromises/"><u>LG 2N4lh4830 Streaming Television: Affordable Quality without Compromises</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformar-ogm-a-formato-vob-online-sin-coste-herramientas-de-conversion-de-cualquier-disponible/"><u>Transformar OGM a Formato VOB Online Sin Coste - Herramientas De Conversión De Cualquier Disponible</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-top-free-wmv-video-assembly-software/"><u>Updated In 2024, The Top Free WMV Video Assembly Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mova-vi-avi/"><u>オンラインでのストレートフォルダ MOVA VI AVIコンバーター - 無料版</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-balancing-work-and-leisure-enhancing-podcast-listening/"><u>[New] Balancing Work and Leisure Enhancing Podcast Listening</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-shadowban-how-to-get-unshadowbanned-on-tiktok-for-2024/"><u>[New] TikTok Shadowban How to Get Unshadowbanned on Tiktok for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-optimize-twitter-tweets-for-hd-viewing/"><u>[Updated] 2024 Approved Optimize Twitter Tweets for HD Viewing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unleash-creativity-top-free-video-opener-tools/"><u>2024 Approved Unleash Creativity Top Free Video Opener Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/addressing-the-absent-jvmdll-methods-to-correct-file-missing-issues/"><u>Addressing the Absent JVM.DLL: Methods to Correct File Missing Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cracking-the-code-accessing-hidden-wi-fi-credentials-within-your-windows-11-pc/"><u>Cracking the Code: Accessing Hidden Wi-Fi Credentials Within Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-stellar-presentations-with-the-power-of-chatgpt-ai/"><u>Crafting Stellar Presentations with the Power of ChatGPT AI</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-disable-suggested-posts-and-improve-your-instagram-experience/"><u>Guide to Disable 'Suggested Posts' And Improve Your Instagram Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-taking-flight-iphone-hdr-techniques-for-professional-results/"><u>In 2024, Taking Flight IPhone HDR Techniques for Professional Results</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-delayed-sms-issues-top-9-solutions-for-lagging-iphones/"><u>Solving Delayed SMS Issues: Top 9 Solutions for Lagging iPhones</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-windows-memory-errors/"><u>Steps to Overcome Windows Memory Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tech-buzz-unraveling-the-price-tag-release-schedule-and-technical-specs-of-teslas-upcoming-robotaxi/"><u>Tech Buzz: Unraveling the Price Tag, Release Schedule & Technical Specs of Tesla's Upcoming Robotaxi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-choosing-and-purchasing-the-perfect-television-for-your-living-room/"><u>The Ultimate Guide: Choosing and Purchasing the Perfect Television for Your Living Room</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-itel-p40-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Itel P40 for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/xbox-one-image-capture-techniques-a-beginners-guide/"><u>Xbox One Image Capture Techniques - A Beginner's Guide</u></a></li>
 </ul></div>
 

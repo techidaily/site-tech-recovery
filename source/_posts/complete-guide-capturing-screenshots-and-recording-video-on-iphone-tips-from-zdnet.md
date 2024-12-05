@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2024-11-23T17:16:36.758Z
-updated: 2024-11-25T17:12:25.399Z
+date: 2024-12-02T19:40:16.365Z
+updated: 2024-12-05T01:01:13.103Z
 tags:
   - apple
 categories:
@@ -20,10 +20,6 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to screen record on any iPhone
 
 * **Materials needed:** Any iPhone running iOS 14.0 or later
@@ -33,10 +29,6 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -44,6 +36,10 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -65,10 +61,6 @@ While recording, your Screen Recording button will look like this (minus the red
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Begin screen recording
 
 When you're ready to begin recording, tap the Screen Recording button. This starts a 3-second countdown. At the end of it, the recording will begin. This countdown time can be used to close the Control Center and get back to the true subject of your Screen Recording before the video capture actually begins. 
@@ -79,6 +71,10 @@ Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 5: Record
 
 This is when you'll want to complete whatever task it is you wanted to screen record. Once you've finished recording your task, move on to the final step below.
@@ -86,6 +82,10 @@ This is when you'll want to complete whatever task it is you wanted to screen re
 This is the confirmation box that will appear when you stop your recording. 
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. End your recording
 
@@ -95,10 +95,6 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ## What does the Screen Recording app actually capture?
@@ -106,7 +102,7 @@ In both cases, the recording you just produced will immediately be saved to your
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
@@ -116,6 +112,10 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -153,24 +153,18 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-adobe-tactics-for-dynamic-3d-text-design/"><u>[New] Adobe Tactics for Dynamic 3D Text Design</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-optimize-and-streamline-your-podcast-entry/"><u>[Updated] 2024 Approved Optimize and Streamline Your Podcast Entry</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-alternatives-to-xsplit-for-digital-media-masters-for-2024/"><u>[Updated] Alternatives to Xsplit for Digital Media Masters for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-expert-5-virtual-screenshots-tech/"><u>[Updated] In 2024, Expert 5 Virtual Screenshots Tech</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-premier-mac-programming-options-excluding-bandicam/"><u>[Updated] Premier Mac Programming Options Excluding Bandicam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-instagram-presence-with-metaai-strategies-and-tips/"><u>Boost Your Instagram Presence with MetaAI: Strategies and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-pc-repair-learn-the-secrets-of-effective-cmos-flushing-for-fresh-bios-start/"><u>DIY PC Repair: Learn the Secrets of Effective CMOS Flushing for Fresh BIOS Start</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-did-netflixs-dvd-rental-scheme-pave-way-for-digital-revolution/"><u>How Did Netflix's DVD Rental Scheme Pave Way for Digital Revolution?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-quickly-repair-vcompdll-file-not-located-problem-on-windows/"><u>How To Quickly Repair 'vcomp.dll File Not Located' Problem on Windows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-resolve-instagram-video-glitches-today/"><u>In 2024, Resolve Instagram Video Glitches Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-video-production-with-these-top-editing-software-choices/"><u>Master Video Production with These Top Editing Software Choices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-to-address-and-repair-missing-msodll-file-notifications/"><u>Quick Fixes to Address and Repair Missing mso.dll File Notifications</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/secure-your-digital-life-instantly-with-6-practical-cybersecurity-steps-expert-advice-by-zdnet/"><u>Secure Your Digital Life Instantly with 6 Practical Cybersecurity Steps, Expert Advice by ZDNET</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/solo-spotlight-crafting-a-chart-topping-podcast/"><u>Solo Spotlight Crafting a Chart-Topping Podcast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-nspr4dll-file-not-found-a-step-by-step-guide/"><u>Solving 'Nspr4.dll' File Not Found: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/algorithmic-youtube-video-selections/"><u>Stop Algorithmic YouTube Video Selections</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722853436770-tackle-that-troublesome-blue-on-your-tv-discover-these-8-effective-fixes-now/"><u>Tackle That Troublesome Blue on Your TV - Discover These 8 Effective Fixes Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-selection-leading-email-apps-on-iphone/"><u>The Ultimate Selection: Leading Email Apps on iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-computer-with-free-themes-15-stunning-windows-11-makeovers/"><u>Transform Your Computer with Free Themes: 15 Stunning Windows 11 Makeovers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-joint-venture-campaigns-for-brands-on-video-platforms/"><u>[New] In 2024, Joint Venture Campaigns for Brands on Video Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ideal-screen-snappers-top-5-picks/"><u>[Updated] Ideal Screen Snappers Top 5 Picks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-maximized-speed-the-prime-10-choices-of-srt-upgrades-for-pcs-and-macs/"><u>2024 Approved Maximized Speed The Prime 10 Choices of SRT Upgrades for PCs & Macs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehveive-tutorial-displaying-source-codes-in-your-word-docs/"><u>A Comprehveive Tutorial: Displaying Source Codes in Your Word Docs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-6-apps-to-boost-your-childs-study-habits-insights-for-families/"><u>Essential 6 Apps to Boost Your Child's Study Habits: Insights for Families</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-easily-hook-up-your-nintendo-switch-console-to-the-television/"><u>Guide: Easily Hook Up Your Nintendo Switch Console to the Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-fix-addressing-and-repairing-code-perturbations-in-windows-environment/"><u>Master the Fix: Addressing and Repairing Code Perturbations in Windows Environment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mic-calibration-tips-for-windows-systems/"><u>Mic Calibration Tips for Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tricks-how-to-use-command-prompt-inside-a-specific-folder-in-windows/"><u>Quick Tricks: How to Use Command Prompt Inside a Specific Folder in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-xbox-game-download-issues-on-windows/"><u>Resolving Xbox Game Download Issues on Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/rock-your-facebook-profile-add-pin-play-and-manage-music-iphone-and-android-for-2024/"><u>Rock Your Facebook Profile Add, Pin, Play, & Manage Music (iPhone & Android) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-generation-of-vr-gaming-awaits-with-psvr2-discover-news-pricing-info-release-schedule-and-hardware-specs/"><u>The Next Generation of VR Gaming Awaits with PSVR2 – Discover News, Pricing Info, Release Schedule & Hardware Specs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-bring-your-videos-to-life-best-animated-text-apps-for-mobile/"><u>Updated In 2024, Bring Your Videos to Life Best Animated Text Apps for Mobile</u></a></li>
 </ul></div>
 

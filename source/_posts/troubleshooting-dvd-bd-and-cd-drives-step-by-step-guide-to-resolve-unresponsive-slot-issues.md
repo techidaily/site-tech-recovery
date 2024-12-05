@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting DVD, BD & CD Drives: Step-by-Step Guide to Resolve Unresponsive Slot Issues"
-date: 2024-08-30T16:21:04.115Z
-updated: 2024-08-31T16:21:04.115Z
+date: 2024-12-03T06:59:35.968Z
+updated: 2024-12-05T10:34:25.518Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting DVD, BD & CD Drives: Step-by-Step Guide to Resolve Unresponsive Slot Issues"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
  You've[correctly arranged your new speakers](https://www.lifewire.com/placing-speakers-correctly-3134857) . All the cables have been meticulously connected. Each piece of equipment has been switched on. Then, you hit "play" on the audio source, yet nothing happens. How frustrating!
 
  But don't toss your remote at the wall just yet. Instead, try these troubleshooting tips to get your brand new sound system up and working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Stereo Receiver That's Not Making Sound
 
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d8d6563b1e83446e0eb6eee844ba3f9b3df6929ea
  You'll need a 3.5 mm-to-RCA stereo audio cable to connect speakers that have 3.5 mm or RCA connections, such as a laptop or smartphone.
 5. **Check the source components** . First, test whatever source component (device) you're using—such as a CD player, DVD/Blu-ray player, or turntable—with another working TV or set of speakers. If the device still doesn't play properly, then your problem is most likely with the device.  
  If all source components are good, connect them back into the original receiver and set them to play some input. Toggle through each input source on the stereo receiver one by one. If the receiver works with some input sources but not others, the cables connecting the component to the receiver could be the problem. Replace any suspect cables and try the original component again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Causes of a Stereo Receiver Not Making Sound
 
@@ -54,8 +62,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -63,8 +69,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-audio-capture-on-windows-11-top-5-proven-strategies/"><u>[New] Mastering Audio Capture on Windows 11 Top 5 Proven Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-pureimagezone-premium-tool-to-remove-backgrounds/"><u>[Updated] In 2024, PureImageZone Premium Tool to Remove Backgrounds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-open-apples-pages-format-on-any-desktop-computer/"><u>Effortlessly Open Apple's Pages Format on Any Desktop Computer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-play-7t-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor Play 7T Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-15-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone 15 to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-your-inbox-the-ultimate-techniques-for-grouping-emails-by-labels-in-gmail/"><u>Master Your Inbox: The Ultimate Techniques for Grouping Emails by Labels in Gmail</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-common-problems-with-unsuccessful-torrent-downloads/"><u>Overcoming Common Problems with Unsuccessful Torrent Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-to-restore-accidentally-deleted-photos-from-your-sd-card-guide-with-visuals/"><u>Simple Steps to Restore Accidentally Deleted Photos From Your SD Card [Guide with Visuals]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-secrets-behind-the-401-unauthorized-mistake/"><u>Solving the Secrets Behind the 401 Unauthorized Mistake</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-essential-guide-to-photo-backdrop-removal-in-picsart/"><u>The Essential Guide to Photo Backdrop Removal in Picsart</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-comprehend-the-telegram-apps-functionality/"><u>The Ultimate Guide to Comprehend the Telegram App's Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-secrets-of-windows-network-problem-with-error-code-0x800704cf-solutions-included/"><u>Unlocking the Secrets of Windows 'Network Problem' With Error Code 0X800704CF (Solutions Included)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-secrets-of-numenera-a-critical-look-at-torments-stellar-worldbuilding-and-science-fiction-roots/"><u>Unveiling the Secrets of Numenera: A Critical Look at Torment's Stellar Worldbuilding and Science Fiction Roots</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->

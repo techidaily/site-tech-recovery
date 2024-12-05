@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Recovering Lost Mac Passwords From the Keychain (macOS)
-date: 2024-11-11T07:48:57.563Z
-updated: 2024-11-16T08:28:21.147Z
+date: 2024-12-03T19:55:30.487Z
+updated: 2024-12-04T16:02:00.476Z
 tags:
   - apple
 categories:
@@ -18,9 +18,17 @@ I will start this out by reminding everyone that you should be using a password 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
 
@@ -31,10 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -48,10 +53,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -68,13 +70,6 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -84,10 +79,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -121,21 +113,20 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/lip-description-creator-for-2024/"><u>[New] Clip Description Creator for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhance-your-media-with-top-free-android-editing-tools/"><u>[New] In 2024, Enhance Your Media with Top Free Android Editing Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/onetizing-on-youtube-can-you-earn-monthly-in-2024/"><u>[New] Monetizing on YouTube Can You Earn Monthly, In 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-digital-expression-your-guide-to-sharing-animated-messages-on-snapchat-for-2024/"><u>[New] The Art of Digital Expression Your Guide to Sharing Animated Messages on Snapchat for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-evolution-of-hd-tech-a-look-at-hp-envy-27-for-2024/"><u>[New] The Evolution of HD Tech - A Look at HP Envy 27 for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/best-tools-for-crafting-memorable-instagram-reels-top-6-for-2024/"><u>Best Tools for Crafting Memorable Instagram Reels (Top 6) for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-troubleshooting-steps-for-dealing-with-missing-fm20dll-files/"><u>Comprehensive Troubleshooting Steps for Dealing with Missing fm20.dll Files</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-v27-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo V27 Phone?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-2023-sneak-peek-anticipated-costs-launch-timeline-and-latest-speculations/"><u>IPhone 2023 Sneak Peek: Anticipated Costs, Launch Timeline & Latest Speculations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/key-fact-5-hrams-role-high-resolution-accurate-mass-spectrometry-provides-precise-mz-values-enabling-the-distinction-of-molecular-formulas-with-high-confide75/"><u>Key Fact #5: HRAM's Role - High-Resolution Accurate Mass Spectrometry Provides Precise M/Z Values, Enabling the Distinction of Molecular Formulas with High Confidence.</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rless-vs-dslr-video-mastery-in-focus-for-2024/"><u>Mirrorless vs DSLR Video Mastery in Focus for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-filmmakers-first-steps-learning-15-fundamental-shots/"><u>The Filmmaker's First Steps Learning 15 Fundamental Shots</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-untold-perks-of-electric-vehicle-ownership-premium-parking-and-carpool-lane-access-awaits/"><u>The Untold Perks of Electric Vehicle Ownership: Premium Parking and Carpool Lane Access Awaits</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-selection-best-samsung-smart-tv-software-of-2024/"><u>Ultimate Selection: Best Samsung Smart TV Software of 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ussd-explained-what-you-need-to-know-about-this-mobile-network-technology/"><u>USSD Explained: What You Need To Know About This Mobile Network Technology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/winning-against-windows-woes-proven-methods-for-speeding-up-a-snails-pace-windows-11-setup/"><u>Winning Against Windows Woes: Proven Methods for Speeding Up a Snail's Pace Windows 11 Setup</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-zippy-zoomers-prime-fastest-titles-for-touch-screens-and-tabs/"><u>[Updated] Zippy Zoomers Prime Fastest Titles for Touch Screens & Tabs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-speech-refinement-kit-free-tools-for-flawless-audio-effects/"><u>2024 Approved The Ultimate Speech Refinement Kit Free Tools for Flawless Audio Effects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detailed-walkthrough-on-hooking-up-playstation-virtual-reality-to-a-computer-system/"><u>Detailed Walkthrough on Hooking Up PlayStation Virtual Reality to a Computer System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-borders-with-virtual-reality-tours/"><u>In 2024, Beyond Borders with Virtual Reality Tours</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-turning-traffic-into-cash-calculating-the-essential-youtube-number/"><u>In 2024, Turning Traffic Into Cash Calculating the Essential Youtube Number</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-affilie-atteindre-un-seo-superieur-grace-a-la-creation-de-liens-profonds-personnalises/"><u>Movavi Affilié: Atteindre Un SEO Supérieur Grâce À La Création De Liens Profonds Personnalisés</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-start-video-recording-on-logitech-webcam/"><u>Quick Start Video Recording on Logitech Webcam</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamp-your-viewing-experience-the-ultimate-guide-to-samsung-tv-firmware-updates/"><u>Revamp Your Viewing Experience: The Ultimate Guide to Samsung TV Firmware Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumored-tesla-phone-info-estimated-retail-price-expected-debut-date-and-key-specifications/"><u>Rumored Tesla Phone Info: Estimated Retail Price, Expected Debut Date, and Key Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/statni-nakladatelstvi-knih-state-publishing-house/"><u>Státní Nakladatelství Knih (State Publishing House)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-solving-playback-problems-for-netflix-on-roku/"><u>Step-by-Step Guide: Solving Playback Problems for Netflix on Roku</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-viewing-lord-of-the-rings-trilogy-sequentially/"><u>The Ultimate Guide: Viewing 'Lord of the Rings' Trilogy Sequentially</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-non-bose-non-jbl-bluetooth-speaker-proven-to-boost-volume-an-in-depth-review-zdnet/"><u>Top Non-Bose, Non-JBL Bluetooth Speaker Proven to Boost Volume - An In-Depth Review | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-what-you-love-unlocking-the-secrets-of-viewing-fandango-content-on-apple-tv-at-home/"><u>Watch What You Love: Unlocking the Secrets of Viewing Fandango Content on Apple TV at Home</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ai-mp4-movavi/"><u>ムリョウランオンライン AI MP4変換ツール - Movavi</u></a></li>
 </ul></div>
 

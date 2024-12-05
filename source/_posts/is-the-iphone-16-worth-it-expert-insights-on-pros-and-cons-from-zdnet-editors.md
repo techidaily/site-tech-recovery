@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Insights on Pros and Cons From ZDNet Editors
-date: 2024-11-19T18:06:51.949Z
-updated: 2024-11-25T16:25:53.367Z
+date: 2024-11-28T02:18:17.476Z
+updated: 2024-12-05T00:41:17.013Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,20 +124,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-amass-1000-supporters-for-your-channel/"><u>[New] In 2024, Amass 1,000 Supporters for Your Channel</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-top-10-memes-blending-hilarity-and-emotional-depth-on-insta/"><u>[New] Top 10 Memes Blending Hilarity and Emotional Depth on Insta</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-ranked-screen-recorder-for-seamless-youtubing/"><u>[New] Top-Ranked Screen Recorder for Seamless YouTubing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-meme-master-tracking-jake-pauls-youtube-evolution/"><u>[Updated] Meme Master Tracking Jake Paul's YouTube Evolution</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-pro-gamers-fbx-filming-techniques-for-2024/"><u>[Updated] Pro Gamers' FBX Filming Techniques for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-complete-how-to-for-free-countdown-timers-for-2024/"><u>[Updated] The Complete How-To for Free Countdown Timers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversao-ao-vivo-e-gratuita-mkv-para-mxf-utilizando-o-movavi-tutorial-detalhado/"><u>Conversão Ao Vivo E Gratuita: MKV Para MXF Utilizando O Movavi – Tutorial Detalhado</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-bass-controls-a-deep-dive-into-the-mechanics-of-bass-management/"><u>Demystifying Bass Controls: A Deep Dive Into the Mechanics of Bass Management</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-picked-selection-of-top-free-virus-detectors-of-this-year/"><u>Explore Our Picked Selection of Top Free Virus Detectors of This Year</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-editing-tips-for-perfectly-resizing-pictures-for-instagram/"><u>Mastering the Art of Image Editing: Tips for Perfectly Resizing Pictures for Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-ethernet-options-how-does-cat5-cable-stack-up-against-cat6/"><u>Navigating Ethernet Options: How Does Cat5 Cable Stack Up Against Cat6?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/playing-h264-videos-on-your-computer-a-comprehensive-guide-for-windows-and-macos-users/"><u>Playing H.264 Videos on Your Computer: A Comprehensive Guide for Windows & macOS Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-cutting-edge-ipad-lineup-exploring-apples-latest-innovation/"><u>The Cutting-Edge iPad Lineup: Exploring Apple’s Latest Innovation</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-20-speedy-and-easy-to-play-apps-for-androidiphone/"><u>Top 20 Speedy & Easy-to-Play Apps for Android/iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-confusing-aspects-of-twitch-chat-explained-for-new-streamers/"><u>Top Confusing Aspects of Twitch Chat Explained for New Streamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-laptop-and-mobile-embarking-on-the-google-meet-experience/"><u>[New] In 2024, Laptop & Mobile Embarking on the Google Meet Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-digital-audio-translations-from-srt-to-xmlssa-ttml-etc/"><u>[Updated] 2024 Approved Digital Audio Translations From SRT to XML/SSA, TTML, Etc</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simplest-scan-capture-app-on-windows-10/"><u>[Updated] Simplest Scan-Capture App on Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversione-gratuita-online-da-ts-a-mp4-con-movavi-trasforma-i-tuoi-file-video/"><u>Conversione Gratuita Online: Da .TS a .MP4 Con Movavi - Trasforma I Tuoi File Video</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-facebooks-success-story-from-birth-to-beloved-platform-and-its-essential-functions/"><u>Decoding Facebook's Success Story: From Birth to Beloved Platform & Its Essential Functions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-tips-best-10-ae-text-setups/"><u>Expert Tips Best 10 AE Text Setups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/future-of-personal-audio-rumored-apple-device-forecasted-price-release-schedule-and-specs-coverage/"><u>Future of Personal Audio - Rumored Apple Device: Forecasted Price, Release Schedule and Specs Coverage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-fix-obs-camera-not-working-for-2024/"><u>How to Fix OBS Camera Not Working for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-connectivity-problems-on-your-xbox-series-xs-audio-device/"><u>How to Repair Connectivity Problems on Your Xbox Series X/S Audio Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-c51-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco C51 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-projections-on-the-oneplus-10-forecasting-costs-release-calendar-expected-functionality-and-leaks/"><u>Insider Projections on the OnePlus 10: Forecasting Costs, Release Calendar, Expected Functionality & Leaks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-solution-to-your-401-access-denied-problem-with-easy-to-follow-techniques/"><u>Master the Solution to Your 401 Access Denied Problem with Easy-to-Follow Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-privacy-ultimate-guide-to-incognito-mode-on-major-browsers/"><u>Mastering Privacy: Ultimate Guide to Incognito Mode on Major Browsers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mfc71-dll-file-not-found-heres-how-you-can-rectify-it-easily/"><u>MFC71 DLL File Not Found? Here's How You Can Rectify It Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-power-outage-issues-in-laptops-and-desktops-that-wont-start-up/"><u>Solving Power Outage Issues in Laptops and Desktops That Won't Start Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-airpods-pro-add-ons-and-gadgets-featured/"><u>Top Rated AirPods Pro Add-Ons and Gadgets - Featured</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-rtx-graphics-cards-a-comprehensive-guide/"><u>Unveiling RTX Graphics Cards – A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-driver-sync-with-diverse-windows-versions-achieved-solved/"><u>USBasp Driver Sync with Diverse Windows Versions Achieved [SOLVED]</u></a></li>
 </ul></div>
 

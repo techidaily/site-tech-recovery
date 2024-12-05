@@ -1,7 +1,7 @@
 ---
 title: "Battle of the Smartwatch Giants: Assessing the Pros and Cons of Samsung's Ultra Vs. Apple's Ultra – Making an Informed Purchase Decision with ZDNET"
-date: 2024-11-20T17:42:50.637Z
-updated: 2024-11-25T18:02:03.922Z
+date: 2024-12-01T04:30:12.980Z
+updated: 2024-12-04T20:40:15.768Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -33,7 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -97,7 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,18 +148,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-transform-your-photos-with-ease-comprehensive-guide-on-background-erasure-tool-usage/"><u>[New] In 2024, Transform Your Photos with Ease Comprehensive Guide on Background Erasure Tool Usage</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-masterful-moments-made-simple-the-snapchat-lens-guide/"><u>[Updated] 2024 Approved Masterful Moments Made Simple The Snapchat Lens Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-proficient-use-of-obs-studio-on-your-android-phone/"><u>[Updated] 2024 Approved Proficient Use of OBS Studio on Your Android Phone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-gamers-guide-to-elite-streaming-platforms/"><u>[Updated] Gamers' Guide to Elite Streaming Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-perfect-pan-and-tilt-for-clearer-captures/"><u>2024 Approved Perfect Pan & Tilt for Clearer Captures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/capture-stunning-images-advanced-zoom-features-on-idevices/"><u>Capture Stunning Images: Advanced Zoom Features on iDevices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-overview-of-applications-for-samsung-television-units/"><u>Comprehensive Overview of Applications for Samsung Television Units</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-online-presence-editing-expertise-for-haul-vlogs/"><u>Elevate Your Online Presence Editing Expertise for Haul Vlogs</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/hd-video-editing-made-easy-top-5-software-options-for-2024/"><u>HD Video Editing Made Easy Top 5 Software Options for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-microphones-for-precision-in-4k-video-and-sound-recording-for-2024/"><u>Ideal Microphones for Precision in 4K Video & Sound Recording for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/methods-for-finding-the-owner-of-an-anonymous-caller/"><u>Methods for Finding the Owner of an Anonymous Caller</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-strategies-for-downloading-audio-from-pinterest-videos-for-2024/"><u>Optimal Strategies for Downloading Audio From Pinterest Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reassessing-government-use-of-major-it-companies-following-microsofts-outages-time-for-change/"><u>Reassessing Government Use of Major IT Companies Following Microsoft's Outages – Time For Change?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-effortless-integration-igtv-and-instagram-stories/"><u>[Updated] 2024 Approved Effortless Integration IGTV & Instagram Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-perfecting-game-capture-techniques-and-tricks/"><u>[Updated] 2024 Approved Perfecting Game Capture Techniques & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/achieve-flawless-selfie-shots-expert-advice-on-employing-the-right-self-lighting-tools/"><u>Achieve Flawless Selfie Shots: Expert Advice on Employing the Right Self-Lighting Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-g24-power-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from G24 Power</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-criteria-for-selecting-the-right-high-performance-gaming-machine/"><u>Essential Criteria for Selecting the Right High-Performance Gaming Machine</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-essence-of-aether-knowledge-breakdown-and-how-to-get-involved/"><u>Exploring the Essence of Aether: Knowledge Breakdown & How to Get Involved</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-pdhdll-not-found-a-step-by-step-solution-manual-for-users-and-developers/"><u>Fixing 'Pdh.dll Not Found' - A Step-by-Step Solution Manual for Users and Developers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/foolproof-method-for-adding-a-link-to-your-tiktok-bio/"><u>Foolproof Method for Adding a Link to Your TikTok Bio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-fidelity-mobile-sound-selector/"><u>High Fidelity Mobile Sound Selector</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/immediate-insta-friendship-status-check/"><u>Immediate Insta Friendship Status Check</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-leading-15-hd-action-footage-capturers/"><u>In 2024, Leading 15 HD Action Footage Capturers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-effortlessly-unlocking-your-android-device-with-a-quick-jailbreak/"><u>Simple Steps: Effortlessly Unlocking Your Android Device with a Quick Jailbreak</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-66-twitter-accounts-for-unbeatable-travel-deals-and-tips/"><u>Top 66 Twitter Accounts for Unbeatable Travel Deals and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-aim-the-rise-and-evolution-of-aols-messaging-service/"><u>Understanding AIM: The Rise and Evolution of AOL's Messaging Service</u></a></li>
 </ul></div>
 

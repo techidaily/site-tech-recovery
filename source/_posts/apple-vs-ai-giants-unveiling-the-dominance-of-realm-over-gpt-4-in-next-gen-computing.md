@@ -1,7 +1,7 @@
 ---
 title: "Apple vs AI Giants: Unveiling the Dominance of RealM Over GPT-4 in Next-Gen Computing"
-date: 2024-11-12T04:26:33.382Z
-updated: 2024-11-16T02:57:47.079Z
+date: 2024-11-27T22:43:21.776Z
+updated: 2024-12-05T09:47:47.268Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ What do I believe Apple needs to reveal -- or, at least, set in motion -- this m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Develop a clear on-device strategy for generative AI and invest in AI-driven developer tools
 
 Apple needs a robust strategy for integrating [gen AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) across its devices. Embedding a small language model into MacOS, iOS, iPadOS, and VisionOS will enable real-time processing, improved responsiveness, and increased privacy by keeping more data on-device. Apple should also provide robust APIs to seamlessly utilize on-device, edge, and cloud processing for natural language understanding and computer vision tasks. 
@@ -49,10 +53,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
@@ -66,6 +67,10 @@ Apple's historical commitment to privacy can also give it a significant advantag
 Providing private or family-specific AI instances would further enhance privacy and personalized interactions. For example, HomePod could recognize individual voices and offer personalized responses, while Apple TV+ could recommend shows tailored to each user. AI can coordinate family schedules, manage activities, and send reminders. Robust privacy controls and advanced parental controls ensure secure and healthy digital environments for children.
 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
 
@@ -82,10 +87,7 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
@@ -96,19 +98,6 @@ To meet the growing demand for fast application response times, I believe Apple 
 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enhance proactive assistance and personalization
 
 Apple's AI should proactively anticipate user needs and provide personalized experiences across its ecosystem. AI can analyze calendar events, habitual purchases, and traffic conditions to offer contextual reminders, like leaving early for appointments or suggesting groceries. Personalized briefings on Apple Watch could include weather updates, news summaries, traffic alerts, and schedule highlights.
@@ -118,6 +107,10 @@ Apple's AI should proactively anticipate user needs and provide personalized exp
 AI can enhance contextual awareness by integrating with sensors and data sources on Apple devices. For example, starting a workout on Fitness+ could prompt AI to suggest a matching Apple Music playlist, monitor health metrics in real-time with Apple Watch, and provide motivational prompts. AI can analyze user behavior to offer smart recommendations for content, activities, and products, acting as a personal assistant attuned to individual tastes.
 
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
 
@@ -134,13 +127,6 @@ For Apple TV, AI could improve content discovery by recommending shows based on 
 Leveraging AI to enhance HomeKit's capabilities is essential, especially since HomeKit isn't a market leader in home automation. AI can offer smarter home automation by predicting user behavior to automate lights, thermostat settings, and security systems. 
 
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
 
@@ -184,24 +170,22 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-time-travel-through-free-visual-storerooms-for-2024/"><u>[New] Time Travel Through Free Visual Storerooms for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-a-list-mobile-applications-for-enhanced-gopro-videos/"><u>2024 Approved A-List Mobile Applications for Enhanced GoPro Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-checklist-for-constructing-your-youtube-musical-assortment/"><u>2024 Approved The Ultimate Checklist for Constructing Your YouTube Musical Assortment</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726223067956-androidioswindows/"><u>免費且功能強大的語音轉文字工具——Android、iOS及Windows用戶選擇之最！</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convertissez-facilement-votre-video-avi-en-format-vob-en-ligne-gratuitement-a-laide-de-wondershare-uniconverter/"><u>Convertissez Facilement Votre Vidéo AVI en Format VOB en Ligne Gratuitement À L'aide De Wondershare UniConverter</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-this-budget-friendly-samsung-projector-doubles-as-a-stealthy-gaming-console-during-labor-days-exclusive-200-discount-offers-at-zdnet/"><u>Discover How This Budget-Friendly Samsung Projector Doubles as a Stealthy Gaming Console During Labor Day's Exclusive $200 Discount Offers at ZDNET!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eseguirai-con-successo-la-tua-conferenza-su-google-meet-una-guida-comprehensive-alliscrizione-e-allutilizzo/"><u>Eseguirai Con Successo La Tua Conferenza Su Google Meet: Una Guida Comprehensive All'Iscrizione E All'Utilizzo</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-by-toms-electronics-hub/"><u>Expert Analysis on Gadgets by Tom's Electronics Hub</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/faites-de-votre-caf-une-plateforme-web-gratuite-grace-a-movavi-guerilla-seo/"><u>Faites De Votre CAF Une Plateforme Web Gratuite Grâce À Movavi - Guérilla SEO</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-iphone-unrecognized-by-itunes-on-windows-11-solutions-and-tips/"><u>Fix: IPhone Unrecognized by iTunes on Windows 11 – Solutions & Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-ape-files-into-m4a-format-with-movavi/"><u>Free Online Conversion: Transforming APE Files Into M4A Format with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-professional-results-with-movavi-photo-editor-secure-yours-today/"><u>Get Professional Results with Movavi Photo Editor - Secure Yours Today!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuit-verbale-konvertor-wav-naar-mp4-bestaan-online-movavi/"><u>Gratuit Verbale Konvertor: WAV Naar MP4 Bestaan Online - Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-frustration-fixing-the-frequent-freezes-of-call-of-duty-modern-warfare-3/"><u>No More Frustration: Fixing the Frequent Freezes of Call of Duty Modern Warfare 3</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-games-with-the-newest-nvidia-geforce-driver-download-for-windows-1110/"><u>Optimize Your Games with the Newest NVIDIA GeForce Driver - Download for Windows 11/10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trasforma-i-tuoi-file-webm-in-formato-3gp-senza-costi-gratuitamente-con-convertitore-webm-3gp-di-movavi/"><u>Trasforma I Tuoi File WEBM in Formato 3GP Senza Costi, Gratuitamente Con Convertitore WebM-3GP Di Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722843170706-troubleshooting-mingwm10dll-file-not-detected-comprehensive-fixes-unveiled/"><u>Troubleshooting Mingwm10.dll File Not Detected: Comprehensive Fixes Unveiled</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-infinix-note-30-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Infinix Note 30 5G FRP Bypass</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/avi-mp4/"><u>무료 인터넷 스트리밍: AVI 파일을 MP4에 전환하는 방법 - 모바이비</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-netflixs-video-playback-controls/"><u>2024 Approved Navigating Netflix's Video Playback Controls</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aquatic-adventures-and-iphones-is-the-iphone-13-built-to-withstand-water/"><u>Aquatic Adventures and iPhones: Is the iPhone 13 Built to Withstand Water?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/chromebooks-voice-alteration-guide-the-leading-online-text-to-speech-apps/"><u>Chromebook's Voice Alteration Guide The Leading Online Text-to-Speech Apps</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/como-salvaguardar-su-sistema-en-windows-7-antes-de-migrar-a-windows-11-un-tutorial-detallado/"><u>Cómo Salvaguardar Su Sistema en Windows 7 Antes De Migrar a Windows 11: Un Tutorial Detallado</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/debunking-myths-how-environmentally-friendly-are-evs-really/"><u>Debunking Myths: How Environmentally Friendly Are EVs Really?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dive-into-advanced-ai-access-and-master-openais-freshly-launched-gpt-store/"><u>Dive Into Advanced AI: Access and Master OpenAI's Freshly Launched GPT Store</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-frustrating-504-gateway-time-out-error-a-detailed-walkthrough/"><u>Fixing the Frustrating 504 Gateway Time-Out Error: A Detailed Walkthrough</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-highest-quality-action-capturing-methods/"><u>In 2024, Highest Quality Action Capturing Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macos-15-sequoia-discover-when-its-releasing-and-check-out-its-amazing-new-capabilities/"><u>MacOS 15 (Sequoia): Discover When It's Releasing & Check Out Its Amazing New Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-ios-shortcuts-the-ultimate-guide-with-18-must-know-tricks/"><u>Mastering iOS Shortcuts: The Ultimate Guide with 18 Must-Know Tricks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/501899-9780307557834-medicine-for-the-earth/"><u>Medicine for the Earth | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fix-guide-what-to-do-when-samsung-tvs-apps-fail-to-start/"><u>Quick Fix Guide: What to Do When Samsung TV's Apps Fail to Start</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tech-savvy-bookworms-rejoice-dive-into-a-sea-of-laptops-phones-and-literary-treasures/"><u>Tech-Savvy Bookworms Rejoice: Dive Into a Sea of Laptops, Phones & Literary Treasures</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-11-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-solving-issues-with-unresponsive-computer-keys/"><u>Troubleshooting Steps: Solving Issues with Unresponsive Computer Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-control-of-windows-key-using-these-tips/"><u>Unlock Full Control of Windows Key Using These Tips</u></a></li>
 </ul></div>
 

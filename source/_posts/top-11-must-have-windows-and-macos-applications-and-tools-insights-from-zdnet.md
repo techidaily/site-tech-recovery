@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & macOS Applications and Tools - Insights From ZDNet
-date: 2024-11-09T00:28:44.922Z
-updated: 2024-11-16T02:41:18.966Z
+date: 2024-12-02T05:42:55.070Z
+updated: 2024-12-05T05:52:19.046Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -36,21 +40,7 @@ Show less
 
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft 365 apps for Business
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It's not just a bundle anymore
 
@@ -78,27 +68,7 @@ Show less
 
 [View now at OneNote](https://www.onenote.com/)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## OneNote
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### An infinitely expandable notebook
 
@@ -139,10 +109,7 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Browser and extensions
@@ -150,6 +117,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft Edge (Chromium)
 
@@ -165,6 +136,10 @@ Show less
 
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1Password
 
 ### Everyone needs a password manager
@@ -179,13 +154,6 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Workona
 
 ### The cleanest way to organize browser tabs
@@ -196,20 +164,21 @@ Because Workona is currently in preview, it's free. After it's officially releas
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Media
 
 Show less 
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Spotify Music
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -226,16 +195,7 @@ Show less
 ## VLC Media Player
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Free, open source, handles every format imaginable
@@ -248,7 +208,15 @@ Show less
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MediaMonkey
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Swiss Army knife for digital media
 
@@ -288,24 +256,21 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ash-creation-in-content-a-deep-dive-into-vids-and-videos-for-2024/"><u>[New] Cash Creation in Content A Deep Dive Into Vids and Videos for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-investment-returns-on-youtuber-promotions/"><u>[New] Investment Returns on Youtuber Promotions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign/"><u>2024 Approved Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-essential-tweaks-for-your-windows-11-search-settings/"><u>5 Essential Tweaks for Your Windows 11 Search Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/converta-dados-de-voc-para-wav-sem-custo-ferramenta-on-line-da-movavi/"><u>Converta Dados De VOC Para WAV Sem Custo - Ferramenta On-Line Da Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/deepening-ties-techniques-for-meaningful-youtube-dialogue/"><u>Deepening Ties Techniques for Meaningful YouTube Dialogue</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dji-airborne-prototype-scrutiny-for-2024/"><u>DJI Airborne Prototype Scrutiny for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-tiff-converter-movavi-edition-convert-pgm-images-with-ease/"><u>Free Online TIFF Converter - Movavi Edition: Convert PGM Images with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-online-gif-converter-voor-mpeg-efficient-wiskrachtig-met-movavi/"><u>Gratis Online Gif-Converter Voor Mpeg: Efficiënt Wiskrachtig Met Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-webbaserad-vidoverforare-mp4-till-wav-movavis-vidkonverteringskonstablerande/"><u>Gratis Webbaserad Vidoverförare: MP4 Till WAV - Movavi's Vidkonverteringskonstablerande</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oneplus-open-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked OnePlus Open Phone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-uncharted-territories-in-video-streamer-realm/"><u>In 2024, Uncharted Territories in Video Streamer Realm</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/m4b-online-converter-movavi/"><u>M4B 폴리핑을 위한 Online 무료 Converter - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-mp3-split-tool-professioneel-mp3-knippen-en-versplitten-voor-veiligere-downloads/"><u>Movavi Mp3 Split Tool: Professioneel MP3 Knippen en Versplitten Voor Veiligere Downloads</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavis-no-cost-solution-for-converting-wma-audio-to-premium-flac-online-experience-hassle-free-file-upgrades/"><u>Movavi's No-Cost Solution for Converting WMA Audio to Premium FLAC Online – Experience Hassle-Free File Upgrades!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavis-web-based-flv-to-mp4-video-converter-free-simplified-file-format-transformation-for-users-worldwide/"><u>Movavi's Web-Based FLV to MP4 Video Converter - Free, Simplified File Format Transformation for Users Worldwide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mudar-imagens-gif-para-png-online-de-graca-site-do-movavi/"><u>Mudar Imagens GIF Para PNG Online De Graça - Site Do Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-strategies-elevating-your-pcs-performance-in-windows-10-for-epic-gaming-experiences/"><u>Ultimate Strategies: Elevating Your PC's Performance in Windows 10 for Epic Gaming Experiences</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-exclusive-e-bike-giveaway-featuring-complimentary-portable-grill/"><u>ZDNet's Exclusive E-Bike Giveaway Featuring Complimentary Portable Grill!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-digital-doppelganger-designs-sketching-an-animated-self/"><u>[New] Digital Doppelganger Designs Sketching an Animated Self</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-legal-steps-for-overcoming-a-youtube-copyright-strike/"><u>[Updated] Legal Steps for Overcoming a YouTube Copyright Strike</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-from-novice-to-viral-video-top-30-anime-inspiration-ideas/"><u>2024 Approved From Novice to Viral Video Top 30 Anime Inspiration Ideas</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-and-budget-friendly-exploring-the-features-of-the-nintendo-switch-lite/"><u>Compact & Budget-Friendly: Exploring the Features of the Nintendo Switch Lite</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhance-video-impact-two-tiktok-techniques-for-2024/"><u>Enhance Video Impact Two TikTok Techniques for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/exploring-hardware-factors-that-determine-pc-boot-up-and-run-speed-with-tips-by-yl-computing-yl-software/"><u>Exploring Hardware Factors That Determine PC Boot-Up and Run Speed with Tips by YL Computing | YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ready-for-ios-18-features-release-timing-and-cost-free-access-today/"><u>Get Ready for IOS 18: Features, Release Timing, and Cost-Free Access Today</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipados-2023-update-unveiled-find-out-when-it-drops-no-charge-for-users-and-the-latest-upgrades/"><u>IPadOS 2023 Update Unveiled! Find Out When It Drops, No Charge for Users & The Latest Upgrades</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-air-multitasking-made-easy-the-ultimate-split-screen-setup/"><u>MacBook Air Multitasking Made Easy: The Ultimate Split Screen Setup</u></a></li>
+<li><a href="https://win-superb.techidaily.com/navigating-microsofts-copilot-balancing-user-support-and-marketing-strategies-expert-analysis-by-zdnet/"><u>Navigating Microsoft's Copilot: Balancing User Support and Marketing Strategies | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reducing-dependency-on-large-scale-tech-providers-insights-from-microsoft-service-failures/"><u>Reducing Dependency on Large-Scale Tech Providers: Insights From Microsoft Service Failures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/splurge-smarter-unveiling-top-quality-tech-treasures-at-wallet-friendly-rates/"><u>Splurge Smarter: Unveiling Top Quality Tech Treasures at Wallet-Friendly Rates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-connecting-devices-to-your-bose-soundlink-speaker/"><u>Step-by-Step Tutorial: Connecting Devices to Your Bose SoundLink Speaker</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-mastery-how-to-pair-airpods-with-your-hewlett-packard-computer-like-a-pro/"><u>Wireless Mastery: How to Pair AirPods with Your Hewlett-Packard Computer Like a Pro</u></a></li>
 </ul></div>
 

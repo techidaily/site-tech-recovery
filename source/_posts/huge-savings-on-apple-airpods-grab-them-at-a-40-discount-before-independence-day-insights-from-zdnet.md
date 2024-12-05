@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet"
-date: 2024-11-18T18:26:45.898Z
-updated: 2024-11-25T16:05:23.962Z
+date: 2024-12-04T01:20:59.174Z
+updated: 2024-12-04T18:47:12.686Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8fc6b51a-545c-47ed-9fa6-87cbc8d2712f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,20 +62,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-pursuing-profits-the-path-to-fiscal-gains-through-videography/"><u>[New] 2024 Approved Pursuing Profits The Path to Fiscal Gains Through Videography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-tutorial-applying-computer-vhs-filters/"><u>[New] Step-by-Step Tutorial Applying Computer VHS Filters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aiding-academic-success-discover-the-6-greatest-study-apps-for-kids-and-their-guardians/"><u>Aiding Academic Success: Discover the 6 Greatest Study Apps for Kids and Their Guardians</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-factors-when-choosing-your-dream-gaming-computer/"><u>Essential Factors When Choosing Your Dream Gaming Computer</u></a></li>
-<li><a href="https://article-tips.techidaily.com/essential-software-for-online-gaming-shows/"><u>Essential Software for Online Gaming Shows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-buzz-on-google-pixel-fold-2-price-predictions-launch-date-anticipations-full-specifications-and-hidden-gems-in-rumors/"><u>Inside the Buzz on Google Pixel Fold 2: Price Predictions, Launch Date Anticipations, Full Specifications, and Hidden Gems in Rumors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-when-vcompdll-is-missing-or-cant-be-found/"><u>Step-by-Step Fix for When Vcomp.dll Is Missing or Can't Be Found</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-gratuits-logiciels-de-sauvegarde-incrementielle-pour-windows-10-un-choix-facile-et-fiable/"><u>Top Gratuits Logiciels De Sauvegarde Incrémentielle Pour Windows 10 : Un Choix Facile Et Fiable</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-bluetooth-tracking-devices-your-ultimate-guide/"><u>Top-Rated Bluetooth Tracking Devices : Your Ultimate Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-james-bond-marathon-watch-the-franchise-chronologically/"><u>Ultimate James Bond Marathon: Watch the Franchise Chronologically</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-to-increasing-your-twitter-fanbase-quickly-and-effectively/"><u>Unlock the Secrets to Increasing Your Twitter Fanbase Quickly and Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-time-and-intelligence-gpt-powered-wearables-on-the-rise/"><u>Unlocking Time and Intelligence: GPT-Powered Wearables on the Rise</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices/"><u>Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/wmaaiff-movavi/"><u>コストなしでWMAとAIFFを変換する – オンラインツール集（Movavi）</u></a></li>
+<li><a href="https://video-capture.techidaily.com/10-excellent-web-based-screen-capture-solutions-for-2024/"><u>10 Excellent Web-Based Screen Capture Solutions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/booking-a-consultation-with-apple-experts-a-users-manual/"><u>Booking a Consultation with Apple Experts - A User's Manual</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-tags-an-in-depth-look-at-their-meaning-when-applied-to-people-or-products/"><u>Deciphering Tags: An In-Depth Look at Their Meaning When Applied to People or Products</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discovering-the-advantages-of-multi-angle-recording-for-2024/"><u>Discovering the Advantages of Multi-Angle Recording for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dive-into-the-future-with-xbox-vr-discover-expected-launch-timeline-and-pricing-strategies/"><u>Dive Into the Future with Xbox VR - Discover Expected Launch Timeline and Pricing Strategies!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tech-help-eliminating-recovery-partitions-from-your-computer/"><u>DIY Tech Help: Eliminating Recovery Partitions From Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-gmails-additional-security-layer-the-ultimate-how-to/"><u>Enabling Gmail's Additional Security Layer: The Ultimate How-To</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enthralling-virtual-pastimes-7-entertaining-online-options-for-your-childs-fun-time/"><u>Enthralling Virtual Pastimes: 7 Entertaining Online Options for Your Child’s Fun Time</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722877397447-getting-your-windows-11-search-back-on-track-essential-fixes/"><u>Getting Your Windows 11 Search Back on Track - Essential Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-to-transforming-wav-and-flac-tracks-into-mp4s-using-windows-10-features/"><u>Step-by-Step Guide to Transforming WAV and FLAC Tracks Into MP4s Using Windows 10 Features</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-free-software-the-best-12-new-animations/"><u>Top Free Software : The Best 12 New Animations</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-greatness-of-spyros-remastered-adventures-more-than-just-a-petite-dragon/"><u>Unveiling the Greatness of Spyro's Remastered Adventures – More Than Just a Petite Dragon</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-opposite-order-rearranging-videos-in-reverse-flow-for-2024/"><u>Youtube's Opposite Order Rearranging Videos in Reverse Flow for 2024</u></a></li>
 </ul></div>
 

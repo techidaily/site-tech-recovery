@@ -1,7 +1,7 @@
 ---
 title: Why I'm Loyal to My Apple Watch Series
-date: 2024-11-12T17:31:16.714Z
-updated: 2024-11-15T22:03:45.286Z
+date: 2024-12-02T08:23:12.373Z
+updated: 2024-12-05T00:42:22.497Z
 tags:
   - apple
 categories:
@@ -54,6 +54,10 @@ They don't have to be quite this close, but the closer they are the faster the r
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Scan the Apple Watch animation with your iPhone's camera or begin manual pairing
 
 Once you tap **Continue**, the Apple Watch should begin playing an animation of multicolored particles swirling in a sphere. This unique image helps kick off the [pairing process](https://www.zdnet.com/article/how-to-pair-and-unpair-apple-watch/) when you point your iPhone's camera at it. Use the onscreen frame to correctly place it within the camera's view. 
@@ -63,13 +67,6 @@ If there's an issue with your iPhone's camera, or something else is interfering 
 Make sure to capture the entire watch face in the defined frame during scanning. 
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 3: Restore an Apple Watch backup or start from scratch
 
@@ -91,6 +88,10 @@ This step allows your new Apple Watch to sync your personal data, access Find My
 
 If you're setting up a used Apple Watch that was previously activated on another iCloud account, you could run into a hiccup at this point. If the watch was reset correctly, it should activate and tie itself to your iCloud account. However, if it wasn't reset, or it was reset without being unpaired from its previous iPhone, your setup may be blocked by the previous owner's Activation Lock. If this occurs, Apple has [a guide on how to proceed](https://support.apple.com/en-us/HT205009). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 5: Set your passcode
 
 You aren't required to set a passcode for your Apple Watch, but failing to do so will mean you can't use its Apple Pay functionality and some other features. Since you only have to enter the passcode once each time you strap on your Apple Watch, it's a minor extra step that's well worth the protection it provides. 
@@ -100,6 +101,10 @@ During this step you can choose a standard four-digit passcode, create a longer 
 Setting a passcode on your Apple Watch unlocks some functionality that might otherwise be restricted with this security measure.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 6: Customize your settings
 
@@ -111,25 +116,11 @@ It's important to set this correctly. Otherwise your Apple's Watch's face will b
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 7: Set up cellular (GPS + Cellular models only) and Apple Pay
 
 If you have a GPS + Cellular model of Apple Watch, this is when you'll be prompted to set up your cellular connectivity. This process is typically fairly self-explanatory, but it will vary based on the specific carrier the Apple Watch is being activated on. Simply follow the prompts and accept the addition of the Apple Watch to your carrier's account. 
 
 This is also when you can set up [Apple Pay](https://www.zdnet.com/article/how-to-use-apple-pay-in-stores-and-online/) by adding at least one credit card that will be used for payment purposes. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 8: Wrap-up
 
@@ -140,13 +131,6 @@ This is when your Apple Watch begins syncing all of the apps, data, settings, an
 Expect to be staring at a loading animation like this for as long as 20 minutes. Sometimes even longer if you have a lot of existing apps and data.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -164,6 +148,10 @@ The process is almost identical to the steps above, but requires the use of an A
 
 The main differences you'll run into during family setups are the requirement to assign the watch to a member of your family, choosing whether or not that family member can buy apps without your permission, and a few parental control settings, like disabling most functionality during "Schooltime," or setting up movement goals. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can you set up an Apple Watch with an iPad?
 
 No. Unfortunately an iPhone is required to set up an Apple Watch, even if it won't remain connected to one constantly, like in the FAQ scenario above.
@@ -173,10 +161,7 @@ No. Unfortunately an iPhone is required to set up an Apple Watch, even if it won
 We've got [a whole guide to help you](https://www.zdnet.com/article/how-to-change-your-apple-watch-face/) not only [swap out your Apple Watch face](https://www.zdnet.com/article/how-to-change-your-apple-watch-face/), but create the perfect one for your needs, complete with a video walkthrough. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How can I use Apple Music on my Apple Watch?
@@ -217,20 +202,20 @@ To do this, open the Watch app on your iPhone. Then, tap **My Watch**, followed 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-collaborative-video-creation-and-growth-tips/"><u>[New] 2024 Approved Collaborative Video Creation & Growth Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-windows-ignores-nvidia-graphics/"><u>[RESOLVED] Windows Ignores Nvidia Graphics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-deep-examination-of-androids-photo-editing-tool-lightroom/"><u>[Updated] A Deep Examination of Android's Photo Editing Tool, Lightroom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-securing-youtubers-as-sponsors/"><u>2024 Approved Strategies for Securing YouTubers as Sponsors</u></a></li>
-<li><a href="https://fox-info.techidaily.com/30-innovative-video-themes-and-layouts-for-2024/"><u>30 Innovative Video Themes and Layouts for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comment-transformer-votre-audio-mp3-en-video-mkv-facilement-sur-movavi-astuces-gratuites-et-rapides/"><u>Comment Transformer Votre Audio MP3 en Vidéo MKV Facilement Sur Movavi : Astuces Gratuites Et Rapides</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-de-archivo-mp4-a-wmv-sin-fines-de-lucro-en-linea-herramientas-gratuitas-de-movavi-para-la-conversion-de-video/"><u>Conversión De Archivo MP4 a WMV Sin Fines De Lucro en Línea - Herramientas Gratuitas De Movavi Para La Conversión De Vídeo</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-with-major-social-networks-exploring-facebook-twitter-instagram-and-youtube-effectively/"><u>Engage with Major Social Networks: Exploring Facebook, Twitter, Instagram and YouTube Effectively</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-harness-the-power-of-hashtags-in-instagram-marketing-strategies/"><u>In 2024, Harness the Power of Hashtags in Instagram Marketing Strategies</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726226605936-movavi-vob/"><u>Movavi 提供免費網路下載VOB檔 - 全球可用!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/produce-personalized-video-content-easily-with-movavi-tools/"><u>Produce Personalized Video Content Easily with Movavi Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sx720hs-review-the-perfect-blend-of-size-and-zooming-capacity/"><u>SX720HS Review - The Perfect Blend of Size and Zooming Capacity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-top-9-cutting-edge-cinemagraph-creation-tools/"><u>The Ultimate List: Top 9 Cutting-Edge Cinemagraph Creation Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pgm/"><u>오늘날의 가장 깔끔한 무료 PGM 포스트 대체 기능 - 모바이</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-boosting-fb-video-engagement-and-audience-reach/"><u>[Updated] 2024 Approved Boosting FB Video Engagement & Audience Reach</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-streamline-your-music-experience-make-a-youtube-playlist-on-the-go/"><u>[Updated] In 2024, Streamline Your Music Experience Make a YouTube Playlist on the Go</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-restoring-correct-self-image-amidst-message-distortion/"><u>2024 Approved Restoring Correct Self-Image Amidst Message Distortion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-closed-captions-a-step-by-step-guide-for-amazon-prime-video/"><u>Disabling Closed Captions: A Step-by-Step Guide for Amazon Prime Video</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-digital-aesthetic-how-to-change-fonts-in-windows-11-with-simple-tips/"><u>Elevate Your Digital Aesthetic: How To Change Fonts In Windows 11 With Simple Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-optimizing-your-ms-teams-experience-with-copilot-assistance/"><u>Expert Strategies for Optimizing Your MS Teams Experience with Copilot Assistance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-a-missing-python2edll-file-top-troubleshooting-techniques/"><u>How to Recover From a Missing Python2e.dll File - Top Troubleshooting Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers on Windows 10 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y78plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y78+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-redefining-wanderlust-with-virtual-reality-tours/"><u>In 2024, Redefining Wanderlust with Virtual Reality Tours</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-protecting-emails-tips-for-achieving-safelisting-on-google/"><u>Mastering the Art of Protecting Emails: Tips for Achieving Safelisting on Google</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-lines-and-streaks-in-samsung-tv-imagery-a-comprehensive-approach/"><u>Resolving Lines and Streaks in Samsung TV Imagery - A Comprehensive Approach</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solution-strategies-for-an-ipad-that-wont-connect-to-wi-fi-networks/"><u>Solution Strategies for an iPad That Won't Connect to Wi-Fi Networks</u></a></li>
 </ul></div>
 

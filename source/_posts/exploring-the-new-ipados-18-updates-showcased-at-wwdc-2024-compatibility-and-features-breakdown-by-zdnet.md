@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2024-11-24T18:02:53.672Z
-updated: 2024-11-25T18:34:34.117Z
+date: 2024-12-03T10:58:06.549Z
+updated: 2024-12-05T08:36:43.461Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,18 +120,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-freeframe-finder-unearthing-elite-tiktok-background-art/"><u>[New] FreeFrame Finder Unearthing Elite TikTok Background Art</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-examining-video-sharing-platforms-the-vimeo-and-youtube-divide/"><u>[New] In 2024, Examining Video Sharing Platforms The Vimeo & YouTube Divide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-zoom-techniques-for-peak-call-quality-for-2024/"><u>[Updated] Cutting Edge Zoom Techniques for Peak Call Quality for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-evaluating-the-financial-giants-mr-beast/"><u>[Updated] In 2024, Evaluating the Financial Giants Mr. Beast</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-quick-guide-to-restore-video-sharing-in-fb-messengers-iosandroid/"><u>2024 Approved Quick Guide to Restore Video Sharing in FB Messengers (iOS/Android)</u></a></li>
-<li><a href="https://games-able.techidaily.com/andaseats-cheat-codes-a-limited-time-event/"><u>AndaSeat's 'Cheat Codes': A Limited-Time Event</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-well-does-the-latest-iphone-14-stack-up-insights-from-zdnets-in-depth-analysis/"><u>How Well Does the Latest iPhone 14 Stack Up? Insights From ZDNet's In-Depth Analysis.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-maintenance-revolution-apple-authorizes-reuse-of-components-in-device-fixes-techinsights/"><u>IPhone Maintenance Revolution: Apple Authorizes Reuse of Components in Device Fixes | TechInsights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-your-apple-watchs-battery-top-8-essential-setting-adjustments-revealed/"><u>Maximize Your Apple Watch's Battery: Top 8 Essential Setting Adjustments Revealed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/obs-setup-guide-for-macos-downloading-and-setting-up-for-2024/"><u>OBS Setup Guide for macOS Downloading & Setting Up for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/one-week-with-an-ergo-split-keyboard-how-my-entire-setup-transformed-after-the-change/"><u>One Week with an Ergo-Split Keyboard: How My Entire Setup Transformed After the Change!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reforestation-and-afforestation-expand-carbon-sinks-by-increasing-the-number-of-trees-that-absorb-co2-from-the-atmosphere/"><u>Reforestation and Afforestation Expand Carbon Sinks by Increasing the Number of Trees that Absorb CO2 From the Atmosphere.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/xpgs-innovative-cpu-cooler-the-integrated-pump-loop-and-radiator-for-ultimate-high-wattage-control-up-to-280w/"><u>XPG's Innovative CPU Cooler – The Integrated Pump, Loop & Radiator for Ultimate High Wattage Control (Up To 280W)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-hashtag-strategies-on-instagram-for-boosting-your-posts/"><u>Essential Hashtag Strategies on Instagram for Boosting Your Posts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-leveraging-likes-for-livelihood-the-blueprint-to-brand-backings-on-instagram/"><u>In 2024, Leveraging Likes for Livelihood The Blueprint to Brand Backings on Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-premium-gadgets-to-record-online-streams-on-youtube/"><u>In 2024, Premium Gadgets to Record Online Streams on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/making-the-switch-how-to-decide-between-iphone-and-android/"><u>Making The Switch: How To Decide Between iPhone and Android</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-and-fabulous-top-mov-movie-editors-for-2024/"><u>New Free and Fabulous Top MOV Movie Editors for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-smart-8-hd-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Smart 8 HD Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revive-your-silent-iphone-understanding-and-resolving-the-no-ringtone-issue/"><u>Revive Your Silent iPhone: Understanding & Resolving the No-Ringtone Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-legacy-of-aim-the-story-behind-aols-instant-messaging-giant/"><u>Understanding the Legacy of AIM: The Story Behind AOL's Instant Messaging Giant</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-your-iphones-audio-library-with-top-podcast-strategies-for-2024/"><u>Unlocking Your iPhone's Audio Library with Top Podcast Strategies for 2024</u></a></li>
 </ul></div>
 

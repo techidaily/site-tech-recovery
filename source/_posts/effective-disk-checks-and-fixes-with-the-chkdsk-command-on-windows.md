@@ -1,7 +1,7 @@
 ---
 title: Effective Disk Checks and Fixes with the ChkDsk Command on Windows
-date: 2024-08-30T16:26:39.297Z
-updated: 2024-08-31T16:26:39.297Z
+date: 2024-12-02T01:49:32.385Z
+updated: 2024-12-05T03:12:46.214Z
 categories:
   - BestProducts
 description: This Article Describes Effective Disk Checks and Fixes with the ChkDsk Command on Windows
@@ -17,6 +17,10 @@ Close
 
  Chkdsk also marks any damaged or malfunctioning sectors on the hard drive or disk as "bad" and recovers any information still intact.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Chkdsk Command Availability 
 
  The chkdsk command is available via Command Prompt in Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP operating systems.
@@ -26,6 +30,10 @@ Close
 [  13 Best Free Hard Drive Testing Tools (July 2024) ](https://www.lifewire.com/free-hard-drive-testing-programs-2626183) 
 
  The availability of certain chkdsk command switches and other chkdsk command[ syntax](https://www.lifewire.com/what-is-syntax-2626014) might differ from operating system to operating system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Chkdsk Command Syntax 
 
@@ -55,24 +63,11 @@ Close
 
  If you're using the chkdsk command from the Recovery Console in older versions of Windows, use**/p** in place of**/F** above to instruct chkdsk to perform an extensive check and[ repair errors on the hard drive](https://www.lifewire.com/check-and-fix-hard-drive-errors-3506860) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Chkdsk Command Examples 
 
  Here are some of the different ways you might use the chkdsk command:
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Read-Only Mode 
-
 
  `chkdsk`
 
@@ -81,40 +76,37 @@ Close
 ![The CHKDSK command in read-only mode](https://www.lifewire.com/thmb/0p8t7Npad9Bk-vVhkXAlMhm1l-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chkdsk-read-only-mode-45b119cdfaea4c89b2c716c32269497c.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If problems were found when running this simple chkdsk command, you'll want to make sure to use the example from below to correct any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ###  Pre-Boot Scan & Fix 
-
 
  `chkdsk c: /r`
 
  In this example, the chkdsk command is used to perform an extensive check of the _C:_ drive to correct errors and locate recovery information from bad sectors. This is best used when running chkdsk from outside of Windows, like from a recovery disc where you need to specify which drive to scan.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-### Offline Repair 
 
+### Offline Repair 
 
  ` chkdsk c: /scan /forceofflinefix`
 
  This chkdsk command runs an _online scan_ on the _C:_ volume so that you don't have to dismount the volume to run the test, but instead of fixing any issues while the volume is active, the problems are sent to a queue that will be resolved in an offline repair.
 
-### Fast Scan & Fix 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+### Fast Scan & Fix 
 
  ` chkdsk c: /r /scan /perf `
 
  In this example, chkdsk will fix problems on the _C:_ drive while you're using it and will use as many system resources as allowed so that it will run as quickly as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Chkdsk Related Commands 
 
  Chkdsk is often used with many other Command Prompt commands and [ Recovery Console commands](https://www.lifewire.com/recovery-console-2625991) . It's similar to the scandisk command used to check a hard drive or floppy disk for errors in Windows 98 and MS-DOS.
@@ -141,8 +133,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +140,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ride-the-waves-with-top-tier-surf-cameras/"><u>[New] 2024 Approved Ride the Waves with Top-Tier Surf Cameras</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-audio-alchemy-made-accessible-discover-free-transformation-techniques-for-sound/"><u>[Updated] 2024 Approved Audio Alchemy Made Accessible Discover Free Transformation Techniques for Sound</u></a></li>
+<li><a href="https://article-files.techidaily.com/bring-order-to-your-digital-memories-ios-album-structure-and-icloud-backup-synergy-for-2024/"><u>Bring Order to Your Digital Memories IOS Album Structure & iCloud Backup Synergy for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722880830271-discover-the-best-apple-iphone-maps-and-navigation-tools-today/"><u>Discover the Best Apple iPhone Maps and Navigation Tools Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-on-how-to-disable-and-delete-windows-11-copilot-feature/"><u>Easy Instructions on How to Disable and Delete Windows 11 Copilot Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-best-sites-for-watching-movies-without-paying-a-dime/"><u>Explore the Best Sites for Watching Movies Without Paying a Dime</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-users-secret-prevent-automatic-sleep-mode-with-a-simply-closed-lid/"><u>MacBook Users' Secret: Prevent Automatic Sleep Mode with a Simply Closed Lid</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-canon-camcorder-video-editing-made-easy-tips-tricks-and-software/"><u>New Canon Camcorder Video Editing Made Easy Tips, Tricks, and Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-process-of-chromecast-software-update-explained/"><u>The Complete Process of Chromecast Software Update Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-helperdll-solutions-and-tips/"><u>Troubleshooting Missing Helper.dll: Solutions and Tips</u></a></li>
+<li><a href="https://solve-info.techidaily.com/webm-windowsmovwebm/"><u>WEBMへの変換: Windows上でMOV動画をどうやってWEBMに変更するか</u></a></li>
+</ul></div>
 

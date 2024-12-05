@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Top Upcoming Enhancements for iPhone, iPad, Mac with AI Integration Announced by Apple This Autumn - Features Revealed on ZDNet"
-date: 2024-11-12T23:59:49.454Z
-updated: 2024-11-16T04:07:34.558Z
+date: 2024-12-03T06:54:47.977Z
+updated: 2024-12-05T07:17:39.721Z
 tags:
   - apple
 categories:
@@ -60,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -86,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -100,13 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -118,10 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,10 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -159,13 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -173,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,21 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-best-iphoneandroid-photo-background-subtraction/"><u>[New] 2024 Approved Best iPhone/Android Photo Background Subtraction</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-innovative-browsing-strategies-with-picture-in-picture-mode/"><u>[New] In 2024, Innovative Browsing Strategies with Picture-In-Picture Mode</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-intimate-perspectives-with-team-zooms-for-2024/"><u>[New] Intimate Perspectives with Team Zooms for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/aomei-backuppermac/"><u>使用AOMEI Backupper在Mac上进行基本的数据同步指南</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-your-world-of-entertainment-how-to-enable-apple-tv-on-firestick/"><u>Connect Your World of Entertainment: How to Enable Apple TV on Firestick</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-fixing-stubborn-airpods-that-wont-restart-properly/"><u>Expert Tips for Fixing Stubborn AirPods That Won't Restart Properly</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-x-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone X to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-not-responding-in-rust-code-expert-tips/"><u>Overcome 'Not Responding' In Rust Code – Expert Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-user32dll-error-a-step-by-step-guide/"><u>Resolving the 'User32.dll' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-11-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-insiders-technique-to-unite-separate-spotify-playlists-into-a-perfect-mix/"><u>The Insider’s Technique to Unite Separate Spotify Playlists Into a Perfect Mix</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-quantum-shift-meta-engineers-the-worlds-swiftest-ai-hub/"><u>The Quantum Shift: Meta Engineers the World's Swiftest AI Hub</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-screens-hdcp-warning-a-step-by-step-guide-to-fixing-connection-glitches/"><u>Troubleshooting Your Screen's HDCP Warning: A Step-by-Step Guide to Fixing Connection Glitches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-speed-and-savvy-a-comprehensive-guide-to-the-top-30-gmail-shortcuts/"><u>Unlocking Speed and Savvy: A Comprehensive Guide to the Top 30 Gmail Shortcuts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-history-of-yahoo-messenger-and-exploring-reasons-behind-its-discontinuation/"><u>Unveiling the History of Yahoo Messenger & Exploring Reasons Behind Its Discontinuation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-top-video-editors-for-webcams/"><u>[Updated] 2024 Approved Ultimate Guide to Top Video Editors for Webcams</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-economic-elders-youtubes-most-knowledgeable-financial-stations/"><u>[Updated] Economic Elders YouTube's Most Knowledgeable Financial Stations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-10-best-zero-cost-videochats-collaboration-at-your-desk/"><u>2024 Approved 10 Best Zero-Cost Videochats Collaboration at Your Desk</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/practices-for-designing-an-engaging-youtube-teaser/"><u>Best Practices for Designing an Engaging YouTube Teaser</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-closed-captions-in-amazons-streaming-service/"><u>Disabling Closed Captions in Amazon's Streaming Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-movies-and-shows-for-free-with-these-12-exceptional-streaming-applications/"><u>Enjoy Movies and Shows for Free with These 12 Exceptional Streaming Applications</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-pc-crashes-in-cult-of-the-lamb-game/"><u>Expert Advice: Addressing and Correcting PC Crashes in Cult of the Lamb Game</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-the-mssoccsndll-file-missing-error-on-your-computer/"><u>How to Resolve the 'mssoccsn.dll' File Missing Error on Your Computer</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/master-excel-cell-consolidation-techniques-with-expert-advice-from-zdnet/"><u>Master Excel Cell Consolidation Techniques with Expert Advice From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-setup-issues-overcoming-initialization-errors-guide/"><u>Mastering Windows 11 Setup Issues: Overcoming Initialization Errors [Guide]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/real-time-netflix-watching-the-ultimate-guide-to-screen-broadcasts/"><u>Real-Time Netflix Watching: The Ultimate Guide to Screen Broadcasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reenergize-your-airpods-in-just-9-steps-beat-the-charge-drain/"><u>Reenergize Your AirPods in Just 9 Steps – Beat the Charge Drain</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-topfield-recorded-media-to-high-quality-mp4/"><u>Step-by-Step Guide: Converting Topfield Recorded Media to High-Quality MP4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-collection-of-16-zero-cost-resources-to-learn-and-enhance-asl-skills/"><u>The Ultimate Collection of 16 Zero-Cost Resources to Learn and Enhance ASL Skills</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-overview-of-rtx-series-cards-from-nvidia-capabilities-unveiled/"><u>The Ultimate Overview of RTX Series Cards From Nvidia: Capabilities Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trouble-with-roblox-determining-if-its-a-downtime-event/"><u>Trouble with Roblox? Determining if It's a Downtime Event</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-8-ways-to-monetize-chatgpt-for-additional-revenue/"><u>Unlocking the Potential: 8 Ways to Monetize ChatGPT for Additional Revenue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-free-tunes-a-step-by-step-guide-to-securing-a-spotify-student-rate/"><u>Unlocking Your Free Tunes: A Step-by-Step Guide to Securing a Spotify Student Rate</u></a></li>
 </ul></div>
 

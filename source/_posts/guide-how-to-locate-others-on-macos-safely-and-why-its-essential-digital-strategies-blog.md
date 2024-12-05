@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog"
-date: 2024-11-19T17:22:48.648Z
-updated: 2024-11-25T16:36:26.645Z
+date: 2024-11-29T06:38:03.562Z
+updated: 2024-12-05T02:33:43.238Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,21 +129,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-stop-the-mist-secrets-to-a-clean-gopro-shot/"><u>[New] Stop the Mist Secrets to a Clean GoPro Shot</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-compre-written-in-the-stars-harnessing-hidden-opportunities-for-insta-sponsorships-for-2024/"><u>[New] The Compre Written in the Stars Harnessing Hidden Opportunities for Insta-Sponsorships for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-strategies-for-maximizing-video-impact-while-staying-in-cc-zone/"><u>[Updated] Strategies for Maximizing Video Impact While Staying in CC Zone</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/childhood-dreams-in-action-with-the-holy-stone-rc-car-collection-a-review-of-toys-that-spark-joy-and-competition/"><u>Childhood Dreams in Action with the Holy Stone RC Car Collection - A Review of Toys that Spark Joy and Competition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-buzz-insightful-analysis-of-anticipated-prices-and-technical-specs-for-teslas-imminent-robotic-marvel/"><u>Decoding the Buzz: Insightful Analysis of Anticipated Prices and Technical Specs for Tesla's Imminent Robotic Marvel</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-3-dimensional-entertainment-your-guide-to-watch-movies-at-home-via-fandango-platform/"><u>Exploring 3-Dimensional Entertainment: Your Guide to Watch Movies at Home via Fandango Platform</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-key-differences-mac-vs-pc-comparison-explained/"><u>Exploring Key Differences: Mac Vs. PC Comparison Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-nintendo-switch-starter-kit-whats-inside/"><u>Exploring the Nintendo Switch Starter Kit – What's Inside?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-outdated-or-corrupted-graphics-drivers-can-cause-minecraft-to-crash-on-your-windows-pc-and-how-to-fix-it/"><u>How Outdated or Corrupted Graphics Drivers Can Cause Minecraft to Crash on Your Windows PC – and How to Fix It</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/netflix-not-working-fix-it-now-expert-advice-for-roku-users/"><u>Netflix Not Working? Fix It Now - Expert Advice for Roku Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-videopad-video-editor-is-it-worth-the-investment-a-detailed-review/"><u>New Videopad Video Editor Is It Worth the Investment? A Detailed Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-essential-homework-helpers-for-students-and-parents-best-apps-reviewed/"><u>Top 6 Essential Homework Helpers for Students & Parents: Best Apps Reviewed</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-ipad-mouse-compatible-options/"><u>Top-Rated iPad Mouse Compatible Options</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-guide-to-the-finest-75-inch-tvs-of-2024-thoroughly-tested-and-reviewed-by-industry-pros-screenselect/"><u>Ultimate Guide to the Finest 75-Inch TVs of 2024 - Thoroughly Tested & Reviewed by Industry Pros | ScreenSelect</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-syncing-your-fire-stick-controller-perfectly/"><u>Ultimate Guide: Syncing Your Fire Stick Controller Perfectly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-easy-guide-to-rectify-ios-and-android-videos-not-sent-by-messenger/"><u>[Updated] 2024 Approved Easy Guide to Rectify iOS and Android Videos Not Sent by Messenger</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-innovative-tech-for-your-instant-sharing-needs-on-facebook-for-2024/"><u>[Updated] Innovative Tech for Your Instant Sharing Needs on Facebook for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-most-engaging-sandbox-gaming-titles-for-2024/"><u>[Updated] The Most Engaging Sandbox Gaming Titles for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-key-techniques-to-optimize-igtv-video-dimensions/"><u>2024 Approved Key Techniques to Optimize IGTV Video Dimensions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detecting-imposter-network-requests-online-how-to-avoid-adding-fake-connections/"><u>Detecting Imposter Network Requests Online: How to Avoid Adding Fake Connections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-closed-captions-in-amazon-prime-streaming/"><u>Disabling Closed Captions in Amazon Prime Streaming</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-fundamentals-of-e-narrative-creation/"><u>In 2024, Fundamentals of E-Narrative Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/initiate-impact-a-strategic-blueprint-for-setting-up-a-tech-reviews-channel/"><u>Initiate Impact A Strategic Blueprint for Setting Up a Tech Reviews Channel</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/keeping-cameras-steady-in-motion-landscapes-for-2024/"><u>Keeping Cameras Steady in Motion Landscapes for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-mobile-photography-advanced-iphoneipad-lens-and-settings-adjustments/"><u>Mastering Mobile Photography: Advanced iPhone/iPad Lens and Settings Adjustments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/most-captivating-disneyplus-movie-selections-currently-streaming/"><u>Most Captivating Disney+ Movie Selections Currently Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/safeguarding-your-circle-methods-for-discerning-genuine-from-counterfeit-social-invites/"><u>Safeguarding Your Circle: Methods for Discerning Genuine From Counterfeit Social Invites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/viewing-tips-access-and-enjoy-roku-channels-on-alternative-devices/"><u>Viewing Tips: Access and Enjoy Roku Channels on Alternative Devices</u></a></li>
 </ul></div>
 

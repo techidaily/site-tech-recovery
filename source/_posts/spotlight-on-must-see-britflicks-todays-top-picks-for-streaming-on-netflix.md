@@ -1,7 +1,7 @@
 ---
 title: "Spotlight on Must-See Britflicks: Today's Top Picks for Streaming on Netflix"
-date: 2024-08-30T16:23:59.100Z
-updated: 2024-08-31T16:23:59.100Z
+date: 2024-11-28T16:52:31.727Z
+updated: 2024-12-05T05:20:41.568Z
 categories:
   - BestProducts
 description: "This Article Describes Spotlight on Must-See Britflicks: Today's Top Picks for Streaming on Netflix"
@@ -71,6 +71,10 @@ of 11
 
 ![Call the Midwife promotional image](https://www.lifewire.com/thmb/7w0GQCA2b2tEHVv46c296cEaN5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/call-midwife-35cab851f2f24ae5b4e0fabbcc254707.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Laurence Cendrowicz / Neal Street Productions
 
 * **IMDb rating** : 8.6/10
@@ -90,9 +94,17 @@ Laurence Cendrowicz / Neal Street Productions
 
 of 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Best Irish Comedy: Derry Girls](https://www.imdb.com/title/tt7120662/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![Derry Girls promotional photo](https://www.lifewire.com/thmb/g6bXZkk6JXLt6jnBH0Mr2ncIJzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/derry-girls-8773589522b0456aa5afe793430b4a81.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 IMDB
 
@@ -115,12 +127,13 @@ IMDB
 
 of 11
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [ Best Football Docuseries: Sunderland 'Til I Die](https://www.imdb.com/title/tt8914684/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![Sunderland Til I Die promotional photo](https://www.lifewire.com/thmb/Wh6Ep_PHnn-od-D_GMCkNAZmjx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sunderland-15f9297b76d84d4988030d44d176be13.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Craig Sugden
 
@@ -142,16 +155,10 @@ Craig Sugden
 
 of 11
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [ Best Spy Thriller: Bodyguard](https://www.imdb.com/title/tt7493974/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![Bodyguard promotional image](https://www.lifewire.com/thmb/AJRiyoAlPtrfdZ7mToSFN-6wGZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bodyguard-ce713789686746d9a075662159f4853c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 IMDB
 
 * **IMDb rating** : 8.0/10
@@ -171,9 +178,6 @@ IMDB
 
 of 11
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Best Dramedy: Crashing](https://www.imdb.com/title/tt5295524/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![Crashing promotional photo](https://www.lifewire.com/thmb/trQSvcjKLx5pkC4O4eNRNuFFLfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/crashing-36e90a917d834aa493c5d5482d55bef3.jpg) 
@@ -200,8 +204,9 @@ Channel 4
 of 11
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Best Cookoff: The Great British Baking Show](https://www.imdb.com/title/tt1877368/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![Great British Baking Show promotional image](https://www.lifewire.com/thmb/byjgsdAGD-ujWPVGgXn5GmDeMmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/british-baking-show-2b78fde06b7b4160968625b7fe419c9b.jpg) 
@@ -227,13 +232,14 @@ IMDB
 
 of 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Best Suburban Thriller: The Stranger](https://www.imdb.com/title/tt9698480/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![The Stranger promotional photo](https://www.lifewire.com/thmb/9SihNfrS1OhfajAK51Y5gALYO9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/stranger-7b2351eb49a64c4ea7b211be5974e821.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 IMDB
 
 * **IMDb rating** : 7.3/10
@@ -253,16 +259,14 @@ IMDB
 
 of 11
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## [ Best Serial Killer Docuseries: The Ripper](https://www.imdb.com/title/tt13492374/?ref%5F=fn%5Fal%5Ftt%5F2) 
 
 ![The Ripper promotional photo](https://www.lifewire.com/thmb/uf3LU4FO1E1Mu_jlg5-rE0_kAB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-ripper-1fa2dd923788472fb2bc17cb985b2099.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 IMDB
 
 * **IMDb rating** : 7.1/10
@@ -283,8 +287,9 @@ IMDB
 of 11
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Best Drugs Saga: Top Boy](https://www.imdb.com/title/tt1830379/?ref%5F=fn%5Fal%5Ftt%5F1) 
 
 ![Top Boy promotional photo](https://www.lifewire.com/thmb/ixUNUj9UyH5hUNNH_piH_tWXEo0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/top-boy-e989963ce2734263a427eca4ee3f5032.jpg) 
@@ -339,8 +344,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -348,4 +351,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-demystifying-the-world-of-youtube-shorts-for-2024/"><u>[New] Demystifying the World of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-pro-filmmaking-lenses-the-ten-most-critical-choices-for-2024/"><u>[Updated] Pro Filmmaking Lenses The Ten Most Critical Choices for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/erfolgreiche-strategien-zum-wiederherstellen-defekter-bootsektorinformationen-in-nur-4-einfachen-schritten/"><u>Erfolgreiche Strategien Zum Wiederherstellen Defekter Bootsektorinformationen in Nur 4 Einfachen Schritten</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-new-apple-tv-4k-the-complete-third-generation-review/"><u>Exploring the New Apple TV 4K - The Complete Third Generation Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-reasons-behind-the-worlds-shift-to-electric-cars/"><u>Exploring the Reasons Behind the World's Shift to Electric Cars</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fortnite-lag-solutions-eliminate-latency-fast-and-simple/"><u>Fortnite Lag Solutions: Eliminate Latency Fast and Simple</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-itel-s23-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Itel S23 FRP</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-windows-11-screenshots-discover-4-effective-approaches/"><u>Mastering Windows 11 Screenshots: Discover 4 Effective Approaches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/merging-data-columns-efficiently-a-guide-to-consolidating-two-cells-in-microsoft-excel/"><u>Merging Data Columns Efficiently: A Guide to Consolidating Two Cells in Microsoft Excel</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/nintendo-switch-prime-capture-experience/"><u>Nintendo Switch Prime Capture Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-shelldll-not-found-errors-expert-advice-and-fixes-at-hand/"><u>Overcoming 'Shell.dll Not Found' Errors: Expert Advice & Fixes at Hand</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-504-gateway-timeouts-practical-solutions-for-website-downtime/"><u>Overcoming 504 Gateway Timeouts – Practical Solutions for Website Downtime</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/vegas-for-the-aspiring-youtube-editor-a-comprehensive-overview-for-2024/"><u>Sony Vegas for the Aspiring YouTube Editor A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-of-smart-homes-exploring-rumors-and-specs-for-apples-personal-robot/"><u>The Future of Smart Homes: Exploring Rumors and Specs for Apple's Personal Robot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-2024s-most-effective-study-tools/"><u>The Ultimate List of 2024'S Most Effective Study Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-ultimate-mobile-gaming-devices-of-2022-according-to-experts/"><u>Top 5 Ultimate Mobile Gaming Devices of 2022 According to Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgraded-performance-learn-to-install-a-fresh-battery-in-your-ipad/"><u>Upgraded Performance: Learn to Install a Fresh Battery in Your iPad</u></a></li>
+</ul></div>
 

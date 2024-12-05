@@ -1,7 +1,7 @@
 ---
 title: "Discover Our Picks: The 8 Leading Second Numbers Apps"
-date: 2024-08-30T16:26:35.471Z
-updated: 2024-08-31T16:26:35.471Z
+date: 2024-12-04T03:29:38.191Z
+updated: 2024-12-04T19:56:58.661Z
 categories:
   - BestProducts
 description: "This Article Describes Discover Our Picks: The 8 Leading Second Numbers Apps"
@@ -55,9 +55,17 @@ of 05
 
 of 05
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Google Maps](https://maps.google.com/)
 
 ![Google Maps screens on iOS](https://www.lifewire.com/thmb/On7sN_j8REvpI2GhgevdVfBYNUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_iphone-gps-navigation-apps-1683498-5c23e7e146e0fb0001adef3e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -89,15 +97,13 @@ of 05
 of 05
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [TomTom GO Navigation](https://www.tomtom.com/navigation/)
 
 ![TomTom Go screens on iOS](https://www.lifewire.com/thmb/ES5Q2dhGWfscLQaKzYs-3zvgQo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_iphone-gps-navigation-apps-1683498-5c23e7bf46e0fb00013ca0aa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * A la carte downloadable maps with weekly updates.
@@ -127,25 +133,14 @@ of 05
 
 of 05
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Waze](https://www.waze.com/apps/)
 
 ![Three iOS Waze screens](https://www.lifewire.com/thmb/5qLAe1W_WyMYwRfkXwbrDOwmBVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_iphone-gps-navigation-apps-1683498-5c23e7fa46e0fb000194bad7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Live, community-based traffic information.
@@ -172,16 +167,14 @@ of 05
 
 of 05
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Gaia GPS](https://www.gaiagps.com/)
 
 ![Gaia GPS app on iPhone](https://www.lifewire.com/thmb/uNbofhHKQSfJv2XIGx8i4EmntOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-iphone-gps-apps-1683498-10b23c2eaa5b459e94019799f142e0f7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Searchable trail database.
@@ -227,8 +220,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +227,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-integrating-yt-music-into-video-editing-suites/"><u>[New] 2024 Approved Integrating YT Music Into Video Editing Suites</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-decoding-the-features-that-make-youtube-premium-special/"><u>[Updated] Decoding the Features That Make YouTube Premium Special</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-self-filmed-brilliance-secrets-for-youtube-success/"><u>[Updated] In 2024, Self-Filmed Brilliance Secrets for YouTube Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pioneering-editing-snapseed-for-the-newcomer-for-2024/"><u>[Updated] Pioneering Editing Snapseed for the Newcomer for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-storing-session-videos-in-gh/"><u>[Updated] Storing Session Videos in GH</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/achieving-cinematic-brilliance-fine-tuning-your-samsung-4k-display-for-optimal-viewing/"><u>Achieving Cinematic Brilliance: Fine-Tuning Your Samsung 4K Display for Optimal Viewing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902278473-apple-watch-pairing-woes-try-these-6-fix-methods-today/"><u>Apple Watch Pairing Woes? Try These 6 Fix Methods Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exciting-and-educational-7-best-internet-games-for-kids-to-enjoy/"><u>Exciting and Educational: 7 Best Internet Games for Kids to Enjoy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-adding-text-overlays-to-your-instagram-story-content/"><u>Guide: Adding Text Overlays to Your Instagram Story Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-freshen-up-your-windows-11-experience-with-a-reset-or-refresh/"><u>How to Freshen Up Your Windows 11 Experience with a Reset or Refresh</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722893349104-mailcom-subscription-decoding-the-timeline-for-potential-expiry/"><u>mail.com Subscription: Decoding The Timeline For Potential Expiry.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-choosing-all-correspondences-within-gmail/"><u>The Ultimate Tutorial on Choosing All Correspondences Within Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-disconnecting-appliances-from-google-home/"><u>The Ultimate Walkthrough for Disconnecting Appliances From Google Home</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-error-503-a-guide-to-restoring-your-sites-availability/"><u>Troubleshooting Error 503: A Guide to Restoring Your Site's Availability</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-discover-the-18-most-effective-ios-shortcuts-hacks/"><u>Ultimate Guide: Discover the 18 Most Effective iOS Shortcuts Hacks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-11-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 11 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-avs-video-editor-review-does-it-live-up-to-the-hype-for-2024/"><u>Updated AVS Video Editor Review Does It Live Up to the Hype for 2024</u></a></li>
+</ul></div>
 

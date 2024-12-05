@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2024-11-22T17:19:41.191Z
-updated: 2024-11-25T16:41:49.184Z
+date: 2024-11-30T09:17:12.017Z
+updated: 2024-12-05T02:40:55.591Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,17 +129,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-adjusting-youtubes-viewership-limits-for-content/"><u>[New] 2024 Approved Adjusting YouTube's Viewership Limits for Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-social-media-savviness-mastering-4-techniques-to-record-facebook-lives/"><u>[New] In 2024, Social Media Savviness Mastering 4 Techniques to Record Facebook Lives</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-shining-up-photos-on-instagram-three-effective-ways/"><u>[Updated] 2024 Approved Shining Up Photos on Instagram Three Effective Ways</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-most-popular-anime-themed-tiktok-videos-of-all-time/"><u>[Updated] In 2024, The Most Popular Anime-Themed TikTok Videos of All Time</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-googles-communication-legacy-an-insight-into-google-hangouts/"><u>Exploring Google's Communication Legacy: An Insight Into Google Hangouts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/flat-screen-care-101-best-practices-for-keeping-your-tv-immaculate/"><u>Flat Screen Care 101: Best Practices for Keeping Your TV Immaculate</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-repair-a-non-ejectable-disc-player-tips-and-solutions/"><u>How to Repair a Non-Ejectable Disc Player: Tips & Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 6s Plus</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-capture-on-xbox-consoles/"><u>Mastering the Art of Image Capture on Xbox Consoles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-overwatch-startup-issue-how-to-address-black-screen-malfunction/"><u>Resolving Overwatch Startup Issue - How to Address Black Screen Malfunction</u></a></li>
-<li><a href="https://win-docs.techidaily.com/step-by-step-tutorial-on-restoring-information-from-a-failed-booting-dell-hard-drive/"><u>Step-by-Step Tutorial on Restoring Information From a Failed Booting Dell Hard Drive</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-3-emerging-technology-trends-you-cant-ignore/"><u>Top 3 Emerging Technology Trends You Can't Ignore</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hdr-lighting-insight-does-it-merit-creation/"><u>[New] HDR Lighting Insight Does It Merit Creation?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/binkw32dll-disappeared-discover-quick-fixes-and-prevention-strategies/"><u>Binkw32.dll Disappeared? Discover Quick Fixes and Prevention Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/exclusive-review-top-10-gratis-gaming-screen-recorder-apps-for-2024/"><u>Exclusive Review Top 10 Gratis Gaming Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-curated-list-of-top-culinary-adventures-from-your-kitchen-screen-the-10-best-showcased-on-netflix/"><u>Explore Our Curated List of Top Culinary Adventures From Your Kitchen Screen: The 10 Best Showcased on Netflix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/forego-youtube-previews-to-enjoy-live-videos/"><u>Forego YouTube Previews to Enjoy Live Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-transfer-photos-and-videos-from-iphone-to-iphone-for-2024/"><u>How to Transfer Photos and Videos From iPhone to iPhone for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/identifying-excellent-video-production-experts/"><u>Identifying Excellent Video Production Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mosaicmind-pro-unleashing-creative-potential/"><u>MosaicMind Pro Unleashing Creative Potential</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-windows-error-maze-expert-advice-on-correcting-the-persistent-code-28-glitches/"><u>Navigating Through Window's Error Maze: Expert Advice on Correcting the Persistent Code 28 Glitches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quest-meta-3-lite-on-the-horizon-unveiling-features-anticipated-costs-launch-timeline-and-latest-gossip/"><u>Quest Meta 3 Lite on the Horizon: Unveiling Features, Anticipated Costs, Launch Timeline & Latest Gossip</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reinitializing-your-computers-bios-to-factory-settings-a-complete-walkthrough/"><u>Reinitializing Your Computer's BIOS to Factory Settings – A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-integration-of-google-assistant-on-your-personal-computer-through-the-google-home-app-tutorial/"><u>Seamless Integration of Google Assistant on Your Personal Computer Through the Google Home App Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-changing-your-mobile-devices-apparent-gps-position/"><u>Step-by-Step Tutorial: Changing Your Mobile Device's Apparent GPS Position</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/401662-9780446549486-the-merciful-god-of-prophecy/"><u>The Merciful God of Prophecy | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-techniques-to-overcome-lynel-challenges-in-the-legendary-zelda-series/"><u>Top Techniques to Overcome Lynel Challenges in The Legendary Zelda Series</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-pc-effective-ways-to-resolve-kernel-inpage-errors/"><u>Troubleshooting Your PC: Effective Ways to Resolve Kernel Inpage Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unearthing-hidden-ai-advantages-top-5-unused-chatgpt-features/"><u>Unearthing Hidden AI Advantages: Top 5 Unused ChatGPT Features</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/wavwindows-1011-and/"><u>WAVデータをWindows 10・11で完全維持して分割:おすすめ無料プログラム & オンラインリソース</u></a></li>
 </ul></div>
 

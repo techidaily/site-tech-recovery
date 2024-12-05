@@ -1,7 +1,7 @@
 ---
 title: "Windows Users' Guide: Sending/Receiving iMessages Made Easy with Step-by-Step Tips"
-date: 2024-11-12T17:03:48.939Z
-updated: 2024-11-15T20:14:36.673Z
+date: 2024-11-29T10:06:16.774Z
+updated: 2024-12-04T19:20:21.365Z
 tags:
   - apple
 categories:
@@ -56,6 +56,10 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -63,10 +67,7 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -86,10 +87,7 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -97,13 +95,6 @@ Screenshot by Lance Whitney/ZDNET
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -127,6 +118,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Pair your phone and computer
 
 You should then be asked to pair your phone and PC. Scan the QR code with your phone and tap the link to download and install the Unison mobile app from the Apple App Store.
@@ -139,13 +134,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -153,10 +141,7 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -207,19 +192,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-10-premier-android-and-ios-video-chat-tools/"><u>[New] Top 10 Premier Android & iOS Video Chat Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-people-to-subscribe-to-your-youtube-channel/"><u>[Updated] 2024 Approved How to Get People to Subscribe to Your YouTube Channel</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-metaverse-chronicles-the-best-sci-fi-movies-to-explore-new-universes/"><u>[Updated] 2024 Approved Metaverse Chronicles The Best Sci-Fi Movies to Explore New Universes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimizing-your-windows-10-experience-using-zoom-effectively/"><u>[Updated] Optimizing Your Windows 10 Experience Using Zoom Effectively</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-diy-iphone-7-screen-recording-techniques/"><u>2024 Approved DIY IPhone 7 Screen Recording Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726227629827-heic-jpg/"><u>採用最佳免費 HEIC 改成 JPG 工具，全新熱門轉換方式逐一介紹！</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726226238140-3gpmjpeg-movavi/"><u>無限制網路免費3GP到MJPEG格式转换 - 使用Movavi工具</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-gratis-movavi-video-transcoder-movil-y-descargador-de-videos-libre/"><u>Download Gratis Movavi Video Transcoder - Móvil Y Descargador De Videos Libre</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-moto-g84-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Moto G84 5G</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/mkv-to-xbox-360-format-the-ultimate-guide-for-seamless-video-conversion-tools/"><u>MKV to Xbox 360 Format: The Ultimate Guide for Seamless Video Conversion Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavis-no-cost-tool-to-transform-video-object-streaming-vos-to-windows-media-audio-wma/"><u>Movavi's No-Cost Tool to Transform Video Object Streaming (VOS) to Windows Media Audio (.WMA)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726228164844-movavi-202/"><u>Movavi视频编辑器 202</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-your-selling-strategy-with-lazlive-live-selling/"><u>New 2024 Approved Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-10-funniest-subreddits-to-find-hilarious-memes-picked/"><u>Updated In 2024, 10 Funniest Subreddits to Find Hilarious Memes (Picked)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-depth-guide-to-installing-microsofts-movie-maker/"><u>[New] In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effective-color-difference-filters-in-film-making/"><u>[Updated] In 2024, Effective Color Difference Filters in Film-Making</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/detailed-reviews-and-buying-guides-for-hardware-enthusiasts-at-toms-digital-world/"><u>Detailed Reviews and Buying Guides for Hardware Enthusiasts at Tom's Digital World</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-80s-movie-marathon-the-ultimate-guide/"><u>Essential '80S Movie Marathon: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-top-rated-free-communication-tools-beyond-skype/"><u>Explore Top-Rated Free Communication Tools Beyond Skype</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-nord-3-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus Nord 3 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722884456359-save-big-with-exclusive-apple-watch-promotions-for-month/"><u>Save Big with Exclusive Apple Watch Promotions for [Month]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-repair-broken-usb-tethering-connections/"><u>Step-by-Step Guide to Repair Broken USB Tethering Connections</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-how-to-deal-with-a-stuck-macbook-air/"><u>Step-by-Step Solutions: How To Deal With A Stuck MacBook Air</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surface-studio-2-review-closer-to-the-perfection-in-creativity/"><u>Surface Studio 2 Review: Closer to the Perfection in Creativity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-in-scholarly-research-and-essay-development/"><u>Unlocking the Power of ChatGPT in Scholarly Research and Essay Development</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-behind-windows-notorious-blue-screen/"><u>Unraveling the Mystery Behind Windows' Notorious Blue Screen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Windows 'Code 28' Error Fixes
-date: 2024-08-30T16:21:26.741Z
-updated: 2024-08-31T16:21:26.741Z
+date: 2024-11-28T18:26:47.162Z
+updated: 2024-12-05T04:07:20.570Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Solutions for Windows 'Code 28' Error Fixes
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
 
  Instructions in this article apply to[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) ,[Windows 8](https://www.lifewire.com/windows-8-2626235) ,[Windows 7](https://www.lifewire.com/windows-7-2626265) ,[Windows Vista](https://www.lifewire.com/windows-vista-2626311) , and[Windows XP](https://www.lifewire.com/windows-xp-2626354) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes Error Code 0x80004005?
 
  Error code 0x80004005 typically happens when you access shared folders or drives, use specific programs, or have a problem installing Windows updates. Here are the most common causes of error code 0x80004005:
@@ -24,6 +28,10 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
 * Problems opening or extracting[compressed files](https://www.lifewire.com/what-is-a-compressed-file-2625829) and folders.
 
  If you notice the error occurs when you use a specific program, the problem is likely[software](https://www.lifewire.com/what-is-software-4153107) related.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Error Code 0x80004005
 
@@ -45,6 +53,11 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
  In both cases, set the value to**numeric 1** (on), then select**OK** . After that,[restart the Windows PC](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see if the problem is fixed.  
 ![A screenshot of Windows Registry with the Numerical Value and OK button highlighted](https://www.lifewire.com/thmb/OqNevLWWV50Z3qSb36MeYz61-8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-fix-error-code-0x80004005-4689559-7b5e14fd0ef942718355465faefbcb77.jpg)  
  Don't delete or change anything in the Windows registry unless you know what you're doing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Contact support. If none of these fixes work, or if you don't want to make changes to the Windows Registry, contact customer support for your Windows PC. The manufacturer may have potential solutions.
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/best-desktop-pcs-4045927)
@@ -78,8 +91,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,8 +98,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-classroom-captures-unveiling-the-ultimate-10-video-recorders-for-education/"><u>[New] 2024 Approved Classroom Captures Unveiling the Ultimate 10 Video Recorders for Education</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-pro-level-mp3-cutting-discover-the-top-5-online-platforms/"><u>2024 Approved Pro-Level MP3 Cutting Discover the Top 5 Online Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chromatic-brilliance-in-high-definition-blade-camera-review-for-2024/"><u>Chromatic Brilliance in High Definition Blade Camera Review for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-an-individual-chatbot-experience-by-integrating-your-unique-data/"><u>Crafting an Individual Chatbot Experience by Integrating Your Unique Data</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/exclusive-review-top-10-budget-friendly-video-meetup-apps-for-companies-and-schools-for-2024/"><u>Exclusive Review Top 10 Budget-Friendly Video Meetup Apps for Companies & Schools for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-to-capture-gameplay-highlights-as-screenshots-on-your-xbox-one-console/"><u>Expert Strategies to Capture Gameplay Highlights as Screenshots on Your Xbox One Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-wwdc-202n5-top-apple-tech-updates-unveiled/"><u>Exploring WWDC 202N5: Top Apple Tech Updates Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/kubuntu-ultimate-performance-on-ir16-gen-2-the-seamless-linux-notebook-experience/"><u>Kubuntu Ultimate Performance on IR16 Gen 2: The Seamless Linux Notebook Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximize-efficiency-with-wmp-for-audio-conversion/"><u>Maximize Efficiency with WMP for Audio Conversion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solve-your-mac-software-woes-a-guide-to-fixing-unopenable-apps/"><u>Solve Your Mac Software Woes: A Guide to Fixing Unopenable Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-silence-effective-ways-to-revive-a-dead-samsung-soundbar/"><u>Solving the Silence: Effective Ways to Revive a Dead Samsung Soundbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-altering-taskbar-hues-in-windows-11/"><u>The Ultimate Guide to Altering Taskbar Hues in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/top-6-must-try-instagram-reel-apps/"><u>Top 6 Must-Try Instagram Reel Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-401-unauthorized-access-issue/"><u>Ultimate Guide: Resolving the 401 Unauthorized Access Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-10-battery-report-what-it-is-and-how-to-use-it/"><u>Windows 10 Battery Report: What It Is and How to Use It</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->

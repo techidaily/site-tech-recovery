@@ -1,7 +1,7 @@
 ---
 title: The Insight Into How and Why We Use Tags for Objects and Persons Online
-date: 2024-08-30T16:23:07.880Z
-updated: 2024-08-31T16:23:07.880Z
+date: 2024-11-30T17:40:20.364Z
+updated: 2024-12-05T04:07:55.111Z
 categories:
   - BestProducts
 description: This Article Describes The Insight Into How and Why We Use Tags for Objects and Persons Online
@@ -26,6 +26,10 @@ thumbnail: https://www.lifewire.com/thmb/C5fs0r6PRYqQm4K21EeDSPVMg6M=/400x300/fi
 
  Let's take a look at the different ways you can use tagging online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tagging on Blogs
 
  Given that WordPress is currently the most popular blogging platform on the web, we'll focus on how tagging works for this particular platform. WordPress generally has two major ways that users can organize their pages and posts — categories and tags.
@@ -33,6 +37,10 @@ thumbnail: https://www.lifewire.com/thmb/C5fs0r6PRYqQm4K21EeDSPVMg6M=/400x300/fi
  Categories are used to group larger groups of content based on a general theme. Tags, on the other hand, allow users to get more specific, grouping content with multiple keywords and phrase tags in order to get super descriptive.
 
  Some WordPress users put_tag clouds_ in the sidebars of their sites, which look like a collection of keywords and phrase links. Simply click on a tag, and you'll see all the posts and pages that were assigned to that tag.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tagging on Social Networks
 
@@ -45,8 +53,9 @@ thumbnail: https://www.lifewire.com/thmb/C5fs0r6PRYqQm4K21EeDSPVMg6M=/400x300/fi
  Of course, when it comes to X (formerly Twitter), everyone knows about[hashtags](https://www.lifewire.com/what-is-a-hashtag-on-twitter-3486592) . Like Instagram, you have to add that # symbol to the beginning of a keyword or phrase to tag it, which will help people follow the discussion you're in and see your tweets.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## So, What's the Difference Between Tags and Hashtags?
 
  Excellent question. They're both almost identical but have some subtle differences. Firstly, a hashtag always involves including a # symbol at the beginning and is usually only used for following social content and discussions on social media.
@@ -54,8 +63,9 @@ thumbnail: https://www.lifewire.com/thmb/C5fs0r6PRYqQm4K21EeDSPVMg6M=/400x300/fi
  Tagging usually applies to people and blogging. For example, most social networks need you to type the @ symbol first to tag another user, and blogging platforms have sections of their own in their backend areas to add tags, which don't require typing a # symbol.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tagging on Cloud-Based Tools
 
  More cloud-based tools for productivity and collaboration have been jumping on the tagging bandwagon, offering ways for users to organize their content and get other users' attention.
@@ -84,8 +94,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +101,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-cerebral-channels-top-educational-yt-networks/"><u>[Updated] 2024 Approved Cerebral Channels Top Educational YT Networks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-isyncslideshow-integrate-ios-plus-sierra-images-for-2024/"><u>[Updated] ISyncSlideshow Integrate iOS + Sierra Images for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/beatmatching-your-vids-syncing-music-seamlessly-on-facebook/"><u>Beatmatching Your Vids Syncing Music Seamlessly on Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-to-rectifying-far-cry-6s-pc-launch-error-a-comprehensive-fix/"><u>Easy Guide to Rectifying Far Cry 6'S PC Launch Error: A Comprehensive Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-restoring-clarity-from-screen-ghosting-across-all-devices/"><u>Expert Advice: Restoring Clarity From Screen Ghosting Across All Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remove-or-replace-a-phones-glass-screen-protector/"><u>How to Remove or Replace a Phone's Glass Screen Protector</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-x-fold-2-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo X Fold 2 to iPod | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-k11-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo K11 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-motorola-moto-g84-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Motorola Moto G84 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimize-your-macs-point-and-click-experience-by-deactivating-mouse-acceleration/"><u>Optimize Your Mac's Point-and-Click Experience by Deactivating Mouse Acceleration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-solution-for-coredll-error-fixes/"><u>The Definitive Solution for Coredll Error Fixes</u></a></li>
+</ul></div>
 

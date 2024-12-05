@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2024-11-13T08:45:39.168Z
-updated: 2024-11-16T07:29:05.280Z
+date: 2024-12-03T23:01:56.114Z
+updated: 2024-12-04T18:09:22.041Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -36,10 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,20 +129,16 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-the-perfect-introduction-15-viral-youtube-video-intros/"><u>[New] In 2024, Crafting the Perfect Introduction 15 Viral YouTube Video Intros</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hasty-instruction-saving-your-photos-as-youtube-channel-thumbnails/"><u>[New] In 2024, Hasty Instruction Saving Your Photos as YouTube Channel Thumbnails</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-incognito-observer-of-online-chronicles/"><u>[New] Incognito Observer of Online Chronicles</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-adding-closed-captions-to-vimeo-footage/"><u>[Updated] Adding Closed Captions to Vimeo Footage</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-final-list-top-blu-ray-players-for-pcmacos-enthusiasts/"><u>[Updated] Final List Top Blu-Ray Players for PC/macOS Enthusiasts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-pump-up-your-viewership-with-these-proven-methods/"><u>[Updated] In 2024, Pump Up Your Viewership with These Proven Methods</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-top-ten-historical-educational-video-streams-for-students/"><u>2024 Approved Top Ten Historical Educational Video Streams (For Students)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-for-downloading-and-using-fonts-on-ios-devices/"><u>A Comprehensive Tutorial for Downloading and Using Fonts on iOS Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-that-flickering-touch-a-comprehensive-solution-for-surface-pro-display-issues/"><u>Fixing That Flickering Touch: A Comprehensive Solution for Surface Pro Display Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/harmonious-hummingbird-hustle-for-2024/"><u>Harmonious Hummingbird Hustle for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-solve-windows-defender-error-0x80004004-instantly/"><u>How to Solve Windows Defender Error 0X80004004 Instantly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/keep-your-mobile-number-off-public-repositories-a-step-by-step-guide-for-android-users/"><u>Keep Your Mobile Number Off Public Repositories: A Step-by-Step Guide for Android Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-quick-fixes-for-a-malfunctioning-amazon-fire-stick-remote/"><u>Master the Quick Fixes for a Malfunctioning Amazon Fire Stick Remote</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722863472658-ultimate-guide-resolving-the-dreaded-code-28-issues-on-your-windows-system/"><u>Ultimate Guide: Resolving the Dreaded Code 28 Issues on Your Windows System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-smartwatches-capabilities-and-innovations-unveiled/"><u>Understanding Smartwatches: Capabilities & Innovations Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-saving-instagrams-a-step-by-step-approach-for-windowsmacos-users/"><u>[New] 2024 Approved Saving Instagrams A Step-by-Step Approach for Windows/macOS Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-technology-behind-espns-cutting-edge-streaming-service-for-fans/"><u>Decoding the Technology Behind ESPN's Cutting-Edge Streaming Service for Fans</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-2024-release-of-updated-passwords-for-popular-d-link-routers-and-modems/"><u>July 2024 Release of Updated Passwords for Popular D-Link Routers and Modems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/navigate-office-tasks-with-voice-recognition-in-microsoft-word-for-2024/"><u>Navigate Office Tasks with Voice Recognition in Microsoft Word for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/navigating-the-maze-of-communication-features-on-snapchat-for-2024/"><u>Navigating the Maze of Communication Features on Snapchat for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-streaming-guide-on-linking-your-disneyplus-app-with-chromecast/"><u>Seamless Streaming: Guide on Linking Your Disney+ App with Chromecast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stay-ahead-in-micromobility-event-schedule-industry-news-and-expert-rumors-unveiled/"><u>Stay Ahead in Micromobility: Event Schedule, Industry News & Expert Rumors Unveiled</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-basics-of-earning-on-youtube-a-beginners-guide/"><u>The Basics of Earning on YouTube A Beginner’s Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-solutions-for-troubleshooting-your-wireless-adapteraccess-point-issues/"><u>Top 10 Solutions for Troubleshooting Your Wireless Adapter/Access Point Issues</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-hklm-vs-hkcu-a-comprehensive-guide-to-windows-registry-keys-yl-computing/"><u>Understanding HKLM Vs. HKCU: A Comprehensive Guide to Windows Registry Keys - YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Identifying and Locating Hidden AirTags Around You - Insights From ZDNet
-date: 2024-11-24T17:50:25.641Z
-updated: 2024-11-25T16:39:52.438Z
+date: 2024-12-02T12:58:37.525Z
+updated: 2024-12-05T06:21:55.345Z
 tags:
   - apple
 categories:
@@ -18,10 +18,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/)
@@ -31,6 +27,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -38,12 +38,16 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -52,10 +56,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -66,10 +66,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -104,10 +108,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,22 +149,24 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-from-capture-to-share-precision-cropping-and-export-tips-for-instagram/"><u>[New] 2024 Approved From Capture to Share Precision Cropping & Export Tips for Instagram</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-in-game-film-mastery-using-fbx-recorder/"><u>[New] In 2024, In-Game Film Mastery Using FBX Recorder</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-driving-insights-perfect-polling-techniques-for-instagram-stories/"><u>[Updated] 2024 Approved Driving Insights Perfect Polling Techniques for Instagram Stories</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-exceptional-tiktok-video-production/"><u>[Updated] Expert Tips for Exceptional TikTok Video Production</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-rejuvenating-your-macbook-pro-with-a-fresh-start/"><u>A Step-by-Step Guide: Rejuvenating Your MacBook Pro with a Fresh Start</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-personal-fitness-training-revolutionizing-custom-workout-strategies/"><u>ChatGPT and Personal Fitness Training: Revolutionizing Custom Workout Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-for-uninstalling-microsoft-recovery-tools-from-hard-drive/"><u>Complete Tutorial for Uninstalling Microsoft Recovery Tools From Hard Drive</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-cancellation-how-to-stop-payments-on-paramount-plus-subscription/"><u>Effortless Cancellation: How to Stop Payments on Paramount Plus Subscription</u></a></li>
-<li><a href="https://fox-making.techidaily.com/experience-seamless-web-management-with-the-free-vue-argon-aspnet-admin-template-crafted-by-creative-tim-creative-tim/"><u>Experience Seamless Web Management with the Free Vue Argon Asp.Net Admin Template - Crafted by Creative Tim @ Creative Tim</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-correcting-d3d9dll-is-not-found-issues-in-windows-systems/"><u>Expert Advice on Correcting 'D3D9.dll Is Not Found' Issues in Windows Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-overcome-the-dreaded-code-28-error-in-windows-operating-systems/"><u>How to Overcome the Dreaded Code 28 Error in Windows Operating Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-k11x-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo K11x to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-unfollow-process-on-formerly-twitter-key-considerations-and-methods/"><u>Navigating the Unfollow Process on [Formerly Twitter]: Key Considerations and Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-quick-clip-quandary-youtube-shorts-advantage-over-tiktok-for-2024/"><u>The Quick-Clip Quandary YouTube Shorts' Advantage Over TikTok for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-rumored-unveiling-of-xboxs-virtual-reality-headset-pricing-hints-and-projection-of-arrival-dates/"><u>The Rumored Unveiling of Xbox's Virtual Reality Headset - Pricing Hints & Projection of Arrival Dates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-setting-up-finders-and-subfolders-in-mac-os/"><u>Ultimate Guide: Setting Up Finders & Subfolders in Mac OS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-rated-best-webcam-mounting-solutions/"><u>[New] In 2024, Top-Rated Best Webcam Mounting Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-interactive-horizinas-analyzing-the-triumvirate-of-tech-vr-ar-and-mr/"><u>2024 Approved Interactive Horizinas Analyzing the Triumvirate of Tech (VR, AR, & MR)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-lg-channels-key-information-for-tech-enthusiasts/"><u>Decoding LG Channels: Key Information for Tech Enthusiasts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ethernet-woes-in-win11-realtek-fix-found-here/"><u>Ethernet Woes in Win11 - Realtek Fix Found Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-buyers-guide-to-the-most-durable-phone-protectors-of-2024/"><u>Exclusive Buyer's Guide to the Most Durable Phone Protectors of 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211259803-9798987494929-gently-falls-her-rain-of-light/"><u>Gently Falls Her Rain Of Light | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-discern-false-companions-in-your-social-circle-and-on-the-web/"><u>How to Discern False Companions in Your Social Circle and on the Web</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-ultra-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Find X7 Ultra Bootloader Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-playstation-setup-syncing-the-dualshock-device/"><u>Mastering PlayStation Setup: Syncing the DualShock Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ating-the-world-of-asmr-video-content-for-2024/"><u>Navigating the World of ASMR Video Content for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/new-era-in-accounting-repairing-quickbooks-with-stellars-solution/"><u>New Era in Accounting: Repairing QuickBooks with Stellar's Solution</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/optimizing-film-length-for-instagram-on-mac-for-2024/"><u>Optimizing Film Length for Instagram on Mac for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-enabling-low-light-settings-on-iphone/"><u>Step-by-Step Tutorial: Enabling Low Light Settings on iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-8-powerful-search-engines-for-uncovering-persons-details/"><u>The Ultimate List: 8 Powerful Search Engines for Uncovering Person's Details</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-10-free-online-and-desktop-ogv-format-convertors/"><u>Top 10 Free Online and Desktop OGV Format Convertors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-the-best-current-series-on-discoveryplus-july-2024-edition/"><u>Top Picks: The Best Current Series on Discovery+ - July 2024 Edition</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/troubleshooting-guide-why-cant-hyper-v-detect-vms-for-imports-at-specified-path/"><u>Troubleshooting Guide: Why Can't Hyper-V Detect VMs for Imports at Specified Path?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-mapi32dll-solutions-for-windows-users/"><u>Troubleshooting Missing 'Mapi32.dll': Solutions for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-solutions-for-missing-comments-on-your-youtube-videos/"><u>Uncover Solutions for Missing Comments on Your YouTube Videos</u></a></li>
 </ul></div>
 

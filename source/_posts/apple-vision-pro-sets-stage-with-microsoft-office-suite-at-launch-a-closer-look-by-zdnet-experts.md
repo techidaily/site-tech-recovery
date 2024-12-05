@@ -1,7 +1,7 @@
 ---
 title: Apple Vision Pro Sets Stage with Microsoft Office Suite at Launch - A Closer Look by ZDNet Experts
-date: 2024-11-13T18:36:47.962Z
-updated: 2024-11-15T16:03:03.684Z
+date: 2024-12-03T05:08:40.429Z
+updated: 2024-12-05T09:17:42.380Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -49,10 +53,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,13 +78,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -99,13 +93,6 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -140,6 +127,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -163,10 +154,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -182,6 +170,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -220,18 +212,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-high-quality-videos-at-your-fingertesps-selecting-the-right-fps/"><u>[New] In 2024, High-Quality Videos at Your Fingertesps Selecting the Right FPS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-times-illusion-crafting-engaging-slow-motion-videos-on-ig/"><u>[New] Time's Illusion Crafting Engaging Slow-Motion Videos on IG</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-cutting-edge-techniques-for-advanced-hdr-images-in-aps/"><u>[Updated] In 2024, Cutting-Edge Techniques for Advanced HDR Images in APS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-gratuita-da-m4v-a-mov-in-streaming-live-utilizzo-di-movavi-converter-online/"><u>Conversion Gratuita Da M4V a MOV in Streaming Live - Utilizzo Di Movavi Converter Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-libre-de-wmv-en-3gp-en-ligne-mouvavi/"><u>Conversion Libre De WMV en 3GP en Ligne - Mouvavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ferramenta-de-migracao-audiovideo-facil-e-gratuita-mpeg-para-wav-no-movavi-on-line/"><u>Ferramenta De Migração Audio/Video Fácil E Gratuita - MPEG Para WAV No Movavi On-Line</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transform-mov-files-into-m4v-format-with-easy-steps/"><u>Free Online Conversion: Transform MOV Files Into M4V Format with Easy Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-3gp-videos-into-mjpeg-format-with-movavi/"><u>Free Online Conversion: Transforming 3GP Videos Into MJPEG Format with Movavi</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-windows-10-audio-capture/"><u>In 2024, Step-by-Step Windows 10 Audio Capture</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rpiece-maker-scenery-and-sound-unite-for-2024/"><u>Masterpiece Maker Scenery & Sound Unite for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/reduce-high-resolution-video-sizes-hd-4k-nk-by-an-impressive-90-with-these-simple-steps/"><u>Reduce High-Resolution Video Sizes (HD, 4K, nK) by an Impressive 90% with These Simple Steps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726223590556-m4a-m4r-movavi/"><u>무료 인터넷에서 쉬운 M4A, M4R 교리 - Movavi 구독하기</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>[Updated] 2024 Approved Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-ultimate-guide-to-choosing-the-best-modemrouter-packages/"><u>2024'S Ultimate Guide to Choosing the Best Modem/Router Packages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-how-to-efficiently-capture-your-computers-visual-output/"><u>Comprehensive Guide: How to Efficiently Capture Your Computer's Visual Output</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/do-you-truly-experience-dolby-atmos-audio-quality/"><u>Do You Truly Experience Dolby Atmos Audio Quality?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tricks-for-a-seamless-3-screen-computer-display-configuration/"><u>Expert Tricks for a Seamless 3-Screen Computer Display Configuration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flairful-imagery-best-android-collages-unveiled/"><u>Flairful Imagery – Best Android Collages Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-achieve-perfect-timing-with-chromecast-audio-devices/"><u>How to Achieve Perfect Timing with Chromecast Audio Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-compile-presentation-asset-to-video/"><u>In 2024, Compile Presentation Asset to Video</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-directly-connect-tweeting-with-videos-on-whatsapp/"><u>In 2024, Directly Connect Tweeting with Videos on WhatsApp</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-learning-with-these-9-must-have-gadgets-for-academic-success/"><u>Maximize Learning with These 9 Must-Have Gadgets for Academic Success</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-12-mini-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 12 mini Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/parental-content-restrictions-setup-for-the-discord-app/"><u>Parental Content Restrictions Setup for the Discord App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-issues-when-comments-fail-to-appear-below-youtube-content/"><u>Resolving Issues When Comments Fail to Appear Below YouTube Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-what-makes-a-great-gaming-pc/"><u>The Ultimate Guide: What Makes a Great Gaming PC?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-finding-and-installing-asus-laptop-driver-packages/"><u>Ultimate Guide: Finding & Installing ASUS Laptop Driver Packages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-do-if-your-usb-tethering-is-not-working/"><u>What to Do If Your USB Tethering Is Not Working</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/write-striking-introductions-insights-and-demonstrations/"><u>Write Striking Introductions Insights & Demonstrations</u></a></li>
 </ul></div>
 

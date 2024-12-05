@@ -1,7 +1,7 @@
 ---
 title: "Is Investing in Advanced Apple Features Worth the Price?: Exploring Potential Costs of Enhanced Tech"
-date: 2024-11-13T19:49:16.266Z
-updated: 2024-11-16T07:12:19.765Z
+date: 2024-11-29T18:22:58.289Z
+updated: 2024-12-04T16:21:15.598Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -35,6 +39,10 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -54,6 +62,10 @@ Some of the biggest AI features from Apple Intelligence include:
 Aside from these AI features, iOS 18 will include new customizable icons and interface updates for Control Center, Settings, and Messages. Apple is also launching a new [Passwords app](https://www.zdnet.com/article/apple-to-unveil-password-manager-app-at-wwdc-2024-what-it-is-and-how-it-works/) to replace the iCloud Keychain and give users a more user-friendly option, similar to 1Password and LastPass.
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
 
@@ -83,13 +95,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -103,16 +108,7 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -139,13 +135,6 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -163,10 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -224,24 +210,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-pun-picture-studio-chucklecrafts-for-2024/"><u>[New] Pun Picture Studio ChuckleCrafts for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-essential-checklist-archiving-internet-music-with-ease/"><u>[New] The Essential Checklist Archiving Internet Music with Ease</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-images-the-novices-guide-to-snapseed/"><u>[Updated] 2024 Approved Enhancing Images The Novice's Guide to Snapseed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unveiling-fake-followers-on-instagram-effortlessly/"><u>[Updated] In 2024, Unveiling Fake Followers on Instagram, Effortlessly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>[Updated] Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-the-power-of-your-everyday-webcam/"><u>[Updated] Unlocking the Power of Your Everyday Webcam</u></a></li>
-<li><a href="https://win-info.techidaily.com/acasis-nvme-ssd/"><u>Acasis NVMe SSD クローニング手順: 最も効率的な安全なコピー方法</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/before-you-invest-the-5-key-questions-every-fitness-enthusiast-should-ask-about-trackers/"><u>Before You Invest: The 5 Key Questions Every Fitness Enthusiast Should Ask About Trackers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/correcting-missing-advrctndll-files-for-seamless-nero-installation/"><u>Correcting Missing .advrctn.dll Files for Seamless Nero Installation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-15-no-cost-app-removers-available-now/"><u>Discover the Best 15 No-Cost App Removers Available Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-connections-a-comprehensive-guide-to-linking-a-chromecast-remote/"><u>Easy Connections: A Comprehensive Guide to Linking a Chromecast Remote</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/los-mejores-conversores-de-video-a-mp4-en-2023-los-12-mas-eficientes-y-faciles-de-usar-seleccionados-por-movavi/"><u>Los Mejores Conversores De Video a MP4 en 2023 - Los 12 Más Eficientes Y Fáciles De Usar, Seleccionados Por Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macbook-air-multitasking-pro-unleash-the-power-of-split-screen-mode/"><u>MacBook Air Multitasking Pro: Unleash the Power of Split Screen Mode</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-civ-6-launch-errors-on-the-latest-windows-operating-system/"><u>Overcoming Civ 6 Launch Errors on the Latest Windows Operating System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/phone-carrier-basics-how-your-mobile-service-works-explained/"><u>Phone Carrier Basics: How Your Mobile Service Works Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-methods-to-find-out-the-type-and-serial-of-your-macbook-device/"><u>Simple Methods to Find Out the Type and Serial of Your MacBook Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-is-bright-sonys-2024-vision-new-gadgets-innovations-and-industry-breakthroughs-revealed/"><u>The Future Is Bright: Sony’s 2024 Vision – New Gadgets, Innovations, and Industry Breakthroughs Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-to-fix-error-code-41-on-your-pcs-device-manager/"><u>Troubleshooting Tips to Fix Error Code 41 on Your PC's Device Manager</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-penning-powerful-stories-with-a-camera-lens/"><u>2024 Approved Penning Powerful Stories with a Camera Lens</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-walkthrough-windows-11-sandbox-setup/"><u>A Comprehensive Walkthrough: Windows 11 Sandbox Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-7-apps-for-reliable-wake-up-sounds/"><u>Discover the Ultimate 7 Apps for Reliable Wake-Up Sounds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-resolve-504-gateway-timeout-issues/"><u>Effective Strategies to Resolve 504 Gateway Timeout Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-tips-for-building-persuasive-presentations-with-the-help-of-chatgpt/"><u>Effective Tips for Building Persuasive Presentations with the Help of ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-dvd-management-with-winx-dvd-author-the-best-free-solution-for-windows-pcs/"><u>Effortless DVD Management with WinX DVD Author: The Best Free Solution for Windows PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hustle-humor-fast-track-funny-with-kapwing-for-2024/"><u>Hustle Humor Fast-Track Funny with Kapwing for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-fellowes-microban-corded-keyboard-a-cost-effective-pick/"><u>In-Depth Analysis of Fellowes Microban Corded Keyboard: A Cost-Effective Pick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-gslnewns165dll-not-found-challenges-expert-fixes-revealed/"><u>Overcoming gsl_newns165.dll Not Found Challenges - Expert Fixes Revealed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pioneering-the-use-of-film-in-educational-methodologies-for-2024/"><u>Pioneering the Use of Film in Educational Methodologies for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolution-steps-for-blue-screen-of-death-read-only-memory-write-error/"><u>Resolution Steps for Blue Screen of Death - Read-Only Memory Write Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-adding-text-overlays-and-subtitles-to-your-instagram-story-videos/"><u>Step-by-Step Guide: Adding Text Overlays and Subtitles to Your Instagram Story Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-magnify-and-minimize-images-with-iphone-or-ipad/"><u>Ultimate Guide: Magnify and Minimize Images with iPhone or iPad</u></a></li>
 </ul></div>
 

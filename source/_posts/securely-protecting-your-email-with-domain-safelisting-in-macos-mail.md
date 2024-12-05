@@ -1,7 +1,7 @@
 ---
 title: Securely Protecting Your Email with Domain Safelisting in macOS Mail
-date: 2024-08-30T16:19:30.282Z
-updated: 2024-08-31T16:19:30.282Z
+date: 2024-11-27T19:44:42.482Z
+updated: 2024-12-04T18:29:01.906Z
 categories:
   - BestProducts
 description: This Article Describes Securely Protecting Your Email with Domain Safelisting in macOS Mail
@@ -26,6 +26,11 @@ thumbnail: https://www.lifewire.com/thmb/rJZfBg3-i-ZyczqvW7RscZaqx-k=/400x300/fi
  The keyboard shortcut is**Command+,** (comma).  
 ![Preferences in Apple Mail](https://www.lifewire.com/thmb/1Sy5fqWLmDxVBN8uUfGm5SNwNVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-stored-attachments-from-os-x-mail-1172807-d9134bb979ca482581af8664c380d48d.jpg)
 2. Click the**Rules** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Rules tab](https://www.lifewire.com/thmb/XeSvAVPxWyOLEkyYyO4X7dqyWYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-whitelist-domain-os-x-mail-1172857-0ba103d3b9c7470abfc0cef1ce7ea51a.jpg)
 3. Click**Add Rule** .  
 ![The Add Rule button](https://www.lifewire.com/thmb/sHdEmDMBzIGkDpH0tKhN4hOe9_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-whitelist-domain-os-x-mail-1172857-d6d14e1ca2bc4d8895789ad88c980642.jpg)
@@ -38,8 +43,18 @@ thumbnail: https://www.lifewire.com/thmb/rJZfBg3-i-ZyczqvW7RscZaqx-k=/400x300/fi
 7. In the text field following**Ends with** , enter the domain's name that you want to safelist. Include the ampersand "**@** " before the domain name to make the filter specific — for example, to safelist all mail from the example.com domain, but not mail that might come from one of its subdomains (such as @subdomain.example.com), type "@example.com" into the field.  
 ![The conditions text field](https://www.lifewire.com/thmb/IzHwndnoDgN5WUDflf1Kz0evKU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-whitelist-domain-os-x-mail-1172857-26d877bfe4944060bd3b51986bbe8679.jpg)
 8. Click the**plus sign** next to the last condition to add another domain with the same criteria to safelist more domains.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The plus sign](https://www.lifewire.com/thmb/QEnULRAQM_X_CsBtrgfUNgsvEx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-whitelist-domain-os-x-mail-1172857-5d15afadb55949c2a5b783ddc5fa8ee9.jpg)
 9. In the **Perform the following actions** section set the dropdown items to:**Move Message** and**Inbox** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can specify a different mail folder if you want.  
 ![The actions in a rule](https://www.lifewire.com/thmb/y31duKqywJ6VOUUDbtB7StU_J4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-whitelist-domain-os-x-mail-1172857-0d4e8dac71c74d8182b3b18b1da9574a.jpg)
 10. Click**OK** to save the rule.  
@@ -47,8 +62,13 @@ You can specify a different mail folder if you want.
 11. Close the**Rules** window.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setting Rule Order in Mac Mail App
 
  The order of the rules you have set matters. Mail executes them one after the other, moving down the list. This point is important to consider because some messages may satisfy the criteria established in more than one rule you've created, so you'll want to consider the logical order in which you want each rule to be applied to incoming messages.
@@ -57,9 +77,6 @@ You can specify a different mail folder if you want.
 
  For example, if you have a filter that color-codes certain messages based on keywords in the subject, move your domain safelist rule above that labeling rule.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Junk Mail Filtering Settings in Mac Mail
 
  Junk mail filtering is active by default in the Mail app. You can find these settings by following these steps:
@@ -67,14 +84,13 @@ You can specify a different mail folder if you want.
 1. In the Mac OS X Mail top menu, click **Mail**  \> **Preferences** .  
 ![Preferences in Apple Mail](https://www.lifewire.com/thmb/1Sy5fqWLmDxVBN8uUfGm5SNwNVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-stored-attachments-from-os-x-mail-1172807-d9134bb979ca482581af8664c380d48d.jpg)
 2. Click the**Junk Mail** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Junk Mail tab in Mail](https://www.lifewire.com/thmb/ylc65KbP0RkCGey6eMnttMWjET8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010-whitelist-domain-os-x-mail-1172857-8ae2abc6ec27426f9b893d03218777dd.jpg)
 3. You can[tailor your junk mail filtering settings](https://www.lifewire.com/filter-spam-with-apple-mail-2259746) , including specifying where junk mail should go and defining exemptions for junk mail filtering.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Click**Reset** to return the junk mail settings to the defaults.
 
 Was this page helpful?
@@ -97,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +120,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-from-dull-to-dynamic-a-masters-approach-to-color-for-2024/"><u>[Updated] From Dull to Dynamic A Master's Approach to Color for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accelerate-your-learning-curve-10-key-insights-for-newbies-on-platform-x-twitters-rebranded-identity/"><u>Accelerate Your Learning Curve: 10 Key Insights for Newbies on Platform X (Twitter's Rebranded Identity)</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/free-online-conversion-change-your-mkv-files-into-mov-format-using-movavi/"><u>Free Online Conversion - Change Your MKV Files Into MOV Format Using Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-a-zlibdll-file-missing-or-corrupted-scenario/"><u>How to Recover From a zlib.dll File Missing or Corrupted Scenario</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-find-x6-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo Find X6 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-the-art-of-selecting-free-music-for-videos/"><u>In 2024, Mastering the Art of Selecting Free Music for Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-fire-stick-remote-linkage-for-optimal-streaming-experience/"><u>Master the Art of Fire Stick Remote Linkage for Optimal Streaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-fixes-resolving-bootmgr-error-messages-on-your-pc/"><u>Master the Fixes: Resolving BOOTMGR Error Messages on Your PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-checklist-for-transferring-snaps-to-photos-folder-for-2024/"><u>The Ultimate Checklist for Transferring Snaps to Photos Folder for 2024</u></a></li>
+</ul></div>
 

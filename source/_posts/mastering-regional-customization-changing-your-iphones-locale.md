@@ -1,7 +1,7 @@
 ---
 title: "Mastering Regional Customization: Changing Your iPhone's Locale"
-date: 2024-08-30T16:20:23.609Z
-updated: 2024-08-31T16:20:23.609Z
+date: 2024-11-28T02:12:41.586Z
+updated: 2024-12-04T18:57:39.107Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Regional Customization: Changing Your iPhone's Locale"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 ---
 
 ## Creating Personalized Notification Tones in Gmail – Step by Step
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 * Change the sound in the drop-down menu and exit.
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
 
@@ -29,8 +38,18 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
@@ -38,16 +57,14 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
  You can[turn on notification sounds for Outlook](https://www.lifewire.com/change-new-mail-notification-sound-outlook-1173674) email messages in the **FILE** \>**Options** \>**Mail**  menu, with the **Play a sound** option from the Message arrival section. To change the sound,[open Control Panel](https://www.lifewire.com/how-to-open-control-panel-2625782) and search for "sound". Open the Sound [Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) and modify the **New Mail Notification** option from the Sounds tab.
@@ -85,8 +102,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +109,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-instant-classics-days-highest-youtube-rankings/"><u>[New] Instant Classics Day’s Highest YouTube Rankings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-peeling-the-onion-understanding-instagram-story-audiences/"><u>[Updated] 2024 Approved Peeling the Onion Understanding Instagram Story Audiences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exclusive-list-of-premium-online-and-desktop-gif-makers-for-2024/"><u>[Updated] Exclusive List of Premium Online & Desktop GIF Makers for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-make-duet-on-tiktok-for-2024/"><u>[Updated] How to Make Duet On TikToK for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pinpointing-your-place-in-youtubes-varied-landscapes/"><u>[Updated] Pinpointing Your Place in YouTube's Varied Landscapes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-netgear-password-guide-july-2024-edition/"><u>Comprehensive NETGEAR Password Guide - July 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-tips-to-purge-your-androids-memory-storage/"><u>Effortless Tips to Purge Your Android's Memory Storage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-instagram-hashtags-for-increasing-your-reach-and-engagement/"><u>Essential Instagram Hashtags for Increasing Your Reach and Engagement</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722883574785-exclusive-insights-nothing-phone-3-anticipated-costs-release-schedule-tech-specs-revealed/"><u>Exclusive Insights: 'Nothing Phone 3' - Anticipated Costs, Release Schedule, Tech Specs Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-enterprise-unveiling-its-features-and-distinct-advantages/"><u>Exploring ChatGPT Enterprise: Unveiling Its Features & Distinct Advantages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-efficacy-of-mcafees-new-ai-deepfake-audio-detector-does-it-meet-security-standards/"><u>Exploring the Efficacy of McAfee's New AI Deepfake Audio Detector – Does It Meet Security Standards?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/freshest-driver-release-navigating-windows-display-driver-updates-and-installation/"><u>Freshest Driver Release: Navigating Windows Display Driver Updates & Installation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-do-oled-panels-work-a-detailed-overview-for-tech-enthusiasts/"><u>How Do OLED Panels Work? A Detailed Overview for Tech Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-of-compelling-documentary-screenplay/"><u>In 2024, The Fundamentals of Compelling Documentary Screenplay</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-management-of-network-safety-areas-in-windows/"><u>Masterful Management of Network Safety Areas in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-unresponsive-call-issues-a-guide-for-your-samsung-galaxy-watch/"><u>Solving Unresponsive Call Issues: A Guide for Your Samsung Galaxy Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-superior-email-clients-the-ultimate-replacement-options-for-gmail/"><u>Top 8 Superior Email Clients: The Ultimate Replacement Options for Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-common-ieframedll-issues-on-your-computer/"><u>Troubleshooting the Common ieframe.dll Issues on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-guide-to-premiering-documentaries-focused-on-max-for-july-2024/"><u>Your Guide to Premiering Documentaries Focused on Max for July 2024</u></a></li>
+</ul></div>
 

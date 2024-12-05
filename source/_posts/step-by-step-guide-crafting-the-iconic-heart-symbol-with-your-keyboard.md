@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting the Iconic Heart Symbol with Your Keyboard"
-date: 2024-08-30T16:17:43.744Z
-updated: 2024-08-31T16:17:43.744Z
+date: 2024-12-04T03:05:36.772Z
+updated: 2024-12-04T17:19:13.810Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Crafting the Iconic Heart Symbol with Your Keyboard"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
  The Awkward Potion in Minecraft doesn't have any power on its own; however, if you combine it with other ingredients, you can brew a lot of useful potions.
 
  Instructions in this article apply to Minecraft for all platforms including Windows, PS4, and Xbox One.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make an Awkward Potion in Minecraft
 
@@ -29,14 +33,33 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 5. Place the **Brewing Stand** on the ground and interact with it to bring up the brewing menu.  
 ![Place the Brewing Stand on the ground and interact with it to bring up the brewing menu.](https://www.lifewire.com/thmb/YfgJEhKKlkc-7vyOQvB0NpYmHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-76b8ca6ad2c04b3c95e6a7c15bb0f401.jpg)
 6. Add**1** **Blaze Powder** to the box in the upper-left corner of the brewing menu to activate the **Brewing Stand** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Add 1 Blaze Powder to the box in the upper-left corner to activate the Brewing Stand.](https://www.lifewire.com/thmb/ePA5ABxVZJ_IXRMUbvCLECLQryw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-132e911c37704b818f71e52c2a4c2b6e.jpg)
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Awkward Potion Recipe  
 
@@ -48,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 * 1 Water Bottle  
 * 1 Nether Wart  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## What Does an Awkward Potion Do in Minecraft?  
 
  The Awkward Potion is an essential base ingredient for many other potions. Here's a list of what you can make with an Awkward Potion.  
@@ -88,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +115,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-cutting-the-chaff-skilled-techniques-for-cropping-videos-for-instagram/"><u>[New] 2024 Approved Cutting the Chaff Skilled Techniques for Cropping Videos for Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-concealing-confidentiality-blurring-identity-in-recordings/"><u>[Updated] Concealing Confidentiality Blurring Identity in Recordings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-quick-guide-to-concisely-editing-youtube-videos/"><u>2024 Approved Quick Guide to Concisely Editing YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-installation-dive-into-ifunnys-meme-world/"><u>2024 Approved Simplified Installation Dive Into iFunny's Meme World</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726224864078-wav-aac-movavi/"><u>対話型 WAV ファイルからAACへのストリーミング変換ツール - 動画彩(Movavi)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/app-store-showdown-ios-vs-google-play-which-reigns-supreme/"><u>App Store Showdown: IOS Vs. Google Play – Which Reigns Supreme?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comment-effacer-un-signet-de-bureau-windows-11/"><u>Comment Effacer Un Signet De Bureau Windows 11?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-overcome-the-steam-disk-write-issue/"><u>Effective Solutions to Overcome the Steam Disk Write Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-localisation-tips-easily-update-to-a-different-region-or-language/"><u>Iphone Localisation Tips: Easily Update to a Different Region or Language</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/linksys-wrt3200acm-router-review-one-of-the-best-open-source-routers/"><u>Linksys WRT3200ACM Router Review: One of the Best Open Source Routers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-messaging-a-complete-guide-to-using-whatsapp-on-your-mac-computer/"><u>Mastering Messaging: A Complete Guide to Using WhatsApp on Your Mac Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/messenger-for-non-facebookers-a-comprehensive-guide/"><u>Messenger for Non-Facebookers: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sizzling-success-in-overcooked-2-our-in-depth-review/"><u>Sizzling Success in Overcooked! 2 - Our In-Depth Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/snapchat-comeback-strategies-reactivating-your-dormant-account-effortlessly/"><u>Snapchat Comeback Strategies: Reactivating Your Dormant Account Effortlessly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/speedy-and-reliable-nvme-solid-state-drives-to-supercharge-your-steam-deck-adventures/"><u>Speedy and Reliable NVMe Solid State Drives to Supercharge Your Steam Deck Adventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-apple-gaming-experiences-for-puzzle-enthusiasts-loving-the-room-and-myst/"><u>Top Apple Gaming Experiences for Puzzle Enthusiasts Loving 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-facebook-from-humble-beginnings-to-widespread-appeal-and-core-elements/"><u>Understanding Facebook: From Humble Beginnings to Widespread Appeal & Core Elements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-facebook-discovering-its-beginnings-popularity-secrets-and-core-characteristics/"><u>Unveiling Facebook: Discovering Its Beginnings, Popularity Secrets, and Core Characteristics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win-107-speaker-quality-improvement-guide-issues-resolved/"><u>Win 10/7 Speaker Quality Improvement Guide [ISSUES RESOLVED]</u></a></li>
+</ul></div>
 

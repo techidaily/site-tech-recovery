@@ -1,7 +1,7 @@
 ---
 title: "Savvy Shopping Tips: What to Look For Before Selecting a Reconditioned Notebook"
-date: 2024-08-30T16:24:00.385Z
-updated: 2024-08-31T16:24:00.385Z
+date: 2024-12-03T03:18:06.702Z
+updated: 2024-12-05T10:58:26.995Z
 categories:
   - BestProducts
 description: "This Article Describes Savvy Shopping Tips: What to Look For Before Selecting a Reconditioned Notebook"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-exploring-the-world-of-montage-image-magic/"><u>[Updated] 2024 Approved Exploring the World of Montage Image Magic</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-self-starting-facebook-videos/"><u>[Updated] 2024 Approved The Ultimate Guide to Self-Starting Facebook Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ideal-cutting-edge-apps-top-10-for-editing-youtube-shorts/"><u>[Updated] Ideal Cutting Edge Apps Top 10 for Editing Youtube Shorts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-initiate-the-art-of-movie-making-xp-edition-for-2024/"><u>[Updated] Initiate the Art of Movie Making Xp Edition for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-differences-between-ipad-pro-mini-m4-and-new-macbook-air-m1-a-comprehensive-guide/"><u>Decoding the Differences Between iPad Pro Mini (M4) and New MacBook Air M1 – A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/oneplus-10-the-comprehensive-guide-to-latest-rumors-pre-launch-speculations-estimated-costs-and-release-timeline/"><u>OnePlus 10: The Comprehensive Guide to Latest Rumors, Pre-Launch Speculations, Estimated Costs & Release Timeline</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pairing-and-managing-multiple-bluetooth-speakers-with-just-one-device/"><u>Pairing and Managing Multiple Bluetooth Speakers with Just One Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-teen-focused-films-streaming-now-on-netflix/"><u>Top Teen-Focused Films Streaming Now on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unmasking-pretend-pal-petitions-guidelines-for-spotting-bogus-buddy-bids-online/"><u>Unmasking Pretend Pal Petitions: Guidelines for Spotting Bogus Buddy Bids Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-samsungs-interconnected-universe-stands-tall-alongside-apples-a-comprehensive-review/"><u>Why Samsung's Interconnected Universe Stands Tall Alongside Apple's - A Comprehensive Review</u></a></li>
+</ul></div>
 

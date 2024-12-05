@@ -1,7 +1,7 @@
 ---
 title: "Meta Quest 2 Lite: The Next Generation of VR - Predicted Price Points and Launch Window Uncovered"
-date: 2024-08-30T16:22:44.207Z
-updated: 2024-08-31T16:22:44.207Z
+date: 2024-11-30T03:50:47.882Z
+updated: 2024-12-05T06:20:15.239Z
 categories:
   - BestProducts
 description: "This Article Describes Meta Quest 2 Lite: The Next Generation of VR - Predicted Price Points and Launch Window Uncovered"
@@ -22,40 +22,44 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
  There are whispers of a new, cheaper version of the[ Meta Quest 3](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) – the Meta Quest 3 Lite (aka Meta Quest 3s). While your wallet won't take as big of a hit, you might have to deal with the same display resolution as the Quest 2 (from 2020). Here's everything you can expect from Meta's upcoming VR headset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Will Meta Quest 3 Lite Be Released? 
 
  If the rumors are accurate, the Quest 3 Lite will arrive this year. We're just not sure_when_ . The Quest 3 was unveiled in June 2023 and released in October. If this year follows a similar pattern, Meta could announce the next headset any day now. Otherwise, they might wait until[ Meta Connect](https://www.meta.com/connect/) in September.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Lifewire's Release Date Estimate
 
  We think the Meta Quest 3s will be available for purchase by the end of September 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Meta Quest 3 Lite Price Rumors 
 
  The Quest 3 Lite[ might cost around $200](https://mp.weixin.qq.com/s/jTB63jxbik84eoRWBTLJ0Q) . If this is true, VR will be a lot more affordable for more people. For some perspective, the Quest 2 launched at $300, and the Quest 3 costs $500\. There's also the $3,000+[ Vision Pro](https://www.lifewire.com/is-the-apple-vision-pro-worth-it-8636202) , but we can hardly compare this model with Apple's beast of a headset.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  There's no word yet on pre-orders for the Quest 3 Lite. Meta will probably allow pre-ordering following the headset's unveiling.
 
 [  5 Things to Consider Before Buying a VR Headset ](https://www.lifewire.com/5-things-to-consider-before-buying-a-vr-headset-5271867) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Meta Quest 3 Lite Features 
 
  We don't know everything for sure, but expect the Quest 3 Lite to be a more basic VR headset to keep the price down. It might not be as powerful or have as sharp a picture as the Quest 3, but you'll still be able to play VR games and apps.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Meta Quest 3 Lite Specs and Hardware 
 
  Some supposed leaked material from a Meta presentation gives us a glimpse at what the headset might look like. The Meta Quest 3s (on the left, pictured below) includes six cameras positioned in two triangular sets. These are likely full-color, passthrough cameras. Meta's Director of Engineering for XR Tech[ Paul Furgale is "convinced that Passthrough and MR will be a standard feature on all future headsets" following the Quest 3](https://www.meta.com/blog/quest/ai-powered-technologies-quest-3-pro-ray-ban-meta-smart-glasses/) .  
@@ -68,15 +72,12 @@ thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd
 
 ![Meta Quest 3](https://www.lifewire.com/thmb/iXYvSQIxLwkRmBJtBs3XZLVjB3Y=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Meta-Quest-3-v2-305b96ae177f411aa3bb2f852f75254a.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 The Meta Quest 3. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About Meta Quest 3 Lite 
 
  You can [ get more smart and connected life news from Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Here are the latest stories on Meta's VR headsets:
@@ -93,8 +94,6 @@ The Meta Quest 3.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +101,26 @@ The Meta Quest 3.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-exploration-of-morphvox-modification-methods/"><u>[New] In-Depth Exploration of MorphVOX Modification Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-potential-with-facebooks-live-a-comprehensive-guide-for-creators/"><u>[Updated] In 2024, Unlocking Potential with Facebook’s LIVE A Comprehensive Guide for Creators</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a58-4g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aqua-proofing-in-action-how-strong-is-iphone-15-against-liquids/"><u>Aqua-Proofing in Action: How Strong Is iPhone 15 Against Liquids?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/blown-away-by-emojis-10-startling-truths-you-need-to-see/"><u>Blown Away by Emojis? 10 Startling Truths You Need to See</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722892228339-discover-these-6-exceptional-no-cost-photo-manipulation-tools/"><u>Discover These 6 Exceptional No-Cost Photo Manipulation Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-total-deletion-of-your-yahoo-mail-address/"><u>Expert Tips for Total Deletion of Your Yahoo Mail Address</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902093046-expert-tips-on-how-to-excel-in-the-game-of-royal-match/"><u>Expert Tips on How to Excel in the Game of Royal Match</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-visuals-to-victory-using-graphics-pads-in-games/"><u>From Visuals to Victory: Using Graphics Pads in Games</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nubia-red-magic-9-proplus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nubia Red Magic 9 Pro+ Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-8t-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-the-imminent-apple-personal-helper-projected-pricing-launch-window-and-innovative-features-uncovered-buzz-about-hidden-functionalities/"><u>Inside Scoop on the Imminent Apple Personal Helper: Projected Pricing, Launch Window & Innovative Features Uncovered; Buzz About Hidden Functionalities!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-updates-on-the-google-pixel-tablet-launch-detailed-specifications-and-announcement-details/"><u>Latest Updates on the Google Pixel Tablet Launch: Detailed Specifications & Announcement Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-through-skype-errors-expert-advice-for-better-connections/"><u>Navigate Through Skype Errors: Expert Advice for Better Connections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-beginners-walkthrough-for-accepting-itunes-photo-sharing-on-iphone/"><u>The Beginner's Walkthrough for Accepting iTunes Photo Sharing on iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essence-of-cpu-control-minmax-display-technique/"><u>The Essence of CPU Control: Min/Max Display Technique</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-video-editing-a-guide-for-sony-camcorder-footage-for-2024/"><u>Updated Mastering Video Editing A Guide for Sony Camcorder Footage for 2024</u></a></li>
+</ul></div>
 

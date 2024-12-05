@@ -1,7 +1,7 @@
 ---
 title: 2023'S Ultimate Selection of iPhone 12/12 Pro Cases Reviewed by Tech Gurus at ZDNET
-date: 2024-11-14T20:33:54.752Z
-updated: 2024-11-16T06:43:52.233Z
+date: 2024-11-29T18:28:40.061Z
+updated: 2024-12-04T19:27:19.775Z
 tags:
   - apple
 categories:
@@ -66,13 +66,6 @@ Pros
 Cons 
 * Pricier
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Silicone Case with MagSafe
 
 ### Best MagSafe iPhone 12 case
@@ -99,7 +92,15 @@ Pros
 Cons 
 * Clear design may yellow
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bodyguardz Ace Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best budget iPhone 12 case
 
@@ -123,6 +124,10 @@ Pros
 
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Casetify cases
 
@@ -148,10 +153,7 @@ Cons
 * May still yellow over time
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR Air Armor
@@ -180,6 +182,10 @@ Pros
 Cons 
 * Price varies
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Incipio Organicore
 
 ### Best eco-friendly iPhone 12 case
@@ -203,21 +209,7 @@ Pros
 Cons 
 * May show scratches easily
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Nomad Rugged case
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best leather iPhone 12 case
 
@@ -270,13 +262,14 @@ Cons
 * No drop protection
 * Original price ($39) is too expensive for what it is
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Totallee case
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best slim iPhone 12 case
@@ -333,10 +326,7 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 Wireless charging does work with phone cases. Almost all of the cases on this list are MagSafe-compatible. Usually, cases with a slimmer profile are more likely to be compatible. Most cases specify whether or not they are MagSafe-compatible, so make sure to check out the product specifications to verify if wireless charging works with the case of your choice. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which case is best for iPhone 12?
@@ -348,10 +338,7 @@ The Pela case is my favorite because it combines drop protection with environmen
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the safest case for iPhone 12 Pro?
@@ -361,13 +348,6 @@ The Pela case is made out of non-toxic materials and has been tested for safety.
 ## Do you need a case for iPhone 12?
 
 Apple markets the iPhone 12 as durable enough to handle tough use. However, if you want to avoid scratches and cracks, you need a case. The iPhone is slick, which means it's easy to drop. You can survive without a case, but if you want to keep your iPhone in the best shape possible, you should go with a case.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 12 cases worth considering?
 
@@ -409,17 +389,21 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-enhance-your-videos-with-dynamic-camera-movements-camtasa-guide-for-2024/"><u>[Updated] Enhance Your Videos with Dynamic Camera Movements - Camtasa Guide for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-recording-made-simple-a-compreenasite-for-capturing-netflix-content-for-2024/"><u>[Updated] Recording Made Simple A Compreenasite for Capturing Netflix Content for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-you-experiencing-an-xbox-network-downtime-or-is-it-a-localized-issue/"><u>Are You Experiencing an Xbox Network Downtime ... Or Is It a Localized Issue?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/comprehensive-tutorial-for-usb-driver-enhancement-in-various-windows-editions/"><u>Comprehensive Tutorial for USB Driver Enhancement in Various Windows Editions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-ringtones-selection-high-quality-sites/"><u>Elite Ringtones Selection High-Quality Sites</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-your-samsung-adb-drivers-instantly-here/"><u>Get Your Samsung ADB Drivers Instantly Here!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-display-match-top-6-hdmi-21-monitors-compared/"><u>In 2024, The Ultimate Display Match Top 6 HDMI 2.1 Monitors Compared</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-manage-multiple-channels-on-youtube/"><u>Is It Possible to Manage Multiple Channels on YouTube?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/progopro-series-camera-comparison/"><u>ProGoPro Series Camera Comparison</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/step-by-step-to-stellar-custom-shorts-thumbnails/"><u>Step-by-Step to Stellar Custom Shorts Thumbnails</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-apple-branded-domestic-aide-bot-anticipated-cost-and-launch-timeline-revealed/"><u>The Apple-Branded Domestic Aide Bot: Anticipated Cost & Launch Timeline Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-manual-scheduling-your-twitter-posts-like-a-pro/"><u>The Ultimate How-To Manual: Scheduling Your Twitter Posts Like a Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-three-foundational-elements-for-powerful-facebook-ad-headlines/"><u>[New] 2024 Approved Three Foundational Elements for Powerful Facebook Ad Headlines</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-for-entrepreneurs-how-to-register-as-a-biz-page-for-2024/"><u>[New] Instagram for Entrepreneurs How to Register as a Biz Page for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-assessing-the-right-level-of-luminosity-in-creative-hdr-ventures/"><u>[Updated] In 2024, Assessing the Right Level of Luminosity in Creative HDR Ventures</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-superior-camcorder-choices-our-favorites/"><u>[Updated] In 2024, Superior Camcorder Choices Our Favorites</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-transform-photos-and-videos-with-these-androidiphone-montage-apps/"><u>[Updated] Transform Photos & Videos with These Android/iPhone Montage Apps</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comprehensive-parents-handbook-on-internet-safety-mastering-child-protection-tools/"><u>Comprehensive Parent's Handbook on Internet Safety: Mastering Child Protection Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-picks-6-awesome-movie-sites-for-children-for-free/"><u>Discover Our Picks: 6 Awesome Movie Sites for Children - For Free!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-install-microsoft-365-on-your-pc/"><u>How to Install Microsoft 365 on Your PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-narzo-60-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme Narzo 60 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 7 Plus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unlocking-vsco-photo-editing-tips-and-tricks/"><u>In 2024, Unlocking VSCO Photo Editing Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-tips-on-silencing-a-disruptive-desktop-or-laptop-cooler/"><u>Master Tips on Silencing a Disruptive Desktop or Laptop Cooler</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/remote-free-techniques-mastering-your-roku-tv-with-alternative-methods/"><u>Remote-Free Techniques: Mastering Your Roku TV with Alternative Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/switching-to-night-time-settings-on-ios-devices-effortlessly/"><u>Switching to Night Time Settings on iOS Devices Effortlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tips-for-tweaking-typography-adjusting-fonts-on-windows-11-devices/"><u>Tips for Tweaking Typography: Adjusting Fonts on Windows 11 Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-zero-cost-defrag-utilities-for-optimized-performance/"><u>Ultimate List of Zero-Cost Defrag Utilities for Optimized Performance</u></a></li>
 </ul></div>
 

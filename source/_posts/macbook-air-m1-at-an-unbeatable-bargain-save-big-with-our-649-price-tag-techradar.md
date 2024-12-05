@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air M1 at an Unbeatable Bargain: Save Big with Our $649 Price Tag! | TechRadar"
-date: 2024-11-24T17:24:30.217Z
-updated: 2024-11-25T18:35:24.638Z
+date: 2024-12-02T11:51:12.884Z
+updated: 2024-12-04T16:49:04.926Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,15 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-access-your-secret-snaps-archive/"><u>[New] How to Access Your Secret Snaps Archive</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-mac-video-capturing-software-post-bandicam-revolution/"><u>[New] In 2024, Best Mac Video Capturing Software Post-Bandicam Revolution</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-learning-the-art-of-softly-amplifying-audio-tracks-for-2024/"><u>[New] Learning the Art of Softly Amplifying Audio Tracks for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-navigating-steam-with-switch-pro/"><u>[Updated] The Ultimate Guide to Navigating Steam with Switch Pro</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-s17-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo S17 Pro? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-to-address-and-resolve-libgdk-win32-20-0dll-missing-file-problem/"><u>Comprehensive Solutions to Address and Resolve libgdk-win32-2.0-0.dll Missing File Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dell-computer-factory-reset-explained-securely-wiping-your-device/"><u>Dell Computer Factory Reset Explained: Securely Wiping Your Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-our-favorite-cost-free-video-call-apps-of-2024-top-12/"><u>Discover Our Favorite Cost-Free Video Call Apps of 2024 (Top 12)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-battery-swap-recharging-your-ipad-like-a-pro/"><u>DIY Battery Swap - Recharging Your iPad Like a Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-honor-play-40c-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Honor Play 40C Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-ps5-buying-guide-4-unbeatable-justifications-for-gamers-to-get-it-now/"><u>The Ultimate PS5 Buying Guide - 4 Unbeatable Justifications for Gamers to Get It Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-flushing-app-data-from-android-phones-and-tablets/"><u>The Ultimate Walkthrough for Flushing App Data From Android Phones and Tablets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-picks-unmissable-films-for-your-easter-celebration/"><u>Top Picks: Unmissable Films for Your Easter Celebration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-absent-msodll-file-in-your-system-effective-solutions/"><u>Troubleshooting the Absent mso.dll File in Your System: Effective Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-perfecting-videos-a-premier-editor-for-vimeo-professionals-for-2024/"><u>[New] Perfecting Videos A Premier Editor for Vimeo Professionals for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-video-editors-aiding-in-app-dev-creation-for-2024/"><u>[New] Top Video Editors Aiding in App Dev Creation for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-zero-to-hero-on-ig-how-to-garner-a-million-fans-fast-track/"><u>[Updated] From Zero to Hero on IG How to Garner a Million Fans Fast-Track</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/diese-5-methoden-aktualisieren-ihre-windows-fotogalerie-damit-sie-iphones-erkennt/"><u>Diese 5 Methoden Aktualisieren Ihre Windows Fotogalerie, Damit Sie iPhones Erkennt.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-7-ideal-smartphone-apps-to-navigate-through-traffic-seamlessly/"><u>Discover the 7 Ideal Smartphone Apps to Navigate Through Traffic Seamlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-fact-5-quantitative-analysis-mass-spectrometry-not-only-provides-qualitative-data-but-also-allows-for-the-quantification-of-substances-within-a-sample-b27/"><u>Key Fact #5: Quantitative Analysis - Mass Spectrometry Not only Provides Qualitative Data but Also Allows for the Quantification of Substances Within a Sample Based on Peak Intensities.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/screenshot-mastery-expert-advice-for-sharing-images-from-the-nintendo-switch/"><u>Screenshot Mastery: Expert Advice for Sharing Images From the Nintendo Switch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-what-to-do-when-your-youtube-comments-dont-appear/"><u>Solving the Issue: What to Do When Your YouTube Comments Don’t Appear</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-simplest-way-to-secure-latest-driver-updates-for-your-microsoft-surface-devices/"><u>The Simplest Way to Secure Latest Driver Updates for Your Microsoft Surface Devices</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-mixing-sounds-with-after-effects/"><u>The Ultimate Guide to Mixing Sounds with After Effects</u></a></li>
 </ul></div>
 

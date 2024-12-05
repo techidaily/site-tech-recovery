@@ -1,7 +1,7 @@
 ---
 title: Top 13 Must-Hear True Crime Series on Podcast Platforms
-date: 2024-08-30T16:22:52.138Z
-updated: 2024-08-31T16:22:52.138Z
+date: 2024-12-03T10:20:43.036Z
+updated: 2024-12-04T17:41:30.218Z
 categories:
   - BestProducts
 description: This Article Describes Top 13 Must-Hear True Crime Series on Podcast Platforms
@@ -21,6 +21,10 @@ of 06
 ## [GIMP](https://www.gimp.org/)
 
 ![GIMP free photoshop alternative](https://www.lifewire.com/thmb/RJaS9jqIkEMBw6cIrRcjeBZIiGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linux_mixer-593adc983df78c537b3b14a5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The GIMP Team
 
@@ -47,6 +51,10 @@ The GIMP Team
 02
 
 of 06
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Paint.NET](https://www.getpaint.net/)
 
@@ -79,14 +87,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Pixlr](https://pixlr.com/)
 
 ![An image open for editing on the Pixlr Express website](https://www.lifewire.com/thmb/m2zjpcDwIwyZ_z4tIl8WG340lGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pixlr-ai-photo-editor-f2fd3ca074b941419a4af675fe46fdc0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  What We Like
 
 * Extensive layer support with multiple blending modes.
@@ -116,16 +124,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [SumoPaint](https://sumopaint.com/)
 
 ![Two layers visible in the Sumopaint online image editor](https://www.lifewire.com/thmb/6_H3Jd8mH-zb8zOPkwVRGfJyzXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sumopaint-4cbe441867c5489aa19835730fec4765.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Great layer support.
@@ -152,16 +158,14 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Krita](https://krita.org/en/)
 
 ![Krita free photoshop alternative](https://www.lifewire.com/thmb/MGp2TLNkYLlp5AB7bPbv3oXO7cY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/user-interface30-592db40f3df78cbe7e66bc22.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The Krita Foundation
 
  What We Like
@@ -185,9 +189,6 @@ The Krita Foundation
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [Adobe Photoshop Express](https://www.adobe.com/products/photoshop-express.html)
 
 ![A photo open in Adobe Photoshop Express](https://www.lifewire.com/thmb/P07sdRvQ4FP28HInwYHEc6puei4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/adobe-photoshop-express-74ccd1d0e8a249caa9c70f8ba404639b.png)
@@ -240,8 +241,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -249,4 +248,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-crafting-captivating-tiktok-screenshots-with-ease/"><u>[New] 2024 Approved Crafting Captivating TikTok Screenshots with Ease</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-the-magic-of-custom-snaps-and-effortless-lenses-for-2024/"><u>[New] Unlock the Magic of Custom Snaps & Effortless Lenses for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-navigating-the-depths-of-vlc-player-capabilities/"><u>[Updated] 2024 Approved Navigating the Depths of VLC Player Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-james-bond-movie-series-guide-the-ultimate-watching-order/"><u>Complete James Bond Movie Series Guide: The Ultimate Watching Order</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-macos-15-sequoia-projection-of-release-momentum-upgraded-tools-and-tech-news-synopsis/"><u>Comprehensive Guide to macOS 15 (Sequoia): Projection of Release Momentum, Upgraded Tools & Tech News Synopsis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-selection-our-picks-for-the-7-greatest-alarm-clock-apps/"><u>Discover the Ultimate Selection: Our Picks for the 7 Greatest Alarm Clock Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-enhancing-your-super-bowl-party-with-top-notch-tv-setup/"><u>Expert Advice on Enhancing Your Super Bowl Party with Top-Notch TV Setup</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-capture-your-iphones-screen-seamlessly-for-2024/"><u>How to Capture Your iPhone's Screen Seamlessly for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-note-50-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme Note 50 FRP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-the-camera-shootout-battle-pixel-npro-xl-triumphs-over-iphone-15-pro-with-a-surprising-twist-detailed-review-by-zdnet/"><u>In the Camera Shootout Battle, Pixel nPro XL Triumphs Over iPhone 15 Pro with a Surprising Twist - Detailed Review by ZDNET</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-ditch-premiere-elements-10-better-video-editing-options-for-you-for-2024/"><u>New Ditch Premiere Elements 10 Better Video Editing Options for You for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-facetime-obstacles-fixing-the-mystery-of-the-missing-picture/"><u>Overcoming FaceTime Obstacles: Fixing the Mystery of the Missing Picture</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-connecting-a-firestick-remote-to-your-tv/"><u>Step-by-Step Tutorial on Connecting a Firestick Remote to Your TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/telegram-demystified-understanding-its-features-and-functionality/"><u>Telegram Demystified: Understanding Its Features and Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-process-of-refreshing-your-chromecast-device/"><u>The Complete Process of Refreshing Your Chromecast Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-v30-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme V30 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722887296225-top-rated-ipad-offers-grab-them-before-theyre-gone/"><u>Top-Rated iPad Offers - Grab Them Before They're Gone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-evaluation-is-the-price-tag-worth-the-agility-of-swagtrons-swagboard-t1/"><u>Unboxing & Evaluation: Is the Price Tag Worth the Agility of Swagtron's Swagboard T1?</u></a></li>
+<li><a href="https://common-error.techidaily.com/wmi-optimization-tips-enhance-your-win11-efficiency/"><u>WMI Optimization Tips: Enhance Your Win11 Efficiency</u></a></li>
+</ul></div>
 

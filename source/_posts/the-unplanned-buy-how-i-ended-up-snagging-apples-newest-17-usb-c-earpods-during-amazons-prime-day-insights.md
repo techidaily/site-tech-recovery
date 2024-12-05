@@ -1,7 +1,7 @@
 ---
 title: "The Unplanned Buy: How I Ended Up Snagging Apple's Newest $17 USB-C EarPods During Amazon's Prime Day - Insights"
-date: 2024-11-14T22:09:22.685Z
-updated: 2024-11-16T06:25:49.407Z
+date: 2024-12-04T01:40:53.911Z
+updated: 2024-12-04T22:14:03.578Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ For one, wired earbuds don't need to be charged; you just plug them into a phone
 Secondly, the microphone quality on Apple's wired EarPods is some of the best I've heard. For video meetings, phone calls, and even voice recording, the EarPods' microphone is on par with lavaliers that cost significantly more. I've used these to record several video scripts for ZDNET's social media channels, and it blows my mind every time I hear how crisp the audio comes out.
 
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07954c1a-32c2-42e1-801d-d6490068090c%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -67,21 +71,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-transforming-viewers-into-income-how-many-votes-yield-earnings/"><u>[Updated] 2024 Approved Transforming Viewers Into Income How Many Votes Yield Earnings?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-embedding-youtube-music-in-media-files/"><u>[Updated] Embedding YouTube Music in Media Files</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-techniques-for-saving-teams-meetings-desktopmobile/"><u>2024 Approved Techniques for Saving Teams Meetings (Desktop/Mobile)</u></a></li>
-<li><a href="https://facebook.techidaily.com/7-breakthrough-revelations-extracted-from-social-media-docs/"><u>7 Breakthrough Revelations Extracted From Social Media Docs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-3gp-file-to-free-gif-format-online-with-movavi-converter/"><u>Convert 3GP File to Free GIF Format Online with Movavi Converter</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/designing-your-musical-journey-youtube-playlist-construction-tips-webapp/"><u>Designing Your Musical Journey YouTube Playlist Construction Tips Web/App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mov-m4amovavi/"><u>MOV から M4Aへ簡単変換：無料オンラインツール集【MOVAVI】</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/os-mais-incriveis-modelos-de-photocollage-on-line-gratuitos-aperfeicoar-sua-presenca-digital/"><u>Os Mais Incriveis Modelos De Photocollage On-Line Gratuitos – Aperfeiçoar Sua Presença Digital</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/verslindige-momente-jpeg-bestanden-omzetten-in-omb-zonder-belemmeringen-de-expertise-van-movavi/"><u>Verslindige Momente: JPEG-Bestanden Omzetten in OMB, Zonder Belemmeringen - De Expertise Van Movavi</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-from-basics-to-advanced-a-polarr-photo-editor-journey/"><u>[New] In 2024, From Basics to Advanced A Polarr Photo Editor Journey</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-picture-perfection-picart-guide-to-pristine-image-editing/"><u>[New] Picture Perfection PicArt Guide to Pristine Image Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-swiftly-secure-screen-shots-on-windows-for-2024/"><u>[New] Swiftly Secure Screen Shots on Windows for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-the-top-8-beginner-friendly-cameras-35mm-to-pands-for-2024/"><u>[Updated] Unveiling the Top 8 Beginner-Friendly Cameras (35Mm to P&S) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/customize-your-iphone-for-different-geographic-area/"><u>Customize Your iPhone for Different Geographic Area</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-the-408-http-status-code-why-it-happens-and-how-to-correctly-address-it/"><u>Demystifying the 408 HTTP Status Code: Why It Happens and How to Correctly Address It</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/emotional-resilience-with-the-newest-5-chatbot-tools/"><u>Emotional Resilience with the Newest 5 Chatbot Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-selection-of-top-7-note-taking-tools-on-apples-tablets-ipads-and-ipad-pro/"><u>Explore Our Selection of Top 7 Note-Taking Tools on Apple's Tablets: IPads and iPad Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-pair-a-samsung-remote-to-a-tv/"><u>How to Pair a Samsung Remote to a TV</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-cybersecurity-quandary-of-rapidly-advancing-ai/"><u>The Cybersecurity Quandary of Rapidly Advancing AI</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-s17t-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo S17t Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

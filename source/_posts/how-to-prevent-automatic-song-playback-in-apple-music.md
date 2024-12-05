@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Automatic Song Playback in Apple Music
-date: 2024-08-30T16:25:34.934Z
-updated: 2024-08-31T16:25:34.934Z
+date: 2024-12-01T02:36:20.969Z
+updated: 2024-12-05T11:06:53.702Z
 categories:
   - BestProducts
 description: This Article Describes How to Prevent Automatic Song Playback in Apple Music
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/Fvg6Jxm-11HSYxBSQUst7-2ht2w=/400x300/fi
 ---
 
 ## Apple Music Continuous Stream? Learn How to Stop It
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * To disable autoplay in Apple Music on iPhone, open the current song and tap the**Autoplay** icon until it’s deselected.
@@ -19,6 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/Fvg6Jxm-11HSYxBSQUst7-2ht2w=/400x300/fi
  This article will show you how to stop Apple Music from automatically playing on your iPhone after a song or album has finished. It also covers several proven tips to prevent the iOS app from turning on by itself when connecting to another device, such as a car system, AirPods, headphones, or a Bluetooth speaker.  
 
 [How to Stop Spotify From Opening on Startup on a Mac](https://www.lifewire.com/stop-spotify-from-opening-on-startup-on-a-mac-5209503)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Stop Apple Music From Automatically Playing on iPhone
 
@@ -35,14 +44,24 @@ thumbnail: https://www.lifewire.com/thmb/Fvg6Jxm-11HSYxBSQUst7-2ht2w=/400x300/fi
 4. If Autoplay is activated, you should see an Autoplay playlist in the lower half of the screen and a highlighted Autoplay icon to the right of the song playing. Tap the**Autoplay** icon to disable it.  
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/5RZwYhTcpXjS0K1VBHG9SGvcj9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW10-d805952bf4c34b1bbaef6067467b8299.jpg)  
  The**Autoplay** icon is the one that looks like an infinity symbol.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If done correctly, the Autoplay playlist should immediately disappear, and Apple Music will now stop automatically playing.
 6. You can now return to the app's front screen by tapping the**Up Next** icon once again and then swiping down to minimize the player.  
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/YoFjmsf47ULgcOPG60luN9ht2os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW11-526478ba77314060b7b3b20047261680.jpg)  
  To enable Autoplay in Apple Music, repeat these steps and make sure that the icon is highlighted and the Autoplay playlist is visible.  
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips to Stop Apple Music From Playing Automatically  
 
  Sometimes Apple Music can seem to start up automatically when connecting to a car system, a speaker, or a pair of headphones or earphones. While it’s unlikely that the cause is an official iPhone or Apple Music feature, there are still several things you may want to try to prevent this from happening.  
@@ -54,9 +73,6 @@ thumbnail: https://www.lifewire.com/thmb/Fvg6Jxm-11HSYxBSQUst7-2ht2w=/400x300/fi
 * **Disable Handoff** . The[iPhone’s Handoff feature](https://www.lifewire.com/everything-you-need-to-know-about-handoff-4079966) continues media playback on devices once they’re detected automatically. You can customize and even disable Handoff by opening**Settings** and going to**General** \>**AirPlay & Handoff** .  
 ![iPhone Settings showing path to AirPlay & Handoff](https://www.lifewire.com/thmb/-G0RK2zIvlOyL5-54T1esisg2Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-stop-apple-music-from-automatically-playing-5119158-a00b00cf58384f85a4071b2272798f2c.jpg)  
  FAQ  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * How do I stop an Apple Music subscription?  
     To[cancel an Apple Music subscription](https://www.lifewire.com/cancel-apple-music-subscription-1999488) on an iPhone, launch**Settings** , tap**your** **name** \>**Subscriptions** , select**Apple Music** , and tap**Cancel Subscription** . Or, go to the[Apple Music website](https://music.apple.com/browse) , sign in, tap your**account** icon >**Settings** \>**Subscriptions** \>**Manage** , and choose**Cancel Subscription** .  
 * How do I stop SharePlay on Apple Music?  
@@ -84,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +107,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-lameencdll-problems-to-ensure-smooth-audio-processing-in-audacity/"><u>Eliminating lame_enc.dll Problems to Ensure Smooth Audio Processing in Audacity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-streaming-gadgets-an-essential-guide/"><u>Exploring Streaming Gadgets: An Essential Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/functionality-seamless-in-whatsapp-post-privacy-policy-rejection/"><u>Functionality Seamless in WhatsApp Post-Privacy Policy Rejection</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-xs-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone XS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-a-broken-webcam-during-a-zoom-conference-call/"><u>How to Repair a Broken Webcam During a Zoom Conference Call</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-watch-and-fix-vlc-player-issues-with-mov-format-videos/"><u>How to Watch and Fix VLC Player Issues with MOV Format Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-eagle-eye-recorder-insights-software/"><u>In 2024, Eagle Eye Recorder Insights Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/libxml2dll-not-detected-heres-what-you-need-to-know/"><u>Libxml2.dll Not Detected? Here's What You Need to Know!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-your-screen-as-an-image-on-windows-or-mac/"><u>Step-by-Step Guide: Capturing Your Screen as an Image on Windows or Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+</ul></div>
 

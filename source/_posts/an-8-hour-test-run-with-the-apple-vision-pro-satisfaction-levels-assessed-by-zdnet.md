@@ -1,7 +1,7 @@
 ---
 title: "An 8-Hour Test Run with the Apple Vision Pro: Satisfaction Levels Assessed by ZDNet"
-date: 2024-11-11T17:03:58.647Z
-updated: 2024-11-15T21:17:00.181Z
+date: 2024-12-03T19:17:18.149Z
+updated: 2024-12-04T19:25:43.145Z
 tags:
   - apple
 categories:
@@ -26,15 +26,16 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -54,10 +55,7 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -75,13 +73,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
 
@@ -106,10 +97,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -125,6 +113,10 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,17 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-clarity-crusade-enhancing-video-in-zoom-meetings-for-2024/"><u>[New] Clarity Crusade Enhancing Video in Zoom Meetings for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-discovering-androids-premier-mobas-ranked/"><u>[New] In 2024, Discovering Android's Premier MOBAs Ranked</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-decoding-the-average-earning-scale-for-podcasters/"><u>[Updated] Decoding the Average Earning Scale for Podcasters</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-guide-to-disable-recommended-podcast-features-in-spotify/"><u>[Updated] Guide to Disable Recommended Podcast Features in Spotify</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-precision-preservation-adding-dates-to-photos-with-ease/"><u>[Updated] Precision Preservation Adding Dates to Photos with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-rideshare-apps-more-economical-than-traditional-taxis/"><u>Are Rideshare Apps More Economical than Traditional Taxis?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722898350876-discover-the-greatest-free-defrag-solutions-of-2024-ranked/"><u>Discover the Greatest Free Defrag Solutions of 2024 - Ranked!</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-11-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-effective-management-of-your-tweets-with-a-content-calendar/"><u>Step-by-Step Tutorial: Effective Management of Your Tweets with a Content Calendar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-for-users-with-locked-or-inactive-instagram-profiles/"><u>Troubleshooting for Users with Locked or Inactive Instagram Profiles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-elite-five-for-privacy-centric-email-solutions/"><u>Unveiling the Elite Five for Privacy-Centric Email Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-prime-xsplit-replacements-a-guide-to-streaming/"><u>[New] Prime Xsplit Replacements A Guide to Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069667727-updated-2024-approved-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>[Updated] 2024 Approved Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-revolutionize-group-calls-top-4-techniques/"><u>[Updated] 2024 Approved Revolutionize Group Calls Top 4 Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-quick-musical-notes-understanding-youtube-shorts-for-2024/"><u>[Updated] Quick Musical Notes Understanding YouTube Shorts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-walkthrough-eliminating-the-system-restore-functionality-in-windows/"><u>A Comprehensive Walkthrough: Eliminating the System Restore Functionality in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722890375170-all-you-need-to-know-about-the-upcoming-oxygenos-nothing-phone-3-price-release-and-features/"><u>All You Need to Know About the Upcoming OxygenOS Nothing Phone 3 - Price, Release & Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-for-the-launchdll-error-in-windows-systems/"><u>Comprehensive Solutions for the Launch.dll Error in Windows Systems</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effective-day-trading-tactics-using-trade-copier-on-metatrader-platforms-mt4-and-mt5/"><u>Effective Day Trading Tactics Using Trade Copier on Metatrader Platforms (MT4 & MT5)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-technology-tools-the-top-9-must-have-devices-and-accessories-for-students/"><u>Essential Technology Tools: The Top 9 Must-Have Devices & Accessories for Students</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/googles-upcoming-pixel-watch-unveiling-potential-release-date-specs-and-price-rumors-you-need-to-know/"><u>Google's Upcoming Pixel Watch: Unveiling Potential Release Date, Specs & Price Rumors You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-a-dac-improve-your-music-experience-is-it-worth-investing-in-one/"><u>How Does a DAC Improve Your Music Experience? Is It Worth Investing in One?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-possible-for-multiple-users-to-stream-on-spotify-simultaneously/"><u>Is It Possible For Multiple Users To Stream On Spotify Simultaneously?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-silently-ends-hopes-for-windows-11-lifeline-an-update-from-zdnet/"><u>Microsoft Silently Ends Hopes for Windows 11 Lifeline - An Update From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mod-mp3-movavi/"><u>MOD MP3 형식으로 자동화: 인터넷 상호 작용성 기술 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-power-of-google-gemini-essential-techniques-for-enhanced-searches/"><u>Navigating the Power of Google Gemini: Essential Techniques for Enhanced Searches</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-flip-and-rotate-avi-videos-for-free-best-tools/"><u>New Flip and Rotate AVI Videos for Free Best Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-permanent-presence-of-ai-expand-your-knowledge-with-top-7-ai-vocabulary-terms/"><u>The Permanent Presence of AI: Expand Your Knowledge with Top 7 AI Vocabulary Terms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-normalizdll-error-on-your-pc/"><u>Troubleshooting the Missing 'Normaliz.dll' Error on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-1-groove-the-storportsys-crash-issue-and-regain-system-stability/"><u>Troubleshooting Windows 1 Groove the storport.sys Crash Issue and Regain System Stability</u></a></li>
 </ul></div>
 

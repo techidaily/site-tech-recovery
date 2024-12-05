@@ -1,7 +1,7 @@
 ---
 title: How Apple Can Revive To Rescue the Vision Pro with Three Key Strategies
-date: 2024-11-10T16:38:13.408Z
-updated: 2024-11-15T20:36:44.126Z
+date: 2024-12-03T05:36:38.482Z
+updated: 2024-12-05T09:52:29.796Z
 tags:
   - apple
 categories:
@@ -31,6 +31,10 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -54,13 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 During this time, the company focused on providing viable mixed reality and VR experiences, adding capabilities, better visuals, better cameras, improving the headsets overall, and constantly pushing to make the price viable for consumers. 
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  That old Apple magic
 
@@ -109,13 +106,6 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -130,6 +120,10 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -141,10 +135,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -160,10 +151,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -185,6 +173,10 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -235,18 +227,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-by-step-process-to-shoot-with-a-fisheye-lens/"><u>[New] 2024 Approved Step-by-Step Process to Shoot with a Fisheye Lens</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hdr-mastery-the-complete-sdr-to-hdr-transformation/"><u>[New] HDR Mastery The Complete SDR-to-HDR Transformation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-live-webcam-capture-in-vlc-media-player/"><u>[Updated] Live Webcam Capture in VLC Media Player</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-hackers-handbook-navigating-anonymous-instagram-streaming/"><u>2024 Approved The Hacker’s Handbook Navigating Anonymous Instagram Streaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726221159683-wma-movavi/"><u>快適なWMAファイルの自動変換サービス – Movavi | 無料オプションあり</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/analysis-of-sea-techs-exterior-usb-blu-ray-burner-reviewing-the-fluctuating-performance-levels/"><u>Analysis of Sea Tech's Exterior USB Blu-Ray Burner: Reviewing the Fluctuating Performance Levels</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/audio-normalization-software-optimize-your-sound-quality-on-windows/"><u>Audio Normalization Software: Optimize Your Sound Quality on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-6-value-proposition-affordable-4k-projectors/"><u>Best 6 Value Proposition Affordable 4K Projectors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726222561213-f4v-mp3-movavi/"><u>F4V 프리미엄 아이포드를 MP3로 바꾸기: 무료 원구성 온라인 도구 - Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-crumpled-to-curated-your-step-by-step-process-of-transforming-faded-print-photographs-into-digital-originals/"><u>In 2024, From Crumpled to Curated Your Step-by-Step Process of Transforming Faded Print Photographs Into Digital Originals</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-chroma-key-transforming-greenscreen-into-vibrant-imagery/"><u>Mastering the Art of Chroma Key: Transforming Greenscreen Into Vibrant Imagery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/real-time-video-sketching-with-movavi-live-draw-over-recorded-footage/"><u>Real-Time Video Sketching with Movavi - Live Draw Over Recorded Footage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformer-un-fichier-flac-en-fichier-wav-gratuitement-en-ligne-convertisseur-audio-video-rapide/"><u>Transformer Un Fichier FLAC en Fichier WAV Gratuitement en Ligne - Convertisseur Audio Vidéo Rapide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-exploring-the-depths-of-video-talks-on-youtube/"><u>[New] 2024 Approved Exploring the Depths of Video Talks on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mirk-spotlights-showcasing-7-comedic-content-pieces-for-2024/"><u>[New] Smirk Spotlights Showcasing 7 Comedic Content Pieces for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-no-cost-voip-services-of-2024-effective-substitutes-for-skype/"><u>Best No-Cost VoIP Services of 2024: Effective Substitutes for Skype</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-moments-seamlessly-with-snap-and-meet-for-2024/"><u>Capturing Moments Seamlessly with Snap and Meet for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-share-gaming-experiences-on-the-sony-ps5-console/"><u>How to Seamlessly Share Gaming Experiences on the Sony PS5 Console</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-decoding-the-best-android-photography-software-is-picku-king/"><u>In 2024, Decoding the Best Android Photography Software - Is PickU King?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-live-stream-on-youtube-without-1000-subscribers-on-a-mobile/"><u>In 2024, Live Stream on YouTube without 1000 Subscribers on a Mobile</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-success-harness-the-power-of-ig-data/"><u>In 2024, Mastering Instagram Success Harness the Power of IG Data</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-12-best-free-voip-applications/"><u>Top 12 Best Free VoIP Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-in-a-name-exploring-retweet-and-re-tweet/"><u>What's in a Name? Exploring 'Retweet' And 'Re-Tweet'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zoom-quality-drop-understanding-the-real-cause/"><u>Zoom Quality Drop - Understanding the Real Cause</u></a></li>
 </ul></div>
 

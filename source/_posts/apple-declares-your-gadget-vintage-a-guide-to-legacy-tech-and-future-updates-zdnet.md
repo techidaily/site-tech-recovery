@@ -1,7 +1,7 @@
 ---
 title: "Apple Declares Your Gadget Vintage: A Guide to Legacy Tech & Future Updates | ZDNet"
-date: 2024-11-21T16:04:07.376Z
-updated: 2024-11-25T16:06:57.836Z
+date: 2024-11-29T17:06:11.532Z
+updated: 2024-12-04T20:59:26.972Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ In this article, I'll show you how to take both screenshots and screen recording
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -65,7 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -107,7 +107,7 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -157,20 +157,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-consistent-viewing-automatic-youtube-video-playback-on-tv/"><u>[New] 2024 Approved Consistent Viewing Automatic YouTube Video Playback on TV</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[Updated] In 2024, Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-you-ready-for-enhanced-gaming-performance-with-rtx-technology/"><u>Are You Ready for Enhanced Gaming Performance with RTX Technology?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-on-removing-photographs-from-your-facebook-profile/"><u>Complete Tutorial on Removing Photographs From Your Facebook Profile</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-font-transformation-for-enhanced-reading-on-windows-11/"><u>Effortless Font Transformation for Enhanced Reading on Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/leveraging-consumer-reviews-for-youtube-wealth-creation-for-2024/"><u>Leveraging Consumer Reviews for YouTube Wealth Creation for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/online-streaming-hierarchy-who-rises-above-vimeo-or-giants-like-youtubes-and-dailymotions-in-2024/"><u>Online Streaming Hierarchy Who Rises Above – Vimeo or Giants Like YouTubes and DailyMotions, In 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-tips-pressing-the-perfect-combination-for-a-digital-hearts/"><u>Quick Tips: Pressing the Perfect Combination for a Digital Hearts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-fixing-answering-problems-with-your-samsung-galaxy-watch/"><u>Step-by-Step Guide to Fixing Answering Problems with Your Samsung Galaxy Watch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolving-a-whea-unrecoverable-fault-on-your-pc/"><u>Step-by-Step Guide: Resolving a WHEA Unrecoverable Fault on Your PC</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-tutorial-for-retrieving-unintentionally-modified-word-documents-using-windows-11-features/"><u>Step-by-Step Tutorial for Retrieving Unintentionally Modified Word Documents Using Windows 11 Features</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-animator-marketplace-of-custom-creative-stunts/"><u>The Animator' Marketplace of Custom Creative Stunts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-path-to-professional-presence-youtube-tips-and-tricks-for-2024/"><u>The Path to Professional Presence YouTube Tips & Tricks for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-9-introductory-ai-toolsets-perfect-for-newcomers/"><u>Top 9 Introductory AI Toolsets Perfect for Newcomers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-role-of-rtx-gpus-a-comprehensive-guide/"><u>Understanding the Role of RTX GPUs: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-innovative-attention-grabber-designer/"><u>[New] 2024 Approved Innovative Attention Grabber Designer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-efficiently-delete-unwanted-video-feedback/"><u>[New] In 2024, How to Efficiently Delete Unwanted Video Feedback</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-pixel-powerhouse-expert-review-on-top-8k-tv-models-for-2024/"><u>[Updated] Pixel Powerhouse Expert Review on Top 8K TV Models for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1725290264501-dvd/"><u>「最新無料DVDコピーツールの使い方と問題解消ガイド」</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-resonant-rhythms-where-to-download-classical-ringtones/"><u>2024 Approved Resonant Rhythms Where to Download Classical Ringtones</u></a></li>
+<li><a href="https://facebook.techidaily.com/8-features-of-workplace-from-facebook-for-collaborative-project-management/"><u>8 Features of Workplace From Facebook for Collaborative Project Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crafting-the-perfect-email-signature-in-godaddy-webmail-top-tips-and-tricks/"><u>Crafting the Perfect Email Signature in GoDaddy Webmail – Top Tips and Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easily-troubleshoot-jscriptdll-not-found-errors-on-your-pc/"><u>Easily Troubleshoot Jscript.dll Not Found Errors on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-digital-world-laptops-smartphones-and-literary-adventures-await/"><u>Exploring the Digital World: Laptops, Smartphones & Literary Adventures Await!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-vivo-y27s-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Vivo Y27s.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stream-smoothly-again-comprehensive-guide-to-fix-netflix-errors-on-your-lg-television-19-tactics/"><u>Stream Smoothly Again: Comprehensive Guide to Fix Netflix Errors on Your LG Television (19 Tactics)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-technique-for-dual-monitor-setup-on-your-macbook-air/"><u>The Ultimate Technique for Dual Monitor Setup on Your MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722891082349-top-6-essential-apps-every-student-and-parent-needs-for-academic-success/"><u>Top 6 Essential Apps Every Student & Parent Needs for Academic Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-repairing-kernel32dll-problems-in-windows-operating-system/"><u>Troubleshooting and Repairing Kernel32.dll Problems in Windows Operating System</u></a></li>
 </ul></div>
 

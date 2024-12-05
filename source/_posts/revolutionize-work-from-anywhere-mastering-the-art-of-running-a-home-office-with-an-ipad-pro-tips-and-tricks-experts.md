@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Work From Anywhere: Mastering the Art of Running a Home Office with an iPad Pro, Tips & Tricks Experts"
-date: 2024-11-11T16:02:02.498Z
-updated: 2024-11-15T16:46:37.179Z
+date: 2024-11-30T00:36:55.846Z
+updated: 2024-12-04T16:09:10.345Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hey Siri, let's talk about Microsoft
 
 Yet now, and urgently, Apple is thrusting itself further into AI. Cupertino [already claims](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) its on-device AI is better than GPT-4\. The name of its on-device system? ReALM (Reference Resolution As Language Modeling), apparently.
@@ -73,10 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -125,16 +126,22 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nderstanding-video-length-and-content-strategy-in-youtube-shorts/"><u>[New] Understanding Video Length and Content Strategy in YouTube Shorts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-navigating-the-short-form-space-youtubes-bite-vs-tiktok-written-by-a-marketing-analyst-with-expertise-in-social-media-trends-and-platforms-for-2024./"><u>[Updated] Navigating the Short-Form Space YouTube's Bite Vs. TikTok' Written by a Marketing Analyst with Expertise in Social Media Trends and Platforms. For 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screen-recorder-no-time-limits/"><u>[Updated] Screen Recorder No Time Limits</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-key-steps-to-restore-mail-alert-functionality-in-windows/"><u>9 Key Steps to Restore Mail Alert Functionality in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-choices-a-guide-to-the-superior-parental-restrictions-software-of-2024/"><u>Best Choices: A Guide to the Superior Parental Restrictions Software of 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-enjoying-pokemon-unite-battles-from-your-desktop-pc/"><u>Guide to Enjoying Pokémon Unite Battles From Your Desktop PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-fps-issues-and-hitches-in-call-of-duty-modern-warfare-ii/"><u>How to Resolve FPS Issues and Hitches in Call of Duty: Modern Warfare II</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-send-faxes-without-spending-the-ultimate-guide/"><u>How To Send Faxes Without Spending: The Ultimate Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-tips-for-saving-the-world-with-a-smile/"><u>In 2024, Quick Tips for Saving the World with a Smile</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-chatgpt-a-comprehensive-tutorial-on-its-use-in-language-translation/"><u>Unlocking the Power of ChatGPT: A Comprehensive Tutorial on Its Use in Language Translation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watching-the-conjuring-a-fans-guide-to-experience-them-in-correct-order/"><u>Watching 'The Conjuring': A Fan's Guide to Experience Them In Correct Order</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-invisible-threads-weaving-through-youtube-shorts-success/"><u>[New] In 2024, The Invisible Threads Weaving Through YouTube Shorts Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-tools-for-live-gameplay-screen-grabs/"><u>[Updated] 2024 Approved Best Tools for Live Gameplay Screen Grabs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-first-edition-top-notch-user-centric-game-edit-apps/"><u>[Updated] First Edition Top-Notch, User-Centric Game Edit Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-gt-5-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme GT 5 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-instructions-for-shutting-down-live-news-widgets-on-windows-11-computers/"><u>Comprehensive Instructions for Shutting Down Live News Widgets on Windows 11 Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-the-dll-missing-error-restoring-ssleay32dll-functionality-in-windows/"><u>Eliminate the Dll-Missing-Error: Restoring ssleay32.dll Functionality in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-87-on-loadlibrary-how-to-fix-the-parameter-is-incorrect-issues/"><u>Error 87 on LoadLibrary: How to Fix 'The Parameter Is Incorrect' Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-send-texts-without-using-up-your-mobile-plan/"><u>How to Send Texts Without Using Up Your Mobile Plan</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-authenticating-your-instagram-photos/"><u>In 2024, Authenticating Your Instagram Photos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unleashing-potential-sharing-youtube-content-within-instagram-stories/"><u>In 2024, Unleashing Potential Sharing YouTube Content Within Instagram Stories</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/losungen-fur-den-fehler-planungsfunktion-in-windows-10-nicht-aktiv-schritte-zur-problemlosung/"><u>Lösungen Für Den Fehler 'Planungsfunktion in Windows 10 Nicht Aktiv': Schritte Zur Problemlösung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/regaining-control-what-to-do-if-you-forget-your-ipads-passcode-or-password/"><u>Regaining Control: What To Do If You Forget Your iPad's Passcode or Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-device-managers-code/"><u>Resolving Device Manager's Code</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-a-dead-fire-stick-remote-expert-tips-on-restoring-functionality/"><u>Reviving a Dead Fire Stick Remote: Expert Tips on Restoring Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transforma-archivos-mp4-a-animaciones-gif-sin-costo-en-linea-con-movavi/"><u>Transforma Archivos MP4 a Animaciones GIF Sin Costo - En Línea Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-secrets-the-latest-buzz-on-googles-upcoming-smartwatch/"><u>Unlocking Secrets - The Latest Buzz on Google's Upcoming Smartwatch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wallet-friendly-ultimate-home-theater-setup-the-perfect-starter-collection/"><u>Wallet-Friendly Ultimate Home Theater Setup - The Perfect Starter Collection</u></a></li>
 </ul></div>
 

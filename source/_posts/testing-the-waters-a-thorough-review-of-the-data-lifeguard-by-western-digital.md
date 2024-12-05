@@ -1,7 +1,7 @@
 ---
 title: "Testing the Waters: A Thorough Review of the Data Lifeguard by Western Digital"
-date: 2024-08-30T16:22:41.624Z
-updated: 2024-08-31T16:22:41.624Z
+date: 2024-11-29T11:22:39.443Z
+updated: 2024-12-05T00:31:02.531Z
 categories:
   - BestProducts
 description: "This Article Describes Testing the Waters: A Thorough Review of the Data Lifeguard by Western Digital"
@@ -19,6 +19,10 @@ Close
 
 [ Windows ](https://support-en.wd.com/app/answers/detailweb/a%5Fid/31759/~/install-western-digital-dashboard-for-drive-performance-monitoring) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More About Western Digital Data LifeGuard Diagnostic 
 
  The supported operating systems for Western Digital Dashboard are[ 32-bit and 64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) versions of[ Windows 11](https://www.lifewire.com/windows-11-5188930) and[ Windows 10](https://www.lifewire.com/windows-10-2626217) .
@@ -35,11 +39,19 @@ Close
 
 ![Western Digital Dashboard for Windows](https://www.lifewire.com/thmb/FiprlkqGcrLRVZVdF0HBzAP_4jg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/western-digital-dashboard-smart-0246c6de7cc646deb6db089442de1c78.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The_Short Test_ option in Dashboard performs a relatively fast self-scan, while an_Extended Test_ checks the whole hard drive for bad[ sectors](https://www.lifewire.com/what-is-a-sector-2626003) .
 
  Both versions can also be used to[ wipe a hard drive](https://www.lifewire.com/how-to-wipe-a-hard-drive-2624527) by overwriting the drive using the Write Zero method of[ data sanitization](https://www.lifewire.com/data-sanitization-methods-2626133) .
 
  You might need to[ replace the hard drive](https://www.lifewire.com/how-to-replace-a-hard-drive-2626200) if it fails any of your tests.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Western Digital Data LifeGuard Diagnostic Pros & Cons 
 
@@ -58,8 +70,9 @@ Close
 * Requires a WD hard drive to be installed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Our Thoughts on Western Digital Dashboard & Data LifeGuard Diagnostic 
 
  The version for Windows is extremely easy to use and understand, clearly showing a pass or fail marker for the SMART status.
@@ -90,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +110,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/sovled-necromunda-on-pc-addressing-frequent-game-crashes-and-how-to-resolve-them/"><u>[SOVLED] Necromunda on PC: Addressing Frequent Game Crashes and How to Resolve Them</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-curb-automated-youtube-content-feeds/"><u>[Updated] In 2024, Curb Automated YouTube Content Feeds</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-the-new-apple-ring-projected-pricing-availability-and-technical-specifications/"><u>All About the New Apple Ring: Projected Pricing, Availability, and Technical Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/an-insightful-journey-through-the-history-of-electric-transportation/"><u>An Insightful Journey Through the History of Electric Transportation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-annoying-keeps-showing-up-a-comprehveiw-on-solving-usb-recognition-problems/"><u>Beat the Annoying Keeps Showing Up: A Comprehveiw on Solving USB Recognition Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-amazon-echo-network-issues-how-to-get-your-smart-assistant-back-online/"><u>Dealing with Amazon Echo Network Issues: How to Get Your Smart Assistant Back Online</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/easiest-tongue-journey-top-10-simplified-languages-compendium/"><u>Easiest Tongue Journey: Top 10 Simplified Languages Compendium</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-icloud-email-security-a-guide-to-enabling-two-step-verification/"><u>Enhancing iCloud Email Security: A Guide to Enabling Two-Step Verification</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-choose-a-secure-email-service-exploring-top-5-options-for-peace-of-mind/"><u>How to Choose a Secure Email Service? Exploring Top 5 Options for Peace of Mind</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-infinix-note-30-vip-racing-edition-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Infinix Note 30 VIP Racing Edition? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-power-cycling-your-macbook-pro/"><u>Mastering the Art of Power Cycling Your MacBook Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fix-solutions-for-when-your-ipad-wont-connect-to-wi-fi-networks/"><u>Quick Fix Solutions for When Your iPad Won't Connect to Wi-Fi Networks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-tips-altering-video-pace-in-instagram-stories/"><u>Quick Tips Altering Video Pace in Instagram Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-the-newest-apple-tv-4k-series-gen-3-insights/"><u>The Ultimate Guide to the Newest Apple TV 4K Series - Gen 3 Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/time-is-money-save-it-automate-your-twitter-publishing-strategy-with-scheduled-posts/"><u>Time Is Money, Save It! Automate Your Twitter Publishing Strategy with Scheduled Posts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-enhance-your-video-with-pro-audio-editing-in-fcp/"><u>Updated In 2024, Enhance Your Video with Pro Audio Editing in FCP</u></a></li>
+</ul></div>
 

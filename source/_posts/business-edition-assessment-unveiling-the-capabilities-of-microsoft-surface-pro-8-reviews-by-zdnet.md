@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2024-11-14T02:20:19.314Z
-updated: 2024-11-16T06:39:26.897Z
+date: 2024-11-28T02:30:33.017Z
+updated: 2024-12-04T21:01:55.873Z
 tags:
   - apple
 categories:
@@ -42,11 +42,19 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -70,6 +78,10 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -86,13 +98,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -102,10 +107,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -143,13 +145,6 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -177,10 +172,7 @@ At the end of the day, however, you're getting a full computer in the Surface Pr
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -220,20 +212,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>[Updated] 2024 Approved How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-instagram-trends-with-key-tags/"><u>[Updated] In 2024, Navigating #Instagram Trends with Key Tags</u></a></li>
-<li><a href="https://fox-access.techidaily.com/10-top-ai-tools-to-invent-unique-podcast-names-online/"><u>10 Top AI Tools to Invent Unique Podcast Names Online</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-definition-at-its-peak-top-10-4k-screens/"><u>2024 Approved High Definition at Its Peak #Top 10 4K Screens</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-windows-update-issue-error-8007000e-quick-fixes-and-expert-tips/"><u>Beat Window's Update Issue 'Error 8007000E': Quick Fixes & Expert Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dynamic-beats-win-edition/"><u>Dynamic Beats Win Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-downloading-popular-flicks-from-netflix-onto-your-pc/"><u>Easy Steps: Downloading Popular Flicks From Netflix Onto Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-fixes-when-your-optical-disc-drive-wont-open-or-eject-properly/"><u>Effective Fixes When Your Optical Disc Drive Won't Open or Eject Properly</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tial-insights-into-youtubes-content-policy-framework-for-2024/"><u>Essential Insights Into YouTube's Content Policy Framework for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-tricks-to-remove-cache-and-enhance-your-android-experience/"><u>Essential Tricks to Remove Cache and Enhance Your Android Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-interpret-your-laptops-power-level-in-windows-11-insights-and-tips/"><u>How to Interpret Your Laptop's Power Level in Windows 11: Insights & Tips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-7-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 7 Lock Screen with Notifications?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-battery-issues-with-sonys-ps5-controller-a-comprehensive-fix-guide/"><u>Overcoming Battery Issues with Sony's PS5 Controller - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/siri-speaks-your-words-activating-ios-and-macos-voice-assistant-functionality/"><u>Siri Speaks Your Words: Activating iOS and macOS Voice Assistant Functionality</u></a></li>
-<li><a href="https://facebook.techidaily.com/top-8-choosing-a-business-ppage-over-individual-profiles-for-effective-branding/"><u>Top 8: Choosing a Business Ppage over Individual Profiles for Effective Branding</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-building-your-digital-identity-start-a-youtube-channel-today-for-2024/"><u>[Updated] Building Your Digital Identity Start a YouTube Channel Today for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-double-edged-sword-of-virtual-reality/"><u>[Updated] The Double-Edged Sword of Virtual Reality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-big-sur-specifications-system-and-hardware-required/"><u>2024 Approved Big Sur Specifications System & Hardware Required</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experience-the-next-level-of-virtual-reality-with-htcs-vive-headset/"><u>2024 Approved Experience the Next Level of Virtual Reality with HTC's Vive Headset</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-your-pc-the-complete-walkthrough-for-msvcrtdll-not-found-problems/"><u>Fix Your PC: The Complete Walkthrough for Msvcrt.dll Not Found Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-solutions-to-unlock-google-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>In 2024, 6 Solutions to Unlock Google Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-elevating-your-channels-identity-with-titles/"><u>In 2024, Elevating Your Channel's Identity with Titles</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maxs-spotlight-the-best-documentaries-featuring-him-in-july-2024/"><u>Max's Spotlight: The Best Documentaries Featuring Him in July 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/negotiation-tactics-for-improved-job-benefits-and-remote-working-options-expert-advice-by-zdnet/"><u>Negotiation Tactics for Improved Job Benefits and Remote Working Options – Expert Advice by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rejuvenate-your-workhorse-a-detailed-walkthrough-of-restoring-a-lenovo-computer-to-its-original-state/"><u>Rejuvenate Your Workhorse: A Detailed Walkthrough of Restoring a Lenovo Computer to Its Original State</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-programming-techniques-for-creating-a-versatile-remote-controller/"><u>Step-by-Step Tutorial: Programming Techniques for Creating a Versatile Remote Controller</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-allure-of-innovation-understanding-apples-newest-ipad-generation/"><u>The Allure of Innovation: Understanding Apple's Newest iPad Generation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-homeowners-handbook-to-electric-car-charging-all-the-info-you-need/"><u>The Homeowner's Handbook to Electric Car Charging: All the Info You Need</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unveiling-the-mysteries-of-ig-metrics-an-essential-toolkit-for-marketers/"><u>Unveiling the Mysteries of IG Metrics An Essential Toolkit for Marketers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrade-your-viewing-experience-by-changing-the-browser-on-your-samsung-tv/"><u>Upgrade Your Viewing Experience by Changing the Browser on Your Samsung TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/user32dll-errors-demystified-how-to-restore-or-replace-the-missing-file-successfully/"><u>User32.dll Errors Demystified: How to Restore or Replace the Missing File Successfully</u></a></li>
 </ul></div>
 

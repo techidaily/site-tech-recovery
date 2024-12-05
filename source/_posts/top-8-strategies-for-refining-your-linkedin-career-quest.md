@@ -1,7 +1,7 @@
 ---
 title: Top 8 Strategies for Refining Your LinkedIn Career Quest
-date: 2024-08-30T16:11:57.585Z
-updated: 2024-08-31T16:11:57.585Z
+date: 2024-11-29T13:09:19.926Z
+updated: 2024-12-05T04:15:21.634Z
 tags:
   - web
 categories:
@@ -36,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A LinkedIn job search, with the filter panel showing steps to sort by most recent.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-filter-job-results-by-most-recent.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your job search results will update immediately to show the earliest results starting from the top.
 
 ## 2  Use Advanced Search Operators 
@@ -52,6 +56,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can use one or a combination of these to help narrow down your searches. These work across the LinkedIn search tool, so they will help you narrow down job searches, posts, events, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  Set Up Job Alerts for Searches 
 
  Want to keep an eye out for job ads that match your role? You can set up a job alert. LinkedIn will send you notifications on LinkedIn and via email when new jobs appear that match your search criteria.
@@ -65,8 +73,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A saved job search on LinkedIn in the Jobs section of the website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-show-saved-job-alerts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  Filter Out Older Job Posts 
 
  Not every job ad will disappear once it’s been filed. If you want to make sure that you don’t see out-of-date job posts, you can use the search tool’s filtering tools to limit the ads that appear to those that have been posted recently.
@@ -75,9 +84,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An example LinkedIn job search, with arrows pointing at the steps to narrow down a search result using the Date Posted filter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-narrow-job-searches-by-date-added.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5  Filter by Number of Current Applicants 
 
  LinkedIn keeps a note of how many people apply for a job through its platform. It isn’t foolproof and may contain some false positives, but you can use this data to filter out posts that have ten or fewer applicants. Fewer applicants might mean that the job is more competitive to apply for.
@@ -87,11 +93,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An example LinkedIn job search, with arrows showing the steps to apply the 'Under 10 Applicants' filter to narrow down the search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-enable-low-applicants-filter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 6  Search for Specific Businesses 
 
  Is your heart set on a job with a specific company? You can use LinkedIn to only show jobs from that employer.
@@ -101,15 +105,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A LinkedIn job search, showing the steps to filter the search to only show ads from a specific company.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-filter-by-company.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If there are any jobs that match that company, they should appear on the left immediately afterward.
 
  Alternatively, you could use the AND search operator in your job search, but it's important to note that this won't guarantee to limit jobs from a single employer. A good example is Microsoft. Searching for IT Engineer AND Microsoft should locate jobs that include both IT Engineer and Microsoft in the ad. However, a job ad might mention Microsoft in the ad itself because job roles like Microsoft 365 Engineer exist.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7  Set Up Your Profile to Use the Easy Apply Function 
 
  Your LinkedIn profile isn’t just a way for potential employers to check you out. You can use it yourself to fill out job applications that support LinkedIn’s “Easy Apply” feature. Easy Apply allows you to apply for jobs without leaving LinkedIn, using the data on your profile to fill out the application.
@@ -122,9 +128,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A LinkedIn job search, filtered by Easy Apply ads only, with arrows pointing at the options to filter the results and apply for jobs with the Easy Apply functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-job-search-easy-apply-button-example.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8  Search for Hiring Posts 
 
  My last tip isn’t a search tip for using LinkedIn’s job board at all. Instead, I recommend using the search functionality to look out for hiring posts made by employers who might be looking more widely for applicants.
@@ -135,12 +138,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A LinkedIn example search showing various types of search results, with arrows pointing to select the Posts option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-search-and-select-posts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’s not wise to trust the order of posts here, so bypass the algorithm by clicking the “Sort” button at the top, selecting “Latest”, then choosing “Show Results” to update the list of posts.
 
 ![A LinkedIn posts search, with arrows pointing at the options to sort the search results by the latest options first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linkedin-posts-search-filter-by-latest.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can then look through the posts made by employers looking for new jobs. If any of them take your interest, you can message the poster director or follow the instructions on the post they’ve made to apply for the job.
 
@@ -154,8 +158,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +165,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dissecting-youtube-revenue-how-much-do-you-earning-from-adsense-per-kv/"><u>[Updated] 2024 Approved Dissecting YouTube Revenue How Much Do You Earning From AdSense per KV?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726219613288-m4aaac-movavi/"><u>免費在網路上順利改成M4A格式的AAC音頻 - 使用 Movavi 編解碼器</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoiding-extra-charges-with-savvy-sms-habits/"><u>Avoiding Extra Charges with Savvy SMS Habits</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-speed-kings-a-comprehensive-review-of-the-quickest-photo-printers/"><u>Discover the Speed Kings: A Comprehensive Review of the Quickest Photo Printers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-ways-to-refresh-your-motherboard-drivers-on-a-windows-system/"><u>Easy Ways to Refresh Your Motherboard Drivers on a Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-windows-experience-with-these-top-7-tips/"><u>Elevate Your Windows Experience with These Top 7 Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-methods-for-upgrading-your-google-chromecast-software/"><u>Latest Methods for Upgrading Your Google Chromecast Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/make-disneyplus-content-playable-on-your-tv-with-ease-using-google-chromecast-a-comprehensive-guide/"><u>Make Disney+ Content Playable on Your TV with Ease Using Google Chromecast – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-sound-in-lost-ark-here-are-the-solutions-you-need/"><u>No Sound in Lost Ark? Here Are the Solutions You Need</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-restore-power-to-your-airpods-quickly/"><u>Ultimate Guide: How To Restore Power to Your AirPods Quickly!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-you-need-to-know-about-the-mythic-apple-automobile-from-projected-pricing-to-release-date-the-complete-breakdown/"><u>What You Need to Know About the Mythic Apple Automobile: From Projected Pricing to Release Date - The Complete Breakdown!</u></a></li>
+</ul></div>
 

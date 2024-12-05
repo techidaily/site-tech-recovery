@@ -1,7 +1,7 @@
 ---
 title: IOS 17.7 Launching Soon! Why Choosing It Over iOS 18 Could Be Wiser - Tips by ZDNET
-date: 2024-11-11T16:19:46.144Z
-updated: 2024-11-16T03:56:30.692Z
+date: 2024-12-02T08:17:18.012Z
+updated: 2024-12-04T20:02:43.058Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -39,10 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,17 +124,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capture-kings-face-off/"><u>[New] 2024 Approved Capture Kings Face-Off</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-navigating-firefoxs-picture-in-picture-capabilities/"><u>[New] 2024 Approved Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>[Updated] 2024 Approved How to Create Impactful Valorant Thumbnails A Compreayer's Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-securing-skype-conversations-via-obs-for-2024/"><u>[Updated] Securing Skype Conversations via OBS for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators-for-2024/"><u>[Updated] Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-samsungs-latest-gem-revealed-the-galaxy-z-flip-7-expected-costs-launch-timeline-and-specs-inside/"><u>Get Ahead of the Curve: Samsung's Latest Gem Revealed! The Galaxy Z Flip 7 - Expected Costs, Launch Timeline and Specs Inside</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-srt-file-creation-a-comprehensive-manual-for-2024/"><u>Mastering SRT File Creation A Comprehensive Manual for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-micro-mobility-universe-timelines-breaking-stories-and-hot-tips/"><u>Navigating the Micro-Mobility Universe: Timelines, Breaking Stories & Hot Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899546821-pixel-9-unveiled-anticipated-launch-details-and-pricing-revealed/"><u>Pixel 9 Unveiled? Anticipated Launch Details & Pricing Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-bootmgr-missing-problem-a-step-by-step-guide/"><u>Solving the BOOTMGR Missing Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-handbook-choosing-your-perfect-pc-or-notebook-for-education/"><u>The Definitive Handbook: Choosing Your Perfect PC or Notebook for Education</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/threads-of-time-looms-screen-record-mastery/"><u>Threads of Time Loom's Screen Record Mastery</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[New] In 2024, How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/authentic-winx-pro-video-converter-and-disc-creator-safe-download-online/"><u>Authentic WinX Pro Video Converter and Disc Creator – Safe Download Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-resolving-your-wiis-disc-reading-difficulties-quickly-and-easily/"><u>Expert Tips for Resolving Your Wiis' Disc Reading Difficulties Quickly and Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-and-update-your-netgear-passwords-july-2024-edition/"><u>Find & Update Your Netgear Passwords – July 2024 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-corsair-headset-drivers-in-windows/"><u>How To Update Corsair Headset Drivers In Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-modern-classroom-the-9-critical-technological-aids-students-need-today/"><u>Navigating the Modern Classroom: The 9 Critical Technological Aids Students Need Today</u></a></li>
+<li><a href="https://win-web3.techidaily.com/navigating-the-windows-evolution-which-version-is-right-for-you-windows-7-10-or-11/"><u>Navigating the Windows Evolution: Which Version Is Right for You – Windows 7, 10, or 11?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-easy-way-to-disinfect-your-television-remote-control/"><u>The Easy Way to Disinfect Your Television Remote Control</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-solving-critical-hardware-failures-tackling-whea-errors/"><u>The Ultimate Guide to Solving Critical Hardware Failures - Tackling WHEA Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformative-tools-why-teachers-should-welcome-ai-innovations/"><u>Transformative Tools: Why Teachers Should Welcome AI Innovations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-comparison-guide-which-should-you-pick-alexa-or-google-assistant/"><u>Ultimate Comparison Guide: Which Should You Pick, Alexa or Google Assistant?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleash-your-inner-vfx-guru-with-diy-techniques-for-2024/"><u>Unleash Your Inner VFX Guru with DIY Techniques for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-of-what-is-google-hangouts/"><u>Unraveling the Mystery of What Is Google Hangouts?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-efficiency-swiftly-managing-notifications-with-androids-quick-panel/"><u>Unveiling Efficiency: Swiftly Managing Notifications with Android's Quick Panel</u></a></li>
 </ul></div>
 

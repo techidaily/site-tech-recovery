@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Disable Sticky Keys Option on a Windows Operating System
-date: 2024-08-30T16:23:53.089Z
-updated: 2024-08-31T16:23:53.089Z
+date: 2024-11-30T20:16:02.538Z
+updated: 2024-12-05T08:27:42.927Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions to Disable Sticky Keys Option on a Windows Operating System
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/8FJguj3CbG3Pg0axU1nf6m_P2Ok=/400x300/fi
 ---
 
 ## Mastering the CMD Interface Across Windows Versions – A Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Search the Start menu for**Command Prompt** .
@@ -38,12 +43,6 @@ thumbnail: https://www.lifewire.com/thmb/8FJguj3CbG3Pg0axU1nf6m_P2Ok=/400x300/fi
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
@@ -51,9 +50,14 @@ thumbnail: https://www.lifewire.com/thmb/8FJguj3CbG3Pg0axU1nf6m_P2Ok=/400x300/fi
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -67,6 +71,10 @@ thumbnail: https://www.lifewire.com/thmb/8FJguj3CbG3Pg0axU1nf6m_P2Ok=/400x300/fi
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -78,18 +86,6 @@ thumbnail: https://www.lifewire.com/thmb/8FJguj3CbG3Pg0axU1nf6m_P2Ok=/400x300/fi
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -99,11 +95,9 @@ thumbnail: https://www.lifewire.com/thmb/8FJguj3CbG3Pg0axU1nf6m_P2Ok=/400x300/fi
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -151,8 +145,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +152,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elevate-your-communication-master-skype-calls-recording/"><u>[New] Elevate Your Communication Master Skype Calls Recording</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-identifying-your-individual-song-collection-on-youtube/"><u>[Updated] In 2024, Identifying Your Individual Song Collection on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audioadventurers-venturing-without-dacast/"><u>2024 Approved AudioAdventurers Venturing Without DaCast</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-social-media-screen-recorder-app-mobile-windows-mac/"><u>2024 Approved Social Media Screen Recorder App (Mobile, Windows, Mac)</u></a></li>
+<li><a href="https://win-special.techidaily.com/boost-your-machines-speed-and-stability-with-these-simple-strategies-by-yl-software-experts/"><u>Boost Your Machine's Speed & Stability with These Simple Strategies by YL Software Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dragon-training-movies-timeline-experience-the-full-journey-correctly/"><u>Dragon Training Movies Timeline: Experience the Full Journey Correctly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-troubleshooting-missing-dciman3-dll-errors/"><u>Effective Strategies for Troubleshooting Missing Dciman3# Dll Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-great-divide-in-depth-look-at-mac-vs-pc-variations/"><u>Exploring the Great Divide: In-Depth Look at Mac Vs. PC Variations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimize-your-instagram-strategy-with-the-power-of-metas-artificial-intelligence/"><u>Optimize Your Instagram Strategy with the Power of Meta's Artificial Intelligence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-overcoming-the-challenge-of-a-rusty-microphone-not-working/"><u>Step-by-Step Solution: Overcoming the Challenge of a Rusty Microphone Not Working</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/thrill-ride-best-sequence-to-enjoy-all-the-how-to-train-your-dragon-films/"><u>Thrill Ride: Best Sequence to Enjoy All The How to Train Your Dragon Films</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-adventure-awaits-in-todays-mmos/"><u>Ultimate Adventure Awaits in Today's MMOs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-allowing-web-cookies-for-a-tailored-online-experience/"><u>Understanding and Allowing Web Cookies for a Tailored Online Experience</u></a></li>
+</ul></div>
 

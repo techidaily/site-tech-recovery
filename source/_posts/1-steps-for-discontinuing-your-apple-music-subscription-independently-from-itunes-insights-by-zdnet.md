@@ -1,7 +1,7 @@
 ---
 title: 1. Steps for Discontinuing Your Apple Music Subscription Independently From iTunes - Insights by ZDNet
-date: 2024-11-11T16:00:47.249Z
-updated: 2024-11-15T20:39:47.899Z
+date: 2024-11-30T00:16:06.162Z
+updated: 2024-12-05T12:54:00.306Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [How to customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-customize-your-iphones-new-control-center-with-ios-18/)
@@ -36,10 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -59,10 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -123,18 +121,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-15-creative-ventures-to-pursue-while-youre-heeding-stories-for-2024/"><u>[New] 15 Creative Ventures to Pursue While You're Heeding Stories for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-from-ordinary-snaps-to-captivating-creations-editing-on-snapchat-for-2024/"><u>[New] From Ordinary Snaps to Captivating Creations Editing on Snapchat for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/507-unforgettable-phrases-to-perfect-your-instagram-captions/"><u>507 Unforgettable Phrases to Perfect Your Instagram Captions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-cheat-sheet-understanding-snapchats-secret-emojis/"><u>Comprehensive Cheat Sheet: Understanding Snapchat's Secret Emojis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-guide-hooking-up-an-amazon-fire-tv-stick-with-a-projector-for-optimal-viewing/"><u>DIY Guide: Hooking Up an Amazon Fire TV Stick with a Projector for Optimal Viewing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-for-setting-up-shared-access-to-your-printer-from-various-gadgets/"><u>Easy Steps for Setting Up Shared Access to Your Printer From Various Gadgets</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/embrace-the-future-of-tv-engage-with-fb-live-via-roku-for-2024/"><u>Embrace the Future of TV Engage with FB Live via Roku for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-lenovo-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Lenovo online without jailbreak</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-deciphering-the-art-of-reversed-visual-searches-online-fb/"><u>In 2024, Deciphering the Art of Reversed Visual Searches Online (FB)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-the-power-of-visual-content-share-vids-on-facebook/"><u>In 2024, Unlocking the Power of Visual Content Share Vids on Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stream-the-most-popular-and-award-winning-flicks-on-disneyplus-now/"><u>Stream the Most Popular and Award-Winning Flicks on Disney+ Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/understanding-the-disappearance-of-light-gun-games-in-the-era-of-modern-hdtv-technology/"><u>Understanding the Disappearance of Light Gun Games in the Era of Modern HDTV Technology</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-streamsavvy-exploring-alternatives-to-dacast/"><u>[New] In 2024, StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-living-life-fully-on-facebook-tips-for-active-engagement-for-2024/"><u>[New] Living Life Fully on Facebook Tips for Active Engagement for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1726029073915-instagram/"><u>優れたInstagram動画のアップロード手順</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aussie-speak-the-100plus-essential-expressions/"><u>Aussie Speak: The 100+ Essential Expressions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-assessment-the-newest-third-gen-apple-tv-with-4k-support/"><u>Comprehensive Assessment: The Newest Third Gen Apple TV with 4K Support</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-a-broken-macbook-pro-keyboard-expert-advice-for-smooth-typing-again/"><u>Fix a Broken MacBook Pro Keyboard: Expert Advice for Smooth Typing Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs30-headset-microphone-up-and-running-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS30 Headset Microphone Up and Running on Windows</u></a></li>
+<li><a href="https://app-tips.techidaily.com/free-windows-11-upgrade-availability-is-it-over/"><u>Free Windows 11 Upgrade Availability: Is It Over?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-a-macbook-pro-keyboard-isnt-working/"><u>How to Fix It When a MacBook Pro Keyboard Isn't Working</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-your-wi-fi-connection-issues-on-the-microsoft-surface-pro/"><u>Solving Your Wi-Fi Connection Issues on the Microsoft Surface Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolving-oeserverdll-absence-errors/"><u>Step-by-Step Guide: Resolving oeserver.dll Absence Errors</u></a></li>
 </ul></div>
 

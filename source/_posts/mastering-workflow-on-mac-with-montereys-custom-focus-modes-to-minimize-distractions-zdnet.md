@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2024-11-19T16:00:39.920Z
-updated: 2024-11-25T18:08:04.798Z
+date: 2024-11-30T07:55:51.896Z
+updated: 2024-12-05T09:31:28.228Z
 tags:
   - apple
 categories:
@@ -26,19 +26,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## Create a custom Focus
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Create a custom Focus
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -49,7 +45,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -80,6 +76,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,22 +140,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-11x-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme 11X 5G</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211383049-9781957811048-discourses-volume-4-2017/"><u>Discourses Volume 4, 2017 | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ensure-email-safety-in-mac-os-x-by-setting-up-whitelisted-domains/"><u>Ensure Email Safety in Mac OS X by Setting Up Whitelisted Domains</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fun-filled-guide-to-playful-shenanigans-on-your-mobile-tech-iphone-and-ipad-edition/"><u>Fun-Filled Guide to Playful Shenanigans on Your Mobile Tech: IPhone & iPad Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-resolve-d3dx930dll-errors-when-they-go-unfound-or-vanish/"><u>How to Correctly Resolve d3dx9_30.dll Errors When They Go Unfound or Vanish</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-se-2022-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone SE (2022) After Forgetting the Passcode?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-recording-internet-radios-simplified-tips-and-tricks/"><u>In 2024, Recording Internet Radios Simplified Tips and Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/joining-forces-a-guide-on-linking-up-several-bluetooth-soundboxes/"><u>Joining Forces: A Guide on Linking Up Several Bluetooth Soundboxes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/leading-ups-solutions-reviewed-choose-the-perfect-backup/"><u>Leading UPS Solutions Reviewed - Choose the Perfect Backup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-accessing-espnplus-through-lg-smart-tv-interface/"><u>Step-by-Step Tutorial: Accessing ESPN+ Through LG Smart TV Interface</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamline-your-media-collection-with-funimate-for-2024/"><u>Streamline Your Media Collection with Funimate for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722982733676-troubleshooting-complete-no-more-fifa-20-crashes-for-windows-users/"><u>Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-for-connecting-laptops-and-televisions-with-an-hdmi-link/"><u>Ultimate Troubleshooting for Connecting Laptops and Televisions with an HDMI Link</u></a></li>
-<li><a href="https://facebook.techidaily.com/unboxing-facebook-and-instagrams-latest-ad-ventures/"><u>Unboxing Facebook & Instagram's Latest Ad Ventures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-capabilities-of-the-latest-claude-generation/"><u>Unveiling the Capabilities of the Latest Claude Generation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upgrade-to-mozilla-thunderbird-unveiling-version-170-build-52/"><u>Upgrade to Mozilla Thunderbird: Unveiling Version 17.0 (Build 52)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-captivating-crafts-trending-instagram-filters/"><u>[New] Captivating Crafts Trending Instagram Filters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-decelerating-action-the-ultimate-guide-to-ig-reels-slow-motion/"><u>[New] In 2024, Decelerating Action The Ultimate Guide to IG Reels’ Slow Motion</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-tips-to-keep-tiktok-videos-on-mobile-devices/"><u>[Updated] Tips to Keep TikTok Videos on Mobile Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-decreasing-jello-artifacts-in-aerial-filmmaking/"><u>2024 Approved Decreasing Jello Artifacts in Aerial Filmmaking</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquer-bumble-blank-spaces-a-comprehensive-fix-for-no-matches/"><u>Conquer Bumble Blank Spaces: A Comprehensive Fix for 'No Matches'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crafting-and-sharing-custom-contact-posters-in-ios-17-using-namedrop-a-step-by-step-guide-techtips/"><u>Crafting and Sharing Custom Contact Posters in iOS 17 Using NameDrop - A Step-by-Step Guide | TechTips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-leading-tv-streaming-services-ranked-for-2er-2024/"><u>Discover the Leading TV Streaming Services Ranked for 2Er 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722863919171-discover-the-most-popular-imessage-games-of-2024-ranked/"><u>Discover the Most Popular iMessage Games of 2024: Ranked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-the-ipad-models-equipped-with-integrated-gps-features/"><u>Identifying the iPad Models Equipped with Integrated GPS Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-honor-x9a-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Honor X9a Phone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-market-movements-with-youtube-picks/"><u>Mastering Market Movements with YouTube Picks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-free-video-dubbing-software-for-pc-top-picks/"><u>New 2024 Approved Free Video Dubbing Software for PC Top Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-accessing-command-line-interface-within-any-folder/"><u>Step-by-Step Guide: Accessing Command Line Interface Within Any Folder</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-accessing-command-prompt-inside-your-file-explorer/"><u>Step-by-Step Guide: Accessing Command Prompt Inside Your File Explorer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/streamline-your-instagram-content-free-mp4-exporters-for-windowsmac-users/"><u>Streamline Your Instagram Content Free MP4 Exporters for Windows/Mac Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-manual-to-dvr-technology-how-does-a-digital-video-recorder-work/"><u>The Insider's Manual to DVR Technology: How Does a Digital Video Recorder Work?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-time-management-bliss-with-4-fantastic-free-web-based-calendars/"><u>Unlock Time Management Bliss with 4 Fantastic Free Web-Based Calendars</u></a></li>
 </ul></div>
 

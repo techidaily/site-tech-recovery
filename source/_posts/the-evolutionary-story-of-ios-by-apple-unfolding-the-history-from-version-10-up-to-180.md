@@ -1,7 +1,7 @@
 ---
 title: "The Evolutionary Story of iOS by Apple: Unfolding the History From Version 1.0 up to 18.0"
-date: 2024-08-30T16:17:28.581Z
-updated: 2024-08-31T16:17:28.581Z
+date: 2024-12-02T01:42:37.112Z
+updated: 2024-12-04T19:15:14.445Z
 categories:
   - BestProducts
 description: "This Article Describes The Evolutionary Story of iOS by Apple: Unfolding the History From Version 1.0 up to 18.0"
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 
  Lifewire / Derek Abella
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## USB 2.0 Connectors
 
 _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash drive](https://www.lifewire.com/what-is-a-flash-drive-2625794) , while the_receptacle_ is the name given to the_female_ connector on a USB 2.0 device or extension cable.
@@ -36,6 +40,10 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
 
  You may want to consult a[USB Physical Compatibility Chart](https://www.lifewire.com/usb-physical-compatibility-chart-2624585) for a reference on what-fits-with-what.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Interconnected Device Speeds
 
  Older USB 1.1 devices and cables are, for the most part, physically compatible with USB 2.0 hardware. However, the only way to reach USB 2.0 transmission speeds is if all devices and cables being connected to each other support USB 2.0.
@@ -47,8 +55,9 @@ _Plug_ is the name given to the_male_ connector on a USB 2.0 cable or[flash driv
  In other words, the transmission speed falls to the older of the two technologies. This makes sense, since you can't pull USB 3.0 speeds out of a USB 2.0 cable, nor can you get USB 2.0 transmission speeds using a USB 1.1 cable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## USB On-the-Go (OTG)
 
 [USB On-the-Go](https://www.lifewire.com/what-is-usb-otg-and-what-does-it-do-4768902) was released in December 2006\. It allows devices to switch between acting as a host and as a subordinate when necessary so that they can be connected to each other directly.
@@ -81,8 +90,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -90,4 +97,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-efficiently-incorporate-media-in-your-tweets-for-2024/"><u>[New] Efficiently Incorporate Media in Your Tweets for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-exclusive-7-discreet-media-tools/"><u>[Updated] 2024 Approved Exclusive 7 Discreet Media Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-pioneering-personalized-voices-on-ps-games/"><u>[Updated] In 2024, Pioneering Personalized Voices on PS Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-the-latest-in-360-cameras/"><u>[Updated] Navigating the Latest in 360 Cameras</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic-6-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic 6</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-web-design-tools-for-windows-a-ranking-guide/"><u>Discover the Best Free Web Design Tools for Windows: A Ranking Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-cinematic-magic-a-step-by-step-tutorial-for-streaming-3d-movies-on-fandango-at-home/"><u>Experience Cinematic Magic: A Step-by-Step Tutorial for Streaming 3D Movies on Fandango at Home</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-ready-for-the-apple-watch-series-8-discover-release-dates-full-tech-details-pricing-estimates-and-fresh-insights/"><u>Getting Ready for the Apple Watch Series 8? Discover Release Dates, Full Tech Details, Pricing Estimates and Fresh Insights!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-x-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone X and iPad?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-addressing-and-repairing-mapi3ndll-not-found-errors/"><u>Step-by-Step Instructions for Addressing and Repairing 'Mapi3n.dll Not Found' Errors</u></a></li>
+</ul></div>
 

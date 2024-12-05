@@ -1,7 +1,7 @@
 ---
 title: "Mastering Energy Efficiency: A Guide to Enabling Low Power Mode on Your macOS Monterey - Tips From ZDNet"
-date: 2024-11-23T16:07:57.375Z
-updated: 2024-11-25T17:14:33.734Z
+date: 2024-12-03T21:29:45.819Z
+updated: 2024-12-05T06:19:53.736Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,6 +39,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -65,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-vision-capture-expert-insights-into-video-tech/"><u>[Updated] 2024 Approved Vision Capture Expert Insights Into Video Tech</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-secrets-of-striking-youtube-live-images/"><u>[Updated] Unveiling the Secrets of Striking YouTube Live Images</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/8-best-free-html-editors-for-windows/"><u>8 Best Free HTML Editors for Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-on-transferring-spotify-playlist-data-into-editable-text-files/"><u>Complete Guide on Transferring Spotify Playlist Data Into Editable Text Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-set-up-iphone-compatible-drivers-on-windows-10/"><u>Download & Set Up iPhone-Compatible Drivers on Windows 10</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/download-gratuito-di-windows-10-con-una-guida-completa-fatta-a-secco/"><u>Download Gratuito Di Windows 10 Con Una Guida Completa Fatta a Secco</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-picks-best-no-cost-polyglot-platforms-for-mastering-languages/"><u>Expert Picks: Best No-Cost Polyglot Platforms for Mastering Languages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-android-16-update-release-schedule-pricing-features-and-upcoming-rumors/"><u>Free Android 16 Update: Release Schedule, Pricing, Features & Upcoming Rumors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-hdd-evaluation-programs-the-2024-best-picks-for-optimal-performance/"><u>Free HDD Evaluation Programs: The 2024 Best Picks for Optimal Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-overcome-delay-challenges-with-google-chromecast-audio/"><u>How to Overcome Delay Challenges with Google Chromecast Audio</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-tame-a-buzzing-machine-fixing-problematic-computing-fans/"><u>How to Tame a Buzzing Machine: Fixing Problematic Computing Fans</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-blades-new-vision-in-ultra-high-definition-clarity/"><u>In 2024, Blade's New Vision in Ultra-High Definition Clarity</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-asus-rog-phone-8-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Asus ROG Phone 8 Pro Face Lock?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pros-picks-top-10-shaky-free-cameras-for-action/"><u>In 2024, Pro's Picks Top 10 Shaky-Free Cameras for Action</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722858426850-power-up-your-phone-on-the-go-no-charger-needed/"><u>Power Up Your Phone on the Go: No Charger Needed!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rediscovering-the-80s-a-guide-to-timeless-movies-you-need-to-see-today/"><u>Rediscovering the '80S: A Guide to Timeless Movies You Need to See Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-the-art-of-selfie-photography-with-ring-lights/"><u>Step-by-Step Guide: Mastering the Art of Selfie Photography with Ring Lights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unveiling-the-secrets-to-slow-motion-screenshots-in-snapchat-for-2024/"><u>[New] Unveiling the Secrets to Slow-Motion Screenshots in Snapchat for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ken-burns-method-in-camtasia-9-explained-simply/"><u>[Updated] 2024 Approved The Ken Burns Method in Camtasia 9 Explained Simply</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-art-of-textual-dimension-mastering-adobe-illustrator/"><u>[Updated] The Art of Textual Dimension Mastering Adobe Illustrator</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-watch-x-discover-expected-retail-price-release-moment-comprehensive-tech-details-and-buzzing-rumors/"><u>Apple Watch X - Discover Expected Retail Price, Release Moment, Comprehensive Tech Details & Buzzing Rumors!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-claude-2-its-mechanisms-purpose/"><u>Delving Into Claude 2: Its Mechanisms, Purpose</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-security-change-erasing-your-pin-for-full-access-to-windows-11/"><u>DIY Security Change: Erasing Your PIN for Full Access to Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-these-1-query/"><u>Explore These 1 # Query</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-your-keyboard-woes-steps-for-a-typing-restoration-process/"><u>Fix Your Keyboard Woes: Steps for a Typing Restoration Process</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-idea-to-gif-your-ultimate-blueprint-for-2024/"><u>From Idea to GIF Your Ultimate Blueprint for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-nokia-c12-plus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Nokia C12 Plus For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-whatsapp-on-macos-tips-and-tricks-for-effortless-messaging/"><u>Navigating WhatsApp on macOS: Tips & Tricks for Effortless Messaging</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resetting-your-x-account-password-securely/"><u>Step-by-Step Guide: Resetting Your X Account Password Securely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-how-to-recover-from-a-missing-msoftdll-file/"><u>Troubleshooting: How to Recover From a Missing msoft.dll File</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitreact-wisdom-a-complete-reference-book/"><u>TwitReact Wisdom A Complete Reference Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-functionality-of-google-hangouts-a-detailed-overview/"><u>Understanding the Functionality of Google Hangouts: A Detailed Overview</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unveil-the-8-greatest-places-to-download-3d-text-psd-files-for-2024/"><u>Unveil the 8 Greatest Places to Download 3D Text PSD Files for 2024</u></a></li>
 </ul></div>
 

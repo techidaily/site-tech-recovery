@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2024-11-20T17:32:12.871Z
-updated: 2024-11-25T16:00:17.885Z
+date: 2024-12-02T10:50:26.838Z
+updated: 2024-12-05T06:05:30.659Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,17 +176,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/behind-the-scenes-of-chatgpt-identifying-microsoft-as-its-architect-and-guardian/"><u>Behind the Scenes of ChatGPT: Identifying Microsoft as Its Architect and Guardian</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-home-studio-secure-the-latest-scarlett-2i4-drivers-for-windows-download/"><u>Enhance Your Home Studio: Secure the Latest Scarlett 2I4 Drivers for Windows (Download)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-diagnosing-and-correcting-hps-code-43-malfunctions/"><u>Expert Tips for Diagnosing & Correcting HP'S Code 43 Malfunctions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gifinstagram/"><u>GIFを使ったInstagramストーリーズアップロードガイド: 完全取材</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hitman-3-for-pc-resolving-unexpected-black-screen-errors-effectively/"><u>Hitman 3 for PC - Resolving Unexpected Black Screen Errors Effectively</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-secrets-to-flawless-photo-cropping-online/"><u>In 2024, Professional Secrets to Flawless Photo Cropping Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-video-mastery-posting-on-snapchat-from-twitter-revealed/"><u>In 2024, Video Mastery Posting on Snapchat From Twitter Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/key-factors-every-serious-gamer-should-assess-when-shopping-for-a-new-gaming-rig/"><u>Key Factors Every Serious Gamer Should Assess When Shopping for a New Gaming Rig</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/obscure-watching-methods-5-unique-stories-apps-for-2024/"><u>Obscure Watching Methods 5 Unique Stories Apps for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-quiet-how-to-turn-up-the-volume-on-your-minecraft-soundscape/"><u>PC Gaming Quiet: How to Turn Up the Volume on Your Minecraft Soundscape</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fix-for-mac-programs-that-refuse-to-launch-expert-tips-and-advice/"><u>Quick Fix for Mac Programs that Refuse to Launch: Expert Tips & Advice</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-youtuber-in-training-mobile-livestream-without-1000plus-subs-for-2024/"><u>[New] YouTuber in Training Mobile Livestream WITHOUT 1000+ Subs for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-a-visual-journey-discover-filmoras-favorite-features/"><u>[Updated] 2024 Approved A Visual Journey Discover Filmora's Favorite Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-iphoneipad-premium-podcast-recording-tips/"><u>[Updated] In 2024, Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722897764761-all-about-the-upcoming-google-pixel-timepiece-series-4-price-predictions-expected-debut-date-and-speculations-unveiled/"><u>All About The Upcoming Google Pixel Timepiece (Series 4): Price Predictions, Expected Debut Date, and Speculations Unveiled!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-6-main-reasons-for-your-vehicles-recurring-battery-issues/"><u>Discover the 6 Main Reasons for Your Vehicle's Recurring Battery Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-oled-displays-how-do-they-work/"><u>Exploring the World of OLED Displays - How Do They Work?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-digital-dialogues-comparing-the-impact-of-podcasts-and-youtube-platforms/"><u>In 2024, Digital Dialogues Comparing the Impact of Podcasts and YouTube Platforms</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/professional-techniques-editing-and-saving-movies-in-win-11/"><u>Professional Techniques Editing and Saving Movies in Win 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-device-managers-code-n-series-a-step-by-step-guide/"><u>Resolving Device Manager's Code N-Series: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-ac1st16dll-error-a-step-by-step-guide/"><u>Solving the ac1st16.dll Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-breakdown-of-netflixs-top-tier-video-on-demand-platform/"><u>The Ultimate Breakdown of Netflix's Top-Tier Video on Demand Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-best-cooking-show-selections-available-on-netflix/"><u>Ultimate List: Best Cooking Show Selections Available on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unboxing-the-latest-update-a-full-review-of-snappy-driver-installer-v113/"><u>Unboxing the Latest Update - A Full Review of Snappy Driver Installer V1.13</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-review-of-the-macbook-air-with-m1-chip-202n/"><u>Unveiling the Power of Apple's Latest Innovation: A Comprehensive Review of the MacBook Air with M1 Chip (202N)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-complete-guide-to-watching-apple-tv-on-a-firestick/"><u>Your Complete Guide to Watching Apple TV on a Firestick</u></a></li>
 </ul></div>
 

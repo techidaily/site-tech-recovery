@@ -1,7 +1,7 @@
 ---
 title: "Inside Sony's State of Play : New Gadgets, Games, and Industry Forecasts Revealed"
-date: 2024-08-30T16:23:23.384Z
-updated: 2024-08-31T16:23:23.384Z
+date: 2024-11-30T11:11:47.415Z
+updated: 2024-12-04T22:05:14.248Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Sony's State of Play : New Gadgets, Games, and Industry Forecasts Revealed"
@@ -21,9 +21,17 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
  Sony’s State of Play event happens semi-regularly whenever the company has big news or product announcements about PlayStation. The inaugural event was in 2019; Sony has held several more events since then.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Is the Next Sony State of Play Event? 
 
  Sony hasn't announced its next State of Play. The most recent one was May 30, 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Which Products Will Be Announced? 
 
@@ -32,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  The last event introduced 14 PS5 and PS VR2 titles from both PlayStation Studios developers and third-party companies.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Did Sony Announce at the Last State of Play? 
 
  The May 30 State of Play showed off a lot of software to coincide with the start of Sony's Days of Play event. Here's what we saw:
@@ -58,15 +67,17 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 * Mascot character Astro Bot, who taught us all how to play our PlayStation 5s in_Astro's Playroom_ , is back for a new adventure in_Astro Bot_ . This platformer will feature new worlds, costumes based on iconic PlayStation characters like Nathan Drake, Kratos, and Aloy, and a huge starship shaped like the PS5 console. It's coming September 6.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Stream and Watch Sony State of Play 
 
  State of Play events are streamed on PlayStation's[ Twitch](https://www.twitch.tv/playstation) ,[ YouTube](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) , and[ TikTok](https://www.tiktok.com/@playstation) channels. You can watch the May 30 event below:
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest Sony and Other Gaming News 
 
  You can get more[ gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Here are some of the latest stories regarding Sony and the PlayStation:
@@ -83,8 +94,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +101,18 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-adjusting-visuals-in-teams-conversations-at-any-time/"><u>[New] Adjusting Visuals in Teams Conversations at Any Time</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-11-auditory-capture-devices-reviewed-here/"><u>[New] Top 11 Auditory Capture Devices Reviewed Here</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-transforming-viewership-engaging-end-screens-tutorials/"><u>[New] Transforming Viewership Engaging End Screens Tutorials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-operating-system-odyssey-tracing-the-path-of-ios-from-its-inception-version-10-to-version-18/"><u>Apple's Operating System Odyssey: Tracing the Path of iOS From Its Inception (Version 1.0) to Version 18.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/home-theater-vs-stereo-receiver-understanding-the-core-contrasts-for-optimal-audio-experience/"><u>Home Theater Vs. Stereo Receiver: Understanding the Core Contrasts for Optimal Audio Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-ignoring-unwanted-messages-on-your-apple-phone/"><u>Master the Art of Ignoring Unwanted Messages on Your Apple Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-normalizdll-is-missing-windows-error-a-step-by-step-guide/"><u>Resolving the 'Normaliz.dll Is Missing' Windows Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-vcompdll-errors-effective-solutions-for-windows-users/"><u>Troubleshooting 'vcomp.dll' Errors: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-the-potential-of-gopro-for-time-lapse-artistry-for-2024/"><u>Unlocking the Potential of GoPro for Time Lapse Artistry for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/viking-speech-deciphering-ancient-nordic-dialogue/"><u>Viking Speech: Deciphering Ancient Nordic Dialogue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visionary-video-techniques-mastering-version-22-of-enhancer/"><u>Visionary Video Techniques - Mastering Version 2.2 of Enhancer</u></a></li>
+</ul></div>
 

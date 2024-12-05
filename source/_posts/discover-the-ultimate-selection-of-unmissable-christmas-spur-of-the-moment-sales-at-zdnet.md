@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Unmissable Christmas Spur-of-the-Moment Sales at ZDNet
-date: 2024-11-24T18:18:25.390Z
-updated: 2024-11-25T17:43:55.684Z
+date: 2024-12-01T08:55:32.876Z
+updated: 2024-12-05T08:18:25.748Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,22 +123,22 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-captivating-startups-discovering-the-best-15-video-intros/"><u>[New] 2024 Approved Captivating Startups Discovering the Best 15 Video Intros</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-leading-list-of-budget-video-call-apps-with-live-sharing/"><u>[New] 2024 Approved Leading List of Budget Video Call Apps with Live Sharing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-guide-for-macbook-webcam-capture/"><u>[New] Essential Guide for MacBook Webcam Capture</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-quick-fixes-screen-recording-snapchat-hacks-for-2024/"><u>[New] Quick Fixes Screen Recording Snapchat Hacks for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-maximizing-youtube-revenue-understanding-adsense-payments-per-thousand-views/"><u>[Updated] In 2024, Maximizing Youtube Revenue Understanding AdSense Payments per Thousand Views</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/adding-creative-typefaces-to-iphone-messages-detailed-tutorial/"><u>Adding Creative Typefaces to iPhone Messages: Detailed Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/airpods-and-nintendo-switch-can-they-sync-for-gaming-audio/"><u>AirPods & Nintendo Switch: Can They Sync for Gaming Audio?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-how-to-read-view-and-manage-pages-documents-using-pc-software-tools/"><u>Complete Tutorial: How to Read, View, and Manage .pages Documents Using PC Software Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/determining-the-ideal-speed-for-your-computer-a-comprehensive-guide/"><u>Determining the Ideal Speed for Your Computer: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722880273215-discover-our-handpicked-tv-gems-available-on-max-today/"><u>Discover Our Handpicked TV Gems Available On Max Today!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-history-of-netflixs-dvd-service-platform/"><u>Exploring the History of Netflix's DVD Service Platform</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-gamers-with-funimate-knowledge/"><u>In 2024, Transforming Gamers with Funimate Knowledge</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-world-of-portable-gaming-steam-link-and-mobile/"><u>Navigate the World of Portable Gaming - Steam Link & Mobile</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-transactions-at-a-glance-the-ultimate-how-to-for-apple-pay-integration-on-apple-wearables/"><u>Seamless Transactions at a Glance: The Ultimate How-To for Apple Pay Integration on Apple Wearables</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-spelling-challenge-overcoming-hard-words-to-spell-and-pronounce/"><u>The Spelling Challenge: Overcoming Hard Words to Spell and Pronounce</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-free-messaging-apps-for-ios-iphone-and-ipad-sms-solutions/"><u>Top Free Messaging Apps for iOS: IPhone and iPad SMS Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-masterful-multiplatform-apps-for-dynamic-media-collage/"><u>[New] 2024 Approved Masterful Multiplatform Apps for Dynamic Media Collage</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-effective-ways-to-gain-access-to-cost-free-imagery-for-2024/"><u>[Updated] Effective Ways to Gain Access to Cost-Free Imagery for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-iphone-x-animoji-blueprint-for-mastery/"><u>2024 Approved The Ultimate iPhone X Animoji Blueprint for Mastery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-engaging-with-nvidias-rtx-ai-chat-assistant-on-desktop-systems/"><u>A Comprehensive Guide to Engaging with NVIDIA's RTX AI Chat Assistant on Desktop Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-way-to-experience-middle-earth-sequencing-the-lord-of-the-rings/"><u>Best Way to Experience Middle Earth - Sequencing 'The Lord of the Rings'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tips-to-correct-the-lost-or-absent-mfplatdll-file/"><u>Comprehensive Tips to Correct the Lost or Absent mfpLat.dll File</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-world-of-usb-20-transmission-rates-cable-types-and-connectors-unveiled/"><u>Deciphering the World of USB 2.0: Transmission Rates, Cable Types, and Connectors Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-the-world-of-samsungs-tv-apps-a-comprehensive-overview/"><u>Discovering the World of Samsung's TV Apps - A Comprehensive Overview</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-htc-u23-device-sim-by-drfone-android/"><u>Easily Unlock Your HTC U23 Device SIM</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oneplus-12-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass OnePlus 12 FRP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-your-wifi-plan-how-to-accurately-measure-data-use/"><u>Maximizing Your WiFi Plan: How to Accurately Measure Data Use</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971205516-parachuting-operations/"><u>Parachuting Operations.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-6s-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 6s Prevention & Solution</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/solving-scan-errors-identifying-common-reasons-behind-windows-scanner-malfunctions/"><u>Solving Scan Errors: Identifying Common Reasons Behind Windows Scanner Malfunctions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-wlanapidll-error-a-comprehensive-guide/"><u>Solving wlanapi.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-msvcrt10dll-file-not-found-errors-in-windows/"><u>Troubleshooting MSVCRT10.DLL File Not Found Errors in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zoom-and-tv-integration-tutorial-for-seamless-video-conferencing-at-home/"><u>Zoom and TV Integration Tutorial for Seamless Video Conferencing at Home</u></a></li>
 </ul></div>
 

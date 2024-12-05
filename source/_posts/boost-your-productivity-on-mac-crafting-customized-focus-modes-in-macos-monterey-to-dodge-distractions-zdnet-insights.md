@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions | ZDNET Insights"
-date: 2024-11-10T06:58:06.597Z
-updated: 2024-11-16T03:20:15.539Z
+date: 2024-11-29T19:36:28.470Z
+updated: 2024-12-05T11:27:32.135Z
 tags:
   - apple
 categories:
@@ -26,31 +26,19 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -67,6 +55,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -85,10 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -106,10 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -154,21 +140,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-list-top-10-costless-screensharing-apps-for-professionals/"><u>[New] 2024 Approved Essential List Top 10 Costless Screensharing Apps for Professionals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-simplified-techniques-to-embed-youtube-content-in-powerpoint/"><u>[New] 4 Simplified Techniques to Embed YouTube Content in PowerPoint</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-superior-animation-pack-for-text/"><u>[New] In 2024, Superior Animation Pack for Text</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-achieve-peak-collaboration-a-complete-guide-to-slack-and-filmora-integration/"><u>[Updated] In 2024, Achieve Peak Collaboration A Complete Guide to Slack & Filmora Integration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ogg-aac-movavi/"><u>網路直接 OGG到 AAC無限制傳輸 - 使用 Movavi轉換工具</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-leading-13-gopro-video-editors-ultimativa-redigeringslaerrer-og-skjonner-pa-gopro/"><u>Discover the Leading 13 GoPro Video Editors – Ultimativa Redigeringslærrer Og Skjønner På GoPro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/edit-your-mac-images-breezily-using-movavis-advanced-mac-photo-editor-features/"><u>Edit Your Mac Images Breezily Using Movavi's Advanced Mac Photo Editor Features</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-professional-radial-effects-step-by-step-guide-for-photoshop-experts/"><u>In 2024, Professional Radial Effects Step-by-Step Guide for Photoshop Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-worth-switching-to-ios-17-a-comprehensive-guide/"><u>Is It Worth Switching to iOS 17: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-big-ai-moment-predicting-the-release-of-gpt-5/"><u>Next Big AI Moment: Predicting the Release of GPT-5?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-changing-your-computer-screens-wallpaper-easily/"><u>Step-by-Step Guide: Changing Your Computer Screen's Wallpaper Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-15-avances-en-herramientas-de-correccion-de-video-para-2024-opciones-gratuitas-y-con-suscripcion/"><u>Top 15 Avances en Herramientas De Corrección De Video Para 2024: Opciones Gratuitas Y Con Suscripción</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-15-screnshooter-free-lultimo-settembre-2024-una-guida-completa-da-movavi/"><u>Top 15 Screnshooter Free - L'Ultimo Settembre 2024: Una Guida Completa Da Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforma-archivos-de-video-a-avi-en-linea-gratuita-una-guia-sencilla-para-convertir-y-compartir-formatos-multimedia-con-eficiencia-mediante-movavi/"><u>Transforma Archivos De Vídeo a AVI en Línea Gratuita: Una Guía Sencilla Para Convertir Y Compartir Formatos Multimedia Con Eficiencia Mediante Movavi</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-creating-personalized-dvds-with-movie-making-software-for-2024/"><u>Updated The Ultimate Guide to Creating Personalized DVDs with Movie Making Software for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/google-photos-movavi/"><u>무세액의 Google Photos 아카이브에서 오띰민 비디오를 원자시 윙어 - Movavi 도구 사용</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimizing-playback-speed-with-professional-tactics/"><u>[New] Optimizing Playback Speed with Professional Tactics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-splitcam-vs-competitors-top-tier-video-recording-for-2024/"><u>[New] SplitCam Vs. Competitors Top-Tier Video Recording for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-discovering-expert-seed-selection-for-valheimers/"><u>2024 Approved Discovering Expert Seed Selection for Valheimers</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-from-standard-to-special-a-guide-to-the-best-custom-box-stores-on-the-internet/"><u>2024 Approved From Standard to Special A Guide to the Best Custom Box Stores on the Internet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/50-funny-apple-device-shenanigans-top-iphone-and-ipad-jokes-to-play/"><u>50 Funny Apple Device Shenanigans: Top iPhone and iPad Jokes to Play</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-firestick-and-projector-setup-a-comprehensive-guide-for-seamless-viewing/"><u>Amazon Firestick & Projector Setup: A Comprehensive Guide for Seamless Viewing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nubia-red-magic-9-proplus-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nubia Red Magic 9 Pro+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fire-stick-remote-not-working-here-are-the-quick-fixes-you-need/"><u>Fire Stick Remote Not Working? Here Are the Quick Fixes You Need!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-your-unmatched-bumble-account-expert-advice-for-success/"><u>Fixing Your Unmatched Bumble Account: Expert Advice for Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-key-features-that-set-the-ipad-apart-from-regular-tablets/"><u>Identifying Key Features That Set the iPad Apart From Regular Tablets</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-huawei-nova-y91mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Huawei Nova Y91Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-m4-mac-mini-projected-costs-release-timeline-and-latest-technical-specifications/"><u>Inside the M4 Mac Mini: Projected Costs, Release Timeline, and Latest Technical Specifications</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mettiti-al-passo-con-la-tecnologia-convertire-i-file-flv-in-swf-utilizzando-lutilita-di-conversione-gratuitamente-on-line-di-movavi/"><u>Mettiti Al Passo Con La Tecnologia: Convertire I File FLV in SWF Utilizzando L'utilità Di Conversione Gratuitamente On-Line Di Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-troubleshooting-non-functional-nvidia-shadowplaygeforce-experience-overlays/"><u>Solution Steps: Troubleshooting Non-Functional Nvidia ShadowPlay/GeForce Experience Overlays</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-process-for-discarding-software-from-your-mac-device/"><u>The Complete Process for Discarding Software From Your Mac Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-exercise-logging-apps/"><u>The Ultimate Guide to Exercise Logging Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-resolving-issues-with-the-apple-watch-touch-interface-not-working/"><u>Understanding & Resolving Issues with the Apple Watch Touch Interface Not Working</u></a></li>
 </ul></div>
 

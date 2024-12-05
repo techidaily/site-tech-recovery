@@ -1,7 +1,7 @@
 ---
 title: Siri Takes Over From Bing in Apple's Ecosystem – Discover How This Shift Will Revolutionize AI Integration
-date: 2024-11-11T18:59:31.206Z
-updated: 2024-11-15T17:31:40.574Z
+date: 2024-12-03T02:56:37.428Z
+updated: 2024-12-05T08:37:53.432Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hey Siri, let's talk about Microsoft
 
 Yet now, and urgently, Apple is thrusting itself further into AI. Cupertino [already claims](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) its on-device AI is better than GPT-4\. The name of its on-device system? ReALM (Reference Resolution As Language Modeling), apparently.
@@ -73,10 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -125,17 +126,24 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-crafting-memorable-content-with-personalized-gifs-for-2024/"><u>[New] Crafting Memorable Content with Personalized GIFS for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-boosting-zoom-clarity-the-guide-to-using-filters-wisely-for-2024/"><u>[Updated] Boosting Zoom Clarity The Guide to Using Filters Wisely for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-convenient-ways-to-merge-igtv-and-insta-stories/"><u>[Updated] In 2024, Convenient Ways to Merge IGTV & Insta Stories</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigating-youtubes-community-standards-as-a-viewer-or-creator/"><u>[Updated] Navigating YouTube's Community Standards as a Viewer or Creator</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-8-premier-online-photo-frame-creators-revealed/"><u>2024 Approved 8 Premier Online Photo Frame Creators Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprendere-il-file-divx-guida-alla-lettura-e-alla-reproduzione/"><u>Comprendere Il File DivX: Guida Alla Lettura E Alla Reproduzione</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convertir-archivo-flv-a-formato-m4a-de-forma-gratuita-online-con-conversor-video/"><u>Convertir Archivo FLV a Formato M4A De Forma Gratuita Online Con Conversor Video</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-audio-converter-change-aac-files-into-aiff-format-with-movavi/"><u>Free Online Audio Converter: Change AAC Files Into AIFF Format with Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-umwandeln-von-aiff-dateien-in-wav-format-fur-den-pc-und-mac-kostenlos-bei-movavi/"><u>Online Umwandeln Von AIFF Dateien in WAV Format Für Den PC Und Mac Kostenlos Bei Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-eliminating-sound-from-an-mkv-video/"><u>Step-by-Step Guide: Eliminating Sound From an MKV Video</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-powerhouse-on-two-wheels-comprehensive-radpower-radcity-5plus-evaluation/"><u>The Powerhouse on Two Wheels: Comprehensive RadPower RadCity ^5+ Evaluation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-exclusive-content-on-twitter-no-twitting/"><u>[New] In 2024, Exclusive Content on Twitter - No Twitting</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-9-accelerators-skyrocketing-your-tiktok-community/"><u>[New] Top 9 Accelerators Skyrocketing Your TikTok Community</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-secrets-to-joining-friends-tiktok-live-events/"><u>[Updated] 2024 Approved Secrets to Joining Friends' TikTok Live Events</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-filming-experience-the-10-devices-that-make-every-shot-perfect/"><u>[Updated] Seamless Filming Experience The 10 Devices That Make Every Shot Perfect</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-10-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 10 5G</u></a></li>
+<li><a href="https://solve-info.techidaily.com/create-windows-11-restore-point-with-two-effective-methods/"><u>Create Windows 11 Restore Point with Two Effective Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-8-how-to-unlock-a-disabled-iphone-8-drfone-by-drfone-ios/"><u>Disabled iPhone 8 How to Unlock a Disabled iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-empty-your-cache-on-leading-internet-browsers/"><u>How to Effectively Empty Your Cache on Leading Internet Browsers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-game-crash-issues-black-screen-solutions-for-resident-evil-village/"><u>How to Overcome Game-Crash Issues: Black Screen Solutions for Resident Evil Village</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-the-steam-renewal-tide-for-good/"><u>Quiet the Steam Renewal Tide for Good</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-your-android-devices-measure-application/"><u>Step-by-Step Guide: Mastering Your Android Device's Measure Application</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-to-fix-wlanapidll-not-detected-issues/"><u>Step-by-Step Solutions to Fix 'WLANAPI.DLL' Not Detected Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-adding-pinterest-widgets-to-your-facebook-page/"><u>Step-by-Step Tutorial on Adding Pinterest Widgets to Your Facebook Page</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-16-best-free-sources-for-learning-american-sign-language/"><u>The Ultimate Guide: 16 Best Free Sources for Learning American Sign Language</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-a-frozen-chromebook-top-8-solutions/"><u>Troubleshooting a Frozen Chromebook: Top 8 Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-master-these-30-handy-gmail-keyboard-shortcuts/"><u>Ultimate Guide: Master These 30 Handy Gmail Keyboard Shortcuts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-lg-channels-comprehensive-guide-and-key-details-uncovered/"><u>Understanding LG Channels: Comprehensive Guide and Key Details Uncovered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-distinct-features-of-mac-vs-pc-the-ultimate-comparison/"><u>Unveiling the Distinct Features of Mac Vs. PC: The Ultimate Comparison</u></a></li>
 </ul></div>
 
