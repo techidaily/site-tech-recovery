@@ -1,7 +1,7 @@
 ---
 title: "Discovering Thunderbird: Rediscovering My Top Choice for Linux Email Clients"
-date: 2024-08-30T16:13:28.458Z
-updated: 2024-08-31T16:13:28.458Z
+date: 2024-12-07T18:28:12.310Z
+updated: 2024-12-10T23:53:43.928Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 ---
 
 ## Discovering Thunderbird: Rediscovering My Top Choice for Linux Email Clients
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 ![GNOME desktop with Thunderbird email client open alongside other apps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/gnome-desktop-with-thunderbird-email-client-open-alongside-other-apps.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Thunderbird was born in the early aughts, an era when most desktop apps displayed options in a menubar with a toolbar containing icons underneath. When I first came across Thunderbird, it felt right at home alongside the other programs I was using.
 
  When I switched to Linux, Thunderbird still felt at home on desktops running the GNOME 2 interface. Then GNOME 3 came with a whole new look, and over time, Thunderbird increasingly felt out of place.
@@ -42,12 +43,13 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
  Then, [Thunderbird got a major redesign](https://video-screen-grab.techidaily.com/in-2024-precision-recording-advanced-screenrec-for-laptops/) in 2022 followed by [another overhaul in 2023](https://driver-install.techidaily.com/upgrade-audio-controller-install-new-realtek-wi-fi-driver-for-windows-11/). I wasn't searching for a desktop client at the time, but I am now, and boy have things changed. Thunderbird's new look is much clearer, with a single header bar across the top containing only a search field and a close button. It feels more like a GNOME app than Firefox does.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ##  Thunderbird Supports End-to-End Encryption
 
 ![End-to-end encryption settings in Thunderbird on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/end-to-end-encryption-settings-in-thunderbird-on-linux.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are multiple ways to send an encrypted email. One approach is complicated and involves [using Thunderbird in conjunction with OpenPGP](https://fox-access.techidaily.com/new-prime-sites-to-propel-youtube-content-reach/). I don't do this.
 
@@ -55,21 +57,18 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 ![Proton Mail outgoing email settings in Thunderbird on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/proton-mail-outgoing-email-settings-in-thunderbird-on-linux.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Since switching back to Thunderbird, Proton Mail has worked (and worked consistently). I would forget Proton Mail Bridge were running at all if I didn't have to remember to start it up whenever I boot up my computer. To save yourself from having to do this manually, you can install GNOME Tweaks and set Proton Mail Bridge to launch as a startup application.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ##  Thunderbird Is Fast and Reliable
 
  I value energy-efficient CPUs that sip electricity. I'm writing this on a [Star Labs StarLite](https://us.starlabs.systems/pages/starlite#) MK IV with an Intel Pentium N5030 processor, which has a [TDP](https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/) of 6 watts. Why do I bring this up? Just to point out that this is not a powerful machine by any stretch, so I don't have much patience for heavy apps. That said, even on this CPU, most apps are pretty snappy, aside for the second or two they take to launch. But if an app is buggy or not well-optimized, I feel it.
 
  An email client is the type of program where such pain is often felt. It's no small thing for a computer to download thousands of email messages, search through them as you type, and open them at a moment's notice. Yet Thunderbird handles this exceptionally well. It's fast enough to again remind me how slow webmail feels by comparison, even on a relatively low-powered machine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Thunderbird Is Highly Configurable
 
 ![Customizing toolbars in Thunderbird on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customizing-toolbars-in-thunderbird-on-linux.png) 
@@ -82,19 +81,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Thunderbird email client with GNOME theme installed on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/thunderbird-email-client-with-gnome-theme-installed-on-linux.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  I thought Thunderbird looked passable enough after its redesign, but with the GNOME theme installed, I'm even more in love.
 
  If you like the Thunderbird GNOME theme, check out the [Firefox GNOME theme](https://github.com/rafaelmardojai/firefox-gnome-theme) while you're at it. Both come from the same developer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Thunderbird Supports Extensions
 
 ![Extensions available in the Thunderbird email client on Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/extensions-available-in-the-thunderbird-email-client-on-linux.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Like Firefox, you can install add-ons in Thunderbird. Why would you do this? In my case, the most tempting extension is [one that adds a Proton Calendar window](https://addons.thunderbird.net/en-US/thunderbird/addon/proton-calendar-toolbar-button/) inside of Thunderbird. This gets around the fact that Thunderbird's built-in Calendar is unable to sync with Proton Calendar.
 
@@ -112,8 +113,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +120,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-deciphering-instagram-highlights-the-stories-guide/"><u>[New] 2024 Approved Deciphering Instagram Highlights The Stories Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-moving-data-quick-techniques-to-send-files-to-your-computer/"><u>[New] Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-hustle-free-download-free-gif-conversion-tools-ranked/"><u>[Updated] Hustle-Free, Download-Free GIF Conversion Tools Ranked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-navigating-facebooks-photo-search-functionality/"><u>A Comprehensive Guide to Navigating Facebook's Photo Search Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-deeper-5-ways-paying-for-mobile-games-improves-experience/"><u>Dive Deeper: 5 Ways Paying for Mobile Games Improves Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-how-to-handle-microsoft-visual-c-runtime-dll-problems-msvcr100/"><u>Expert Tips on How to Handle Microsoft Visual C Runtime DLL Problems (MSVCR100)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-import-and-use-unique-fonts-on-your-iphone-smartphone/"><u>Expert Tips: Import and Use Unique Fonts on Your iPhone Smartphone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-x50-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from X50</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-safely-close-down-and-delete-your-tiktok-account/"><u>How To Safely Close Down and Delete Your TikTok Account</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-videoleap-for-macbook-download-guide-and-best-alternatives/"><u>In 2024, Videoleap for MacBook Download Guide and Best Alternatives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-tips-and-insights-from-toms-tech-hub/"><u>Mastering Hardware: Tips and Insights From Tom’s Tech Hub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-efficiency-a-beginners-guide-to-using-the-split-screen-function-on-macbook-air/"><u>Maximizing Efficiency: A Beginner's Guide to Using the Split-Screen Function on MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turn-on-or-off-the-visibility-of-your-computer-in-a-network-with-windows-11/"><u>Turn On or Off the Visibility of Your Computer in a Network with Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watching-star-wars-saga-chronologically-on-disneyplus-a-step-by-step-guide/"><u>Watching 'Star Wars' Saga Chronologically on Disney+: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

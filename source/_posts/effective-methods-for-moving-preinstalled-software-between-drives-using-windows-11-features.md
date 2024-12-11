@@ -1,7 +1,7 @@
 ---
 title: Effective Methods for Moving Preinstalled Software Between Drives Using Windows 11 Features
-date: 2024-08-30T16:13:29.765Z
-updated: 2024-08-31T16:13:29.765Z
+date: 2024-12-09T07:44:04.823Z
+updated: 2024-12-11T13:26:07.253Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Relocate Games Installed Through Gaming Clients](https://facebook-video-recording.techidaily.com/new-2024-approved-shine-a-light-the-12-ultimate-fixes-for-making-facebook-videos-visible-again/)
 * [Things Not to Do When Relocating Apps](https://extra-information.techidaily.com/updated-anonymous-live-on-instagram-the-sneaky-techniques/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Before relocating programs, take a few precautions: create a System Restore point, back up your app files, and free up storage space on the destination drive.
@@ -27,9 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Running out of storage space on a drive and considering moving some games or apps to another location? Or have you accidentally installed a game on the wrong drive and want to move it? Fortunately, relocating apps and programs between drives is super easy. We'll show you how to do just that.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Things to Do Before Relocating Programs or Games
 
  Before moving apps and programs between drives, take a few precautions to avoid file corruption, data loss, or other issues.
@@ -48,13 +49,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the installed apps settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-opening-the-installed-apps-settings-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Find the app or program you intend to move, click on the three horizontal dots next to it, and click the "Move" option.
 
 ![Clicking on the 'Move' option to relocate an app in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-clicking-on-the-move-option-to-relocate-an-app-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Windows will display the program's current installation location and the drives that you can transfer the program to. Select your preferred drive, and then click on "Move."
 
 ![Selecting the destination drive to relocate an app to in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-selecting-the-destination-drive-to-relocate-an-app-to-in-the-windows-settings-app.jpg) 
@@ -63,15 +65,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  While this is the most direct way to relocate apps, it may not be universally applicable. You may not see this option for some apps, or it might be grayed out. So how do you move those apps?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use the Command Prompt to Relocate Apps You Can’t Move From Settings
 
  You can relocate any app or program using the Command Prompt. First, locate the installation directory of the program you wish to relocate. If uncertain about the location, use Windows Search to find the app. Type the app name in Windows Search, right-click on the app, and select "Open File Location." This will direct you to the Start Menu folder.
 
 ![Opening the installation location of the Mozilla Firefox app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-opening-the-installation-location-of-the-mozilla-firefox-app-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Right-click the app icon again and select "Open File Location." This will lead you to the program's actual installation location.
 
 ![Opening the file location of the Mozilla Firefox App in the Start Menu Folder on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-opening-the-file-location-of-the-mozilla-firefox-app-in-the-start-menu-folder-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Copy and paste the program's installation folder path into a Notepad file. We'll use the term "old" to refer to this path.
 
@@ -79,16 +93,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Old' and 'New' paths written in a Notepad file on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-old-and-new-paths-written-in-a-notepad-file-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Having noted both your "old" and "new" paths, [open the Command Prompt with administrative privileges](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Type "Command Prompt" into Windows Search, and click "Run as Administrator." You can also use PowerShell run admin for this. 
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You need to input your "old" and "new" paths into the following command:
 
         `robocopy "old" "new" /sec /move /e`
@@ -109,16 +117,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Running the MKLINK command in the Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-running-the-mklink-command-in-the-windows-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  The above process doesn't automatically remove the app from its old location. So, after successfully relocating the app to a new location and creating a junction between the old and new directories, manually delete the app to free up storage space.
 
  If you encounter an error message stating, "Cannot Create a File When That File Already Exists," when running the mklink command, delete the app from the old location.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Relocate Games Installed Through Gaming Clients
 
  Most popular gaming clients have a built-in feature to transfer installed games between drives directly. If you want to relocate a game installed through a gaming client, there's no need to use any of the previously mentioned methods. Instead, use the built-in app relocation feature in the gaming client, which is highly secure and works much faster.
@@ -128,8 +130,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Not every gaming client, like the Epic Games Launcher, provides a built-in feature for relocating games between different drives. You may have to move them manually.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Things Not to Do When Relocating Apps
 
  You should strictly avoid taking a few actions when relocating apps from one drive to another. First, refrain from updating your Windows device. Secondly, don't install another program while the relocation process is ongoing. Besides that, don't run the app that is being relocated, avoid making alterations to the drives involved in the relocation, and don't modify the settings of those drives.
@@ -146,8 +149,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +156,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-communication-conquests-powerful-expressions-for-success/"><u>[New] 2024 Approved Communication Conquests Powerful Expressions for Success</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-essential-guide-to-populating-powerpoint-decks-with-youtube-videos/"><u>[New] 2024 Approved The Essential Guide to Populating PowerPoint Decks With YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/easy-steps-to-convert-srt-files-into-multiple-audio-standards-for-2024/"><u>Easy Steps to Convert SRT Files Into Multiple Audio Standards for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-instagram-hashtags-to-increase-engagement-and-reach/"><u>Essential Instagram Hashtags to Increase Engagement and Reach</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-ps5-solely-owned-gaming-experiences/"><u>Explore the PS5 Solely Owned Gaming Experiences</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-completely-empty-your-gmail-account-via-android-or-ios-device/"><u>How to Completely Empty Your Gmail Account via Android or iOS Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-vocal-alteration-top-choices-above-all/"><u>In 2024, Excellence in Vocal Alteration Top Choices Above All</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-conversations-a-guide-to-using-mozilla-thunderbirds-messaging-feature/"><u>Mastering Conversations: A Guide to Using Mozilla Thunderbird's Messaging Feature</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/um-startings-top-16-youtube-videos-that-thrive-in-popularity-for-2024/"><u>Premium Startings Top 16 YouTube Videos That Thrive in Popularity for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/repair-manual-restoring-a-detached-key-on-your-laptop/"><u>Repair Manual: Restoring a Detached Key on Your Laptop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-integrating-automated-bots-into-your-discord-community/"><u>Step-by-Step Guide: Integrating Automated Bots Into Your Discord Community</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-process-for-downloading-apps-on-samsungs-smart-television-platform/"><u>The Complete Process for Downloading Apps on Samsung's Smart Television Platform</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316691-9781401952921-the-sacred-science/"><u>The Sacred Science | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transition-from-ps4-to-ps5-how-to-enjoy-your-older-games-on-the-new-platform/"><u>Transition From PS4 to PS5: How to Enjoy Your Older Games on the New Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-error-code-0xc0000185-a-comprehensive-guide-on-causes-and-solutions/"><u>Understanding Error Code 0xC0000185: A Comprehensive Guide on Causes & Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-rated-free-online-video-editing-platforms/"><u>Updated Top-Rated Free Online Video Editing Platforms</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discovering Mac OS X Keychain Passwords: A Step-by-Step Guide"
-date: 2024-12-03T18:32:52.037Z
-updated: 2024-12-04T16:23:55.636Z
+date: 2024-12-06T09:07:05.188Z
+updated: 2024-12-10T16:08:29.341Z
 tags:
   - apple
 categories:
@@ -19,16 +19,12 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
 
@@ -39,7 +35,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -51,6 +47,10 @@ To open the Keychain Access tool, click on the Launchpad located in the Dock. Fr
 The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
 
@@ -67,7 +67,7 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -79,7 +79,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -113,21 +113,24 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-choosing-the-right-horizon-smart-strategies-for-buying-an-impressive-4k-display-for-2024/"><u>[New] Choosing the Right Horizon Smart Strategies for Buying an Impressive 4K Display for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-making-audio-files-out-of-instagram-videos/"><u>[New] In 2024, Making Audio Files Out of Instagram Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-premium-fb-videograbber-suite-high-quality-downloads-fast-and-secure/"><u>[New] In 2024, Premium FB Videograbber Suite High-Quality Downloads, Fast & Secure</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-oneplus-open-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on OnePlus Open</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-my-5-pick-most-effective-sleep-tools-for-apple-watch-users/"><u>Discover My 5 Pick: Most Effective Sleep Tools for Apple Watch Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-asus-rog-phone-8-pro-frp-by-drfone-android/"><u>How Can We Bypass Asus ROG Phone 8 Pro FRP?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-erase-your-presence-on-tiktok-a-step-by-step-process/"><u>How To Erase Your Presence on TikTok – A Step-by-Step Process</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-recover-mfc42dll-and-end-those-frustrating-errors/"><u>How To Successfully Recover mfc42.dll and End Those Frustrating Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-v29e-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo V29e to Another | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/hunt-for-group-policy-a-win-users-manual/"><u>Hunt for Group Policy: A Win User's Manual</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ideal-ios-companions-best-ps2-game-simulators/"><u>Ideal iOS Companions Best PS2 Game Simulators</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lg-tv-owners-learn-how-to-enjoy-espnplus-content-with-ease/"><u>LG TV Owners, Learn How to Enjoy ESPN+ Content with Ease</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prismatic-vistahub-top-tier-unified-4k-screen-systems-for-2024/"><u>Prismatic VistaHub Top-Tier, Unified 4K Screen Systems for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/siri-speaks-a-step-by-step-guide-to-converting-text-into-audio-on-apple-products/"><u>Siri Speaks: A Step-by-Step Guide to Converting Text Into Audio on Apple Products</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/struggling-with-iphone-camera-focusing-heres-how-you-can-resolve-it/"><u>Struggling with iPhone Camera Focusing? Here's How You Can Resolve It</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/turning-your-on-screen-keyboard-onoff-on-windows-10-a-simple-guide/"><u>Turning Your On-Screen Keyboard On/Off on Windows 10: A Simple Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-fearless-filming-mastering-your-first-10-clips/"><u>[New] 2024 Approved Fearless Filming Mastering Your First 10 Clips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-transformative-grading-3-simplified-photoshop-routines/"><u>[New] 2024 Approved Transformative Grading 3 Simplified Photoshop Routines</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-earn-big-on-ig-ranking-the-most-effective-posts/"><u>[New] In 2024, Earn Big on IG Ranking the Most Effective Posts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-activating-legacy-application-support-on-your-windows-11-pc/"><u>Guide to Activating Legacy Application Support on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-boot-into-safe-mode-on-windows-11-explore-four-effective-strategies-and-images/"><u>Guide to Boot Into Safe Mode on Windows 11: Explore Four Effective Strategies and Images</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-sharing-your-game-library-with-friends-on-steam/"><u>Guide: Sharing Your Game Library with Friends on Steam</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-a-gpu-enhance-your-computers-performance/"><u>How Does a GPU Enhance Your Computer's Performance?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enable-and-utilize-a-keyboardmouse-on-your-playstation-4-console/"><u>How To Enable And Utilize A Keyboard/Mouse On Your PlayStation 4 Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-opt-out-of-using-cortana-in-your-windows-11-operating-system/"><u>How To Opt-Out of Using Cortana in Your Windows 11 Operating System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-overcome-disk-needs-formatting-messages-on-computers/"><u>How to Overcome 'Disk Needs Formatting' Messages on Computers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-xs-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone XS Max</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-unsuccessful-skype-phone-calls-for-windows-107-users-step-by-step-guide/"><u>How to Resolve Unsuccessful Skype Phone Calls for Windows 10/7 Users: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-integrate-adb-drivers-into-your-windows-system/"><u>How to Seamlessly Integrate Adb Drivers Into Your Windows System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-depth-guide-to-installing-microsofts-movie-maker/"><u>In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211309654--money-loves-me/"><u>Money Loves Me | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcome-boundaries-with-ease-accessing-chatgpt-from-any-corner-of-the-world-using-everywhere-app/"><u>Overcome Boundaries with Ease: Accessing ChatGPT From Any Corner of the World Using Everywhere App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unmasking-the-scope-of-non-google-augmented-reality-accessories/"><u>Unmasking the Scope of Non-Google Augmented Reality Accessories</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/yl-softwares-guide-to-avoiding-cpu-failures-and-ensuring-longevity/"><u>YL Software's Guide to Avoiding CPU Failures and Ensuring Longevity</u></a></li>
 </ul></div>
 

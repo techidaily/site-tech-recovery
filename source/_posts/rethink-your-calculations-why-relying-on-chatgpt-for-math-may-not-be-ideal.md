@@ -1,7 +1,7 @@
 ---
 title: "Rethink Your Calculations: Why Relying on ChatGPT for Math May Not Be Ideal"
-date: 2024-08-30T16:17:09.258Z
-updated: 2024-08-31T16:17:09.258Z
+date: 2024-12-05T08:12:31.721Z
+updated: 2024-12-11T00:10:17.854Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 
 ## Rethink Your Calculations: Why Relying on ChatGPT for Math May Not Be Ideal
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Chatbots Aren't Calculators](https://youtube-tips.techidaily.com/nlock-your-youtube-potential-idea-generation-guide/)
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 * [ChatGPT Can't Reliably Do Arithmetic, Either](https://youtube-tips.techidaily.com/024-approved-from-zero-to-hero-youtube-setup-growth-and-profit-strategies/)
 
  It's critical to fact-check everything that comes from [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/), [Bing Chat](https://facebook-video-recording.techidaily.com/new-in-2024-the-insiders-look-at-securing-fb-status-videos/), [Google Bard](https://youtube-video-recordings.techidaily.com/in-2024-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/), or any [other chatbot](https://screen-mirroring-recording.techidaily.com/in-2024-3-must-know-methods-to-record-on-your-ipad/). Believe it or not, that's especially true for math. Don't assume ChatGPT can do math. Modern AI chatbots are better at creative writing than they are at counting and arithmetic.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Chatbots Aren't Calculators
 
@@ -66,51 +74,40 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![ChatGPT's logically incorrect response to the problem.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You don't have to follow every twist and turn to realise that the final answer is incorrect.
 
 ![The final part of ChatGPT's incorrect response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-3.png) 
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ChatGPT will often dig in and argue with you about its responses, too. (Again, that's very human-like behavior.)
 
  In this case, ChatGPT argued that hey, it didn't get you the right answer---but it got you closer to your desired ratio than you were before! That's pretty funny.
 
 ![ChatGPT acknowledging the answer was wrong but arguing about it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For the record, Microsoft's Bing Chat based on GPT 4 struggled with this problem as well, giving us a clearly incorrect answer. GPT 4's logic quickly goes off the rails here, too.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We recommend not attempting to follow every twist and turn of logic---it's clear that the answer is incorrect.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When we pointed out Bing's answer was incorrect, it kept arguing with us in circles, offering wrong answer after wrong answer.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  ChatGPT Can't Reliably Do Arithmetic, Either
 
  It's worth noting that ChatGPT sometimes gets carried away and state basic arithmetic incorrectly, too. We've seen logical answers to problems with incorrect arithmetic similar to 1+1=3 smack-dab in the middle of the well-reasoned answer.
@@ -125,8 +122,6 @@ Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +129,18 @@ Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-gopro-and-time-lapse-synergy/"><u>[New] Navigating Through GoPro and Time-Lapse Synergy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-lens-legends-choice-the-finest-6-4k-dslr-cameras/"><u>[Updated] 2024 Approved Lens Legends Choice The Finest 6 4K DSLR Cameras</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-demystifying-virtual-meetings-essential-tips-for-using-zoom-win10-for-2024/"><u>[Updated] Demystifying Virtual Meetings Essential Tips for Using Zoom (Win10) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grit-vs-glory-hitbox-versus-twitch-titans/"><u>2024 Approved Grit vs Glory Hitbox Versus Twitch Titans</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-implementing-microsoft-365-onto-your-personal-computer/"><u>Easy Instructions for Implementing Microsoft 365 Onto Your Personal Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-python24dll-disappearance-expert-tips-and-tricks/"><u>How to Recover From 'Python24.dll' Disappearance: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-a-503-error-a-complete-guide-for-webmasters/"><u>How to Resolve a 503 Error: A Complete Guide for Webmasters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-ios-a-step-by-step-guide-to-sending-voice-notes-with-your-iphone/"><u>Mastering iOS: A Step-by-Step Guide to Sending Voice Notes with Your iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ios-18-update-perk-that-thrills-android-fans/"><u>Top iOS 18 Update Perk That Thrills Android Fans</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-photodna-a-tool-against-piracy/"><u>Understanding PhotoDNA: A Tool Against Piracy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-we-know-so-far-anticipated-release-date-cost-specs-of-samsung-galaxy-s25-ultra/"><u>What We Know So Far: Anticipated Release Date, Cost, Specs of Samsung Galaxy S25 Ultra</u></a></li>
+</ul></div>
 

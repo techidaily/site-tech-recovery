@@ -1,7 +1,7 @@
 ---
 title: "Testing the Bounds of Creativity: My Experience with Google's Latest AI-Powered Music Generation"
-date: 2024-08-30T16:16:25.948Z
-updated: 2024-08-31T16:16:25.948Z
+date: 2024-12-04T19:34:39.067Z
+updated: 2024-12-10T21:26:38.073Z
 tags:
   - cutting-edge
 categories:
@@ -28,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
  The emergence of generative AI has opened new doors for creatives. These tools can be used to create unique art, which has historically been a way for humans to express emotion. Arguably, the most interesting one is music, which follows certain rules, but how good is AI at making music if it doesn't even have a pair of ears to enjoy it?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Is MusicFX?
 
 [MusicFX](https://aitestkitchen.withgoogle.com/tools/music-fx) is one of Google's latest generative AI tools (or, should I say, toys) that allows you to create new music based on a simple prompt. MusicFX was built on top of [MusicLM](https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/), which was released in 2023\. It's actually part of Google's AI Test Kitchen, which also has [TextFX](https://aitestkitchen.withgoogle.com/tools/text-fx), [ImageFX](https://aitestkitchen.withgoogle.com/tools/image-fx), and [VideoFX](https://aitestkitchen.withgoogle.com/tools/video-fx). I'll let you infer what the other tools can generate. There's also a library for everything you've generated with all of these tools. Nice.
@@ -41,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
  The most unique feature of MusicFX is the AI DJ tool, which lets you mash up different genres, instruments, and styles. The end result is always more harmonious than you'd expect, even if your prompt soup consists of "flute," "weird, ominous noises," and "surf rock." You'll see some examples later.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Prompts Are Awesome for Making Music on the Fly
 
  In the basic prompts mode, all you have to do is enter a basic prompt in the text box. MusicFX takes a couple of minutes to process your prompt and creates two versions of the prompt. You can download and share either version.
@@ -54,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 ![A slider that appears in the drop-down menu under a MusicFX keyword.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2024-06-20_01h10_05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I know you're itching to hear an example, so let's give the floor to MusicFX with the prompt "Upbeat techno song with guitars in the background. It builds up toward the end."
 
  While the song we got here isn't necessarily techno, it's definitely upbeat, has guitars, and slowly builds up. This isn't to say that MusicFX can't do techno, though, quite the contrary. Techno music is often very repetitive, with subtle changes that evolve over time; MusicFX lends itself perfectly to creating those kinds of beats. I could ask MusicFX to make subtle changes or variations to the following track and listen to it for hours because it's that good.
@@ -63,9 +66,9 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
  I've noticed that MusicFX excels in all genres that don't rely on vocals, such as most types of electronic music, jazz, hip-hop (in terms of beats), Lo-Fi, ambient, classical, and so on. However, it also does a great job with any other genre you can throw at it. Here are two amazing versions of the prompt "Fast thrash metal song with a heavy guitar riff and a lead guitar solo over it. Double bass drumming and a prominent bass line:"
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  DJ Mode Creates Controlled Chaos
 
  DJ Mode is the newer and wilder feature in MusicFX, which lets you harmonize a mix of instruments, genres, and styles in real time using "chips." Instead of making tracks, you use DJ mode to create a continuous virtual DJ set. You can add and manage how much of a chip you want on the left, and the temperature slider on the right determines the diversity that the AI will output. It's much more messy than prompts mode, but it's also more engaging and fun.
@@ -79,8 +82,9 @@ Your browser does not support the video tag.
  In this example, I started off with a simple slap bass line and wanted to add an ominous drone, which initially replaced the bass line altogether and later clashed with it, so I decided to ditch it in favor of a droning guitar riff. I later added a steel drum, which worked rather well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  MusicFX Is Perfect for Jamming
 
  While the DJ mode is fun, I feel like you can get the most from MusicFX if you use it to experiment. I play guitar and bass, so maybe I should throw in some [ChatGPT guitar riffs](https://facebook-video-recording.techidaily.com/updated-wechat-photo-frame-specifications/) to see if they'll work with a drum beat from MusicFX. I feel like MusicFX is the perfect jam buddy when you want to have fun with friends but are a couple of instruments short of a full band. It'll lead the way, and you can throw in your tunes on top of the AI base.
@@ -89,9 +93,6 @@ Your browser does not support the video tag.
 
  Still, you don't have to be a professional musician to make music with MusicFX. The tool will do the heavy lifting for you; your job is simply to come up with unique combinations to create music.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Limitations of MusicFX
 
  The lack of lyrics and music inspired by real-world artists is MusicFX's most significant limitation. Other AI tools have already conquered this, so we can deduce that Google set that limitation to avoid controversies and copyright issues.
@@ -108,8 +109,6 @@ Your browser does not support the video tag.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +116,24 @@ Your browser does not support the video tag.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-reintroducing-classic-windows-photo-viewer-w10-edition/"><u>[Updated] Reintroducing Classic Windows Photo Viewer - W10 Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unified-streaming-techniques-for-youtube-and-top-networks/"><u>[Updated] Unified Streaming Techniques for YouTube & Top Networks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-secrets-of-the-pros-youtube-live-mastery-techniques/"><u>2024 Approved Secrets of the Pros YouTube Live Mastery Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-windows-component-services-interface-quickly/"><u>Accessing Windows' Component Services Interface Quickly</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-s24-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy S24? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-effective-registry-optimizers-of-2024-complimentary-access-available/"><u>Discover the Most Effective Registry Optimizers of 2024 - Complimentary Access Available</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-6-favorite-sites-for-free-kids-movies/"><u>Our 6 Favorite Sites for Free Kids' Movies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-a-broken-windows-10-search-functionality/"><u>Quick Fixes for a Broken Windows 10 Search Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-mystery-what-to-do-when-you-encounter-a-missing-msvcrt10dll-file/"><u>Resolving the Mystery: What to Do When You Encounter a Missing msvcrt10.dll File</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-troubleshooting-when-your-wii-console-cant-read-discs/"><u>Solving Common Issues: Troubleshooting When Your Wii Console Can't Read Discs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-walkthrough-to-implementing-copilot-into-microsoft-teams-operations/"><u>Step-by-Step Walkthrough to Implementing Copilot Into Microsoft Teams Operations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tech-list-for-learners-9-key-gadgets-that-enhance-your-educational-journey/"><u>The Ultimate Tech List for Learners: 9 Key Gadgets That Enhance Your Educational Journey</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-moto-g14-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Moto G14</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-unknown-speaker-configuration-in-windows-10/"><u>Troubleshooting Unknown Speaker Configuration in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-strategies-for-pokemon-unite-newbies/"><u>Ultimate Strategies for Pokémon Unite Newbies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlock-the-power-of-accessibility-discover-7-essential-mac-tools-for-every-user/"><u>Unlock the Power of Accessibility: Discover 7 Essential Mac Tools for Every User</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveil-hidden-files-in-macos-a-comprehensive-guide-using-terminal-techniques/"><u>Unveil Hidden Files in macOS: A Comprehensive Guide Using Terminal Techniques</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2024-11-28T22:25:38.823Z
-updated: 2024-12-04T19:43:46.947Z
+date: 2024-12-08T20:05:31.231Z
+updated: 2024-12-11T12:52:25.389Z
 tags:
   - apple
 categories:
@@ -24,15 +24,15 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -85,7 +85,7 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -118,6 +118,10 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI and machine learning in today's smartphones
 
 If you think about the stages of photography, we had light and shadow, then we had fixed images stored using chemicals (the film stage), then we had magnetic media (still analog), and then the rise of digital cameras and smartphones. In each of those stages, the one common factor was that the camera was meant as a capture device. It didn't do any of the art.
@@ -134,10 +138,6 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -153,7 +153,7 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Object knowledge
@@ -254,19 +254,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-innovative-techniques-for-flawless-voice-capture-in-facetime-calls/"><u>[New] Innovative Techniques for Flawless Voice Capture in FaceTime Calls</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur/"><u>[Updated] In 2024, The Pathway to Seamless System Enhancement in macOS 11 Big Sur</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-unearthing-the-obscured-videotapes/"><u>[Updated] YouTube Unearthing the Obscured Videotapes</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-f25-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo F25 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-ssleay32dll-not-detected-a-comprehensive-troubleshooting-guide/"><u>Fixing Ssleay32.dll Not Detected - A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/flip-the-script-crafting-unique-and-shareable-memes-on-social-platforms-for-2024/"><u>Flip the Script Crafting Unique and Shareable Memes on Social Platforms for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/getting-your-xbox-series-xs-headset-working-again-a-comprehensive-fix-guide/"><u>Getting Your Xbox Series X/S Headset Working Again: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gigaware-bluetooth-to-serial-adapter-drivers-download-guide-for-windows-7-8-and-10-users/"><u>Gigaware Bluetooth-to-Serial Adapter Drivers Download: Guide for Windows 7, 8 & 10 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-wininetdll-file-couldnt-be-loaded-issue-a-step-by-step-guide/"><u>Resolving the wininet.dll File Couldn't Be Loaded Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-search-is-not-working-in-windows-10-a-step-by-step-approach/"><u>Solving 'Search Is Not Working' In Windows 10 - A Step-by-Step Approach</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-pc-vision-with-updated-graphics-driver/"><u>Streamline PC Vision with Updated Graphics Driver</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-for-sourcing-ev-charging-points-on-google-maps/"><u>The Ultimate How-To for Sourcing EV Charging Points on Google Maps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-windows-11-what-to-do-if-your-system-fails-to-shut-down/"><u>Troubleshooting Windows 11: What To Do If Your System Fails to Shut Down</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-13-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 13 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-primeval-20-anime-series-opener-music/"><u>[New] In 2024, Primeval 20 Anime Series Opener Music</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-professional-gopro-filming-made-simple-a-comprehensive-guide/"><u>[New] In 2024, Professional GoPro Filming Made Simple A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/audio-clarity-showdown-comparing-mp3-and-mp4-formats-which-delivers-better-sound-quality-and-smaller-file-size/"><u>Audio Clarity Showdown: Comparing MP3 & MP4 Formats - Which Delivers Better Sound Quality & Smaller File Size?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-integration-for-effortless-microsoft-word-automation/"><u>ChatGPT Integration for Effortless Microsoft Word Automation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-correcting-the-openal32dll-missing-mishap/"><u>Comprehensive Guide: Correcting the 'OpenAL32.DLL Missing' Mishap</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-correct-the-504-gateway-error-in-minutes/"><u>Effective Strategies to Correct the 504 Gateway Error in Minutes</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-picks-best-image-restoration-programs-on-pcmac-to-revive-old-photographs/"><u>Expert Picks: Best Image Restoration Programs on PC/Mac to Revive Old Photographs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-xiaomi-13t-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Xiaomi 13T lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/funny-apple-device-gags-best-iphone-and-ipad-pranks-for-good-laughs/"><u>Funny Apple Device Gags: Best iPhone & iPad Pranks for Good Laughs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-lgs-27uhd68-enhances-gaming-experience-for-2024/"><u>How LG's 27UHD68 Enhances Gaming Experience for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-12-pro-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/masterful-video-editing-software-ranking-our-five-preferred-programs-for-creators/"><u>Masterful Video Editing Software: Ranking Our Five Preferred Programs for Creators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fixes-to-correct-the-d3d9dll-file-errors-on-pc/"><u>The Ultimate Fixes to Correct the d3d9.dll File Errors on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-your-ocidll-not-found-problems/"><u>The Ultimate Solution to Your 'oci.dll Not Found' Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-your-desktop-into-television-magic-how-to-connect-windows-to-chromecast-easily/"><u>Turning Your Desktop Into Television Magic: How to Connect Windows to Chromecast Easily</u></a></li>
 </ul></div>
 

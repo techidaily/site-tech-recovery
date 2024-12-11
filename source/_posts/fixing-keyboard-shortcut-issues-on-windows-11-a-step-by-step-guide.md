@@ -1,7 +1,7 @@
 ---
 title: "Fixing Keyboard Shortcut Issues on Windows 11: A Step-by-Step Guide"
-date: 2024-08-30T16:14:58.835Z
-updated: 2024-08-31T16:14:58.835Z
+date: 2024-12-08T18:31:40.149Z
+updated: 2024-12-11T09:24:21.023Z
 tags:
   - deals
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
  We're going to show eight ways to fix that problem and get those time-saving and productivity-boosting shortcuts working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Preliminary Fixes to Get Keyboard Shortcuts Working Again
 
  Before you start troubleshooting this issue on a deeper level, it helps to get the simple fixes out of the way. Try the things below and see if they work:
@@ -34,23 +38,18 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 * **Check for issues with system files**: Corrupted or missing system files can also affect your ability to use shortcuts. [Running an SFC or DISM scan](https://some-guidance.techidaily.com/twirl-forge-instruments-for-2024/) can fix or replace the affected system files and potentially resolve the issue.
 * **Disable your keyboard's special mode**: Some keyboards have a button that turns on a special mode or feature. This can interfere with shortcuts in some cases. Disable the special mode or feature and see if the shortcuts start working again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  2\. Check the Keys With Keyboard Checker
 
  If the shortcut keys are faulty, you can quickly find out on the [Keyboard Checker](https://keyboardchecker.com/) website. Once you load it, press the keys and see if they turn green on the on-screen keyboard. This means they are working.
 
 ![The 'Turn off Windows Key hotkeys' group policy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/keyboard-checker.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  If they don't turn green, it could mean the keys have a problem. We recommend getting a replacement or contacting a computer hardware professional to repair your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  3\. Reset Your Keyboard's Layout
 
  If your keyboard's layout becomes messed up, some shortcuts may not work since the key assignments have changed. Resetting the keyboard layout back to its default setting can fix it.
@@ -59,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 ![Changing the primary language on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/changing-primary-language-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  Then, return your preferred language to the top using the same process as above. This will reset the keyboard to its default layout for your preferred language. You can then test the shortcuts again to see if they work.
 
  If you don't have another language installed, you can easily add one by clicking "Add a Language" in the Preferred Languages section.
@@ -72,11 +68,23 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 ![The popup to install a new language in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/installing-language-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the next screen, click "Install." After the new language is installed, it will appear below the default one. Now do the steps to reset the keyboard layout and, hopefully, the shortcuts will start working again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Test the Keyboard Shortcut in Safe Mode
 
  Safe Mode boots Windows with a limited set of drivers, allowing you to troubleshoot a host of issues. So, [start Windows in Safe Mode](https://buynow-marvelous.techidaily.com/unveiling-the-strong-battery-feature-in-moto-g-power-a-tech-review-insight/) and test the shortcuts in that environment. If they work, then a third-party program or service is probably interfering with the shortcuts — one you need to uninstall or disable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Rule Out Third-Party App Conflicts
 
@@ -92,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
  With all the third-party apps and services disabled, restart your Windows computer. Once it boots up again, check if the shortcuts are working. If they are, launch the startup apps and enable the services one by one to find out which one is the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  6\. Enable Windows Key Shortcuts in the Group Policy Editor
 
  Are the only broken shortcuts those that involve the Windows key, for example, when you press Win+i or Win+R? If that's the case, it could mean the ability to use it in shortcuts is disabled. You can re-enable it in the Local Group Policy Editor.
@@ -107,17 +112,15 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 ![The 'Turn off Windows Key hotkeys' group policy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-turn-off-windows-key-hotkeys-group-policy-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the "Not Configured" radio button and then click "OK" to apply and save the change.
 
 ![Setting the 'Turn off Windows Key hotkeys' group policy to 'Not configured'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/not-configuring-windows-hotkeys-group-policy.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Test the Windows key shortcuts to see if they're now working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. Test the Keyboard Shortcut in Another User Profile
 
@@ -141,8 +144,6 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +151,21 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-share-smart-optimizing-youtube-videos-on-fb-platform/"><u>[New] In 2024, Share Smart Optimizing YouTube Videos on FB Platform</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-disable-non-specific-youtube-video-alerts-for-2024/"><u>[Updated] Disable Non-Specific YouTube Video Alerts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-tale-bearers-school-distinguished-dothee/"><u>2024 Approved Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-realme-gt-5-frp-bypass-by-drfone-android/"><u>About Realme GT 5 FRP Bypass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breakdown-of-electric-vehicle-power-up-options-exploring-the-variances-between-level-1-2-and-3-charging/"><u>Breakdown of Electric Vehicle Power-Up Options: Exploring the Variances Between Level 1, 2 & 3 Charging</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-how-t-mobile-offers-seamless-wireless-connectivity-at-home/"><u>Decoding How T-Mobile Offers Seamless Wireless Connectivity at Home</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-g2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo G2 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixels-of-peaceful-tales-video-critique/"><u>In 2024, Pixels of Peaceful Tales Video Critique</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-examination-of-the-garmin-vivosmart-4-body-energy-monitoring/"><u>In-Depth Examination of the Garmin Vivosmart 4: Body Energy Monitoring</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/straightforward-remedies-for-magic-mouses-tracking-hiccups/"><u>Straightforward Remedies for Magic Mouse's Tracking Hiccups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-selection-leading-ceiling-audio-displays-unveiled/"><u>Ultimate Selection: Leading Ceiling Audio Displays Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-espn-plus-effortlessly-tips-for-lg-smart-tv-owners/"><u>Watch ESPN Plus Effortlessly - Tips for LG Smart TV Owners</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-step-by-step-walkthrough-for-pokemon-unite-on-pc/"><u>Your Step-by-Step Walkthrough for Pokémon Unite on PC</u></a></li>
+</ul></div>
 

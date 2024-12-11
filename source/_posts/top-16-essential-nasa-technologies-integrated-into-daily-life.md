@@ -1,7 +1,7 @@
 ---
 title: Top 16 Essential NASA Technologies Integrated Into Daily Life
-date: 2024-08-30T16:16:31.227Z
-updated: 2024-08-31T16:16:31.227Z
+date: 2024-12-04T11:14:08.676Z
+updated: 2024-12-11T00:50:38.188Z
 tags:
   - cutting-edge
 categories:
@@ -52,16 +52,13 @@ NASA/Photobit
  Their research and persistence paved the way for the tiny sensors found in your cellphone as well as numerous other applications like compact home security cameras, video doorbells, dash cams, and anywhere else you need a tiny camera package but big results.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Memory Foam
 
 ![A photo of a NASA Space Shuttle and a hand compressing some memory foam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations6.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 NASA/Dynamic Systems
 
  From [memory foam pillows](https://www.lifesavvy.com/28161/the-comfiest-pillows-for-a-good-nights-sleep/) to entire [memory foam beds](https://www.amazon.com/LUCID-Inch-Memory-Foam-Medium/dp/B08624TRBP/?tag=htg-v2-2q16d3n-20&ascsubtag=UUhtgUeUpU204545&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F831363%2Fthese-nasa-innovations-are-all-around-us-everyday%2F&asc%5Fcampaign=Short-Term) and even the premium memory foam seats in your car, you can thank NASA for all that cushy goodness.
@@ -84,17 +81,10 @@ NASA/Poly
 
  This led to a long collaboration between Plantronics and NASA, resulting in a variety of innovations in miniaturization, improved wireless communication, noise canceling, and a variety of [wireless headphone benefits](https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-xs-max-5-ways-to-get-into-a-locked-apple-iphone-xs-max-by-drfone-ios/) we all enjoy today.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ##  Clamshell Laptops
 
 ![An example of the GRiD Compass laptop from a museum collection and in space.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 The Smithsonian Insitute/NASA
 
  While NASA didn't invent portable computers, the organization had a key influence in the very early years of laptop development.
@@ -103,9 +93,6 @@ The Smithsonian Insitute/NASA
 
  At NASA's request, various modifications were made over the years, including the introduction of laptop fans. The laptop was originally passively cooled, but in microgravity passive convention cooling didn't work well, requiring fans to push air over the components. The design choices in those early laptops [persist to the present](https://youtube-web.techidaily.com/ed-2024-approved-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/), and in the decades since, we've never topped the clamshell.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Scratch-Resistant and UV Protective Lenses
 
 ![A photo of an astronaut in a space suit and an ad featurnig the new lens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations8.jpg) 
@@ -116,13 +103,18 @@ NASA/Foster Grant
 
  In a bid to make astronauts' helmet visors [more protective against ultraviolet light](https://spinoff.nasa.gov/Spinoff2006/ch%5F6.html) and more resistant to scratching, NASA researchers, working along with the Foster Grant eyeglass company, advanced both fronts significantly. Since the early 1980s, the [non-scratch coatings created by Theodore Wydeven](https://www.spacefoundation.org/space%5Ftechnology%5Fhal/scratch-resistant-lenses/) at NASA's Ames Research Center have been applied to millions of eyeglasses and other surfaces---first on pairs of Foster Grant sunglasses and shortly after on practically everything.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  LED Innovations
 
 ![LED grow lights in space and an LED healing lamp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations9.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 NASA
 
  NASA didn't invent the LED. The history of prototypical LED winds all the way back to the early 20th century, and the LED as we know it now was first invented by General Electric scientist Nick Holonyak, Jr. in 1962.
@@ -144,17 +136,9 @@ iHealth/Apple/Invisalign
  The technology eventually made its way into everything from [the thermometers we use when we're sick](https://www.amazon.com/iHealth-Thermometer-Vibration-Notification-Thermopile/dp/B075QQ8VZW/?tag=htg-v2-2q16d3n-20&ascsubtag=UUhtgUeUpU204545&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F831363%2Fthese-nasa-innovations-are-all-around-us-everyday%2F&asc%5Fcampaign=Short-Term) to the handy temperature guns we use to [check pizza ovens](https://www.lifesavvy.com/131867/gozney-roccbox-pizza-oven-review/) and other surfaces.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Freeze Dried Foods
 
 ![Examples of freeze dried food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
@@ -171,16 +155,14 @@ iHealth/Apple/Invisalign
 
  You can thank NASA gift shops and curious kids for the enduring popularity of "astronaut" ice cream, as well as the folks at [Astronaut Foods](https://astronautfoods.com/) who keep the freeze-dried space food dream alive for gift shop goers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Better Baby Formula
 
 ![An example of a 1970s era space meal, and a canister of baby formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 iHealth/Apple/Invisalign
 
  NASA didn't invent baby formula, but research into inexpensively and safely improving the nutritional value of food served to astronauts in space did.
@@ -193,12 +175,13 @@ iHealth/Apple/Invisalign
 
  DHA is critical to brain development, and since the discovery of this cheap production method, millions of babies around the world have enjoyed better brain growth as a result of its inclusion in formulas.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Cordless Vacuums and Power Tools
 
 ![An astronaut using a lunar drill and the DustBuster, made possible by the same motor technology.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 NASA/Industrial Designers Society of America
 
@@ -224,6 +207,10 @@ iHealth/Apple/Invisalign
 
 ![Two types of clear ceramic braces.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 iHealth/Apple/Invisalign
 
  The memory foam connection and freeze-dried foods might have a fairly well-known NASA connection, but most people don't realize Invisalign and similar "invisible" braces do too.
@@ -232,9 +219,6 @@ iHealth/Apple/Invisalign
 
  The original dental application was for dental brace bases on each tooth but still linked together by a wire like traditional braces. Later, companies like Invisalign made alignment trays that covered the entire tooth without connective wires. And while that's a significant contribution to dentistry, it's hardly [the only one NASA has made](https://www.nasa.gov/audience/foreducators/k-4/features/F%5FBite%5FOut%5Fof%5FDiscomfort.html).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Improved Tires
 
 ![A rendering of the Viking mission and a photo from the Goodyear archives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
@@ -254,9 +238,9 @@ iHealth/Apple/Invisalign
 ![A shuttle launch and a set of Lifeshear tools.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 iHealth/Apple/Invisalign
 
  This is, thankfully, an invention that none of us have to experience every day or even, for that matter, once in a lifetime if we're lucky.
@@ -267,13 +251,14 @@ iHealth/Apple/Invisalign
 
  The resulting product, [Lifeshears](https://www.nasa.gov/vision/earth/technologies/human%5Fspaceflight.html), has been in use since the 1990s and was even used during rescue efforts after the 9/11 attack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Foil Blankets
 
 ![Examples of foil blankets in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations4.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 NASA/AMC
 
  You'll often hear reflective emergency blankets, like those emergency responders wrap around car crash survivors and such, referred to as "[space blankets](https://spinoff.nasa.gov/Spinoff2006/ch%5F9.html)." This is because the reflective metallic material they are made out of was invented by NASA to help shield and insulate equipment and even entire portions of space stations. There's a reason that shiny-metal-foil look is inseparable from the space program.
@@ -293,8 +278,9 @@ NASA/RadiaSource
  Between the original space blankets and radiant barrier innovations, NASA's research has found its way into everything from our homes to our lunchboxes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  More NASA-Funded Technology
 
  Speaking of finding its way into everything, we could write for months without covering everything NASA's efforts have brought into the public sphere. If you've read over these highlights with interest, we'd highly recommend you check out [NASA Spinoff](https://spinoff.nasa.gov/).
@@ -309,8 +295,6 @@ NASA/RadiaSource
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -318,4 +302,24 @@ NASA/RadiaSource
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/bluetooth-synergy-simultaneously-using-more-than-one-speaker-with-a-single-gadget/"><u>Bluetooth Synergy: Simultaneously Using More Than One Speaker with a Single Gadget</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/boosting-your-voices-impact-free-user-friendly-changes-available-for-2024/"><u>Boosting Your Voice's Impact – Free, User-Friendly Changes Available for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-reno-11-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo Reno 11 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-melodic-mastery-in-visual-storytelling/"><u>In 2024, Melodic Mastery in Visual Storytelling</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-art-of-professional-gopro-filming/"><u>In 2024, The Art of Professional GoPro Filming</u></a></li>
+<li><a href="https://games-able.techidaily.com/indie-gaming-delights-revealing-my-preferred-titles/"><u>Indie Gaming Delights: Revealing My Preferred Titles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722853604705-inside-the-new-m3-macbook-pro-detailed-coverage-of-launch-date-cost-estimates-tech-specs-and-more-exclusive-content/"><u>Inside the New M3 MacBook Pro: Detailed Coverage of Launch Date, Cost Estimates, Tech Specs, and More Exclusive Content</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-task-management-on-windows-os/"><u>Mastering Task Management on Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-fix-dealing-with-failures-during-steam-disk-writes/"><u>Mastering the Fix: Dealing with Failures During Steam Disk Writes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/must-watch-10-unique-igtv-content-formats-for-brands-for-2024/"><u>Must-Watch 10 Unique IGTV Content Formats for Brands for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pros-and-cons-deciding-if-the-playstation-5-is-worth-your-money/"><u>Pros and Cons: Deciding If the PlayStation 5 Is Worth Your Money</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secure-and-seamless-file-sharing-with-20-preferred-no-fee-services-for-2024/"><u>Secure & Seamless File Sharing with 20 Preferred No-Fee Services for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-pc-reset-issue-a-step-by-step-guide/"><u>Solving the 'PC Reset Issue': A Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/speak-up-be-heard-an-introduction-to-discord-tts-for-2024/"><u>Speak Up, Be Heard An Introduction to Discord TTS for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-integrating-pinterest-on-your-facebook-business-page/"><u>Ultimate Guide: Integrating Pinterest on Your Facebook Business Page</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-distinctions-between-cat5-and-cat6-ethernet-cables/"><u>Understanding the Distinctions Between Cat5 and Cat6 Ethernet Cables</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722846141296-what-exactly-is-a-dts-play-fi-system-explained/"><u>What Exactly Is a DTS Play-Fi System? Explained</u></a></li>
+</ul></div>
 

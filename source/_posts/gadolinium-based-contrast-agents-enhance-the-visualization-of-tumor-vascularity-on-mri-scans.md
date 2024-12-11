@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2024-11-30T09:17:12.017Z
-updated: 2024-12-05T02:40:55.591Z
+date: 2024-12-08T02:55:00.883Z
+updated: 2024-12-11T12:15:28.064Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,24 +129,17 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hdr-lighting-insight-does-it-merit-creation/"><u>[New] HDR Lighting Insight Does It Merit Creation?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/binkw32dll-disappeared-discover-quick-fixes-and-prevention-strategies/"><u>Binkw32.dll Disappeared? Discover Quick Fixes and Prevention Strategies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/exclusive-review-top-10-gratis-gaming-screen-recorder-apps-for-2024/"><u>Exclusive Review Top 10 Gratis Gaming Screen Recorder Apps for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-curated-list-of-top-culinary-adventures-from-your-kitchen-screen-the-10-best-showcased-on-netflix/"><u>Explore Our Curated List of Top Culinary Adventures From Your Kitchen Screen: The 10 Best Showcased on Netflix</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/forego-youtube-previews-to-enjoy-live-videos/"><u>Forego YouTube Previews to Enjoy Live Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-to-transfer-photos-and-videos-from-iphone-to-iphone-for-2024/"><u>How to Transfer Photos and Videos From iPhone to iPhone for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/identifying-excellent-video-production-experts/"><u>Identifying Excellent Video Production Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mosaicmind-pro-unleashing-creative-potential/"><u>MosaicMind Pro Unleashing Creative Potential</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-windows-error-maze-expert-advice-on-correcting-the-persistent-code-28-glitches/"><u>Navigating Through Window's Error Maze: Expert Advice on Correcting the Persistent Code 28 Glitches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quest-meta-3-lite-on-the-horizon-unveiling-features-anticipated-costs-launch-timeline-and-latest-gossip/"><u>Quest Meta 3 Lite on the Horizon: Unveiling Features, Anticipated Costs, Launch Timeline & Latest Gossip</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reinitializing-your-computers-bios-to-factory-settings-a-complete-walkthrough/"><u>Reinitializing Your Computer's BIOS to Factory Settings – A Complete Walkthrough</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-integration-of-google-assistant-on-your-personal-computer-through-the-google-home-app-tutorial/"><u>Seamless Integration of Google Assistant on Your Personal Computer Through the Google Home App Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-changing-your-mobile-devices-apparent-gps-position/"><u>Step-by-Step Tutorial: Changing Your Mobile Device's Apparent GPS Position</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/401662-9780446549486-the-merciful-god-of-prophecy/"><u>The Merciful God of Prophecy | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-techniques-to-overcome-lynel-challenges-in-the-legendary-zelda-series/"><u>Top Techniques to Overcome Lynel Challenges in The Legendary Zelda Series</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-pc-effective-ways-to-resolve-kernel-inpage-errors/"><u>Troubleshooting Your PC: Effective Ways to Resolve Kernel Inpage Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unearthing-hidden-ai-advantages-top-5-unused-chatgpt-features/"><u>Unearthing Hidden AI Advantages: Top 5 Unused ChatGPT Features</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/wavwindows-1011-and/"><u>WAVデータをWindows 10・11で完全維持して分割:おすすめ無料プログラム & オンラインリソース</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-quickest-quads-2022-olympics-skate/"><u>[New] The Quickest Quads 2022 Olympics Skate</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-your-quick-guide-to-excellent-zoom-meetings-for-2024/"><u>[Updated] Your Quick Guide to Excellent Zoom Meetings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726030096952-mp3-5/"><u>「無料」MP3音源のカット・トリミングができる人気のフリーアプリケーション ベスト5選択肢</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-guide-to-using-ps5-assist-controller/"><u>A Comprehensive Guide to Using PS5 Assist Controller</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-correct-missing-btballoondll-files/"><u>Effective Methods to Correct Missing btballoon.dll Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-insta-presence-winning-techniques-for-attracting-more-followers/"><u>Elevate Your Insta Presence: Winning Techniques for Attracting More Followers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-and-repair-missing-normalizdll-issues/"><u>How to Correctly Address and Repair 'Missing Normaliz.dll' Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-broadcast-preservation-in-the-age-of-web-radio/"><u>In 2024, Broadcast Preservation in the Age of Web Radio</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-msstdfmtdll-not-found-error-effective-solutions-unveiled/"><u>Overcoming 'Msstdfmt.dll Not Found' Error - Effective Solutions Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-wisdom-unleashing-sticky-notes-on-win11/"><u>Tech Wisdom: Unleashing Sticky Notes on Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-of-androids-smart-ecosystem-understanding-ai-integration/"><u>Unveiling the Secrets of Android's Smart Ecosystem: Understanding AI Integration</u></a></li>
 </ul></div>
 

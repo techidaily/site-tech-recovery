@@ -1,7 +1,7 @@
 ---
 title: Slash Battery Drain on Your Winning PC with Simple Tweaks for Longer Life!
-date: 2024-08-30T16:13:58.628Z
-updated: 2024-08-31T16:13:58.628Z
+date: 2024-12-04T21:03:00.869Z
+updated: 2024-12-11T04:06:59.361Z
 tags:
   - desktop
 categories:
@@ -30,9 +30,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  As a Windows laptop user, you know the frustration of searching for a charging spot because your laptop's battery life is short. The problem is worse if your laptop is older, since batteries lose capacity over time. Luckily, you can change some Windows settings to improve your laptop's battery life..
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Modify the Power Plan Settings
 
  Link State Power Management is a feature on your Windows computer that saves battery life by controlling the connection between the [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) and devices connected through the PCI Express (PCIe) slots. It works alongside Active State Power Management (ASPM) and offers three modes to configure — "Off," "Moderate Power Savings," and "Maximum Power Savings."
@@ -47,11 +47,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![PCI Express option in the Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pci-express-option-in-the-control-panel.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Apply" and "OK" to save the changes. After that, restart your laptop to see the impact on battery performance.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Change Video Playback Settings
 
  Many [UWP apps and third-party applications](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/) use the video platform built into Windows 11\. You can control the video playback settings for these apps when your device is on battery to reduce battery consumption compared to before.
@@ -60,36 +65,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Video playback option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/video-playback-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Choose the "Optimize for Battery Life" option from the Battery Options menu. Then, check the "Play video at a lower resolution when on battery" option.
 
 ![Optimize for battery life option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/optimize-for-battery-life-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ##  Apply the Energy Recommendations Changes
 
  Windows 11 has an Energy recommendations option in the Settings menu that shows all the minor changes you can make on your device to [improve battery life](https://screen-capture.techidaily.com/2024-approved-mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/). To apply these changes, open the Settings app, select "System" from the left sidebar, and click "Power & Battery" on the right.
 
 ![Power & battery option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/power-battery-option-in-the-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select the "Energy Recommendations" option.
 
 ![Energy Recommendation option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/energy-recommendation-option-in-the-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can click the "Apply All" option to apply all the changes recommended by Windows. Alternatively, you can click the "Apply" button next to the change you want to make on your device.
 
 ![Apply all option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apply-all-option-in-the-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Configure Unnecessary Apps to Use Less Powerful GPU
 
  In Windows, you can manually choose which [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/) an application uses. This can be helpful because there's no reason to use a powerful GPU for simple tasks like the Calculator app. Using the powerful GPU for such tasks would put more strain on your computer and drain your battery faster.
@@ -100,12 +105,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Graphics option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/graphics-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Under the Custom Settings for Applications section, you will find the list of apps installed on your computer. Click on the applications for which you don't want to use the powerful GPU, and select "Power Saving" from the GPU Preference drop-down menu.
 
 ![Power Saving option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/power-saving-option-in-the-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Disable the RGB Lighting
 
@@ -119,9 +125,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This is because an LCD screen uses a backlight to illuminate the entire screen, regardless of the color displayed. Therefore, enabling dark mode will have a negligible impact. On the other hand, OLED screens have pixels that produce their own light and when you switch to dark mode the black pixel get turned off by default. Since the display doesn't need to light up those pixels, it uses less battery compared to light mode. However, keep in mind that the impact will still be quite small.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Reduce the Maximum Processor State
 
  This tip not only helped me reduce the power consumption of my laptop but also [fixed its heating issue](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). So, when you reduce the Maximum processor state on your Windows laptop, you're actually limiting the maximum processing power that your CPU can use.
@@ -146,20 +149,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Command for efficiency cores in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-for-efficiency-cores-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To reduce CPU max clock speed of performance cores when laptop is not plugged into power, type **powercfg /setdcvalueindex <Power Scheme GUID> SUB\_PROCESSOR PROCTHROTTLEMAX1 99** and hit Enter.
 
 ![Command for performance cores in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-for-performance-cores-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, type **powercfg /setactive <Power Scheme GUID>** and hit Enter.
 
 ![Setactive command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/setactive-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After that, simply restart your computer and you will see a sudden increase in your battery performance and a reduction in laptop heat.
 
 ---
@@ -172,8 +173,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +180,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-pathway-to-vimeo-recording/"><u>[New] In 2024, The Ultimate Pathway to Vimeo Recording</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlocking-creativity-top-5-expert-video-and-photography-plus-music-mixers-for-2024/"><u>[New] Unlocking Creativity Top 5 Expert Video & Photography + Music Mixers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-advanced-mac-photo-tips-5-efficient-snapshot-techniques/"><u>[Updated] 2024 Approved Advanced Mac Photo Tips 5 Efficient Snapshot Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-must-watch-tv-shows-on-discovery-plus-as-of-july-2024/"><u>Discover the Must-Watch TV Shows on Discovery Plus as of July 2024!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-overcome-there-was-a-problem-resetting-your-pc-error-in-windows/"><u>How to Overcome 'There Was a Problem Resetting Your PC' Error in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-v30t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme V30T to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-disabling-gpgpu-task-ordering-in-winos/"><u>Navigating Disabling GPGPU Task Ordering in WinOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-and-easy-officially-licensed-winx-dvd-ripper-deluxe-hd-dvd-conversion-to-mp4-hevc-made-simple/"><u>Quick & Easy [Officially Licensed] WinX DVD Ripper Deluxe - HD DVD Conversion to MP4 (HEVC) Made Simple!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-d3dx933dll-file-missing-a-step-by-step-guide/"><u>Solving d3dx9_33.dll File Missing - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-guide-how-to-discover-another-persons-email-id-securely/"><u>The Guide: How to Discover Another Person's Email ID Securely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-screen-mirroring-android-to-fire-stick-streaming-made-simple/"><u>Unlock the Power of Screen Mirroring: Android to Fire Stick Streaming Made Simple</u></a></li>
+</ul></div>
 

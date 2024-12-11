@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2024-12-03T19:34:44.459Z
-updated: 2024-12-04T23:30:57.248Z
+date: 2024-12-03T21:29:51.982Z
+updated: 2024-12-11T00:00:41.516Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best AT&T deals
@@ -120,6 +120,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -134,10 +138,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -147,10 +147,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [AT&T 15W wireless charging pad: $10 (save $19) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html)
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
 
@@ -167,19 +163,23 @@ When we made our selection for the best AT&T deals, we wanted to include options
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
@@ -236,21 +236,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-begin-a-new-era-of-editing-with-xps-video-suite/"><u>[New] In 2024, Begin a New Era of Editing with Xp's Video Suite</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-guide-to-windows-11-gaming-recordings/"><u>[New] The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-window-wonders-how-to-capture-and-save/"><u>[Updated] In 2024, Window Wonders How to Capture & Save</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/achieving-email-clarity-how-to-utilize-labels-for-messaging-order-in-gmail/"><u>Achieving Email Clarity: How to Utilize Labels for Messaging Order in Gmail</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/blur-unwanted-parts-of-your-videos-with-these-mobile-apps-for-2024/"><u>Blur Unwanted Parts of Your Videos with These Mobile Apps for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bypassing-the-barrier-effective-strategies-to-rectify-netflixs-ui-80-groovy-3-malfunction/"><u>Bypassing the Barrier: Effective Strategies to Rectify Netflix's UI-80 Groovy - 3 Malfunction</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/conversion-gratuite-dimage-tiff-en-jpeg-enligne-utilisez-le-service-de-convertisseur-de-movavi/"><u>Conversion Gratuite D'Image TIFF en JPEG Enligne - Utilisez Le Service De Convertisseur De Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-digital-to-analog-converters-dacs-do-you-really-need-one/"><u>Demystifying Digital to Analog Converters (DACs): Do You Really Need One?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/getting-to-know-the-samsung-galaxy-z-fold-6-a-comprehensive-look-at-price-points-and-release-schedule/"><u>Getting to Know the Samsung Galaxy Z Fold 6 – A Comprehensive Look at Price Points and Release Schedule</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-efficiently-unite-various-soundtracks-into-one-on-spotify/"><u>How to Efficiently Unite Various Soundtracks Into One on Spotify</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/master-the-sphere-ultimate-guide-to-live-broadcast-cameras/"><u>Master the Sphere Ultimate Guide to Live Broadcast Cameras</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-tech-troubles-effective-solutions-for-error-43-rectification/"><u>Navigating Through Tech Troubles: Effective Solutions for Error 43 Rectification</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rapid-advancement-techniques-for-newbies-in-the-world-of-formerly-x-platform/"><u>Rapid Advancement Techniques for Newbies in the World of Formerly X Platform</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722885347675-secure-the-cream-of-the-crop-exclusive-ipad-deals-await-you/"><u>Secure the Cream of the Crop: Exclusive iPad Deals Await You!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-samsung-galaxy-s25-ultra-unveiling-the-costs-launch-timeline-and-features/"><u>Upcoming Samsung Galaxy S25 Ultra - Unveiling the Costs, Launch Timeline & Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-a-quest-for-collective-ownership-art-without-boundaries/"><u>[New] 2024 Approved A Quest for Collective Ownership Art Without Boundaries</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-humor-unleashed-top-meme-creator/"><u>[New] 2024 Approved Humor Unleashed Top Meme Creator</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-content-with-external-weblinks-in-insta/"><u>[New] Enhancing Content with External Weblinks in Insta</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-rethink-periscope-6-innovative-video-apps-for-iphones-and-android-for-2024/"><u>[Updated] Rethink Periscope 6 Innovative Video Apps for iPhones & Android for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-analysis-top-5-high-end-recording-apps/"><u>2024 Approved Expert Analysis Top 5 High-End Recording Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-nuances-how-ar-vr-mr-and-xr-stand-out-from-each-other/"><u>Deciphering the Nuances: How AR, VR, MR and XR Stand Out From Each Other</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdwindows10dvd/"><u>DVDにビデオコンバート！Windows10マシンから高品質なDVDへの移行手順：スペシャル無料ツールパターン</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-pixels-latest-rumors-expected-price-tag-probable-release-date-and-specs-overview/"><u>Google Pixel's Latest Rumors: Expected Price Tag, Probable Release Date & Specs Overview</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-poco-x5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco X5 Without Password | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-your-instagram-narrative-how-to-successfully-tackle-non-uploading-issues-with-stories/"><u>Mastering Your Instagram Narrative: How To Successfully Tackle Non-Uploading Issues with Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/preserve-important-instagram-chat-threads-a-detailed-guide-on-pinned-messages/"><u>Preserve Important Instagram Chat Threads: A Detailed Guide on Pinned Messages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-missing-or-not-detected-msidll-error-messages/"><u>Step-by-Step Guide: Correcting 'Missing' Or 'Not Detected' msi.dll Error Messages</u></a></li>
 </ul></div>
 

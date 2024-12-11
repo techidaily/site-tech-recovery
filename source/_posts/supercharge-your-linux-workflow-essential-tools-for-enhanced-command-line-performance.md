@@ -1,7 +1,7 @@
 ---
 title: "Supercharge Your Linux Workflow: Essential Tools for Enhanced Command-Line Performance"
-date: 2024-08-30T16:14:30.367Z
-updated: 2024-08-31T16:14:30.367Z
+date: 2024-12-03T18:52:20.807Z
+updated: 2024-12-10T16:48:38.800Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 ---
 
 ## Supercharge Your Linux Workflow: Essential Tools for Enhanced Command-Line Performance
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -49,9 +53,6 @@ sudo pacman -S tmux
 
  To start a tmux session, type **tmux** in your console. This opens a new session, creates a window, and starts a shell in that window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ##  tldr
 
 ![Terminal window showing simplified discriptions of tee command using tldr](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/terminal-window-showing-simplified-discriptions-of-tee-command-using-tldr.png) 
@@ -74,12 +75,13 @@ sudo dnf install tldr
 
 sudo pacman -S tldr
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Vim
 
 ![A terminal window with the Vim text editor open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-terminal-window-with-the-vim-text-editor-open.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you haven't explored [Vim](https://www.vim.org/) yet, you're missing out on a highly effective text editor. Vim (Vi IMproved) is a highly [customizable text editor](https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/) that's been popular among Linux users for a long time. At first, it might seem difficult, but as you learn how to use it, you’ll find it’s a very effective tool for editing code, configuration files, and other text documents.
 
@@ -99,12 +101,13 @@ sudo dnf install vim
 
 sudo pacman -S vim
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Fastfetch
 
 ![The terminal window displaying system information using fastfetch tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/linux-terminal-displaying-system-information-using-fastfetch-tool.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Do you want to view system information with lightning speed and accuracy? Look no further than [Fastfetch](https://github.com/fastfetch-cli/fastfetch). With Fastfetch, you can display detailed information about your system, including CPU, memory, disk usage, kernel version, uptime, and even CPU architecture. It is one of the widely used [alternatives to Neofetch](https://facebook-videos.techidaily.com/updated-2024-approved-easy-steps-for-achieving-facebooks-prestigious-blue-badge/).
 
@@ -143,8 +146,9 @@ dpkg --get-selections | fzf --query 'libreoffice'
 ![searching libreoffice package in installed packages list using fzf tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/searching-libreoffice-package-in-installed-packages-using-fzf-tool.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can install fzf on Debian-based distributions or Ubuntu using this:
 
 sudo apt install fzf
@@ -157,10 +161,6 @@ sudo dnf install fzf
 
 sudo pacman -S fzf
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  bat
 
 [bat](https://github.com/sharkdp/bat) is a modern alternative to the traditional [cat command](https://instagram-videos.techidaily.com/updated-sneak-peeks-into-instagrams-latest-hacks-for-2024/). With bat, you can quickly view and understand the contents of text files, especially those with complex formatting or syntax. The built-in syntax highlighting feature makes it much easier to quickly scan and identify the different components of a file, such as code, comments, and configuration settings.
@@ -195,13 +195,18 @@ ln -s /usr/bin/batcat ~/.local/bin/bat
 
  Make sure you don't have the bacula-console-qt package installed before doing this. If you use that package often, you'll have to continue using batcat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Oh My Zsh
 
 ![The 'Oh My Zsh' splash screen on terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-oh-my-zsh-splash-screen-on-terminal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What if your command line could be more informative and customizable? That's exactly what [Oh My Zsh](https://ohmyz.sh/) offers. Oh My Zsh is an open-source Zsh configuration framework that provides a wide range of themes, plugins, and features to enhance your command-line experience.
 
  With Oh My Zsh, you can configure your prompt to show information such as Git branch, current directory, or system load. For instance, you can install plugins for syntax highlighting in your prompt, auto-completion for frequently used commands, and integration with version control systems like Git.
@@ -220,9 +225,6 @@ sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/ins
 
 ![Full htop output interactive process view in Linux Bash terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/full-htop-ouput-in-linux-bash-terminal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Want to monitor your system's resource usage in a more efficient and visually appealing way? Try [htop](https://htop.dev/). You can use htop to view detailed information about your system's CPU, memory, and disk usage. Unlike the classic [top command](https://extra-hints.techidaily.com/deciphering-the-common-thought-on-vllo/), htop provides a [visual representation](https://facebook-clips.techidaily.com/new-automatic-youtube-video-transition-tips-for-facebook-users/) of resource allocation that makes it easier to identify bottlenecks and diagnose performance issues.
 
  With htop, you can quickly see which processes are consuming the most CPU, memory, or other resources, and then take appropriate actions to optimize or terminate them.
@@ -244,8 +246,9 @@ sudo pacman -S htop
 ![Navigating directories in terminal with zoxide](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/navigating-directory-in-terminal-with-zoxide.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you spend a lot of time navigating directories in the command line, then [zoxide](https://github.com/ajeetdsouza/zoxide) is for you. zoxide is a fast and efficient alternative to the built-in [cd command](https://techidaily.com/is-your-oppo-k11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/). It uses a ranking algorithm to keep track of the directories you visit most frequently, allowing you to quickly navigate to them using a simple command.
 
  You also do not need to remember and type out long file paths, rather you can simply type **z** followed by a few letters of the directory you want to access, and zoxide will automatically take you there.
@@ -278,8 +281,6 @@ eval "$(zoxide init bash)"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +288,23 @@ eval "$(zoxide init bash)"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-a-complete-introduction-to-snapchats-new-feature-for-2024/"><u>[New] A Complete Introduction to Snapchat's New Feature for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-broadcast-your-curated-playlist-with-ease/"><u>[New] In 2024, Broadcast Your Curated Playlist with Ease</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-economical-aerial-surveillance-best-drones-for-less/"><u>[Updated] Economical Aerial Surveillance Best Drones for Less</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accept-invitation-to-shared-photo-library-via-iphone-easy-steps-inside/"><u>Accept Invitation to Shared Photo Library via iPhone – Easy Steps Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-whats-new-at-the-2025-apple-developer-event-innovations-and-insights/"><u>Discover What’s New at the 2025 Apple Developer Event: Innovations & Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-deep-into-gesture-recognition-systems/"><u>Dive Deep Into Gesture Recognition Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-viral-phenomena-the-anatomy-of-a-meme-explained/"><u>Exploring Viral Phenomena: The Anatomy of a Meme Explained</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y100-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y100 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-fast-memory-speeds-up-processing-a-deep-dive-into-latency-effects/"><u>How Fast Memory Speeds Up Processing - A Deep Dive Into Latency Effects</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-gt-5-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme GT 5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/master-iphone-cams-with-these-hacks-for-2024/"><u>Master iPhone Cams with These Hacks for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecrafts-monochrome-misfortune-top-strategies-for-banishing-black-screens-edition/"><u>Minecraft's Monochrome Misfortune: Top Strategies for Banishing Black Screens Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903602849-the-future-is-bright-with-the-new-google-pixel-phone-predicted-price-points-release-epochs-and-hidden-features-revealed/"><u>The Future Is Bright with the New Google Pixel Phone - Predicted Price Points, Release Epochs, and Hidden Features Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-issues-when-mozilla-thunderbird-wont-launch/"><u>Troubleshooting Steps for Resolving Issues When Mozilla Thunderbird Won't Launch</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-review-the-mirari-childrens-alarm-clock-that-ticks-all-boxes/"><u>Unboxing & Review: The Mirari Children's Alarm Clock That Ticks All Boxes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-insights-how-to-tell-if-your-gmail-is-being-read/"><u>Unlocking Insights: How to Tell if Your Gmail Is Being Read</u></a></li>
+</ul></div>
 

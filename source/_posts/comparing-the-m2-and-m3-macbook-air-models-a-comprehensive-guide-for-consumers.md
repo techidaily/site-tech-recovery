@@ -1,7 +1,7 @@
 ---
 title: "Comparing the M2 and M3 MacBook Air Models: A Comprehensive Guide for Consumers"
-date: 2024-11-28T04:28:50.992Z
-updated: 2024-12-05T05:17:00.208Z
+date: 2024-12-04T13:05:29.547Z
+updated: 2024-12-10T17:13:03.711Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **MacBook Air M3** | **MacBook Air M2**                           |                                              |
@@ -51,6 +47,10 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 | **Price**          | Starting at $1,099                           | Starting at $999                             |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Air if...
 
@@ -69,7 +69,7 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want the absolute best performance
@@ -91,20 +91,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the M2 MacBook Air if...
 
 Cliff Joseph/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
 
@@ -113,7 +113,7 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're expecting the M3 to be a bigger upgrade
@@ -156,14 +156,20 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-secure-communication-made-easy-the-best-10-free-and-protected-video-conferencing-tools-for-2024/"><u>[New] Secure Communication Made Easy The Best 10 Free and Protected Video Conferencing Tools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-from-gifs-to-stickers-full-guide-for-social-channels/"><u>[Updated] From GIFs to Stickers Full Guide for Social Channels</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/a-comprehensive-overview-of-changing-speech-and-music-levels-in-files-for-2024/"><u>A Comprehensive Overview of Changing Speech and Music Levels in Files for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/coredll-not-found-heres-how-to-correctly-resolve-this-common-windows-glitch/"><u>Core.dll Not Found? Here's How to Correctly Resolve This Common Windows Glitch</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-narzo-n55-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme Narzo N55 Phone Screen?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Which is the Best Fake GPS Joystick App On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-missing-libgdk-win32-20-0dll-file-issues-on-your-computer/"><u>Resolving Missing libgdk-win32-2.0-0.dll File Issues on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamline-your-inbox-faster-learn-the-top-30-gmail-keyboard-shortcut-tricks/"><u>Streamline Your Inbox Faster: Learn the Top 30 Gmail Keyboard Shortcut Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-most-enjoyable-disneynature-films-for-children-in-july-2024/"><u>Top Picks: Most Enjoyable Disneynature Films for Children in July 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-insta-ode-selecting-song-lyrics-and-beats-for-vids/"><u>[New] 2024 Approved The Insta-Ode Selecting Song Lyrics and Beats for Vids</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-the-skies-complete-review-of-dji-phantom-4/"><u>[New] Mastering the Skies Complete Review of DJI Phantom 4</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ranking-the-ultimate-in-mac-gif-recorders/"><u>[New] Ranking the Ultimate in Mac GIF Recorders</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-maximizing-vimeo-presence-with-movies-from-wmm/"><u>2024 Approved Maximizing Vimeo Presence with Movies From WMM</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-usenet-video-player-direct-streaming-access/"><u>2024 Approved Usenet Video Player Direct Streaming Access</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-yuva-3-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Yuva 3 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-influencer-growth-on-instagram-top-5-steps-with-real-success/"><u>In 2024, Navigating Influencer Growth on Instagram Top 5 Steps with Real Success</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-motorola-razr-40-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Razr 40 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-high-cpu-usage-by-dwmexe-in-windows-11-a-complete-guide/"><u>Resolving the High CPU Usage by dwm.exe in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reversing-your-pc-display-orientation-easy-steps-to-master-it/"><u>Reversing Your PC Display Orientation - Easy Steps to Master It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-automated-troubleshooting-in-windows-11/"><u>Seamless Automated Troubleshooting in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-quickly-resolve-print-queue-issues-a-complete-guide/"><u>Simple Steps to Quickly Resolve Print Queue Issues: A Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/skyrocket-minecraft-frames-per-second-expert-strategies-for-high-end-pc-optimization-updated/"><u>Skyrocket Minecraft Frames per Second: Expert Strategies for High-End PC Optimization - Updated</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-turning-off-microsofts-cortana-on-your-windows-10-device/"><u>Step-by-Step Guide: Turning Off Microsoft's Cortana on Your Windows 10 Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-complete-beginners-guide-to-creating-impressive-macro-videos-for-2024/"><u>The Complete Beginner's Guide to Creating Impressive Macro Videos for 2024</u></a></li>
 </ul></div>
 

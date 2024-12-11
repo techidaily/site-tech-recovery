@@ -1,7 +1,7 @@
 ---
 title: How Does Google Ensure the Confidentiality of Your Messages in Gemini?
-date: 2024-08-30T16:16:12.063Z
-updated: 2024-08-31T16:16:12.063Z
+date: 2024-12-08T07:06:53.404Z
+updated: 2024-12-10T21:42:48.070Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## How Does Google Ensure the Confidentiality of Your Messages in Gemini?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,16 +29,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Google Bard chat history on desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/bard-history-list.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  How long these chats are saved depends on your Gemini activity settings, which can be found by clicking the clock and rotating the arrow symbol on the top-right of the page.
 
 ![Google Bard's activity settings page on desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/bard-activity-layout.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, Google Gemini will keep your chat history for 18 months before deleting it, but you can change this setting if you wish. Google lets you pick between three, 18, and 36 months, or you can opt to never delete your chat history.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Does Google Do With Your Gemini Data?
 
  In [Google's Gemini privacy notice](https://support.google.com/bard/answer/13594961?hl=en#your%5Fdata), it's stated that "Google collects your Gemini conversations, related product usage information, info about your location, and your feedback." Google directs us to its full privacy policy for more information on how this data is used.
@@ -65,9 +77,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Since then, Google has remedied the issues, and shared conversations are no longer appearing in public search results.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  What Other Kinds of Data Does Gemini Keep?
 
  Because you can only sign in to the Gemini chatbot tool using your Google account, any extra information Gemini may have access to is already accessible to Google itself. But there are specific kinds of data that Gemini uses, including your location. In Gemini's privacy notice, it is stated that Gemini uses your location to "provide you with its best answer." This vague explanation doesn't give users much insight, so what does Google's main privacy policy say?
@@ -97,8 +106,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  You can, however, use a VPN to hide your location from Google, and you can disable your location settings on Android.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Be Aware of How Google Gemini Is Storing Your Data
 
  If you use Google Gemini, it's crucial for your privacy that you know how your data is being stored and used. Keep note of the things we've uncovered above to get a full picture of what data is, and isn't, being kept by Google when you're chatting to Gemini.
@@ -109,8 +119,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +126,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-hasty-instruction-saving-your-photos-as-youtube-channel-thumbnails/"><u>[New] In 2024, Hasty Instruction Saving Your Photos as YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-learning-vrs-educational-impact/"><u>2024 Approved Next-Gen Learning VR's Educational Impact</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-groundbreaking-effects-of-smart-technology-on-global-progress/"><u>Exploring the Groundbreaking Effects of Smart Technology on Global Progress</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/handling-ac1st16dll-errors-a-detailed-guide-to-restore-dll-functionality/"><u>Handling ac1st16.dll Errors: A Detailed Guide to Restore DLL Functionality</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-to-find-a-niche-market-on-youtube/"><u>In 2024, How to Find A Niche Market on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/minecraft-alchemy-how-to-brew-unique-and-effective-potion-recipes/"><u>Minecraft Alchemy: How to Brew Unique and Effective Potion Recipes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mlining-your-edit-with-jump-cut-tips-for-2024/"><u>Streamlining Your Edit with Jump Cut Tips for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-most-adorable-disneyplus-movie-selection-for-the-whole-family-in-july-2024/"><u>The Most Adorable Disney+ Movie Selection for the Whole Family in July 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-efficient-methods-for-audio-trimming-in-apple-videos-for-2024/"><u>Updated Efficient Methods for Audio Trimming in Apple Videos for 2024</u></a></li>
+</ul></div>
 

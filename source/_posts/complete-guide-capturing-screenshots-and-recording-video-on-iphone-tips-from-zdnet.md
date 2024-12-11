@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2024-12-02T19:40:16.365Z
-updated: 2024-12-05T01:01:13.103Z
+date: 2024-12-06T16:19:35.848Z
+updated: 2024-12-11T02:02:14.938Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to screen record on any iPhone
 
 * **Materials needed:** Any iPhone running iOS 14.0 or later
@@ -36,10 +40,6 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -84,7 +84,7 @@ This is the confirmation box that will appear when you stop your recording.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. End your recording
@@ -95,15 +95,15 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
 
@@ -114,7 +114,7 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How can I share my captured video?
@@ -153,18 +153,24 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-joint-venture-campaigns-for-brands-on-video-platforms/"><u>[New] In 2024, Joint Venture Campaigns for Brands on Video Platforms</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ideal-screen-snappers-top-5-picks/"><u>[Updated] Ideal Screen Snappers Top 5 Picks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-maximized-speed-the-prime-10-choices-of-srt-upgrades-for-pcs-and-macs/"><u>2024 Approved Maximized Speed The Prime 10 Choices of SRT Upgrades for PCs & Macs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehveive-tutorial-displaying-source-codes-in-your-word-docs/"><u>A Comprehveive Tutorial: Displaying Source Codes in Your Word Docs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-6-apps-to-boost-your-childs-study-habits-insights-for-families/"><u>Essential 6 Apps to Boost Your Child's Study Habits: Insights for Families</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-easily-hook-up-your-nintendo-switch-console-to-the-television/"><u>Guide: Easily Hook Up Your Nintendo Switch Console to the Television</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-fix-addressing-and-repairing-code-perturbations-in-windows-environment/"><u>Master the Fix: Addressing and Repairing Code Perturbations in Windows Environment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mic-calibration-tips-for-windows-systems/"><u>Mic Calibration Tips for Windows Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-tricks-how-to-use-command-prompt-inside-a-specific-folder-in-windows/"><u>Quick Tricks: How to Use Command Prompt Inside a Specific Folder in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-xbox-game-download-issues-on-windows/"><u>Resolving Xbox Game Download Issues on Windows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/rock-your-facebook-profile-add-pin-play-and-manage-music-iphone-and-android-for-2024/"><u>Rock Your Facebook Profile Add, Pin, Play, & Manage Music (iPhone & Android) for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-generation-of-vr-gaming-awaits-with-psvr2-discover-news-pricing-info-release-schedule-and-hardware-specs/"><u>The Next Generation of VR Gaming Awaits with PSVR2 – Discover News, Pricing Info, Release Schedule & Hardware Specs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-bring-your-videos-to-life-best-animated-text-apps-for-mobile/"><u>Updated In 2024, Bring Your Videos to Life Best Animated Text Apps for Mobile</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unraveling-the-mystery-what-hides-in-snapchat-emoji-meanings/"><u>[New] 2024 Approved Unraveling the Mystery What Hides in Snapchat Emoji Meanings?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-futuristic-feature-unveiling-mac-via-applewatch-for-2024/"><u>[Updated] Futuristic Feature Unveiling Mac via AppleWatch for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/avoiding-lost-sequences-with-obs-fixes/"><u>Avoiding Lost Sequences with OBS Fixes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-v30-lite-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/clarification-on-gadgets-exploring-the-distinct-features-of-ipads-compared-to-traditional-tablets/"><u>Clarification on Gadgets: Exploring the Distinct Features of iPads Compared to Traditional Tablets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-electric-vehicle-charging-comparing-level-1-2-and-3-systems/"><u>Demystifying Electric Vehicle Charging - Comparing Level 1, 2 and 3 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-merging-cells-across-multiple-columns-in-microsoft-excel/"><u>Easy Steps: Merging Cells Across Multiple Columns in Microsoft Excel</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-toggle-fullscreen-virtual-keys-for-windows-11-users/"><u>Guide: Toggle Fullscreen Virtual Keys for Windows 11 Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-14-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 14 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/kernel-mode-system-instability-identifying-and-solving-heap-corruption-malfunctions/"><u>Kernel Mode System Instability: Identifying and Solving Heap Corruption Malfunctions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-from-clips-to-masterpiece-essential-video-editing-tips-for-home-movie-makers-for-2024/"><u>New From Clips to Masterpiece Essential Video Editing Tips for Home Movie Makers for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oneplus-ace-2v-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>OnePlus Ace 2V support - Forgotten screen lock.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ordering-the-how-to-train-your-dragon-films-a-comprehensive-guide/"><u>Ordering the How to Train Your Dragon Films: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/perfect-star-wars-viewing-sequence-the-official-disneyplus-order/"><u>Perfect Star Wars Viewing Sequence: The Official Disney+ Order</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-reset-failed-there-was-an-error-message-on-windows/"><u>Solving the Reset Failed: There Was an Error Message on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-for-making-secure-purchases-with-apple-watchs-built-in-apple-pay-feature/"><u>The Ultimate How-To for Making Secure Purchases with Apple Watch's Built-In Apple Pay Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-windows-code-9-printing-issues/"><u>Ultimate Guide: Resolving Windows Code 지 9 Printing Issues</u></a></li>
+<li><a href="https://win-community.techidaily.com/yl-software-tutorial-easily-modify-display-colors-on-any-device/"><u>YL Software Tutorial: Easily Modify Display Colors on Any Device</u></a></li>
 </ul></div>
 

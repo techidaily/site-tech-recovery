@@ -1,7 +1,7 @@
 ---
 title: Understanding the Confidentiality of ChatGPT Discussions
-date: 2024-08-30T16:17:17.356Z
-updated: 2024-08-31T16:17:17.356Z
+date: 2024-12-07T03:16:27.524Z
+updated: 2024-12-11T08:07:48.240Z
 tags:
   - cutting-edge
 categories:
@@ -27,22 +27,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  But what about your ChatGPT conversations?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ##  Are Your ChatGPT Conversations Recorded?
 
 ![ChatGPT discussing How-To Geek on an Apple iPhone 14 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52676804791_fcd8052a37_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Joe Fedewa / How-To Geek_
 
  In [OpenAI's Data Controls FAQ](http://help.openai.com/en/articles/7730893-data-controls-faq), it is stated that new conversations (including uploaded images) are retained for 30 days before being deleted permanently. This is the case for all ChatGPT conversations that don't arouse suspicion or concern. If OpenAI believes a user's conversations need to be monitored for safety reasons (such as suspected abusive behavior), it will do so.
@@ -56,13 +48,15 @@ _Joe Fedewa / How-To Geek_
 ![screenshot of chatgpt account data control settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/data-chatgpt-settings-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To disable training data, simply click the three horizontal dots next to your profile name, head to **Data controls**, and you'll see a toggle you can use to disable this feature.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Delete Your ChatGPT History
 
  On top of opting out of ChatGPT's training feature, you can also delete your previous conversations. However, regardless of how quickly you delete previous conversations, OpenAI will still store them for 30 days if they raise no red flags, and possibly longer if something concerning is spotted.
@@ -72,13 +66,9 @@ _Joe Fedewa / How-To Geek_
 ![screenshot of chatgpt chat history bar with chat conversation blurred](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-delete-history.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you click on whichever conversation you'd like to delete, you'll see a trash icon on the right-hand side of the chat title. Click on this, and you'll see a window pop up asking if you're sure you want to delete that specific conversation. Hit Delete, and your conversation will be removed from your profile. If there's nothing in your conversation that violates ChatGPT guidelines, OpenAI should permanently delete your conversation 30 days after it was started.
 
  If you're using ChatGPT via your smartphone browser, the process is a little different. Once you've logged in, tap on the two horizontal lines and the top-left of the page to view your chat history. Then, tap on the chat you want to delete, and you'll see three dots appear next to the chat name in your chat history list. Tap on this icon, and you'll see the option to delete the chat.
@@ -92,8 +82,9 @@ Close
  You can also [save and share your ChatGPT conversations](https://some-guidance.techidaily.com/new-the-ultimate-clock-companion-for-wedding-planners-and-couples/) if you'd like to keep them permanently or show them to someone else. We also have a guide on [what to do if ChatGPT isn't saving your conversations](https://instagram-video-files.techidaily.com/in-2024-mastering-instagram-incorporating-music-in-videos-and-stories/).
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Your ChatGPT Conversations Aren't Only Seen By You
 
  Though your ChatGPT conversations aren't used by OpenAI for monetary purposes, it's important to remember that the company can both review and use your chat history to check for abusive behavior and further train the AI model. You can't stop OpenAI from temporarily storing your data, but you can delete your chats and opt out of training.
@@ -104,8 +95,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +102,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-joining-friends-and-family-online-facebook-setup-guide/"><u>[New] In 2024, Joining Friends and Family Online (Facebook Setup Guide)</u></a></li>
+<li><a href="https://discover-data.techidaily.com/comment-reinitialiser-correctement-windows-11-sans-risquer-de-perte-de-vos-progiciels-et-donnees/"><u>Comment Réinitialiser Correctement Windows 11 Sans Risquer De Perte De Vos Progiciels Et Données</u></a></li>
+<li><a href="https://app-tips.techidaily.com/crafting-your-path-in-technology-insights-from-an-industry-giant-the-aerospace-sector-explored-by-zdnet/"><u>Crafting Your Path in Technology: Insights From an Industry Giant - The Aerospace Sector Explored by ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-infinix-smart-8-plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Infinix Smart 8 Plus to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-a-galaxy-of-stars-how-to-watch-all-star-wars-movies-in-order-on-disney-plus/"><u>Navigating Through a Galaxy of Stars: How to Watch All Star Wars Movies in Order on Disney Plus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalize-your-pc-experience-by-altering-taskbar-hues-in-windows-10/"><u>Personalize Your PC Experience by Altering Taskbar Hues in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-access-and-edit-pages-documents-on-your-windows-or-mac-computer/"><u>Steps to Access and Edit Pages Documents on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-adding-effects-in-tiktok-videos-for-2024/"><u>The Ultimate Guide to Adding Effects in TikTok Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/total-war-enthusiasts-rejoice-uncrash-your-rome-remastered-experience-here/"><u>Total War Enthusiasts Rejoice: Uncrash Your Rome Remastered Experience Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-computer-boot-up-without-visual-output/"><u>Troubleshooting Tips: Computer Boot Up Without Visual Output</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-logitech-c615-webcam-top-notch-quality-at-great-value/"><u>Ultimate Guide to Logitech C615 Webcam - Top-Notch Quality at Great Value</u></a></li>
+</ul></div>
 

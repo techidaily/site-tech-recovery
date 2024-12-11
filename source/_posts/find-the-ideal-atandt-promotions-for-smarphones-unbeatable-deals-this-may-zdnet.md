@@ -1,7 +1,7 @@
 ---
 title: Find the Ideal AT&T Promotions for Smarphones – Unbeatable Deals This May | ZDNET
-date: 2024-12-03T01:54:36.416Z
-updated: 2024-12-05T11:30:48.133Z
+date: 2024-12-05T06:34:57.045Z
+updated: 2024-12-11T07:23:48.456Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9701de1e-efd0-4d3c-8a60-b29761050e29%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
@@ -40,6 +44,10 @@ Pros
 Cons 
 * Cellular connectivity is additional cost
 * Expensive
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
 
@@ -73,10 +81,6 @@ Pros
 Cons 
 * Performance is slightly slow
 * Cameras aren't as great as other options
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Fire 7 Tablet
 
@@ -140,7 +144,7 @@ Cons
 * No warm light option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
@@ -174,14 +178,10 @@ Cons
 * Performance could be better
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab A7 Lite
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Samsung small tablet
 
@@ -194,10 +194,6 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 **Samsung Galaxy Tab A7 Lite tech specs: Display**: 8.7-inch, 1340x800 display | **Processor**: MediaTek MT8768N | **Storage**: 32GB or 64GB | **Colors**: Gray | **Cameras**: 2MP front and 8MP rear | **Weight**: 0.81lbs | **Dimensions**: 8.37 x 4.91 x 0.31 inches | **Connections**: 3.5mm headphone jack, USB-C | **Battery:** 10 to 12 hours
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best small tablet?
 
@@ -223,10 +219,6 @@ It really depends on what size tablet you're looking for, which operating system
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best small tablets:
 
 We know there are a lot of tablets and tablet sizes to choose from, but ultimately, these were the determining factors in our top picks. 
@@ -248,11 +240,19 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What brand of tablet is best?
 
@@ -268,13 +268,13 @@ Yes, they can be. Small Android tablets allow you to do everything you would nor
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,21 +322,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>[New] 2024 Approved Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-beginning-creators-guide-top-8-free-youtube-tutorials/"><u>[New] Beginning Creator's Guide Top 8 Free YouTube Tutorials</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-techniques-for-flawless-distance-audio-capture-for-2024/"><u>[New] Top Techniques for Flawless Distance Audio Capture for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-silent-voices-in-the-social-media-arena-ig-live-edition/"><u>[Updated] Silent Voices in the Social Media Arena - IG Live Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/achieve-social-proof-a-detailed-process-of-obtaining-instagram-verification/"><u>Achieve Social Proof: A Detailed Process of Obtaining Instagram Verification</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-a-successful-mukbang-video-journey-for-2024/"><u>Crafting a Successful Mukbang Video Journey for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-securing-a-verification-checkmark-on-the-site-once-called-x/"><u>Expert Strategies for Securing a Verification Checkmark on the Site Once Called X</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-10-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Spark 10 4G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-set-up-and-begin-using-your-oculus-questquest-2-a-comprehensive-guide/"><u>How to Successfully Set Up and Begin Using Your Oculus Quest/Quest 2 - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>In 2024, The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/making-the-right-choice-how-does-the-newest-ipad-pro-stack-up-against-the-latest-macbook-air/"><u>Making the Right Choice: How Does the Newest iPad Pro Stack Up Against the Latest MacBook Air?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-away-from-giant-tech-companies-like-microsoft-understanding-the-need-for-alternatives-in-government-systems/"><u>Navigating Away From Giant Tech Companies Like Microsoft: Understanding the Need for Alternatives in Government Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigating-radeon-r9-drivers-for-new-windows-11/"><u>Navigating Radeon R9 Drivers for New Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-your-apple-watch-touch-problems-understanding-why-it-may-fail-to-react/"><u>Resolving Your Apple Watch Touch Problems: Understanding Why It May Fail to React</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-when-davinci-resolve-refuses-to-start-in-windows/"><u>Troubleshooting Tips for When DaVinci Resolve Refuses to Start in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-melodies-the-creme-de-la-creme-of-seven-free-audio-streaming-apps-for-smartphones-and-tablets/"><u>Unlock Melodies: The Crème De La Crème of Seven Free Audio Streaming Apps for Smartphones and Tablets</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-capture-memorable-moments-check-out-these-top-20-snaps-filters/"><u>[New] Capture Memorable Moments Check Out These Top 20 Snaps Filters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-fade-in-and-fade-out-video-clips/"><u>[Updated] How to Fade-In and Fade-Out Video Clips</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-apple-iphone-12-pro-max-is-going-larger-a-game-changer/"><u>Comprehensive Analysis of the Apple iPhone 12 Pro Max - Is Going Larger a Game-Changer?</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/conversione-veloce-di-file-video-flv-e-mp4-in-formato-swf-gratuito-utilizzo-online-di-movavi/"><u>Conversione Veloce Di File Video FLV E MP4 in Formato SWF Gratuito - Utilizzo Online Di Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-espns-online-arena-how-does-the-networks-subscription-based-entertainment-function/"><u>Exploring ESPN's Online Arena: How Does the Network's Subscription-Based Entertainment Function?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-guide-handling-physxloaderdll-not-detected-or-missing-errors-successfully/"><u>Fix Guide: Handling 'physxloader.dll Not Detected' Or Missing Errors Successfully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-identifying-and-contacting-private-calls/"><u>Guide to Identifying and Contacting Private Calls</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-90-gt-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor 90 GT Location by Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/next-gen-android-headphones-samsungs-buds-pro/"><u>Next-Gen Android Headphones: Samsung's Buds Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-woes-be-gone-effective-solutions-for-kernel32dll-error-repair/"><u>Windows Woes Be Gone: Effective Solutions for Kernel32.dll Error Repair</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "My Reasons for Choosing the Light Phone 3: The Ultimate Minimalist Smartphone with Unique Design"
-date: 2024-08-30T16:13:02.461Z
-updated: 2024-08-31T16:13:02.461Z
+date: 2024-12-04T10:25:57.715Z
+updated: 2024-12-11T05:44:38.800Z
 tags:
   - mobile
 categories:
@@ -26,15 +26,13 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
  The Light Phone 2 was a credit-card-sized "minimalist" phone with an e-ink screen and a slew of shortcomings. Now, the Light Phone 3 appears to be solving some of those problems, and I've placed a pre-order. Despite how much I enjoy using my powerful smartphone, I'm considering making the shift.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  I Like Minimalist Phones
 
 ![Someone holding a Light Phone 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/light-phone-ii-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 Light Phone
 
  I wouldn't say that being a technology writer means I use my phone more than most people, but it does mean I probably think about my phone more often.
@@ -47,9 +45,6 @@ Light Phone
 
  I think of them like the [Playdate](https://digital-screen-recording.techidaily.com/updated-rev-voice-recorder-download-and-review/), a black-and-white game console that feels like a modern take on the Game Boy. No one argues that it's better than a Nintendo Switch, but thousands of people have bought one anyway, and they love it. There is something to be appreciated about a niche device designed with care specifically for the kind of people who are into such a thing.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  I Used the Light Phone 2 for Years
 
  I carried around a Light Phone 2 for years and loved it. In many ways, it delivered on its promise. No, buying a Light Phone doesn't magically make you less addicted to screens or turn you into an expert at all of your hobbies, but it does add friction where you might want there to be friction. Example: I watch much less YouTube when I have a Light Phone because while it's super convenient to watch a video on my phone at any time, I don't necessarily want to grab a laptop or a tablet. I'm also not going to walk down the hall staring at my laptop screen and ignoring family members the same way it's easy to do with my phone.
@@ -57,6 +52,10 @@ Light Phone
  Yet the Light Phone 2 came out in 2019\. There were choices made with the technology available at the time that made the phone a harder sell today. I ultimately stopped using mine primarily for this reason. Plus, there were a few design decisions that added just a tad more friction than I wanted.
 
  When I read the [Light Phone 3 announcement](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/), nearly every single issue I had appears to be solved (though until I get the actual hardware, I can't say for sure).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What I'm Looking Forward to in the Light Phone 3
 
@@ -67,15 +66,17 @@ Light Phone
  The Light Phone 3 announcement says the phone will come with a USB-C port, 5G, and stronger radios. If Light re-released the Light Phone 2 with just these changes alone, I'd have been tempted to get one.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Sometimes, a Camera Is Necessary
 
 ![Light Phone 3 in a pocket.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-in-a-pocket.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Light Phone
 
  The Light Phone 2 doesn't have a camera. I was intrigued by this as a bit of a social experiment. What would it mean to go back to no longer carrying a camera on me at all times?
@@ -88,13 +89,14 @@ Light Phone
 
  These cameras don't merely come with a smartphone-style app. Instead, the Light Phone 3 has a wheel on the side that serves as a clickable shutter button. It aims to provide tactile feedback when you're taking pictures, making the phone feel like both a feature phone and a point-and-shoot camera. As someone who bought a point-and-shoot to carry around with my Light Phone 2, this is a change I'm here for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  A Phone Built to Last
 
 ![Light Phone 3 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-on-a-table.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Light Phone
 
  The Light Phone 2 appeals to a lot of people looking to shrink their digital footprint, and part of that means the e-waste they generate. Unfortunately, while Light has supported the software on their phone for half a decade, the phone isn't easily repaired. It has a non-removable battery, and there is no easy way to get at the screen.
@@ -113,8 +115,6 @@ Light Phone
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +122,20 @@ Light Phone
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-supercharge-your-tweet-views-for-flawless-hd/"><u>[Updated] 2024 Approved Supercharge Your Tweet Views for Flawless HD</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g-stylus-2023-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G Stylus (2023) Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/adjusting-your-kindle-paperwhite-display-a-step-by-step-guide/"><u>Adjusting Your Kindle Paperwhite Display: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-prime-video-the-ultimate-list-of-family-friendly-films-july-2024-edition/"><u>Amazon Prime Video: The Ultimate List of Family-Friendly Films (July 2024 Edition)</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-15-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 15 Pro Max/iPad? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-strategies-safeguarding-your-files-with-these-5-reliable-techniques/"><u>Essential Strategies: Safeguarding Your Files with These 5 Reliable Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-prospects-of-owning-various-channels-on-youtube/"><u>Exploring the Prospects of Owning Various Channels on YouTube.</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-k70-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi K70 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introduction-to-the-german-phonetic-system/"><u>Introduction to The German Phonetic System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-for-resolving-error-code-0x80070570-in-windows-systems/"><u>Step-by-Step Guide for Resolving Error Code 0X80070570 in Windows Systems</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-waht-is-ai-pixel-art-generator/"><u>Updated 2024 Approved Waht Is AI Pixel Art Generator?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-navigating-through-the-top-9-ai-voice-replicators-designed-to-enhance-your-everyday-for-2024/"><u>Updated Navigating Through the Top 9 AI Voice Replicators Designed to Enhance Your Everyday for 2024</u></a></li>
+</ul></div>
 

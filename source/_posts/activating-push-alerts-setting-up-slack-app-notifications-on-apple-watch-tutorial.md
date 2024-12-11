@@ -1,7 +1,7 @@
 ---
 title: "Activating Push Alerts: Setting Up Slack App Notifications on Apple Watch - Tutorial"
-date: 2024-11-29T12:09:17.571Z
-updated: 2024-12-05T02:58:37.260Z
+date: 2024-12-09T04:09:54.369Z
+updated: 2024-12-10T16:34:39.179Z
 tags:
   - apple
 categories:
@@ -44,19 +44,23 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -75,10 +79,6 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -99,7 +99,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -122,16 +122,12 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -139,6 +135,10 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,20 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/5-crucial-factors-you-shouldnt-ignore-when-building-or-buying-a-new-gaming-pc/"><u>5 Crucial Factors You Shouldn't Ignore When Building or Buying a New Gaming PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-x7b-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor X7b</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/do-you-actually-receive-true-dolby-atmos-surround-sound-in-your-home-theater/"><u>Do You Actually Receive True Dolby Atmos Surround Sound in Your Home Theater?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-file-management-in-windows-guide-max-156/"><u>Efficient File Management in Windows Guide (Max 156)</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-mozillas-freezing-problems-your-go-to-fixes-for-a-seamless-experience/"><u>Eliminate Mozilla's Freezing Problems: Your Go-To Fixes for a Seamless Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-the-missing-or-inaccessible-mfc71dll-error-a-comprehensive-guide/"><u>Fixing the Missing or Inaccessible mfc71.dll Error – A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-infinix-hot-40i-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Infinix Hot 40i Devices | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-for-hp-laserjet-m452dn-drivers-update-and-compatibility-tips/"><u>Free Download for HP LaserJet M452dn Drivers - Update and Compatibility Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-mute-mystery-solved-how-to-get-speakers-working-again-on-windows-n-11-systems/"><u>HP Laptop Mute Mystery Solved: How to Get Speakers Working Again on Windows N 11 Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-itel-s23plus-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Itel S23+ Pattern Lock Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-z-fold-7-unveiled-exploring-costs-launch-timeline-features-and-updates/"><u>Samsung Galaxy Z Fold 7 Unveiled: Exploring Costs, Launch Timeline, Features & Updates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-7-amazing-apps-for-seamless-notetaking-on-ipads-and-ipad-pro/"><u>The Ultimate Guide to 7 Amazing Apps for Seamless Notetaking on iPads & iPad Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-aol-mail-understanding-downtime-or-user-issues/"><u>Troubleshooting AOL Mail: Understanding Downtime or User Issues?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-the-folder-properties-dialog-box-a-comprehensive-guide/"><u>Understanding the Folder Properties Dialog Box: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-every-moment-unveiling-5-exceptional-streamer-webcams/"><u>[New] Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevating-vlogging-to-new-heights-yi-hero-reviewed/"><u>[New] In 2024, Elevating Vlogging to New Heights Yi Hero Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-establishing-a-mac-based-sports-media-outlet-for-2024/"><u>[Updated] Establishing a Mac-Based Sports Media Outlet for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-stepping-up-advanced-techniques-for-w11-gamers/"><u>[Updated] In 2024, Stepping Up Advanced Techniques for W11 Gamers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-photo-cartoony-kick-cross-platform-windows-and-mac-software/"><u>[Updated] Photo Cartoony Kick Cross-Platform Windows & Mac Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-essentials-of-sims-4-gameplay-recording/"><u>2024 Approved The Essentials of Sims 4 Gameplay Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-translate-speech-to-text-the-right-way-with-google-translate/"><u>2024 Approved Translate Speech to Text the Right Way with Google Translate</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722891449573-all-about-the-next-big-thing-the-samsung-galaxy-z-fold-6-price-guide-and-specs-inside/"><u>All About the Next Big Thing: The Samsung Galaxy Z Fold 6 - Price Guide and Specs Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-analysis-top-pick-on-recuvas-file-restoration-capabilities/"><u>Comprehensive Analysis: Top Pick on Recuva's File Restoration Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-every-nook-of-polarrs-editing-capabilities/"><u>Discovering Every Nook of Polarr's Editing Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-hp-officejet-pro-6970-printer-drivers-for-windows-latest-version/"><u>Download HP OfficeJet Pro 6970 Printer Drivers for Windows - Latest Version</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-everything-you-need-to-know-the-ultimate-guide-to-netflix/"><u>Exploring Everything You Need To Know: The Ultimate Guide to Netflix</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-perfect-photo-placement-on-windows-machines/"><u>In 2024, Perfect Photo Placement on Windows Machines</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-windows-with-wintoys-your-quick-reference-manual/"><u>Simplifying Windows With WinToys: Your Quick Reference Manual</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stream-fandangos-movie-selection-from-the-comfort-of-home-on-apple-tv/"><u>Stream Fandango's Movie Selection From the Comfort of Home on Apple TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-quintessential-selection-top-five-complimentary-cybersecurity-defenders-against-malware/"><u>The Quintessential Selection: Top Five Complimentary Cybersecurity Defenders Against Malware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-503-service-temporarily-unavailable-response-and-solutions/"><u>Understanding the 503 Service Temporarily Unavailable Response & Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-web-development-top-8-complimentary-html-editors-tailored-for-windows-users/"><u>Unlock the Power of Web Development: Top 8 Complimentary HTML Editors Tailored for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/vlc-for-apple-tv-a-comprehensive-guide-to-access-unlimited-content/"><u>VLC for Apple TV: A Comprehensive Guide to Access Unlimited Content.</u></a></li>
 </ul></div>
 

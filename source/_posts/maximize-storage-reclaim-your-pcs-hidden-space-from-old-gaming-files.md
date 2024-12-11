@@ -1,7 +1,7 @@
 ---
 title: "Maximize Storage: Reclaim Your PC’s Hidden Space From Old Gaming Files"
-date: 2024-08-30T16:13:44.094Z
-updated: 2024-08-31T16:13:44.094Z
+date: 2024-12-08T17:36:22.317Z
+updated: 2024-12-11T11:00:59.241Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 ---
 
 ## Maximize Storage: Reclaim Your PC’s Hidden Space From Old Gaming Files
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,17 +30,15 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
  Removing the files ahead of time not only circumvents the risk of these conflicts occurring, but it is also just a healthy practice to do a full fresh installation if you choose to reinstall the game again. On top of that, it can also make modding a little less of a hassle down the line, since it is often recommended to only mod games you have freshly installed with no extra files.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Remove Files from Uninstalled Steam Games
 
  If you're a Steam user (and if you play on PC there's a good chance you are), locating your games' additional files is as simple as finding the game in your Steam library and right-clicking it. On the Steam PC app, navigate to the "Library" tab at the top of the screen and find your desired game from the tab on the left side.
 
 ![Select "Library" at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/1-steam-library.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, right-click the game's title, hover your cursor over the "Manage" tab and then click "Browse Local Files," which will open your PC's file explorer app to the location of the game's extra files. From here, you can safely delete them all. Steam stores your save data elsewhere and the game assets would be replaced should you choose to install the game again, so there is no need to worry about losing progress.
 
 ![The "Browse Local Files" option in the Steam Library tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/localfiles.png) 
@@ -54,24 +56,23 @@ Close
  In general, save data is secured either on an external account or outside of the main file directory for games, so you usually don't need to worry about deleting your progress by accident. However, it may still be a good idea to check the files before deleting them to make sure there is nothing you would want to lose like screenshots, captures, or other data.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Don't Forget About the Mods
 
  If you've installed mods for the game you're trying to clean up after, it might be a good idea to clean those up too, since they sometimes take up even more space than the game's base files. The process of doing this will differ depending on how you installed them, though, since mod managers have their own directories in some cases.
 
 ![A screenshot showing which option to choose to delete an individual mod in Vortex Mod Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/vortex_article-6.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you use a mod manager, you more than likely already know how to enable and disable mods, and removing them is as simple as selecting them and choosing that option from the manager's menus. If you want to remove them manually, though, they are often found in the game's main directory, and you can replace them later if you want to.
 
  This is perhaps even more important than simply removing the game files. Mods are already external add-ons that can cause conflicts even when first installing them, so removing them after uninstalling a game is usually a good idea. That way, if you do plan to play it again at some point in the future and decide to mod it, again you don't have to worry about your old mods introducing compatibility problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Make Sure to Empty the Trash
 
  This might seem obvious to most, but you also want to make sure the files are actually removed from your PC and not just the folders from which they came. Sometimes you can delete them outright from within the file explorer, but much of the time you'll need to open your "Recycle Bin" and manually remove them permanently.
@@ -81,8 +82,9 @@ Close
 ![The "Empty Recycle Bin" option on the Windows Recycle Bin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/recyclebin.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're still concerned with your PC's storage after removing your extra files, see about [how you can use your old internal hard drive](https://on-screen-recording.techidaily.com/in-2024-record-review-repeat-unveiling-top-5-browser-screen-recorders/)or consider looking into [cloud storage options](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/) for your personal files or photos.. If you're removing files to make way for a fresh install to mod your games, check out how you can[improve your game's graphical fidelity and framerate](https://instagram-video-recordings.techidaily.com/new-turning-tape-backwards-instagrams-video-trickery/) with mods.
 
 <ins class="adsbygoogle"
@@ -91,8 +93,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +100,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-troubleshooting-mute-reviving-sound-in-obs-recordings/"><u>[Updated] 2024 Approved Troubleshooting Mute Reviving Sound in OBS Recordings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cyber-sleuthing-101-how-to-ethically-find-someones-phone-number-on-the-internet/"><u>Cyber Sleuthing 101: How to Ethically Find Someone's Phone Number on the Internet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dragon-ball-timeline-mastery-viewing-order-explained-for-epic-battles-and-adventures/"><u>Dragon Ball Timeline Mastery: Viewing Order Explained for Epic Battles and Adventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-how-to-take-photos-and-record-gameplay-on-sony-playstation/"><u>Expert Tips: How to Take Photos and Record Gameplay on Sony PlayStation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/have-they-read-my-message-understanding-read-receipts-across-different-platforms/"><u>Have They Read My Message?: Understanding Read Receipts Across Different Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-msvcr100dll-not-found-or-missing-errors/"><u>How to Fix Msvcr100.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-gionee-f3-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Gionee F3 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-streamlining-your-creative-process-with-effective-instagram-video-editing-tips/"><u>In 2024, Streamlining Your Creative Process with Effective Instagram Video Editing Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instantaneously-deploying-smart-agents-online-via-agentgpt/"><u>Instantaneously Deploying Smart Agents Online via AgentGPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/join-the-battle-a-comprehensive-guide-on-how-to-excel-in-pokemon-unite/"><u>Join the Battle - A Comprehensive Guide on How to Excel in Pokémon Unite</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-apple-pages-how-to-effortlessly-open-pages-docs-on-your-personal-computer/"><u>Navigating Through Apple Pages: How to Effortlessly Open Pages Docs on Your Personal Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oppo-a18-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Oppo A18</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/review-of-the-logitech-casamania-pop-up-workstation-impressive-keys-and-pads-compromising-case-quality/"><u>Review of the Logitech Casamania Pop-Up Workstation: Impressive Keys and Pads, Compromising Case Quality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-walkthrough-for-tweaking-font-settings-on-windows-11/"><u>The Definitive Walkthrough for Tweaking Font Settings on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-13-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 13 Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>
 

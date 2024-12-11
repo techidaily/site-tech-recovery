@@ -1,7 +1,7 @@
 ---
 title: Unlock New Possibilities in Windows via the Sudo Feature - An In-Depth Exploration & Tutorial
-date: 2024-08-30T16:14:56.067Z
-updated: 2024-08-31T16:14:56.067Z
+date: 2024-12-06T17:08:50.866Z
+updated: 2024-12-10T18:43:25.426Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Unlock New Possibilities in Windows via the Sudo Feature - An In-Depth Exploration & Tutorial
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * sudo is a widely used Linux command, and is now available in Windows 11.
@@ -19,15 +23,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The _sudo_ command is revered by Linux users. It lets you run a command as another user, usually an Administrator (or _root_ user, in Linux parlance), so as you can imagine, it's used almost constantly by developers, tech support agents, and system administrators. And now, you can use it in Windows!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Is sudo So Revered?
 
  The sudo command speeds up administrative tasks by letting you run tasks without having to start a new session as a different user. It's a real time-saver, and it is good for security as it means you don't have to share administrative credentials. It's so widely used in day-to-day Linux operations it's pretty much a [geek meme](https://xkcd.com/149/) at this point.
 
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Does sudo Bring to Windows
 
  Functionality wise, sudo doesn't bring a whole lot to Windows that wasn't possible already. Most of the excitement is about the _cachet_ it brings Windows users. Geeks love sudo, [a](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/ "https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/")[nd now Windows users are part of the club](http://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/).
@@ -39,9 +44,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Ensure that Windows UAC prompts are displayed when privilege escalation occurs
 * Spend less time writing [runas](https://twitter-videos.techidaily.com/updated-2024-approved-making-youtube-based-twitter-videos-hearable/) commands
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Enable sudo in Windows 11
 
  At the moment, sudo is only available to Windows users running [an Insider Preview of Windows 11](https://tiktok-clips.techidaily.com/2024-approved-deciphering-tiktoks-pfp-code-a-thorough-analysis/). If you want to use sudo today, you'll need to [enroll in the Windows Insider Program](https://program-issues.techidaily.com/boosting-horizon-zero-dawns-speed-tips-for-higher-fps-and-superior-play-experience/), otherwise you'll need to wait until the feature trickles out in an update.
@@ -53,20 +55,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Microsoft
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Configure sudo in Windows
 
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use the Sudo Command in Windows
 
  To use the sudo command to run a command as an administrator, simply type **sudo** before the command. That's it.
@@ -85,8 +90,6 @@ sudo netstat -ab
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +97,24 @@ sudo netstat -ab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-quick-and-reliable-tiktok-to-mp4-file-transfer-software/"><u>[New] 2024 Approved Quick and Reliable TikTok to MP4 File Transfer Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-dive-into-digital-domination-tips-to-triumph-at-facebooks-top-10/"><u>[Updated] Dive Into Digital Domination Tips to Triumph at Facebook's Top 10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-decoding-facebooks-algorithm-the-way-to-access-vids/"><u>[Updated] In 2024, Decoding Facebook's Algorithm The Way to Access Vids</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-cutting-edge-content-tips-for-excelling-in-facebook-video-sharing/"><u>2024 Approved Cutting-Edge Content Tips for Excelling in Facebook Video Sharing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>2024 Approved Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-downloading-no-cost-windows-11-interface-customizations/"><u>A Comprehensive Guide to Downloading No-Cost Windows 11 Interface Customizations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/car-radio-suddenly-stopped-working/"><u>Car Radio Suddenly Stopped Working</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/compatible-epson-et-2750-printer-software-for-windows-operating-systems-download-now/"><u>Compatible Epson ET- 2750 Printer Software for Windows Operating Systems - Download Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-greatest-12-locations-to-enjoy-free-cinema-online/"><u>Discover the Greatest 12 Locations to Enjoy Free Cinema Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-retrieve-your-funds-after-unwanted-steam-purchase/"><u>Effective Ways to Retrieve Your Funds After Unwanted Steam Purchase</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c02-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nokia C02 Phone without Google Account?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-libxml2dll-is-missing-fix-guide/"><u>Resolving 'Libxml2.dll Is Missing' - Fix Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-your-email-a-beginners-tutorial-on-setting-up-google-two-factor-auth/"><u>Securing Your Email: A Beginner's Tutorial on Setting Up Google Two-Factor Auth</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-choosing-your-perfect-7-port-usb-3er-insights-from-the-amazonbasics-hub-evaluation/"><u>The Ultimate Guide to Choosing Your Perfect 7-Port USB 3.er: Insights From the AmazonBasics Hub Evaluation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-lenovo-thinkphone-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Lenovo ThinkPhone Location | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-restoring-missing-haldll-files-in-windows-xp/"><u>Troubleshooting Techniques for Restoring Missing Hal.dll Files in Windows XP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-most-durable-watertight-smartphone-covers/"><u>Ultimate Guide to the Most Durable Watertight Smartphone Covers</u></a></li>
+</ul></div>
 

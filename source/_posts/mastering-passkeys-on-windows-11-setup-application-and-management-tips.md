@@ -1,7 +1,7 @@
 ---
 title: "Mastering Passkeys on Windows 11: Setup, Application, & Management Tips"
-date: 2024-08-30T16:14:26.431Z
-updated: 2024-08-31T16:14:26.431Z
+date: 2024-12-09T11:33:42.446Z
+updated: 2024-12-10T20:40:04.765Z
 tags:
   - desktop
 categories:
@@ -50,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  You can [find a list of passkey-supported platforms on the Passkeys site](https://www.passkeys.io/who-supports-passkeys).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Create and Save a Passkey to Your Windows 11 PC
 
  To generate and save a passkey, you'll first visit your favorite website or app’s account settings. From there, you’ll create the key and then save it to your PC. In this guide, we’ll demonstrate how to do that with a Google account.
@@ -64,31 +61,27 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 !['Security' and 'Passkeys and Security Keys' highlighted on Google My Account site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-google-passkey-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Google will likely prompt you to enter your account password. Do so and continue.
 
  When the following page opens, at the top, click "Create a Passkey."
 
 !['Create a Passkey' highlighted on Google My Account site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-google-create-passkey.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  You’ll see a "Windows Security" prompt. Authenticate yourself using your PIN, facial recognition, or fingerprint scanning.
 
 ![A 'Windows Security' prompt for creating a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/3-windows-11-passkey-authentication1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  You’ll see a "Passkey Saved" message confirming a passkey for your Google account was created and saved to your PC. Close the window by selecting "OK."
 
 !['OK' highlighted in the 'Windows Security' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/4-google-passkey-created1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And that’s it. You’ve successfully created a replacement for your Google account password.
 
 ##  How to Use a Passkey to Sign In to a Site or App
@@ -107,22 +100,35 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 !['Try Another Way' highlighted on Google's password page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/7-choose-another-way1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select "Use Your Passkey" to utilize the saved passkey to log in to your account.
 
 !['Use Your Passkey' highlighted on Google's alternate password options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/8-google-use-passkey1-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Continue" and Google will trigger the "Windows Security" prompt.
 
 !['Continue' highlighted on Google's passkey usage page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/9-google-continue-passkey1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  In the "Windows Security" prompt, select the PIN, facial recognition, or fingerprint scanning authentication method.
 
 ![A 'Windows Security' prompt for signing in to Google with a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/10-verify-identity1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve authenticated yourself, you’ll be signed in to your account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to View and Delete Passkeys on Windows 11
 
@@ -132,9 +138,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 !['Accounts' and 'Passkey Settings' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-windows-11-passkey-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  On the "Passkeys" page, you’ll find a list of saved passkeys. To retrieve a specific passkey, use the search box at the top.
 
 ![The search box and the saved passkeys highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-view-search-saved-passkeys-windows-11.jpg) 
@@ -143,17 +146,14 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 !['Delete Passkey' highlighted for a passkey in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-delete-passkey-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  In the open prompt, confirm your action by selecting "Delete."
 
 !['Delete' highlighted in the passkey removal prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14-passkey-deletion-prompt-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows 11 has removed the chosen passkey from the database. You can’t log in to that site or app using your PC’s authentication method any more (but you can always re-create any required passkeys).
 
 ---
@@ -166,8 +166,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +173,23 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-live-subscriber-count-meters/"><u>[Updated] Live Subscriber Count Meters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mobile-filming-tools-for-tourists/"><u>[Updated] Mobile Filming Tools for Tourists</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-snapedit-a-beginners-guide-to-photo-mastery-for-2024/"><u>[Updated] Snapedit A Beginner's Guide to Photo Mastery for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-leading-10-competitors-to-zoom-for-pc-and-phone/"><u>[Updated] The Leading 10 Competitors to Zoom for PC & Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-review-of-snappydriver-installer-version-113-pros-cons-and-features/"><u>Comprehensive Review of SnappyDriver Installer Version 1.13: Pros, Cons & Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficient-online-konvertor-hoe-je-flac-strips-vanaf-naar-mp3s-voort-te-zetten/"><u>Efficiënt Online Konvertor: Hoe Je FLAC-Strips Vanaf Naar MP3's Voort Te Zetten</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-and-tricks-to-get-your-instagram-stories-uploaded/"><u>Expert Tips and Tricks to Get Your Instagram Stories Uploaded</u></a></li>
+<li><a href="https://win-lab.techidaily.com/guia-eficiente-de-202-compartilhando-conhecimento-como-realizar-backup-do-seu-hd-com-uma-midia-usb-inicializavel/"><u>Guia Eficiente De 202# Compartilhando Conhecimento | Como Realizar Backup Do Seu HD Com Uma Mídia USB Inicializável</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-become-a-master-at-crafting-engaging-podcast-content-techniques-and-samples/"><u>In 2024, Become a Master at Crafting Engaging Podcast Content (Techniques & Samples)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-location-tracking-on-iphone-with-our-favorite-5-gps-apps/"><u>Mastering Location Tracking on iPhone with Our Favorite 5 GPS Apps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-your-companion-guide-top-10-audio-transcription-software-for-all-budgets/"><u>New 2024 Approved Your Companion Guide Top 10 Audio-Transcription Software For All Budgets</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uplets-of-quality-youtubes-channels-for-2024/"><u>Quintuplets of Quality YouTube's Channels for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolve-paramount-plus-playback-problems-on-firestick-expert-tips-and-tricks/"><u>Resolve Paramount Plus Playback Problems on Firestick - Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-what-to-expect-from-the-new-samsung-galaxy-s25-ultras-price-release-details-and-innovative-features/"><u>Sneak Peek: What to Expect From the New Samsung Galaxy S25 Ultra's Price, Release Details & Innovative Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-lowdown-on-samsung-galaxy-watch-7-anticipated-cost-and-features-pre-release/"><u>The Lowdown on Samsung Galaxy Watch 7 - Anticipated Cost & Features Pre-Release</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-non-root-required-clicking-automation-apps-on-android-devices/"><u>Top 5 Non-Root Required Clicking Automation Apps on Android Devices</u></a></li>
+</ul></div>
 

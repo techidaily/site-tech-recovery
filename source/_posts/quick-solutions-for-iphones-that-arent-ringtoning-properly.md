@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for iPhones That Aren't Ringtoning Properly
-date: 2024-08-26T08:27:44.098Z
-updated: 2024-08-27T08:27:44.098Z
+date: 2024-12-06T17:17:31.402Z
+updated: 2024-12-10T21:32:41.515Z
 categories:
   - BestProducts
 description: This Article Describes Quick Solutions for iPhones That Aren't Ringtoning Properly
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/hqlj-lmr0VgLfPq8N_0JWQnEnBg=/400x300/fi
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -33,6 +37,11 @@ thumbnail: https://www.lifewire.com/thmb/hqlj-lmr0VgLfPq8N_0JWQnEnBg=/400x300/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
@@ -43,7 +52,16 @@ thumbnail: https://www.lifewire.com/thmb/hqlj-lmr0VgLfPq8N_0JWQnEnBg=/400x300/fi
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
@@ -52,14 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/hqlj-lmr0VgLfPq8N_0JWQnEnBg=/400x300/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -99,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +119,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/lite-group-16-youtube-entries-boosting-views-for-2024/"><u>[New] Elite Group 16 YouTube Entries Boosting Views for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-comprehensive-analysis-of-how-to-speed-up-audio-files-on-spotify-safely/"><u>[New] In 2024, A Comprehensive Analysis of How to Speed Up Audio Files on Spotify Safely</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-cash-flow-estimator-apps-for-2024/"><u>[Updated] Free Cash Flow Estimator Apps for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-enhance-privacy-and-speed-the-best-7-android-adblocks/"><u>[Updated] In 2024, Enhance Privacy & Speed The Best 7 Android AdBlocks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-secrets-of-filmo/"><u>[Updated] Secrets of Filmo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-sync-a-users-manual-for-lg-smart-tv-screen-casting/"><u>Effortless Sync: A User's Manual for LG Smart TV Screen Casting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-connecting-wireless-airpods-with-a-nintendo-switch/"><u>Guide to Connecting Wireless AirPods with a Nintendo Switch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/home-viewing-a-guide-to-watching-3d-films-through-fandango/"><u>Home Viewing: A Guide to Watching 3D Films Through Fandango</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-top-10-igtv-channels-you-should-start-following-now/"><u>In 2024, Top 10 IGTV Channels You Should Start Following Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-online-privacy-flush-out-browser-caches-in-major-platforms-effortlessly/"><u>Master the Art of Online Privacy: Flush Out Browser Caches in Major Platforms Effortlessly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/overlooked-wonders-latest-free-macspeech-software-for-2024/"><u>Overlooked Wonders Latest Free macSpeech Software for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-non-functional-xbox-series-x-or-s-earphones/"><u>Step-by-Step Fix for Non-Functional Xbox Series X or S Earphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-creating-a-unified-music-experience-with-spotifys-playlist-feature/"><u>Step-by-Step Tutorial: Creating a Unified Music Experience with Spotify's Playlist Feature</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-find-x6-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo Find X6 Pro Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-15-free-window-11-theme-packs-upgrade-your-desktop/"><u>Top 15 Free Window 11 Theme Packs: Upgrade Your Desktop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-leading-autonomous-automaker-brands/"><u>Top Picks: Leading Autonomous Automaker Brands</u></a></li>
+</ul></div>
 

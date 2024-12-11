@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking macOS Software : A Comprehensive Review by ZDNet"
-date: 2024-11-29T17:34:45.846Z
-updated: 2024-12-04T22:26:24.198Z
+date: 2024-12-10T08:15:24.468Z
+updated: 2024-12-11T04:37:45.204Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ At ZDNET, we've tested all of the best smartwatches on the market, testing their
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What is the best smartwatch right now?
@@ -78,6 +78,10 @@ Cons
 
 ## Apple Watch Series 9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best smartwatch for iPhone users
 
 Released in 2023, the Series 9 model builds upon the Apple Watch legacy. Similar to the [Ultra 2,](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-ultra-2/) the Series 9 supports a [double tap gesture](https://www.zdnet.com/article/apple-watch-series-9s-double-tap-takes-a-popular-accessibility-feature-to-the-next-level/) that allows you to control your phone by simply tapping your index finger and thumb together. With this feature, you can do everything from answering calls, snoozing your morning alarm, playing or pausing media, ending timers, and more.
@@ -108,15 +112,7 @@ Pros
 Cons 
 * Not built for rugged adventures
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Google Pixel Watch 3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Google smartwatch
 
@@ -149,7 +145,7 @@ Cons
 * Blood pressure certification taking much longer than advertised
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Watch Ultra
@@ -249,6 +245,10 @@ Pros
 Cons 
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Garmin Venu 3S
 
 ### Best Garmin smartwatch alternative
@@ -311,6 +311,10 @@ Cons
 * Some advanced metric require a subscription
 * Limited third-party support
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Withings ScanWatch 2
 
 ### Best hybrid smartwatch
@@ -345,10 +349,6 @@ If you're an Android user, you may prefer a Samsung Galaxy Watch Ultra -- the ne
 | Amazfit Balance            | $220      | 14 days          | 46mm                  |
 | Withings ScanWatch 2       | $350      | 30 days          | 38 and 42mm           |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which is the right smartwatch for you?
 
 If you're in the Apple ecosystem, we highly recommend the Apple Watch Ultra, Apple Watch SE, or Apple Watch Series 9 due to the easy connectivity and convenience of features like Apple Pay and Apple Music.
@@ -380,10 +380,6 @@ Smartwatches serve as companions to our smartphones, and there are several thing
 * **Battery life:** Expect your smartwatch to last a full day and night, so you can track your sleep and then charge it while you get ready for work. A few new smartwatches are now easily lasting 48 hours between charging, with some pushing that another day or two so we are seeing improvements in battery life.
 * **Cellular connectivity:** While smartwatches serve as companions to our smartphones, some models support cellular connectivity. If you buy one of these then you will need a watch line with your carrier, but these are typically $10 per month. The Apple Watch Ultra 2 and Samsung Galaxy Watch Ultra include LTE support by default, but you are not required to enable cellular service. Cellular capability is great for those who want to leave their phones behind and still remain connected for communications, application usage, and safety.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test smartwatches
 
 All of the smartwatches included in this list were chosen based on how they performed when [tested in the real world](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/) by the ZDNET team. When we test smartwatches, we typically follow the same routine for each one to see which performs best.
@@ -395,11 +391,11 @@ All of the smartwatches included in this list were chosen based on how they perf
 
 For a deeper look into our testing process, check out our comprehensive [smartwatch testing methodology](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/).
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ## Are there any smartwatches I should avoid?
 
@@ -423,6 +419,10 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 
 Garmin, Amazfit, and Withings watches work flawlessly with both Android and iPhone devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I text from a smartwatch?
 
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
@@ -430,7 +430,7 @@ You absolutely can! However, most of their screens are too small to type on, so 
 Garmin watches support quick-response text messaging via a connected Android smartphone. Apple restricts third-party text messaging on the iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you use a cellular Apple Watch as a standalone device?
@@ -438,10 +438,6 @@ Garmin watches support quick-response text messaging via a connected Android sma
 While you can leave your iPhone at home while you run, go to the store, or stroll on the beach, you must have an iPhone turned on and connected to the internet at this other location. This is one reason why connecting to an iPhone and switching to an Android makes the Apple Watch useless with an Android phone.
 
 After initial setup, a cellular-enabled Samsung Galaxy Watch or Google Pixel Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 7, Watch Ultra, or Pixel Watch 3 running Wear OS, many more apps can be used on the go, so you can leave the phone behind in most cases.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
 
@@ -477,6 +473,10 @@ There are a [few models out there](https://www.healthline.com/health/best-blood-
 
 Samsung provides blood pressure monitoring via its Galaxy Watch models in countries outside the US, with rumors that Apple may launch watches supporting this functionality in 2024.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I choose a smartwatch based on compatibility?
 
 Eric Potter, USA weightlifting Level 1 Coach and Performance Coach at [Future](https://www.future.co/) Fitness, encourages people to choose a smartwatch based on compatibility, recommending an Apple Watch for iPhone users and a Samsung Galaxy Watch for Android fans. He notes that both smartwatches can track steps, heart rate, and exercise, but there are also crucial differences.
@@ -484,7 +484,7 @@ Eric Potter, USA weightlifting Level 1 Coach and Performance Coach at [Future](h
 "The Apple Watch has a larger interface allowing for easier viewing," he said. "On the other hand, the Samsung Galaxy Watch is cheaper than the Apple Watch, and the battery life tends to last longer."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative smartwatches worth considering?
@@ -543,24 +543,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-instant-images-guide-easy-recording-tips-dell/"><u>[New] In 2024, Instant Images Guide Easy Recording Tips (Dell)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-filters-applying-them-to-old-memories/"><u>[New] Mastering Instagram Filters Applying Them to Old Memories</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-video-on-google-hangouts-for-2024/"><u>[Updated] How to Record Video on Google Hangouts for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-navigate-the-excellent-world-of-top-vr-cycling-for-2024/"><u>[Updated] Navigate the Excellent World of Top VR Cycling for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/does-the-current-pontiff-pope-francis-utilize-electronic-mail-services/"><u>Does the Current Pontiff, Pope Francis, Utilize Electronic Mail Services?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminate-your-missing-d3dx927dll-error-with-these-simple-fixes/"><u>Eliminate Your Missing d3dx9_27.dll Error with These Simple Fixes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/enhance-your-listeners-experience-with-great-summaries-for-2024/"><u>Enhance Your Listeners' Experience with Great Summaries for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/erneuern-sie-ihren-leeren-papierkorb-mit-diesen-einfachen-tipps-komplette-restaurierungsanleitung-von-myrecoveryexperts/"><u>Erneuern Sie Ihren Leeren Papierkorb Mit Diesen Einfachen Tipps! Komplette Restaurierungsanleitung Von MyRecoveryExperts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-text-to-visuals-the-dynamic-duo-of-gpt-4-and-dall-e/"><u>From Text to Visuals: The Dynamic Duo of GPT-4 & DALL-E</u></a></li>
-<li><a href="https://driver-download.techidaily.com/generic-bluetooth-adapter-driver-latest-download-for-windows/"><u>Generic Bluetooth Adapter Driver | Latest Download | For Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-solve-the-msxml4dll-not-found-or-absent-issue/"><u>How to Address and Solve The Msxml4.dll Not Found or Absent Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/immerse-yourself-in-3d-entertainment-the-complete-guide-to-streaming-with-fandango-from-home/"><u>Immerse Yourself in 3D Entertainment: The Complete Guide to Streaming with Fandango From Home</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/making-magical-movies-on-a-budget-with-chatgpt-assisted-scripts/"><u>Making Magical Movies on a Budget with ChatGPT-Assisted Scripts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-your-time-with-these-5-essential-productive-practices-on-facebook/"><u>Maximize Your Time with These 5 Essential Productive Practices on Facebook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-zoom-from-novice-to-expert-configurator/"><u>Navigating Zoom From Novice to Expert Configurator</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-missing-osetupdll-error-a-step-by-step-guide/"><u>Resolving 'Missing Osetup.dll' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-tv-presentation-from-anywhere-a-step-by-step-tutorial-for-windows-and-chromecast-users/"><u>Seamless TV Presentation From Anywhere - A Step-by-Step Tutorial for Windows and Chromecast Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-fixing-the-missing-x3daudiodll-error-on-your-pc/"><u>Understanding and Fixing the Missing x3daudio.dll Error on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-do-when-theres-no-sound-from-your-chromecast-heres-help/"><u>What to Do When There's No Sound From Your Chromecast? Here's Help!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-effortless-facebook-video-extras-the-best-fire-browser-plugins-of-2023/"><u>[New] 2024 Approved Effortless Facebook Video Extras The Best Fire-Browser Plugins of 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guaranteed-method-to-keep-youtube-shorts-out-of-sight-for-2024/"><u>[New] Guaranteed Method to Keep YouTube Shorts Out of Sight for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-prime-gopro-editing-software-for-iosandroid-users/"><u>[New] In 2024, Prime GoPro Editing Software for iOS/Android Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-enhancements-the-most-acclaimed-video-editing-tools-for-2024/"><u>[Updated] Snapchat Enhancements The Most Acclaimed Video Editing Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-at-a-glance-digital-home-for-quality-videos-for-2024/"><u>[Updated] Vimeo at a Glance Digital Home for Quality Videos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-effortless-drm-free-conversion-transforming-epub-and-pdfs-into-accessible-formats/"><u>1. Effortless DRM-Free Conversion: Transforming EPub and PDFs Into Accessible Formats</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-7-costless-internet-fax-solutions-available-now/"><u>Best 7 Costless Internet Fax Solutions Available Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-the-missing-ftd2xxdll-file-problem/"><u>Effective Solutions for the Missing ftd2xx.dll File Problem</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/everything-you-need-to-know-about-3d-lut-creator/"><u>Everything You Need to Know About 3D LUT Creator</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-essential-techniques-and-hacks-for-crushing-subway-surfers/"><u>Expert Advice: Essential Techniques & Hacks for Crushing 'Subway Surfers'</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-x-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone X Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fishing-footage-frontier-top-action-cameras-for-the-sea/"><u>In 2024, Fishing Footage Frontier Top Action Cameras for the Sea</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solve-your-music-streaming-woes-fixes-for-a-non-functional-spotify-on-android-auto-13-tips/"><u>Solve Your Music Streaming Woes: Fixes for a Non-Functional Spotify on Android Auto (13 Tips)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-water-resistant-smartphone-protectors/"><u>Top Rated Water-Resistant Smartphone Protectors</u></a></li>
 </ul></div>
 

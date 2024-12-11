@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Software Experience: Guide to Executing Apps as an Admin on Windows 11/10"
-date: 2024-08-30T16:14:36.473Z
-updated: 2024-08-31T16:14:36.473Z
+date: 2024-12-05T13:34:34.232Z
+updated: 2024-12-11T08:13:21.233Z
 tags:
   - deals
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/0065578452a99a584186a97c84004b198beda17f3
 
  Whether your app is located in the Start Menu, on the desktop, or somewhere else, [launching it with administrator rights](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/) is extremely easy on both Windows 11 and Windows 10\. We’ll show you how to do just that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Run as Admin from Windows Search or Start Menu
 
  If you search for and open your app using Windows Search (or Start Menu search) on your Windows 11 or 10 PC, you can run your app as an admin by searching for your app, [right-clicking](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) it, and selecting "Run as Administrator." Alternatively, while the app is highlighted in the search results, click "Run as Administrator" on the right pane.
@@ -34,39 +38,31 @@ thumbnail: https://thmb.techidaily.com/0065578452a99a584186a97c84004b198beda17f3
 !['Run as Administrator' highlighted for PowerShell in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-run-as-admin-from-start-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're on Windows 11 and you launch your app from the "Pinned" apps section in the Start Menu, right-click your app and select "Run as Administrator." If you're on Windows 10, right-click your pinned app and choose More > Run as Administrator.
 
 !['Run as Administrator' highlighted for a pinned app in Windows 11's Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-pinned-app-run-as-admin-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you open your app from the all apps section in the Start Menu (whether you're on Windows 11 or 10), right-click your app and choose More > Run as Administrator.
 
 ![More > Run as Administrator highlighted for an app in Windows 11's Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-all-app-run-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  You’ll see a User Account Control (UAC) prompt. Select "Yes." Your app is now running as an admin.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Launch an App as Admin From the Desktop
 
  If your app’s shortcut is on your desktop, right-click it and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for an app on Windows' desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-launch-as-admin-from-desktop.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the User Account Control prompt, select "Yes."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ##  Open an App as Admin From Run Dialog Box
 
  Windows’ Run dialog box lets you launch apps on your PC. It’s possible to [open those apps with admin rights from this box](https://some-skills.techidaily.com/new-the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23/).
@@ -78,6 +74,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 !['winword' typed in Run.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-run-app-as-admin-from-run.jpg) 
 
  After typing the app name, press Ctrl+Shift+Enter. This launches an elevated instance of the app. Make sure to select "Yes" in the User Account Control prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Make an App Always Launch With Admin Rights
 
@@ -99,6 +99,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  From now on, to launch your app as an administrator, simply double-click the app’s shortcut you just customized.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Check if an App Is Running With Admin Privileges
 
  Wondering [whether an app is running with administrator rights or not](https://digital-screen-recording.techidaily.com/in-2024-cutting-edge-techniques-for-capturing-ps4-games-in-obs/)? Windows’ Task Manager helps you find that information.
@@ -110,15 +114,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![The 'Details' tab and the 'Elevated' column highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-elevated-apps-task-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you don’t see the "Elevated" column, right-click an existing column and choose "Select Columns." On the open window, enable the "Elevated" option and choose "OK." You now have the Elevated column in the Details tab of Task Manager.
 
 !['Elevated' and 'OK' highlighted in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-enable-elevated-column-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  These are the most practical, everyday ways you can launch an app as admin, but you can also launch apps as admin via[an elevated Command Prompt](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/) or PowerShell window if you want.
 
 <ins class="adsbygoogle"
@@ -127,8 +129,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +136,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-from-average-to-amazing-8-tactics-for-exciting-unboxing-reels/"><u>[New] From Average to Amazing 8 Tactics for Exciting Unboxing Reels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-view-youtube-statistics/"><u>[Updated] How to View YouTube Statistics?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supreme-recommendations-best-ios-tone-designers/"><u>[Updated] Supreme Recommendations Best iOS Tone Designers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-ensuring-email-privacy-and-safety/"><u>Comprehensive Strategies for Ensuring Email Privacy and Safety</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-fixes-for-when-you-encounter-a-missing-msstdfmtdll-error/"><u>Essential Fixes for When You Encounter a Missing Msstdfmt.dll Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997877946-fixing-dirt-5-pc-game-freezing-issues-solutions-inside/"><u>Fixing Dirt 5 PC Game Freezing Issues - Solutions Inside!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-sending-audio-messages-with-your-iphone-effortlessly/"><u>Guide: Sending Audio Messages with Your iPhone Effortlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/highpoint-artist-toolkit-review/"><u>Highpoint Artist Toolkit Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-11-pro-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 11 Pro to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-latest-tricks-for-ios-screenshots-and-recording/"><u>In 2024, Latest Tricks for iOS Screenshots & Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leveraging-metas-artificial-intelligence-for-enhanced-instagram-strategies/"><u>Leveraging Meta's Artificial Intelligence for Enhanced Instagram Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/olympic-thaw-figure-skating-extravaganza-for-2024/"><u>Olympic Thaw Figure Skating Extravaganza for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-issues-with-tiktok-functionality/"><u>Solutions for Resolving Issues with TikTok Functionality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-itel-p40-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Itel P40 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-aol-mail-understanding-downtime-issues-and-personal-connectivity/"><u>Troubleshooting AOL Mail: Understanding Downtime Issues and Personal Connectivity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-foldable-iphone-revealed-anticipated-launch-date-and-pricing-details-uncovered/"><u>Upcoming Foldable iPhone Revealed: Anticipated Launch Date & Pricing Details Uncovered!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Screen to Sight: Embracing the Future with AR Glasses - A Personal Tale of Upgrade and Adaptation"
-date: 2024-08-30T16:16:59.818Z
-updated: 2024-08-31T16:16:59.818Z
+date: 2024-12-04T18:48:35.171Z
+updated: 2024-12-10T21:06:38.858Z
 tags:
   - cutting-edge
 categories:
@@ -30,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/924b42c675af7e54d265aac523b5dbe2839bad9cc
 Bertel King / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  I Sit With Better Posture
 
  The biggest impact has been the benefit to my posture. I've spent most of my career hunched over a laptop. I ended my days feeling drained, not aware that the angle of my neck had as much to do with that as the strain on my eyes. I was making one of the [posture mistakes you want to avoid](https://fox-cloud.techidaily.com/new-composing-an-alluring-cinematic-teaser-track/) when sitting at a desk. If you work from home, it's worth getting a computer monitor with a height set at eye level.
@@ -39,9 +40,9 @@ Bertel King / How-To Geek
  With AR glasses, my display is always at eye level. This means I can rest my neck in a natural position. I can also stretch or look side to side without actually turning away from whatever I'm reading. This allows me to move a bit more throughout the day without shifting my focus away from what I'm working on.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  My Desk Has More Space
 
  I like a clear, open desk. This has been one of the reasons I've avoided getting a monitor. A monitor, keyboard, and mouse don't leave much room on my desk for pulling out a notepad or plopping down my phone to work with the stylus.
@@ -50,14 +51,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  I Love the Portability
 
  I was quick to embrace netbooks. I've experimented several times with using a tablet as a laptop replacement. I once carried around a [Toshiba Thrive](https://www.amazon.com/Toshiba-Thrive-10-1-Inch-Android-AT105-T1016/dp/B0052P6DQI?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003316&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-replaced-my-computer-monitor-with-ar-glasses-heres-how-it-went%2F&asc%5Fcampaign=Evergreen) running Android Honeycomb because it had a full-size USB port for flash drives and an SD card slot for getting photos off my camera.
@@ -69,15 +68,13 @@ Bertel King / How-To Geek
 ![A Samsung Galaxy Z Fold 5, XREAL Air 2 Pro AR Glasses, and glasses case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061021.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  To play games, I also grab a controller. For work, I also pack a keyboard and mouse. None of these things are particularly big. The keyboard is the only one I don't bring with me when packing up a laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ##  Awkward Social Interactions
 
  There's something intuitively weird about looking at someone wearing glasses who's just sitting there, staring at the wall or gazing up at the ceiling. It's obvious when someone is watching a movie on a computer monitor. No one has any idea what's going on in my glasses, unless they hear the sound coming through the speakers or get close enough to my face to see light from the tiny displays.
@@ -91,6 +88,10 @@ Bertel King / How-To Geek
  My kids are still learning that when I'm in the home office, I'm working, and that means they really shouldn't barge in and ask me questions. Often enough, they come through the door every few minutes, causing me to look away from what I'm doing. Someone's often crying and needs a hug.
 
  With the glasses on, I can look at my toddler while she rambles and give her a hug. I can keep my eyes focused on whatever Slack conversation I was in the middle of following or continue watching the clip that I was considering inserting into an article. It feels wrong, not giving them my undivided attention. At the same time, I need to work and they're not letting me. The fact that the glasses help me turn toward them more quickly probably makes them feel like I'm giving them more attention, even if my attention is split. Is that better or worse? I don't know, but at least they get the hug.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Your Own Portable, Private Home Theater
 
@@ -116,8 +117,6 @@ Bertel King / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +124,24 @@ Bertel King / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-boosting-revenue-with-youtube-short-videos-a-complete-plan/"><u>[New] Boosting Revenue with YouTube Short Videos – A Complete Plan</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-beyond-the-mic-advanced-strategies-for-professional-voice-over-work/"><u>[Updated] In 2024, Beyond the Mic Advanced Strategies for Professional Voice-Over Work</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-telegram-a-step-by-step-walkthrough/"><u>[Updated] Mastering Telegram A Step-By-Step Walkthrough</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-7-top-budget-friendly-digital-camera-editing-tools/"><u>2024 Approved 7 Top Budget-Friendly Digital Camera Editing Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-audience-viewing-experience-how-to-choose-video-aspect-ratio/"><u>2024 Approved Audience Viewing Experience How to Choose Video Aspect Ratio</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5-easy-ways-to-keep-an-eye-on-your-online-bandwidth-spending/"><u>5 Easy Ways to Keep an Eye on Your Online Bandwidth Spending</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/friend-battles-and-buddy-adventures-essential-techniques-for-a-shared-journey-in-pokemon-go/"><u>Friend Battles and Buddy Adventures: Essential Techniques for a Shared Journey in Pokémon GO</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-resolve-windows-10-developer-release-installer-hanging-during-installation-solutions-revealed/"><u>How to Resolve Windows 10 Developer Release Installer Hanging During Installation: Solutions Revealed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastery-in-voice-change-with-morphvox/"><u>In 2024, Mastery in Voice Change with MorphVOX</u></a></li>
+<li><a href="https://fox-http.techidaily.com/learning-the-art-of-soundshaping-in-audacity-for-2024/"><u>Learning the Art of Soundshaping in Audacity for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-pc-troubleshooting-how-to-fix-windows-update-setup-failures/"><u>Mastering PC Troubleshooting: How to Fix Windows Update Setup Failures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-fortnite-game-chat-ultimate-guide-to-fixing-microphone-problems/"><u>Revive Your Fortnite Game Chat: Ultimate Guide to Fixing Microphone Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/star-trek-movie-marathon-the-ultimate-order-to-experience-them-all/"><u>Star Trek Movie Marathon: The Ultimate Order to Experience Them All</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-11-free-online-platforms-for-movie-downloads/"><u>Top 11 Free Online Platforms for Movie Downloads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/twitch-and-two-factor-authentication-secure-your-account-today/"><u>Twitch and Two-Factor Authentication: Secure Your Account Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-on-building-a-homemade-projector-screen/"><u>Ultimate Tutorial on Building a Homemade Projector Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-contrast-what-sets-the-ipad-pro-apart-from-macbook-air/"><u>Unveiling the Contrast: What Sets the iPad Pro Apart From MacBook Air?</u></a></li>
+</ul></div>
 

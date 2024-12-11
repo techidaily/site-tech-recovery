@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Siri at Apple - Embracing the Future with AI Strategies Similar to Bing
-date: 2024-12-01T11:42:39.424Z
-updated: 2024-12-05T03:20:30.640Z
+date: 2024-12-06T16:35:38.256Z
+updated: 2024-12-10T17:54:43.392Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,17 +126,16 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-becoming-proficient-in-ez-grabber-technology/"><u>[New] Becoming Proficient in EZ Grabber Technology</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-recording-your-mac-experience-for-free/"><u>[New] Recording Your Mac Experience for FREE</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-essential-techniques-for-vimeo-video-submission-from-mmc/"><u>[Updated] 2024 Approved Essential Techniques for Vimeo Video Submission From MMC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pinnacle-pathfinders-the-ultimate-10-game-guide-for-2024/"><u>[Updated] Pinnacle Pathfinders The Ultimate 10 Game Guide for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-add-and-record-audio-to-powerpoint/"><u>2024 Approved Add & Record Audio to PowerPoint</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/access-your-cars-in-dash-entertainment-finding-the-elusive-radio-access-code-explained/"><u>Access Your Car's In-Dash Entertainment: Finding the Elusive Radio Access Code Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-overcoming-black-screen-challenges-for-smooth-operations/"><u>Expert Advice: Overcoming Black Screen Challenges for Smooth Operations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-effortlessly-with-our-choice-of-7-driving-apps/"><u>Navigate Effortlessly with Our Choice of 7 Driving Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/save-money-with-these-top-12-free-disk-defragmenters-your-july-2024-guide/"><u>Save Money with These Top 12 Free Disk Defragmenters - Your July 2024 Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-getting-your-arduino-nano-board-up-and-running-on-a-windows-machine-with-perfect-driver-setup/"><u>The Definitive Guide to Getting Your Arduino Nano Board up and Running on a Windows Machine with Perfect Driver Setup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-can-your-smartwatch-do-an-in-depth-look-at-its-utilities/"><u>What Can Your Smartwatch Do? An In-Depth Look at Its Utilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winvpn-error-connection-lost-explained-and-fixed/"><u>WinVPN Error: Connection Lost Explained and Fixed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sage-scripts-for-soundplays/"><u>2024 Approved Sage Scripts for Soundplays</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/distinguishing-between-global-xbox-service-downtime-and-personal-tech-hiccups/"><u>Distinguishing Between Global Xbox Service Downtime and Personal Tech Hiccups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-cars-unveiled-enjoy-exclusive-parking-and-hov-lane-benefits-on-the-go/"><u>Electric Cars Unveiled: Enjoy Exclusive Parking & HOV Lane Benefits on the Go!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-20-unprotected-open-access-pubg-montages/"><u>Elite 20 Unprotected, Open-Access PUBG Montages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-usb-code-43-error-easily-with-pictures/"><u>Fix USB Code 43 Error Easily [with Pictures]</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-battle-tactics-conquering-the-formidable-lynel-in-botw/"><u>Mastering Battle Tactics: Conquering the Formidable Lynel in BotW</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/on-the-hunt-for-the-perfect-tablet-exploring-why-ipad-mini-stands-out-in-the-crowd/"><u>On the Hunt for the Perfect Tablet? Exploring Why iPad Mini Stands Out in the Crowd</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-file-access-problems-with-microsofts-error-code-0x80004005-faq-and-guide/"><u>Troubleshoot File Access Problems with Microsoft's Error Code 0X80004005 (FAQ & Guide)</u></a></li>
 </ul></div>
 

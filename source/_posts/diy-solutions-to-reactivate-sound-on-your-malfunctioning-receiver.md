@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions to Reactivate Sound on Your Malfunctioning Receiver
-date: 2024-08-26T08:27:50.687Z
-updated: 2024-08-27T08:27:50.687Z
+date: 2024-12-08T19:18:49.744Z
+updated: 2024-12-10T19:30:44.526Z
 categories:
   - BestProducts
 description: This Article Describes DIY Solutions to Reactivate Sound on Your Malfunctioning Receiver
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/7UmX_VT8ysppHd5-vjSnLr5Z9dk=/540x405/fi
  You've[correctly arranged your new speakers](https://www.lifewire.com/placing-speakers-correctly-3134857) . All the cables have been meticulously connected. Each piece of equipment has been switched on. Then, you hit "play" on the audio source, yet nothing happens. How frustrating!
 
  But don't toss your remote at the wall just yet. Instead, try these troubleshooting tips to get your brand new sound system up and working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Stereo Receiver That's Not Making Sound
 
@@ -27,6 +31,10 @@ thumbnail: https://www.lifewire.com/thmb/7UmX_VT8ysppHd5-vjSnLr5Z9dk=/540x405/fi
  You'll need a 3.5 mm-to-RCA stereo audio cable to connect speakers that have 3.5 mm or RCA connections, such as a laptop or smartphone.
 5. **Check the source components** . First, test whatever source component (device) you're using—such as a CD player, DVD/Blu-ray player, or turntable—with another working TV or set of speakers. If the device still doesn't play properly, then your problem is most likely with the device.  
  If all source components are good, connect them back into the original receiver and set them to play some input. Toggle through each input source on the stereo receiver one by one. If the receiver works with some input sources but not others, the cables connecting the component to the receiver could be the problem. Replace any suspect cables and try the original component again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Causes of a Stereo Receiver Not Making Sound
 
@@ -54,8 +62,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -63,8 +69,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-perfect-your-recording-a-comparison-guide-for-30-vs-60fps/"><u>[New] In 2024, Perfect Your Recording A Comparison Guide for 30 Vs. 60FPS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-20-ae-templates-for-aspiring-designers/"><u>[New] Top 20 AE Templates for Aspiring Designers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-enhancing-stardew-valley-through-its-best-7-modifications/"><u>[Updated] In 2024, Enhancing Stardew Valley Through Its Best 7 Modifications</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-tips-for-unrecoverable-file-disposal-on-windows-11-systems/"><u>Advanced Tips for Unrecoverable File Disposal on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-the-audio-narrator-feature-in-your-samsung-television/"><u>Disabling the Audio Narrator Feature in Your Samsung Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-dts-play-fi-a-comprehensive-guide/"><u>Exploring DTS Play-Fi: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fastest-audio-playback-speed-controlers-collection/"><u>Fastest Audio Playback Speed Controlers Collection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-blurry-pictures-try-fixes-for-iphone-camera-focus-issues/"><u>Fixing Blurry Pictures? Try Fixes for iPhone Camera Focus Issues!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-innovative-tactics-starting-your-youtube-enterprise-from-mobile/"><u>In 2024, Innovative Tactics Starting Your YouTube Enterprise From Mobile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-microsoft-teams-a-step-by-step-guide-on-utilizing-copilot/"><u>Mastering Microsoft Teams: A Step-by-Step Guide on Utilizing Copilot</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-errors-in-persona-3-fresh-royal-a-comprehensive-guide/"><u>Overcoming Launch Errors in Persona 3 Fresh Royal: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722889078822-printer-connection-secrets-revealed-seamless-sharing-with-several-devices-uncovered/"><u>Printer Connection Secrets Revealed: Seamless Sharing with Several Devices Uncovered!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unboxing-review-the-premier-fugetek-ft-568-high-end-selfie-stick-explained/"><u>Unboxing Review: The Premier Fugetek FT-568 High-End Selfie Stick Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unleash-online-presence-with-manycam-the-definitive-guide-to-virtual-webcams-and-advanced-live-video-tools/"><u>Unleash Online Presence with ManyCam: The Definitive Guide to Virtual Webcams and Advanced Live Video Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-samsung-z-fold-new-model-unveiled-features-cost-and-timeline/"><u>Upcoming Samsung Z Fold ˈNew Model' Unveiled - Features, Cost, & Timeline</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Using an Xbox Controllers with Desktop PCs
-date: 2024-08-30T16:13:14.259Z
-updated: 2024-08-31T16:13:14.259Z
+date: 2024-12-07T18:38:53.495Z
+updated: 2024-12-10T23:54:17.911Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter](https://youtube-lab.techidaily.com/e-stock-images-directly-from-trusted-4-youtube-vids-for-2024/)
 
  You can connect any Xbox controller to your Windows PC, including the latest Xbox Wireless Controller and the premium Elite lineup. You can choose between a wireless connection and a wired connection using a USB cable, depending on your setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Controller to a PC Using a USB Cable
 
@@ -41,20 +45,22 @@ Xbox
 
 ![Settings in the Windows 10 Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Settings, click "Devices."
 
 ![Windows 10 Settings Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/devices-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  In Devices, make sure that you're on the "Bluetooth & Other Devices" page, and then click "Add Bluetooth or other device."
 
 ![Windows 10 Bluetooth menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-bluetooth-device.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the "Add a Device" window that appears, select "Bluetooth."
 
 ![Adding a Bluetooth device in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/bluetooth-select.png) 
@@ -64,17 +70,15 @@ Xbox
 ![The Xbox Wireless controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-controller.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller)
 
  Once the button lights up, hold the pairing button for a few seconds until the Xbox logo blinks rapidly. You can find the pairing button on the top above the USB port and between your LB and RB trigger buttons.
 
 ![Front view of the Xbox Wireless Controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-pair.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-usb-c)
 
  On your computer, click "Xbox Wireless Controller" when it appears in the "Add a Device" list.
@@ -87,9 +91,6 @@ Xbox
 
 ![The "Your Device is ready to go" Bluetooth screen in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/save-it.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
 
 ##  How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter
@@ -99,8 +100,9 @@ Xbox
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
 
  To use it, plug the Xbox Wireless Adapter into your PC's USB port and press and hold the pairing button until its light starts blinking rapidly. Next, turn on your controller by pressing and holding the Xbox button and put it in pairing mode by pressing and holding the pairing button for a few seconds.
@@ -119,8 +121,6 @@ Xbox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +128,22 @@ Xbox
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-blending-beats-with-brushstrokes-online/"><u>[New] Blending Beats with Brushstrokes Online</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-quick-and-official-transform-your-dvd-into-hd-mp4-with-winx-dvd-ripper-platinum-in-just-5-minutes/"><u>1. Quick & Official: Transform Your DVD Into HD MP4 with WinX DVD Ripper Platinum in Just 5 Minutes!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-guide-mastering-final-cut-pro/"><u>2024 Approved Complete Guide Mastering Final Cut Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-digital-sidekick-alexa-vs-google-assistant-determining-the-right-fit/"><u>Choosing Your Digital Sidekick: Alexa Vs. Google Assistant - Determining the Right Fit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-repairing-silent-stereo-systems-and-boosting-audio-output/"><u>Guide to Repairing Silent Stereo Systems and Boosting Audio Output</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-premium-gopro-case-selection/"><u>In 2024, Ultimate Guide to Premium GoPro Case Selection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-pokemon-unite-the-ultimate-guide-for-pc-gamers/"><u>Mastering Pokemon Unite: The Ultimate Guide for PC Gamers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-creativity-3-simple-ways-to-record-video-games-for-2024/"><u>New Unleash Your Creativity 3 Simple Ways to Record Video Games for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalizing-the-look-of-windows-11-with-easy-color-modifications-for-the-taskbar/"><u>Personalizing the Look of Windows 11 with Easy Color Modifications for the Taskbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pros-and-cons-of-upgrading-to-ios-17-is-it-worth-it/"><u>Pros and Cons of Upgrading to iOS 17 - Is It Worth It?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protect-your-device-with-style-the-most-reliable-waterproof-phones-cases/"><u>Protect Your Device with Style: The Most Reliable Waterproof Phones Cases</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-xbox-one-no-video-output-problem-for-smooth-gaming-experience/"><u>Solving the Xbox One 'No Video Output' Problem for Smooth Gaming Experience</u></a></li>
+</ul></div>
 

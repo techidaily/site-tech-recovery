@@ -1,7 +1,7 @@
 ---
 title: Why Microsoft's Underrated NotionPad Outperforms All on Windows Desktops
-date: 2024-08-30T16:14:17.154Z
-updated: 2024-08-31T16:14:17.154Z
+date: 2024-12-04T08:59:59.174Z
+updated: 2024-12-11T02:12:04.578Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Why Microsoft's Underrated NotionPad Outperforms All on Windows Desktops
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Notepad is a simple word processor that allows you to take notes and save them as files in just a few seconds.
@@ -19,11 +23,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Windows has a bunch of built-in apps that add layers of functionality to your computer. One of the oldest and most popular is Notepad, a simple text editor that has remained largely unchanged since 1983\. Perhaps minimalism is the reason why Notepad holds a special place in my heart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Simple, Convenient, and Effective
 
  I can't stress this enough: The Notepad app is one of the simplest (but still useful) apps that exists. As soon as you open the app, you're greeted with a white empty canvas ready to be typed on. Notepad has always been like this; it only received minor redesigns and small feature updates. For instance, [Windows 11 introduced a new Notepad](https://screen-recording.techidaily.com/updated-step-by-step-screen-and-video-capture-on-android/) with dark mode, a better find and replace, and some layout tweaks.
 
 ![Notepad on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2024-07-11_20h49_39.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Notepad on Windows 10.
 
@@ -35,17 +47,14 @@ Notepad on Windows 10.
 
  At the same time, Notepad has a few lightweight quality-of-life features that add functionality without sacrificing simplicity. For instance, the "Find" and "Replace" options allow you to quickly find specific keywords. I often use this feature to edit configuration files for video games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  No Need for Sticky Notes
 
 ![A bunch of sticky notes on the table with people reading them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/imageedit_7_8102280730.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[3M](https://www.prnewswire.com/news-releases/post-it-brand-and-microsoft-enable-hybrid-collaboration-with-new-teams-integration-301647441.html)_
 
  I never understood people who use sticky notes at their desks when they literally have a computer with Notepad on it. Some even put stickies on their monitors! Paper sticky notes clutter your workspace, can't be backed up, cost money, and are [bad for the environment](https://www.theworldcounts.com/stories/environmental-impact-of-paper-production). Plus, my handwriting is so bad that you'd think it was [encrypted](https://facebook-video-share.techidaily.com/the-essential-guide-to-youtube-video-lighting-tips-for-2024/). Traditional notebooks have many of the same drawbacks, plus finding important notes is frustrating because you can't press Ctrl+F to search for keywords.
@@ -55,8 +64,9 @@ _[3M](https://www.prnewswire.com/news-releases/post-it-brand-and-microsoft-enabl
  The way I use Notepad is identical to how I used my notebook in school. I jot down notes in Notepad, and I keep the app minimized in the Taskbar for easy access. If it's just a mini-brainstorming session or some temporary random notes, I won't even save it as a TXT file to spare myself the clutter.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  It Makes for a Perfect Text Clipboard
 
  If you need a space to temporarily store text, like with the [clipboard feature on Android](https://screen-activity-recording.techidaily.com/new-the-essentials-of-webcam-capture-with-free2x-app/), Notepad is perfect. I could technically use the built-in [clipboard in Windows](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) for the same purpose, but I always forget it exists, and I think that Notepad is faster. I can just hit Alt+Tab quickly to open Notepad, then Ctrl+A to select the whole text, and Ctrl+C to copy the text. I also have more control because I can precisely select what piece I wish to copy.
@@ -73,8 +83,6 @@ _[3M](https://www.prnewswire.com/news-releases/post-it-brand-and-microsoft-enabl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -82,4 +90,16 @@ _[3M](https://www.prnewswire.com/news-releases/post-it-brand-and-microsoft-enabl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://technical-tips.techidaily.com/a-comprehix-reshape-your-pcs-graphic-abilities-in-windows-10-7-and-11-by-resetting-your-graphics-drivers/"><u>A Compreh#ix-Reshape Your PC's Graphic Abilities in Windows 10, 7 & 11 by Resetting Your Graphics Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/addressing-https-security-mistakes-for-a-secure-online-experience/"><u>Addressing HTTPS Security Mistakes for a Secure Online Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bridging-visual-and-auditory-elements-adding-music-to-premiere-projects/"><u>Bridging Visual and Auditory Elements Adding Music to Premiere Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-fix-and-eradicate-delays-in-fortnite-video-editing-expert-advice/"><u>How to Fix and Eradicate Delays in Fortnite Video Editing: Expert Advice</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-melodic-moments-curating-the-best-10-sounds-for-podcasts/"><u>In 2024, Melodic Moments Curating the Best 10 Sounds for Podcasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-ultimate-yield-yardstick-calculating-your-youtube-influence-and-earnings-potential/"><u>In 2024, The Ultimate Yield Yardstick Calculating Your YouTube Influence and Earnings Potential</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-wi-fi-login-issues-a-step-by-step-guide-for-android-users/"><u>Resolving Wi-Fi Login Issues: A Step-by-Step Guide for Android Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-correcting-haldll-errors-in-windows-xp-to-windows-11/"><u>Step-by-Step Solutions for Correcting Hal.dll Errors in Windows XP to Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-error-code-0xc0000185-causes-solutions-and-fixes/"><u>Understanding Error Code 0xC0000185 - Causes, Solutions & Fixes</u></a></li>
+</ul></div>
 

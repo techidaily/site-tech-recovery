@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Transfer Images From Google Photos to iCloud with Our Step-by-Step Guide
-date: 2024-11-29T19:12:44.374Z
-updated: 2024-12-04T21:18:27.561Z
+date: 2024-12-07T19:42:43.856Z
+updated: 2024-12-10T16:43:54.820Z
 tags:
   - apple
 categories:
@@ -102,10 +102,6 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -119,7 +115,7 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -131,6 +127,10 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -140,7 +140,7 @@ On a Mac, open **System Preferences**, then select **Software Update**.
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
@@ -159,10 +159,6 @@ The Mac does have a dedicated Universal Control section where you can turn the f
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to use Universal Control between your Mac and iPad
 
 With both devices updated and after double-checking that Universal control is enabled, it's time to actually use Universal Control. 
@@ -178,7 +174,7 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -186,6 +182,10 @@ You can even drag and drop documents between your Mac or iPad, instead of waitin
 Screenshot by Jason Cipriani/ZDNet
 
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
 
@@ -239,21 +239,24 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-failed-to-initialize-unity-graphics-error/"><u>[Fixed] Failed to Initialize Unity Graphics Error</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>[New] Lighted Paths Guiding Viewers with Intelligent Illumination</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-sneak-peeks-into-slow-motion-mastery-on-instagram/"><u>[New] Sneak Peeks Into Slow-Motion Mastery on Instagram</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-insights-on-maintaining-engagement-after-algorithm-shifts/"><u>2024 Approved Insights on Maintaining Engagement After Algorithm Shifts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-walkthrough-to-adjusting-posts-on-instagram/"><u>A Comprehensive Walkthrough to Adjusting Posts on Instagram</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beat-the-competition-with-roombas-latest-275-budget-friendly-essential-vacuum-cleaner-zdnet/"><u>Beat the Competition with Roomba's Latest $275 Budget-Friendly Essential Vacuum Cleaner | ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-battle-of-giants-how-does-ios-app-store-stack-against-google-play-store/"><u>Decoding the Battle of Giants: How Does iOS App Store Stack Against Google Play Store?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-phone-without-password-by-drfone-android/"><u>How To Unlock Lava Yuva 2 Phone Without Password?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-expand-your-instagram-skills-advanced-use-of-queries/"><u>In 2024, Expand Your Instagram Skills Advanced Use of Queries</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fixes-for-a-keyboard-that-wont-type-properly/"><u>The Ultimate Fixes for a Keyboard That Won't Type Properly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-fixing-code-39-error-messages-on/"><u>The Ultimate Guide: Fixing Code 39 Error Messages On</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-9-considerations-every-prospective-ev-owner-should-contemplate/"><u>Top 9 Considerations Every Prospective EV Owner Should Contemplate</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-or-unseen-coredll-files-effectively/"><u>Troubleshooting Missing or Unseen core.dll Files Effectively</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-8-best-alternatives-to-windows-10-photos-for-2024/"><u>Updated 8 Best Alternatives to Windows 10 Photos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-expect-from-samsungs-upcoming-2025-event-key-announcements-and-industry-rumors-revealed/"><u>What to Expect From Samsung's Upcoming 2025 Event – Key Announcements & Industry Rumors Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-your-speech-any-sound-discover-the-best-vocal-transformation-tools-on-android-for-2024/"><u>[New] Your Speech, Any Sound Discover the Best Vocal Transformation Tools on Android for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-shine-on-top-17-studio-lights-for-youtube-for-2024/"><u>[Updated] Shine On Top 17 Studio Lights for YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-creator-to-consumer-securing-a-spot-on-apples-listings/"><u>2024 Approved From Creator to Consumer Securing a Spot on Apple’s Listings</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-a2plus-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi A2+? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-friendships-through-shared-musical-experiences-on-spotify/"><u>Enhancing Friendships Through Shared Musical Experiences on Spotify</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-missing-rpcrt4dll-errors-effectively-and-efficiently/"><u>Fixing Missing rpcrt4.dll Errors Effectively and Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/have-they-read-my-message-identifying-confirmation-in-communication-apps/"><u>Have They Read My Message: Identifying Confirmation in Communication Apps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-11-pro-maxipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 11 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-laugh-out-loud-top-video-dubbing-apps-for-comedy-gold/"><u>New 2024 Approved Laugh Out Loud Top Video Dubbing Apps for Comedy Gold</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/occupational-shifts-in-an-age-of-ai-innovation/"><u>Occupational Shifts in an Age of AI Innovation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps5-faceoff-exploring-differences-between-slim-and-regular-versions/"><u>PS5 Faceoff: Exploring Differences Between Slim and Regular Versions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-correcting-computer-monitor-coloring-and-shape-anomalies/"><u>Solutions for Correcting Computer Monitor Coloring and Shape Anomalies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-turning-onoff-the-virtual-keyboard-in-microsofts-latest-os/"><u>Step-by-Step Guide: Turning On/Off the Virtual Keyboard in Microsoft's Latest OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-to-restore-clear-images-from-striped-tv-screens/"><u>Step-by-Step Tutorial to Restore Clear Images From Striped TV Screens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-smart-shoppers-manual-navigating-computer-purchases-for-school-success/"><u>The Smart Shopper's Manual: Navigating Computer Purchases for School Success</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-nokia-c32-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia C32 Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-uninterruptible-power-supply-ups-units/"><u>Top-Rated Uninterruptible Power Supply (UPS) Units</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-solutions-resolving-issues-with-utorrents-connection-and-download-problems/"><u>Troubleshooting Solutions: Resolving Issues with uTorrent's Connection and Download Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722870120155-unveiling-the-apple-watch-ultra-2-anticipated-features-launch-timeline-and-estimated-cost-stay-updated/"><u>Unveiling the Apple Watch Ultra 2: Anticipated Features, Launch Timeline & Estimated Cost – Stay Updated!</u></a></li>
 </ul></div>
 

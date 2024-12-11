@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2024-12-03T04:42:49.307Z
-updated: 2024-12-05T05:01:53.953Z
+date: 2024-12-10T08:10:27.352Z
+updated: 2024-12-11T09:57:30.438Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,24 +120,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-cutting-edge-techniques-for-setting-the-optimal-size-of-your-youtube-videos/"><u>[New] 2024 Approved Cutting-Edge Techniques for Setting the Optimal Size of Your YouTube Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-generating-podcast-identity-the-top-ai-naming-software/"><u>[Updated] Generating Podcast Identity The Top AI Naming Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-purchasing-video-games-for-your-oculus-quest-2/"><u>A Step-by-Step Guide: Purchasing Video Games for Your Oculus Quest 2</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/communicating-seamlessly-with-email-and-chat-on-mozilla-thunderbird-your-ultimate-tutorial/"><u>Communicating Seamlessly with Email and Chat on Mozilla Thunderbird - Your Ultimate Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compact-and-cute-discover-the-charming-switchbot-k10plus-pro-miniature-robovac/"><u>Compact and Cute: Discover the Charming SwitchBot K10+ Pro Miniature RoboVac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dolby-atmos-or-not-how-to-verify-authentic-3d-audio-playback-at-home/"><u>Dolby Atmos or Not? How to Verify Authentic 3D Audio Playback at Home</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-failed-feature-enhancements-on-windows-11-insights-for-build-1803/"><u>Fixing Failed Feature Enhancements on Windows 11 - Insights for Build 1803</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/flickering-camera-lights-to-financial-highlights/"><u>From Flickering Camera Lights to Financial Highlights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-newbie-to-gym-leader-a-complete-guide-on-how-to-play-pokemon-go/"><u>From Newbie to Gym Leader: A Complete Guide on How to Play Pokémon Go</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-and-resolve-the-0x80070570-error-for-uninterrupted-internet-use/"><u>How to Correctly Address and Resolve the 0X80070570 Error for Uninterrupted Internet Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-you-cant-answer-calls-on-a-samsung-galaxy-watch/"><u>How to Fix It When You Can't Answer Calls on a Samsung Galaxy Watch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-motorola-g54-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Motorola G54 5G</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-interface-interlink-bridging-ig-and-tiktok-worlds/"><u>In 2024, The Interface Interlink Bridging IG & TikTok Worlds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-efficient-discord-use-minimizing-high-cpu-consumption/"><u>Mastering Efficient Discord Use: Minimizing High CPU Consumption</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-health-goals-into-achievements-using-chatgpt-strategies/"><u>Transform Your Health Goals Into Achievements Using ChatGPT Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-scratch-disk-full-error-in-adobe-photoshop-easily/"><u>Troubleshooting the 'Scratch Disk Full' Error in Adobe Photoshop Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-wi-fi-connection-issues-on-your-ipad/"><u>Ultimate Guide: Resolving Wi-Fi Connection Issues on Your iPad</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-mysteries-of-nothing-phone-v3-anticipated-costs-launch-timeline-features-and-latest-hype/"><u>Unveiling the Mysteries of Nothing Phone V3: Anticipated Costs, Launch Timeline, Features & Latest Hype</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-five-iphone-podcast-services-to-streaming/"><u>[New] 2024 Approved Five iPhone Podcast Services to Streaming</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-tailoring-podcast-sharing-for-instagram-enthusiasts-for-2024/"><u>[New] Tailoring Podcast Sharing for Instagram Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-facebook-live-step-by-step-downloads-guide/"><u>[Updated] 2024 Approved Mastering Facebook Live Step-by-Step Downloads Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-sharp-as-day-the-top10-clearer-photo-editors-list/"><u>[Updated] 2024 Approved Sharp as Day The #Top10 Clearer Photo Editors List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beyond-black-and-white-restoring-color-to-your-windows-10-interface/"><u>Beyond Black and White: Restoring Color to Your Windows 10 Interface</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-steps-to-perform-a-complete-factory-reset-on-your-hp-laptop/"><u>Comprehensive Guide: Steps to Perform a Complete Factory Reset on Your HP Laptop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-downloading-and-setting-up-fortnite-on-pc-without-hitches/"><u>Comprehensive Tutorial: Downloading and Setting Up Fortnite on PC Without Hitches</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/design-tips-for-captivating-facebook-slideshows/"><u>Design Tips for Captivating Facebook Slideshows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-troubleshooting-ensuring-your-windows-webcam-works-properly/"><u>DIY Troubleshooting: Ensuring Your Windows Webcam Works Properly</u></a></li>
+<li><a href="https://win-great.techidaily.com/uncovering-concealed-text-in-word-doc-images-a-step-by-step-guide/"><u>Uncovering Concealed Text in Word Doc Images: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

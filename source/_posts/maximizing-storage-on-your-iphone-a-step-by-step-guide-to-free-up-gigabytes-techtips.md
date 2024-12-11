@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Storage on Your iPhone: A Step-by-Step Guide to Free Up Gigabytes | TechTips"
-date: 2024-11-30T16:29:35.098Z
-updated: 2024-12-05T11:19:53.263Z
+date: 2024-12-05T12:01:50.190Z
+updated: 2024-12-11T06:32:20.862Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ If you're going to be one of those people, read on.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)
@@ -34,7 +38,7 @@ If you're going to be one of those people, read on.
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Update
@@ -57,12 +61,16 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### read this
@@ -75,10 +83,6 @@ I'd definitely check any banking and financial apps for any special process invo
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  3\. Protect your data
 
 Next up, I want you to think about your data. How upset would you be if you lost your notes, photos, texts or other data that's on your iPhone? 
@@ -90,10 +94,6 @@ Make sure to back up your data. To be honest, you should be doing that anyway. i
 Don't have enough iCloud space? Don't worry! Apple will let you borrow some [temporary iCloud storage](https://support.apple.com/en-us/HT212732). (It helps to [keep your iPhone storage under control](https://www.zdnet.com/article/running-out-of-space-on-your-iphone-do-this-before-you-buy-a-new-one/), and you really should consider getting more storage for your future backup needs.) 
 
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
 
@@ -108,6 +108,10 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -142,10 +146,6 @@ Remember, once you start this process, there's no going back!
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,18 +187,24 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-crafting-compelling-narratives-with-your-own-fb-slideshow-creation/"><u>[New] Crafting Compelling Narratives with Your Own FB Slideshow Creation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-to-restoring-a-lost-or-hidden-steamdll-file/"><u>Complete Guide to Restoring a Lost or Hidden Steam.dll File</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/grow-your-instagram-community-proven-methods-for-attracting-new-followers/"><u>Grow Your Instagram Community: Proven Methods for Attracting New Followers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-12-mini-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 12 mini If Youve Tried Everything</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-best-siri-voice-generator-for-windows-and-mac/"><u>In 2024, Best Siri Voice Generator for Windows & Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chromatic-magic-transform-your-video-with-color-knowledge/"><u>In 2024, Chromatic Magic Transform Your Video with Color Knowledge</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Lenovo ThinkPhone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v29-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V29 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nubia-z50-ultra-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nubia Z50 Ultra Phone Network-Ready</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-futures-canvas-unveiling-6-pioneers-of-nft-artistry-for-2024/"><u>The Future's Canvas Unveiling 6 Pioneers of NFT Artistry for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-7-must-know-aspects-before-buying-your-next-smart-tv/"><u>The Ultimate Checklist: 7 Must-Know Aspects Before Buying Your Next Smart TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-poor-zoom-experiences-issues-with-software-or-internet-speed/"><u>Troubleshooting Poor Zoom Experiences - Issues with Software or Internet Speed?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unusual-sideway-photos-in-instagram-storytelling/"><u>Unusual Sideway Photos in Instagram Storytelling</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>[New] Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-crafting-soundscapes-how-to-use-auditions-fade-in-effect/"><u>[Updated] In 2024, Crafting Soundscapes How to Use Audition's Fade In Effect</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-6s-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 6s to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/academic-savings-strategies-unveiling-the-secrets-to-accessing-tidals-student-discount-programs/"><u>Academic Savings Strategies: Unveiling the Secrets to Accessing Tidal's Student Discount Programs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ace-your-tweets-expert-reviews-of-the-finest-twitter-clients-on-the-market/"><u>Ace Your Tweets: Expert Reviews of the Finest Twitter Clients on the Market</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722860064092-android-wi-fi-problems-heres-how-to-authenticate-successfully/"><u>Android Wi-Fi Problems? Here’s How to Authenticate Successfully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beginners-guide-to-refresh-your-system-bios-by-clearing-cmos/"><u>Beginner's Guide to Refresh Your System BIOS by Clearing CMOS</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/complete-tutorial-disabling-icloud-sync-features-across-iphone-models-iphone-15-through-iphone-12/"><u>Complete Tutorial: Disabling iCloud Sync Features Across iPhone Models (iPhone 15 Through iPhone 12)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-insights-with-the-august-16-new-york-times-connections-puzzle-solution-431-available-now/"><u>Discover Insights with the August 16 New York Times Connections Puzzle - Solution #431 Available Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experiencing-issues-with-roblox-heres-how-to-determine-if-its-down-for-everyone/"><u>Experiencing Issues with Roblox? Here's How to Determine if It’s Down for Everyone.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-effective-techniques-to-use-the-messages-app-on-your-ipad/"><u>Expert Advice: Effective Techniques to Use the Messages App on Your iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-stuck-gpsvc-loop-in-windows-systems/"><u>Fixing the Stuck GPSVC Loop in Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-cloud-costs-in-depth-price-analysis-and-best-options/"><u>Mastering Cloud Costs In-Depth Price Analysis & Best Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-internet-archiving-a-guide-to-using-the-wayback-machine/"><u>Mastering Internet Archiving: A Guide to Using the Wayback Machine</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-network-pathways-how-to-implement-tracert-on-a-windows-computer/"><u>Navigating Network Pathways: How to Implement Tracert on a Windows Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/one-click-canon-pro-100-driver-setup-comprehensive-guide-for-windows-users/"><u>One-Click Canon PRO 100 Driver Setup: Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/recording-your-live-stream-with-hp-laptops-webcam-for-2024/"><u>Recording Your Live Stream with HP Laptop's Webcam for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/stunning-iphone-portraits-through-water-imagery-techniques-for-2024/"><u>Stunning iPhone Portraits Through Water Imagery Techniques for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-guide-solving-your-disc-drives-refusal-to-open/"><u>Ultimate Troubleshooting Guide: Solving Your Disc Drive's Refusal to Open</u></a></li>
 </ul></div>
 

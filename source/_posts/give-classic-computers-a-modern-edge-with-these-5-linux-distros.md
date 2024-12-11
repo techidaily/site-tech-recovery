@@ -1,7 +1,7 @@
 ---
 title: Give Classic Computers a Modern Edge with These 5 Linux Distros
-date: 2024-08-30T16:13:33.692Z
-updated: 2024-08-31T16:13:33.692Z
+date: 2024-12-05T05:31:22.458Z
+updated: 2024-12-11T08:57:08.320Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Xubuntu](https://extra-skills.techidaily.com/2024-approved-pros-choice-9-premium-streaming-services/)
 * [Reduce, Reuse, Recycle](https://youtube-videos.techidaily.com/youtube-monetization-changes-500-subscribers-now-eligible/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Install lightweight Linux distributions on old hardware to extend their usability and save them from being discarded.
@@ -29,6 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Repurposing old hardware with Linux has a positive environmental impact, reducing electronic waste and minimizing the need for new computer purchases.
 
  Let old hardware continue to be useful and usable by installing a lightweight Linux distribution on it. We tried a lot of them and whittled them down to our five recommended distributions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Old Hardware Conundrum
 
@@ -38,9 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you have a relative who only wants to surf the web and catch up with emails, an old computer loaded with Linux is probably all they need. But we wanted to know whether a light distribution of Linux on old hardware could provide something that would allow you to do some real work.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Our Methods
 
  We installed many of the “lite” Linux distributions and whittled it down to five that we’d recommend for general, mainstream use. For our tests, we used the oldest piece of hardware that we had to hand, namely a Dell OptiPlex 790.
@@ -54,8 +59,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  These timings are for comparisons between the distributions under test on our hardware. Timings on other hardware will be different.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Linux Lite
 
  For many people, [Linux Lite](https://www.linuxliteos.com/index.html) is probably the first distribution that comes to mind when thinking about lightweight Linux distributions. It’s been around since 2012, so the project is almost as old as our test hardware.
@@ -77,9 +83,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Power on button to login screen: 1:04
 * Login screen to desktop: 0:14
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Bodhi Linux
 
 [Bodhi Linux](https://www.bodhilinux.com/) was launched back in 2011\. Like Linux Lite, it is built on the latest Ubuntu LTS version, Jammy Jellyfish.
@@ -112,8 +115,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The BunsenLabs Linux desktop with two terminals windows. One shows the output from Neofetch and the other is running top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/bunsenlabs.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We installed the latest version, Beryllium, which is based on [Debian 11 “Bullseye” stable](https://www.debian.org/News/2021/20210814). It was a 1.5GB download. The minimum requirements are 2GB RAM and a 20GB hard drive. There is no listed requirement for the processor.
 
  Don’t be put off by the woefully drab default desktop wallpaper, it can be changed easily. The icons, color schemes, and other desktop elements are easily tweaked.
@@ -126,6 +130,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 * Power on button to login screen: 0:46
 * Login screen to desktop: 0:10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Q4OS
 
@@ -150,9 +158,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Power on button to login screen: 0:58
 * Login screen to desktop: 0:16
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Xubuntu
 
 [Xubuntu](https://xubuntu.org/) is an official flavor of Ubuntu that uses the Xfce desktop environment and xfwm4 window manager, just like Linux Lite. It’s based on the latest Ubuntu LTS release 22.04, Jammy Jellyfish.
@@ -161,9 +166,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The Xubuntu desktop with two terminals windows. One shows the output from Neofetch and the other is running top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/xubuntu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You get all the packages you’d expect to get with a regular Ubuntu install, so it’s no surprise the download is a 2.83GB file. It’s got all the hand-holding and guidance that you get from regular Ubuntu, so it’s more accessible for newcomers than say, BunsenLabs Linux.
 
  Xubuntu took a comparatively long time to boot up, but in use, it was just as responsive as the other distributions we tried. All five were limited by the throughput of the OptiPlex’s old physical drive, but apart from those inherent lags, Xubuntu gave as smooth a performance as any of the other distributions.
@@ -187,8 +189,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +196,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-tweaking-sound-on-ps5ps4-games-for-2024/"><u>[Updated] Tweaking Sound on PS5/PS4 Games for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/5-must-know-techniques-for-cutting-through-reddit-noise-and-gaining-traction-for-2024/"><u>5 Must-Know Techniques for Cutting Through Reddit Noise and Gaining Traction for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-the-0x80e70570-issue-in-your-device/"><u>Diagnosing & Repairing the '0X80e70570' Issue in Your Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-infrastructure-spotlight-on-superior-network-servers-and-server-racks-for-2e-top-picks/"><u>Elevate Your Infrastructure: Spotlight on Superior Network Servers and Server Racks for 2E - Top Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-turn-down-the-volume-on-closed-captions-while-watching-amazon-prime-movies/"><u>How to Turn Down the Volume on Closed Captions While Watching Amazon Prime Movies</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/il-top-tools-di-sincronizzazione-piu-affidabili-per-gmail-su-pc-con-windows/"><u>Il Top Tools Di Sincronizzazione Più Affidabili per Gmail Su PC Con Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-gpt-my-bot-a-guide-for-learning-games-and-art/"><u>Mastering GPT-My Bot: A Guide for Learning Games & Art</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp3iphone/"><u>MP3プレイヤー機能を使ったiPhoneでのオーディオ再生方法と問題解決ガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/opening-windows-secrets-with-precision/"><u>Opening Windows Secrets with Precision</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfect-your-profile-easy-guide-for-instagram-videos-from-desktop/"><u>Perfect Your Profile Easy Guide for Instagram Videos From Desktop</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-core-elements-of-kinetic-visual-storytelling-for-2024/"><u>The Core Elements of Kinetic Visual Storytelling for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-running-dual-tasks-in-split-screen-mode-on-macbook-air-and-pro/"><u>The Ultimate Guide to Running Dual Tasks in Split Screen Mode on MacBook Air & Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-understanding-line-a-detailed-review-for-users/"><u>The Ultimate Guide to Understanding Line - A Detailed Review for Users</u></a></li>
+</ul></div>
 

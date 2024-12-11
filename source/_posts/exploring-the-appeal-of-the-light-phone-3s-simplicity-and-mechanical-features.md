@@ -1,7 +1,7 @@
 ---
 title: Exploring the Appeal of the Light Phone 3'S Simplicity and Mechanical Features
-date: 2024-08-30T16:12:55.768Z
-updated: 2024-08-31T16:12:55.768Z
+date: 2024-12-05T00:40:13.561Z
+updated: 2024-12-11T03:16:54.687Z
 tags:
   - mobile
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [I Used the Light Phone 2 for Years](https://buynow-tips.techidaily.com/features-face-off-can-kobo-nia-outshine-amazons-beloved-kindle/)
 * [What I'm Looking Forward to in the Light Phone 3](https://sound-issues.techidaily.com/resolved-troubleshooting-guide-for-fixing-windows-11-sound-issues/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Light Phone 3 has USB-C, 5G, and cameras, solving issues faced by Light Phone 2 users.
@@ -30,8 +34,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Someone holding a Light Phone 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/light-phone-ii-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Light Phone
 
  I wouldn't say that being a technology writer means I use my phone more than most people, but it does mean I probably think about my phone more often.
@@ -44,6 +49,10 @@ Light Phone
 
  I think of them like the [Playdate](https://digital-screen-recording.techidaily.com/updated-rev-voice-recorder-download-and-review/), a black-and-white game console that feels like a modern take on the Game Boy. No one argues that it's better than a Nintendo Switch, but thousands of people have bought one anyway, and they love it. There is something to be appreciated about a niche device designed with care specifically for the kind of people who are into such a thing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  I Used the Light Phone 2 for Years
 
  I carried around a Light Phone 2 for years and loved it. In many ways, it delivered on its promise. No, buying a Light Phone doesn't magically make you less addicted to screens or turn you into an expert at all of your hobbies, but it does add friction where you might want there to be friction. Example: I watch much less YouTube when I have a Light Phone because while it's super convenient to watch a video on my phone at any time, I don't necessarily want to grab a laptop or a tablet. I'm also not going to walk down the hall staring at my laptop screen and ignoring family members the same way it's easy to do with my phone.
@@ -52,9 +61,6 @@ Light Phone
 
  When I read the [Light Phone 3 announcement](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/), nearly every single issue I had appears to be solved (though until I get the actual hardware, I can't say for sure).
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What I'm Looking Forward to in the Light Phone 3
 
  One of my biggest frustrations with the Light Phone 2 had nothing to do with all the apps I had to give up. No, it was the charging port. The phone used microUSB. This charging cable was once ubiquitous, but those days are gone.
@@ -64,15 +70,13 @@ Light Phone
  The Light Phone 3 announcement says the phone will come with a USB-C port, 5G, and stronger radios. If Light re-released the Light Phone 2 with just these changes alone, I'd have been tempted to get one.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Sometimes, a Camera Is Necessary
 
 ![Light Phone 3 in a pocket.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-in-a-pocket.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Light Phone
 
  The Light Phone 2 doesn't have a camera. I was intrigued by this as a bit of a social experiment. What would it mean to go back to no longer carrying a camera on me at all times?
@@ -85,16 +89,14 @@ Light Phone
 
  These cameras don't merely come with a smartphone-style app. Instead, the Light Phone 3 has a wheel on the side that serves as a clickable shutter button. It aims to provide tactile feedback when you're taking pictures, making the phone feel like both a feature phone and a point-and-shoot camera. As someone who bought a point-and-shoot to carry around with my Light Phone 2, this is a change I'm here for.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  A Phone Built to Last
 
 ![Light Phone 3 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/light-phone-3-on-a-table.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Light Phone
 
  The Light Phone 2 appeals to a lot of people looking to shrink their digital footprint, and part of that means the e-waste they generate. Unfortunately, while Light has supported the software on their phone for half a decade, the phone isn't easily repaired. It has a non-removable battery, and there is no easy way to get at the screen.
@@ -113,8 +115,6 @@ Light Phone
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +122,17 @@ Light Phone
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlocking-the-potential-crafting-top-tier-gopro-filming/"><u>[New] In 2024, Unlocking the Potential Crafting Top-Tier Gopro Filming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-enhancing-experience-best-audio-sources-for-unpack-videos/"><u>[Updated] 2024 Approved Enhancing Experience Best Audio Sources for Unpack Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crusader-kings-iii-stability-issues-how-to-fix-pc-game-crashes/"><u>Crusader Kings III Stability Issues: How to Fix PC Game Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-at-the-samsung-unpacked-25-showcase-timings-latest-news-and-predictions/"><u>Inside Look at the Samsung Unpacked 2#5 Showcase: Timings, Latest News & Predictions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-computing-hub-expert-reviews-on-gadgets-and-pc-parts/"><u>Inside Tom's Computing Hub - Expert Reviews on Gadgets and PC Parts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-the-art-of-sound-blending-a-comprehensive-audacity-workshop-series-for-2024/"><u>Perfecting the Art of Sound Blending A Comprehensive Audacity Workshop Series for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solve-your-iphone-photography-woes-expert-tips-to-restore-auto-focus/"><u>Solve Your iPhone Photography Woes: Expert Tips to Restore Auto-Focus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-strategies-expert-tips-on-winning-at-royal-match/"><u>Step-by-Step Strategies: Expert Tips on Winning at Royal Match</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-in-gaming-playstation-portable-release-schedule-cost-estimates-device-details-and-where-to-shop/"><u>The Next Big Thing in Gaming: PlayStation Portable - Release Schedule, Cost Estimates, Device Details & Where to Shop</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-realme-11-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Realme 11 Pro.</u></a></li>
+</ul></div>
 

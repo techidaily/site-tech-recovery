@@ -1,7 +1,7 @@
 ---
 title: 5 Important Tips to Bear in Mind Before Acquiring an Old iPad Device
-date: 2024-08-26T08:28:43.215Z
-updated: 2024-08-27T08:28:43.215Z
+date: 2024-12-04T21:30:40.268Z
+updated: 2024-12-11T10:16:15.249Z
 categories:
   - BestProducts
 description: This Article Describes 5 Important Tips to Bear in Mind Before Acquiring an Old iPad Device
@@ -36,6 +36,10 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -44,8 +48,9 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -53,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 * **Scroll down an email list (J)** : Press the**J** key to scroll down.
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
 
@@ -71,9 +80,6 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -84,9 +90,6 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -97,9 +100,6 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -113,8 +113,9 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -124,8 +125,9 @@ thumbnail: https://www.lifewire.com/thmb/f1LeK-uIq9OAKQ5jBaXOgpADIpo=/540x405/fi
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -146,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +155,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-insights-for-effective-clips-blending/"><u>[New] In 2024, Expert Insights for Effective Clips Blending</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-securing-your-videos-on-facebook-pc-plus-android-methods/"><u>[Updated] In 2024, Securing Your Videos on Facebook PC + Android Methods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unveiling-techniques-to-harvest-gif-images-directly-from-fb/"><u>2024 Approved Unveiling Techniques to Harvest GIF Images Directly From FB</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5-critical-considerations-for-shoppers-of-renovated-laptop-devices/"><u>5 Critical Considerations for Shoppers of Renovated Laptop Devices</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-website-traffic-with-advanced-cookiebot-seo-solutions/"><u>Boost Website Traffic with Advanced Cookiebot SEO Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-movie-download-websites-here/"><u>Discover the Best Free Movie Download Websites Here</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/grade-a-performance-grade-a-style-the-comprehensive-review-of-samsung-galaxy-s1/"><u>Grade-A Performance, Grade-A Style: The Comprehensive Review of Samsung Galaxy S1지트</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-arrange-personalized-technical-support-at-the-apple-stores-genius-bar/"><u>How to Arrange Personalized Technical Support at the Apple Store's Genius Bar</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-features-of-asuss-proart-pa-329q-the-ultimate-professional-display/"><u>In 2024, Exploring the Features of Asus's ProArt PA 329Q – The Ultimate Professional Display</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-mastering-the-art-of-background-blurring-on-google-meet/"><u>Simple Steps: Mastering the Art of Background Blurring on Google Meet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-securing-your-email-in-spam-filters/"><u>Step-by-Step Guide: Securing Your Email in Spam Filters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-configuring-your-email-signature-with-godaddys-webmail-service/"><u>The Ultimate Walkthrough for Configuring Your Email Signature with GoDaddy's Webmail Service</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-headphones-in-windows-11/"><u>Troubleshooting Guide: Fixing Non-Functional Headphones in Windows 11</u></a></li>
+</ul></div>
 

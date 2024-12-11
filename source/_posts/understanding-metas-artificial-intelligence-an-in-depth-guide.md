@@ -1,7 +1,7 @@
 ---
 title: "Understanding Meta's Artificial Intelligence: An In-Depth Guide"
-date: 2024-08-26T08:27:28.592Z
-updated: 2024-08-27T08:27:28.592Z
+date: 2024-12-07T01:40:45.275Z
+updated: 2024-12-11T00:18:48.832Z
 categories:
   - BestProducts
 description: "This Article Describes Understanding Meta's Artificial Intelligence: An In-Depth Guide"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 Close 
 
  This article gives a quick rundown of what the Meta AI assistant is and how it compares to other chatbots like ChatGPT or Gemini. It also provides tips on how to use it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is the Meta AI Assistant? 
 
@@ -28,17 +32,15 @@ Close
  If you don't see Meta AI in an app you're using, check for an update.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Who Built Meta AI? 
 
  Meta AI is an artificial intelligence research laboratory owned by Meta Platforms Inc. It was founded in 2015 as Facebook Artificial Intelligence Research (FAIR) and later renamed when Facebook, Inc. rebranded as Meta Platforms, Inc. The team behind the chatbot includes researchers and engineers who work on machine learning, computer vision, natural language processing, and other areas of AI research.
 
  Meta AI's unique language model is called[ Llama 3](https://llama.meta.com/llama3/) ; it's open-source and freely available. The company positions it as a competitor to ChatGPT and Google Gemini, with several features custom-designed for the popular apps you use.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Can Meta AI Do? 
 
  Meta AI is similar to generative multi-modal chatbots like ChatGPT, Copilot, and Gemini. But uniquely, it also works with Google and Bing for real-time search.
@@ -52,11 +54,13 @@ Close
 ![Meta AI on the Web](https://www.lifewire.com/thmb/g0zAqyNCCsGzSSxgOty0neVOgBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ask-Meta-35d2b7072de04faabbc4ba461270c3eb.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Can You Use Meta AI? 
 
  If you live in the U.S. or any supported country, you can use Meta AI in Facebook, Instagram, WhatsApp, Messenger, and[ on the web](https://www.meta.ai/) .
@@ -67,14 +71,12 @@ Close
 
 ![Using Meta AI in an Instagram chat](https://www.lifewire.com/thmb/p_xZcrKy0CoLH-PPGSE3lNEoIlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram-Meta-AI-a22c619032aa45ec9967463a59eb1ac0.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Along with Meta AI, there are[ 28 more AI 'characters'](https://about.fb.com/news/2023/09/social-profiles-for-metas-ai-characters/) with unique personas and even social profiles on Facebook and Instagram. Some are digital avatars of cultural icons you recognize, such as Snoop Dogg, Tom Brady, Kendall Jenner, and Naomi Osaka. Meta AI generates their text posts, and the images come from Emu.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Note:
 
  As it's open source,[ Meta AI's frameworks, tools, libraries, datasets, and models](https://ai.meta.com/resources/) are also available to everyone for AI research and app development.
@@ -101,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +110,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-excellence-on-screen-the-years-best-camcorders-reviewed-for-2024/"><u>[New] Excellence on Screen The Year's Best Camcorders Reviewed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-learn-the-art-of-gaussian-blur-mobile-and-pc-edition/"><u>[Updated] Learn the Art of Gaussian Blur Mobile and PC Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-things-you-should-know-about-youtube-live-thumbnails/"><u>[Updated] Things You Should Know About YouTube Live Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fullscreen-innovations-unveiled-in-adobe-premiere-pro/"><u>2024 Approved Fullscreen Innovations Unveiled in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-your-fb-live-on-zoom-stream/"><u>2024 Approved Optimizing Your FB Live on Zoom Stream</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-analysis-unboxing-and-testing-the-third-gen-apple-tv-4k/"><u>Expert Analysis: Unboxing and Testing the Third Gen Apple TV 4K</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enable-and-manage-picture-in-picture-on-your-android-screen/"><u>How to Enable & Manage Picture-in-Picture on Your Android Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-x9a-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor X9a to iPad | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-innovative-8-android-video-chat-apps-beyond-duostrios/"><u>In 2024, Innovative 8 Android Video Chat Apps Beyond Duos/Trios</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-playback-issues-follow-these-tips-to-resume-your-favorite-title-without-trouble/"><u>Netflix Playback Issues? Follow These Tips to Resume Your Favorite Title Without Trouble!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps5-purchase-is-it-justified-discover-the-five-compelling-reasons-to-level-up-your-gaming-experience/"><u>PS5 Purchase: Is It Justified? Discover the Five Compelling Reasons to Level Up Your Gaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequential-watchlist-experience-the-legendary-bond-journey/"><u>Sequential Watchlist: Experience the Legendary Bond Journey</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-restoration-how-to-get-your-beyond-the-wire-mic-working-again/"><u>Step-by-Step Restoration: How to Get Your Beyond The Wire Mic Working Again</u></a></li>
+</ul></div>
 

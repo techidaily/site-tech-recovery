@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Top Upcoming Enhancements for iPhone, iPad, Mac with AI Integration Announced by Apple This Autumn - Features Revealed on ZDNet"
-date: 2024-12-03T06:54:47.977Z
-updated: 2024-12-05T07:17:39.721Z
+date: 2024-12-04T08:39:48.017Z
+updated: 2024-12-11T12:25:41.531Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -71,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -91,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -119,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -134,7 +138,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,24 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-top-video-editors-for-webcams/"><u>[Updated] 2024 Approved Ultimate Guide to Top Video Editors for Webcams</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-economic-elders-youtubes-most-knowledgeable-financial-stations/"><u>[Updated] Economic Elders YouTube's Most Knowledgeable Financial Stations</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-10-best-zero-cost-videochats-collaboration-at-your-desk/"><u>2024 Approved 10 Best Zero-Cost Videochats Collaboration at Your Desk</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/practices-for-designing-an-engaging-youtube-teaser/"><u>Best Practices for Designing an Engaging YouTube Teaser</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-closed-captions-in-amazons-streaming-service/"><u>Disabling Closed Captions in Amazon's Streaming Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enjoy-movies-and-shows-for-free-with-these-12-exceptional-streaming-applications/"><u>Enjoy Movies and Shows for Free with These 12 Exceptional Streaming Applications</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-pc-crashes-in-cult-of-the-lamb-game/"><u>Expert Advice: Addressing and Correcting PC Crashes in Cult of the Lamb Game</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-the-mssoccsndll-file-missing-error-on-your-computer/"><u>How to Resolve the 'mssoccsn.dll' File Missing Error on Your Computer</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/master-excel-cell-consolidation-techniques-with-expert-advice-from-zdnet/"><u>Master Excel Cell Consolidation Techniques with Expert Advice From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-setup-issues-overcoming-initialization-errors-guide/"><u>Mastering Windows 11 Setup Issues: Overcoming Initialization Errors [Guide]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/real-time-netflix-watching-the-ultimate-guide-to-screen-broadcasts/"><u>Real-Time Netflix Watching: The Ultimate Guide to Screen Broadcasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reenergize-your-airpods-in-just-9-steps-beat-the-charge-drain/"><u>Reenergize Your AirPods in Just 9 Steps – Beat the Charge Drain</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-topfield-recorded-media-to-high-quality-mp4/"><u>Step-by-Step Guide: Converting Topfield Recorded Media to High-Quality MP4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-collection-of-16-zero-cost-resources-to-learn-and-enhance-asl-skills/"><u>The Ultimate Collection of 16 Zero-Cost Resources to Learn and Enhance ASL Skills</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-overview-of-rtx-series-cards-from-nvidia-capabilities-unveiled/"><u>The Ultimate Overview of RTX Series Cards From Nvidia: Capabilities Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trouble-with-roblox-determining-if-its-a-downtime-event/"><u>Trouble with Roblox? Determining if It's a Downtime Event</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-8-ways-to-monetize-chatgpt-for-additional-revenue/"><u>Unlocking the Potential: 8 Ways to Monetize ChatGPT for Additional Revenue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-your-free-tunes-a-step-by-step-guide-to-securing-a-spotify-student-rate/"><u>Unlocking Your Free Tunes: A Step-by-Step Guide to Securing a Spotify Student Rate</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quick-and-reliable-image-captures-pcs-top-5-apps/"><u>[New] Quick and Reliable Image Captures PC's Top 5 Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-epic-retrospect-swiftly-undoing-iphone-videos/"><u>[Updated] In 2024, Epic Retrospect Swiftly Undoing iPhone Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quality-overload-top-10-hd-video-apps-for-your-android/"><u>[Updated] In 2024, Quality Overload Top 10 HD Video Apps for Your Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-alexa-versus-google-assistant-determining-the-best-personal-digital-assistant-for-you/"><u>Amazon Alexa versus Google Assistant - Determining the Best Personal Digital Assistant for You</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-placing-various-pins-concurrently-using-google-map-services/"><u>Comprehensive Guide: Placing Various Pins Concurrently Using Google Map Services</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-self-narratives-100-unique-instagram-captions/"><u>Crafting Self-Narratives - 100 Unique Instagram Captions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dive-into-epic-storytelling-with-these-amazing-free-movie-selections-on-youtube-for-july-2024/"><u>Dive Into Epic Storytelling with These Amazing Free Movie Selections on YouTube for July 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-establish-an-additional-email-identity-on-your-gmail-account/"><u>Easy Steps to Establish an Additional Email Identity on Your Gmail Account</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-resolving-a-503-error-a-guide-to-restoring-website-access/"><u>Expert Tips for Resolving a '503 Error' – A Guide to Restoring Website Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-streaming-espnplus-live-sports-events-on-your-lg-smart-television/"><u>Guide: Streaming ESPN+ Live Sports Events on Your LG Smart Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-the-d3dx-library-not-loaded-issue/"><u>How to Correctly Handle the D3DX Library Not Loaded Issue</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-digital-communication-top-5-secure-email-platforms-for-peace-of-mind/"><u>Mastering Digital Communication: Top 5 Secure Email Platforms for Peace of Mind</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screen-capture-without-breaking-the-bank-our-top-picks-for-2024/"><u>Screen Capture Without Breaking the Bank Our Top Picks for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-privacy-a-guide-to-hiding-contact-info-on-android-devices/"><u>Securing Privacy: A Guide to Hiding Contact Info on Android Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-document-handling-with-fujitsu-scansnap-ix1400-the-ultimate-scanner-choice-for-home-office-professionals-and-startups/"><u>Streamline Document Handling with Fujitsu ScanSnap iX1400 - The Ultimate Scanner Choice for Home Office Professionals and Startups</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-score-amazing-discounts-on-games-in-octobers-prime-deal-extravaganza-insights-from-zdnet/"><u>The Ultimate Guide to Score Amazing Discounts on Games in October's Prime Deal Extravaganza | Insights From ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ultimate-guide-to-the-raspberry-pi-400-laptop-style-single-board-computer/"><u>Ultimate Guide to the Raspberry Pi 400 Laptop-Style Single Board Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/win-back-control-solutions-to-thwart-stuck-menu-clicks/"><u>Win Back Control: Solutions to Thwart Stuck Menu Clicks</u></a></li>
 </ul></div>
 

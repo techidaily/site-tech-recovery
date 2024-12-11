@@ -1,7 +1,7 @@
 ---
 title: "To Upgrade or Not: Pros & Cons of Switching to iPhone 16, According to Expert Reviewers at ZDNet"
-date: 2024-11-29T12:12:53.114Z
-updated: 2024-12-04T21:42:33.650Z
+date: 2024-12-05T01:10:23.693Z
+updated: 2024-12-11T03:43:32.590Z
 tags:
   - apple
 categories:
@@ -30,12 +30,16 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -49,10 +53,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -89,16 +89,12 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -110,6 +106,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -118,15 +118,15 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -168,22 +168,20 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-8-exemplary-templates-dominate-social-media-creatives/"><u>[New] In 2024, 8 Exemplary Templates Dominate Social Media Creatives</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-comprehensive-guide-to-premium-no-cost-online-recorders-for-2024/"><u>[Updated] Comprehensive Guide to Premium, No-Cost Online Recorders for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-an-inside-look-at-magix-vpxs-advanced-techniques/"><u>2024 Approved An Inside Look at Magix VPX's Advanced Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-exquisite-drone-fleet-the-pinnacle-of-visual-artistry/"><u>2024 Approved Exquisite Drone Fleet The Pinnacle of Visual Artistry</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/behind-chatgpts-innovation-who-are-the-brain-trust/"><u>Behind ChatGPT's Innovation: Who Are The Brain Trust?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-childrens-movie-recommendations-for-disneyplus-in-july-2024/"><u>Best Children's Movie Recommendations for Disney+ in July 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/extract-soundtrack-of-fb-events/"><u>Extract Soundtrack of FB Events</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-shrink-your-videos-5-free-compression-apps-for-iphone-and-ipad-users/"><u>New 2024 Approved Shrink Your Videos 5 Free Compression Apps for iPhone and iPad Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-phone-search-strategies-finding-contact-details-safely-and-effectively/"><u>Online Phone Search Strategies: Finding Contact Details Safely and Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/perfecting-your-posts-with-sound-adding-music-to-instagram-videos-made-easy/"><u>Perfecting Your Posts with Sound: Adding Music to Instagram Videos Made Easy</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-tecno-pop-8-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Tecno Pop 8 Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-advapi32dll-file-missing-issues-on-your-computer/"><u>Solving the 'Advapi32.dll' File Missing Issues on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-missing-avcodecdll-errors-in-windows-1087/"><u>The Ultimate Solution to Missing Avcodec.dll Errors in Windows 10/8/7</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-12-complimentary-keyboard-skill-courses-ideal-for-every-age-group/"><u>Top 12 Complimentary Keyboard Skill Courses: Ideal for Every Age Group</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-and-improving-content-through-chatgpt-integration/"><u>Unleashing Creativity and Improving Content Through ChatGPT Integration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-stops-you-from-using-facebook-marketplace-a-comprehensive-exploration-of-restrictions/"><u>What Stops You From Using Facebook Marketplace? A Comprehensive Exploration of Restrictions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1726222767756-movavi/"><u>快速無條件MOV節目改成AVI格式 | 移頁視訊解決方案</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubre-tecnicas-eficientes-para-recortar-videos-en-tu-telefono-android-utilizando-la-guia-movavi-clips/"><u>Descubre Técnicas Eficientes Para Recortar Vídeos en Tu Teléfono Android Utilizando La Guía Movavi Clips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-transition-how-to-convert-network-settings-from-public-to-private-in-windows-11/"><u>Effortless Transition: How to Convert Network Settings From Public to Private in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-connect-your-printer-to-laptop-both-wireless-and-cable-methods-covered/"><u>Effortlessly Connect Your Printer to Laptop - Both Wireless and Cable Methods Covered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-gameplay-quality-overcoming-input-lag-on-your-additional-screen-while-using-windows-10-or-11/"><u>Enhancing Gameplay Quality: Overcoming Input Lag on Your Additional Screen While Using Windows 10 or 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-easily-connect-and-use-your-triple-screen-computer-system/"><u>Expert Advice: Easily Connect and Use Your Triple-Screen Computer System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-restore-functionality-eliminating-windows-error-code-0xa0abba-from-camcorders-and-webcams-in-os-1011/"><u>Expert Tips to Restore Functionality: Eliminating Windows Error Code 0XA0^ABBA From Camcorders and Webcams in OS 10/11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/experts-choice-top-10-high-definition-screen-recorders-for-2024/"><u>Expert's Choice Top 10 High-Definition Screen Recorders for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-and-quick-guide-how-to-safely-print-your-pdfs-without-hacking-risks/"><u>Free and Quick Guide: How to Safely Print Your PDFs Without Hacking Risks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-sound-back-solutions-for-when-laptop-speakers-wont-work/"><u>Get Your Sound Back: Solutions for When Laptop Speakers Won't Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-your-seagate-hard-drive-up-and-running-on-a-windows-10-computer-quick-fix/"><u>How to Get Your Seagate Hard Drive Up and Running on a Windows 10 Computer [Quick Fix]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-t2-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo T2 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a56s-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A56s 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-cross-line-disruptions-a-guide-to-straightening-your-pc-display/"><u>Resolving Cross-Line Disruptions: A Guide to Straightening Your PC Display</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725288987708-windows-winx-video-converter/"><u>Windows向け無料動画コンバーター WinX Video Converter - 初心者のための徹底解説ガイド</u></a></li>
 </ul></div>
 

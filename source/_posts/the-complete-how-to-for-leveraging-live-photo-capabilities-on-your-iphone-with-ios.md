@@ -1,7 +1,7 @@
 ---
 title: The Complete How-To for Leveraging Live Photo Capabilities on Your iPhone with iOS
-date: 2024-08-26T08:28:27.121Z
-updated: 2024-08-27T08:28:27.121Z
+date: 2024-12-08T07:54:50.600Z
+updated: 2024-12-10T21:01:14.158Z
 categories:
   - BestProducts
 description: This Article Describes The Complete How-To for Leveraging Live Photo Capabilities on Your iPhone with iOS
@@ -33,9 +33,19 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -43,7 +53,16 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
@@ -52,8 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +120,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-exploring-gradual-echo-deactivation-in-audacity/"><u>[New] In 2024, Exploring Gradual Echo Deactivation in Audacity</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-premium-15-high-resolution-camcorders-reviewed/"><u>[Updated] Premium 15 High-Resolution Camcorders Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-next-google-pixel-projections-on-cost-debut-moment-and-potential-features/"><u>Anticipating the Next Google Pixel - Projections on Cost, Debut Moment & Potential Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-viewing-all-harry-potter-films-sequentially/"><u>Complete Guide: Viewing All Harry Potter Films Sequentially</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-to-correct-the-zlibdll-file-error-in-windows/"><u>Comprehensive Solutions to Correct the zlib.dll File Error in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-2024s-choice-of-12-leading-free-internet-calling-apps/"><u>Discover the 2024'S Choice of 12 Leading Free Internet Calling Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-fixes-for-when-your-samsung-soundbar-goes-quiet-comprehensive-solutions/"><u>Expert Fixes for When Your Samsung Soundbar Goes Quiet: Comprehensive Solutions.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-ingenious-techniques-for-voice-transformation-at-zero-price/"><u>In 2024, Explore Ingenious Techniques for Voice Transformation at Zero Price</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-pop-7-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Tecno Pop 7 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-savor-on-screen-mastering-food-films-with-these-7-essentials/"><u>In 2024, Savor on Screen - Mastering Food Films with These 7 Essentials</u></a></li>
+<li><a href="https://discover-best.techidaily.com/meilleures-applications-de-controle-video-pour-mac-et-apple-tv-les-top-5-selectionnes/"><u>Meilleures Applications De Contrôle Vidéo Pour Mac Et Apple TV: Les Top 5 Sélectionnés</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-system-with-these-15-recommended-no-cost-antivirus-booting-options/"><u>Secure Your System with These 15 Recommended No-Cost Antivirus Booting Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-correcting-issues-with-the-lost-d3dx9amoled-dll-file/"><u>Step-by-Step Solution: Correcting Issues with the Lost D3dx9_amoled DLL File</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/stop-automated-youtube-content-rollouts-for-2024/"><u>Stop Automated YouTube Content Rollouts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-line-defects-in-televisions-a-comprehensive-solution/"><u>Troubleshooting Line Defects in Televisions: A Comprehensive Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-when-d3dx930dll-is-nowhere-to-be-found/"><u>Troubleshooting Techniques for When d3dx9_30.dll Is Nowhere to Be Found</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-you-encounter-a-missing-coredll-error/"><u>Troubleshooting: What to Do When You Encounter a Missing Core.DLL Error</u></a></li>
+</ul></div>
 

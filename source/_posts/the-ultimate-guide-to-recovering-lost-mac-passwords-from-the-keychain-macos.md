@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Recovering Lost Mac Passwords From the Keychain (macOS)
-date: 2024-12-03T19:55:30.487Z
-updated: 2024-12-04T16:02:00.476Z
+date: 2024-12-07T17:27:32.043Z
+updated: 2024-12-11T13:27:47.226Z
 tags:
   - apple
 categories:
@@ -19,16 +19,12 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
 
@@ -39,7 +35,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -53,7 +49,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -70,6 +66,10 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -79,7 +79,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -113,20 +113,19 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-zippy-zoomers-prime-fastest-titles-for-touch-screens-and-tabs/"><u>[Updated] Zippy Zoomers Prime Fastest Titles for Touch Screens & Tabs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-speech-refinement-kit-free-tools-for-flawless-audio-effects/"><u>2024 Approved The Ultimate Speech Refinement Kit Free Tools for Flawless Audio Effects</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/detailed-walkthrough-on-hooking-up-playstation-virtual-reality-to-a-computer-system/"><u>Detailed Walkthrough on Hooking Up PlayStation Virtual Reality to a Computer System</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-borders-with-virtual-reality-tours/"><u>In 2024, Beyond Borders with Virtual Reality Tours</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-turning-traffic-into-cash-calculating-the-essential-youtube-number/"><u>In 2024, Turning Traffic Into Cash Calculating the Essential Youtube Number</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-affilie-atteindre-un-seo-superieur-grace-a-la-creation-de-liens-profonds-personnalises/"><u>Movavi Affilié: Atteindre Un SEO Supérieur Grâce À La Création De Liens Profonds Personnalisés</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/quick-start-video-recording-on-logitech-webcam/"><u>Quick Start Video Recording on Logitech Webcam</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revamp-your-viewing-experience-the-ultimate-guide-to-samsung-tv-firmware-updates/"><u>Revamp Your Viewing Experience: The Ultimate Guide to Samsung TV Firmware Updates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rumored-tesla-phone-info-estimated-retail-price-expected-debut-date-and-key-specifications/"><u>Rumored Tesla Phone Info: Estimated Retail Price, Expected Debut Date, and Key Specifications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/statni-nakladatelstvi-knih-state-publishing-house/"><u>Státní Nakladatelství Knih (State Publishing House)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-solving-playback-problems-for-netflix-on-roku/"><u>Step-by-Step Guide: Solving Playback Problems for Netflix on Roku</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-viewing-lord-of-the-rings-trilogy-sequentially/"><u>The Ultimate Guide: Viewing 'Lord of the Rings' Trilogy Sequentially</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-non-bose-non-jbl-bluetooth-speaker-proven-to-boost-volume-an-in-depth-review-zdnet/"><u>Top Non-Bose, Non-JBL Bluetooth Speaker Proven to Boost Volume - An In-Depth Review | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watch-what-you-love-unlocking-the-secrets-of-viewing-fandango-content-on-apple-tv-at-home/"><u>Watch What You Love: Unlocking the Secrets of Viewing Fandango Content on Apple TV at Home</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ai-mp4-movavi/"><u>ムリョウランオンライン AI MP4変換ツール - Movavi</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-capturing-crisp-sound-a-guide-to-superior-audio-recording-for-2024/"><u>[New] Capturing Crisp Sound A Guide to Superior Audio Recording for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-overcoming-screen-blackouts-in-recording-tools/"><u>[New] Overcoming Screen Blackouts in Recording Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-revolutionize-digital-diaries-with-complimentary-tools/"><u>[Updated] 2024 Approved Revolutionize Digital Diaries with Complimentary Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerating-periscope-video-transmission-for-2024/"><u>Accelerating Periscope Video Transmission for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discord-struggle-no-more-proven-tips-for-dealing-with-unresponsive-launches-and-quick-fixes/"><u>Discord Struggle No More: Proven Tips for Dealing with Unresponsive Launches and Quick Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-broadcasting-your-ps5-gaming-experience-online/"><u>Easy Tutorial: Broadcasting Your PS5 Gaming Experience Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-diagonal-distortions-tips-for-aligning-your-monitor-correctly/"><u>Eliminating Diagonal Distortions: Tips for Aligning Your Monitor Correctly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-audio-magic-the-premier-list-of-dolby-atmos-movies-to-watch-from-the-comfort-of-your-couch/"><u>Experience Audio Magic: The Premier List of Dolby Atmos Movies to Watch From the Comfort of Your Couch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-aim-a-history-of-the-iconic-aol-instant-messaging-service/"><u>Exploring AIM: A History of the Iconic AOL Instant Messaging Service</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-razr-40-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Razr 40 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-hit-the-bottom-finding-your-best-free-youtube-downloader-app-on-android/"><u>In 2024, Hit the Bottom - Finding Your Best Free YouTube Downloader App on Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tackling-the-chatgpt-bodystream-error-top-7-strategies-for-a-seamless-fix/"><u>Tackling the ChatGPT BodyStream Error: Top 7 Strategies for a Seamless Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-viewers-on-your-youtube-content-a-comprehensive-guide/"><u>Uncover Viewers on Your YouTube Content: A Comprehensive Guide</u></a></li>
 </ul></div>
 

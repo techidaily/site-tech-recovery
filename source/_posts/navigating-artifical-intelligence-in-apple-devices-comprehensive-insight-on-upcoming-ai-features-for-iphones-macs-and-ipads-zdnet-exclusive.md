@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2024-11-29T12:18:33.566Z
-updated: 2024-12-05T06:35:29.311Z
+date: 2024-12-06T04:37:01.943Z
+updated: 2024-12-11T08:15:39.395Z
 tags:
   - apple
 categories:
@@ -56,7 +56,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -75,10 +75,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -92,7 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -120,7 +116,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -134,6 +130,10 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -152,7 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -210,22 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/0-youtube-video-ideas-for-sharing-your-personal-story/"><u>[New] 10 YouTube Video Ideas for Sharing Your Personal Story</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/binkw32dll-error-fix-guide-strategies-to-overcome-file-not-found-issues/"><u>Binkw32.dll Error Fix Guide: Strategies to Overcome File Not Found Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-verses-with-ai-the-step-by-step-process-using-chatgpt/"><u>Crafting Verses with AI: The Step-by-Step Process Using ChatGPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-techniques-to-prevent-android-apps-from-operating-behind-the-scenes/"><u>Effective Techniques to Prevent Android Apps From Operating Behind-the-Scenes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-resolving-the-problem-of-your-sony-wh-1000xm-series-microphone-not-working-on-desktop-computers/"><u>Guide: Resolving the Problem of Your Sony WH-1000XM Series Microphone Not Working on Desktop Computers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-20c-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 20C in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-play-and-share-adventures-on-your-ps5-with-loved-ones/"><u>How To Play and Share Adventures On Your PS5 With Loved Ones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-c-spans-fee-free-footage-access-a-compreayer-guide/"><u>In 2024, C-Span's Fee-Free Footage Access A Compreayer Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-discover-engaging-youtube-threads/"><u>In 2024, Discover Engaging YouTube Threads</u></a></li>
-<li><a href="https://blog-min.techidaily.com/kopie-dvds-mit-schutz-gegen-vervielfaltigung-schritt-fur-schritt-anleitung/"><u>Kopie DVDs Mit Schutz Gegen Vervielfältigung: Schritt-Für-Schritt Anleitung</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722971126090-latest-update-fixes-acpismo8810-driver-problem-in-dell-devices-download-immediately/"><u>Latest Update Fixes ACPI/SMO8810 Driver Problem in Dell Devices - Download Immediately</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-solution-for-stop-error-0x0000003d-expert-tips-and-techniques/"><u>Mastering the Solution for STOP Error 0X0000003D: Expert Tips and Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-contacting-snapchat-assistance-services/"><u>Step-by-Step Guide to Contacting Snapchat Assistance Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-science-behind-oleds-functioning-principles-unveiled/"><u>The Science Behind OLEDs: Functioning Principles Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-pc-with-these-15-fantastic-free-windows-11-designs/"><u>Transform Your PC with These 15 Fantastic Free Windows 11 Designs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-strategies-to-locate-a-persons-mobile-number-online/"><u>Unveiling Strategies to Locate a Person’s Mobile Number Online</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-vr-adventure-top-10-best-selling-mobile-games/"><u>[New] VR Adventure Top 10 Best-Selling Mobile Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-recording-tech-evaluation-blueprint/"><u>[Updated] 2024 Approved Recording Tech Evaluation Blueprint</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024-techniques-step-up-your-game-with-improved-fortnite-fps/"><u>2024 Techniques: Step Up Your Game with Improved Fortnite FPS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-secure-surfing-using-chromes-private-window-features/"><u>A Beginner's Guide to Secure Surfing: Using Chrome's Private Window Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accelerate-gaming-experience-master-efficient-gpu-assessments-in-minutes/"><u>Accelerate Gaming Experience: Master Efficient GPU Assessments in Minutes!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accelerate-your-pc-a-guide-with-10-fast-track-methods-for-better-speeds/"><u>Accelerate Your PC: A Guide with 10 Fast Track Methods for Better Speeds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/access-complimentary-latest-dell-driver-updates-for-seamless-compatibility-with-windows-11/"><u>Access Complimentary Latest Dell Driver Updates for Seamless Compatibility with Windows 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv-for-2024/"><u>New Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV) for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-green-screen-apps-for-mac-a-comprehensive-guide-for-2024/"><u>New Best Green Screen Apps for Mac A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/public-opinion-shifts-as-tech-titans-erode-in-trustworthiness/"><u>Public Opinion Shifts as Tech Titans Erode in Trustworthiness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/taste-and-nutrition-fusion-ai-powered-cooking-guide/"><u>Taste & Nutrition Fusion: AI-Powered Cooking Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-recordings-expert-tips-for-zoom-changer/"><u>Transform Your Recordings Expert Tips for Zoom Changer</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/video-guide-mastering-data-security-encrypt-and-recover-your-macs-hdd/"><u>Video Guide: Mastering Data Security – Encrypt & Recover Your Mac's HDD</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-update-0x80070422-error-on-windows-10-solved/"><u>Windows Update 0X80070422 Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/winning-strategies-against-high-system-ram-drain-in-windows-10/"><u>Winning Strategies Against High System RAM Drain in Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Nourish and Nurture with AI: The Ultimate Tool for a Flourishing Home Garden"
-date: 2024-08-30T16:16:18.970Z
-updated: 2024-08-31T16:16:18.970Z
+date: 2024-12-05T09:16:52.476Z
+updated: 2024-12-11T09:03:09.245Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 
  Gardening enthusiasts, meet your new green-thumbed AI companion: Planty GPT! With this handy GPT from OpenAI, you can receive friendly advice on all your gardening needs inside ChatGPT. In this guide, we’ll give you the scoop on how Planty works and get the most out of it using just natural language.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Are GPTs?
 
  GPTs like Planty, Canva, Hot Mods (or Designer, Vacation Planner, and Cooking Assistant, if you’re using Microsoft’s Copilot instead), are not GPTs in the same sense as [GPT-4, the underlying AI model that the ChatGPT chatbot runs on](https://vp-tips.techidaily.com/digitize-effortlessly-turn-to-mematic-for-2024/)—the “GPT” in GPT-4 stands for Generative Pre-trained Transformers, they’re AI models designed to understand and generate human-like text based on large amounts of data.
@@ -28,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
  Through the ChatGPT web page and its mobile apps, you can access dozens of such GPTs across a variety of classes, from writing assistants, coding helpers and productivity aids, to research and data analysis, education, and lifestyle. One of my personal favorites is Planty GPT, a super helpful gardening assistant that can turn any black thumb green, using the expansive reasoning resources of GPT-4\. It was created in-house by the ChatGPT team as “a fun and friendly plant care assistant.”
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Get the Most Out of Planty
 
  While Planty will attempt to answer nearly any basic gardening question, you still need to know its limits and how to obtain the best and most accurate advice. First, open the [Planty GPT](http://chatgpt.com/g/g-6PKrcgTBL-planty) with your ChatGPT account. Then, when crafting a prompt, you need to be clear and concise with your request. The more specific and less ambiguous you can be, the better.
@@ -45,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/d9427c61032284cb88ab156d6c103f9d31f7d2686
 ![A bouquet of flowers on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pxl_20240716_202916342.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Andrew Tarantola / How-To Geek
 
  For example, I asked the system to identify the flowers present in the above image, literally “what kinds of flowers are in this image?” and within moments it correctly identified them.
@@ -74,9 +80,9 @@ Andrew Tarantola / How-To Geek
  There are some limitations to what Planty can do. For example, when I ask it “can you show me a picture of an early girl tomato plant when it is ready for harvest?” The system can’t actually show me an image of a mature, ready-to-harvest tomato plant of that specific variety. It will, however, provide a host of links to outside websites that can, while describing the features I should be looking for textually.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Access GPTs and ChatGPT in General
 
  GPTs are available to you as a ChatGPT user regardless of your subscription tier, with some restrictions. At the Free tier, for example, you have unlimited access to any GPT within OpenAI’s GPT shop. However, they cannot create GPTs of their own. You’ll have to shell out $20 a month for a ChatGPT-Plus subscription to do that.
@@ -85,16 +91,10 @@ Andrew Tarantola / How-To Geek
 
 ![Click the Explore GPTs button on the left-hand menu of ChatGPT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/exploregpts.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From the GPTs page you can either search for Planty directly or browse through the shop to find it under the Lifestyle group. On the mobile app, tap the two horizontally stacked lines in the upper left of the app home screen to expand the Navigation panel, then select Explore GPTs to access the GPT shop.
 
 ![The Planty GPT prompt box in ChatGPT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/expplanty.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  Note that you will need to be logged in to a ChatGPT account in order to access the GPT shop (you can use regular ChatGPT without logging in, though it won’t save your chat history for you). If you haven’t already, just click the Sign-Up option in the upper right of the home screen, enter an email and password, or tie your ChatGPT account to your Apple, Microsoft or Google accounts in the popup menu.
 
  If you want to create a GPT of your own, you’ll need to sign up for ChatGPT Plus, a $20/month subscription. To do that, click on the Upgrade Plan option at the bottom of the Navigation bar and follow the prompts to input your payment method.
@@ -102,9 +102,9 @@ Andrew Tarantola / How-To Geek
 ![Find the 'Upgrade Plan' button in ChatGPT if you want to get ChatGPT Plus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/plantyupgrade.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  OpenAI will give you the first month’s usage free before starting its monthly charges. If you want to learn more, check out [our guide to ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/).
 
 <ins class="adsbygoogle"
@@ -113,8 +113,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +120,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags/"><u>[Updated] Taking the Plunge A Beginner's Guide to Metaverse Memes and Gags</u></a></li>
+<li><a href="https://fox-info.techidaily.com/darkest-hours-meet-brightest-blessings/"><u>Darkest Hours Meet Brightest Blessings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-attribute-information-from-chatgpt-in-research-and-essays/"><u>How to Attribute Information From ChatGPT in Research and Essays</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-a05s-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy A05s</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-x6-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco X6 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-feature-sharing-live-play-in-sonys-next-gen-console/"><u>Mastering the Feature: Sharing Live Play in Sony's Next-Gen Console</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-rectify-failed-utorrent-installations-in-windows/"><u>Strategies to Rectify Failed uTorrent Installations in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/techniques-for-overcoming-the-non-existent-normalizdll-error/"><u>Techniques for Overcoming the Non-Existent Normaliz.dll Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-strategy-for-attracting-more-twitter-subscribers/"><u>The Ultimate Strategy for Attracting More Twitter Subscribers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-dealing-with-non-powershell-availability-in-windows/"><u>Tips for Dealing with Non-PowerShell Availability in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformer-rapidement-vos-videos-flv-au-format-mp4-grace-a-loutil-de-conversion-de-movavi/"><u>Transformer Rapidement Vos Vidéos FLV Au Format MP4 Grâce À L'outil De Conversion De Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726223769133-vocmovavi/"><u>VOCファイルを変換するためのMovaviの完全無料オンラインツール - 今すぐ始めよう!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209726953-9780806534336-wanted-undead-or-alive/"><u>Wanted Undead or Alive: | Free Book</u></a></li>
+</ul></div>
 

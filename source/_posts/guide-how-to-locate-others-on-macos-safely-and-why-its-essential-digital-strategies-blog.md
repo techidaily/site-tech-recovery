@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog"
-date: 2024-11-29T06:38:03.562Z
-updated: 2024-12-05T02:33:43.238Z
+date: 2024-12-05T21:51:00.814Z
+updated: 2024-12-11T10:57:22.270Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,18 +129,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-easy-guide-to-rectify-ios-and-android-videos-not-sent-by-messenger/"><u>[Updated] 2024 Approved Easy Guide to Rectify iOS and Android Videos Not Sent by Messenger</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-innovative-tech-for-your-instant-sharing-needs-on-facebook-for-2024/"><u>[Updated] Innovative Tech for Your Instant Sharing Needs on Facebook for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-most-engaging-sandbox-gaming-titles-for-2024/"><u>[Updated] The Most Engaging Sandbox Gaming Titles for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-key-techniques-to-optimize-igtv-video-dimensions/"><u>2024 Approved Key Techniques to Optimize IGTV Video Dimensions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/detecting-imposter-network-requests-online-how-to-avoid-adding-fake-connections/"><u>Detecting Imposter Network Requests Online: How to Avoid Adding Fake Connections</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-closed-captions-in-amazon-prime-streaming/"><u>Disabling Closed Captions in Amazon Prime Streaming</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-fundamentals-of-e-narrative-creation/"><u>In 2024, Fundamentals of E-Narrative Creation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/initiate-impact-a-strategic-blueprint-for-setting-up-a-tech-reviews-channel/"><u>Initiate Impact A Strategic Blueprint for Setting Up a Tech Reviews Channel</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/keeping-cameras-steady-in-motion-landscapes-for-2024/"><u>Keeping Cameras Steady in Motion Landscapes for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-mobile-photography-advanced-iphoneipad-lens-and-settings-adjustments/"><u>Mastering Mobile Photography: Advanced iPhone/iPad Lens and Settings Adjustments</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/most-captivating-disneyplus-movie-selections-currently-streaming/"><u>Most Captivating Disney+ Movie Selections Currently Streaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/safeguarding-your-circle-methods-for-discerning-genuine-from-counterfeit-social-invites/"><u>Safeguarding Your Circle: Methods for Discerning Genuine From Counterfeit Social Invites</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/viewing-tips-access-and-enjoy-roku-channels-on-alternative-devices/"><u>Viewing Tips: Access and Enjoy Roku Channels on Alternative Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-cryptographic-cantaloupe-does-this-voice-modification-appify-to-magic-find-other-tools/"><u>[Updated] 2024 Approved Cryptographic Cantaloupe Does This Voice Modification Appify to Magic? Find Other Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-guide-downloading-windows-movie-maker-6/"><u>2024 Approved Mastery Guide Downloading Windows Movie Maker 6</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-boost-with-cookiebot-technology-powering-your-site/"><u>Experience Boost with Cookiebot Technology Powering Your Site</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-tab-s3-does-it-hold-up-against-new-competitors/"><u>Samsung Galaxy Tab S3: Does It Hold Up Against New Competitors?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-switching-your-display-orientation-on-windows-11/"><u>Simple Steps: Switching Your Display Orientation on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-easily-link-your-bluetooth-keyboard/"><u>Step-by-Step Guide: Easily Link Your Bluetooth Keyboard</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-making-a-user-friendly-windows-n-7-installation-usb/"><u>Step-by-Step Guide: Making a User-Friendly Windows N 7 Installation USB</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-complete-playbook-for-instagram-revenue-generation/"><u>The Complete Playbook for Instagram Revenue Generation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-seamless-video-driver-refreshes-for-windows-10/"><u>The Ultimate Guide to Seamless Video Driver Refreshes for Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-non-detectable-external-storage-devices-in-windows-7/"><u>Troubleshooting Non-Detectable External Storage Devices in Windows 7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-off-cortana-feature-on-your-windows-11-pc/"><u>Turning Off Cortana Feature on Your Windows 11 PC</u></a></li>
 </ul></div>
 

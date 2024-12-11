@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2024-11-30T07:55:51.896Z
-updated: 2024-12-05T09:31:28.228Z
+date: 2024-12-09T02:29:38.975Z
+updated: 2024-12-10T18:15:26.301Z
 tags:
   - apple
 categories:
@@ -26,11 +26,11 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -45,7 +45,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -57,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -77,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,22 +140,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-captivating-crafts-trending-instagram-filters/"><u>[New] Captivating Crafts Trending Instagram Filters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-decelerating-action-the-ultimate-guide-to-ig-reels-slow-motion/"><u>[New] In 2024, Decelerating Action The Ultimate Guide to IG Reels’ Slow Motion</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-tips-to-keep-tiktok-videos-on-mobile-devices/"><u>[Updated] Tips to Keep TikTok Videos on Mobile Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-decreasing-jello-artifacts-in-aerial-filmmaking/"><u>2024 Approved Decreasing Jello Artifacts in Aerial Filmmaking</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conquer-bumble-blank-spaces-a-comprehensive-fix-for-no-matches/"><u>Conquer Bumble Blank Spaces: A Comprehensive Fix for 'No Matches'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/crafting-and-sharing-custom-contact-posters-in-ios-17-using-namedrop-a-step-by-step-guide-techtips/"><u>Crafting and Sharing Custom Contact Posters in iOS 17 Using NameDrop - A Step-by-Step Guide | TechTips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-leading-tv-streaming-services-ranked-for-2er-2024/"><u>Discover the Leading TV Streaming Services Ranked for 2Er 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722863919171-discover-the-most-popular-imessage-games-of-2024-ranked/"><u>Discover the Most Popular iMessage Games of 2024: Ranked</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-the-ipad-models-equipped-with-integrated-gps-features/"><u>Identifying the iPad Models Equipped with Integrated GPS Features</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-honor-x9a-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Honor X9a Phone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-market-movements-with-youtube-picks/"><u>Mastering Market Movements with YouTube Picks</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-free-video-dubbing-software-for-pc-top-picks/"><u>New 2024 Approved Free Video Dubbing Software for PC Top Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-accessing-command-line-interface-within-any-folder/"><u>Step-by-Step Guide: Accessing Command Line Interface Within Any Folder</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-accessing-command-prompt-inside-your-file-explorer/"><u>Step-by-Step Guide: Accessing Command Prompt Inside Your File Explorer</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/streamline-your-instagram-content-free-mp4-exporters-for-windowsmac-users/"><u>Streamline Your Instagram Content Free MP4 Exporters for Windows/Mac Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-insiders-manual-to-dvr-technology-how-does-a-digital-video-recorder-work/"><u>The Insider's Manual to DVR Technology: How Does a Digital Video Recorder Work?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-time-management-bliss-with-4-fantastic-free-web-based-calendars/"><u>Unlock Time Management Bliss with 4 Fantastic Free Web-Based Calendars</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/month-exclusive-discounts-on-latest-apple-watch-models-you-cant-miss/"><u>[Month]: Exclusive Discounts on Latest Apple Watch Models You Can't Miss</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-playback-speed-guidelines-for-secure-sound-enhancement-for-2024/"><u>Boosting Playback Speed Guidelines for Secure Sound Enhancement for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-essence-photos-meet-music-videos/"><u>Capturing Essence Photos Meet Music Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-explained-a-look-into-its-corporate-parentage-and-founders/"><u>ChatGPT Explained: A Look Into Its Corporate Parentage and Founders</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-addressing-non-functional-corsair-icue-on-recent-windows-versions/"><u>Effective Solutions: Addressing Non-Functional Corsair iCUE on Recent Windows Versions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-infinix-smart-8-hd-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Infinix Smart 8 HD Through Google Earth?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-visionaries-crafting-next-gen-vr-worlds/"><u>In 2024, Visionaries Crafting Next-Gen VR Worlds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-showdown-discovering-the-unique-features-of-mini-and-air-variants/"><u>IPad Showdown: Discovering the Unique Features of Mini and Air Variants</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-to-telegram-heres-your-guide-to-getting-started-with-marketing-for-2024/"><u>New to Telegram? Here's Your Guide to Getting Started with Marketing for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-frozen-volume-shadows-in-operating-systems/"><u>Tackling Frozen Volume Shadows in Operating Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-historical-youtube-hubs-essential-viewing-for-students-and-enthusiasts/"><u>Top 10 Historical YouTube Hubs Essential Viewing For Students & Enthusiasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-text-message-problems-on-your-android-phone/"><u>Troubleshooting Text Message Problems on Your Android Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-order-of-transformers-movies-for-binge-watching/"><u>Ultimate Order of Transformers Movies for Binge-Watching</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2024-12-03T12:36:21.044Z
-updated: 2024-12-04T16:53:48.772Z
+date: 2024-12-08T00:19:39.735Z
+updated: 2024-12-10T17:28:58.194Z
 tags:
   - apple
 categories:
@@ -28,17 +28,21 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -49,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -64,10 +68,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,16 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/contacting-the-snapchat-help-desk-a-comprehensive-guide/"><u>Contacting the Snapchat Help Desk: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-15-pro-max-versus-samsung-galaxy-s24-ultra-unveiling-the-major-variances/"><u>IPhone 15 Pro Max Versus Samsung Galaxy S24 Ultra: Unveiling the Major Variances</u></a></li>
-<li><a href="https://extra-information.techidaily.com/key-steps-for-applying-fades-in-digital-audio-editing/"><u>Key Steps for Applying Fades in Digital Audio Editing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/lenovo-pc-mastery-a-step-by-step-walkthrough-for-full-system-restoration/"><u>Lenovo PC Mastery: A Step-by-Step Walkthrough for Full System Restoration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stunning-design-satechi-unveils-latest-innovation-in-vehicle-wireless-charging-solutions/"><u>Stunning Design: Satechi Unveils Latest Innovation in Vehicle Wireless Charging Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-collection-the-507-most-creative-instagram-post-texts-2024-edition/"><u>Ultimate Collection: The 507 Most Creative Instagram Post Texts, 2024 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-to-fix-stop-code-0x0000007b-and-end-those-bsod-issues/"><u>Ultimate Troubleshooting Tips to Fix STOP Code 0X0000007B and End Those BSOD Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-enterprise-features-benefits-and-unique-advantages/"><u>Understanding ChatGPT Enterprise: Features, Benefits, and Unique Advantages</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-se-2022-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone SE (2022) without Passcode</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-fusion-of-style-and-cloud-in-nixplay-iris/"><u>Unveiling the Fusion of Style and Cloud in Nixplay Iris</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/yearly-roundup-affordable-cameras/"><u>Yearly Roundup: Affordable Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplifying-your-brand-the-famebit-approach-to-youtube-affiliates/"><u>[Updated] 2024 Approved Amplifying Your Brand The FameBit Approach to YouTube Affiliates</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-directly-posting-twitvideos-on-whatsapp/"><u>[Updated] 2024 Approved Directly Posting TwitVideos on WhatsApp</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-master-guide-to-finding-cheap-transcript-extractors/"><u>2024 Approved Master Guide to Finding Cheap Transcript Extractors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-adding-and-watching-apple-tv-on-your-fire-stick-platform/"><u>Easy Steps for Adding and Watching Apple TV on Your Fire Stick Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-from-toms-hardware-guide/"><u>Expert Insights on Gadgets From Tom's Hardware Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2527913-9780811749800-haunted-idaho/"><u>Haunted Idaho | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722904111702-how-can-you-know-if-theyve-checked-your-messages-uncover-the-secrets/"><u>How Can You Know If They've Checked Your Messages? Uncover the Secrets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-tell-if-twitch-is-really-down-or-if-theres-a-local-problem/"><u>How To Tell If Twitch Is Really Down or If There's A Local Problem</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-eco-set-designs-30plus-free-downloadable-templates-for-filmmaking-artistry/"><u>In 2024, Eco-Set Designs 30+ Free Downloadable Templates for Filmmaking Artistry</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-presents-its-revamped-question-answer-center/"><u>Mondly Presents Its Revamped Question Answer Center</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionary-connectivity-awaits-explore-the-newly-launched-apple-iphone/"><u>Revolutionary Connectivity Awaits – Explore the Newly Launched Apple iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-best-visual-voicemail-solutions-of-2024/"><u>The Ultimate List: Best Visual Voicemail Solutions of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-digital-time-travel-with-the-wayback-machine-user-manual/"><u>Unlock the Secrets of Digital Time Travel with the Wayback Machine User Manual</u></a></li>
 </ul></div>
 

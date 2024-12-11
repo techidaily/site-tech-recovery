@@ -1,7 +1,7 @@
 ---
 title: Discover the Eight Lessons I Learned While Turning My Mobile Device Into My Everyday Laptop Substitute
-date: 2024-08-30T16:12:49.302Z
-updated: 2024-08-31T16:12:49.302Z
+date: 2024-12-07T12:36:18.766Z
+updated: 2024-12-11T05:54:19.869Z
 tags:
   - mobile
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [You Can't Have Too Many Portable Monitors](https://extra-hints.techidaily.com/analyzing-hdr-quality-with-luminance/)
 
  It may sound crazy, but I've used a phone as my primary PC for most of the past year. My journey started with Moto Ready For on the Moto Edge+ 2023 and transitioned over to Samsung DeX on the Samsung Galaxy Z Fold 5\. Here's what I've learned along the way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1  If You Drop Your Phone, You're Twice as Screwed 
 
@@ -48,34 +52,14 @@ Mark LoProto / How-to Geek
 
  I've connected my phone to a curved FHD monitor, and that was great. I sometimes borrow my wife's 4K monitor, and that works fine, too, although it does show signs that the phone is working a bit harder (even then, I'd still say the experience is smoother than a cheap Windows PC or Chromebook). But for the time being, I'm limited to only one monitor. Neither Dex nor Motorola Connect supports multiple monitors without resorting to complicated workarounds involving laptops and virtual machines.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3  Some Monitors Are Better Than a Phone Can Handle 
 
 ![PC desktop on curved ultrawide gaming monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/img_6839.jpeg) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tim Rattray / How-To Geek
 
  Connecting to multiple monitors isn't the only limitation. DeX is currently limited to 60Hz, even though my Galaxy Z Fold 5 supports a higher refresh rate on its own built-in displays. This means if I were to splurge on a gorgeous gaming monitor like the one pictured above, I wouldn't get to enjoy all of the benefits.
@@ -83,8 +67,9 @@ Tim Rattray / How-To Geek
  Why would I want to invest in a gaming monitor? Android games feel more immersive on a larger screen, and I play most games now using AR glasses. When I sign into NVIDIA GeForceNOW, I forget I'm not playing a game on local hardware most of the time. An Android phone can be [a better gaming rig than you might think](https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-x50iplus-phone-screen-by-drfone-android/), especially when it supports connecting to external displays.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  Battery Protection Features Are Extra Important 
 
 Close 
@@ -95,14 +80,14 @@ Close
 
  This is one reason I desired a Samsung phone. Samsung offers a battery protection feature that lets me limit the maximum charge to 80%. This way, I can leave my phone plugged in for a full workday with less concern that I'm absolutely destroying my phone's battery.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5  Lapdock Batteries Can Die at Any Time With No Warning 
 
 ![A Motorola Android phone connected to a Uperfect lapdock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/android-lapdock-uperfect-motorola-edge.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  I have a wireless lapdock from [UPerfect](https://www.uperfectmonitor.com/products/uperfect-x-13-3-lapdock), an alternative to the slightly more well-known option from [NexDock](https://nexdock.com/explore-nexdock/). By connecting my phone with a USB-C cable, [the lapdock becomes a laptop](https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-15-plus-by-drfone-ios/). The lapdock can even supply power to the phone.
@@ -117,9 +102,6 @@ Bertel King / How-To Geek
 
 ![Galaxy Z Fold 5 launching Samsung DeX on a lapdock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/galaxy-z-fold-5-launching-samsung-dex-on-a-lapdock.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Most phones have one port, the USB-C port. Even the headphone jack has gone away. To connect anything that doesn't work over Bluetooth, you're going to need a USB hub.
@@ -128,12 +110,13 @@ Bertel King / How-To Geek
 
  Hubs will generally give you the ability to connect flash drives, external SSDs, and external displays to your phone. This is vital for [making regular backups to an external drive](https://instagram-video-recordings.techidaily.com/new-in-2024-assessing-instagrams-selfie-validation/). Some will even include an ethernet port for securing a hardwired internet connection or troubleshooting a router.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 7  It's Worth Investing in a Book-Style Foldable 
 
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -144,6 +127,10 @@ Bertel King / How-To Geek
 ## 8  You Can't Have Too Many Portable Monitors 
 
 ![An 8BitDo Bluetooth controller and Android phone connected to a portable monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8bitdo-controller-android-portable-monitor.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -161,8 +148,6 @@ Bertel King / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +155,20 @@ Bertel King / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-visibility-popularize-your-youtube-short-videos/"><u>[New] 2024 Approved Enhancing Visibility Popularize Your YouTube Short Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-memes-galore-download-and-share-joy/"><u>[Updated] In 2024, Memes Galore Download & Share Joy</u></a></li>
+<li><a href="https://win-online.techidaily.com/hdd6/"><u>「遅い外付けHDD転送問題解決！6秒法で高速化する方法」</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sensational-headline-architect/"><u>2024 Approved Sensational Headline Architect</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-complete-walkthrough-getting-back-your-vanished-texts-on-every-phone-type/"><u>A Complete Walkthrough: Getting Back Your Vanished Texts on Every Phone Type</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accessing-content-from-rokus-streaming-service-without-owning-their-hardware/"><u>Accessing Content From Roku's Streaming Service without Owning Their Hardware</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210401239-9781638149873-get-real-with-god/"><u>Get Real with GOD | Free Book</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y27-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y27 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-set-up-dual-monitors-on-a-mac/"><u>How to Set Up Dual Monitors on a Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-parallel-screen-data-replay/"><u>In 2024, Parallel Screen Data Replay</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-90-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from 90</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nubia-z50-ultra-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nubia Z50 Ultra? Here is How | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-with-the-tesla-robotaxi-projections-on-cost-rollout-dates-and-specs-explored/"><u>What's New with the Tesla Robotaxi? Projections on Cost, Rollout Dates & Specs Explored</u></a></li>
+</ul></div>
 

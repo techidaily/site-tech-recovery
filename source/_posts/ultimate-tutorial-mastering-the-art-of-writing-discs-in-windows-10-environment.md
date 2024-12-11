@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Mastering the Art of Writing Discs in Windows 10 Environment"
-date: 2024-08-30T16:15:28.860Z
-updated: 2024-08-31T16:15:28.860Z
+date: 2024-12-07T07:23:18.942Z
+updated: 2024-12-10T17:14:10.093Z
 tags:
   - deals
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ## Ultimate Tutorial: Mastering the Art of Writing Discs in Windows 10 Environment
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Do I Need to Burn a CD, DVD, or Blu-Ray Disc?](https://fox-glue.techidaily.com/new-space-saver-protocols-premium-storage-reviewed/)
 * [Choosing How Windows Writes the Disc](https://program-issues.techidaily.com/troubleshooting-persistent-audios-with-paused-youtube-videos-in-google-chrome-or-mozilla-firefox/)
 * [How to Burn a CD, DVD, or Blu-Ray with a Live File System ("Like a USB flash drive")](https://www.howtogeek.com/689705/how-to-burn-a-cd-or-dvd-on-windows-10/#how-to-burn-a-cd-dvd-or-blu-ray-with-a-live-file-system-quot-like-a-usb-flash-drive-quot)
 * [How to Burn a Mastered CD, DVD, or Blu-ray ("with a CD/DVD player")](https://www.howtogeek.com/689705/how-to-burn-a-cd-or-dvd-on-windows-10/#how-to-burn-a-mastered-cd-dvd-or-blu-ray-quot-with-a-cd-dvd-player-quot)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ![The back of a DVD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53105419298_fa3a77cbd4_c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  You'll also need some blank CD-R, CD-RW, DVD-R, DVD-RW, BD-R, or BD-RW discs that work with your drive. And 4.7 GB DVDs (or 8.5 GB [dual-layer DVDs](https://en.wikipedia.org/wiki/DVD-R%5FDL)) hold dramatically more data than CDs, which can typically only hold about 700 MB. Blu-ray discs can hold up to 128 GB. Here's what is different about the writable and rewritable versions of the media.
@@ -44,9 +49,6 @@ Hannah Stryker / How-To Geek
 
  When picking media, pay attention to drive compatibility. Generally speaking, Blu-ray drives can read and write both DVDs and CDs, DVD drives can read and write DVDs and CDs, and CD drives can typically only handle CDs.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ##  Choosing How Windows Writes the Disc
 
  Let's get started. Log into your Windows machine and insert a blank recordable CD or DVD into your optical drive. As soon as you insert it, a window titled "Burn a Disc" will appear. This dialog asks you how you want Windows to [handle writing the disc](https://techtrends.techidaily.com/troubleshooting-msodll-solutions-for-missing-or-inaccessible-files/). Here are the options and what they mean.
@@ -69,8 +71,9 @@ Hannah Stryker / How-To Geek
 ![You can simply drag and drop files to a CD, DVD, or Blu-ray disk if it has been formatted as a USB Flash Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-dragn-drop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As mentioned above, you can delete files using this method, but if you're using a CD-R or DVD-R disc, you're only logically deleting them. The "deleted" data is still physically burned to the disc, but it becomes inaccessible. So, for example, say you have 700 MB free and you copy 10 MB of data to the disc. Now you have 690 MB free. If you delete the 10 MB of data, you still only have 690 MB free.
 
  On the other hand, if you're using a rewritable disc format, Windows will handle erasing the files on the fly, and you can recover disc storage space from deleting files.
@@ -78,17 +81,15 @@ Hannah Stryker / How-To Geek
  As soon as you want to eject the disc, Windows will do some finalizing before the drive spits out the disc. After that, you're free to reinsert it, and write to it again or read it in another machine.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Burn a Mastered CD, DVD, or Blu-ray ("with a CD/DVD player")
 
  If you chose to use your disc "with a CD/DVD player" in the last menu, your optical disc drive will open in a File Explorer window. In the window, you'll see a header labeled "Files Ready to Be Written to the Disc."
 
 ![An example text file ready to be written to the drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-files-ready-to-be-written.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you drag and drop (or copy and paste) files into this window, they will appear in this window, which is essentially a staging area for a final mastered disc. The files will not be physically written to the actual disc until you choose to burn the disc in File Explorer.
 
  Once you're done copying everything you want to write to the disc, Select "Drive Tools" in the toolbar menu of the File Explorer window, then select "Finish Burning."
@@ -106,8 +107,9 @@ Hannah Stryker / How-To Geek
 ![The file being burned to the disk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-burning-data.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the process is complete, the disc will automatically eject from your optical media drive, and the wizard will ask you if you want to burn the same files to another disc. If so, check the box beside "Yes, burn these files to another disc," then click "Next." You'll go through the same process again.
 
  If you're done burning discs for now, just click "Finish."
@@ -124,8 +126,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +133,16 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-elevating-roi-in-facebooks-animated-advertising-arena/"><u>[Updated] 2024 Approved Elevating ROI in Facebook's Animated Advertising Arena</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-future-of-mobile-entertainment-is-here-discover-the-best-49-free-compression-tools/"><u>2024 Approved The Future of Mobile Entertainment Is Here Discover the Best 49 Free Compression Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/common-reasons-for-malfunctioning-car-speakers-explained-simply/"><u>Common Reasons for Malfunctioning Car Speakers Explained Simply</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-overview-of-full-scene-in-ppro/"><u>Complete Overview of Full Scene in PPro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-account-management-unfollow-steps-for-2024/"><u>Mastering Account Management Unfollow Steps for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-fixing-libcurldll-missing-in-your-system-files/"><u>Troubleshooting Tips for Fixing 'libcurl.dll' Missing in Your System Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-potential-of-your-samsung-smart-tv-through-remote-control-techniques/"><u>Unlock the Full Potential of Your Samsung Smart TV Through Remote Control Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-latest-discover-the-new-iphone-release/"><u>Unveiling the Latest: Discover the New iPhone Release</u></a></li>
+</ul></div>
 

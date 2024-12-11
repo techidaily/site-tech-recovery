@@ -1,7 +1,7 @@
 ---
 title: Top Savings on Amazon in August 2024 - Exclusive Offers and Discounts Featured by ZDNet
-date: 2024-12-02T18:42:53.671Z
-updated: 2024-12-04T19:52:45.844Z
+date: 2024-12-09T03:11:44.296Z
+updated: 2024-12-11T01:30:36.285Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ Kayla Solino/ZDNET
 * [Samsung Galaxy Watch6 smartwatch (40mm)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch6-aluminum-smartwatch-40mm-bt-graphite%2F6546704.p%3FskuId%3D6546704&publisher%5Fslug=zdnet&article%5Fname=the%20best%20best%20buy%20deals%20of%20june%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $240 (save $60)
 * [Samsung Q-series soundbar w/Q-Symphony](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-q-series-3-1-2-ch-dolby-atmos-soundbar-w-q-symphony-titan-black%2F6535893.p%3FskuId%3D6535893&publisher_slug=itechdaily19598&exclusive=1): $480 (save $120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best Best Buy headphone deals
 
 Jada Jones/ZDNET
@@ -54,10 +58,6 @@ Jada Jones/ZDNET
 * [Sony WH-1000XM5 wireless noise-canceling headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-wh-1000xm5-wireless-noise-canceling-over-the-ear-headphones-silver%2F6505728.p%3FskuId%3D6505728&publisher_slug=itechdaily19598&exclusive=1): $330 (save $70)
 * [Bose QuietComfort wireless noise-canceling headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbose-quietcomfort-wireless-noise-cancelling-over-the-ear-headphones-black%2F6554461.p%3FskuId%3D6554461&publisher_slug=itechdaily19598&exclusive=1): $249 (save $100)
 * [Sennheiser Momentum 4 headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsennheiser-momentum-4-wireless-adaptive-noise-canceling-over-the-ear-headphones-black%2F6514466.p%3FskuId%3D6514466&publisher_slug=itechdaily19598&exclusive=1): $300 (save $80)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best Best Buy TV deals
 
@@ -73,10 +73,6 @@ Roku
 * [Insignia 75-inch F30 Series LED 4K UHD Smart Fire TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Finsignia-75-class-f30-series-led-4k-uhd-smart-fire-tv%2F6480926.p%3FskuId%3D6480926&publisher_slug=itechdaily19598&exclusive=1): $470 (save $130)
 * [LG 77-inch C3 Series OLED evo 4K UHD Smart webOS TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-77-class-c3-series-oled-evo-4k-uhd-smart-webos-tv%2F6535930.p%3FskuId%3D6535930&publisher_slug=itechdaily19598&exclusive=1): $2300 (save $200)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best Best Buy tablet, laptop deals
 
 Sabrina Ortiz/ZDNET
@@ -89,10 +85,6 @@ Sabrina Ortiz/ZDNET
 * [HP OMEN 16.1-inch Full HD gaming laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omen-16-1-165hz-full-hd-gaming-laptop-intel-core-i7-16gb-ddr5-memory-nvidia-geforce-rtx-4060-1tb-ssd-shadow-black%2F6571057.p%3FskuId%3D6571057&publisher_slug=itechdaily19598&exclusive=1): $1100 (save $200)
 * [Apple MacBook Air 13.6-inch laptop (M2 chip, 8GB RAM, 256GB)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-6-laptop-apple-m2-chip-8gb-memory-256gb-ssd-starlight%2F6509648.p%3FskuId%3D6509648&publisher%5Fslug=zdnet&article%5Fname=the%20best%20best%20buy%20deals%20of%20june%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $849 (save $150)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best Best Buy robot vacuum deals
 
 Maria Diaz/ZDNET
@@ -102,6 +94,10 @@ Maria Diaz/ZDNET
 * [iRobot Roomba Combo j5+](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-combo-j5-self-emptying-vacuum-and-mop-graphite%2F6553419.p%3FskuId%3D6553419&publisher_slug=itechdaily19598&exclusive=1): $450 (save $280)
 * [iRobot Roomba j9+ self-emptying robot vacuum](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-j9-self-emptying-robot-vacuum-ruby-bronze%2F6553417.p%3FskuId%3D6553417&publisher_slug=itechdaily19598&exclusive=1): $599 (save $300)
 * [iRobot Roomba Vac Essential robot vacuum](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-vac-essential-robot-vacuum-q0120-black%2F6577016.p%3FskuId%3D6577016&publisher_slug=itechdaily19598&exclusive=1): $180 (save $70)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these Best Buy deals?
 
@@ -119,7 +115,7 @@ We chose our favorite Best Buy deals based on the following factors:
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on these deals, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What was Best Buy called originally?
@@ -127,12 +123,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 Founded in 1966, Best Buy used to be known as Sound of Music. However, after diversifying out from audio products, the company changed its name to Best Buy in 1983\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How popular is Best Buy's Geek Squad?
 
 Geek Squad repairs and refurbishes tech including laptops and smartphones. According to the retail giant, the group makes approximately five million house calls every year. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best tech deals in 2024?
 
@@ -188,24 +188,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/evolutionize-your-videos-first-impression-with-these-makers-for-2024/"><u>[New] Revolutionize Your Video's First Impression with These Makers for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-how-to-download-and-alter-sacred-audio-sounds/"><u>[Updated] 2024 Approved How to Download and Alter Sacred Audio Sounds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-leading-platforms-enhancing-online-collaboration/"><u>[Updated] In 2024, Leading Platforms Enhancing Online Collaboration</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mkv-m4v-movavi/"><u>線上無架限 高效率 MKV 到 M4V 影片轉換工具 - 全功能 Movavi 編輯解碼器</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-wwdc-unpacked-diving-deeper-into-visionos-2-updates-and-what-they-mean-for-tech-enthusiasts/"><u>Apple WWDC Unpacked: Diving Deeper Into VisionOS 2 Updates & What They Mean for Tech Enthusiasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bluetooth-setup-guide-unifying-diverse-audio-devices-with-one-control-unit/"><u>Bluetooth Setup Guide: Unifying Diverse Audio Devices with One Control Unit</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-removing-programs-from-your-mac-device/"><u>Complete Guide: Removing Programs From Your Mac Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/creating-stunning-device-compatible-wallpapers-using-midjourney-a-comprehensive-guide/"><u>Creating Stunning Device-Compatible Wallpapers Using MidJourney: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fix-for-not-found-d3dx941dll-a-comprehensive-guide/"><u>Easy Fix for 'Not Found' d3dx9_41.dll - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-solutions-for-when-netflix-wont-stream-title-properly-get-back-on-track-now/"><u>Effortless Solutions for When Netflix Won't Stream Title Properly: Get Back on Track Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-top-8-innovative-learning-tools-for-a-brighter-future-2024-edition/"><u>Explore the Top 8 Innovative Learning Tools for a Brighter Future, 2024 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-ocidll-when-its-missing-or-lost/"><u>How to Restore Oci.dll When It's Missing or Lost</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y100t-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y100t?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/launch-unlocked-the-duo-behind-the-success/"><u>Launch Unlocked: The Duo Behind the Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-digital-age-a-guide-to-9-key-educational-technologies-for-students/"><u>Navigating the Digital Age: A Guide to 9 Key Educational Technologies for Students</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-driver-dilemmrances-on-elan-tablet-in-win10/"><u>Overcoming Driver Dilemmrances on Elan Tablet in Win10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-distorted-images-and-discoloration-problems-on-computer-screens/"><u>Solving Distorted Images and Discoloration Problems on Computer Screens</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-how-to-easily-connect-your-amazon-firestick-remote/"><u>Step-by-Step Tutorial: How to Easily Connect Your Amazon Firestick Remote</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-facebooks-most-engaging-vids-for-2024/"><u>The Ultimate Guide to Facebook’s Most Engaging Vids for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-a-beginners-roadmap-to-professional-sports-edits-for-2024/"><u>[Updated] A Beginner's Roadmap to Professional Sports Edits for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-authoritative-list-affordable-visuals-online/"><u>[Updated] In 2024, Authoritative List Affordable Visuals Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-countdown-bard-vs-bing-battle-of-bots/"><u>AI Showdown Countdown: Bard Vs. Bing Battle of Bots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/budget-friendly-rides-analyzing-if-uber-offers-a-cheaper-alternative-to-taxis/"><u>Budget-Friendly Rides: Analyzing If Uber Offers a Cheaper Alternative to Taxis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/i-migliori-programmi-gratuiti-per-estrarre-filmati-dvd-in-windows-guida-completa-al-download-e-conversione-in-formato-digitale/"><u>I Migliori Programmi Gratuiti per Estrarre Filmati DVD in Windows: Guida Completa Al Download E Conversione in Formato Digitale</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/joint-listening-sharing-your-favorite-tracks-on-spotify-how-to/"><u>Joint Listening: Sharing Your Favorite Tracks on Spotify, How To?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210519633-9781639034055-life-interrupted/"><u>Life Interrupted | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/microsoft-windows-latest-patches-and-service-packs-jul-24-overview/"><u>Microsoft Windows Latest Patches and Service Packs - Jul '24 Overview</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimal-techniques-for-recording-your-youtube-events-for-2024/"><u>Optimal Techniques for Recording Your YouTube Events for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smart-navigation-for-eco-drivers-uncovering-ev-charge-spots-with-google-maps/"><u>Smart Navigation for Eco Drivers: Uncovering EV Charge Spots with Google Maps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-audio-fading-in-lumafusion-software/"><u>Step-by-Step Audio Fading in Lumafusion Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-most-popular-news-compilation-services-in-2n24/"><u>Top 10 Most Popular News Compilation Services in 2N24</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unstick-stuck-airpods-a-guide-to-nine-methods-that-will-charge-them-up-again/"><u>Unstick Stuck AirPods: A Guide to Nine Methods That Will Charge Them Up Again</u></a></li>
 </ul></div>
 

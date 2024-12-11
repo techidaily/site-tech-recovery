@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Lenovo IdeaPad 3 15I-Inch Model IAX9i Assessment: High-Quality Affordable Performance for Gamers"
-date: 2024-08-30T16:15:13.179Z
-updated: 2024-08-31T16:15:13.179Z
+date: 2024-12-07T11:21:19.766Z
+updated: 2024-12-11T06:51:51.216Z
 tags:
   - deals
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
  With a plethora of gaming laptops and handhelds available, it's a great time to be a PC gamer on the go. Generally, the more you spend, the better the gaming performance, but those on a budget also deserve some portable fun. One such option is the [Lenovo LOQ 15IAX9I](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) gaming laptop, which hopes to attract budget-conscious enthusiasts with its no-nonsense approach. For the most part, Lenovo has done a solid job of paring down the PC gaming experience to the absolute essentials, although not every concession may be worth the savings.
 
 ![Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6573727cv3d.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo LOQ 15IAX9I 
 
@@ -104,12 +108,13 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design and Hardware: Conservative and Heavy** 
 
 ![Lenovo LOQ 15IAX9I closed next to its charger on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-with-the-charger_53589684049_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -125,18 +130,12 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the rear of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-back-of-the-lenovo-loq-15iax9i_53589810480_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On the rear of the LOQ 15IAX9I is a USB 3.2 Gen 1 Type-A connector, full-size HDMI 2.0 output, RJ45 Gigabit Ethernet connector, and a Power connector. The power connector works with the included 170W AC adapter.
 
 ![The ports on the right side of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-right-side-of-the-lenovo-loq-15iax9i_53589683994_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The right side of the laptop features a multi-purpose USB Type-C connector, a camera switch that can physically disable the built-in webcam, a combo 3.5mm audio jack, and another USB 3.2 Gen 1 Type-A connector. Overall, there are not a lot of ports in comparison to some other laptops of this size, but it does feature just about everything most users would typically need.
@@ -151,13 +150,14 @@ Jerome Thomas / How-To Geek
 
  The power button turns on or puts the laptop to sleep, but it also has an LED ring to indicate operating mode. Blue is a low-performance quiet mode, red is performance mode, white is a balance between the two, and purple is for a custom mode should you want to set your own parameters. Naturally, the Red performance mode uses the most power, has the most fan noise, and drains the battery the fastest, so it's best to leave the laptop plugged in when using this more game-centric setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Sights and Sounds: Optimized for Gaming** 
 
 ![Direct view of the Lenovo LOQ 15IAX9I display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-homescreen-of-the-lenovo-loq-15iax9i-2_53589365651_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The 15.6-inch 1,920 x 1,080 resolution IPS display has good clarity, brightness (350 nits), and color, with only slight dimming when viewed off-angle. The fast 144Hz refresh rate is a nice bonus for smoother gaming. HDR video streaming is supported, but there's no HDR support for anything else.
@@ -169,6 +169,10 @@ Jerome Thomas / How-To Geek
  The built-in [Nahimic](https://steelseries.com/nahimic)\-driven speakers sound OK with reasonable clarity, fair separation, and minimal distortion even at 100% volume, but the default audio profile lacks fullness and bass. They get the job done, especially for laptop speakers, but you'll want to connect to external speakers or headphones for better sound for most entertainment use cases.
 
  The built-in FHD webcam and microphone both do serviceable jobs in terms of clarity. Windows Hello facial recognition is not supported, and there's no fingerprint reader either, so for login and general security purposes, you're left typing in a PIN code.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Games, Benchmarks, and Overall Performance: Full HD or Bust** 
 
@@ -191,17 +195,15 @@ Jerome Thomas / How-To Geek
  Lenovo estimates battery life of up to seven hours using the quiet mode, dimmed screen, and light usage, like simple web browsing or using Microsoft Office apps like Word and Excel. [Procyon](https://benchmarks.ul.com/procyon/office-productivity-benchmark), which is a productivity benchmarking tool, puts the estimated battery life at a more realistic two hours and 50 minutes with a bright screen and balanced performance mode. As expected, this is not the type of laptop you'd get if you want all-day battery life. Fortunately, with such a robust AC adapter included, the LOQ 15IAX9I can charge relatively quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Should You Buy the Lenovo LOQ 15IAX9I?** 
 
  The [Lenovo LOQ 15IAX9I](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) gaming laptop is not going to win any awards for its build quality or performance, but considering its sub-$750 retail price, often on sale, it has surprisingly few notable concessions in its overall design. It has a good keyboard, a nice display, and, if you stick to its native HD resolution, enjoyable gaming performance. If you have a limited budget and are looking for a gaming laptop that gets the basics right, it's hard to go wrong with the LOQ 15IAX9I.
 
 ![Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6573727cv3d.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Lenovo LOQ 15IAX9I 
 
 7/ 10 
@@ -218,8 +220,6 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +227,19 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-digital-darlings-facebooks-favorites-for-2024/"><u>[New] Digital Darlings Facebook's Favorites for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-list-of-alternatives-to-the-popular-gopro/"><u>[Updated] 2024 Approved The Ultimate List of Alternatives to the Popular GoPro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1126888-9781612830032-aarons-crossing/"><u>Aaron's Crossing | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/achieving-peak-apple-tv-functionality-expert-strategies-revealed/"><u>Achieving Peak Apple TV Functionality: Expert Strategies Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-and-using-in-phone-fm-radios-on-apple-and-android-devices-for-free-broadcasting/"><u>Discovering and Using In-Phone FM Radios on Apple and Android Devices for Free Broadcasting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-slideshow-101-a-beginners-guide-for-2024/"><u>FB Slideshow 101 A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-with-samsung-z-fold-4-find-out-when-how-much-and-what-it-offers/"><u>Get Ahead of the Curve with Samsung Z Fold 4: Find Out When, How Much & What It Offers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-speech-echoes-effective-solutions-to-rectify-audio-distortions-on-pcs-with-windows-os/"><u>Overcoming Speech Echoes: Effective Solutions to Rectify Audio Distortions on PCs with Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/schritt-fur-schritt-guide-zur-wiederherstellung-von-daten-aus-einer-unbenutzbaren-datentragerdatei/"><u>Schritt-Für-Schritt-Guide Zur Wiederherstellung Von Daten Aus Einer Unbenutzbaren Datenträgerdatei</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamlining-social-media-success-a-guide-to-more-effective-facebook-use/"><u>Streamlining Social Media Success: A Guide to More Effective Facebook Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-80s-cinema-picks-must-watch-films-of-the-decade/"><u>Top 8 '80S Cinema Picks: Must-Watch Films of the Decade!</u></a></li>
+</ul></div>
 

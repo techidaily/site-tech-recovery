@@ -1,7 +1,7 @@
 ---
 title: Breaking Free From Endless Linux Upgrades? Discover the All-in-One Distribution That Stops the Cycle!
-date: 2024-08-30T16:13:23.261Z
-updated: 2024-08-31T16:13:23.261Z
+date: 2024-12-07T09:36:32.805Z
+updated: 2024-12-10T21:09:20.994Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  blendOS has gained quite some reputation for its all-in-one feature. But is it good enough to make you stop distro-hopping?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What’s So Special About blendOS Anyway?
 
  blendOS is an [immutable Linux distribution](https://bypass-frp.techidaily.com/in-2024-about-vivo-y100-5g-frp-bypass-by-drfone-android/) based on [Arch Linux](https://fox-access.techidaily.com/updated-fiendish-film-pause-techniques-for-2024/) with a rolling release model. It comes from Rudra Saraswat, the person behind many projects, including Ubuntu Unity, Ubuntu Web, and UbuntuEd.
@@ -36,25 +40,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  blendOS offers a large pool of desktop environments. You have GNOME, KDE, MATE, XFCE, Cinnamon, and LXQt. However, you can also create your own track to make it support other desktops or window managers. The default installation comes with GNOME.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Installation Was Simple
 
 ![blendOS installation screen welcoming the user](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  blendOS is based on Arch Linux. I've never used Arch before, but I'm aware of the dreadful stories regarding [installing Arch Linux](https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-smart-7-hd-by-drfone-android/) on a device. Luckily, many Arch-based distros can be [installed using a GUI installer](https://ai-vdieo-software.techidaily.com/2024-approved-from-minutes-to-seconds-mastering-time-lapse-video-production/).
 
  blendOS uses the Jade GUI installer. The process was straightforward, like installing other [popular Linux distros](https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-80-pro-straight-screen-edition-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/). You choose a few settings, such as language, region, and disk partitioning. The installer handles the rest.
 
 ![blendOS being installed on a system](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Before you start installing blendOS, make sure you allocate enough disk space (at least 20GB.) Otherwise, the installation may fail. When you reboot after installing blendOS, remember to boot from the hard disk instead of the USB stick (if you're using one). If you're using virtualization software such as [VirtualBox](https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-hot-30-5g-by-drfone-android/), change the boot order and put the hard disk at the top.
 
 ##  Managing Software and Updates
@@ -68,14 +63,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Debian container running in blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/debian-container-running-in-blendos.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You may think that to install and update software, you have to open a container for a distro. However, that's not necessary. With a special syntax, you can install and run apps directly from the base blendOS system. All you have to do is put a period (.) sign after the package name and then the name of the distro. Suppose I want to install VLC media player on the Debian container. For that, I'd run:
 
 sudo apt.debian install vlc
 
 ![Installing VLC on blendOS via the Debian container](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/installing-vlc-on-blendos.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To launch the app, I'd run:
 
@@ -88,15 +87,17 @@ vlc.debian
 ![Associating GIMP with the Ubuntu container in blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/associating-gimp-with-the-ubuntu-container-in-blendos.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In my case, to launch GIMP, I only need to run **gimp** on the command line without any prefixes.
 
 ![GIMP running on blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/launching-gimp-on-blendos-using-associations.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  But not everyone likes to remember commands for launching apps. You don't have to. Any app you install on any container will also appear in the apps menu. You can go to the apps menu and launch the app from the GUI.
 
 ![Applications from different Linux containers in the same place on blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/applications-from-different-linux-containers-in-the-same-place-on-blendos.png) 
@@ -106,15 +107,13 @@ vlc.debian
 ![GUI package installer in blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gui-package-installer-in-blendos.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There's also a dedicated GUI software store in blendOS similar to the one you get on Ubuntu. You can search and install software from there as well. The software in the store comes from Flathub.
 
 ![An instance of the blendOS software store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/blendos-software-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  For system updates, blendOS offers a utility tool called "akshara." If you'd like to update the system, simply run:
 
 sudo akshara update
@@ -125,12 +124,13 @@ sudo akshara update
 
 ![System Settings menu displaying the option to update blendOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/update-blendos-from-the-system-settings-menu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  This update also covers any system changes you included in the system.yaml file. So after updating, you need to reboot the system.
 
  You can also update individual containers. For that, open a container and run the command to update that distro. For Debian, you run **sudo apt update** and for Fedora, you run **sudo dnf update** in the container's command line.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Android App Support Looks Promising
 
@@ -142,9 +142,6 @@ sudo akshara update
 
  When using Android apps, you'll feel like you're natively running them on your system thanks to the abstraction. However, as I'm writing this, the Android experience on blendOS was subpar at best. The idea is great and needs better implementation. More on this in a bit.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Recipe for Disaster?
 
  The very first concern anyone can raise about blendOS is the mixture of different distributions and package managers. Since you're using different package managers from different distributions to install software on the same system, won't that create package conflicts and dependency errors?
@@ -173,6 +170,10 @@ sudo akshara update
 
  The white screen problem isn't limited to Waydroid. When I woke the system up from sleep and logged back in, the windows that were open before going to sleep became white and blank.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  blendOS Is for You if…
 
  blendOS is still quite new. The latest version v4 was just released. As with any distro, it will take some time to reach a more stable and usable condition. That being said, it's certainly not a daily driver kind of distro yet.
@@ -199,8 +200,6 @@ sudo akshara update
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +207,20 @@ sudo akshara update
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ssential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>[New] Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exploring-whether-itop-fits-your-tech-needs-for-2024/"><u>[New] Exploring Whether ITop Fits Your Tech Needs for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-aural-storytelling-on-instagram-reels-for-2024/"><u>[New] The Art of Aural Storytelling on Instagram Reels for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-correcting-cmos-checksum-mistakes/"><u>Effective Solutions for Correcting CMOS Checksum Mistakes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/full-image-display-mastering-the-art-of-complete-picture-posting-on-insta/"><u>Full Image Display: Mastering the Art of Complete Picture Posting on Insta</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gamers-guide-prioritizing-the-most-important-elements-for-choosing-your-next-console/"><u>Gamers' Guide: Prioritizing the Most Important Elements for Choosing Your Next Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-investing-in-a-blu-ray-player-worth-it/"><u>Is Investing in a Blu-Ray Player Worth It?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/medical-and-health-facebook-ads-campaign-tips/"><u>Medical And Health Facebook Ads Campaign Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/montblanc-launches-high-end-1300-smartwatch-with-wear-os-does-it-meet-expectations-yet/"><u>Montblanc Launches High-End $1,300 Smartwatch with Wear OS: Does It Meet Expectations Yet?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-macos-recovery-a-comprehensive-startup-solution-guide/"><u>Navigating Through macOS Recovery: A Comprehensive Startup Solution Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-transform-your-photos-into-a-breathtaking-video-with-final-cut-pro/"><u>New 2024 Approved Transform Your Photos Into a Breathtaking Video with Final Cut Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nokia-c02-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nokia C02 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-a1x-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo A1x 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

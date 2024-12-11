@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing High-Quality Sound with Windows 11"
-date: 2024-08-30T16:13:27.126Z
-updated: 2024-08-31T16:13:27.126Z
+date: 2024-12-09T03:41:27.119Z
+updated: 2024-12-11T00:39:21.952Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 ---
 
 ## Complete Guide: Capturing High-Quality Sound with Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
  Whether you want to record a small voice note or an entire song, it's possible to do it using built-in or third-party apps on Windows 11\. We'll show you how to do that. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using the Built-In Sound Recorder App
 
  If you aren’t looking for features like multi-track recording and editing options, [Windows 11’s Sound Recorder app is the best way to record the audio](https://fox-access.techidaily.com/2024-approved-explore-top-5-apps-combining-photography-and-soundscape/) on your PC. The app supports multiple audio formats and quality options.
@@ -31,16 +39,25 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 ![Sound Recorder highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-sound-recorder.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have multiple microphones attached to your PC, you must first [choose the mic you want to use](https://instagram-video-recordings.techidaily.com/2024-approved-cultivating-commerce-on-instagram-partnering-with-profitable-brands/) for the recording. Do that by clicking the microphone icon in the bottom-left corner and selecting the mic you want. 
 
 ![Mic options highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-choose-mic-sound-recorder.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You’re now ready to begin recording your audio. To do that, either select the Start Recording button (the large circle-shaped button) or press Ctrl+R.
 
 ![The Start Recording button highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-start-recording-sound-recorder.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Start speaking into the mic, and the app will record your voice.
 
@@ -52,25 +69,10 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 ![A recording and the Play button highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-play-recording-sound-recorder.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’d like to access the audio file of your recording, right-click the recording and choose "Show in Folder."
 
 !['Show in Folder' highlighted for a recording in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-view-recording-file-sound-recorder.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A File Explorer window will launch, highlighting the selected recording file. You can [copy this file to any folder](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) you want or [upload it online to cloud storage, like Google Drive](https://data-wizards.techidaily.com/effortless-tactics-for-better-footage/).
 
 ![A recording file highlighted in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-sound-recorder-audio-file.jpg) 
@@ -80,29 +82,19 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 ![The three-dots and 'Settings' highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-sound-recorder-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the Recording section, click "Recording Format." Select the format you’d like to use.
 
 ![Audio formats highlighted in Sound Recorder's Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-sound-recorder-audio-format.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  If you want to change the recording quality, select the "Audio Quality" section. Choose the quality you’d like the app to use for the recordings.
 
  The higher the audio quality, the larger the audio file size.
 
 ![Audio quality options highlighted in Sound Recorder's Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-sound-recorder-audio-quality.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Sound Recorder automatically saves your changes, so you don’t have to click any buttons.
 
 ##  With Audacity - A Free and Open-Source App
@@ -116,8 +108,9 @@ No advertising on the website.
 ![A mic highlighted in Audacity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-audacity-choose-mic.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To start recording, click Record (a red button) on the top toolbar, or press the R key.
 
 ![The Record button highlighted in Audacity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-audacity-start-recording.jpg) 
@@ -134,9 +127,6 @@ No advertising on the website.
 
 !['Export Audio' highlighted in Audacity's 'File' menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-audacity-export-audio.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  In the Export Audio window, click "Browse" and choose the location and the file name for the audio file. Click the "Format" drop-down menu and choose your preferred audio format for the file. You should choose MP3 if you’re unsure what to select, as this format plays on nearly all devices. 
 
  If you’d like, configure the other options, then click "Export" at the bottom.
@@ -153,8 +143,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +150,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-android-freedom-the-most-popular-top-10-fb-video-extraction-tools/"><u>[New] 2024 Approved Android Freedom The Most Popular Top 10 FB Video Extraction Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-srt-decoded-core-concepts-simplified-and-explained/"><u>[New] SRT Decoded Core Concepts Simplified and Explained</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-cloud-storage-deals-prices-to-watch/"><u>[Updated] 2024 Approved Best Cloud Storage Deals – Prices to Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-peasy-free-sms-apps-for-iphone-and-ipod-users-discover-them-now/"><u>Easy Peasy Free SMS Apps for iPhone & iPod Users: Discover Them Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-frozen-to-functional-the-ultimate-guide-to-resetting-your-macbook-pro/"><u>From Frozen to Functional: The Ultimate Guide to Resetting Your MacBook Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-14-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi 14 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-your-laptops-efficiency-with-windows-10-battery-management-features/"><u>Maximizing Your Laptop's Efficiency with Windows 10 Battery Management Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-smart-televisions-a-guide-to-making-an-informed-decision-with-these-7-tips/"><u>Navigating the World of Smart Televisions: A Guide to Making an Informed Decision with These 7 Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-free-driver-installs-asus-usb-bt400/"><u>Quick & Free Driver Installs: Asus USB-BT400</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-steps-transforming-your-trec-files-into-avi-format-the-most-straightforward-way/"><u>Simple Steps: Transforming Your TREC Files Into AVI Format - The Most Straightforward Way</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-software-maintenance-a-selection-of-top-11-gratis-program-update-tools/"><u>Streamline Software Maintenance: A Selection of Top 11 Gratis Program Update Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-assembly-crafting-your-personalized-4k-video-editor-pc-for-2024/"><u>The Art of Assembly Crafting Your Personalized 4K Video Editor PC for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/unleashing-potential-for-progress-at-relemar-via-abbyy-flexicapture-integration/"><u>Unleashing Potential for Progress at Relemar via ABBYY FlexiCapture Integration</u></a></li>
+</ul></div>
 

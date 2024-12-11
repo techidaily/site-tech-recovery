@@ -1,7 +1,7 @@
 ---
 title: Ubuntu Installation Made Easy with External Drives - Discover the Top 5 Methods
-date: 2024-08-30T16:14:13.109Z
-updated: 2024-08-31T16:14:13.109Z
+date: 2024-12-04T08:51:27.289Z
+updated: 2024-12-11T03:42:17.955Z
 tags:
   - desktop
 categories:
@@ -16,6 +16,10 @@ Ubuntu's open-source nature makes it, like any Linux distribution, extremely fle
  Keep in mind that installing Ubuntu on an external drive is different from [using a USB stick as a live disk](https://instagram-video-files.techidaily.com/updated-elevate-your-instagram-game-with-pro-edit-techniques/). Live disks are portable "semi-installations" designed to allow people to try Ubuntu, test hardware compatibility, or just use the system for quick navigation on public computers.
 
  Because of that, live disks use different methods to boot. An external Ubuntu installation in contrast uses an ISO or a bootable USB live disk to install the system on another USB drive for a more permanent but still portable operating system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should I Boot Ubuntu From External Storage?
 
@@ -39,9 +43,6 @@ Ubuntu's open-source nature makes it, like any Linux distribution, extremely fle
 
  If you're already on Ubuntu, the best method is [mkusb](https://help.ubuntu.com/community/mkusb). It's supported by the community and is safe and stable.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Method 2: Installing Ubuntu to External HDDs/SSDs
 
  The requirements to install Ubuntu to an external drive are a USB (or DVD) live disk and an external HDD or SDD.
@@ -51,17 +52,15 @@ Ubuntu's open-source nature makes it, like any Linux distribution, extremely fle
 ![Seagate 2TB Luke Skywalker External HDD with yellow RGB light](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/e149b105.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Hannah Stryker / Review Geek_
 
 [This guide on GitHub](https://github.com/danielTobon43/ubuntuExternalHDD) explains how to install Ubuntu on an external hard drive. For the most part, it's the same as installing to an internal disk, but it requires you to partition the target HDD or SSD (using GParted on the live disk) before installing.
 
  Make sure the EFI partition is correctly placed on the external storage—the installer may ignore your settings and put it on the internal disk; that's hit-and-miss.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Method 3: Installing Ubuntu From ISO Without a Live Disk
 
  If you have a single external disk with you, it's also possible to install Ubuntu directly from the ISO file. That way, you don't even need to create a live disk.
@@ -79,8 +78,9 @@ _Hannah Stryker / Review Geek_
 ![XPS 15 SD card slot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/f4736366.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Michael Crider / Review Geek
 
 [This post on Ask Ubuntu](https://askubuntu.com/a/1126878) will guide you step by step. Installing Ubuntu to a memory card is a bit more complex than the previous methods, so be sure to follow that to the letter.
@@ -90,8 +90,9 @@ Michael Crider / Review Geek
  Also, this type of storage is more susceptible to tearing due to limited rewriting cycles. Because of that, it's recommended not to use swap (or have this partition in another drive, like a USB stick) when installing Ubuntu on a memory card.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Method 5: Virtualized Ubuntu on External Storage
 
  This method doesn't allow you to boot from the portable Ubuntu installation. But, if your needs may be met by [using a virtual machine (VM) or Docker containers](https://fox-direct.techidaily.com/new-different-editions-of-windows-film-editor-software-for-2024/), it saves you the time to download the ISO and set up the VM or container.
@@ -103,8 +104,9 @@ Michael Crider / Review Geek
  This should be enough to open that virtual machine on any computer (given you use the same program). But always make sure that the other computer has the same (or higher) core count and RAM as the one you used to create the VM. If not, then change this setting before booting the virtual machine.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Ubuntu on an External Disk Makes for a (Really) Portable Installation
 
  Whether you choose an external HDD/SSD, a memory card, a live disk, or even a virtualized installation, Ubuntu shows its flexibility by becoming truly portable. You can just plug in the media of your choice and have a fully functional system in a couple of minutes. Good to keep your internal disk out of trouble, great to carry your own Linux installation around, complete with customizations and preferred apps.
@@ -115,8 +117,6 @@ Michael Crider / Review Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,24 @@ Michael Crider / Review Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-enhancing-engagement-best-practices-for-b-roll-integration/"><u>[New] Enhancing Engagement Best Practices for B Roll Integration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-achieving-virality-on-youtube-essential-steps-demystified-for-2024/"><u>[Updated] Achieving Virality on YouTube Essential Steps Demystified for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-story-your-stage-youtube-video-mastery/"><u>2024 Approved Your Story, Your Stage YouTube Video Mastery</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-downloading-and-installing-iphones-drivers-for-windows-11/"><u>Complete Guide: Downloading & Installing iPhones Drivers for Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-divide-a-comparison-of-cable-television-vs-streaming-platforms/"><u>Decoding the Divide: A Comparison of Cable Television Vs. Streaming Platforms</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/easy-steps-to-transfer-your-gmail-messages-into-a-pstzip-archive/"><u>Easy Steps to Transfer Your Gmail Messages Into a PST/ZIP Archive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-pre-launch-report-deciphering-rumors-pricing-and-release-date-for-the-samsung-galaxy-s25-ultra-what-to-expect/"><u>Exclusive Pre-Launch Report: Deciphering Rumors, Pricing & Release Date for The Samsung Galaxy S25 Ultra – What to Expect?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-next-gen-linguistics-with-googles-innovative-palm-2-framework/"><u>Exploring Next-Gen Linguistics with Google's Innovative PaLM 2 Framework</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-perform-a-successful-chromecast-software-update/"><u>How to Perform a Successful Chromecast Software Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-graphics-quality-for-a-crisp-experience-in-the-latest-outriders-patch/"><u>Improved Graphics Quality for a Crisp Experience in the Latest Outriders Patch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-v29-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo V29 and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-multi-screen-mastery-setting-up-your-second-display/"><u>Mac Multi-Screen Mastery: Setting Up Your Second Display</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/straightforward-stories-essence/"><u>Straightforward Stories' Essence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-hidden-advantages-of-driving-an-electric-vehicle-free-parking-and-carpool-lane-access/"><u>The Hidden Advantages of Driving an Electric Vehicle: Free Parking & Carpool Lane Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-outstanding-80s-movies-you-should-see-immediately/"><u>The Ultimate List of Outstanding '80S Movies You Should See Immediately</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-for-creating-stunning-image-collages-with-iphones-photo-cutout-feature/"><u>The Ultimate Tutorial for Creating Stunning Image Collages with iPhone's Photo Cutout Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-in-powerpoint-learn-simple-techniques-for-updating-your-slides/"><u>What's New in PowerPoint? Learn Simple Techniques for Updating Your Slides</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Integrating Ubuntu Into macOS: A Step-by-Step Tutorial for Combining Linux and Xcode in One Smart Trick Insights"
-date: 2024-11-27T19:28:30.708Z
-updated: 2024-12-05T05:02:44.673Z
+date: 2024-12-08T23:19:26.737Z
+updated: 2024-12-11T06:05:42.637Z
 tags:
   - apple
 categories:
@@ -28,21 +28,17 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -59,7 +55,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,6 +76,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-uncover-the-best-12-flipscreen-vlogging-cameras-on-a-budget/"><u>[New] 2024 Approved Uncover the Best 12 Flipscreen Vlogging Cameras on a Budget</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-recording-on-googles-platform/"><u>[New] In 2024, Mastering Recording on Google's Platform</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-scaling-your-income-with-beauty-tutorials/"><u>[Updated] In 2024, Scaling Your Income with Beauty Tutorials</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-iphone-and-android-video-editor-choices/"><u>2024 Approved Essential iPhone & Android Video Editor Choices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/8-proven-solutions-to-correct-the-bluish-hue-on-your-television-display/"><u>8 Proven Solutions to Correct the Bluish Hue on Your Television Display</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209938911-9781623175375-ayurveda-for-depression/"><u>Ayurveda for Depression | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decode-the-502-bad-gateway-error-tips-for-swift-solutions/"><u>Decode The '502 Bad Gateway' Error - Tips for Swift Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-telegram-insights-into-this-global-chatting-platform/"><u>Decoding Telegram: Insights Into This Global Chatting Platform</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-updated-passwords-for-secure-access-to-d-link-networks-july-2024/"><u>Discover Updated Passwords for Secure Access to D-Link Networks (July 2024)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-mic-in-airpods-when-used-with-microsofts-latest-os-windows-11/"><u>Fixing Non-Functional Mic in AirPods when Used with Microsoft’s Latest OS, Windows 11</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/free-guide-successful-file-and-folder-recovery-using-aomei-backupper/"><u>FREE Guide: Successful File & Folder Recovery Using AOMEI Backupper</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-easily-streaming-your-mac-screen-to-television-via-airplay/"><u>Guide: Easily Streaming Your Mac Screen to Television via AirPlay</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guide-recovering-your-information-post-iphone-restoration/"><u>Guide: Recovering Your Information Post-iPhone Restoration</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nubia-red-magic-8s-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nubia Red Magic 8S Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-how-to-stop-custom-suggestions-from-showing-up-on-your-instagram-feed/"><u>Step-by-Step: How To Stop Custom Suggestions From Showing Up On Your Instagram Feed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-a-missing-dark-theme-on-facebook-with-simple-fixes/"><u>Troubleshooting a Missing Dark Theme on Facebook with Simple Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-masters-of-ai-discovering-chatgpts-ownership/"><u>Unveiling the Masters of AI: Discovering ChatGPT's Ownership</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-freedom-in-fun-10-excellent-offline-gaming-on-android-devices/"><u>[New] Freedom in Fun 10 Excellent Offline Gaming on Android Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secure-video-communication-made-simple-with-top-10-safe-apps-on-mobile-devices-for-2024/"><u>[New] Secure Video Communication Made Simple with Top 10 Safe Apps on Mobile Devices for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlock-your-potential-mastering-the-art-of-youtube-edits/"><u>[Updated] 2024 Approved Unlock Your Potential Mastering the Art of YouTube Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-epitome-of-engagement-celebrating-the-most-voted-posts-10/"><u>[Updated] The Epitome of Engagement Celebrating the Most-Voted Posts (10)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-complete-checklist-for-choosing-your-ideal-projector/"><u>A Complete Checklist for Choosing Your Ideal Projector</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-distinctions-of-home-theater-versus-stereo-receiver-technology-for-ultimate-sound-quality/"><u>Decoding the Distinctions of Home Theater Versus Stereo Receiver Technology for Ultimate Sound Quality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722882758812-discover-the-best-iphone-gps-tools-our-top-picks-for-you/"><u>Discover the Best iPhone GPS Tools: Our Top Picks for You!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-m54-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy M54 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-power-issues-with-your-playstation-5-controller/"><u>Troubleshooting Tips: Resolving Power Issues with Your PlayStation 5 Controller</u></a></li>
 </ul></div>
 

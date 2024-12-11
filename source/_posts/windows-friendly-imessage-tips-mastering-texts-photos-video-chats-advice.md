@@ -1,7 +1,7 @@
 ---
 title: "Windows-Friendly iMessage Tips: Mastering Texts, Photos, Video Chats - Advice"
-date: 2024-11-30T02:10:50.816Z
-updated: 2024-12-05T08:12:57.619Z
+date: 2024-12-07T00:48:30.752Z
+updated: 2024-12-11T10:57:35.587Z
 tags:
   - apple
 categories:
@@ -42,10 +42,14 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to send and receive iMessages on Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
@@ -66,10 +70,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -85,10 +85,6 @@ Screenshot by Lance Whitney/ZDNET
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -107,10 +103,6 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -134,6 +126,10 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -147,7 +143,7 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -155,6 +151,10 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,18 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-definitive-steps-for-online-streaming-audio-archiving/"><u>[New] 2024 Approved The Definitive Steps for Online Streaming Audio Archiving</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-whats-new-in-youtube-tv-updates-and-features/"><u>[Updated] 2024 Approved What's New in YouTube TV Updates & Features?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-cutting-edge-text-configuration-techniques/"><u>[Updated] In 2024, Cutting-Edge Text Configuration Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-art-of-digital-collage-a-comprehensive-guide-to-iphones-photo-cutout-feature-in-ios-16/"><u>Discover the Art of Digital Collage: A Comprehensive Guide to iPhone's Photo Cutout Feature in iOS 16</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-when-mozilla-thunderbird-fails-to-start-up/"><u>Effective Solutions When Mozilla Thunderbird Fails to Start Up</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/efficiency-in-action-how-the-turkish-government-enhanced-workflow-management-using-abbyy-technology/"><u>Efficiency in Action: How the Turkish Government Enhanced Workflow Management Using ABBYY Technology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-fixes-for-microsoft-word-documents-that-just-wont-open/"><u>Effortless Fixes for Microsoft Word Documents That Just Won't Open</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-personalize-perfect-and-play-the-ultimate-guide-for-android-sound-choices/"><u>In 2024, Personalize, Perfect, and Play The Ultimate Guide for Android Sound Choices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/learn-asl-on-a-budget-top-16-no-cost-learning-resources-available-online/"><u>Learn ASL on a Budget: Top 16 No-Cost Learning Resources Available Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-access-denied-problem-a-guide/"><u>Solving the 'Access Denied' Problem: A Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-solving-the-issue-of-diagonal-lines-appearing-on-your-pc-display/"><u>Troubleshooting: Solving the Issue of Diagonal Lines Appearing on Your PC Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-premier-6-task-tracking-tools-for-windows-users/"><u>Unveiling The Premier 6 Task-Tracking Tools for Windows Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-voice-recognition-technology-compilation-windows-and-macos-dictation-software-plus-cloud-services-ranked-top-8/"><u>Updated The Ultimate Voice Recognition Technology Compilation Windows & macOS Dictation Software + Cloud Services Ranked (Top 8 )</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-crystal-clear-imagery-best-online-tools-for-clarity/"><u>[Updated] 2024 Approved Crystal Clear Imagery Best Online Tools for Clarity</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-direct-video-tweet-release-avoid-the-rt/"><u>[Updated] 2024 Approved Direct Video Tweet Release Avoid the 'RT'</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-cutting-edge-creativity-high-quality-ae-samples-without-fee/"><u>[Updated] In 2024, Cutting-Edge Creativity High-Quality AE Samples Without Fee</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/battling-dead-battery-woes-fix-airpods-charging-issues-in-9-simple-ways/"><u>Battling Dead Battery Woes? Fix AirPods Charging Issues in 9 Simple Ways</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/echo-chambers-tech-updates/"><u>Echo Chambers Tech Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-privacy-focused-search-insights-into-duckduckgos-security/"><u>Exploring the World of Privacy-Focused Search: Insights Into DuckDuckGo's Security</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-itel-a60-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Itel A60 Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-insert-source-code-into-a-word-document/"><u>How to Insert Source Code Into a Word Document</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-explore-efficient-two-screen-viewing-on-netflix/"><u>In 2024, Explore Efficient Two-Screen Viewing on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/introducing-smartwatches-a-deep-dive-into-their-functions-and-benefits/"><u>Introducing Smartwatches - A Deep Dive Into Their Functions & Benefits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-basics-setting-up-and-navigating-a-fresh-x-profile/"><u>Master the Basics: Setting Up and Navigating a Fresh X Profile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-playlist-unions-on-spotify-a-simple-guide/"><u>Mastering the Art of Playlist Unions on Spotify - A Simple Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-pitfalls-of-counterfeit-connection-offers-in-social-media-networks/"><u>Navigating the Pitfalls of Counterfeit Connection Offers in Social Media Networks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordered-viewing-a-step-by-step-guide-to-experience-the-matrix-trilogy/"><u>Ordered Viewing: A Step-by-Step Guide to Experience The Matrix Trilogy</u></a></li>
+<li><a href="https://solve-info.techidaily.com/pcvimeo/"><u>PCで効率よく編集し直せるVimeo動画のトリミングガイド</u></a></li>
 </ul></div>
 

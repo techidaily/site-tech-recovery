@@ -1,7 +1,7 @@
 ---
 title: "Solving 'No Internet Access' Issue: Top 10 Windows 11 Troubleshooting Steps for Wi-Fi Connectivity"
-date: 2024-08-30T16:14:29.072Z
-updated: 2024-08-31T16:14:29.072Z
+date: 2024-12-06T22:16:03.273Z
+updated: 2024-12-10T21:54:00.676Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 ---
 
 ## Solving 'No Internet Access' Issue: Top 10 Windows 11 Troubleshooting Steps for Wi-Fi Connectivity
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 * Run the Network and Internet troubleshooter. Go to Settings > System > Troubleshoot > Other Troubleshooters. Then, click the "Run" button next to Network and Internet.
 
  Does your device appear connected to Wi-Fi, but you cannot access the internet? Have you encountered a message like "No Internet Access" This indicates a problem with your router, device settings, or a potential technical issue with your ISP. Take these steps to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Ensure the Problem Isn't With Your ISP
 
@@ -63,8 +71,13 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 ![The button to set up a manual proxy on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/manual-proxy-setup-windows-11.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Disconnect Other Wi-Fi Networks
 
  Your laptop might be connected to a Wi-Fi network that's disconnected from the internet, which could be why you don't have internet access. Windows laptops automatically switch to the fastest available network, and your device may have automatically switched to a different Wi-Fi network.
@@ -74,32 +87,27 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 ![Opening the 'Manage Known Networks' settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-5-opening-the-manage-known-networks-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From there, click the "Forget" button next to each Wi-Fi network to remove it entirely from your laptop.
 
 ![Forgetting an old network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-forgetting-an-old-network-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove the Data Limit
 
 [Windows allows users to restrict their data usage](https://fox-http.techidaily.com/2024-approved-clever-ways-to-neglect-edge-academy-vids/), which is especially useful if they have a limited data plan or their ISP charges them based on data usage. When this limit is reached, internet access is disabled even though the device appears to be connected to Wi-Fi. To check this, navigate to Network and Internet > Advanced Network Settings > Data Usage.
 
 ![Opening the data usage settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/opening-the-data-usage-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To remove the set data limit, click the "Remove Limit" button and click "Remove" in the pop-up.
 
 ![Removing the data usage limit from the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-removing-the-data-usage-limit-from-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Users can also set data limits on their phones (for hotspot connections) or within their router settings. Ensure that data usage is not limited there either.
 
 ##  Run the Network and Internet Troubleshooter
@@ -108,9 +116,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, click the "Run" button next to Network and Internet. Windows will open the Get Help app, which will guide you through instructions to identify and fix the problem.
 
 ##  Ensure the IP Address Isn't Invalid
@@ -127,18 +132,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Settings the DNS server assignment to automatic in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-settings-the-dns-server-assignment-to-automatic-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Update the Network Adapter Driver
 
  Outdated network drivers can lead to various internet problems. To ensure outdated drivers aren't the cause of the current issue, [download and install the latest drivers available](https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-13c-5g-phone-frp-lock-by-drfone-android/). Visit your device manufacturer's website and locate the latest network drivers. If the driver file is in executable format, simply run it and follow the on-screen instructions to install it.
@@ -148,14 +141,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Updating a network adapter driver in the Device Manager on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-updating-a-network-adapter-driver-in-the-device-manager-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, select "Browse My Computer for Drivers," then navigate to the path where you downloaded the drivers. Follow the on-screen instructions to complete the installation process.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Perform a Network Reset
 
  If the issue persists, you can try the least favorable option: reset the network settings. This process clears all network-related information and preferences, including saved Wi-Fi networks, passwords, and VPN profiles, but it often resolves critical network problems. However, only resort to this as a last option if other fixes have failed.
@@ -164,21 +154,23 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Opening the network reset settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-opening-the-network-reset-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Click "Reset Now" and confirm by clicking "Yes" in the confirmation box. Then, restart your device and set up your Wi-Fi network from scratch.
 
 ![Resetting the network settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-resetting-the-network-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Run a Few Commands in the Command Prompt
 
  If none of the previously mentioned solutions resolve the issue, run a few commands in Command Prompt to [flush the DNS cache](https://article-helps.techidaily.com/updated-in-2024-sightline-synopsis-study/), release and renew the IP address, and reset rules and network records. Type **cmd** in the Windows Search bar, and click on "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-open-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, input each of the following commands one by one and press the Enter key after adding each one:
 
@@ -198,8 +190,6 @@ ipconfig /flushdns`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +197,26 @@ ipconfig /flushdns`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-seamless-scenes-integrating-fade-inout-effects/"><u>[New] 2024 Approved Seamless Scenes Integrating Fade In/Out Effects</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-edition-movavi-video-editing-suite-assessment/"><u>[Updated] 2024 Edition Movavi Video Editing Suite Assessment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beyond-the-skyline-with-yuneecs-typhoon-q500/"><u>2024 Approved Beyond the Skyline with Yuneec's Typhoon Q500</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-top-max-right-now-documentaries-airing-this-july-2024/"><u>Discover the Top Max Right Now Documentaries Airing This July 2024!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-getting-your-roku-device-back-online-and-running-smoothly/"><u>Expert Strategies for Getting Your Roku Device Back Online and Running Smoothly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/four-innovative-app-tools-to-streamline-home-painting-processes/"><u>Four Innovative App Tools to Streamline Home Painting Processes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-moto-e13-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Moto E13 Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>In 2024, The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-powerpoint-modifications-tips-for-an-updated-and-modern-presentation/"><u>Master the Art of PowerPoint Modifications: Tips for an Updated and Modern Presentation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/method-for-identifying-and-contacting-callers-of-anonymous-numbers/"><u>Method for Identifying & Contacting Callers of Anonymous Numbers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/rise-through-rankings-with-expert-seo-insights-for-your-seagate-backup-plus-drive-the-2024-manual/"><u>Rise Through Rankings with Expert SEO Insights for Your Seagate Backup Plus Drive - The 2024 Manual</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-pairing-problems-a-guide-with-6-effective-strategies-for-your-apple-watch/"><u>Solving Pairing Problems: A Guide with 6 Effective Strategies for Your Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-repair-techniques-for-lost-rockaldlldll-errors/"><u>Troubleshooting and Repair Techniques for Lost Rockaldll.dll Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-auto-gpt-download-and-installation/"><u>Unveiling Auto-GPT: Download & Installation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-features-and-performance-of-western-digitals-data-lifeguard-diagnostics/"><u>Unveiling the Features and Performance of Western Digital's Data LifeGuard Diagnostics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-power-of-the-new-apple-tv-4k-gen-3-reviewed-here/"><u>Unveiling the Power of the New Apple TV 4K (Gen 3) Reviewed Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-your-minecraft-graphics-driver-step-by-step-guide/"><u>Update Your Minecraft Graphics Driver: Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-dvd-to-computer-the-easy-way-to-convert-and-store-your-favorite-movies-for-2024/"><u>Updated DVD to Computer The Easy Way to Convert and Store Your Favorite Movies for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-woes-solution-to-crashes/"><u>Windows Update Woes: Solution to Crashes</u></a></li>
+</ul></div>
 

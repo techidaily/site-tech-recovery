@@ -1,7 +1,7 @@
 ---
 title: "Identifying Deepfake Media: Current Strategies to Detect Artificial Intelligence-Created Video Content"
-date: 2024-08-30T16:16:13.484Z
-updated: 2024-08-31T16:16:13.484Z
+date: 2024-12-04T00:44:57.341Z
+updated: 2024-12-11T05:48:01.507Z
 tags:
   - cutting-edge
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
  The aim here is to highlight some of the ways you can pick out AI-generated content, at least for now. Remember that models are always evolving, so these traits will become harder to spot. Sometimes the choice of subject and context of the video can make all the difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Watch for Subtle Changes and "Ghosts"
 
  Looking for subtle changes is one way to spot a convincing AI fake, but it’s not exactly easy. One example of OpenAI’s SORA depicted a woman walking down a [neon-lit Tokyo street](https://cdn.openai.com/sora/videos/tokyo-walk.mp4). The scene is impressive for a text-to-video tool, so impressive that you might have missed the wardrobe change towards the end of the footage.
@@ -42,14 +46,15 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
 ![OpenAI SORA Tokyo night scene example clip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 OpenAI
 
  Now take a look at the same clothes in the close-up and you’ll see that the dress now has dark patches on it and that the leather jacket has a much larger off-center lapel:
 
 ![OpenAI SORA Tokyo night scene close up.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 OpenAI
 
@@ -59,9 +64,6 @@ OpenAI
 
 ![OpenAI SORA California gold rush town.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/goldrush1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 OpenAI
 
  Two seconds later, the figure has disappeared entirely. If you watch the video, you’ll see this figure blend right into the dirt as if it were a ghost:
@@ -71,10 +73,9 @@ OpenAI
 OpenAI
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  AI Struggles with Fingers, Glasses, and Finer Elements
 
  One of the biggest problems for AI-generative models are extremities and fine lines. In particular, have a good hard look at hands, held objects, spectacles, and the way things interact with human features (like hats, helmets, or even hair).
@@ -87,9 +88,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![OpenAI SORA Lagos street scene depicting some irregularities.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/lagos_third_arm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 OpenAI
 
  Can you take your third arm off my leg, please?
@@ -110,6 +108,10 @@ OpenAI
 
  Another example is OpenAI’s [Big Sur coastline drone shot](https://cdn.openai.com/sora/videos/big-sur.mp4). Have you ever seen a wave that looks that straight in nature?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Lighting and the "AI Aura"
 
  This is something we’ve seen a lot in AI-generated photos, and it’s arguably more of a “feel” than an objectively identifiable trait. If lighting feels particularly flat and unnatural in instances where you’d expect more variance, that can signal that it might not be real.
@@ -118,9 +120,6 @@ OpenAI
 
  Everything can look a bit like a highly-produced music video, or like video games in the days before [realistic lighting and raytracing](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-drfone-by-drfone-virtual/). Subjects may look perfectly lit in instances where you’d expect them not to be.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Uncanny Valley Effect
 
  The uncanny valley effect is a term used to describe the mixing of human and inhuman traits in a manner that makes the viewer feel uncomfortable. Androids or human-like robots are oft-cited examples since they give the outward appearance of being human but are inescapably inhuman at the same time.
@@ -132,8 +131,9 @@ OpenAI
 ![OpenAI SORA spaceman with a knitted helmet video demonstrating the uncanny valley effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uncanny_valley.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 OpenAI
 
  And there’s a similarly [ghoulish grandmother](https://cdn.openai.com/sora/videos/grandma-birthday.mp4) failing to blow out her birthday candles, which looks far worse in motion:
@@ -142,15 +142,15 @@ OpenAI
 
 OpenAI
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ##  Watch Out for Nonsense
 
  This seems like the easiest red flag to spot, but sometimes your brain just gives things a pass. The aforementioned spaceman video is a good example of this. There’s a brief scene of a door, or a handle, or a lever, or _something_ that just doesn’t make sense:
 
 ![OpenAI SORA spaceman video depicting a weird object.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/weird_lever.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 OpenAI
 
@@ -160,9 +160,6 @@ OpenAI
 
  Garbled text is another good example of what AI generative processes often get wrong. The Japanese characters in SORA’s Tokyo night scene video are a jumble, and so is some of the road and shop signage. Choosing a scene where most people are unable to distinguish Japanese from a bad tribute was a smart choice on OpenAI’s part.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Train Yourself to Better Spot This Content
 
  The best way to train yourself to spot AI-generated content is to study it yourself. Most generative models have active communities both on the web and on social media platforms like Reddit. Find some and take a look at what people are coming up with.
@@ -177,8 +174,6 @@ OpenAI
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +181,22 @@ OpenAI
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unveiling-the-most-compelling-ios-apps-for-psp-gaming/"><u>[New] 2024 Approved Unveiling the Most Compelling iOS Apps for PSP Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-approach-to-pinpointing-stellar-photos-on-pexels/"><u>A Step-by-Step Approach to Pinpointing Stellar Photos on Pexels</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-mpow-microphone-problems-in-microsoft-windows/"><u>Diagnosing and Fixing MPOW Microphone Problems in Microsoft Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-redmi-note-12-proplus-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Redmi Note 12 Pro+ 5G Device SIM</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/effective-strategies-for-lowering-elevated-cpu-consumption-expert-advice-from-yl-computing/"><u>Effective Strategies for Lowering Elevated CPU Consumption: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-free-video-options-vlc-meets-mpc-for-2024/"><u>Exploring Free Video Options VLC Meets MPC for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-without-cost-nevertheless-plus-membership-holds-6-crucial-amenities/"><u>GPT-4, Without Cost; Nevertheless, Plus Membership Holds 6 Crucial Amenities.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-politely-retrieve-a-missed-call-from-a-private-number/"><u>How To Politely Retrieve a Missed Call From a Private Number</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-fix-the-missing-or-unavailable-d3dx930dll-file/"><u>How To Successfully Fix The 'Missing or Unavailable' d3dx9_30.dll File</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-trick-effortlessly-highlight-every-message-in-your-gmail-inbox/"><u>Quick Trick: Effortlessly Highlight Every Message in Your Gmail Inbox</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roblox-server-status-whats-going-on-or-are-issues-only-on-your-end/"><u>Roblox Server Status: What's Going On, or Are Issues Only on Your End?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-missing-btballoondll-error-on-your-computer/"><u>Solving the Issue: Missing btballoon.dll Error on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-handbook-to-effortless-screen-capturing-on-personal-computers/"><u>The Beginner's Handbook to Effortless Screen Capturing on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-techniques-to-fix-persistent-crashes-while-playing-sea-of-thieves/"><u>Top Techniques to Fix Persistent Crashes While Playing Sea of Thieves</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-cognitive-abilities-of-android-os-the-role-of-machine-learning-and-artificial-intelligence/"><u>Unveiling the Cognitive Abilities of Android OS: The Role of Machine Learning and Artificial Intelligence</u></a></li>
+</ul></div>
 

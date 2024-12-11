@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2024-11-30T16:40:03.928Z
-updated: 2024-12-05T01:38:55.175Z
+date: 2024-12-05T23:14:22.329Z
+updated: 2024-12-11T11:55:35.489Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -69,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -90,10 +94,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -109,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,19 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-handbook-windows-pc-for-capturing-live-tv/"><u>[New] 2024 Approved Essential Handbook Windows PC for Capturing Live TV</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-craft-the-perfect-stream-a-comprehensive-guide-to-youtubes-full-rotation-videos/"><u>[New] In 2024, Craft the Perfect Stream A Comprehensive Guide to YouTube’s Full-Rotation Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-tricks-for-faster-instagram-video-views-for-2024/"><u>[New] Tricks for Faster Instagram Video Views for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-achieving-professionalism-with-zoom-filter-applications-for-2024/"><u>[Updated] Achieving Professionalism with Zoom Filter Applications for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-price-forecast-release-info-and-specs/"><u>All You Need to Know About the Upcoming Samsung Galaxy S25 - Price Forecast, Release Info, and Specs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beam-brighter-adopting-the-playful-cartoon-lens-on-snapchat-for-2024/"><u>Beam Brighter Adopting the Playful Cartoon Lens on Snapchat for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-when-an-ipad-cant-find-or-print-with-any-printers/"><u>How to Fix When an iPad Can't Find or Print With Any Printers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-c65-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco C65</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/learn-american-sign-language-for-free-16-essential-resources/"><u>Learn American Sign Language For Free: 16 Essential Resources</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-all-/"><u>New 2024 Approved Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rectifying-viewing-difficulties-a-guide-to-fix-paramountplus-app-issues-on-amazons-fire-tv/"><u>Rectifying Viewing Difficulties: A Guide to Fix Paramount+ App Issues on Amazon's Fire TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-missing-vcompdll-files-on-your-computer-effective-strategies-and-tips/"><u>Resolving Missing Vcomp.dll Files on Your Computer – Effective Strategies and Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-picks-for-cutting-edge-websites-of-text-styling-tools/"><u>Top Picks for Cutting-Edge Websites of Text Styling Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/15-masterpieces-that-defined-stop-motion-artistry/"><u>15 Masterpieces That Defined Stop Motion Artistry</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-lg-channels-essential-tips-and-insights-uncovered/"><u>Decoding LG Channels: Essential Tips and Insights Uncovered</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725284941701-dvddvd/"><u>DVDをビデオファイルにするための優れた変換ツールとテクニック！市販、レンタルDVDでも完璧!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-techniques-for-embedding-programming-scripts-in-word-documents/"><u>Effortless Techniques for Embedding Programming Scripts in Word Documents</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-restore-your-wi-fis-presence-handling-network-invisibility/"><u>How to Restore Your Wi-Fi's Presence: Handling Network Invisibility</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leveraging-seo-in-youtube-a-title-and-tags-guidebook/"><u>In 2024, Leveraging SEO in Youtube A Title & Tags Guidebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-poco-c51-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Poco C51 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-information-on-the-future-of-wireless-earbuds-google-pixel-buds-pro-2-specs-pricing-and-arrival-date-hints/"><u>Insider Information on the Future of Wireless Earbuds: Google Pixel Buds Pro 2 Specs, Pricing & Arrival Date Hints</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pixel-fold-2-sneak-peek-expected-price-tag-launch-date-and-features-what-to-know-now/"><u>Pixel Fold 2 Sneak Peek: Expected Price Tag, Launch Date & Features - What to Know Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-mystery-of-continuous-thaumaturge-shutdowns-in-pc-gaming/"><u>Solving the Mystery of Continuous Thaumaturge Shutdowns in PC Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamers-handbook-understanding-the-intricacies-of-twitch-chat-for-new-users/"><u>Streamer's Handbook: Understanding the Intricacies of Twitch Chat for New Users</u></a></li>
 </ul></div>
 

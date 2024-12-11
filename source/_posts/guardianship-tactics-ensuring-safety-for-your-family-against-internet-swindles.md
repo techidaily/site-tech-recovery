@@ -1,7 +1,7 @@
 ---
 title: "Guardianship Tactics: Ensuring Safety for Your Family Against Internet Swindles"
-date: 2024-08-30T16:12:14.693Z
-updated: 2024-08-31T16:12:14.693Z
+date: 2024-12-07T05:10:55.626Z
+updated: 2024-12-11T03:01:45.687Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 ---
 
 ## Guardianship Tactics: Ensuring Safety for Your Family Against Internet Swindles
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
  Ignore messages from numbers you don't know, and never reveal personal information or click on any links you are sent.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Classified Scams: Mind Your Purse
 
  There are fake classified ads, online stores, rental properties and job listings that you need to watch out for when shopping online. Examples of this include fake rental property listings that will ask you to transfer a security deposit to the scammer, fake job listings that will ask you to transfer money to pay for training materials (for a job that doesn't exist), and classified ads for used items that will never be delivered. Before you pay for anything, always check that the website you are using is legitimate, and that the product or listing is from a reputable user.
@@ -45,18 +50,15 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
  Sometimes, these scams come in the form of [ads and popups that look like legitimate messages](https://eaxpv-info.techidaily.com/new-in-2024-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes/) warning you of viruses that need to be cleaned, asking you to click a link or call a number to resolve the issue. These rely on making you panic so that you'll follow their instructions. Instead, you should ignore them, close your web browser, and run a scan directly [using your own antivirus](https://extra-skills.techidaily.com/new-pinnacle-of-video-quality-3-key-transcoder-strategies/) if you are concerned.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Phishing: Watch Out for Fake Emails
 
 [Phishing](https://video-screen-grab.techidaily.com/new-2024-approved-securing-gaming-triumphs-record-save-and-archive-ps4-games/) uses fake emails and websites that look like the real thing to trick you into sharing usernames, passwords, or payment details. These can look like real emails from your bank, government, online stores, or other platforms you use. These can be very difficult to spot, may use real details about you to look legitimate (like your real name and contact details) and even the sending address may appear correct at first glance.
 
  The best protection against phishing scams is to never click on links in emails that lead to a login page. Close your browser, and then navigate to the website for the email sender, and log in from there. This way, you know that it's a legitimate login page, and not a fake one set up to steal your information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Cryptocurrency and Investment Scams: You Won't Get Rich Quick
 
  Crypto and investment scams may come in the form of phishing, messaging, and even through online ads, but the hook is always the same: _with little effort, you can get rich if you transfer some money, but act soon so you don't miss out!_ 
@@ -64,8 +66,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Just don't do it. The investment opportunity is fake, or the platform they ask you to use may be fraudulent and used to steal your banking details. [Cryptocurrency](https://extra-support.techidaily.com/2024-approved-peak-panzoid-structures-for-beginners/) is often used in these scams as many people aren't familiar with how it works, making it easy to dupe you into handing over their money.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Bank Fraud: Be Sure Before You Transfer Money
 
  Bank fraud is the end goal of most online scams, and it comes in many forms beyond what's listed in this article. Scammers are creative, and always looking for new convincing stories and technical methods to convince you to give them sensitive information. For example, scammers have been [impersonating banks themselves](https://www.accc.gov.au/media-release/bank-impersonation-scams-robbing-australians-of-their-life-savings "https://www.accc.gov.au/media-release/bank-impersonation-scams-robbing-australians-of-their-life-savings") to convince you to give them your details, and have also been tracking legitimate transactions, then [issuing fake invoices for them](https://www.scamwatch.gov.au/news-alerts/scam-alert-fake-business-invoice-scams "https://www.scamwatch.gov.au/news-alerts/scam-alert-fake-business-invoice-scams"), so you think you are paying for services you actually received, but pay the scammer instead.
@@ -73,8 +76,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Never give out your bank details to anyone who contacts you online, and always confirm payment details before you make an online transfer. Funds are rarely recoverable once a bank transfer has been made.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Impersonation: Confirm Suspicious Calls from Friends and Family
 
  If a family member contacts you, urgently asking for money to be transferred to a new bank account, tread carefully. Scammers trawl social media to find out who you know, then use the details they find (including names, photos, and even information about your activities) to impersonate trusted individuals and try and trick you into transferring them money.
@@ -83,9 +87,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  AI is even being used by scammers to [fake video calls](https://tech.slashdot.org/story/24/05/10/1725235/ceo-of-worlds-biggest-ad-firm-targeted-by-deepfake-scam?utm%5Fsource=feedly1.0mainlinkanon&utm%5Fmedium=feed "https://tech.slashdot.org/story/24/05/10/1725235/ceo-of-worlds-biggest-ad-firm-targeted-by-deepfake-scam?utm_source=feedly1.0mainlinkanon&utm_medium=feed"), so this one is going to be harder to spot in the future! If you do get a suspicious message from a friend or family member, contact them through a different channel to confirm that it's really them before continuing to communicate with them.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Can You Do to Protect Yourself and Your Loved Ones?
 
  The fastest way to stop a scam in progress is to stop communicating with the scammer immediately, and change your passwords and payment details ASAP so that they cannot use any information that they have collected.
@@ -98,8 +99,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +106,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-cutting-edge-strategies-for-dynamic-igtv-backgrounds/"><u>[Updated] 2024 Approved Cutting-Edge Strategies for Dynamic IGTV Backgrounds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-engage-audience-directly-from-xbox-with-fb-live/"><u>2024 Approved Engage Audience Directly From Xbox with FB Live</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-non-functioning-spell-check-in-microsoft-outlook/"><u>Easy Fixes for Non-Functioning Spell Check in Microsoft Outlook</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-durgence-pour-resoudre-les-erreurs-de-service-de-cliche-instantane-des-volumes-dans-windows-11-7-et-8/"><u>Guide D'urgence Pour Résoudre Les Erreurs De Service De Cliché Instantané Des Volumes Dans Windows 11, 7 Et 8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-at-googles-newest-tech-a-comprehensive-guide-to-the-rumored-google-tv-box-pricing-and-more/"><u>Inside Look at Google's Newest Tech: A Comprehensive Guide to the Rumored Google TV Box – Pricing & More!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a15-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A15 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-image-purity-via-photopea-methods-for-2024/"><u>Streamlining Image Purity via Photopea Methods for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/subtle-archiving-concealing-your-chatgpt-journey/"><u>Subtle Archiving: Concealing Your ChatGPT Journey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-formula-for-youtube-virality-essential-techniques-you-need-to-know-in-8-parts/"><u>Unlock the Formula for YouTube Virality: Essential Techniques You Need to Know (In 8 Parts)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-secrets-of-high-quality-music-streaming-with-dts-play-fi/"><u>Unraveling the Secrets of High-Quality Music Streaming with DTS Play-Fi</u></a></li>
+</ul></div>
 

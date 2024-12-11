@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the M3 MacBook Air with Apple Silicon - The New Standard for Everyday Use Unveiled !
-date: 2024-11-29T07:18:19.412Z
-updated: 2024-12-04T23:45:45.339Z
+date: 2024-12-06T04:32:04.646Z
+updated: 2024-12-11T03:32:41.148Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 ---
@@ -72,7 +68,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -80,6 +76,10 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -110,7 +110,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -141,10 +141,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -158,6 +154,10 @@ The M3 MacBook Air is powerful enough to feel like a desktop. Here, it's powerin
 Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
 
@@ -175,10 +175,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca2bd4d6e-b885-4395-a878-1ce6720d9d63%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca2bd4d6e-b885-4395-a878-1ce6720d9d63%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -188,6 +184,10 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,17 +235,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/advanced-strategies-for-x-mastery-influencer-collaboration-twitter-chats-and-more/"><u>[Advanced Strategies for X Mastery: Influencer Collaboration, Twitter Chats, & More!]</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-dji-spark-analysis-snapshotting-from-the-air-in-a-miniature-format/"><u>[New] 2024 Approved DJI Spark Analysis Snapshotting From the Air in a Miniature Format</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-do-screen-recording-on-iphone-easily-in-2024/"><u>[New] How to Do Screen Recording on Iphone Easily, In 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-renowned-crafters-exquisite-instagram-hlv-designers-online-for-2024/"><u>[New] Renowned Crafters Exquisite Instagram HLV Designers Online for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-transcribing-online-master-the-art-of-free-youtube-conversion/"><u>[New] Transcribing Online Master the Art of Free YouTube Conversion</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-effective-obs-transitions-to-facebook-live-for-2024/"><u>[Updated] Effective OBS Transitions to Facebook Live for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-behind-the-mascara-youtubes-top-makeup-artists-unveiled/"><u>[Updated] In 2024, Behind the Mascara YouTube's Top Makeup Artists Unveiled</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-revolutionary-gameplay-preservation-with-advanced-fbx-recording/"><u>[Updated] Revolutionary Gameplay Preservation with Advanced FBX Recording</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/detailed-overview-assessing-features-and-usability-of-line-app/"><u>Detailed Overview: Assessing Features & Usability of Line App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-latest-additions-tcls-expanded-selection-of-q-and-s-class-smart-tvs-featuring-19-new-designs/"><u>Discover the Latest Additions: TCL's Expanded Selection of Q and S Class Smart TVs Featuring 19 New Designs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fixes-to-overcome-missing-oleaut32dll-errors-in-windows/"><u>The Ultimate Fixes to Overcome Missing Oleaut3^2.dll Errors in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-psp-for-nes-snes-and-sega-genesis-simulation/"><u>Unlock Your PSP for NES, SNES, and Sega Genesis Simulation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-allocating-budget-for-youtube-video-success/"><u>[New] In 2024, Allocating Budget for YouTube Video Success</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-microvid-virtuoso/"><u>[New] In 2024, MicroVid Virtuoso</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-visual-storytelling-crafting-impressive-imovie-video-intros/"><u>[Updated] 2024 Approved Visual Storytelling Crafting Impressive iMovie Video Intros</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-approaches-to-network-broadcast-with-vlc/"><u>2024 Approved Innovative Approaches to Network Broadcast with VLC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-ways-to-correct-magic-mouse-movement-problems/"><u>Effortless Ways to Correct Magic Mouse Movement Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-how-to-restart-your-pc-when-theres-no-sign-of-power/"><u>Expert Tips on How to Restart Your PC When There's No Sign of Power</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95935314-9781844093403-gem-water/"><u>Gem Water | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gopro-hero5-captured-life-review/"><u>GoPro Hero5 Captured Life Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/masterclass-controlling-and-stopping-app-background-functionality-on-android-systems/"><u>Masterclass: Controlling and Stopping App Background Functionality on Android Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-close-up-techniques-with-videoleap-for-2024/"><u>Mastering Close-Up Techniques with Videoleap for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-roku-experience-how-to-activate-missing-subtitles/"><u>Reviving Your Roku Experience – How To Activate Missing Subtitles</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a15-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A15 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-roblox-access-problems-is-it-a-broad-service-interruption/"><u>Troubleshooting Roblox Access Problems: Is It a Broad Service Interruption?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Different Are They? Understanding Ultrasonic and Optical Fingerprint Recognition Systems
-date: 2024-08-30T16:12:58.030Z
-updated: 2024-08-31T16:12:58.030Z
+date: 2024-12-04T03:59:09.303Z
+updated: 2024-12-11T05:00:57.926Z
 tags:
   - mobile
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## How Different Are They? Understanding Ultrasonic and Optical Fingerprint Recognition Systems
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * In-display fingerprint scanners vary, with ultrasonic scanners being more reliable and secure, working even with wet or dirty fingers.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Ultrasonic scanners are faster, more accurate, and more secure because they use sound waves, making them a preferred choice despite being expensive.
 
  The fingerprint scanner hidden under your Android phone’s screen is a marvelous piece of engineering. Some of the first phones to feature in-display fingerprint scanners used visible light to scan your finger, but the technology has gotten better over the years. Here's what you need to know about it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Not All In-display Fingerprint Readers Are Made Equal
 
@@ -36,15 +44,13 @@ Michael Crider / How-To Geek
  I’ll be comparing that with the optical in-display fingerprint reader (the original type). Hopefully, the comparison can help you when you’re picking your next phone.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Optical Fingerprint Scanner
 
 ![Oneplus 7 Optical Fingerprint Scanner](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/OnePlus-Ultrasonic.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 OnePlus
 
  Optical fingerprint readers work by shining light on your finger and taking a picture. There’s a tiny camera hiding behind the screen (which you can actually access on some phones). The display, along with a few small LEDs, bounces light off the ridges of your finger and the tiny camera inside creates a 2D impression of it. The impression is then processed, refined, and matched with the list of impressions already available in storage. The phone unlocks if it finds a match. In broad strokes, that’s how every optical in-display fingerprint scanner works.
@@ -60,15 +66,13 @@ OnePlus
  It has since been patched, but [a researcher once spoofed optical fingerprint security](https://threatpost.com/lock-screen-bypass-bug-quietly-patched-in-handsets/139141/) on multiple phone models with nothing more than a reflective plastic sheet. Placing the reflective sheet on top of a leftover fingerprint on the display unlocked the phone. As far as bypassing biometric security goes, this hack is as low tech as it gets.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Ultrasonic Fingerprint Scanner
 
 ![Under display fingerprint scanner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Under-Display-Fingerprint-Scanner.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [TPROduction / Shutterstock.com](https://www.shutterstock.com/image-photo/unlocking-phone-finger-on-digital-fingerprint-1527126299)
 
  Standard capacitive fingerprint scanners don't have as many moving parts as an optical scanner system. They map the ridges on your fingertip by sensing electrical changes in it. Capturing and reading electrical changes is faster, more accurate, and more reliable. There’s depth sensing involved, which is why it’s more secure.
@@ -82,8 +86,9 @@ OnePlus
  Plus, they’re more secure because it's harder to fool a 3D model than a 2D image. Ultrasonic scanners aren’t unbreakable though. Instead of a 2D printout, an attacker could clone a detailed model of the fingerprint using a 3D printer. Someone created a 3D print of their own fingerprint lifted off a wine glass (I say "lifted" but they just took a picture of it with a phone) and successfully [unlocked a flagship Samsung Galaxy phone with the false fingerprint](https://imgur.com/gallery/i-attempted-to-fool-new-samsung-galaxy-s10s-ultrasonic-fingerprint-scanner-by-using-3d-printing-i-succeeded-8aGqsSu).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Who is the Winner?
 
  The sophisticated ultrasonic fingerprint sensor might seem like the obvious winner. And it has the optical fingerprint scanner beat in many ways, but it gets a bit more complicated when you throw cost into the mix. The reason ultrasonic fingerprint readers haven’t replaced optical ones is because they’re expensive and hard to manufacture. That’s why we only see them on premium flagship devices. It’ll probably stay that way, at least for some time.
@@ -98,8 +103,6 @@ OnePlus
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +110,18 @@ OnePlus
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-bing-microsofts-search-engine-explained/"><u>All About Bing - Microsoft's Search Engine Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-diagnosing-and-repairing-shutdown-glitches-in-windows-11/"><u>Comprehensive Guide: Diagnosing and Repairing Shutdown Glitches in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-inexpensive-cameras-of-2024/"><u>Discover Inexpensive Cameras of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-top-15-films-featuring-dolby-atmos-for-an-unmatched-home-viewing-experience/"><u>Discover the Top 15 Films Featuring Dolby Atmos for an Unmatched Home Viewing Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-premier-terraria-maps-to-maximize-mining-success/"><u>In 2024, Premier Terraria Maps to Maximize Mining Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-options-for-high-quality-xbox-streaming/"><u>Leading Options for High-Quality Xbox Streaming</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-5-ai-movie-script-generators/"><u>New 2024 Approved Best 5 AI Movie Script Generators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-learning-experience-the-ultimate-list-of-educational-apps/"><u>Revolutionize Your Learning Experience: The Ultimate List of Educational Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-of-teslas-autonomous-cab-service-pricing-info-expected-debut-specs-plus-rumors/"><u>Unveiling of Tesla's Autonomous Cab Service: Pricing Info, Expected Debut, Specs + Rumors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-our-chosen-selection-of-great-disneyplus-kids-flicks-in-jul-24/"><u>Watch Our Chosen Selection of Great Disney+ Kids' Flicks in Jul '24</u></a></li>
+</ul></div>
 

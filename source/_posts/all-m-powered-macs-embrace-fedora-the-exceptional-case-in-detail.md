@@ -1,7 +1,7 @@
 ---
 title: "All M-Powered Macs Embrace Fedora: The Exceptional Case in Detail"
-date: 2024-12-04T03:30:32.138Z
-updated: 2024-12-05T02:33:17.835Z
+date: 2024-12-07T17:53:40.120Z
+updated: 2024-12-11T09:36:58.934Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,19 +123,20 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-2-ways-to-add-a-letterbox-for-facebook-videos/"><u>[New] 2024 Approved 2 Ways to Add a Letterbox for Facebook Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-dual-screen-optimization-using-safaris-picture-in-picture/"><u>[New] 2024 Approved Dual Screen Optimization Using Safari’s Picture In Picture</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-live-streaming-made-simple-google-meet-to-youtube-guide/"><u>[New] In 2024, Live Streaming Made Simple Google Meet to YouTube Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-motorola-razr-40-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Motorola Razr 40 Ultra to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cracking-the-code-of-snapchat-expressions-a-detailed-emoji-dictionary/"><u>Cracking the Code of Snapchat Expressions: A Detailed Emoji Dictionary</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/defeating-lynels-in-zeldas-breath-of-the-wild-tips-and-tricks-for-success/"><u>Defeating Lynels in Zelda's Breath of the Wild - Tips and Tricks for Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-guide-building-your-own-wireless-cinema-experience-in-the-college-dorm/"><u>DIY Guide: Building Your Own Wireless Cinema Experience in the College Dorm</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-troubleshooting-for-iphoneipad-restore-functionality-to-your-settings-menu/"><u>ICloud Troubleshooting for iPhone/iPad: Restore Functionality to Your Settings Menu</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-top-tips-understanding-asmr-recordings/"><u>In 2024, Top Tips Understanding ASMR Recordings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/must-watch-family-entertainment-on-netflix-the-ultimate-list/"><u>Must-Watch Family Entertainment on Netflix: The Ultimate List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/our-10-favorite-news-aggregators-of-2024/"><u>Our 10 Favorite News Aggregators of 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-microphone-issues-in-the-oculus-quest-2-headset/"><u>Resolving Microphone Issues in the Oculus Quest 2 Headset</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essential-handbook-for-iphone-ringtone-tweaking-for-2024/"><u>The Essential Handbook for iPhone Ringtone Tweaking for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-definitive-checklist-for-purchasing-a-school-ready-computer-system/"><u>Your Definitive Checklist for Purchasing a School-Ready Computer System</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-discover-engaging-youtube-threads/"><u>[New] In 2024, Discover Engaging YouTube Threads</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-blueprint-for-crafting-an-individual-tiktok-marker-for-2024/"><u>[New] The Blueprint for Crafting an Individual TikTok Marker for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-exploring-instagrams-video-sharing-cap/"><u>[Updated] Exploring Instagram's Video Sharing Cap</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-step-by-step-guide-to-masterful-editing/"><u>[Updated] In 2024, A Step-by-Step Guide to Masterful Editing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-listening-experience-with-our-favorite-8-ios-music-apps/"><u>Enhance Your Listening Experience with Our Favorite 8 iOS Music Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-and-the-evolution-of-short-form-videos-a-2023-perspective/"><u>Facebook and the Evolution of Short-Form Videos A 2023 Perspective</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-12-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 12</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remotely-operate-google-home-smart-gadgets-on-windows-and-mac-computers/"><u>How To Remotely Operate Google Home Smart Gadgets on Windows and Mac Computers</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-discovering-unmatched-premium-rate-free-luts-of-today/"><u>In 2024, Discovering Unmatched Premium-Rate Free LUTs of Today</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/purchase-affordable-microsoft-project-and-visio-professional-licenses-at-just-20-exclusive-deal-on-zdnet/"><u>Purchase Affordable Microsoft Project & Visio Professional Licenses at Just $20 - Exclusive Deal on ZDNet!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-non-functional-xbox-series-x-and-s-audio-devices/"><u>Quick Fixes for Non-Functional Xbox Series X and S Audio Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-strategy-for-recovering-a-forgotten-fb-password-without-contact-details/"><u>The Ultimate Strategy for Recovering a Forgotten FB Password without Contact Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-top-7-essential-factors-in-selecting-the-perfect-selfie-accessory/"><u>Ultimate Guide: Top 7 Essential Factors in Selecting the Perfect Selfie Accessory</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-hidden-electronic-mail-addresses-legal-methods-explored/"><u>Unveiling Hidden Electronic Mail Addresses – Legal Methods Explored</u></a></li>
 </ul></div>
 

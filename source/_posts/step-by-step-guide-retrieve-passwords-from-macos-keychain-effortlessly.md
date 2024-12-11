@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Retrieve Passwords From macOS Keychain Effortlessly"
-date: 2024-12-04T05:57:49.158Z
-updated: 2024-12-05T08:06:01.348Z
+date: 2024-12-03T21:01:50.343Z
+updated: 2024-12-10T20:15:30.901Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record a phone call on iPhone with iOS 18.1
@@ -51,6 +51,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you need**: 
 
 * An [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running iOS 18.1 beta or an iPhone XS or newer model running iOS 18.1 beta 4
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Start a phone call
 
@@ -64,10 +68,6 @@ Once you've begun the recording, you'll see a notification alerting all parties,
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. End recording and view transcript
 
 Once you're finished and end the call, you'll see a notification from the Notes app at the top of your screen directing you to the audio file and transcript of the recording. Click on it to open in Notes. 
@@ -79,10 +79,6 @@ You'll be able to play back the audio and read the transcript directly in Notes.
 Screenshot by Maria Diaz/ZDNET
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to record a phone call on iPhone without iOS 18.1
 
@@ -157,6 +153,10 @@ Open up sharing options. You can also trim or rename the recording to something 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other ways to record
 
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device spare, here are a few alternatives. 
@@ -166,7 +166,7 @@ Following the steps above is the easiest, most efficient, and most discreet way 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rev Voice Recorder
@@ -176,6 +176,10 @@ Rev has a few options depending on what you need. If you want to record phone ca
 **Also:** [**This MagSafe accessory can record your iPhone calls for you**](https://www.zdnet.com/article/this-magsafe-accessory-can-record-your-iphone-calls-for-you/)
 
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google Voice
 
@@ -197,6 +201,10 @@ As the name suggests, this app is designed for users to be able to whip out thei
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is it illegal to record phone calls?
 
 Federal law requires at least one party's consent, which means that you need to be part of the conversation you're recording or have the consent of at least one person in the conversation. Otherwise, the recording can be construed as wiretapping or illegal eavesdropping. Some states have even stricter laws that require the consent of all people involved in the conversation.
@@ -211,25 +219,17 @@ Several downloadable third-party apps can record calls on the iPhone, but that c
 
 Alternatively, you can use most mic-equipped computers or tablets to record phone conversations, as long as the phone is on speaker or the microphone is held close to the other device's speaker. Both [MacOS](https://www.zdnet.com/article/best-mac/) and [Windows](https://www.zdnet.com/article/best-windows-laptop/) computers have numerous audio recording software options available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Apple have an app to record iPhone calls?
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does screen recording on iPhone record my call?
 
 Screen recording while on an audio or FaceTime call will only record your screen -- it won't capture any audio from you or your phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does iPhone's Voice Memos have a time limit?
 
@@ -265,18 +265,20 @@ The Voice Memos app can record for an unlimited amount of time, as long as you h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/cademic-allies-premier-educators-on-youtube/"><u>[New] Academic Allies Premier Educators on YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/enhance-gameplay-memories-win10-recording-methods-for-2024/"><u>Enhance Gameplay Memories Win10 Recording Methods for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/finding-the-unfindable-retrieving-deleted-phone-calls-from-an-android-smartphone/"><u>Finding the Unfindable: Retrieving Deleted Phone Calls From an Android Smartphone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-zte-blade-a73-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track ZTE Blade A73 5G without App | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-capture-and-conquer-speedy-photos-on-windows-11/"><u>In 2024, Capture & Conquer Speedy Photos on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/mastering-movement-on-laggy-windows/"><u>Mastering Movement on Laggy Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/merging-your-favorite-tunes-a-step-by-step-guide-to-combining-spotify-playlists/"><u>Merging Your Favorite Tunes: A Step-by-Step Guide to Combining Spotify Playlists</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/no-ejector-tool-heres-how-to-safely-open-your-iphone-sim-case/"><u>No Ejector Tool? Here's How to Safely Open Your iPhone SIM Case!</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/speedster-software-best-rapid-releases-for-tablets-and-computers-for-2024/"><u>Speedster Software - Best Rapid Releases for Tablets & Computers for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-must-have-tech-tools-for-academic-success/"><u>The Ultimate List of Must-Have Tech Tools for Academic Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-fm20dll-error-effectively/"><u>Troubleshooting the MISSING fm20.dll Error Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-aim-how-did-aol-instant-messenger-change-online-communication/"><u>Understanding AIM - How Did AOL Instant Messenger Change Online Communication?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-master-fades-with-ease-4-methods-unveiled-for-2024/"><u>[New] Master Fades with Ease 4 Methods Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-composers-guide-to-creating-youtube-music-cohorts/"><u>[Updated] 2024 Approved The Composer's Guide to Creating YouTube Music Cohorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-wars-understanding-vimeo-and-youtubes-distinctions/"><u>[Updated] Streaming Wars Understanding Vimeo and YouTube's Distinctions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/addressing-iphone-remote-device-troubles-quick-solutions-for-smooth-performance/"><u>Addressing iPhone Remote Device Troubles: Quick Solutions for Smooth Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-linking-your-playstation-vr-with-a-personal-computer/"><u>Easy Steps: Linking Your PlayStation VR with a Personal Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-pick-multiple-messages-at-once-a-users-guide-to-gmail-functionality/"><u>Effortlessly Pick Multiple Messages at Once: A User's Guide to Gmail Functionality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-top-10-crafting-engaging-songs-for-fb-videos/"><u>FB Top 10 Crafting Engaging Songs for FB Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-i-remove-unwanted-images-from-my-facebook-account/"><u>How Can I Remove Unwanted Images From My Facebook Account?</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-fix-a-flickering-display-on-your-laptop-expert-advice-from-yl-computing/"><u>How to Fix a Flickering Display on Your Laptop: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>In 2024, Tender Tracks Ideal Music to Accompany a Lifelayer Change</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-lol-recording-three-easy-techniques-for-2024/"><u>Mastering LOL Recording Three Easy Techniques for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-import-to-export-working-with-xml-files-in-fcpx-for-2024/"><u>New From Import to Export Working with XML Files in FCPX for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quickstart-guide-building-your-account-on-the-latest-oculus-headsets-quest-and-quest-2/"><u>Quickstart Guide: Building Your Account on the Latest Oculus Headsets (Quest & Quest 2)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-successfully-bind-your-logitech-mouse-to-devices/"><u>Simple Steps to Successfully Bind Your Logitech Mouse to Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-remedies-for-addressing-the-x3daudiodll-not-found-issue/"><u>Step-by-Step Remedies for Addressing the X3DAudio.DLL Not Found Issue</u></a></li>
 </ul></div>
 

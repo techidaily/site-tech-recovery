@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: How to Insert Notes Into Windows 11 Folder Structures"
-date: 2024-08-30T16:15:27.550Z
-updated: 2024-08-31T16:15:27.550Z
+date: 2024-12-08T23:27:41.516Z
+updated: 2024-12-11T13:43:41.749Z
 tags:
   - deals
 categories:
@@ -21,6 +21,10 @@ If you want to organize your files and folders, Windows offers many options. But
 
 ![Windows 11 File Explorer View Drop Down Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-view-mode-drop-down-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, right-click any column and select "More" from the options.
 
 ![Windows 11 File Explorer Tabs Right-Click Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-right-click-tab-menu-1.jpg) 
@@ -29,15 +33,20 @@ If you want to organize your files and folders, Windows offers many options. But
 
 ![Windows 11 File Explorer Choose Details Enable Comments Tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-enable-comments-tab.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can view the Comments column in File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Add Comments to Folders in Windows 11
 
  To add comments to folders, you have to complete the following process for each folder individually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ###  Step 1: Customize the Folder
 
  You need to [add a custom icon to the folder](https://tech-renaissance.techidaily.com/resolving-msiexecexe-is-not-found-and-other-msi-dll-problems/) that you want to add a comment to. This helps with viewing the hidden desktop.ini file inside the folder, which you need to edit later.
@@ -50,16 +59,18 @@ If you want to organize your files and folders, Windows offers many options. But
 
 ![Windows 11 File Explorer Folder Properties Customize Tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-properties-customize-tab.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose any icon from the given options (or upload a custom image from your computer) and click "OK".
 
 ![Windows 11 File Explorer Folder Custom Icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-custom-icon.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
+
 ###  Step 2: Unhide Protected System Files
 
  Next, you need to [show protected system files](https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/) in the folder, which makes the desktop.ini file visible.
@@ -68,16 +79,10 @@ If you want to organize your files and folders, Windows offers many options. But
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In the Folder Options window, select the "View" tab.
 
 ![Windows 11 File Explorer Folder Options View Tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-options-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Uncheck "Hide protected operating system files (Recommended)".
 
 ![Windows 11 Folder Options Hide Protected OS Files Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-options-hide-protected-files-option.jpg) 
@@ -99,8 +104,9 @@ If you want to organize your files and folders, Windows offers many options. But
 ![Windows File Explorer Right-Click Desktop.ini File Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-right-click-file-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, within the Notepad file, under "\[.ShellClassInfo\]", type the following command.
 
 InfoTip=Your comment
@@ -113,9 +119,6 @@ InfoTip=Your comment
 
 ![Notepad File Menu with Save option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/notepad-file-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Step 4: Restart File Explorer
 
  To apply the changes to the folder, you need to [restart the File Explorer](https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/). You can use [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/) for this.
@@ -125,19 +128,21 @@ InfoTip=Your comment
 ![Windows 11 Taskbar Right-Click Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/taskbar-right-click-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On Task Manager, select "Windows Explorer" and click "Restart task".
 
 ![Windows 11 Task Manager Restart Task](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-task-manager-restart-task.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Job done! Go back to the folder you just customized and you'll see your comment within the relevant column.
 
 ![Windows File Explorer Folder Comments Displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-comments-displayed.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  This is undoubtedly a cumbersome process for what you would expect to be a simple task, but unfortunately there isn't an easier native method. Perhaps Microsoft will improve this functionality in a future Windows 11 update.
@@ -148,8 +153,6 @@ InfoTip=Your comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +160,19 @@ InfoTip=Your comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-strategies-to-maintain-synchronization-between-cameras-and-streaming-software/"><u>2024 Approved Strategies to Maintain Synchronization Between Cameras and Streaming Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-14-pro-max-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 14 Pro Max for Free</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-motorola-g54-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Motorola G54 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-http-404-error-tips-for-troubleshooting-and-resolution/"><u>Decoding the HTTP 404 Error - Tips for Troubleshooting & Resolution</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-d3dx925dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_25.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-13-mini-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone 13 mini for Free</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-access-creative-banners-for-video-makers-at-zero-price/"><u>In 2024, Access Creative Banners for Video Makers at Zero Price</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-mix-fold-3-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Mix Fold 3 Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-windows-11-4-effective-ways-to-take-quick-screenshots/"><u>Mastering Windows 11: 4 Effective Ways to Take Quick Screenshots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-lag-times-could-it-be-your-internet-or-actual-nintendo-switch-online-disruptions/"><u>Understanding Lag Times: Could It Be Your Internet or Actual Nintendo Switch Online Disruptions?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Huawei P60? | Dr.fone</u></a></li>
+</ul></div>
 

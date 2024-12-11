@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet"
-date: 2024-11-28T02:29:48.948Z
-updated: 2024-12-05T02:54:10.751Z
+date: 2024-12-08T18:56:25.040Z
+updated: 2024-12-10T17:45:45.128Z
 tags:
   - apple
 categories:
@@ -57,11 +57,11 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
-## **The 'Nice' list**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## **The 'Nice' list**
 
 ### **Apple iPhone 16**
 
@@ -70,6 +70,10 @@ iPhone 16
 Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
 
@@ -94,7 +98,7 @@ Along with the updated processor, this MacBook Air can also power two external m
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
@@ -127,7 +131,7 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple's 24-inch iMac**
@@ -144,10 +148,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -171,7 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -214,16 +214,24 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-revival-of-obs-camera-achieved/"><u>[Updated] In 2024, Revival of OBS Camera Achieved</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-repair-handling-the-phase0exception-blue-screen-of-death-stopcode-0x0000007/"><u>DIY Repair: Handling the PHASE0_EXCEPTION Blue Screen of Death, Stopcode 0X0000007#</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-guide-best-free-video-effect-websites-reviewed-and-rated-by-experts/"><u>Essential Guide Best Free Video Effect Websites Reviewed & Rated by Experts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-x-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone X With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-nubia-red-magic-9-proplus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Nubia Red Magic 9 Pro+ Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastery-of-on-screen-text-entry-controls-activatingdeactivating-in-windows-10/"><u>Mastery of On-Screen Text Entry Controls – Activating/Deactivating in Windows ➡️ 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-12-complimentary-keyboarding-courses-ideal-for-every-age-group/"><u>Top 12 Complimentary Keyboarding Courses Ideal for Every Age Group</u></a></li>
-<li><a href="https://win-dash.techidaily.com/unlocking-advanced-techniques-for-smooth-audio-transfer-in-adobe-premiere-pro/"><u>Unlocking Advanced Techniques for Smooth Audio Transfer in Adobe Premiere Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-new-audiences-with-accessible-insta-stories-adding-captions-made-easy/"><u>Unlocking New Audiences with Accessible Insta-Stories - Adding Captions Made Easy</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-secrets-to-quiet-displays/"><u>Unveiling Secrets to Quiet Displays</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-create-and-share-the-funniest-memes/"><u>[New] Create and Share the Funniest Memes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-windows-11-auditory-setup-a-how-to/"><u>2024 Approved Windows 11 Auditory Setup A How-To</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easily-change-kindle-content-to-epub-files-on-the-web/"><u>Easily Change Kindle Content to EPUB Files on the Web</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/enhancing-content-reach-igtv-and-facebook-synergy-for-2024/"><u>Enhancing Content Reach IGTV & Facebook Synergy for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-flawed-disc-detection-in-win-1011/"><u>Fixing Flawed Disc Detection in Win 10/11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-12-pro-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 12 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-securely-archive-your-essential-ebook-collection-from-vitalsource/"><u>How to Securely Archive Your Essential eBook Collection From VitalSource</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-shift-literature-the-ultimate-guide-for-migrating-epub-pdf-files-into-kobo-device/"><u>How To Shift Literature: The Ultimate Guide for Migrating EPUB, PDF Files Into Kobo Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 15 Pro Max and iPad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-chronological-productivity-effective-techniques-for-managing-your-hours/"><u>Mastering Chronological Productivity: Effective Techniques for Managing Your Hours</u></a></li>
+<li><a href="https://howto.techidaily.com/oneplus-open-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Open Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resource-shortage-unavailable-for-utilization/"><u>Resource Shortage: Unavailable for Utilization</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-printing-your-epub-ebooks/"><u>Step-by-Step Guide: Printing Your EPUB eBooks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-transforming-your-pdfs-into-easy-to-read-ebooks/"><u>The Ultimate Guide: Transforming Your PDFs Into Easy-to-Read eBooks</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-strategien-hochwertige-konvertierung-von-ts-dateien-in-mp4-ein-effizientes-leitfaden/"><u>Top-Strategien: Hochwertige Konvertierung Von TS-Dateien in MP4 - Ein Effizientes Leitfaden</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-audible-audiobooks-seamlessly-discover-the-most-effective-epub-converters-available-today/"><u>Transform Audible Audiobooks Seamlessly – Discover the Most Effective EPUB Converters Available Today!</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/understanding-how-dex-3-becomes-your-ideal-choice-for-in-bar-karaoke-entertainment-powered-by-advanced-pcdj-features/"><u>Understanding How DEX 3 Becomes Your Ideal Choice for In-Bar Karaoke Entertainment, Powered by Advanced PCDJ Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-essentials-of-a-vbk-file-a-comprehensive-guide/"><u>Understanding the Essentials of a VBK File: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleashing-full-potential-the-comprehensive-why-and-how-of-rooting-your-android-phone/"><u>Unleashing Full Potential: The Comprehensive Why and How of Rooting Your Android Phone</u></a></li>
 </ul></div>
 

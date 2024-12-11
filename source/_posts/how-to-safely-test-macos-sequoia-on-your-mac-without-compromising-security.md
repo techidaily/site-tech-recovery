@@ -1,7 +1,7 @@
 ---
 title: How to Safely Test macOS Sequoia on Your Mac without Compromising Security
-date: 2024-08-30T16:13:37.517Z
-updated: 2024-08-31T16:13:37.517Z
+date: 2024-12-08T02:48:38.543Z
+updated: 2024-12-11T06:29:57.690Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [What About Installing macOS 15 Beta in a Virtual Machine?](https://fox-info.techidaily.com/horizon-captured-which-camera-takes-the-lead-in-2024/)
 
  Wondering what the next version of macOS is like? Try it out for yourself without risking your Mac by either installing it on a separate partition or using a virtual machine. Here’s how you can try both methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Install macOS Sequoia on a Separate Partition
 
@@ -37,8 +41,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Enable macOS beta updates.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-09-18-17.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now open Terminal and run the following command:
 
 softwareupdate --list-full-installers
@@ -55,9 +60,6 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 
  If the "list-full-installers" command isn’t working after you enabled the Beta flag in System Settings, restart your Mac and try again. If it's still not working, turn off beta participation and make sure your Mac is updated to the latest stable version of macOS and then switch beta participation back on and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Create a New Partition for macOS Sequoia
 
  Now open Disk Utility and with your internal startup volume selected (probably labeled “Macintosh HD”), click the plus “+” icon near Volume. Give your new volume a name you can recognize, make sure “APFS” is selected, and don’t worry about specifying a size.
@@ -65,11 +67,16 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 ![Creating a new volume in "Macintosh HD."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-14-50-04.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click “Add” and your volume will be created. You can now close Disk Utility, you’re ready to install the macOS beta.
 
 ![Creating a partition for macOS Sequoia installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-14-55-38.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Install macOS Sequoia on Your New Volume
 
@@ -87,14 +94,12 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 
 ![Final step of installing the macOS beta.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-14-57-35.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the installation is finished, your Mac will restart and you’ll be invited to set up the new version of macOS [as if you were using a brand-new Mac](https://tech-recovery.techidaily.com/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Switching Between Stable and Beta macOS Versions
 
  To pick which version of macOS you want to boot into, turn off your Mac using the Apple > Shut Down option.
@@ -103,6 +108,10 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 
  You’ll need to do this each time you want to swap between beta and stable macOS versions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Deleting the macOS Beta
 
  To delete the beta, head back to Disk Utility from your stable version of macOS (in this case, macOS 14) and highlight the "macOS Sequoia" partition you created. Click on the minus "–" button next to "Volumes" and confirm by clicking "Delete."
@@ -110,17 +119,9 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 ![Deleting a macOS 15 volume.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-15-00-57.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What About Installing macOS 15 Beta in a Virtual Machine?
 
  This is supposed to be the part of the guide where I tell you how installing macOS 15 in a virtual machine is the easiest, least risky option. That’s technically true, but getting any of the macOS 15 betas working in a virtual machine isn’t necessarily straightforward.
@@ -133,9 +134,6 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 
 ![An unhelpful error message in UTM for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot-2024-08-16-at-15-00-09.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  There’s plenty of evidence online of people managing to get these methods working, and others failing miserably (as I did). This highlights the nature of pre-release software, where a few changes on Apple’s side can seemingly break compatibility with even paid virtualization solutions.
 
  And beta software is fleeting. While it’s likely that the final release of macOS 15 will work just fine in software like UTM and Parallels (just as macOS 14 does), the betas might never work.
@@ -162,9 +160,6 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
 
  read more
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Install macOS 15 Sequoia With Parallels Desktop
 
 **Download the Latest macOS Beta IPSW** 
@@ -193,8 +188,6 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +195,18 @@ softwareupdate --fetch-full-installer --full-installer-version 15.0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-giggle-gang-exploring-the-best-memetic-apps/"><u>[New] Giggle Gang Exploring the Best Memetic Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-perfect-date-trackers-for-your-wedding-ios-and-android-edition-for-2024/"><u>[New] Perfect Date Trackers for Your Wedding, iOS and Android Edition for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-sonys-vision-key-announcements-product-news-and-industry-trends/"><u>Decoding Sony's Vision - Key Announcements, Product News & Industry Trends</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-to-pick-the-right-smartwatch-with-these-5-must-consider-criteria/"><u>Discover How to Pick the Right Smartwatch With These 5 Must-Consider Criteria</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-family-movies-to-enjoy-on-amazon-prime-video-this-july-2024/"><u>Essential Family Movies to Enjoy on Amazon Prime Video This July 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fundamentals-of-narrative-crafting/"><u>Fundamentals of Narrative Crafting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/remove-youtube-sneak-peeks-for-uninterrupted-views/"><u>Remove YouTube Sneak Peeks for Uninterrupted Views</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-rununk13-issue-a-step-by-step-guide/"><u>Resolving the RunUnk13 Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-forza-horizon-4-pc-crashes-fixes-and-optimizations-that-work/"><u>Troubleshooting Forza Horizon 4 PC Crashes: Fixes and Optimizations That Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-microsofts-0x80pressureerror0570-steps-for-quick-fixes/"><u>Troubleshooting Microsoft's 0X80pressureError0570: Steps for Quick Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/umstellung-video-dateien-ohne-kosten-in-mp4-losungen-fur-mac-and-windows-sowie-online-optionen/"><u>Umstellung VIDEO-Dateien Ohne Kosten in MP4: Lösungen Für MAC & WINDOWS Sowie Online Optionen</u></a></li>
+</ul></div>
 

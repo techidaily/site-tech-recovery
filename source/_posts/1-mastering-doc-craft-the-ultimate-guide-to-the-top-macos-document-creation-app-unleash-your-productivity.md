@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2024-12-03T23:01:56.114Z
-updated: 2024-12-04T18:09:22.041Z
+date: 2024-12-10T02:22:37.509Z
+updated: 2024-12-11T07:14:00.640Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,16 +129,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-saving-instagrams-a-step-by-step-approach-for-windowsmacos-users/"><u>[New] 2024 Approved Saving Instagrams A Step-by-Step Approach for Windows/macOS Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-technology-behind-espns-cutting-edge-streaming-service-for-fans/"><u>Decoding the Technology Behind ESPN's Cutting-Edge Streaming Service for Fans</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/july-2024-release-of-updated-passwords-for-popular-d-link-routers-and-modems/"><u>July 2024 Release of Updated Passwords for Popular D-Link Routers and Modems</u></a></li>
-<li><a href="https://fox-http.techidaily.com/navigate-office-tasks-with-voice-recognition-in-microsoft-word-for-2024/"><u>Navigate Office Tasks with Voice Recognition in Microsoft Word for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/navigating-the-maze-of-communication-features-on-snapchat-for-2024/"><u>Navigating the Maze of Communication Features on Snapchat for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-streaming-guide-on-linking-your-disneyplus-app-with-chromecast/"><u>Seamless Streaming: Guide on Linking Your Disney+ App with Chromecast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stay-ahead-in-micromobility-event-schedule-industry-news-and-expert-rumors-unveiled/"><u>Stay Ahead in Micromobility: Event Schedule, Industry News & Expert Rumors Unveiled</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-basics-of-earning-on-youtube-a-beginners-guide/"><u>The Basics of Earning on YouTube A Beginner’s Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-solutions-for-troubleshooting-your-wireless-adapteraccess-point-issues/"><u>Top 10 Solutions for Troubleshooting Your Wireless Adapter/Access Point Issues</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/understanding-hklm-vs-hkcu-a-comprehensive-guide-to-windows-registry-keys-yl-computing/"><u>Understanding HKLM Vs. HKCU: A Comprehensive Guide to Windows Registry Keys - YL Computing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-viral-click-title-genie/"><u>[Updated] In 2024, Ultimate Viral Click Title Genie</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instant-appeal-in-photos-embrace-these-top-10-composition-strategies/"><u>[Updated] Instant Appeal in Photos Embrace These Top 10 Composition Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-workflow-with-macbook-airs-splitting-screen-techniques/"><u>Boost Your Workflow with MacBook Air's Splitting Screen Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-the-phase0exception-stop-code-0x0000007e-techniques/"><u>Diagnosing and Repairing the PHASE0_EXCEPTION: Stop Code 0X0000007e Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-2024s-finest-no-cost-sports-streaming-services/"><u>Discover the Ultimate List: 2024'S Finest No-Cost Sports Streaming Services</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-secrets-to-compelling-presentations-ppt-on-mobile-and-desktop-gmeet/"><u>In 2024, Secrets to Compelling Presentations PPT on Mobile & Desktop GMeet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-batch-posting-tips-for-adding-multiple-images-on-facebook/"><u>Mastering the Art of Batch-Posting: Tips for Adding Multiple Images on Facebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-tiktok-dual-videos-a-step-by-step-guide/"><u>Mastering the Art of TikTok Dual Videos: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-the-challenge-of-a-missing-ntldr-file-in-windows/"><u>Overcoming the Challenge of a Missing NTLDR File in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-retrieving-lost-sms-messages-across-all-devices/"><u>Step-by-Step Guide: Retrieving Lost SMS Messages Across All Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-when-snowrunner-fails-to-load-on-pc-systems/"><u>Troubleshooting Steps for When SnowRunner Fails to Load on PC Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-imovie-video-trimming/"><u>Understanding iMovie Video Trimming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlocking-the-secrets-to-overwatch-video-capture-for-2024/"><u>Unlocking the Secrets to Overwatch Video Capture for 2024</u></a></li>
 </ul></div>
 

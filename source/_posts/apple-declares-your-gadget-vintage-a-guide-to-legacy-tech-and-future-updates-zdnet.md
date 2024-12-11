@@ -1,7 +1,7 @@
 ---
 title: "Apple Declares Your Gadget Vintage: A Guide to Legacy Tech & Future Updates | ZDNet"
-date: 2024-11-29T17:06:11.532Z
-updated: 2024-12-04T20:59:26.972Z
+date: 2024-12-08T12:37:22.722Z
+updated: 2024-12-10T21:15:12.923Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ In this article, I'll show you how to take both screenshots and screen recording
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -65,7 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -107,7 +107,7 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -157,19 +157,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-innovative-attention-grabber-designer/"><u>[New] 2024 Approved Innovative Attention Grabber Designer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-efficiently-delete-unwanted-video-feedback/"><u>[New] In 2024, How to Efficiently Delete Unwanted Video Feedback</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-pixel-powerhouse-expert-review-on-top-8k-tv-models-for-2024/"><u>[Updated] Pixel Powerhouse Expert Review on Top 8K TV Models for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1725290264501-dvd/"><u>「最新無料DVDコピーツールの使い方と問題解消ガイド」</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-resonant-rhythms-where-to-download-classical-ringtones/"><u>2024 Approved Resonant Rhythms Where to Download Classical Ringtones</u></a></li>
-<li><a href="https://facebook.techidaily.com/8-features-of-workplace-from-facebook-for-collaborative-project-management/"><u>8 Features of Workplace From Facebook for Collaborative Project Management</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crafting-the-perfect-email-signature-in-godaddy-webmail-top-tips-and-tricks/"><u>Crafting the Perfect Email Signature in GoDaddy Webmail – Top Tips and Tricks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easily-troubleshoot-jscriptdll-not-found-errors-on-your-pc/"><u>Easily Troubleshoot Jscript.dll Not Found Errors on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-digital-world-laptops-smartphones-and-literary-adventures-await/"><u>Exploring the Digital World: Laptops, Smartphones & Literary Adventures Await!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-vivo-y27s-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Vivo Y27s.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stream-smoothly-again-comprehensive-guide-to-fix-netflix-errors-on-your-lg-television-19-tactics/"><u>Stream Smoothly Again: Comprehensive Guide to Fix Netflix Errors on Your LG Television (19 Tactics)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-technique-for-dual-monitor-setup-on-your-macbook-air/"><u>The Ultimate Technique for Dual Monitor Setup on Your MacBook Air</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722891082349-top-6-essential-apps-every-student-and-parent-needs-for-academic-success/"><u>Top 6 Essential Apps Every Student & Parent Needs for Academic Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-repairing-kernel32dll-problems-in-windows-operating-system/"><u>Troubleshooting and Repairing Kernel32.dll Problems in Windows Operating System</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-ultimate-tutorial-setting-up-a-guest-operating-system-in-vmware-esxi/"><u>1. Ultimate Tutorial: Setting Up a Guest Operating System in VMware ESXi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bypass-expenses-relish-films-anywhere-free-player/"><u>Bypass Expenses, Relish Films Anywhere (FREE Player)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-perfect-snap-on-pexels-for-2024/"><u>Capturing the Perfect Snap on Pexels for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/embrace-the-change-guidance-to-rename-yourself-on-social-networks/"><u>Embrace the Change: Guidance to Rename Yourself on Social Networks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-netgear-password-list-for-july-2024-revealed/"><u>Essential NETGEAR Password List for July 2024 Revealed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-clicks-to-cash-how-jake-paul-leveraged-youtube-for-2024/"><u>From Clicks to Cash How Jake Paul Leveraged YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x-fold-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X Fold 2 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-itel-s23plus-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Itel S23+ for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-your-smartphones-measure-app-a-step-by-step-guide-for-android-users/"><u>Mastering Your Smartphone's Measure App: A Step-by-Step Guide for Android Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rethink-your-inbox-find-the-top-8-email-services-beyond-gmail/"><u>Rethink Your Inbox: Find the Top 8 Email Services Beyond Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-integrating-bots-into-your-discord-group/"><u>Step-by-Step Instructions: Integrating Bots Into Your Discord Group</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watching-transformers-series-correctly-a-step-by-step-instruction/"><u>Watching Transformers Series Correctly: A Step-by-Step Instruction</u></a></li>
 </ul></div>
 

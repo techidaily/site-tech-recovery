@@ -1,7 +1,7 @@
 ---
 title: Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet
-date: 2024-12-03T21:42:37.773Z
-updated: 2024-12-04T22:29:27.644Z
+date: 2024-12-05T21:03:33.857Z
+updated: 2024-12-11T07:10:28.156Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,22 +126,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs/"><u>[New] In 2024, Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe/"><u>[New] The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-fist-of-legends-highest-rated-kung-fu-virtual-battles/"><u>[Updated] Fist of Legends Highest-Rated Kung Fu Virtual Battles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fusing-iphones-media-for-cohesive-outputs/"><u>[Updated] Fusing iPhones' Media for Cohesive Outputs</u></a></li>
-<li><a href="https://games-able.techidaily.com/8-secrets-to-dominate-the-new-york-social-chess-game/"><u>8 Secrets to Dominate the New York Social Chess Game</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/6usbiphone/"><u>這6種簡單步驟教你如何用USB直接轉移iPhone相片</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-to-address-missing-oleaut32dll-issues/"><u>Comprehensive Fixes to Address Missing OleAut32.dll Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-your-own-singing-spectacular-a-guide-to-creating-memorable-karaoke-nights-at-home/"><u>DIY Your Own Singing Spectacular: A Guide to Creating Memorable Karaoke Nights at Home</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/driving-traffic-tactics-for-top-ranked-fb-pages/"><u>Driving Traffic Tactics for Top-Ranked FB Pages</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficiently-uninstall-microsoft-copilot-from-your-windows-11-device-an-easy-guide/"><u>Efficiently Uninstall Microsoft Copilot From Your Windows 11 Device: An Easy Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-repairing-typing-problems-in-your-keyboard/"><u>Expert Tips on Repairing Typing Problems in Your Keyboard</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-12-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi 12 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-cross-platform-seamless-connection-techniques-between-psvr-and-pc/"><u>Mastering Cross-Platform: Seamless Connection Techniques Between PSVR and PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/no-ejector-tool-heres-how-to-access-your-iphones-sim-card/"><u>No Ejector Tool? Here's How to Access Your iPhone’s SIM Card</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/no-wifi-no-problem-comprehensive-guide-for-offline-drivers-on-pcs/"><u>No WiFi? No Problem! Comprehensive Guide for Offline Drivers on PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-missing-mfc42ddll-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting Missing Mfc42d.dll Errors on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-tutorial-for-repairing-officialsetupdll-not-found-issues/"><u>The Complete Tutorial for Repairing 'officialsetup.dll Not Found' Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixed-snipping-tool-not-working-on-windows-1011/"><u>[Fixed] Snipping Tool Not Working on Windows 10/11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/dual-display-capture-for-2024/"><u>Dual Display Capture for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-ways-to-determine-your-computers-bios-firmware-in-windows-11/"><u>Effortless Ways to Determine Your Computer's BIOS Firmware in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-computers-performance-by-checking-ram-rates-in-windows-1011/"><u>Elevate Your Computer's Performance by Checking RAM Rates in Windows 10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-personal-trainers-with-gpt-innovation/"><u>Empowering Personal Trainers with GPT Innovation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-content-top-10-mobile-and-desktop-friendly-editors/"><u>Enhance Content Top 10 Mobile & Desktop-Friendly Editors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-classic-rpg-gaming-with-fallout-3-a-how-to-guide-for-windows-11-users/"><u>Enjoy Classic RPG Gaming with Fallout 3: A How-To Guide for Windows 11 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expertly-selected-cutting-edge-notetablets-of-2024-unveiled-in-detailed-review/"><u>Expertly Selected, Cutting-Edge Notetablets of 2024 Unveiled in Detailed Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-persistent-awake-problem-in-windows-11/"><u>Fixing the Persistent Awake Problem in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gaming-without-glitches-boosting-your-fps-on-destiny-2s-beyond-light/"><u>Gaming Without Glitches - Boosting Your FPS on Destiny 2'S Beyond Light</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-enhancing-bluetooth-performance-increasing-range-and-stability-on-windows-11-systems/"><u>Guide to Enhancing Bluetooth Performance: Increasing Range and Stability on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-connect-sony-wireless-earbuds-a-simple-guide/"><u>How To Connect Sony Wireless Earbuds: A Simple Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-winning-film-tech-comprerantes-top-5-windows-editing-tools/"><u>In 2024, Winning Film Tech Comprerante's Top 5 Windows Editing Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfecting-your-footage-youtube-shorts-now-mp4/"><u>Perfecting Your Footage YouTube Shorts, Now Mp4</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-esxcli-techniques-for-managing-virtual-machines-in-vmware-with-powershell/"><u>Top ESXCLI Techniques for Managing Virtual Machines in VMware with PowerShell</u></a></li>
 </ul></div>
 

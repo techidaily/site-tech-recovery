@@ -1,7 +1,7 @@
 ---
 title: Struggling with Inaccessible PDFs in Chrome? Here Are 5 Troubleshooting Steps
-date: 2024-08-30T16:14:04.987Z
-updated: 2024-08-31T16:14:04.987Z
+date: 2024-12-08T07:01:04.844Z
+updated: 2024-12-11T02:21:17.841Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Remove Problematic Extensions From Chrome](https://on-screen-recording.techidaily.com/in-2024-elite-pace-setter-pc-titles/)
 * [Disable and Then Enable Hardware Acceleration](https://buynow-info.techidaily.com/sonys-visionary-display-unleashed-in-depth-review-of-the-49-4k-uhd-smart-led-xbr49x9/)
 * [Reset Google Chrome Settings](https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-u23-pro-phone-frp-lock-by-drfone-android/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,18 +47,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![PDF documents option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/pdf-documents.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select the "Open PDFs in Chrome" option.
 
 ![Open PDFs in Chrome option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-pdfs-in-chrome-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart Chrome and check if you can open PDF files.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  2\. Clear Cookies and Cache Data
 
  If [PDF files](https://extra-support.techidaily.com/new-obs-vs-wirecast-which-should-you-trust-for-live/) are not rendering properly or opening at all in Google Chrome, corrupted cache and [cookies data](https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-v30-drfone-by-drfone-virtual-android/) are likely the cause. In this situation, you'll have to [clear your cookies and cache data](https://smart-video-creator.techidaily.com/in-2024-take-control-of-time-top-10-free-video-speed-manipulation-apps-for-mobile/) to solve the issue.
@@ -65,21 +71,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Clear Browsing data option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/clear-browsing-data.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Choose "All Time" from the Time range drop-down menu, and check the "Cookies and Other Site Data" and "Cached Images and Files" boxes. Then, click "Clear Data".
 
 ![Clear data option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/clear-data.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After that, [restart Chrome](https://techidaily.com/how-to-factory-reset-lava-storm-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/) and check if the problem continues.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  3\. Remove Problematic Extensions From Chrome
 
 [Browser extensions](https://screen-video-capture.techidaily.com/new-in-2024-ultimate-guide-unpacking-the-secrets-of-du-recorder/) can help you perform complex tasks with ease. However, certain extensions can cause more harm than good. They can affect the normal functioning of the browser and cause various issues, including the one you're experiencing.
@@ -89,11 +86,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Manage Extension option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/manage-extension-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, disable all of your extensions by toggling off the switch next to each extension. Then, check if you can now view PDF files in Chrome. If you can, then one of the extensions you just disabled was causing the issue.
 
 ![Disable Extensions in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/disable-extensions.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To narrow down that extension, start enabling each extension one by one until the issue reappears. Once you've identified the problematic extension, click the "Remove" button to remove it from Chrome.
 
@@ -116,15 +118,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Restore settings to their original default option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/restore-settings-to-their-original-default.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, click "Reset Settings" in the pop-up window that appears.
 
 ![Reset settings option in Chrome](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/reset-settings-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  The reset process may take a few seconds to complete. Once it's finished, restart Chrome. You should no longer have any issues viewing PDF files.
 
 ---
@@ -137,8 +137,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +144,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-master-your-media-comprehensive-guide-to-instagram-converters-windowsmac-for-2024/"><u>[New] Master Your Media Comprehensive Guide to Instagram Converters (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pixelpilot-expert-tips-for-screen-snagging/"><u>[New] PixelPilot Expert Tips for Screen Snagging</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-tips-for-magix-video-pro-x-users-for-2024/"><u>[Updated] Essential Tips for Magix Video Pro X Users for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-setup-a-mac-studio-for-sports-content/"><u>[Updated] How to Setup a Mac Studio for Sports Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-video-editing-software-picks-for-your-projects/"><u>Discover the Best Video Editing Software Picks for Your Projects</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/essential-mst-framework-varieties-uncovering-different-approaches/"><u>Essential MST Framework Varieties: Uncovering Different Approaches</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-generating-podcast-identity-the-top-ai-naming-software/"><u>In 2024, Generating Podcast Identity The Top AI Naming Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-scoop-on-google-tv-streaming-box-anticipated-cost-launch-timeline-and-latest-tech-details/"><u>Insider Scoop on Google TV Streaming Box - Anticipated Cost, Launch Timeline & Latest Tech Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/monitoring-shares-find-out-who-spread-your-message-on-facebook-today/"><u>Monitoring Shares: Find Out Who Spread Your Message on Facebook Today</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-splitter-tools-online-and-offline-editors-compared/"><u>New In 2024, Free Video Splitter Tools Online and Offline Editors Compared</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-pc-crashes-ultimate-guide-to-troubleshooting-outriders-freezing-issues/"><u>Solving PC Crashes: Ultimate Guide to Troubleshooting Outriders Freezing Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/test-microphone-windows-11-step-by-step/"><u>Test Microphone Windows 11 [Step by Step]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-navigating-lg-channels-effectively/"><u>The Complete Guide to Navigating LG Channels Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-step-by-step-map-to-enjoy-harry-potter-on-screen-perfectly-in-order/"><u>Your Step-By-Step Map to Enjoy Harry Potter on Screen Perfectly in Order</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2024-11-29T09:31:55.913Z
-updated: 2024-12-04T22:39:51.250Z
+date: 2024-12-04T04:58:24.818Z
+updated: 2024-12-11T06:18:16.854Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -69,7 +69,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -79,7 +79,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -122,21 +122,16 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-captureeverything-a-deep-dive-into-laptop-recording/"><u>[New] CaptureEverything A Deep Dive Into Laptop Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-uncovered-wonders-top-6-stealthy-audio-capture-tools-androidios/"><u>2024 Approved Uncovered Wonders Top 6 Stealthy Audio Capture Tools (Android/iOS)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/accessible-sign-language-lessons-a-list-of-16-free-educational-platforms-to-get-you-started/"><u>Accessible Sign Language Lessons: A List of 16 Free Educational Platforms to Get You Started</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/add-transitions-in-kinemaster-for-2024/"><u>Add Transitions in Kinemaster for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/complete-dji-phantom-4-analysis-and-review-for-2024/"><u>Complete DJI Phantom 4 Analysis and Review for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-ultimate-travel-gear-zdnets-pick-for-best-luggage-sets-in-2erry-year/"><u>Exploring the Ultimate Travel Gear: ZDNet's Pick for Best Luggage Sets in 2Erry Year</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/light-intensity-in-hdr-scrutinized-beneficial-for-2024/"><u>Light Intensity in HDR Scrutinized Beneficial for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-btballoondll-file-absence-effective-troubleshooting-steps/"><u>Resolving 'BTBalloon.DLL' File Absence: Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/secrets-to-sustaining-high-view-count-in-youtube-videos-for-2024/"><u>Secrets to Sustaining High View Count in YouTube Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-to-control-your-android-devices-hidden-app-operations/"><u>Step-by-Step Tutorial to Control Your Android Device's Hidden App Operations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-navigating-facebooks-advanced-image-search-features/"><u>Step-by-Step Tutorial: Navigating Facebook's Advanced Image Search Features</u></a></li>
-<li><a href="https://techidaily.com/tecno-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Tecno Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-6-great-sites-to-enjoy-free-kid-friendly-films/"><u>The Ultimate List of 6 Great Sites to Enjoy Free Kid-Friendly Films</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-like-a-pro-effective-techniques-for-force-rebooting-every-kind-of-ipad/"><u>Troubleshoot Like a Pro: Effective Techniques for Force Rebooting Every Kind of iPad</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-duckduckgo-is-this-alternative-search-engine-trustworthy-and-secure/"><u>Unveiling DuckDuckGo: Is This Alternative Search Engine Trustworthy and Secure?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722979104891-upgrade-to-the-latest-nvidia-rtx-3080-ti-drivers-on-windows-download-now/"><u>Upgrade to the Latest NVIDIA RTX 3080 Ti Drivers on Windows - Download Now</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-balancing-speed-and-quality-choosing-between-lower-and-higher-fps/"><u>[New] 2024 Approved Balancing Speed & Quality Choosing Between Lower and Higher FPS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlocking-the-art-of-video-capturing-everywhere/"><u>[Updated] 2024 Approved Unlocking the Art of Video Capturing Everywhere</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-fixing-charging-problems-with-the-playstation-5-dualsense-controller/"><u>Diagnosing and Fixing Charging Problems with the PlayStation 5 DualSense Controller</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-project-your-games-on-big-screens-a-detailed-guide-to-connecting-nintendo-switch-to-tvs/"><u>How To Project Your Games on Big Screens: A Detailed Guide to Connecting Nintendo Switch to TVs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-transforming-views-into-audience-with-effective-fb-videos/"><u>In 2024, Transforming Views Into Audience with Effective FB Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-repair-speedy-techniques-to-overcome-madden-22-errors/"><u>Mastering the Repair: Speedy Techniques to Overcome Madden 22 Errors</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online/"><u>New In 2024, Create AI Avatar Video with AI Avatar | Wondershare Virbo Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tech-meets-literature-top-gadgets-for-laptops-mobile-devices-and-ebooks/"><u>Tech Meets Literature: Top Gadgets for Laptops, Mobile Devices & Ebooks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722885360867-trouble-with-error-code-0x8000-heres-your-ultimate-fix-manual/"><u>Trouble with Error Code 0X800([0])? Here's Your Ultimate Fix Manual!</u></a></li>
 </ul></div>
 

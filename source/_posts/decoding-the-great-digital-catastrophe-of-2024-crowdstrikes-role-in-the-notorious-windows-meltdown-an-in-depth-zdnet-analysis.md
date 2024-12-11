@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2024-12-02T10:50:26.838Z
-updated: 2024-12-05T06:05:30.659Z
+date: 2024-12-03T21:21:47.806Z
+updated: 2024-12-10T22:30:01.279Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,22 +176,15 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-youtuber-in-training-mobile-livestream-without-1000plus-subs-for-2024/"><u>[New] YouTuber in Training Mobile Livestream WITHOUT 1000+ Subs for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-a-visual-journey-discover-filmoras-favorite-features/"><u>[Updated] 2024 Approved A Visual Journey Discover Filmora's Favorite Features</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-iphoneipad-premium-podcast-recording-tips/"><u>[Updated] In 2024, Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722897764761-all-about-the-upcoming-google-pixel-timepiece-series-4-price-predictions-expected-debut-date-and-speculations-unveiled/"><u>All About The Upcoming Google Pixel Timepiece (Series 4): Price Predictions, Expected Debut Date, and Speculations Unveiled!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-6-main-reasons-for-your-vehicles-recurring-battery-issues/"><u>Discover the 6 Main Reasons for Your Vehicle's Recurring Battery Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-oled-displays-how-do-they-work/"><u>Exploring the World of OLED Displays - How Do They Work?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-digital-dialogues-comparing-the-impact-of-podcasts-and-youtube-platforms/"><u>In 2024, Digital Dialogues Comparing the Impact of Podcasts and YouTube Platforms</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/professional-techniques-editing-and-saving-movies-in-win-11/"><u>Professional Techniques Editing and Saving Movies in Win 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-device-managers-code-n-series-a-step-by-step-guide/"><u>Resolving Device Manager's Code N-Series: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-ac1st16dll-error-a-step-by-step-guide/"><u>Solving the ac1st16.dll Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-breakdown-of-netflixs-top-tier-video-on-demand-platform/"><u>The Ultimate Breakdown of Netflix's Top-Tier Video on Demand Platform</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-best-cooking-show-selections-available-on-netflix/"><u>Ultimate List: Best Cooking Show Selections Available on Netflix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unboxing-the-latest-update-a-full-review-of-snappy-driver-installer-v113/"><u>Unboxing the Latest Update - A Full Review of Snappy Driver Installer V1.13</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-review-of-the-macbook-air-with-m1-chip-202n/"><u>Unveiling the Power of Apple's Latest Innovation: A Comprehensive Review of the MacBook Air with M1 Chip (202N)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-complete-guide-to-watching-apple-tv-on-a-firestick/"><u>Your Complete Guide to Watching Apple TV on a Firestick</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-effortless-mac-screenshots-exploring-five-simple-methods/"><u>[New] 2024 Approved Effortless Mac Screenshots Exploring Five Simple Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-insiders-look-at-streaming-content-on-social-media-platforms/"><u>[New] In 2024, Insider's Look at Streaming Content on Social Media Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-lenovo-screenshots-made-quickly-and-easy/"><u>[Updated] In 2024, Lenovo Screenshots Made Quickly and Easy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-ultimate-guide-bulk-conversion-from-flac-to-wav-on-windows/"><u>1. Ultimate Guide: Bulk Conversion From FLAC to WAV on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-the-msvcr100dll-file-absence-effective-solutions-for-windows-users/"><u>Dealing with the MSVCR100.DLL File Absence: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-selection-the-hottest-shows-to-stream-now-on-discoveryplus-july-edition/"><u>Exclusive Selection: The Hottest Shows to Stream Now on Discovery+ - July Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-pc-capabilities-how-to-record-tv-on-windows/"><u>In 2024, Unlocking PC Capabilities How to Record TV on Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/instagrams-best-practices-for-video-posts/"><u>Instagram's Best Practices for Video Posts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-crooked-lines-appearing-on-your-samsung-televison-screen/"><u>Step-by-Step Fix for Crooked Lines Appearing on Your Samsung Televison Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-getting-your-frozen-airpods-back-in-action/"><u>Troubleshooting Tips: Getting Your Frozen AirPods Back in Action</u></a></li>
 </ul></div>
 

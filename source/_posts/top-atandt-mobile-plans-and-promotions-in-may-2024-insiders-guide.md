@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Plans & Promotions in May 2024 - Insider's Guide
-date: 2024-12-03T03:38:37.815Z
-updated: 2024-12-05T03:17:28.120Z
+date: 2024-12-05T12:20:36.239Z
+updated: 2024-12-11T11:28:32.360Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -121,7 +117,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -148,10 +144,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -162,30 +154,38 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,24 +236,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-a-step-by-step-approach-to-crafting-your-video-market-standouts/"><u>[New] A Step-by-Step Approach to Crafting Your Video' Market Standouts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-airdate-selection-podcast-release-tactics/"><u>[Updated] Mastering Airdate Selection Podcast Release Tactics</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-share-with-ease-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Connect and Share with Ease: A Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/delving-into-the-digital-depot-of-discarded-art/"><u>Delving Into the Digital Depot of Discarded Art</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-the-basics-of-bass-control-in-audio-setups/"><u>Demystifying the Basics of Bass Control in Audio Setups</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-selection-10-premium-free-email-providers-unveiled/"><u>Discover the Ultimate Selection: 10 Premium-Free Email Providers Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-dvr-technology-for-home-entertainment/"><u>Exploring the World of DVR Technology for Home Entertainment</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/shopping-highlights-editing-steps-for-hauls-and-collections-for-2024/"><u>Shopping Highlights Editing Steps for Hauls & Collections for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamline-your-house-painting-process-using-these-innovative-applications/"><u>Streamline Your House Painting Process Using These Innovative Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-methods-to-correctly-eliminate-the-unwanted-blue-discoloration-from-your-television-display/"><u>Top 8 Methods to Correctly Eliminate the Unwanted Blue Discoloration From Your Television Display</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-a14-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy A14 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-strategies-to-optimize-call-of-duty-mobile-eliminate-latency-and-enhance-fps-performance/"><u>Top Strategies to Optimize Call of Duty: Mobile - Eliminate Latency and Enhance Fps Performance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tactics-for-low-volume-calls-on-ios-devices/"><u>Troubleshooting Tactics for Low-Volume Calls on iOS Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-persistent-indivisible-application-crashes/"><u>Troubleshooting Tips for Persistent Indivisible Application Crashes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tutorial-personalizing-email-alert-tones-on-the-gmail-platform/"><u>Tutorial: Personalizing Email Alert Tones on the Gmail Platform</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-how-to-correctly-address-a-401-unauthorized-error/"><u>Unlocking the Secrets: How to Correctly Address a 401 Unauthorized Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-are-memes-and-how-do-they-shape-online-humor/"><u>What Are Memes and How Do They Shape Online Humor?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-remedying-dark-images-while-streaming-youtube-videos/"><u>[New] 2024 Approved Remedying Dark Images While Streaming YouTube Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premier-hd-visual-capture-systems/"><u>[New] Premier HD Visual Capture Systems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-straightforward-strategies-for-podcast-streaming/"><u>[New] Straightforward Strategies for Podcast Streaming</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-micro-movie-plot-draft/"><u>[Updated] In 2024, Micro-Movie Plot Draft</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-roblox-status-is-it-down-for-everyone-or-just-your-network/"><u>Determining Roblox Status – Is It Down for Everyone or Just Your Network?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-celebrates-18th-anniversary-exclusive-special-project-unveiled/"><u>DigiArty Celebrates 18Th Anniversary: Exclusive Special Project Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-email-interactions-unlocking-the-power-of-google-duets-on-gmail-platforms/"><u>Enhancing Email Interactions: Unlocking the Power of Google Duets on Gmail Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-resolve-msvcr90dll-file-doesnt-exist-on-your-pc/"><u>How to Address and Resolve MSVCR90.DLL File Doesn't Exist on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-d3dx940dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_40.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-keep-your-snaps-secret-stealthy-photo-taking-tricks-for-snapchat/"><u>In 2024, Keep Your Snaps Secret Stealthy Photo Taking Tricks for Snapchat</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/metro-and-t-mobile-collaboration-insights-on-the-rules-governing-unlimited-data-roaming-practices/"><u>Metro and T-Mobile Collaboration: Insights on the Rules Governing Unlimited Data Roaming Practices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-halting-persistent-android-application-processes/"><u>Step-by-Step Guide: Halting Persistent Android Application Processes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/taking-a-closer-look-at-teslas-cybertruck-alternative-for-lawn-care-surprisingly-impressive-performance-zdnet/"><u>Taking a Closer Look at Tesla's Cybertruck Alternative for Lawn Care: Surprisingly Impressive Performance | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-dealing-with-the-non-existent-d3dx9email-protected-error/"><u>Troubleshooting Steps: Dealing with the Non-Existent D3dx9_([email Protected]) Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-potential-of-your-samsung-tv-the-complete-remote-access-tutorial/"><u>Unlock the Potential of Your Samsung TV: The Complete Remote Access Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-next-for-google-pixel-projecting-cost-launch-dates-and-new-hardware-specs-in-focus/"><u>What's Next for Google Pixel: Projecting Cost, Launch Dates & New Hardware Specs in Focus</u></a></li>
 </ul></div>
 

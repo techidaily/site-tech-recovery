@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Controversial Apple Releases: How Initial Critiques Shaped Success"
-date: 2024-08-30T16:17:16.027Z
-updated: 2024-08-31T16:17:16.027Z
+date: 2024-12-09T08:22:31.075Z
+updated: 2024-12-11T09:36:20.929Z
 tags:
   - cutting-edge
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
  The [Vision Pro headset](https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/) is Apple's first Gen 1 product since the Apple Watch in 2015\. The company is no stranger to entering new product markets, but new launches are often met with skepticism, later followed by massive success. Here are four examples.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  iMac (1998)
 
 ![iMac G3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_2263369149.jpg) 
@@ -37,15 +41,13 @@ _[Grand Warszawski / Shutterstock.com](https://www.shutterstock.com/image-photo/
  Despite the shortcomings, the iMac [doubled Apple's PC market share](https://lowendmac.com/1998/imac-saves-apple/) in just the first four months. It arguably saved the company, and was responsible for several product names to come---iPod and iPhone. The products listed below may have never come to be without the success of the original iMac.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  iPod (2001)
 
 ![iPod 2001](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_1598882824.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/upright-view-1st-generation-ipod-sitting-1598882824)_
 
  The original iPod was announced in a low-key event by Steve Jobs in 2001\. It was pretty well received---except for one big sticking point: price. The first iPod cost $399 for 5GB of storage, and that was a point of contention.
@@ -67,16 +69,17 @@ _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/upright
 [Apple was selling](https://en.wikipedia.org/wiki/File:Ipod%5Fsales%5Fper%5Fquarter.svg) over 20 million iPods per year by 2005, and peaked at nearly 60 million in 2008 and 2009\. It was a massive success, and led to a seismic change in the music industry and how we listen to music today.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  iPhone (2007)
 
 ![Original iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_1899511723.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/1st-generation-iphone-laying-on-top-1899511723)_
 
  The original iPhone was announced in 2007, and while Steve Jobs' presentation has become legendary, not everyone was convinced that Apple truly had "reinvented" the phone. In fact, a lot of people were very critical and dismissive of the iPhone.
@@ -91,16 +94,14 @@ _[marleyPug / Shutterstock.com](https://www.shutterstock.com/image-photo/1st-gen
 
  The original iPhone became the third most popular phone in the U.S. [in just three months](https://www.theguardian.com/technology/2007/oct/23/apple.iphone). It has obviously been an astounding success for Apple. As of Q1 2023, Apple makes up 21% of the [global smartphone market share](https://www.counterpointresearch.com/global-smartphone-share/) and a whopping 52% of the [U.S. market share](https://www.counterpointresearch.com/us-market-smartphone-share/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Apple Watch (2015)
 
 ![Apple Watch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/shutterstock_326509586.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[DenPhotos / Shutterstock.com](https://www.shutterstock.com/image-photo/alushta-russia-september-1-2015-man-326509586)_
 
  By 2015, when the original Apple Watch was announced, people had started to catch on that maybe Apple knew what it was doing. Still, there was plenty of skepticism around Apple's entry into the smartwatch market.
@@ -123,8 +124,6 @@ _[DenPhotos / Shutterstock.com](https://www.shutterstock.com/image-photo/alushta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +131,20 @@ _[DenPhotos / Shutterstock.com](https://www.shutterstock.com/image-photo/alushta
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-cutting-edge-8-content-creators-skyrocketing-growth/"><u>[New] Cutting-Edge 8 Content Creators Skyrocketing Growth</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-downloading-and-archiving-facebook-gifs-a-unified-approach/"><u>[Updated] 2024 Approved Downloading and Archiving Facebook GIFs A Unified Approach</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-comprehensive-movement-study-2023/"><u>[Updated] Comprehensive Movement Study 2023</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-running-android-applications-on-windows-11/"><u>A Comprehensive Guide: Running Android Applications on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficient-ways-to-measure-temperature-on-your-apple-laptop/"><u>Efficient Ways to Measure Temperature on Your Apple Laptop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>From Pixels to Power The Ultra HD World of Samsung UE590</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-text-on-the-ipad/"><u>How to Text on the iPad</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>In 2024, Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/nintendo-switch-photography-expert-tips-for-screen-shotting-and-video-clips/"><u>Nintendo Switch Photography: Expert Tips for Screen Shotting & Video Clips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premier-mac-recording-software-top-5-innovations-revealed/"><u>Premier Mac Recording Software Top 5 Innovations Revealed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/form-your-content-essential-youtube-studio-editing-skills-for-2024/"><u>Transform Your Content Essential YouTube Studio Editing Skills for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-vehicle-a-guide-to-discovering-the-right-car-audio-security-code/"><u>Unlocking Your Vehicle: A Guide to Discovering the Right Car Audio Security Code</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-stoppage-counteracting-cpu-overuse-trends/"><u>Windows Stoppage: Counteracting CPU Overuse Trends</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Secure Passwords: The Key to Online Safety and Privacy"
-date: 2024-08-30T16:12:25.585Z
-updated: 2024-08-31T16:12:25.585Z
+date: 2024-12-09T00:32:23.915Z
+updated: 2024-12-11T11:32:32.346Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 ---
 
 ## Mastering the Art of Secure Passwords: The Key to Online Safety and Privacy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 
  A big part of online security is something called password hygiene. Let’s go over what it is, how to maintain it, and exactly how it will keep you safe online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is Password Hygiene?
 
  Password hygiene is a set of rules that make sure you are using passwords the right way. This includes using [strong passwords](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/) that can’t easily be cracked, but also involves picking the right storage medium, enabling two-factor authentication, as well as a few other tactics.
@@ -27,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
  Below we go over six tips that are easy to follow and almost guarantee that your accounts will be safe from any attack that targets your passwords—as well as a few others.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use a Password Manager
 
  The first thing you need to do to practice password hygiene is to use a [password manager](https://easy-unlock-android.techidaily.com/unlock-your-realme-gt-5-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/), a program that can generate secure passwords, store them, and autofill them as you browse. Most of the other tips on this list—and definitely the most important ones—depend on you using a password manager.
@@ -43,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 
  However, as a regular human being, creating and remembering random passwords is pretty much impossible, which is where password managers come in. Without them, you’re creating weak passwords—unless you’re a math genius.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ##  Never Reuse Passwords
 
  The other important reason to use a password manager is because it will keep you from a very bad habit that is a real risk to your online accounts, namely reusing passwords. The reason you shouldn’t do this is simple: if one of your accounts is compromised, others are, too.
@@ -54,15 +60,16 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 
  Password managers save the day here again, as they remove the need to remember passwords yourself and thus any reason to reuse them. In fact, many [password managers will even warn you if you duplicate passwords](https://driver-download.techidaily.com/easy-instructions-to-keep-your-razer-naga-mouse-up-to-date-in-windows/), meaning you can remove this threat easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Passkeys
 
  We’ve talked a lot about the weakness of passwords, so let’s take a look at a few ways we can bolster them a bit. One way is to remove them completely and use [passkeys](https://location-social.techidaily.com/how-to-change-your-apple-iphone-12-pro-max-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/) instead. This new technology lets you create a cryptographic token that gives you access to your account on a specific site. You store the token in your password manager, and whenever you want to access your account, you’re signed in without needing to enter your password.
 
  Passkeys are a really neat bit of tech and we recommend you use them whenever you can as they’re secure and convenient. However, as a new technology, not all password managers or sites support them, so don’t expect to use them everywhere quite yet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Switching on 2FA
 
  Another issue with passwords is that if you have one, you can use it. This means that somebody else could impersonate you if they had your password, like if they obtained it in a breach. With [two-factor authentication (2FA)](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), you can mitigate that risk. 2FA means that to access an account you need to present two “factors” or methods to authenticate yourself and gain access.
@@ -72,12 +79,9 @@ thumbnail: https://thmb.techidaily.com/7a1b81670361c75645ca8d7e9b30ac5842f69d19f
 ![The Authenticator app on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/52892151191_865d1d9464_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
+
 ## 
 
 Andrew Heinzman / How-To Geek
@@ -90,10 +94,6 @@ Andrew Heinzman / How-To Geek
 
  Like with passwords, you want to make sure that your username is unique and can’t be tracked across sites. If possible, try to randomize it (though maybe not if you’ll use it as a forum name). Though usernames aren’t the most effective attack vector for cybercriminals, following this tip whenever you can will minimize your risks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Password Hygiene Is Easy
 
  These six tips are how you can set up and maintain password hygiene. Though they would be near impossible to handle without the aid of software, password managers have made it easy to keep your accounts and their passwords safe with just a few clicks. There are numerous good password manager options out there, but there are[important factors to consider when picking a password manager](https://facebook-video-content.techidaily.com/updated-facebooks-micro-video-revolution-insights-into-2023-landscape-for-2024/).
@@ -104,8 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +111,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-beginning-basics-the-ultimate-guide-to-starting-a-reviews-centric-youtube-channel-for-2024/"><u>[New] Beginning Basics The Ultimate Guide to Starting a Reviews-Centric YouTube Channel for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-feel-motivated-10-epic-movies-with-deep-impact/"><u>[New] In 2024, Feel Motivated 10 Epic Movies with Deep Impact</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-quick-scale-your-iphones-viewport/"><u>[Updated] 2024 Approved Quick Scale Your iPhone's Viewport</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722874300044-exclusive-leak-android-16s-features-and-pricing-what-you-need-to-know-before-launch/"><u>Exclusive Leak: Android 16'S Features & Pricing - What You Need To Know Before Launch</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/exploring-the-characteristics-of-verbs-understanding-verb-usage-and-forms/"><u>Exploring the Characteristics of Verbs: Understanding Verb Usage and Forms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-demystified-concepts-made-clear/"><u>Generative AI Demystified: Concepts Made Clear</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722845171487-google-maps-as-your-companard-in-finding-ev-charging-stations-across-the-us/"><u>Google Maps as Your Companard in Finding EV Charging Stations Across the U.S</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-create-cool-reverse-videos-using-snapchats-features/"><u>How to Create Cool Reverse Videos Using Snapchat's Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-accessing-the-apex-high-definition-media-from-facebooks-realm/"><u>In 2024, Accessing the Apex High-Definition Media From Facebook's Realm</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-complete-capture-master-az-reviews-and-backups/"><u>In 2024, Complete Capture Master - AZ Reviews & Backups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-recommended-cable-modem-and-router-bundles/"><u>Top Recommended Cable Modem and Router Bundles</u></a></li>
+</ul></div>
 

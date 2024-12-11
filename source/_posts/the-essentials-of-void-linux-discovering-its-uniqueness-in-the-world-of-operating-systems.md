@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of Void Linux: Discovering Its Uniqueness in the World of Operating Systems"
-date: 2024-08-30T16:14:07.235Z
-updated: 2024-08-31T16:14:07.235Z
+date: 2024-12-05T09:37:50.383Z
+updated: 2024-12-11T09:28:54.997Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 
 ![The settings for the XFCE4 desktop environment in Void Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_2024-02-18_17-35-03.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Void Linux opts for lightweight software, such as the XFCE4 desktop environment.
 
 ##  What Makes Void Different?
@@ -35,14 +39,15 @@ Void Linux opts for lightweight software, such as the XFCE4 desktop environment.
 
 ![A picture of the terminal displaying options for Void Linux's package manager binaries.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/xbps-install-xbps-remove-help.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 There are separate binaries for installing, removing, and finding software in Void Linux.
 
  Void also uses a different "init" system (the first program an operating system runs to initialize other programs and services) than most other Linux distros; while systemd is commonly used by distros, Void uses runit, which is significantly smaller in scope and size. As such, Void boots very quickly and generally uses fewer computing resources than other distros like Ubuntu or Fedora.
 
  Lastly, Void is a "stable rolling release," which attempts to strike a balance between distros like Arch (which uses the latest software available, bugs and all) and Debian (which releases major updates every few years). Void and its packages are updated frequently with tested and "stable" versions, meaning Void provides up-to-date software without most of the pitfalls of a true rolling release. The end result for you as the user is access to the newest versions of apps that are tested and suitable for public release.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Should You Use Void?
 
@@ -59,17 +64,15 @@ There are separate binaries for installing, removing, and finding software in Vo
 ![HTOP in Void Linux showing less than 1% CPU usage and 400MB RAM usage during an idle desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-linux-idle-htop.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 On an idle desktop, Void uses less than 1% of CPU and roughly 400-500MB of RAM.
 
 ![A picture of HTOP in Void showing CPU usage at 5% and RAM usage at 1.53 GB with 5 tabs open in Firefox and an image loaded in GIMP.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-linux-htop-firefox-5-tabs-gimp-with-picture-loaded.png) 
 
 Even with 5 tabs in Firefox (including a YouTube video playing) and an image loaded in GIMP for editing, Void is light on demand.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Try Void Linux and Install It
 
  To try Void Linux, download the latest ISO file from Void's [download page](https://repo-default.voidlinux.org/live/current/). If you're not sure which ISO to download, select "void-live-x86\_64-20230628-xfce.iso" (the file name may be slightly different based on the date, but it will have "void-live-x86\_64" and "xfce" in it).
@@ -82,9 +85,6 @@ Even with 5 tabs in Firefox (including a YouTube video playing) and an image loa
 
 ![The Void installer has a simple interface and walks through the installation setup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-installer-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here are my recommendations:
 
 **Keyboard:** Set to"us" for United States English (standard QWERTY)
@@ -115,6 +115,10 @@ Even with 5 tabs in Firefox (including a YouTube video playing) and an image loa
 
 ![The partition scheme for installing Void to a BIOS system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-linux-installer-disk-partition-scheme-with-swap.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Filesystems:** If you are on a UEFI system, select your 200MB boot partition, then select "vfat"for FAT32\. When prompted to specify a mount point, enter "/boot/efi"and hit enter, then select "Yes."
 
  If you created a swap partition, select it and select "swap"and then "Yes."Now select your main partition (the largest one) and select "ext4."For the mount point, type **"/"** in the field, hit enter, and select "Yes."Once you're finished configuring the filesystems, select "Done."
@@ -124,30 +128,20 @@ Even with 5 tabs in Firefox (including a YouTube video playing) and an image loa
 ![The filesystem scheme for a installing Void to a BIOS system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/void-linux-installer-filesystem-scheme.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Install:** Select "Yes"and let the installer run. Once it is finished, you'll be asked to reboot your system. Select "Yes" to boot into your Void Linux install.
 
  Congratulations! You've installed Void Linux! Welcome to the Void!
 
 ![This is a picture of the Void Linux logo set as the wallpaper for the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enter-the-void.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +150,17 @@ Even with 5 tabs in Firefox (including a YouTube video playing) and an image loa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-quick-tips-for-converting-snapshots-directly-from-the-app/"><u>[New] In 2024, Quick Tips for Converting Snapshots Directly From the App</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-downloads-for-mac-easy-steps-included/"><u>[New] Snapchat Downloads for Mac - Easy Steps Included</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unpacking-magix-video-editor-features/"><u>[Updated] In 2024, Unpacking MAGIX Video Editor Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-standard-vs-professional-converters-youtube-to-ipod-and-iphone-software/"><u>Comparing Standard Vs. Professional Converters: YouTube to iPod & iPhone Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722137270975-discover-6-top-notch-ai-models-similar-to-openais-phi-variant-freebie-options-inside/"><u>Discover 6 Top-Notch AI Models Similar to OpenAI's Phi Variant: Freebie Options Inside!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-vivo-y200e-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y200e 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-luck-with-matches-5-strategies-to-succeed-on-bumble/"><u>No Luck with Matches? 5 Strategies to Succeed on Bumble</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-enable-your-apple-watch-with-gmail-a-comprehensive-guide/"><u>Steps to Enable Your Apple Watch with Gmail: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-66-twitter-travel-influencers-find-amazing-offers-and-insider-tips/"><u>Top 66 Twitter Travel Influencers - Find Amazing Offers and Insider Tips!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whatsapp-or-signal-exploring-the-critical-differences-between-them/"><u>WhatsApp or Signal? Exploring the Critical Differences Between Them</u></a></li>
+</ul></div>
 

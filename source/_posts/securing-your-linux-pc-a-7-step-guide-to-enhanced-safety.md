@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Linux PC: A 7-Step Guide to Enhanced Safety"
-date: 2024-08-30T16:13:54.074Z
-updated: 2024-08-31T16:13:54.074Z
+date: 2024-12-04T06:56:30.938Z
+updated: 2024-12-11T03:51:48.713Z
 tags:
   - desktop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 Chances are that part of the reason you broke away from Microsoft and switched to Linux is the open-source OS's reputation for greater security. That doesn’t mean your Linux distro is impenetrable, though, and certainly not out of the box. Here are seven steps you can take to make your Linux laptop more secure.
 
  If you’re still looking to make the jump, check out our selection of the [best Linux laptops](https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1  Encrypt Your Hard Drive 
 
@@ -38,15 +42,13 @@ Want to install Linux on your PC? We'll walk you through everything you need to 
  You’ll be prompted to set a system password during setup, usually right after encrypting your hard drive. Make sure to create a [strong, memorable password](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/) that’s different from the hard disk password. Using the same password twice makes life far too easy for would-be thieves.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3  Set Up Screen Lock 
 
 ![Kubuntu Focus laptop with the screen lock user login visible.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53783375832_459504dab4_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With the system password set up, you should also make sure screen lock activates after a period of inactivity, and also commit the manual screen lock command (Ctrl+Alt+L) to memory. We can’t stress enough how important it is to do this if you’re in a shared space; not locking your screen opens you up to all kinds of mischief.
@@ -54,8 +56,9 @@ Jerome Thomas / How-To Geek
  If you’re with coworkers they could try and play a prank and send a message over your Slack account to a coworker, while at university a colleague could try and take a peek at your research. In a coworking space, somebody may try to gain access to confidential information. Locking your screen prevents all these scenarios.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  Install a VPN 
 
  The first three tips will protect your laptop from anybody interfering with it physically. However, a bigger issue may be hackers coming at you over a network. This is where the next few tools come in, first and foremost being a [virtual private network](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/), or a VPN.
@@ -64,9 +67,6 @@ Jerome Thomas / How-To Geek
 
 [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_444293932.jpg)](https://some-guidance.techidaily.com/updated-kinemasters-journey-for-seamless-scene-transitions/) Related 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### [Here's What a VPN Can't Protect You From](https://facebook-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-implementing-and-evaluating-fb-in-stream-ads/) 
 
 VPNs are great privacy tools, but they're not perfect. They can't protect you from everything.
@@ -75,22 +75,24 @@ VPNs are great privacy tools, but they're not perfect. They can't protect you fr
 
  This encryption makes it much harder to track you, meaning anybody that may want to do you harm online will have a tougher time finding you. It also protects your laptop if a network you’re connected to gets hijacked, so you don’t have to worry about your data being stolen in that way. As an added bonus, the [best VPNs](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/) all offer anti-malware capabilities, too, cutting off that attack vector.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 5  Set Up a Firewall 
 
  You may also want to consider setting up a software firewall on your system. Firewalls are programs that can regulate the network traffic going in and out of your computer. If malware does make it onto your laptop somehow, a firewall can make it so it can’t phone home while you work to purge it from your system.
 
  Most VPNs have some kind of limited firewall functionality, but you can also opt to use other software. We have a [guide on using firewalld on Linux](https://instagram-video-files.techidaily.com/updated-in-2024-examining-the-usefulness-of-instagrams-selfie-validation/), a free and open source firewall that we have found easy to use and set up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Disable Root Login Over SSH 
 
 ![Linux Konsole Terminal open on the Kubuntu Focus Ir14 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/52971071687_d038f51da7_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  The penultimate piece of advice is a little exotic, but useful. As you probably know, root privileges let you do anything you want on a Linux machine. The problem is that under very specific circumstances anybody accessing the device remotely through an [SSH tunnel](https://extra-approaches.techidaily.com/2024-approved-mastering-viral-potential-in-tiktok-unboxer-videos/) can gain those privileges and thus do whatever they want on your laptop.
@@ -115,8 +117,6 @@ sudo apt-get update
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,20 @@ sudo apt-get update
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/nhancing-user-experience-a-quick-how-to-for-youtube-cc-and-subtitles/"><u>[New] Enhancing User Experience A Quick How-To for YouTube CC & Subtitles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-beginners-blueprint-to-youtube-streaming-games-for-2024/"><u>[Updated] Beginner's Blueprint to YouTube Streaming Games for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-podcast-world-with-your-iphone/"><u>[Updated] Navigating Podcast World with Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/biometrics-explained-unveiling-the-secrets-of-personal-identification-techniques/"><u>Biometrics Explained: Unveiling the Secrets of Personal Identification Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/efficient-passport-photography-our-top-10-low-cost-digital-options/"><u>Efficient Passport Photography Our Top 10 Low-Cost Digital Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-the-most-recent-amd-radeon-r5-drivers-compatible-with-windows-11-10-8-and-amo/"><u>How to Download the Most Recent AMD Radeon R5 Drivers Compatible with Windows 11, 10, 8 & Amo</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2024-bootloader-easily-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2024) Bootloader Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-audio-archiving-strategies-on-apple-devices/"><u>In 2024, Audio Archiving Strategies on Apple Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-voice-commands-a-step-by-step-guide-to-enabling-siris-text-reading-feature-on-apple-devices/"><u>Mastering Voice Commands: A Step-by-Step Guide to Enabling Siri's Text Reading Feature on Apple Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/printer-connection-secrets-revealed-seamless-sharing-with-several-devices-uncovered/"><u>Printer Connection Secrets Revealed: Seamless Sharing with Several Devices Uncovered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/savor-these-delightful-kitchen-escapes-a-culinary-enthusiasts-guide-to-the-finest-cooking-series-on-netflix/"><u>Savor These Delightful Kitchen Escapes: A Culinary Enthusiast's Guide to the Finest Cooking Series on Netflix</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-moving-your-iphone-media-files-to-a-windows-computer-win-111087/"><u>Step-by-Step Guide: Moving Your iPhone Media Files to a Windows Computer (Win 11/10/8/7)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-fugetek-ft-568-testing-and-evaluating-the-elite-selfie-accessory/"><u>The Ultimate Guide to Fugetek FT-568: Testing and Evaluating the Elite Selfie Accessory</u></a></li>
+</ul></div>
 

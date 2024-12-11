@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & Mac Programs According to ZDNet
-date: 2024-11-29T16:03:41.222Z
-updated: 2024-12-04T21:40:51.051Z
+date: 2024-12-10T08:50:11.830Z
+updated: 2024-12-11T07:09:06.369Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ Show less
 
 ## Microsoft 365 apps for Business
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It's not just a bundle anymore
 
 The four desktop apps that make up the core of what used to be Microsoft Office are an absolutely essential part of my working day, and not much has changed despite the rebranding to Microsoft 365\. Outlook is the first app I open in the morning, and I cannot remember the last day where I didn't use Excel and Word. (I typically only use PowerPoint a few times a year.) These apps are available for Windows and MacOS as part of my Microsoft 365 Business Standard (formerly Office 365) subscription, for which I pay $150 annually. The package also includes support for my custom email domain and a terabyte of cloud storage. (For more on what's included, see: [Microsoft 365 vs Google Workspace (formerly G Suite): Which productivity suite is best for your business?](https://www.zdnet.com/article/office-365-vs-g-suite-which-productivity-suite-is-best-for-your-business/))
@@ -54,11 +50,11 @@ Show less
 
 [View now at Tweeten](https://tweetenapp.com/)
 
-## Tweeten
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Tweeten
 
 ### It's TweetDeck on steroids
 
@@ -73,10 +69,6 @@ Show less
 [View now at OneNote](https://www.onenote.com/)
 
 ## OneNote
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### An infinitely expandable notebook
 
@@ -106,11 +98,11 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Quicken Home and Business
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I hate it, but I use it
 
@@ -120,10 +112,6 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Browser and extensions
 
 Show less 
@@ -131,10 +119,14 @@ Show less
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Edge (Chromium)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
 
@@ -150,6 +142,10 @@ Show less
 
 ## 1Password
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Everyone needs a password manager
 
 When I set up a new PC, Mac, or mobile device, the first thing I install, without exception, is the 1Password browser extension. (For a full review, see: [1Password: My favorite password manager is an essential security tool.](https://www.zdnet.com/article/1password-my-favorite-password-manager-is-an-essential-security-tool/)) It has every feature you expect from this class of software, including a robust password generator that can create and save truly random, unguessable credentials, as well as support for two-factor authentication. My family plan costs $5 a month and makes it easy to share credentials for online services with my wife.
@@ -163,7 +159,7 @@ Show less
 [View now at Workona](https://workona.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Workona
@@ -182,6 +178,10 @@ Show less
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Spotify Music
 
 ### No music app is perfect, but Spotify is best all around
@@ -196,11 +196,11 @@ Show less
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VLC Media Player
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Free, open source, handles every format imaginable
 
@@ -212,11 +212,11 @@ Show less
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
-## MediaMonkey
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## MediaMonkey
 
 ### A Swiss Army knife for digital media
 
@@ -256,22 +256,19 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-online-broadcast-platforms/"><u>[New] In 2024, Ultimate Online Broadcast Platforms</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-smart-techniques-to-capture-gotomeet-participants/"><u>[New] Smart Techniques to Capture GoToMeet Participants</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-giggle-your-way-comedy-tones-downloads-hubs/"><u>[Updated] Giggle Your Way Comedy Tones Downloads Hubs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/all-encompassing-capture-suite-detailed-app-evaluations-for-2024/"><u>All-Encompassing Capture Suite - Detailed App Evaluations for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722884615367-anticipating-the-next-apple-event-dates-news-scoops-and-hot-gossip-await/"><u>Anticipating the Next Apple Event? Dates, News Scoops, and Hot Gossip Await</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899476868-dciman32dll-not-detected-heres-how-you-can-resolve-it/"><u>dciman32.dll Not Detected? Here's How You Can Resolve It!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-samsung-galaxy-watch-7-upcoming-features-launch-timeline-and-pricing-details/"><u>Discover Samsung Galaxy Watch 7 - Upcoming Features, Launch Timeline & Pricing Details</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-lenovo-thinkpad-t430-drivers-compatible-with-windows-1087-simple-steps/"><u>Download Lenovo ThinkPad T430 Drivers Compatible with Windows 10/8/7: Simple Steps!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-x8b-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor X8b</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macbook-air-m3-versus-ipad-pro-m4-showdown-a-comprehensive-review/"><u>MacBook Air M3 Versus iPad Pro M4 Showdown: A Comprehensive Review</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-ghostwire-tokyo-a-guide-to-prevent-pc-game-crashes/"><u>Mastering Ghostwire: Tokyo - A Guide to Prevent PC Game Crashes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-startup-stalls-on-macos-how-to-get-your-apps-running-again/"><u>Overcoming Startup Stalls on macOS: How to Get Your Apps Running Again</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-smart-tv-mastery-how-to-set-up-and-use-remote-control-seamlessly/"><u>Samsung Smart TV Mastery: How to Set Up and Use Remote Control Seamlessly</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-printing-docx-documents-on-your-windows-computer-tips-from-yl-computing/"><u>Step-by-Step Guide: Printing .docx Documents on Your Windows Computer - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/step-by-step-tutorial-for-downloading-and-watching-vimeo-content-on-apple-mobile-devices/"><u>Step-by-Step Tutorial for Downloading and Watching Vimeo Content on Apple Mobile Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-correcting-the-msstdfmtdll-not-detected-error-efficiently/"><u>Understanding and Correcting the 'msstdfmt.dll' Not Detected Error Efficiently</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-skype-alternatives-top-video-call-apps-for-your-pc/"><u>Windows Skype Alternatives: Top Video Call Apps for Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-the-ideal-speed-for-your-personal-computer-a-comprehensive-guide/"><u>Determining the Ideal Speed for Your Personal Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/digital-camera-selection-for-the-budget-savvy/"><u>Digital Camera Selection for the Budget-Savvy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elite-selection-top-5-personal-item-trackers/"><u>Elite Selection: Top 5 Personal Item Trackers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-reno-11-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo Reno 11 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-more-wi-fi-struggles-easy-tips-for-restoring-ipad-internet-connection/"><u>No More Wi-Fi Struggles: Easy Tips for Restoring iPad Internet Connection</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/optimizing-playback-speed-a-guide-for-spotify-users/"><u>Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
+<li><a href="https://win-net.techidaily.com/resolution-guide-for-boot-device-not-found-errors-on-your-windows-11-and-ssd-setup/"><u>Resolution Guide for 'Boot Device Not Found' Errors on Your Windows 11 and SSD Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-the-ocidll-not-detected-problem/"><u>Step-by-Step Guide: Correcting the 'Oci.Dll Not Detected' Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streaming-the-live-samsung-unboxing-event-a-step-by-step-guide/"><u>Streaming the Live Samsung Unboxing Event: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-capturing-with-iphones-micro-and-macro-lenses/"><u>The Art of Capturing with iPhone's Micro and Macro Lenses</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-how-to-solve-bluetooth-issues-in-windows-11/"><u>Troubleshooting & Fixing: How to Solve Bluetooth Issues in Windows 11</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-your-broken-cd-rom-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Troubleshooting Your Broken CD-ROM on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-correcting-the-missing-pdhdll-file-mistake/"><u>Understanding and Correcting the Missing pdh.dll File Mistake</u></a></li>
 </ul></div>
 
