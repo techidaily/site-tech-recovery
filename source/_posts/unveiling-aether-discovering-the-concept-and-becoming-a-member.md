@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Aether: Discovering the Concept & Becoming a Member"
-date: 2024-08-26T08:24:53.827Z
-updated: 2024-08-27T08:24:53.827Z
+date: 2024-12-14T18:54:53.559Z
+updated: 2024-12-17T17:59:20.527Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling Aether: Discovering the Concept & Becoming a Member"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 Close 
 
  Aether is a distributed, peer-to-peer discussion platform similar to Reddit, but with a stronger focus on privacy, resisting censorship, and giving more control to users. Because[ Aether's platform](https://aether.app) is peer-to-peer, each user is a publisher and server unto themselves, giving them maximum control over what's published, what they see, and what communities they join. This article explains Aether, looks at how to sign up and what it costs, and how Aether compares to Reddit and X (formerly Twitter).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Aether? 
 
@@ -31,29 +35,32 @@ Close
 
  Aether is intended for a much more technical audience. It's best for people who know what "globs" or stars are when it comes to allow-lists for domains, and who understand crypto and[ blockchain](https://www.lifewire.com/what-is-web3-5271876#toc-are-there-any-examples-of-web3-today) well enough to grasp the explanation of why Aether isn't based on the blockchain.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Aether Pro
 
  The company touts Aether Pro, "a private, team-based version of Aether as a collaboration tool, like Slack." This version of the platform offers live chat rooms, structured discussion threads, email newsletters, and more. However, nothing on the site indicates what it costs or how to sign up for it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Many People Use Aether? 
 
  The company doesn't publish this information. In[ a 2021 interview with a co-founder of the platform](https://thenewstack.io/aether-a-decentralized-reddit-with-self-moderation-and-privacy/) , he said Aether has about 2,000 users. By contrast, Reddit claims 52 million users.
 
  As of this writing, no Aether community has more than 79 subscribers, and the majority have under 30 users. The last post on the company's web-based forum is from March 2022, though at least one new post per day has appeared in the app for almost every day in 2023.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Does Aether Use the Blockchain? 
 
  Aether does not use blockchain. For the technical reader, Aether provides[ a long, very detailed explanation of the technology used to create and operate](https://getaether.net/docs/faq/aether%5Fcryptography/) the platform.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Do I Join Aether? 
 
  Joining Aether is easy: Just[ download the peer-to-peer desktop app](https://getaether.net) (it's available for Windows, Mac, and Linux).
@@ -62,18 +69,12 @@ Close
 
  The app offers Popular and New posts, somewhat like Reddit. You can also browse or search for subs, which are smaller communities for a specific topic or interest.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ##  Are There Costs for Aether? 
 
  Aether is a free service. It doesn't even have ads.
 
  While the app and website both mention that users can support the platform via[ Patreon](https://www.patreon.com) , those links are broken and a search at Patreon doesn't return anything relevant.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Does Aether Compare to Reddit and X? 
 
 ###  Aether vs. Reddit and X
@@ -99,8 +100,9 @@ Close
 * Unique usernames
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion 
 
  Aether may be of interest to a certain kind of user. The promise of a decentralized, unmoderated discussion space is just what some people are looking for. However, with such a small user base, it remains to be seen if the service catches on with more people. As of right now, its small user base can't come close to matching the breadth of Reddit or X.
@@ -130,8 +132,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +139,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-speedy-social-stardom-likes-plus-videos-on-instagram-guide/"><u>[New] In 2024, Speedy Social Stardom Likes + Videos on Instagram Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-monetary-milestones-steps-to-unlock-your-true-youtube-income-value/"><u>[Updated] Monetary Milestones Steps to Unlock Your True YouTube Income Value</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-2022s-golden-age-for-ice-dancing-showcases/"><u>2024 Approved 2022'S Golden Age for Ice Dancing Showcases</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>2024 Approved Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-6-funky-online-platforms-explore-varied-chess-styles/"><u>Best 6 Funky Online Platforms: Explore Varied Chess Styles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-amazing-ipad-deals-and-special-discounts-right-now/"><u>Experience Amazing iPad Deals and Special Discounts Right Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-article-purging-cached-data-on-leading-internet-browsers-simplified/"><u>How-To Article: Purging Cached Data on Leading Internet Browsers Simplified</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C Phone without Any Data Loss</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-make-your-content-stand-out-with-instagrams-procedural-slow-mo-journey/"><u>In 2024, Make Your Content Stand Out with Instagram’s Procedural Slow Mo Journey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-motherboard-selection-critical-7-aspects-for-an-optimal-purchase/"><u>Mastering Motherboard Selection: Critical 7 Aspects for an Optimal Purchase</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pc-strategies-for-dominating-in-pokemon-unite/"><u>PC Strategies for Dominating in Pokémon Unite</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-a56s-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo A56s 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutorial-confirming-participation-in-a-group-photo-album-on-ios-devices/"><u>Tutorial: Confirming Participation in a Group Photo Album on iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zoom-connection-issues-troubleshooting-connectivity-and-user-errors/"><u>Zoom Connection Issues: Troubleshooting Connectivity and User Errors</u></a></li>
+</ul></div>
 

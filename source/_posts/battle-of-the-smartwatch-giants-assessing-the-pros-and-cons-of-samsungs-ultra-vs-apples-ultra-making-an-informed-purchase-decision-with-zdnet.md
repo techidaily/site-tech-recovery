@@ -1,7 +1,7 @@
 ---
 title: "Battle of the Smartwatch Giants: Assessing the Pros and Cons of Samsung's Ultra Vs. Apple's Ultra – Making an Informed Purchase Decision with ZDNET"
-date: 2024-12-10T04:24:29.947Z
-updated: 2024-12-11T03:23:14.424Z
+date: 2024-12-16T16:48:14.696Z
+updated: 2024-12-17T19:05:22.864Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -33,7 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -97,7 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,21 +148,15 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-from-basic-shapes-to-complex-realistic-3d-text-in-photos/"><u>[New] From Basic Shapes to Complex, Realistic 3D Text in Photos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-digital-memory-management-saving-snaps-from-social-platforms/"><u>[Updated] Digital Memory Management Saving Snaps From Social Platforms</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/a-step-by-step-guide-to-professional-gopro-footage-for-2024/"><u>A Step-by-Step Guide to Professional Gopro Footage for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-digital-reading-experience-with-kobo-e-readers/"><u>Discover the Best Digital Reading Experience with Kobo E-Readers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-setup-guide-step-by-step-installation-tips/"><u>Easy Setup Guide: Step-by-Step Installation Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-conversion-from-audibles-advanced-audio-extractor-aax-to-high-quality-mp3-tracks/"><u>Effortless Conversion From Audible's Advanced Audio Extractor (AAX) to High-Quality MP3 Tracks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-conversion-techniques-from-epub-to-docx-format-explained/"><u>Effortless Conversion Techniques From EPUB to DOCX Format Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-digital-liberation-unlocking-your-kobo-books-without-drm/"><u>Effortless Digital Liberation: Unlocking Your Kobo Books Without DRM</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-setup-quick-guide-to-installing-your-essential-apps/"><u>Effortless Setup: Quick Guide to Installing Your Essential Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enabling-automatic-screen-rotation-on-your-kindle-fire-device-a-step-by-step-guide/"><u>Enabling Automatic Screen Rotation on Your Kindle Fire Device: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-honor-70-lite-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Honor 70 Lite 5G.</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-and-executing-essential-mukbang-elements/"><u>In 2024, Understanding and Executing Essential Mukbang Elements</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-take-your-edits-to-the-next-level-10-free-fcpx-plugins-for-2024/"><u>New Take Your Edits to the Next Level 10 Free FCPX Plugins for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/prevent-facebook-fraud-identify-14-common-scams-now/"><u>Prevent Facebook Fraud: Identify 14 Common Scams Now</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722993631936-why-is-assassins-creed-valhalla-not-releasing-yet-unravel-the-mystery/"><u>Why Is Assassin's Creed Valhalla Not Releasing Yet? Unravel the Mystery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-capture-the-world-with-these-leading-4k-cams/"><u>[New] 2024 Approved Capture the World with These Leading 4K Cams</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-supercharge-your-status-top-8-apps-for-boosting-facebook-popularity/"><u>[New] In 2024, Supercharge Your Status Top 8 Apps for Boosting Facebook Popularity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-secrets-of-flawless-video-capture-top-4-apps-for-pcmac/"><u>2024 Approved Secrets of Flawless Video Capture Top 4 Apps for PC/Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-youtube-revenue-essential-view-count-milestones/"><u>2024 Approved Unlocking YouTube Revenue Essential View Count Milestones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-diagnosing-and-repairing-missing-helperdll-files/"><u>Comprehensive Guide: Diagnosing and Repairing Missing Helper.dll Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-deactivate-safety-alerts-on-your-iphone-device/"><u>Guide to Deactivate Safety Alerts on Your iPhone Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-switch-the-virtual-on-screen-keyboard-accessibility-in-windows-10-systems/"><u>How to Switch the Virtual On-Screen Keyboard Accessibility in Windows 10 Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-x9a-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor X9a Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-meta-ai-unraveling-the-secrets-of-advanced-machine-learning/"><u>Inside Meta AI: Unraveling the Secrets of Advanced Machine Learning</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/triumph-over-technology-glitches-your-definitive-solution-for-cmos-checksum-correction/"><u>Triumph Over Technology Glitches: Your Definitive Solution for CMOS Checksum Correction</u></a></li>
 </ul></div>
 

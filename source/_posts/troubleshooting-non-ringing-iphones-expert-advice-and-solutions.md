@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Non-Ringing iPhones: Expert Advice and Solutions"
-date: 2024-08-26T08:24:18.581Z
-updated: 2024-08-27T08:24:18.581Z
+date: 2024-12-10T16:44:35.991Z
+updated: 2024-12-17T16:24:48.158Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Non-Ringing iPhones: Expert Advice and Solutions"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -36,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -43,7 +52,16 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
@@ -52,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +119,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-leading-video-call-applications-for-conference-success/"><u>[New] In 2024, Leading Video Call Applications for Conference Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-seamless-sounds-for-your-podcasts-using-garageband/"><u>[Updated] Crafting Seamless Sounds for Your Podcasts Using GarageBand</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-open-source-gaming-soundtracks-library/"><u>[Updated] Open Source Gaming Soundtracks Library</u></a></li>
+<li><a href="https://article-posts.techidaily.com/birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign/"><u>Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bridge-the-gap-between-devices-how-to-watch-apple-tvpluss-content-on-chromecast/"><u>Bridge the Gap Between Devices: How to Watch Apple TV+'s Content on Chromecast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decode-the-startup-problem-a-users-handbook-to-fixing-error-code-10/"><u>Decode the Startup Problem: A User’s Handbook to Fixing Error Code 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-creme-de-la-creme-of-free-car-racing-games-that-run-without-wifi/"><u>Discover the Crème De La Crème of Free Car Racing Games That Run Without WiFi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhancing-privacy-on-apple-music-top-4-strategies-for-personalized-secure-playlists/"><u>Enhancing Privacy on Apple Music: Top 4 Strategies for Personalized, Secure Playlists</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-controlling-your-roku-device-no-remote-required/"><u>Guide to Controlling Your Roku Device - No Remote Required!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932236-9781849942454-ingrid-pitt-bedside-companion-for-ghosthunters/"><u>Ingrid Pitt Bedside Companion for Ghosthunters | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modifying-reset-account-lockout-limit-after-failed-login-attempts-in-windows-1011/"><u>Modifying Reset Account Lockout Limit After Failed Login Attempts in Windows 10/11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-decision-pros-and-cons-of-switching-to-an-rtx-gpu/"><u>Navigating the Decision: Pros and Cons of Switching to an RTX GPU</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixes-for-computers-frozen-at-startup/"><u>Resolved: Fixes for Computers Frozen at Startup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-libexec32dll-file-cannot-be-found-a-step-by-step-guide/"><u>Resolving the 'libexec32.dll' File Cannot Be Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-resolving-a-408-request-timeout-error/"><u>Understanding and Resolving a 408 Request Timeout Error</u></a></li>
+</ul></div>
 

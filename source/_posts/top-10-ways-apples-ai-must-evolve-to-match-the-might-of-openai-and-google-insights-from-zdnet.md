@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Ways Apple's AI Must Evolve to Match the Might of OpenAI & Google: Insights From ZDNet"
-date: 2024-12-06T23:30:26.507Z
-updated: 2024-12-11T01:02:05.138Z
+date: 2024-12-10T17:28:35.132Z
+updated: 2024-12-17T19:08:18.989Z
 tags:
   - apple
 categories:
@@ -34,10 +34,14 @@ Whether you're a [developer](https://www.zdnet.com/article/the-data-confirms-gen
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Productivity & Workflow Enhancements
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Regenerative AI (RAG) APIs & AI Writing Tools
@@ -51,10 +55,6 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 * **Priority**: High -- This enhancement is crucial for professional sectors where precise terminology and real-time data incorporation are essential, especially in legal, healthcare, and business applications.
 
 **Use Case**: A legal professional drafting a contract could use AI to generate text based on legal standards and pull relevant case law or references from secure corporate databases. Similarly, a medical researcher could enhance their papers with precise terminology and industry knowledge, all sourced and verified by a specialized AI model.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Voice-based AI Workflow Automation & Proactive Notifications
 
@@ -71,7 +71,7 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 ## Security & Privacy Enhancements
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Enhanced AI Privacy and Security Controls
@@ -85,6 +85,10 @@ As AI becomes more integrated into daily use, Apple can enhance its privacy and 
 **Use Case:** A user can adjust permissions so that Siri only accesses their calendar data for scheduling tasks but does not access messages or locations, ensuring maximum privacy control without compromising functionality.
 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Financial Management and Security
 
@@ -112,15 +116,7 @@ AI could provide real-time diagnostics and predictive health insights by leverag
 
 **Also: [The 4 biggest new health features Apple just announced](https://www.zdnet.com/article/the-4-biggest-new-health-features-apple-just-announced/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creative & Media Tools
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. AI-Enhanced Media Production Tools
 
@@ -135,6 +131,10 @@ For creative professionals, AI could streamline tasks in Apple's creativity tool
 **Also: [Want Apple's new AI features without buying a new iPhone? Try this app](https://www.zdnet.com/article/want-apples-new-ai-features-without-buying-a-new-iphone-try-this-app/)**
 
 ## Sustainability & Accessibility
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Sustainability and Environmental Tracking
 
@@ -162,6 +162,10 @@ AI could further [enhance accessibility for users with disabilities](https://www
 
 ## Cross-Ecosystem & Personalization
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. Gen AI Store & Broader AI Features for IoT Devices
 
 Apple could launch a dedicated Gen AI Store for AI-powered apps, enabling users to discover and download AI-driven applications for tasks like personal assistance, home automation, and media recommendations. This would also extend AI functionality to [Internet of Things](https://www.zdnet.com/article/what-is-the-internet-of-things-everything-you-need-to-know-about-the-iot-right-now/) (IoT) devices, such as [HomePod](https://www.zdnet.com/home-and-office/smart-home/apple-homepod-2023-review/) and [Apple TV](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/), allowing AI to automate daily routines and personalize experiences across the home.
@@ -173,10 +177,6 @@ Apple could launch a dedicated Gen AI Store for AI-powered apps, enabling users 
 **Use Case:** A user could download a home automation AI from the Gen AI Store, which coordinates energy usage and home activities based on daily routines, and learning patterns to optimize efficiency.
 
 **Also: [Buying an Apple Watch Series 10? Consider these 3 features before upgrading](https://www.zdnet.com/article/buying-an-apple-watch-series-10-consider-these-3-features-before-upgrading/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 10\. AI Learning and Personalization
 
@@ -228,18 +228,20 @@ While Apple's focus on privacy and on-device processing sets it apart, the compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-unlocking-youtube-live-potential-a-step-by-step-guide/"><u>[New] In 2024, Unlocking YouTube Live Potential A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/oung-prodigys-riches-soar-in-digital-world-fame-for-2024/"><u>[New] Young Prodigy's Riches Soar in Digital World Fame for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exploring-communication-tools-dissecting-discord-and-skype/"><u>[Updated] In 2024, Exploring Communication Tools Dissecting Discord and Skype</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-shatter-the-status-quo-with-these-instagram-9-methods-for-stardom/"><u>2024 Approved Shatter the Status Quo with These Instagram #9 Methods for Stardom</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-x6-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conquer-hxtsrexe-glitches-masterful-fixes-for-windows-11-users/"><u>Conquer HxTsr.exe Glitches - Masterful Fixes for Windows 11 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disable-windows-defender-on-windows-10-3-ways/"><u>Disable Windows Defender on Windows 10 - 3 Ways</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808276940-get-your-free-up-to-date-dell-drivers-for-windows-11-here/"><u>Get Your Free Up-to-Date Dell Drivers for Windows 11 Here</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-8-plus-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-solve-missing-audio-in-it-takes-two-steps-for-a-quiet-pc/"><u>How To Solve Missing Audio in 'It Takes Two': Steps For A Quiet PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808308093-quick-install-of-directx-on-your-pc-with-windows-11-or-10-effortless-downloads/"><u>Quick Install of DirectX on Your PC with Windows 11 or 10: Effortless Downloads!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-wolcen-pc-crashing-problem-now-running-smoothly/"><u>Resolving the 'Wolcen PC Crashing' Problem – Now Running Smoothly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808183505-transform-your-dvd-collection-to-digital-files-on-windows-11-in-minutes/"><u>Transform Your DVD Collection to Digital Files on Windows 11 in Minutes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-spherical-videos-on-the-go-iphones-social-media-blueprint/"><u>[New] In 2024, Spherical Videos on the Go IPhone's Social Media Blueprint</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-sidestep-the-norm-alternatives-to-vidma-screen-record/"><u>[Updated] Sidestep the Norm Alternatives to Vidma Screen Record</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-video-life-youtube-slide-insertion-for-2024/"><u>Bringing Video Life YouTube Slide Insertion for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/data-saving-techniques-for-efficient-texting-on-mobile-networks/"><u>Data-Saving Techniques for Efficient Texting on Mobile Networks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-s18-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo S18 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-communication-with-the-new-mozilla-thunderbird-update-52/"><u>Enhance Communication with the New Mozilla Thunderbird Update 52</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-steps-to-address-wmvcoredll-is-missing-errors-on-windows-systems/"><u>Essential Steps to Address 'wmvcore.dll Is Missing' Errors on Windows Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reality-redefined-examining-vr-today-and-upcoming-challenges/"><u>In 2024, Reality Redefined Examining VR Today & Upcoming Challenges</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-guide-for-aspiring-movie-makers-beyond-youtube/"><u>In 2024, The Ultimate Guide for Aspiring Movie Makers, Beyond YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplify-household-planning-with-our-top-picks-of-7-family-friendly-calendar-applications/"><u>Simplify Household Planning with Our Top Picks of 7 Family-Friendly Calendar Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-beginners-walkthrough-for-deploying-windows-1-groovy-on-fresh-hard-drives/"><u>The Beginner's Walkthrough for Deploying Windows 1 Groovy on Fresh Hard Drives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-evolution-continues-with-apples-brand-new-iphone-launch-event/"><u>The Evolution Continues with Apple's Brand-New iPhone Launch Event</u></a></li>
 </ul></div>
 

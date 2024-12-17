@@ -1,7 +1,7 @@
 ---
 title: How to Know When Someone Has Read Your Email on Gmail - A Step-by-Step Guide
-date: 2024-08-26T08:25:40.809Z
-updated: 2024-08-27T08:25:40.809Z
+date: 2024-12-11T17:19:47.355Z
+updated: 2024-12-17T19:17:23.296Z
 categories:
   - BestProducts
 description: This Article Describes How to Know When Someone Has Read Your Email on Gmail - A Step-by-Step Guide
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 ---
 
 ## How to Quickly Capture Your Screen on Windows 11 - Four Steps Inside
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -29,8 +34,9 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -41,14 +47,12 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -65,8 +69,9 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -76,8 +81,9 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -86,9 +92,6 @@ thumbnail: https://www.lifewire.com/thmb/-3XsnGtmD7oHbpPDYxwo8IlExYc=/400x300/fi
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -126,8 +129,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +136,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-tips-for-mov-saving-on-windows-10/"><u>[Updated] In 2024, Essential Tips for MOV Saving on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dormant-devices-alive-keyboard-plus-mouse-wake-windows-1011/"><u>Dormant Devices Alive! Keyboard + Mouse Wake Windows 10/11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-your-videography-premiere-to-youtube-upload-for-2024/"><u>Elevate Your Videography Premiere to YouTube Upload for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-and-restart-an-iphone-with-malfunctioning-buttons-step-by-step-tutorial/"><u>Fix and Restart an iPhone with Malfunctioning Buttons - Step by Step Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-iphone-se-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile iPhone SE online without SIM Card?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/laymans-land-easy-to-construct-mc-homes-unlocked/"><u>Layman's Land Easy-to-Construct MC Homes Unlocked</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-g22-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia G22 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-of-virtual-reality-unleashed-qualcomms-snapdragon-xr2plus-drives-new-era-for-google-and-samsung-vr-devices/"><u>The Future of Virtual Reality Unleashed: Qualcomm's Snapdragon XR2+ Drives New Era for Google and Samsung VR Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-magix-mixcrafts-features/"><u>The Ultimate Guide to Magix Mixcraft's Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/this-title-targets-users-looking-for-guidance-on-accessing-wwdc-content-as-well-as-highlights-what-insights-they-might-gain-from-attending-or-watching/"><u>This Title Targets Users Looking for Guidance on Accessing WWDC Content, as Well as Highlights What Insights They Might Gain From Attending or Watching.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-16-essential-nasa-technologies-integrated-into-daily-life/"><u>Top 16 Essential NASA Technologies Integrated Into Daily Life</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oneplus-ace-2v-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace OnePlus Ace 2V Location | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-the-way-we-take-notes-with-googles-innovative-notebooklm/"><u>Transforming the Way We Take Notes with Google's Innovative NotebookLM</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-resolving-issues-with-chatgpt-login-failures/"><u>Troubleshooting Steps: Resolving Issues with ChatGPT Login Failures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-dex-a-comprehensive-guide-to-decentralized-cryptocurrency-exchanges/"><u>Understanding DEX: A Comprehensive Guide to Decentralized Cryptocurrency Exchanges</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-staking-a-key-concept-in-cryptocurrencies-explained/"><u>Understanding Staking: A Key Concept in Cryptocurrencies Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-durability-timeline-of-electric-vehicle-batteries-in-tesla-cars/"><u>Understanding the Durability Timeline of Electric Vehicle Batteries in Tesla Cars</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-chatgpts-potential-the-ultimate-guide-to-utilizing-this-ai-chat-service-at-zero-cost/"><u>Unlocking ChatGPT's Potential: The Ultimate Guide to Utilizing This AI Chat Service at Zero Cost</u></a></li>
+</ul></div>
 

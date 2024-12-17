@@ -1,7 +1,7 @@
 ---
 title: Explore Premier British Shows Currently Airing on Netflix Platforms
-date: 2024-08-26T08:23:53.828Z
-updated: 2024-08-27T08:23:53.828Z
+date: 2024-12-16T17:01:13.027Z
+updated: 2024-12-17T17:59:48.885Z
 categories:
   - BestProducts
 description: This Article Describes Explore Premier British Shows Currently Airing on Netflix Platforms
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -24,11 +28,25 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/uFfTN6PO_0LGSbwPI2qa0DJa9KI=/400x300/fi
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +106,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-direct-guide-to-modifying-macs-default-snapshots/"><u>[New] Direct Guide to Modifying Mac's Default Snapshots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-the-art-of-secretive-insta-story-consumption/"><u>[New] In 2024, Mastering the Art of Secretive Insta Story Consumption</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-masterpiece-makers-editing-images-with-invisible-text/"><u>[New] In 2024, Masterpiece Makers Editing Images with Invisible Text</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-shortcut-to-success-the-top-5-youtube-link-trimming-apps/"><u>[Updated] In 2024, Shortcut to Success The Top 5 YouTube Link Trimming Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breathless-races-showcasing-2022s-elite-snowboard-cross-at-winter-olympics/"><u>2024 Approved Breathless Races Showcasing 2022'S Elite Snowboard Cross at Winter Olympics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722859202980-evaluating-the-value-of-minecraft-realms-for-players/"><u>Evaluating the Value of Minecraft Realms for Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gmail-shortcuts-revealed-how-to-batch-pick-multiple-emails-at-once/"><u>Gmail Shortcuts Revealed: How to Batch Pick Multiple Emails at Once</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comparing-the-best-in-class-for-4k-screen-reality/"><u>In 2024, Comparing the Best in Class for 4K Screen Reality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tesla-robotaxi-update-a-closer-look-at-rumored-costs-launch-dates-and-vehicle-specifications/"><u>Tesla Robotaxi Update - A Closer Look at Rumored Costs, Launch Dates, and Vehicle Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-anticipated-google-pixel-tablets-release-timeline-unveiled-key-features-inside/"><u>The Anticipated Google Pixel Tablet's Release Timeline Unveiled - Key Features Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-shoppers-list-for-picking-the-perfect-video-recording-solution/"><u>The Ultimate Shopper's List for Picking the Perfect Video Recording Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-iphones-for-gamers-finding-the-ultimate-mobile-gaming-experience/"><u>Top iPhones for Gamers: Finding the Ultimate Mobile Gaming Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c32-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia C32 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Delete All Emails in Gmail App
-date: 2024-08-26T08:25:31.925Z
-updated: 2024-08-27T08:25:31.925Z
+date: 2024-12-11T18:31:23.773Z
+updated: 2024-12-17T16:11:18.163Z
 categories:
   - BestProducts
 description: This Article Describes How to Delete All Emails in Gmail App
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -33,9 +37,19 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -45,6 +59,10 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## If None of These Tips Fixed the Problem
 
  If you tried all these tips and still don't hear your incoming calls, it's time to consult the experts.[Make an Apple Genius Bar appointment](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at your local Apple Store or[contact an Apple-authorized service provider](https://support.apple.com/repair) , and bring in your iPhone for inspection and repair.
@@ -52,8 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +119,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-best-screenshots-tools-series/"><u>[New] In 2024, Best Screenshots Tools Series</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-realme-c67-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Realme C67 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-enhance-your-video-content-how-to-add-subtitles-and-captions-in-final-cut-pro-x/"><u>New In 2024, Enhance Your Video Content How to Add Subtitles and Captions in Final Cut Pro X</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tutorial-launching-windows-10s-group-policy-tool-easily/"><u>Quick Tutorial: Launching Windows 10'S Group Policy Tool Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-verticalhorizontal-monitor-alignment-problems-on-your-desktop-easy-fixes-and-tips/"><u>Resolving Vertical/Horizontal Monitor Alignment Problems on Your Desktop - Easy Fixes and Tips!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-windows-10-dpc-watchdog-errors-effectively/"><u>Resolving Windows 10 DPC Watchdog Errors Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-sharing-with-windows-11-display-phone-pictures-on-your-desktop/"><u>Seamless Sharing with Windows 11 - Display Phone Pictures on Your Desktop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/select-your-dreams-best-vr-bike-trails-for-2024/"><u>Select Your Dreams Best VR Bike Trails for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/stabilizing-shaky-images-a-realistic-benefit-or-hype-for-2024/"><u>Stabilizing Shaky Images A Realistic Benefit or Hype for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-determining-available-storage-on-your-windows-10-pc/"><u>Step-by-Step Guide: Determining Available Storage on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-and-controlling-your-printer-on-windows-11/"><u>Step-by-Step Guide: Setting Up and Controlling Your Printer on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-9-best-free-to-play-games-for-the-nintendo-switch/"><u>The 9 Best Free-to-Play Games for the Nintendo Switch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-widget-issues-in-windows-11/"><u>Troubleshooting Tips: Resolving Widget Issues in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutorial-how-to-insert-notes-into-windows-11-folder-structures/"><u>Tutorial: How to Insert Notes Into Windows 11 Folder Structures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-mastering-the-art-of-writing-discs-in-windows-10-environment/"><u>Ultimate Tutorial: Mastering the Art of Writing Discs in Windows 10 Environment</u></a></li>
+</ul></div>
 

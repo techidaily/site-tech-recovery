@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2024-12-05T21:10:00.879Z
-updated: 2024-12-10T21:02:24.810Z
+date: 2024-12-10T17:49:13.459Z
+updated: 2024-12-17T16:59:48.296Z
 tags:
   - apple
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -90,10 +90,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -101,6 +97,10 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -128,7 +128,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -140,10 +140,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -157,10 +153,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -173,7 +165,15 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,16 +212,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-master-artistic-freedom-with-the-top-10-mac-drawings/"><u>[New] Master Artistic Freedom with the Top 10 Mac Drawings</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/comprehensive-directory-of-inexpensive-stock-images/"><u>Comprehensive Directory of Inexpensive Stock Images</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-common-confusions-in-twitch-chat-for-fresh-streamers/"><u>Decoding Common Confusions in Twitch Chat for Fresh Streamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-the-frustrating-livekernelevent-144-fault/"><u>Expert Tips for Correcting the Frustrating 'LiveKernelEvent 144' Fault</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-motorola-moto-g13-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Motorola Moto G13 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-ace-2v-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus Ace 2V Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-fix-overcoming-stop-0x000-0007b-bsod-hurdles-with-ease/"><u>Mastering the Fix: Overcoming STOP 0X000 0007B BSOD Hurdles with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-a-guide-to-playing-modern-warfare-successfully-on-a-pc/"><u>Overcoming Launch Problems: A Guide to Playing Modern Warfare Successfully on a PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-the-problem-of-non-responsive-mozilla-thunderbird-application/"><u>Overcoming the Problem of Non-Responsive Mozilla Thunderbird Application</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-authorization-problems-solve-your-401-error/"><u>Troubleshooting Authorization Problems – Solve Your '401 Error'</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-way-to-youtube-studio-a-comprehensive-overview/"><u>[New] 2024 Approved Find Your Way to YouTube Studio A Comprehensive Overview</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-leverage-both-platforms-youtube-and-facebook-integration-for-2024/"><u>[New] Leverage Both Platforms YouTube and Facebook Integration for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-prime-techniques-converting-visual-content-on-pinterest-to-mp3s-for-2024/"><u>[Updated] Prime Techniques Converting Visual Content on Pinterest To MP3s for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-precision-the-best-39-video-trimming-tools-from-google-play/"><u>2024 Approved Perfect Precision The Best 39 Video-Trimming Tools From Google Play</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aimp3-movavi/"><u>網路直接無限制地從AI到MP3的轉換 - 利用Movavi工具</u></a></li>
+<li><a href="https://win11.techidaily.com/break-free-from-stagnant-windows-update-status/"><u>Break Free From Stagnant Windows Update Status</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cambia-tus-archivos-mp4-a-formato-de-video-mov-sin-coste-con-el-convertidor-mas-rapido-y-facil-online-movavi/"><u>Cambia Tus Archivos MP4 a Formato De Vídeo MOV Sin Coste Con El Convertidor Más Rápido Y Fácil Online: Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-gratuita-desde-mp3mp4-a-formatos-wmv-en-internet-el-mejor-sexto-sin-pago/"><u>Conversión Gratuita Desde MP3/MP4 a Formatos WMV en Internet: El Mejor Sexto Sin Pago</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertissez-votre-fichier-ogm-en-mp4-de-gre-a-gre-sans-cout-movavi/"><u>Convertissez Votre Fichier OGM en MP4 De Gré À Gré Sans Coût - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convierte-tu-gif-al-formato-swf-sin-gastar-nada-usando-el-servicio-de-movavi-en-linea/"><u>Convierte Tu GIF Al Formato SWF Sin Gastar Nada Usando El Servicio De Movavi en Línea</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convierte-tu-video-rmvb-gratis-al-formato-mkv-usando-el-servicio-en-linea-de-movavi/"><u>Convierte Tu Vídeo RMVB Gratis Al Formato MKV Usando El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-drivers-for-nvidia-rtx-2080-on-windows-1178/"><u>Download the Newest Drivers for NVIDIA RTX 2080 on Windows 11/7/8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-the-best-17-image-editing-utilities/"><u>Guide to the Best 17 Image Editing Utilities</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-12-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 12 Pro Space | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-the-issue-of-error-code-0x803f8001-on-windows-11-and-10-for-a-smooth-minecraft-launcher-experience/"><u>Overcoming the Issue of 'Error: Code 0X803F8001' On Windows 11 and 10 for a Smooth Minecraft Launcher Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-16-excelentes-aplicaciones-de-camara-web-gratis-para-windows-10-movavi/"><u>Top 16 Excelentes Aplicaciones De Cámara Web Gratis Para Windows 10 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mov-webm-movavi/"><u>인터넷을 통해 가장 좋은 MOV-WebM 전환 - Movavi</u></a></li>
 </ul></div>
 

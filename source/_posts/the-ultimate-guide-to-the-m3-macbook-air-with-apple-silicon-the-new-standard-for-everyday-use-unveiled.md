@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the M3 MacBook Air with Apple Silicon - The New Standard for Everyday Use Unveiled !
-date: 2024-12-06T04:32:04.646Z
-updated: 2024-12-11T03:32:41.148Z
+date: 2024-12-15T16:35:40.752Z
+updated: 2024-12-17T19:13:16.187Z
 tags:
   - apple
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -43,6 +47,10 @@ First, the best thing about the arrival of the M3 MacBook Air models might be th
 One more thing to keep in mind if you're considering buying the 15-inch M3 MacBook Air: if you configure it with 16GB of RAM and 512GB of storage, then you'll be at $1,699 and quickly getting into 14-inch M3 MacBook Pro territory in terms of cost. If you're going to go there, I'd recommend opting for the 14-inch M3 MacBook Pro instead, because of its much better display and sound, and the fact that you can hook it up to two external monitors and still use the laptop's monitor as a third display.
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -68,7 +76,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -76,10 +84,6 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -108,10 +112,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | Photo 3                      | 0:17     |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
 
@@ -156,7 +156,7 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -186,7 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,18 +235,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-allocating-budget-for-youtube-video-success/"><u>[New] In 2024, Allocating Budget for YouTube Video Success</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-microvid-virtuoso/"><u>[New] In 2024, MicroVid Virtuoso</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-visual-storytelling-crafting-impressive-imovie-video-intros/"><u>[Updated] 2024 Approved Visual Storytelling Crafting Impressive iMovie Video Intros</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-approaches-to-network-broadcast-with-vlc/"><u>2024 Approved Innovative Approaches to Network Broadcast with VLC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-ways-to-correct-magic-mouse-movement-problems/"><u>Effortless Ways to Correct Magic Mouse Movement Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-how-to-restart-your-pc-when-theres-no-sign-of-power/"><u>Expert Tips on How to Restart Your PC When There's No Sign of Power</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95935314-9781844093403-gem-water/"><u>Gem Water | Free Book</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/gopro-hero5-captured-life-review/"><u>GoPro Hero5 Captured Life Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/masterclass-controlling-and-stopping-app-background-functionality-on-android-systems/"><u>Masterclass: Controlling and Stopping App Background Functionality on Android Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-close-up-techniques-with-videoleap-for-2024/"><u>Mastering Close-Up Techniques with Videoleap for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reviving-your-roku-experience-how-to-activate-missing-subtitles/"><u>Reviving Your Roku Experience – How To Activate Missing Subtitles</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a15-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A15 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-roblox-access-problems-is-it-a-broad-service-interruption/"><u>Troubleshooting Roblox Access Problems: Is It a Broad Service Interruption?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elite-introductory-editors-for-app-platforms-for-2024/"><u>[New] Elite Introductory Editors for App Platforms for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>[New] In 2024, 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-panoramic-precision-battle-gear-vs-lgcam-showdown-for-2024/"><u>[Updated] Panoramic Precision Battle Gear Vs LGCam Showdown for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-communication-the-art-of-using-zoom-in-win11/"><u>[Updated] Streamlining Communication The Art of Using Zoom in Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wavwma-movavi/"><u>線上免費轉換WAV為WMA - Movavi音檔變更器</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversione-rapida-e-gratuita-da-flac-a-mp4-con-movavi-ottieni-risultati-eccellenti-senza-costi-aggiuntivi/"><u>Conversione Rapida E Gratuita Da FLAC a MP4 Con Movavi - Ottieni Risultati Eccellenti Senza Costi Aggiuntivi</u></a></li>
+<li><a href="https://solve-help.techidaily.com/how-to-easily-extract-and-save-mp3-from-mp4-videos-using-windows-amoji-a-step-by-step-guide-for-no-cost-conversion/"><u>How to Easily Extract and Save MP3 From MP4 Videos Using Windows Amoji: A Step-by-Step Guide for No Cost Conversion</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-11x-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 11X 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/los-13-mejores-aplicaciones-de-grabacion-de-audio-en-linea-sin-coste-guia-integral-por-movavi/"><u>Los 13 Mejores Aplicaciones De Grabación De Audio en Línea Sin Coste: Guía Integral Por Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-convertir-facilmente-archivos-tta-a-formato-flac-gratuito-en-linea/"><u>Movavi: Convertir Fácilmente Archivos TTA a Formato FLAC Gratuito en Línea</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/riprendere-ed-esportare-immagini-da-raw-a-formato-jpeg-senza-costo-tutorial-di-conversione-con-movavi/"><u>Riprendere Ed Esportare Immagini Da RAW a Formato JPEG Senza Costo: Tutorial Di Conversione Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-utrolige-instrumenter-for-optimalisering-af-videomaterialets-omfang-i-online-og-offline-settings/"><u>Top 5 Utrolige Instrumenter For Optimalisering Af Videomaterialets Omfang - I Online Og Offline Settings</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-best-video-editing-apps-for-vloggers-top-picks-for-ios-and-android/"><u>Updated 2024 Approved The Best Video Editing Apps for Vloggers Top Picks for iOS & Android</u></a></li>
 </ul></div>
 

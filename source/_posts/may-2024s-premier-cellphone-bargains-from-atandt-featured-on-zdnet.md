@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2024-12-03T21:29:51.982Z
-updated: 2024-12-11T00:00:41.516Z
+date: 2024-12-16T19:24:26.821Z
+updated: 2024-12-17T17:01:59.608Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -120,10 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -158,12 +150,16 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
@@ -171,7 +167,7 @@ It's true that carriers are the most aggressive with their offers when it's year
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -179,13 +175,17 @@ In general, there is no difference in how much money you save whether you shop o
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,17 +236,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-a-quest-for-collective-ownership-art-without-boundaries/"><u>[New] 2024 Approved A Quest for Collective Ownership Art Without Boundaries</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-humor-unleashed-top-meme-creator/"><u>[New] 2024 Approved Humor Unleashed Top Meme Creator</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-content-with-external-weblinks-in-insta/"><u>[New] Enhancing Content with External Weblinks in Insta</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-rethink-periscope-6-innovative-video-apps-for-iphones-and-android-for-2024/"><u>[Updated] Rethink Periscope 6 Innovative Video Apps for iPhones & Android for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-analysis-top-5-high-end-recording-apps/"><u>2024 Approved Expert Analysis Top 5 High-End Recording Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-the-nuances-how-ar-vr-mr-and-xr-stand-out-from-each-other/"><u>Deciphering the Nuances: How AR, VR, MR and XR Stand Out From Each Other</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvdwindows10dvd/"><u>DVDにビデオコンバート！Windows10マシンから高品質なDVDへの移行手順：スペシャル無料ツールパターン</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/google-pixels-latest-rumors-expected-price-tag-probable-release-date-and-specs-overview/"><u>Google Pixel's Latest Rumors: Expected Price Tag, Probable Release Date & Specs Overview</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-poco-x5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco X5 Without Password | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-your-instagram-narrative-how-to-successfully-tackle-non-uploading-issues-with-stories/"><u>Mastering Your Instagram Narrative: How To Successfully Tackle Non-Uploading Issues with Stories</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/preserve-important-instagram-chat-threads-a-detailed-guide-on-pinned-messages/"><u>Preserve Important Instagram Chat Threads: A Detailed Guide on Pinned Messages</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-missing-or-not-detected-msidll-error-messages/"><u>Step-by-Step Guide: Correcting 'Missing' Or 'Not Detected' msi.dll Error Messages</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-halo-ones-dx12-failure-at-launching/"><u>[FIX] Halo One's DX12 Failure at Launching</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamline-your-social-media-uploading-on-twitter/"><u>[New] 2024 Approved Streamline Your Social Media Uploading on Twitter</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-enthralling-type-mobility-setups/"><u>[New] Enthralling Type Mobility Setups</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-counteract-crashes-in-win-11s-photo-viewer/"><u>[New] How to Counteract Crashes in Win 11'S Photo Viewer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-flashy-feeds-to-fm-sounds-the-instagram-to-mp3-methodology/"><u>[Updated] In 2024, From Flashy Feeds to FM Sounds The Instagram-to-Mp3 Methodology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-visibility-on-social-media-adding-a-pinterest-section-to-your-facebook-profile/"><u>Boosting Visibility on Social Media: Adding a Pinterest Section to Your Facebook Profile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-for-disabling-crisis-alerts-on-your-ios-gadget/"><u>Comprehensive Tutorial for Disabling Crisis Alerts on Your iOS Gadget</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortlessly-convert-images-from-pgm-to-tiff-format-on-the-web-try-movavi-now/"><u>Effortlessly Convert Images From PGM to TIFF Format on the Web - Try Movavi Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-missing-msvcrtdll-effective-solutions-for-windows-users/"><u>Eliminate 'Missing msvcrt.dll': Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-asus-rog-phone-7-ultimate-phone-by-drfone-android/"><u>How to Reset a Locked Asus ROG Phone 7 Ultimate Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/join-forces-with-a-companion-for-ultimate-pokemon-catching-success/"><u>Join Forces with a Companion for Ultimate Pokémon Catching Success!</u></a></li>
+<li><a href="https://games-able.techidaily.com/leadership-in-gaming-secure-early-spiderman-2-edition/"><u>Leadership in Gaming: Secure Early SPIDERMAN 2 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-your-fitness-tracker-options-a-look-at-5-important-points-before-buying/"><u>Navigating Through Your Fitness Tracker Options: A Look at 5 Important Points Before Buying</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ottimizzazione-digitale-con-digiarty-professionalisti-della-conversione-e-conservazione-video-and-dvd/"><u>Ottimizzazione Digitale Con Digiarty – Professionalisti Della Conversione E Conservazione Video & DVD</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx933dll-error-a-comprehensive-guide/"><u>Resolving d3dx9_33.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamlined-surfing-discover-alternative-methods-to-connect-online-without-cables-or-phones/"><u>Streamlined Surfing: Discover Alternative Methods to Connect Online without Cables or Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-your-non-functional-samsung-soundbar/"><u>Troubleshooting Tips: Resolving Issues with Your Non-Functional Samsung Soundbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-live-sports-install-and-watch-fubotv-on-your-fire-tv-device/"><u>Unlocking Live Sports: Install and Watch FuboTV on Your Fire TV Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & Mac Programs According to ZDNet
-date: 2024-12-10T08:50:11.830Z
-updated: 2024-12-11T07:09:06.369Z
+date: 2024-12-11T18:14:11.300Z
+updated: 2024-12-17T17:37:10.013Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [Home Office Tours ZDNet contributors welcome you inside their home-based workspaces and show off the tech gear that drives their productivity.  Read now](https://www.zdnet.com/topic/home-office-tours/)
@@ -29,6 +33,10 @@ A few of the entries on this list are genuine old-timers that I've been using on
 Of course, this selection reflects my work habits and my personal preferences. Your needs are probably different, so your list will undoubtedly be different from mine. I encourage you to share your favorite software in the comments section below.
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Productivity
 
@@ -50,11 +58,11 @@ Show less
 
 [View now at Tweeten](https://tweetenapp.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tweeten
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It's TweetDeck on steroids
 
@@ -84,7 +92,15 @@ Show less
 
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adobe Acrobat Pro DC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### From the inventor of the PDF standard
 
@@ -100,10 +116,6 @@ Show less
 
 ## Quicken Home and Business
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### I hate it, but I use it
 
 A gazillion years ago, a famous household brand sold a lot of mouthwash with ads whose tagline went something like: "You hate the taste, but you use it twice a day." That, to me, is the perfect description of Quicken for Windows, which is occasionally infuriating to use, comes with a steep learning curve, and includes a virtual guarantee that you will run into some terribly annoying bug roughly once a quarter. Despite all that, it's better than any of the alternatives. I know. I've tried them all.
@@ -118,14 +130,10 @@ Show less
 
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Edge (Chromium)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
@@ -143,7 +151,7 @@ Show less
 ## 1Password
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everyone needs a password manager
@@ -158,11 +166,11 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Workona
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The cleanest way to organize browser tabs
 
@@ -177,10 +185,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Spotify Music
 
@@ -198,10 +202,6 @@ Show less
 
 ## VLC Media Player
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Free, open source, handles every format imaginable
 
 This free, open source tool has been around forever. (I wrote about it nearly a decade ago, when it was the best [free alternative DVD player](https://www.zdnet.com/article/if-vlc-can-ship-a-free-dvd-player-why-cant-microsoft/) on the market.) It plays just about every media format (including Blu-ray discs), it doesn't require downloading dodgy codec packs to work, and it runs on every conceivable platform. On Windows 10, make sure to install the [full Windows package](http://www.videolan.org/vlc/download-windows.html), not the limited-feature variant in the Windows Store.
@@ -213,7 +213,7 @@ Show less
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MediaMonkey
@@ -256,19 +256,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/determining-the-ideal-speed-for-your-personal-computer-a-comprehensive-guide/"><u>Determining the Ideal Speed for Your Personal Computer: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/digital-camera-selection-for-the-budget-savvy/"><u>Digital Camera Selection for the Budget-Savvy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elite-selection-top-5-personal-item-trackers/"><u>Elite Selection: Top 5 Personal Item Trackers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-reno-11-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo Reno 11 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/no-more-wi-fi-struggles-easy-tips-for-restoring-ipad-internet-connection/"><u>No More Wi-Fi Struggles: Easy Tips for Restoring iPad Internet Connection</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/optimizing-playback-speed-a-guide-for-spotify-users/"><u>Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
-<li><a href="https://win-net.techidaily.com/resolution-guide-for-boot-device-not-found-errors-on-your-windows-11-and-ssd-setup/"><u>Resolution Guide for 'Boot Device Not Found' Errors on Your Windows 11 and SSD Setup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-the-ocidll-not-detected-problem/"><u>Step-by-Step Guide: Correcting the 'Oci.Dll Not Detected' Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streaming-the-live-samsung-unboxing-event-a-step-by-step-guide/"><u>Streaming the Live Samsung Unboxing Event: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-capturing-with-iphones-micro-and-macro-lenses/"><u>The Art of Capturing with iPhone's Micro and Macro Lenses</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-how-to-solve-bluetooth-issues-in-windows-11/"><u>Troubleshooting & Fixing: How to Solve Bluetooth Issues in Windows 11</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-your-broken-cd-rom-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Troubleshooting Your Broken CD-ROM on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-correcting-the-missing-pdhdll-file-mistake/"><u>Understanding and Correcting the Missing pdh.dll File Mistake</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-15-pioneering-online-education-websites-beyond-udemy/"><u>[New] 15 Pioneering Online Education Websites Beyond Udemy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-beats-optimal-background-music-for-vids/"><u>[New] Unveiling Beats Optimal Background Music for Vids</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-effortless-steps-to-blur-distractions-in-google-meets-for-2024/"><u>[Updated] Effortless Steps to Blur Distractions in Google Meets for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ai-assisted-the-ultimate-list-of-podcast-title-makers-for-2024/"><u>AI-Assisted The Ultimate List of Podcast Title Makers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-finest-in-ceiling-sound-technology/"><u>Discover the Finest In-Ceiling Sound Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-setting-up-your-new-echo-dot/"><u>Easy Steps: Setting Up Your New Echo Dot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eight-tips-every-shopper-needs-to-know-before-committing-to-a-new-desktop-pc/"><u>Eight Tips Every Shopper Needs to Know Before Committing to a New Desktop PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-xiaomi-redmi-note-12-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Xiaomi Redmi Note 12 Pro 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-charge-a-guide-to-locating-ev-stations-with-google-maps/"><u>Navigating the Charge: A Guide to Locating EV Stations with Google Maps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/next-level-display-tech-comparing-neo-qled-to-oled-in-todays-market/"><u>Next-Level Display Tech: Comparing Neo QLED to OLED in Today's Market</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-the-missing-propsysdll-error-a-comprehensive-guide/"><u>Overcoming the Missing PropSys.DLL Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strengthening-resilience-how-recent-issues-with-microsoft-highlight-the-importance-of-diversifying-government-technology-partners/"><u>Strengthening Resilience: How Recent Issues with Microsoft Highlight The Importance of Diversifying Government Technology Partners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mp4-en-video-au-format-vob-gratuitement-en-ligne-movavi-guide/"><u>Toutes Les Étapes Pour Transformer Un Fichier MP4 en Vidéo Au Format VOB Gratuitement en Ligne - Movavi Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-computer-harness-the-true-potential-of-wintools/"><u>Transform Your Computer: Harness the True Potential of WinTools</u></a></li>
 </ul></div>
 

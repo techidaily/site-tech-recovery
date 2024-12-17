@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Plans & Promotions in May 2024 - Insider's Guide
-date: 2024-12-05T12:20:36.239Z
-updated: 2024-12-11T11:28:32.360Z
+date: 2024-12-11T17:26:02.581Z
+updated: 2024-12-17T17:23:13.617Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -116,10 +120,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -134,6 +134,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -143,6 +147,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [AT&T 15W wireless charging pad: $10 (save $19) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html)
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
 
@@ -159,33 +167,25 @@ When we made our selection for the best AT&T deals, we wanted to include options
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,22 +236,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-remedying-dark-images-while-streaming-youtube-videos/"><u>[New] 2024 Approved Remedying Dark Images While Streaming YouTube Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premier-hd-visual-capture-systems/"><u>[New] Premier HD Visual Capture Systems</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-straightforward-strategies-for-podcast-streaming/"><u>[New] Straightforward Strategies for Podcast Streaming</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-micro-movie-plot-draft/"><u>[Updated] In 2024, Micro-Movie Plot Draft</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/determining-roblox-status-is-it-down-for-everyone-or-just-your-network/"><u>Determining Roblox Status – Is It Down for Everyone or Just Your Network?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/digiarty-celebrates-18th-anniversary-exclusive-special-project-unveiled/"><u>DigiArty Celebrates 18Th Anniversary: Exclusive Special Project Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-email-interactions-unlocking-the-power-of-google-duets-on-gmail-platforms/"><u>Enhancing Email Interactions: Unlocking the Power of Google Duets on Gmail Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-resolve-msvcr90dll-file-doesnt-exist-on-your-pc/"><u>How to Address and Resolve MSVCR90.DLL File Doesn't Exist on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-d3dx940dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_40.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-keep-your-snaps-secret-stealthy-photo-taking-tricks-for-snapchat/"><u>In 2024, Keep Your Snaps Secret Stealthy Photo Taking Tricks for Snapchat</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/metro-and-t-mobile-collaboration-insights-on-the-rules-governing-unlimited-data-roaming-practices/"><u>Metro and T-Mobile Collaboration: Insights on the Rules Governing Unlimited Data Roaming Practices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-halting-persistent-android-application-processes/"><u>Step-by-Step Guide: Halting Persistent Android Application Processes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/taking-a-closer-look-at-teslas-cybertruck-alternative-for-lawn-care-surprisingly-impressive-performance-zdnet/"><u>Taking a Closer Look at Tesla's Cybertruck Alternative for Lawn Care: Surprisingly Impressive Performance | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-dealing-with-the-non-existent-d3dx9email-protected-error/"><u>Troubleshooting Steps: Dealing with the Non-Existent D3dx9_([email Protected]) Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-potential-of-your-samsung-tv-the-complete-remote-access-tutorial/"><u>Unlock the Potential of Your Samsung TV: The Complete Remote Access Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-next-for-google-pixel-projecting-cost-launch-dates-and-new-hardware-specs-in-focus/"><u>What's Next for Google Pixel: Projecting Cost, Launch Dates & New Hardware Specs in Focus</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-dynamic-gifs-from-video-an-illustrative-tutorial/"><u>[New] Crafting Dynamic Gifs From Video An Illustrative Tutorial</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-advanced-techniques-for-bio-linking-on-tiktok-for-2024/"><u>[Updated] Advanced Techniques for Bio Linking on TikTok for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-editors-for-virtual-backgrounds-spectrumswitch-studio/"><u>[Updated] In 2024, Top Editors for Virtual Backgrounds SpectrumSwitch Studio</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breaking-down-the-thinner-ps5-version-dive-into-news-release-date-price-range-and-technical-details/"><u>Breaking Down the Thinner PS5 Version: Dive Into News, Release Date, Price Range & Technical Details</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/chorus-cache-secure-and-inspect-audio-recordings/"><u>Chorus Cache Secure & Inspect Audio Recordings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-your-textbooks-to-pdf-format-with-vitalsource-seamless-digital-solutions/"><u>Convert Your Textbooks to PDF Format with Vitalsource: Seamless Digital Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-bespove-ai-interactions-expert-tips-for-designing-a-customized-chatgpt-implementation/"><u>Crafting Bespove AI Interactions: Expert Tips for Designing a Customized ChatGPT Implementation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/delving-into-meta-ai-unveiling-the-power-behind-advanced-algorithms/"><u>Delving Into Meta AI: Unveiling the Power Behind Advanced Algorithms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-legacy-of-yahoo-messenger-a-comprehensive-guide/"><u>Exploring the Legacy of Yahoo! Messenger: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-connect-apple-homepod-to-a-tv/"><u>How to Connect Apple HomePod to a TV</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c32-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C32 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-5-free-video-compression-apps-for-ios-devices/"><u>In 2024, Top 5 Free Video Compression Apps for iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-issue-what-to-do-when-you-cant-find-libeay32dll/"><u>Resolving the Issue: What to Do When You Can't Find Libeay32.dll</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-changing-your-smartphones-perceived-location-accurately/"><u>Step-by-Step Tutorial: Changing Your Smartphone's Perceived Location Accurately</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stream-fandangos-best-picks-at-home-with-this-easy-apple-tv-setup/"><u>Stream Fandango's Best Picks at Home with This Easy Apple TV Setup</u></a></li>
 </ul></div>
 

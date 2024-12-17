@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Unmissable Christmas Spur-of-the-Moment Sales at ZDNet
-date: 2024-12-04T06:26:48.385Z
-updated: 2024-12-11T00:41:16.598Z
+date: 2024-12-10T18:04:57.387Z
+updated: 2024-12-17T17:56:51.996Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,18 +123,24 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dial-in-the-ideal-aspect-ratio-for-stunning-youtube-videos/"><u>[Updated] 2024 Approved Dial in the Ideal Aspect Ratio for Stunning YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-compreeved-guide-to-saving-and-storing-reels-for-2024/"><u>[Updated] The Compreeved Guide to Saving and Storing Reels for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-watch-chat-guide-seamless-ways-to-reach-out-to-loved-ones-according-to-zdnet/"><u>Apple Watch Chat Guide: Seamless Ways to Reach Out to Loved Ones, According to ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-iphone-models-for-gamers-in-2e2023-a-comprehensive-guide/"><u>Best iPhone Models for Gamers in 2E2023: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-15-premium-free-tools-for-quick-uninstalling/"><u>Discover the Ultimate List: 15 Premium-Free Tools for Quick Uninstalling</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortlessly-incorporate-a-line-into-your-word-file-with-these-simple-techniques/"><u>Effortlessly Incorporate a Line Into Your Word File with These Simple Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-essential-web-portals-delivering-impeccable-text-effects/"><u>Explore Essential Web Portals Delivering Impeccable Text Effects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guida-ai-migliori-programmi-per-telecamere-ip-le-alternative-libere-al-2024-settembre-confrontate-con-movavi/"><u>Guida Ai Migliori Programmi per Telecamere IP: Le Alternative Libere Al 2024 Settembre, Confrontate Con Movavi!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-your-game-from-crashing-solutions-for-playing-forza-horizon-3-on-pc/"><u>How to Stop Your Game From Crashing: Solutions for Playing Forza Horizon 3 on PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/no-wi-fi-no-problem-discover-top-gaming-apps-for-android/"><u>No Wi-Fi, No Problem! Discover Top Gaming Apps for Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spotlight-on-snapchat-a-step-by-step-guide-for-2024/"><u>Spotlight on Snapchat A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamlining-your-tunes-how-to-bridge-multiple-bluetooth-speakers-together/"><u>Streamlining Your Tunes: How To Bridge Multiple Bluetooth Speakers Together</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-the-top-8-streaming-services-for-television/"><u>The Ultimate Guide to the Top 8 Streaming Services for Television</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-step-by-step-to-superior-image-clarity-by-removing-backgrounds-using-affinity/"><u>[New] 2024 Approved Step-by-Step to Superior Image Clarity by Removing Backgrounds Using Affinity</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-beginners-guide-start-filming-with-ease-using-logitech-camera/"><u>[New] In 2024, Beginner's Guide Start Filming with Ease Using Logitech Camera</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outubes-shorts-thumbnail-dilemnas-and-quick-fixes/"><u>[New] YouTube's Shorts Thumbnail Dilemnas & Quick Fixes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-expert-tips-for-slide-presentation-with-youtube/"><u>[Updated] 2024 Approved Expert Tips for Slide Presentation with YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-become-a-canvas-connoisseur-with-these-10-tips-for-2024/"><u>[Updated] Become a Canvas Connoisseur with These 10 Tips for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-grandest-clash-of-titans-a-compilation-of-the-top-7-total-war-skirmishes-for-2024/"><u>[Updated] Grandest Clash of Titans A Compilation of the Top 7 Total War Skirmishes for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-10-speedy-gaming-apps-for-mobile-and-desktop/"><u>2024 Approved Top 10 Speedy Gaming Apps for Mobile and Desktop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amusing-iphoneipad-prank-ideas-how-to-tease-friends-with-technology/"><u>Amusing iPhone/iPad Prank Ideas: How to Tease Friends with Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-ipad-models-mini-vs-air-find-out-which-suits-you-best/"><u>Comparing iPad Models: Mini vs Air - Find Out Which Suits You Best</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-a-total-permanent-deletion-of-your-yahoo-mail-address/"><u>Expert Tips for a Total Permanent Deletion of Your Yahoo Mail Address</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-up-space-a-comprehensive-method-to-empty-cache-on-android-devices/"><u>Free Up Space: A Comprehensive Method to Empty Cache on Android Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-adjust-your-computers-network-discovery-settings-on-windows-11/"><u>Guide: Adjust Your Computer's Network Discovery Settings on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-7-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 7 Smoothly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-tecno-pova-5-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-quick-travel-a-guide-to-utilizing-teleport-commands-in-minecraft/"><u>Mastering Quick Travel: A Guide to Utilizing Teleport Commands in Minecraft</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-mirroring-mac-displays-to-televisions-using-airplay-technology/"><u>Step-by-Step Tutorial on Mirroring Mac Displays to Televisions Using AirPlay Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-step-by-step-process-of-tracking-down-a-private-number/"><u>The Comprehensive Step-by-Step Process of Tracking Down a Private Number</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncovering-hidden-lost-contacts-how-to-get-back-your-erased-android-numbers/"><u>Uncovering Hidden Lost Contacts: How to Get Back Your Erased Android Numbers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-the-art-of-closer-views-on-microsoft-teams-for-2024/"><u>Unveiling the Art of Closer Views on Microsoft Teams for 2024</u></a></li>
 </ul></div>
 

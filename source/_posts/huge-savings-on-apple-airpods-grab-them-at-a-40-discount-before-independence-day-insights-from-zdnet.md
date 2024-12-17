@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet"
-date: 2024-12-06T08:41:57.774Z
-updated: 2024-12-11T13:25:20.168Z
+date: 2024-12-14T18:18:28.281Z
+updated: 2024-12-17T17:57:16.062Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8fc6b51a-545c-47ed-9fa6-87cbc8d2712f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,15 +62,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-next-level-in-monitor-technology-a-deep-dive-into-p2715qs-wonders/"><u>[New] The Next Level in Monitor Technology - A Deep Dive Into P2715Q's Wonders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-top-5-methods-of-utilizing-windows-11s-gpeditmsc-open-group-policy-tool/"><u>Discover the Top 5 Methods of Utilizing Windows 11'S GPEDIT.MSC Open Group Policy Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-fix-for-a-non-responsive-logitech-k780-keyboard-easy-steps-inside/"><u>DIY Fix for a Non-Responsive Logitech K780 Keyboard - Easy Steps Inside</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-webcam-filming-easy-methods-to-start-recording-today/"><u>DIY Webcam Filming: Easy Methods to Start Recording Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easily-recover-a-lost-word-document-in-windows-10-with-pictures/"><u>Easily Recover a Lost Word Document in Windows 10 [with Pictures]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-phone-without-password-by-drfone-android/"><u>How To Unlock Infinix Smart 8 Phone Without Password?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-leading-streamers-top-ten-picks-revealed/"><u>In 2024, Leading Streamers' Top Ten Picks Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-smooth-gaming-eliminate-minecraft-freezes-with-cutting-edge-tips-for-pc-gamers/"><u>Master Smooth Gaming: Eliminate Minecraft Freezes with Cutting-Edge Tips for PC Gamers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/bes-essential-learning-resources-for-upcoming-directors/"><u>YouTube's Essential Learning Resources for Upcoming Directors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-emulators-reviving-sonys-ps1-games/"><u>[Updated] 2024 Approved Essential Emulators Reviving Sony's PS1 Games</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-analyzing-user-feedback-the-latest-on-lg-bp350-display-tech/"><u>[Updated] Analyzing User Feedback The Latest on LG BP350 Display Tech</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accurate-boundary-conditions-are-crucial-for-modeling-real-world-transient-heat-scenarios-effectively/"><u>Accurate Boundary Conditions Are Crucial for Modeling Real-World Transient Heat Scenarios Effectively.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ethical-techniques-to-find-phone-numbers-through-online-research/"><u>Ethical Techniques to Find Phone Numbers Through Online Research</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-next-level-audio-quality-through-dts-virtualx/"><u>Experience Next-Level Audio Quality Through DTS Virtual:X</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-scoop-on-apple-watch-x-projected-price-points-expected-debut-date-and-specs-plus-rumored-details-inside/"><u>Get the Scoop on Apple Watch X: Projected Price Points, Expected Debut Date & Specs; Plus Rumored Details Inside!</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-exploration-how-to-closely-inspect-roblox-environments/"><u>In-Depth Exploration How to Closely Inspect Roblox Environments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-excel-with-chatgpt-a-comprehensive-guide-to-conquering-spreadsheet-anxiety/"><u>Mastering Excel with ChatGPT: A Comprehensive Guide to Conquering Spreadsheet Anxiety</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-technology-insights-with-toms-hardware-reviews/"><u>Mastering Technology Insights with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retrieving-removed-contacts-a-guide-to-recovering-deleted-mobile-numbers-on-android/"><u>Retrieving Removed Contacts: A Guide to Recovering Deleted Mobile Numbers on Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-rebooting-your-samsung-bar-for-optimal-audio-performance/"><u>Ultimate Troubleshooting Tips: Rebooting Your Samsung Bar for Optimal Audio Performance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/journey-to-curating-an-impressive-youtube-collection-for-2024/"><u>Your Journey to Curating an Impressive YouTube Collection for 2024</u></a></li>
 </ul></div>
 

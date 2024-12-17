@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air M1 at an Unbeatable Bargain: Save Big with Our $649 Price Tag! | TechRadar"
-date: 2024-12-04T07:52:01.554Z
-updated: 2024-12-11T13:41:10.740Z
+date: 2024-12-16T16:13:17.453Z
+updated: 2024-12-17T17:00:41.996Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,15 +81,19 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-curb-instagrams-auto-suggest-feature-for-2024/"><u>[Updated] Curb Instagram's Auto-Suggest Feature for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-your-instagrams-virtual-meet-up-potential/"><u>[Updated] In 2024, Unlocking Your Instagram's Virtual Meet-Up Potential</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-about-the-upcoming-samsung-galaxy-s2e-ultra-specs-release-info-and-price-estimates-uncovered/"><u>All About the Upcoming Samsung Galaxy S2e Ultra – Specs, Release Info, and Price Estimates Uncovered</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-flip-the-script-accelerating-tiktok-video-creation/"><u>In 2024, Flip-the-Script Accelerating TikTok Video Creation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-masterclass-simple-solutions-for-opening-and-decompressing-rar-files/"><u>Mac Masterclass: Simple Solutions for Opening and Decompressing RAR Files</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-evolution-of-auto-hdr-and-its-role-in-todays-photography/"><u>The Evolution of Auto HDR and Its Role in Today's Photography</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-15-free-windows-11-skins-and-themes-get-your-pc-revamped/"><u>Top 15 FREE Windows 11 Skins & Themes - Get Your PC Revamped</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-your-communication-device-with-new-tunes/"><u>Transform Your Communication Device with New Tunes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-stop-overwatch-2-from-continuously-crashing-on-your-computer/"><u>Troubleshooting Steps: Stop Overwatch 2 From Continuously Crashing on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/vizio-tv-wi-fi-connection-issues-heres-how-you-can-solve-them/"><u>Vizio TV Wi-Fi Connection Issues? Here's How You Can Solve Them</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-template-to-trendsetter-gamer-channel-banners-guide/"><u>[Updated] In 2024, From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-2023-guide-to-your-updated-lg-bp550/"><u>[Updated] Ultimate 2023 Guide to Your Updated LG BP550</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726227629827-heic-jpg/"><u>採用最佳免費 HEIC 改成 JPG 工具，全新熱門轉換方式逐一介紹！</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221261452-mpeg-mp3-movavi/"><u>網上自由轉化 MPEG 成 MP3 - 利用 Movavi 音頻格式更改器</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/apple-m1-demystified-the-tech-leap-forward-for-2024/"><u>Apple M1 Demystified The Tech Leap Forward for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-en-ligne-sans-frais-de-webm-vers-m4a-avec-movavi-guide-complet/"><u>Conversion en Ligne Sans Frais De Webm Vers M4A Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-gratis-movavi-video-transcoder-movil-y-descargador-de-videos-libre/"><u>Download Gratis Movavi Video Transcoder - Móvil Y Descargador De Videos Libre</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-keeping-your-mac-awake-and-active-tips-and-tricks/"><u>Guide: Keeping Your Mac Awake and Active - Tips & Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-android-flip-digital-content-sequence/"><u>Master Android Flip Digital Content Sequence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-no-cost-tool-to-transform-video-object-streaming-vos-to-windows-media-audio-wma/"><u>Movavi's No-Cost Tool to Transform Video Object Streaming (VOS) to Windows Media Audio (.WMA)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726228164844-movavi-202/"><u>Movavi视频编辑器 202</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sharing-laughter-iphone-memes/"><u>Sharing Laughter IPhone Memes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-lower-ping-and-enhance-gameplay-smoothness-in-valheim-windows/"><u>Ultimate Guide: Lower Ping & Enhance Gameplay Smoothness in Valheim (Windows)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/vital-steps-in-choosing-the-ideal-router/"><u>Vital Steps in Choosing the Ideal Router</u></a></li>
 </ul></div>
 

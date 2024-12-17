@@ -1,7 +1,7 @@
 ---
 title: "Integrating Ubuntu Into macOS: A Step-by-Step Tutorial for Combining Linux and Xcode in One Smart Trick Insights"
-date: 2024-12-08T23:19:26.737Z
-updated: 2024-12-11T06:05:42.637Z
+date: 2024-12-15T17:29:26.653Z
+updated: 2024-12-17T17:36:28.977Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -55,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -65,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,14 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-freedom-in-fun-10-excellent-offline-gaming-on-android-devices/"><u>[New] Freedom in Fun 10 Excellent Offline Gaming on Android Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-secure-video-communication-made-simple-with-top-10-safe-apps-on-mobile-devices-for-2024/"><u>[New] Secure Video Communication Made Simple with Top 10 Safe Apps on Mobile Devices for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlock-your-potential-mastering-the-art-of-youtube-edits/"><u>[Updated] 2024 Approved Unlock Your Potential Mastering the Art of YouTube Edits</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-epitome-of-engagement-celebrating-the-most-voted-posts-10/"><u>[Updated] The Epitome of Engagement Celebrating the Most-Voted Posts (10)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-complete-checklist-for-choosing-your-ideal-projector/"><u>A Complete Checklist for Choosing Your Ideal Projector</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-distinctions-of-home-theater-versus-stereo-receiver-technology-for-ultimate-sound-quality/"><u>Decoding the Distinctions of Home Theater Versus Stereo Receiver Technology for Ultimate Sound Quality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722882758812-discover-the-best-iphone-gps-tools-our-top-picks-for-you/"><u>Discover the Best iPhone GPS Tools: Our Top Picks for You!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-m54-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy M54 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-power-issues-with-your-playstation-5-controller/"><u>Troubleshooting Tips: Resolving Power Issues with Your PlayStation 5 Controller</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-dive-into-color-management-with-ae-luts/"><u>[New] Dive Into Color Management with AE LUTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-highlighted-visions-is-intensified-lighting-the-future-of-hd-in-hdr/"><u>[Updated] Highlighted Visions Is Intensified Lighting the Future of HD in HDR?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/elevate-your-professional-space-an-authoritative-look-at-the-x-chair-x4-desk-throne-experience/"><u>Elevate Your Professional Space: An Authoritative Look at the X-Chair X4 Desk Throne Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-fixing-stubborn-airpods-that-wont-restart-properly/"><u>Expert Tips for Fixing Stubborn AirPods That Won't Restart Properly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ize-your-videos-discoverability-with-key-youtube-seo-strategies/"><u>Optimize Your Videos' Discoverability with Key YouTube SEO Strategies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/power-up-your-adventures-with-the-robust-and-portable-kensun-tire-inflator/"><u>Power Up Your Adventures with the Robust and Portable Kensun Tire Inflator</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-user32dll-error-a-step-by-step-guide/"><u>Resolving the 'User32.dll' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-stuck-screens-in-football-manager-2-2021-solutions-and-fixes/"><u>Troubleshooting Stuck Screens in Football Manager 2지 2021 – Solutions and Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-screens-hdcp-warning-a-step-by-step-guide-to-fixing-connection-glitches/"><u>Troubleshooting Your Screen's HDCP Warning: A Step-by-Step Guide to Fixing Connection Glitches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-explore-the-best-game-enhancing-speakers-now-with-a-150-discount-on-amazon-spotted/"><u>Unbeatable Deal Alert: Explore the Best Game-Enhancing Speakers Now with a $150 Discount on Amazon - Spotted !</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-speed-and-savvy-a-comprehensive-guide-to-the-top-30-gmail-shortcuts/"><u>Unlocking Speed and Savvy: A Comprehensive Guide to the Top 30 Gmail Shortcuts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-a-closer-look-at-avs-video-editor-features-pricing-and-more/"><u>Updated A Closer Look at AVS Video Editor Features, Pricing, and More</u></a></li>
 </ul></div>
 

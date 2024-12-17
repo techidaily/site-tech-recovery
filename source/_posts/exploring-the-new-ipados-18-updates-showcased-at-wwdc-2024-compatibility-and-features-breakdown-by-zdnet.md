@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2024-12-06T13:19:22.406Z
-updated: 2024-12-11T00:53:00.478Z
+date: 2024-12-12T19:14:37.589Z
+updated: 2024-12-17T16:24:16.560Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,17 +120,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-rapid-routines-transferring-iphone-content-for-2024/"><u>[New] Rapid Routines Transferring iPhone Content for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-total-data-usage-24-hour-videography-in-gbs/"><u>[New] Total Data Usage 24-Hour Videography in GBs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-expertly-design-your-3d-openers-best-picks/"><u>[Updated] 2024 Approved Expertly Design Your 3D Openers Best Picks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-effortless-gaming-sessions-on-your-screen/"><u>[Updated] Effortless Gaming Sessions on Your Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-downscale-or-convert-your-4k-videos-to-1080p-on-a-windows-10-or-macos-computer/"><u>How to Downscale or Convert Your 4K Videos to 1080P on a Windows 10 or macOS Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-make-your-windows-10-faster-work-100/"><u>How to Make Your Windows 10 Faster [Work 100%]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-windows-11-transition-shifts-from-win32-desktop-software-to-emphasize-microsoft-store/"><u>How Windows 11 Transition Shifts From Win32 Desktop Software to Emphasize Microsoft Store</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-magic-5-lite-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor Magic 5 Lite to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolved-troubleshooting-windows-11-when-it-refuses-to-go-into-sleep-mode/"><u>Resolved: Troubleshooting Windows 11 When It Refuses to Go Into Sleep Mode</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-patient-care-through-ai-driven-solutions/"><u>Revolutionizing Patient Care Through AI-Driven Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/set-up-gaming-steering-wheel-on-pc-step-by-step/"><u>Set Up Gaming Steering Wheel on PC (Step by Step)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-interlace-distortions-in-media/"><u>Troubleshooting Interlace Distortions in Media</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-maximizing-visual-impact-integrating-free-high-quality-luts-into-obs/"><u>[New] 2024 Approved Maximizing Visual Impact Integrating Free, High-Quality LUTs Into OBS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-saving-big-on-final-cut-pro-without-paying/"><u>[Updated] Saving Big on Final Cut Pro without Paying</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sky-high-speeds-key-moments-in-the-short-tracks-olympics/"><u>[Updated] Sky-High Speeds Key Moments in the Short Tracks, Olympics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beginners-pathway-to-web-personalization-enabling-browser-cookies-effectively/"><u>Beginner's Pathway to Web Personalization: Enabling Browser Cookies Effectively</u></a></li>
+<li><a href="https://solve-help.techidaily.com/best-methods-for-duplicating-crucial-ssd-drives-discover-the-leading-options-and-comprehensive-cloning-process/"><u>Best Methods for Duplicating Crucial SSD Drives - Discover the Leading Options & Comprehensive Cloning Process</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-not-playing-sounds-discover-solutions-for-reactivating-your-ringtone-feature/"><u>IPhone Not Playing Sounds? Discover Solutions for Reactivating Your Ringtone Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-and-functioning-of-transfer-learning-within-artificial-intelligence/"><u>The Role and Functioning of Transfer Learning Within Artificial Intelligence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-5-crucial-points-to-know-about-secondhand-laptops/"><u>The Ultimate Guide: 5 Crucial Points to Know About Secondhand Laptops</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-essential-factors-when-selecting-your-ideal-selfie-accessory/"><u>Top 6 Essential Factors When Selecting Your Ideal Selfie Accessory</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/transform-your-broadcasts-5-advanced-recording-methods-web/"><u>Transform Your Broadcasts 5 Advanced Recording Methods Web</u></a></li>
 </ul></div>
 

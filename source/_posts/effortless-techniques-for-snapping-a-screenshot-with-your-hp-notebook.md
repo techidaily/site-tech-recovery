@@ -1,7 +1,7 @@
 ---
 title: Effortless Techniques for Snapping a Screenshot with Your HP Notebook
-date: 2024-08-26T08:24:04.232Z
-updated: 2024-08-27T08:24:04.232Z
+date: 2024-12-13T18:26:55.552Z
+updated: 2024-12-17T18:07:54.229Z
 categories:
   - BestProducts
 description: This Article Describes Effortless Techniques for Snapping a Screenshot with Your HP Notebook
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/O1w3yTZr-vobCfDFUrt_FSOawbA=/400x300/fi
 
  Instructions in this article apply to Windows 11, Windows 10, Windows 8.1, and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Clean up Junk Files and Programs
 
  Getting rid of unnecessary files, applications, and other "junk" is an effective way to speed up any computer. Freeing your computer of these unnecessary items opens up storage for your important things and helps with overall performance.
@@ -22,6 +26,11 @@ thumbnail: https://www.lifewire.com/thmb/O1w3yTZr-vobCfDFUrt_FSOawbA=/400x300/fi
  If these temporary internet files and other useless items stick around for too long, they can not only cause programs to hang and become unresponsive and sluggish but also take up valuable hard drive space.  
 ![A list of junk files analyzed by CCleaner](https://www.lifewire.com/thmb/fcJdBbMmX-n1fr28E8-tAXm60bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ccleaner-f6f275a2e09b4fa8821c232149546fd7.png)
 2. [Remove unwanted programs](https://www.lifewire.com/windows-uninstaller-to-remove-unused-programs-3506955) that are just lingering on your computer. These are not only taking up hard drive space but they might [open automatically with Windows](https://www.lifewire.com/change-startup-programs-windows-11-6823499) and be running in the background all the time, sucking away at the processor and memory.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are several[free program uninstaller apps](https://www.lifewire.com/free-uninstaller-programs-2625188) that make doing this really easy.
 3. Also considered junk files are anything you simply don't use or want anymore. So, delete those old video files that you downloaded a year ago and[back up all the data you rarely access](https://www.lifewire.com/ways-to-back-up-your-data-2640426) , like vacation pictures.
 4. [Clean up your desktop](https://www.lifewire.com/cleaning-and-speeding-up-windows-desktop-3506952) if it's cluttered. Making File Explorer load those icons and folders each time the desktop refreshes can put unnecessary load on your hardware, which takes away[system resources](https://www.lifewire.com/what-is-a-system-resource-2626016) that could be used elsewhere.
@@ -35,8 +44,9 @@ thumbnail: https://www.lifewire.com/thmb/O1w3yTZr-vobCfDFUrt_FSOawbA=/400x300/fi
 [How Often Should You Defrag Your Computer?](https://www.lifewire.com/how-often-should-you-defrag-3976922)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Remove Viruses, Malware, Spyware, Adware, etc
 
  Every Windows computer is vulnerable to malware, but your risk of infection is low if you regularly use anti-malware programs.
@@ -47,19 +57,12 @@ thumbnail: https://www.lifewire.com/thmb/O1w3yTZr-vobCfDFUrt_FSOawbA=/400x300/fi
 
 [How to Tell if You Have a Computer Virus on Windows](https://www.lifewire.com/how-to-tell-if-your-computer-has-a-virus-4590200)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix Windows System Errors
 
  Installing and uninstalling software and Windows updates, rebooting your computer during an update, forcing your PC to shut down immediately, and other things can cause errors within the Windows system files.
 
  These errors can cause things to lock up, halt program installs and updates, and generally prevent a smooth computer experience. Speeding up a computer this way is easy; just[repair the system files](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Adjust Visual Effects
 
  Windows provides numerous interesting visual effects including animated windows and fading menus. These extras are usually fine to have turned on, but they're only worth it if you have enough system memory.
@@ -67,13 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/O1w3yTZr-vobCfDFUrt_FSOawbA=/400x300/fi
  If this is why your PC is slow, you can[turn off these visual effects to speed up the computer in seconds](https://www.lifewire.com/adjust-visual-effects-to-improve-speed-3506867) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Clean, Replace, or Upgrade Your Hardware
 
  While software problems often cause a slow computer, you can only get so far before you need to address the hardware.
@@ -87,8 +86,9 @@ thumbnail: https://www.lifewire.com/thmb/O1w3yTZr-vobCfDFUrt_FSOawbA=/400x300/fi
  You can use a[free system information utility](https://www.lifewire.com/free-system-information-tools-2625772) to see the specs of your hardware. These tools are helpful if you're planning on replacing hardware so that you don't have to[open your computer](https://www.lifewire.com/how-to-open-a-desktop-computer-case-2624589) just to check on things. For example, if you want more[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) , you can use a system info tool to confirm the type and amount you already have so you know what to buy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reinstall the Entire Windows Operating System
 
  The most drastic solution to speeding up your computer is to delete all the software and files, remove the whole Windows OS, and start from scratch. You can do this with a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) .
@@ -97,9 +97,6 @@ thumbnail: https://www.lifewire.com/thmb/O1w3yTZr-vobCfDFUrt_FSOawbA=/400x300/fi
 
  Reinstalling Windows is a permanent solution. Back up your files and make note of any programs you will want to reinstall.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Is My Computer So Slow?
 
  Over time, as you download files, browse the internet, remove programs, leave applications open, and do pretty much anything else on your computer, it slowly collects junk and causes behind-the-scenes problems that aren't always so easy to catch at first.
@@ -141,8 +138,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +145,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-budget-friendly-cam-stream-viewer-for-2024/"><u>[New] Top Budget-Friendly Cam Stream Viewer for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-step-into-the-world-of-high-quality-lenovo-screen-recordings/"><u>[Updated] 2024 Approved Step Into the World of High-Quality Lenovo Screen Recordings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[Updated] In 2024, Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722870663062-amazon-prime-day-2024-your-ultimate-guide-insights-and-tips/"><u>Amazon Prime Day 2024: Your Ultimate Guide - Insights & Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-between-smartphones-and-pc-google-play-games-explained/"><u>Bridge Between Smartphones and PC: Google Play Games Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-future-7-key-cybersecurity-innovations-ahead/"><u>Exploring the Future: 7 Key Cybersecurity Innovations Ahead</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-disk-defragmenter-applications-the-best-picks-for-july-2n-2024/"><u>Free Disk Defragmenter Applications: The Best Picks for July 2N, 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-effortlessly-pick-out-specific-messages-from-a-cluttered-gmail-collection/"><u>How to Effortlessly Pick Out Specific Messages From a Cluttered Gmail Collection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-d3dx940dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_40.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-elite-arsenal-choosing-the-top-7-fps/"><u>In 2024, Elite Arsenal Choosing the Top 7 FPS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retrieve-deleted-notifications-tips-for-finding-old-messages-on-an-iphone/"><u>Retrieve Deleted Notifications: Tips for Finding Old Messages on an iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-disable-sticky-keys-option-on-a-windows-operating-system/"><u>Step-by-Step Instructions to Disable Sticky Keys Option on a Windows Operating System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-linking-your-laptop-and-television-with-an-hdmi-cable/"><u>Ultimate Guide: Linking Your Laptop and Television with an HDMI Cable</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-potential-of-your-macbook-air-by-fixing-freezing-problems-easily/"><u>Unlock the Potential of Your MacBook Air by Fixing Freezing Problems Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-power-of-the-hidden-finders-panel-a-step-by-step-guide/"><u>Unlocking the Power of the Hidden Finders Panel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/windowsmac-srt-sound-management-for-2024/"><u>Windows/Mac SRT Sound Management for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Dealing with Non-Openable Microsoft Word Documents"
-date: 2024-08-26T08:26:04.346Z
-updated: 2024-08-27T08:26:04.346Z
+date: 2024-12-16T16:13:35.790Z
+updated: 2024-12-17T17:43:50.098Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Tips: Dealing with Non-Openable Microsoft Word Documents"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/9cea731b530f7b35cf528443775e7bde67a8420df
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-thorough-examination-an-in-depth-review-of-gecata-log/"><u>[Updated] 2024 Approved Thorough Examination An In-Depth Review of Gecata Log</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unveiling-the-simple-steps-to-update-your-networks-banner-image/"><u>[Updated] 2024 Approved Unveiling the Simple Steps to Update Your Network's Banner Image</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness/"><u>2024 Approved How To Keep Your Audience Engaged Top 6 Strategies for Higher YouTube Stickiness</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-the-finest-graphic-design-tools-a-comprehensive-list-of-17/"><u>Discovering the Finest Graphic Design Tools – A Comprehensive List of 17</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-solutions-to-reactivate-sound-on-your-malfunctioning-receiver/"><u>DIY Solutions to Reactivate Sound on Your Malfunctioning Receiver</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-setting-up-your-new-echo-dot-successfully/"><u>Easy Steps: Setting Up Your New Echo Dot Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-skills-essential-strategies-for-cs2-mac-edition/"><u>Enhancing Skills: Essential Strategies for CS2, Mac Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-the-errcachemiss-mistake-in-googles-chrome-web-browser/"><u>Guide to Fixing the ERR_CACHE_MISS Mistake in Google's Chrome Web Browser</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-video-card-problems-in-the-sims-4-expert-solutions/"><u>Resolving Video Card Problems in The Sims 4 - Expert Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequential-watchlist-of-the-hauntingly-popular-conjuring-movies/"><u>Sequential Watchlist of the Hauntingly Popular ‘Conjuring’ Movies</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-pin-verification-hurdles-for-windows-1011-systems/"><u>Tackling PIN Verification Hurdles for Windows 10/11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-did-my-car-radio-just-quit-expert-advice-on-fixes-and-solutions/"><u>Why Did My Car Radio Just Quit? Expert Advice on Fixes and Solutions</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "All About the PlayStation Portable: Unveiling Date, Pricing, Hardware Specs & Purchase Locations"
-date: 2024-08-26T08:26:25.211Z
-updated: 2024-08-27T08:26:25.211Z
+date: 2024-12-11T16:57:47.350Z
+updated: 2024-12-17T17:38:27.958Z
 categories:
   - BestProducts
 description: "This Article Describes All About the PlayStation Portable: Unveiling Date, Pricing, Hardware Specs & Purchase Locations"
@@ -21,26 +21,34 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 
  Sony's PlayStation Portal (formerly Project Q), a handheld device that lets you stream games from your PS5, is out now. Here are all of the details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  PlayStation Portal Release Date 
 
  The Playstation Portal launched November 15, 2023\. Sony first revealed the handheld device at its showcase in May 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PlayStation Portal Price 
 
  The PlayStation Portal costs $199.99.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where to Buy 
 
  You can[ order PlayStation Portal directly from Sony](https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player) . You can also pick it up from other electronics retailers like Target, Amazon, and Best Buy.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  PlayStation Portal Specs and Features 
 
  PlayStation Portal has all the main features of the DualSense, including adaptive triggers, vibration, and a speaker. Sony has opted for an LCD screen rather than OLED, likely to help keep the production costs down.
@@ -59,8 +67,9 @@ The powerful video editing program for your Windows PC</a>
 [  Sony Pulse Elite Headset: News, Price, Release Date, and Specs ](https://www.lifewire.com/sony-pulse-elite-headset-8419539) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the PlayStation Portal 
 
  You can get[ more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Meanwhile, here are some stories about Sony and its other gaming products:
@@ -79,8 +88,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +95,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-achieve-superior-mp4-output-from-instagram-videos-2-ways/"><u>[Updated] Achieve Superior MP4 Output From Instagram Videos 2 Ways</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-professional-growth-with-efficient-google-meet-design-tweaks/"><u>[Updated] In 2024, Professional Growth with Efficient Google Meet Design Tweaks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipating-the-future-of-tech-at-googles-forthcoming-showcase-stay-updated/"><u>Anticipating the Future of Tech at Google's Forthcoming Showcase - Stay Updated!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/becoming-an-active-participant-in-tiktok-lives-for-2024/"><u>Becoming an Active Participant in TikTok Lives for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/discuss-off-peak-seasons-and-how-they-can-lead-to-significant-savings-on-flights-accommodation-and-activities/"><u>Discuss Off-Peak Seasons and How They Can Lead to Significant Savings on Flights, Accommodation, and Activities.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-with-ease-the-best-8-travel-organizer-apps-we-recommend/"><u>Explore with Ease: The Best 8 Travel Organizer Apps We Recommend</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-delete-all-emails-in-gmail-app/"><u>How to Delete All Emails in Gmail App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-establish-an-alias-for-your-primary-gmail-account-effortlessly/"><u>How to Establish an Alias for Your Primary Gmail Account Effortlessly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/imovies-cropping-an-in-depth-look-for-2024/"><u>IMovie's Cropping An In-Depth Look for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-after-effects-templates-crafting-stories-one-text-at-a-time/"><u>In 2024, After Effects Templates Crafting Stories One Text at a Time</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-13-mini-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 13 mini Passcode Easily Video Inside</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-netflix-for-kid-approved-masterpieces-top-picks-for-your-next-family-movie-night/"><u>Navigating Netflix for Kid-Approved Masterpieces: Top Picks for Your Next Family Movie Night</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-personal-4-golden-software-errors-and-bugs/"><u>Resolving Personal 4 Golden Software Errors and Bugs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-establishing-an-x-account-x-formerly-twitter/"><u>Step-by-Step Tutorial on Establishing an X Account (X Formerly Twitter)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-disconnect-devices-from-google-smart-home-networks-effectively/"><u>Steps to Disconnect Devices From Google Smart Home Networks Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-free-slack-replacements-a-comprehensive-guide/"><u>Top Free Slack Replacements : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-off-your-iphone-15-propro-max-step-by-step-instructions/"><u>Turning Off Your iPhone 15 Pro/Pro Max – Step-by-Step Instructions</u></a></li>
+</ul></div>
 

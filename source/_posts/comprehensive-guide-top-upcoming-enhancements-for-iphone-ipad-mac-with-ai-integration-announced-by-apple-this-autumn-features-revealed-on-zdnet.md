@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Top Upcoming Enhancements for iPhone, iPad, Mac with AI Integration Announced by Apple This Autumn - Features Revealed on ZDNet"
-date: 2024-12-04T08:39:48.017Z
-updated: 2024-12-11T12:25:41.531Z
+date: 2024-12-14T17:27:47.035Z
+updated: 2024-12-17T16:50:50.546Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,10 +67,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -95,7 +87,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -112,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -138,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -157,6 +153,10 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,24 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-quick-and-reliable-image-captures-pcs-top-5-apps/"><u>[New] Quick and Reliable Image Captures PC's Top 5 Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-epic-retrospect-swiftly-undoing-iphone-videos/"><u>[Updated] In 2024, Epic Retrospect Swiftly Undoing iPhone Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quality-overload-top-10-hd-video-apps-for-your-android/"><u>[Updated] In 2024, Quality Overload Top 10 HD Video Apps for Your Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazon-alexa-versus-google-assistant-determining-the-best-personal-digital-assistant-for-you/"><u>Amazon Alexa versus Google Assistant - Determining the Best Personal Digital Assistant for You</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-placing-various-pins-concurrently-using-google-map-services/"><u>Comprehensive Guide: Placing Various Pins Concurrently Using Google Map Services</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/crafting-self-narratives-100-unique-instagram-captions/"><u>Crafting Self-Narratives - 100 Unique Instagram Captions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dive-into-epic-storytelling-with-these-amazing-free-movie-selections-on-youtube-for-july-2024/"><u>Dive Into Epic Storytelling with These Amazing Free Movie Selections on YouTube for July 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-establish-an-additional-email-identity-on-your-gmail-account/"><u>Easy Steps to Establish an Additional Email Identity on Your Gmail Account</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-resolving-a-503-error-a-guide-to-restoring-website-access/"><u>Expert Tips for Resolving a '503 Error' – A Guide to Restoring Website Access</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-streaming-espnplus-live-sports-events-on-your-lg-smart-television/"><u>Guide: Streaming ESPN+ Live Sports Events on Your LG Smart Television</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-the-d3dx-library-not-loaded-issue/"><u>How to Correctly Handle the D3DX Library Not Loaded Issue</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-digital-communication-top-5-secure-email-platforms-for-peace-of-mind/"><u>Mastering Digital Communication: Top 5 Secure Email Platforms for Peace of Mind</u></a></li>
-<li><a href="https://video-capture.techidaily.com/screen-capture-without-breaking-the-bank-our-top-picks-for-2024/"><u>Screen Capture Without Breaking the Bank Our Top Picks for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/securing-privacy-a-guide-to-hiding-contact-info-on-android-devices/"><u>Securing Privacy: A Guide to Hiding Contact Info on Android Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/streamline-document-handling-with-fujitsu-scansnap-ix1400-the-ultimate-scanner-choice-for-home-office-professionals-and-startups/"><u>Streamline Document Handling with Fujitsu ScanSnap iX1400 - The Ultimate Scanner Choice for Home Office Professionals and Startups</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-score-amazing-discounts-on-games-in-octobers-prime-deal-extravaganza-insights-from-zdnet/"><u>The Ultimate Guide to Score Amazing Discounts on Games in October's Prime Deal Extravaganza | Insights From ZDNet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ultimate-guide-to-the-raspberry-pi-400-laptop-style-single-board-computer/"><u>Ultimate Guide to the Raspberry Pi 400 Laptop-Style Single Board Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/win-back-control-solutions-to-thwart-stuck-menu-clicks/"><u>Win Back Control: Solutions to Thwart Stuck Menu Clicks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-top-5-xbox-hdds-for-gamers/"><u>[Updated] Essential Top 5 Xbox HDDs for Gamers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-professional-video-tweaks-via-youtube-studio-editor/"><u>[Updated] Professional Video Tweaks via YouTube Studio Editor</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-smart-8-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artistic-transformation-tool-for-photos-pcs-and-macs-alike/"><u>Artistic Transformation Tool for Photos, PCs & Macs Alike</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-13-premier-freebies-in-photo-editing-tools-for-your-next-creative-project/"><u>Discover the 13 Premier Freebies in Photo Editing Tools for Your Next Creative Project</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ett-steg-for-ett-navigera-nagra-finaste-metoder-att-konvertera-dvd-till-mp4-pa-en-mac/"><u>Ett Steg För Ett - Navigera Några Finaste Metoder Att Konvertera DVD Till MP4 På en Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-reno-8t-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo Reno 8T 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/political-campaign-imagery-and-visual-branding-explore-the-power-of-design-with-movavi/"><u>Political Campaign Imagery & Visual Branding: Explore the Power of Design with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-content-exclusive-access-to-premium-video-editing-for-absolutely-no-cost/"><u>Revolutionize Your Content: Exclusive Access to Premium Video Editing for Absolutely No Cost!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamlining-video-workflow-capture-save-refine-using-adobe-connect/"><u>Streamlining Video Workflow Capture, Save, Refine Using Adobe Connect</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-on-acquiring-and-applying-dell-wd1f-driver-software/"><u>The Ultimate Tutorial on Acquiring and Applying Dell WD1f Driver Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-optimal-gaming-smartphones-explored-by-zdnet/"><u>Top 5 Optimal Gaming Smartphones - Explored by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trier-gratuitement-des-fichiers-m4v-a-laide-de-codecs-3g2-en-ligne-guerison-complete-par-movavi/"><u>Trier Gratuitement Des Fichiers M4V À L'aide De Codecs 3G2 en Ligne : Guérison Complète Par Movavi</u></a></li>
 </ul></div>
 

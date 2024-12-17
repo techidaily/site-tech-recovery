@@ -1,7 +1,7 @@
 ---
 title: "Apple’s iPhone 1N 16 Pro Gains Edge over iPhone Max : Insights and Reasons From ZDNet's Perspective"
-date: 2024-12-09T19:51:38.070Z
-updated: 2024-12-11T04:09:08.448Z
+date: 2024-12-12T16:32:52.516Z
+updated: 2024-12-17T16:03:49.470Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -87,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,6 +93,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,14 +158,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-mystic-modulation-is-this-speech-shifting-software-authentic-or-fiction-discover-substitutes/"><u>[New] In 2024, Mystic Modulation Is This Speech-Shifting Software Authentic or Fiction? Discover Substitutes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-fb-content-windows-plus-mac-methods-for-2024/"><u>[Updated] Unlocking FB Content Windows + Mac Methods for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-and-install-ibooks-app-your-ultimate-guide-to-reading-ebooks-on-mac-and-pc/"><u>Download and Install iBooks App: Your Ultimate Guide to Reading eBooks on Mac & PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-the-latest-amd-radeon-graphics-driver-version-2410/"><u>Download the Latest AMD Radeon Graphics Driver Version 24.10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/go-the-extra-mile-kioxia-unveils-light-speed-communicating-ssd-capable-of-surpassing-40-metre-distance-limits/"><u>Go the Extra Mile: Kioxia Unveils Light-Speed Communicating SSD Capable of Surpassing 40 Metre Distance Limits</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-demystifying-pexelscom-the-ultimate-resource-for-photographers-and-designers/"><u>In 2024, Demystifying Pexels.com The Ultimate Resource for Photographers and Designers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-dell-wd19-print-drivers-comprehensive-tutorial-for-seamless-setup/"><u>Installing Dell WD19 Print Drivers - Comprehensive Tutorial for Seamless Setup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-next-big-thing-the-samsung-galaxy-super-ultra-2023-editions-release-date-pricing-rumors-and-full-feature-list-revealed/"><u>Sneak Peek at the Next Big Thing - The Samsung Galaxy Super Ultra 2023 Edition's Release Date, Pricing Rumors & Full Feature List Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-experience-star-wars-full-storyline-with-disneys-streaming-service/"><u>The Ultimate Guide to Experience Star Wars Full Storyline with Disney's Streaming Service</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-identifying-ideal-release-moments-for-podcasts/"><u>2024 Approved Identifying Ideal Release Moments for Podcasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/dissonant-designs-mastering-on-a-mac/"><u>Dissonant Designs Mastering on a Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eradicate-your-yahoo-mail-existence-a-comprehensive-guide/"><u>Eradicate Your Yahoo! Mail Existence - A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-cutting-edge-techniques-for-3d-text-illustration/"><u>In 2024, Cutting-Edge Techniques for 3D Text Illustration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-18-arriving-soon-find-out-when-free-access-and-whats-inside-this-latest-version/"><u>IOS 18 Arriving Soon: Find Out When, Free Access, and What's Inside This Latest Version</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-emoji-essentials-tips-and-tricks-for-effective-communication/"><u>IPhone Emoji Essentials: Tips and Tricks for Effective Communication</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-integration-tips-moving-your-digital-photographs-from-google-to-apples-icloud-platform/"><u>Seamless Integration Tips: Moving Your Digital Photographs From Google to Apple's iCloud Platform</u></a></li>
+<li><a href="https://solve-help.techidaily.com/slash-your-mkv-movie-sizes-the-best-5-techniques-for-seamless-downsizing/"><u>Slash Your MKV Movie Sizes: The Best 5 Techniques for Seamless Downsizing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-viral-video-creation-with-these-8-essential-tips-for-youtube/"><u>Unlock the Secrets of Viral Video Creation with These 8 Essential Tips for YouTube</u></a></li>
 </ul></div>
 

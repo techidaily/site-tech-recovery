@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Keys: Discovering the Top Features of an Exceptional iPhone Case"
-date: 2024-12-06T04:31:42.680Z
-updated: 2024-12-10T17:06:10.562Z
+date: 2024-12-13T18:56:06.575Z
+updated: 2024-12-17T17:37:57.190Z
 tags:
   - apple
 categories:
@@ -39,10 +39,6 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
@@ -50,7 +46,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -67,6 +63,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -129,7 +129,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -146,6 +146,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -158,16 +162,12 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -204,24 +204,22 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-elevating-your-podcast-the-best-mics-ranked-for-2024/"><u>[New] Elevating Your Podcast The Best Mics Ranked for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-obs-mac-guide-streamlabs-setup/"><u>[New] OBS Mac Guide Streamlabs Setup</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtube-thumbnails-demystified-mac-edition/"><u>2024 Approved YouTube Thumbnails Demystified - Mac Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazons-drm-cracked-top-tips-and-tools-for-unlocking-content/"><u>Amazon's DRM Cracked: Top Tips & Tools for Unlocking Content</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/descargar-epubor-ultimate-libre-de-cualquier-coste-un-analisis-detallado/"><u>Descargar Epubor Ultimate Libre De Cualquier Coste: Un Análisis Detallado</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-driver-tweaks-without-complications-in-windows-7/"><u>Direct Driver Tweaks without Complications in Windows 7</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-high-quality-mp3-music-files-fast-and-easy/"><u>Download High-Quality Mp3 Music Files Fast & Easy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-our-top-rated-free-resources-and-ebooks-access-them-now/"><u>Download Our Top-Rated Free Resources & Ebooks - Access Them Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-downloading-and-enjoying-nook-books-on-apples-tablet-device/"><u>Easy Instructions for Downloading and Enjoying Nook Books on Apple's Tablet Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-saving-your-kobo-book-library-a-step-by-step-guide/"><u>Effective Strategies for Saving Your Kobo Book Library: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-content-creation-with-ipublish-innovative-tools-for-digital-publishers/"><u>Elevate Content Creation with IPublish: Innovative Tools for Digital Publishers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/epubor-ebook-creation-the-ultimate-digital-publishing-solution/"><u>Epubor eBook Creation: The Ultimate Digital Publishing Solution</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/re-these-ten-booming-youtube-sources-to-uplift-yourself/"><u>Explore These Ten Booming YouTube Sources to Uplift Yourself</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-your-favorite-graphic-novels-with-kindle-fire-the-ultimate-comic-reading-experience/"><u>Explore Your Favorite Graphic Novels with Kindle Fire: The Ultimate Comic Reading Experience</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/guide-formatting-your-exterior-hdd-for-xbox-one-via-windows-os/"><u>Guide: Formatting Your Exterior HDD for Xbox One via Windows OS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-traffic-and-engagement-through-cookiebot-technology/"><u>Revolutionize Traffic and Engagement Through Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/samsung-regains-lead-in-mobile-shipments-surpassing-apple-while-a-rising-contender-challenges-their-dominance-insights/"><u>Samsung Regains Lead in Mobile Shipments, Surpassing Apple While a Rising Contender Challenges Their Dominance - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/turning-text-to-audio-with-ais-help/"><u>Turning Text to Audio with AI's Help</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-screen-recorders-for-live-broadcasts-on-youtube/"><u>[Updated] 2024 Approved Top Screen Recorders for Live Broadcasts on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-for-transforming-your-profile-photo-on-major-social-platforms/"><u>[Updated] How-To for Transforming Your Profile Photo on Major Social Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-to-turn-off-igtv/"><u>[Updated] Step-by-Step to Turn Off IGTV</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2209433-9780007372164-an-angel-saved-my-life/"><u>An Angel Saved My Life | Free Book</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-low-cost-android-calls-compared-ranking-for-2024/"><u>Best Low-Cost Android Calls Compared Ranking for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-fixes-when-your-optical-disc-drive-wont-open-or-eject-properly/"><u>Effective Fixes When Your Optical Disc Drive Won't Open or Eject Properly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tricks-to-remove-cache-and-enhance-your-android-experience/"><u>Essential Tricks to Remove Cache and Enhance Your Android Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-how-to-solve-not-found-or-missing-dnssddll-errors-effectively/"><u>Expert Tips: How to Solve 'Not Found' Or 'Missing' dnssd.dll Errors Effectively</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/optimal-selection-top-cost-effective-iosandroid-live-streamers-for-2024/"><u>Optimal Selection Top Cost-Effective iOS/Android Live Streamers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-your-microsoft-store-educational-price-cut-a-step-by-step-guide/"><u>Securing Your Microsoft Store Educational Price Cut: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/siri-speaks-your-words-activating-ios-and-macos-voice-assistant-functionality/"><u>Siri Speaks Your Words: Activating iOS and macOS Voice Assistant Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-conversations-with-mozilla-thunderbird/"><u>Step-by-Step Guide: Mastering Conversations with Mozilla Thunderbird</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-sharing-your-netflix-viewing-experience-live/"><u>Step-by-Step Guide: Sharing Your Netflix Viewing Experience Live</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-scholarly-path-to-lower-costs-a-guide-for-saving-with-lenovo-as-a-student/"><u>The Scholarly Path to Lower Costs: A Guide for Saving with Lenovo as a Student</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-vidmas-secrets-to-superior-screen-recording/"><u>Unlocking Vidma’s Secrets to Superior Screen Recording</u></a></li>
 </ul></div>
 

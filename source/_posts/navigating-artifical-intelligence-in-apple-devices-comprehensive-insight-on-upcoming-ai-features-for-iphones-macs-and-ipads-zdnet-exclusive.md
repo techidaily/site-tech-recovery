@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2024-12-06T04:37:01.943Z
-updated: 2024-12-11T08:15:39.395Z
+date: 2024-12-13T18:20:06.852Z
+updated: 2024-12-17T16:02:05.296Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -55,10 +59,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -75,6 +75,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -87,10 +91,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -102,6 +102,10 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -116,7 +120,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -132,7 +136,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -150,10 +154,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -210,20 +210,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-vr-adventure-top-10-best-selling-mobile-games/"><u>[New] VR Adventure Top 10 Best-Selling Mobile Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-recording-tech-evaluation-blueprint/"><u>[Updated] 2024 Approved Recording Tech Evaluation Blueprint</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024-techniques-step-up-your-game-with-improved-fortnite-fps/"><u>2024 Techniques: Step Up Your Game with Improved Fortnite FPS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-secure-surfing-using-chromes-private-window-features/"><u>A Beginner's Guide to Secure Surfing: Using Chrome's Private Window Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/accelerate-gaming-experience-master-efficient-gpu-assessments-in-minutes/"><u>Accelerate Gaming Experience: Master Efficient GPU Assessments in Minutes!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/accelerate-your-pc-a-guide-with-10-fast-track-methods-for-better-speeds/"><u>Accelerate Your PC: A Guide with 10 Fast Track Methods for Better Speeds</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/access-complimentary-latest-dell-driver-updates-for-seamless-compatibility-with-windows-11/"><u>Access Complimentary Latest Dell Driver Updates for Seamless Compatibility with Windows 11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv-for-2024/"><u>New Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV) for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-best-green-screen-apps-for-mac-a-comprehensive-guide-for-2024/"><u>New Best Green Screen Apps for Mac A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/public-opinion-shifts-as-tech-titans-erode-in-trustworthiness/"><u>Public Opinion Shifts as Tech Titans Erode in Trustworthiness</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/taste-and-nutrition-fusion-ai-powered-cooking-guide/"><u>Taste & Nutrition Fusion: AI-Powered Cooking Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-your-recordings-expert-tips-for-zoom-changer/"><u>Transform Your Recordings Expert Tips for Zoom Changer</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/video-guide-mastering-data-security-encrypt-and-recover-your-macs-hdd/"><u>Video Guide: Mastering Data Security – Encrypt & Recover Your Mac's HDD</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-update-0x80070422-error-on-windows-10-solved/"><u>Windows Update 0X80070422 Error on Windows 10 [Solved]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/winning-strategies-against-high-system-ram-drain-in-windows-10/"><u>Winning Strategies Against High System RAM Drain in Windows 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unpacking-youtubes-financial-framework-shifts/"><u>[New] 2024 Approved Unpacking YouTube’s Financial Framework Shifts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-expert-insights-the-best-approaches-to-live-cricket-broadcasting-for-2024/"><u>[New] Expert Insights The Best Approaches to Live Cricket Broadcasting for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transform-your-instagram-vids-with-advanced-editing-skills/"><u>[New] Transform Your Instagram Vids with Advanced Editing Skills</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-professional-audio-techniques-in-davinci-resolve-the-art-of-normalization/"><u>2024 Approved Professional Audio Techniques in DaVinci Resolve The Art of Normalization</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-se-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone SE? Find the Best Solution Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-windows-11-search-back-on-track-effective-strategies-and-tips/"><u>Getting Windows 11 Search Back on Track: Effective Strategies and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enhance-your-iphones-display-with-custom-font-downloads/"><u>How to Enhance Your iPhone’s Display with Custom Font Downloads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x50-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor X50 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-vs-android-a-comprehensive-guide-to-the-app-stores-differences/"><u>IOS vs Android: A Comprehensive Guide to the App Stores Differences</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/multi-channel-mastery-tips-for-managing-more-than-one-youtube-account/"><u>Multi-Channel Mastery: Tips for Managing More Than One YouTube Account</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-missing-dll-errors-effective-solutions-for-a-smooth-computer-experience/"><u>Resolving Missing DLL Errors: Effective Solutions for a Smooth Computer Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-kernel32dll-problems-in-windows/"><u>Step-by-Step Guide: Correcting Kernel32.dll Problems in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-for-turning-the-on-screen-keyboard-on-or-off-in-windows-10/"><u>The Ultimate Tutorial for Turning the On-Screen Keyboard On or Off in Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-itel-a70-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Itel A70 Location | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-best-combined-cable-modems-and-routers-of-2024/"><u>Ultimate Guide to the Best Combined Cable Modems & Routers of 2024</u></a></li>
 </ul></div>
 

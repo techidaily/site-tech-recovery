@@ -1,7 +1,7 @@
 ---
 title: "Steps to Discontinue Your Subscription: Deactivating Apple Music Without Using iTunes - Insights From ZDNet"
-date: 2024-12-09T08:39:08.466Z
-updated: 2024-12-11T03:26:23.248Z
+date: 2024-12-16T18:42:50.347Z
+updated: 2024-12-17T18:52:30.879Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -40,7 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -60,7 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -121,20 +121,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-preserving-gifs-from-twitter-for-mobile-devices/"><u>[New] In 2024, Preserving GIFs From Twitter for Mobile Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/10-tiktok-sensations-dominating-twitter-for-2024/"><u>10 TikTok Sensations Dominating Twitter for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sculpting-soundscapes-gradual-volume-reduction/"><u>2024 Approved Sculpting Soundscapes Gradual Volume Reduction</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cross-compatibility-solutions-a-step-by-step-tutorial-for-running-android-games-and-apps-on-windows-11/"><u>Cross-Compatibility Solutions: A Step-by-Step Tutorial for Running Android Games and Apps on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-guide-configuring-your-vpn-connection-in-windows-10-a-comprehensive-walkthrough/"><u>Easy Guide: Configuring Your VPN Connection in Windows 10 - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-fix-an-unresponsive-msi-camera-2024-edition/"><u>Effective Solutions to Fix an Unresponsive MSI Camera - 2024 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-strategies-to-prevent-site-access-using-chromes-built-in-tools/"><u>Effortless Strategies to Prevent Site Access Using Chrome's Built-In Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-gaming-experience-on-windows-11-with-updated-nvidia-graphics-driver/"><u>Enhance Gaming Experience on Windows 11 with Updated Nvidia Graphics Driver</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exclusive-review-the-ultimate-connectivity-experience-by-asus-rog-rapture-gt-ax11000-gaming-router/"><u>Exclusive Review: The Ultimate Connectivity Experience by Asus ROG Rapture GT-AX11000 Gaming Router</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-reviving-a-defective-logitech-k520-keyboard-fast-and-simple-methods/"><u>Expert Advice on Reviving a Defective Logitech K520 Keyboard - Fast and Simple Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/freedom-to-surf-removing-website-blockades-on-google-chrome-seamlessly/"><u>Freedom to Surf: Removing Website Blockades on Google Chrome Seamlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-disable-touch-screen-on-windows-11/"><u>How to Disable Touch Screen on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-7-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 7 Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-camera-shutter-shortcomings/"><u>Navigating Through Windows Camera Shutter Shortcomings</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-bad-image-problems-tips-for-windows-11-and-10-users/"><u>Resolving 'Bad Image' Problems: Tips for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-tips-for-smoothing-out-quake-in-captured-movement/"><u>[New] 2024 Approved Tips for Smoothing Out Quake in Captured Movement</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-boosting-video-visibility-by-sending-imovie-content-to-vimeo/"><u>[Updated] In 2024, Boosting Video Visibility by Sending iMovie Content to Vimeo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-hdr-editing-essentials-for-pc-users/"><u>[Updated] In 2024, HDR Editing Essentials for PC Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/decoding-the-purpose-why-does-fb-use-a-blue-icon-in-2024/"><u>Decoding the Purpose Why Does FB Use a Blue Icon, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-perfect-film-order-for-fans-of-taylor-swift/"><u>Discover the Perfect Film Order for Fans of Taylor Swift</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100i-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100i to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-2025-apple-developer-event-major-releases-and-updates-explored/"><u>Inside the 2025 Apple Developer Event: Major Releases & Updates Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-email-recall-with-microsoft-outlooks-features/"><u>Mastering the Art of Email Recall with Microsoft Outlook's Features</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-s-best-green-screen-video-editing-apps-for-android-and-ios-users/"><u>New 2024 Approved S Best Green Screen Video Editing Apps for Android and iOS Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-the-ubisoft-connect-issue/"><u>Resolved: Troubleshooting Steps for the 'Ubisoft Connect' Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-remove-cannot-be-opened-unverified-developer-glitches-in-macos-systems/"><u>Steps to Remove 'Cannot Be Opened, Unverified Developer' Glitches in macOS Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-rectifying-steamdll-disappearance-issues/"><u>The Ultimate Guide to Rectifying Steam.dll Disappearance Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-essential-factors-for-choosing-the-right-smartwatch/"><u>Top 5 Essential Factors for Choosing the Right Smartwatch</u></a></li>
 </ul></div>
 

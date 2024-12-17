@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Adjusting Passwords for Other Accounts in the Windows OS"
-date: 2024-08-26T08:24:10.806Z
-updated: 2024-08-27T08:24:10.806Z
+date: 2024-12-16T16:59:18.777Z
+updated: 2024-12-17T18:34:37.085Z
 categories:
   - BestProducts
 description: "This Article Describes Tutorial: Adjusting Passwords for Other Accounts in the Windows OS"
@@ -14,11 +14,19 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
  After a certain time of inactivity, a Mail.com account will be closed and deleted: any emails in it not backed-up elsewhere are irreversibly lost. You don't need to send messages from a Mail.com account to keep it, of course, or receive emails even; logging into the address and account is enough.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Know When Your Mail.com Account Will Expire From Inactivity
 
  A Mail.com account will close automatically—and emails in it will be deleted after six months of inactivity. That period is subject to change. In the past, the period was 12 months. You need to check the current terms of agreement for Mail.com. The inactivity clause is under 2\. Term and Termination, clause 2.4.
 
  If you use the Premium Service from Mail.com, you are not subject to the inactivity termination for the period for which you are paid. However, your account will revert to a free account if you don't stay current on your payments or renewals. That may happen if the credit card you've stored for automatic renewals has expired or been reissued, and you may have ignored notifications about it. You can easily get into a vicious circle of not checking your Mail.com account or other accounts you have associated with it. When that happens, you may never see the warning about your account reverting to the free version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Can You Keep Your Mail.com Account Active?
 
@@ -29,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
  If you set up the account simply to have an email address you can use for identification purposes, such as to have multiple[X (formerly Twitter)](https://www.lifewire.com/what-exactly-is-twitter-2483331) accounts, it can be easy to forget to keep your Mail.com account active. You will need to set up a reminder to log in every few months.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Deleting Your Account at Mail.com
 
  You can choose to delete your Mail.com account yourself using their My Account menu. Select My Account from the Home screen. It is the icon that looks like a person's head and shoulders, near the bottom of the left-hand menu.
@@ -57,8 +66,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,4 +73,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-alleviate-chromes-video-viewing-problem/"><u>[New] In 2024, Alleviate Chrome's Video Viewing Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-selection-of-top-6-nutrition-management-apps/"><u>Discover Our Selection of Top 6 Nutrition Management Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-of-realtek-audio-devices-on-windows-11-systems/"><u>Effortless Setup of RealTek Audio Devices on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-fixing-distorted-line-issues-on-your-television-monitor/"><u>Guide to Fixing Distorted Line Issues on Your Television Monitor</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-x-fold-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo X Fold 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insight-into-how-and-why-we-use-tags-for-objects-and-persons-online/"><u>The Insight Into How and Why We Use Tags for Objects and Persons Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-honored-tech-selfies-with-iphone-x-for-2024/"><u>Time-Honored Tech Selfies with iPhone X for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-apple-watch-solving-the-issue-of-unrecognized-steps/"><u>Troubleshooting Apple Watch: Solving the Issue of Unrecognized Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-gps-functionality-on-your-iphone-overcoming-the-no-location-detected-challenge/"><u>Unlocking GPS Functionality on Your iPhone: Overcoming the 'No Location Detected' Challenge</u></a></li>
+</ul></div>
 

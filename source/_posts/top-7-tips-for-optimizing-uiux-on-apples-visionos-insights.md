@@ -1,7 +1,7 @@
 ---
 title: Top 7 Tips for Optimizing UI/UX on Apple's VisionOS - Insights
-date: 2024-12-09T19:54:15.144Z
-updated: 2024-12-11T04:07:36.745Z
+date: 2024-12-16T17:28:11.955Z
+updated: 2024-12-17T19:11:28.303Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ Let's dig in, shall we?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Gradual immersion
 
 Apple recommends you gradually introduce users to your app, starting with a window view within the augmented reality environment. 
@@ -51,10 +55,6 @@ Apple recommends you gradually introduce users to your app, starting with a wind
 That way, they're not suddenly dropped into a whole new world, but they can slowly get their "VR legs" and feel they have some level of control over their immersion level, at least until they get comfortable with their environment. 
 
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  2\. Identify your key moments
 
@@ -67,7 +67,7 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Adjust UI elements to accommodate the new environment
@@ -79,7 +79,7 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Utilize grid systems where appropriate
@@ -87,10 +87,6 @@ One area to pay particular attention to is when you use hover effects. When you 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
 
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
 
@@ -103,7 +99,7 @@ To that end, even if you're building a non-entertainment app that would normally
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Focus on key details, but don't overwhelm
@@ -111,6 +107,10 @@ And while you're at it, allow your users to control the sound, setting its volum
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
 
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
 
@@ -159,20 +159,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-vocal-variations-for-stories-and-reels-an-instagram-expertise/"><u>[New] 2024 Approved Vocal Variations for Stories and Reels – An Instagram Expertise</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-essential-strategies-for-effective-use-of-luts-in-video-edits/"><u>[New] Essential Strategies for Effective Use of LUTs in Video Edits</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-full-potential-watching-facebook-videos-on-your-apple-devices/"><u>[New] Unlocking Full Potential Watching Facebook Videos on Your Apple Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-integrate-efficiently-macos-sierra-for-desktop-enhancement/"><u>[Updated] Integrate Efficiently MacOS Sierra for Desktop Enhancement</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-rebound-crafters-tools/"><u>[Updated] Rebound Crafters' Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-maximizing-audio-quality-on-meta-quest-devices/"><u>A Beginner’s Guide to Maximizing Audio Quality on Meta Quest Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/capturing-velocity-hero-4-versus-ghost-s-racing-for-2024/"><u>Capturing Velocity Hero 4 Versus Ghost-S Racing for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/documentary-selections-starring-max-in-july-2024-our-top-recommendations/"><u>Documentary Selections Starring Max in July 2024: Our Top Recommendations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-the-critical-hardware-malfunction-understanding-and-addressing-whea-issues/"><u>Fixing the Critical Hardware Malfunction – Understanding & Addressing WHEA Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-transfer-google-photos-to-icloud/"><u>How to Transfer Google Photos to iCloud</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-the-perfect-match-download-drivers-for-logitech-g203-on-windows-os-versions/"><u>Installing the Perfect Match: Download Drivers for Logitech G203 on Windows OS Versions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/key-considerations-before-investing-in-a-video-capturing-system/"><u>Key Considerations Before Investing in a Video Capturing System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-and-correcting-content-restrictions-in-chatgpt/"><u>Navigating and Correcting Content Restrictions in ChatGPT</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/top-techniques-to-restore-your-lost-windows-11-recovery-drive/"><u>Top Techniques to Restore Your Lost Windows 11 Recovery Drive</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capturing-your-twitch-sessions-step-by-step/"><u>[New] In 2024, Capturing Your Twitch Sessions Step by Step</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/artistic-ventures-on-ios-the-bestiary-of-the-top-8-drawing-apps/"><u>Artistic Ventures on iOS The Bestiary of the Top 8 Drawing Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivo-wmv-a-formato-mov-sin-costo-con-herramientas-en-linea-movavi/"><u>Cómo Convertir Archivo WMV a Formato MOV Sin Costo Con Herramientas en Línea - Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decreasing-volume-gradually-in-garageband/"><u>Decreasing Volume Gradually in Garageband</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descubre-las-mejores-tecnicas-para-tomar-screenshots-de-google-maps-sin-costo-alguno-guia-paso-a-paso/"><u>Descubre Las Mejores Técnicas Para Tomar Screenshots De Google Maps Sin Costo Alguno - Guía Paso a Paso</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-13-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 13</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-and-convert-ogv-video-files-to-avi-for-free-today/"><u>Download and Convert OGV Video Files to AVI for Free Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-change-your-aac-files-into-high-quality-aiff-format-with-ease/"><u>Free Online Conversion: Change Your AAC Files Into High-Quality AIFF Format with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-inspired-tips-for-crafting-your-own-successful-training-plan/"><u>Movavi-Inspired Tips for Crafting Your Own Successful Training Plan</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-best-practices-to-minimize-resonance-in-sound-captures/"><u>New In 2024, Best Practices to Minimize Resonance in Sound Captures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-aimp4/"><u>Online AIMP4 투영어 변환 편집기 - 무료 제공</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-quality-quilting-turning-photographic-patterns-into-cartoons/"><u>Quick Quality Quilting Turning Photographic Patterns Into Cartoons</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-redmi-note-12t-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Redmi Note 12T Pro</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-ultimate-selection-top-6-mobile-apps-for-eliminating-audio-background-noise-on-android-and-ios/"><u>The Ultimate Selection: Top 6 Mobile Apps for Eliminating Audio Background Noise on Android and iOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-mejores-reproductores-swf-compatibles-con-windows-10-y-mac/"><u>Top 7 Mejores Reproductores SWF Compatibles Con Windows 10 Y Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-from-webp-to-jpeg-for-2024/"><u>Ultimate Tutorial From WebP to JPEG for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/3g2-avi-mov-movivi/"><u>오픈 소스 3G2 모비우 AVI 바이트를 제공하는 MOV형식으로 무료 대체: MoviVi</u></a></li>
 </ul></div>
 

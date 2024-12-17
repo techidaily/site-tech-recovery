@@ -1,7 +1,7 @@
 ---
 title: EU Orders Apple to Pay €1.9B Fine Over Violations of Competitive Rules in App Distribution | ZDNET News
-date: 2024-12-05T01:06:42.241Z
-updated: 2024-12-11T01:43:07.333Z
+date: 2024-12-12T18:00:26.227Z
+updated: 2024-12-17T18:14:14.844Z
 tags:
   - apple
 categories:
@@ -85,24 +85,23 @@ This fine is another notch in the EU's belt to level European competition among 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-inspirational-recruiter-playlist/"><u>[New] The Ultimate Inspirational Recruiter Playlist</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-establish-lasting-content-partnerships-with-youtubers-for-2024/"><u>[Updated] How to Establish Lasting Content Partnerships with YouTubers for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-full-review-and-how-to-for-facetunes-new-features/"><u>[Updated] In 2024, The Full Review and How-To for Facetune's New Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/affordable-luxury-top-tier-tech-delights-to-try/"><u>Affordable Luxury: Top-Tier Tech Delights to Try</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-the-impact-of-chatgpt-on-employment-contracts-10-scenarios/"><u>Assessing the Impact of ChatGPT on Employment Contracts - 10 Scenarios</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/correcting-the-error-how-to-handle-mfc42dll-failures-effectively/"><u>Correcting the Error: How to Handle mfc42.dll Failures Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-restore-functionality-of-your-xbox-gaming-headset-series-xs/"><u>Expert Tips to Restore Functionality of Your Xbox Gaming Headset (Series X/S)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/furbo-visionary-an-authoritative-look-at-the-premier-dog-camera-for-pup-owners/"><u>Furbo Visionary: An Authoritative Look at the Premier Dog Camera for Pup Owners</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-creating-a-custom-map-how-to-pinpoint-multiple-locations-using-google-maps/"><u>Guide to Creating a Custom Map: How to Pinpoint Multiple Locations Using Google Maps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-remove-your-iphone-sim-without-traditional-tools/"><u>How to Remove Your iPhone SIM Without Traditional Tools</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722869121822-inside-look-at-googles-newest-tech-a-comprehensive-guide-to-the-rumored-google-tv-box-pricing-and-more/"><u>Inside Look at Google's Newest Tech: A Comprehensive Guide to the Rumored Google TV Box – Pricing & More</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/non-specific-symptoms-like-cough-and-weight-loss-are-common-in-lung-cancer-but-not-diagnostic-on-their-own/"><u>Non-Specific Symptoms Like Cough and Weight Loss Are Common in Lung Cancer but Not Diagnostic on Their Own.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-must-try-automation-applications-for-your-pinterest-posts/"><u>Top 5 Must-Try Automation Applications for Your Pinterest Posts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-dbpower-600a-peak-charger-with-18000mah-capacity-unbiased-review/"><u>Ultimate Guide: DBPower 600A Peak Charger with 18,000mAh Capacity - Unbiased Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-aiming-high-selecting-the-best-webcams-for-live-gameplay-streams/"><u>[New] Aiming High Selecting the Best Webcams for Live Gameplay Streams</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhance-your-ig-visuals-with-three-effective-video-descriptions-for-2024/"><u>[New] Enhance Your IG Visuals with Three Effective Video Descriptions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-crafting-precise-time-indicators-in-youtubes/"><u>[Updated] 2024 Approved Crafting Precise Time Indicators in YouTubes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-insiders-guide-to-facebook-live-with-360-degrees/"><u>[Updated] 2024 Approved The Insider's Guide to Facebook Live with 360 Degrees</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024-google-meet/"><u>2024 新版 Google Meet 錄影功能實用指南: 選擇最佳錄影技巧</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-metaverse-musings-with-a-twist-of-augmented-reality/"><u>2024 Approved Metaverse Musings with a Twist of Augmented Reality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726227571207-wavmp3/"><u>線上轉換WAV為MP3 - 快速高效免費編程服務</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-setup-guide-activating-movavi-on-your-mac-step-by-step-instructions/"><u>Easy Setup Guide: Activating Movavi on Your Mac - Step by Step Instructions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-handbook-windows-pc-for-capturing-live-tv-for-2024/"><u>Essential Handbook Windows PC for Capturing Live TV for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-note-50-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme Note 50 Phone Screen?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-gratis-conversion-von-flvvob-dateien-mit-movavi-kostenlose-konvertierung/"><u>Online Gratis Conversion Von FLV/VOB Dateien Mit Movavi - Kostenlose Konvertierung</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-the-coredll-is-absent-warning-message/"><u>Solutions for Resolving the 'Core.dll Is Absent' Warning Message</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-s18e-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo S18e Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-11-applicazioni-mac-per-masterizzare-i-disco-ottimizzate-per-la-scrittura-su-dvd/"><u>Top 11 Applicazioni Mac per Masterizzare I Disco Ottimizzate per La Scrittura Su DVD</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

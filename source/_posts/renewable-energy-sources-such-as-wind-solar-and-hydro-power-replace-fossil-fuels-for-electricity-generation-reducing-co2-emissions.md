@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2024-12-08T20:05:31.231Z
-updated: 2024-12-11T12:52:25.389Z
+date: 2024-12-13T19:08:52.637Z
+updated: 2024-12-17T16:13:39.260Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -84,10 +84,6 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2010: Smartphones meet narcism, a match made in heaven
 
 Smartphones have evolved with a cadence we're all familiar with. Each year, new capabilities have been added and features improved. Cameras evolved from 3.0MP cameras to 48-50MP monsters like the [iPhone 15 Pro Max](https://www.zdnet.com/article/should-you-buy-an-iphone-15-heres-how-my-wife-and-i-are-deciding/), [Google Pixel 8](https://www.zdnet.com/article/pixel-8-pro-vs-pixel-7-pro/), [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and [Asus ROG Phone 8](https://rog.asus.com/articles/smartphones/the-rog-phone-8-and-rog-phone-8-pro-beyond-gaming-with-a-slim-new-design/).
@@ -118,10 +114,6 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AI and machine learning in today's smartphones
 
 If you think about the stages of photography, we had light and shadow, then we had fixed images stored using chemicals (the film stage), then we had magnetic media (still analog), and then the rise of digital cameras and smartphones. In each of those stages, the one common factor was that the camera was meant as a capture device. It didn't do any of the art.
@@ -138,6 +130,10 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -153,7 +149,7 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Object knowledge
@@ -175,6 +171,10 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -254,20 +254,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-primeval-20-anime-series-opener-music/"><u>[New] In 2024, Primeval 20 Anime Series Opener Music</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-professional-gopro-filming-made-simple-a-comprehensive-guide/"><u>[New] In 2024, Professional GoPro Filming Made Simple A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/audio-clarity-showdown-comparing-mp3-and-mp4-formats-which-delivers-better-sound-quality-and-smaller-file-size/"><u>Audio Clarity Showdown: Comparing MP3 & MP4 Formats - Which Delivers Better Sound Quality & Smaller File Size?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-integration-for-effortless-microsoft-word-automation/"><u>ChatGPT Integration for Effortless Microsoft Word Automation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-correcting-the-openal32dll-missing-mishap/"><u>Comprehensive Guide: Correcting the 'OpenAL32.DLL Missing' Mishap</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-correct-the-504-gateway-error-in-minutes/"><u>Effective Strategies to Correct the 504 Gateway Error in Minutes</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-picks-best-image-restoration-programs-on-pcmac-to-revive-old-photographs/"><u>Expert Picks: Best Image Restoration Programs on PC/Mac to Revive Old Photographs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-xiaomi-13t-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Xiaomi 13T lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/funny-apple-device-gags-best-iphone-and-ipad-pranks-for-good-laughs/"><u>Funny Apple Device Gags: Best iPhone & iPad Pranks for Good Laughs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-lgs-27uhd68-enhances-gaming-experience-for-2024/"><u>How LG's 27UHD68 Enhances Gaming Experience for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-12-pro-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 12 Pro Max</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/masterful-video-editing-software-ranking-our-five-preferred-programs-for-creators/"><u>Masterful Video Editing Software: Ranking Our Five Preferred Programs for Creators</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fixes-to-correct-the-d3d9dll-file-errors-on-pc/"><u>The Ultimate Fixes to Correct the d3d9.dll File Errors on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-your-ocidll-not-found-problems/"><u>The Ultimate Solution to Your 'oci.dll Not Found' Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/turning-your-desktop-into-television-magic-how-to-connect-windows-to-chromecast-easily/"><u>Turning Your Desktop Into Television Magic: How to Connect Windows to Chromecast Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-excellence-in-efficiency-top-5-chromes-for-vids-from-fb/"><u>[New] In 2024, Excellence in Efficiency Top 5 Chromes for Vids From FB</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevate-your-video-game-youtube-production-mastery/"><u>2024 Approved Elevate Your Video Game YouTube Production Mastery</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-quick-drama-drafting-method/"><u>2024 Approved Quick Drama Drafting Method</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-i-enjoy-my-ps4-game-library-on-a-ps5-system/"><u>Can I Enjoy My PS4 Game Library on a PS5 System?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-canon-imageclass-mf4800-printer-drivers-and-software/"><u>Free Download: Canon ImageClass MF4800 Printer Drivers & Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-students-can-set-up-a-convenient-wireless-entertainment-space-in-their-dorms/"><u>How Students Can Set Up a Convenient Wireless Entertainment Space in Their Dorms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-ensure-total-removal-of-your-yahoo-mail-profile-expert-advice/"><u>How To Ensure Total Removal of Your Yahoo Mail Profile: Expert Advice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-tech-triumphs-upcoming-top-5-playstation-vr-games/"><u>Immersive Tech Triumphs Upcoming Top 5 PlayStation VR Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-itel-p55plus-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Itel P55+ to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-reno-10-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo Reno 10 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-6s-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 6s Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-at-facebook-tracing-back-to-the-beginning-understanding-why-its-loved-and-key-traits/"><u>Inside Look at Facebook: Tracing Back to the Beginning, Understanding Why It's Loved & Key Traits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphones-vs-androids-showdown-iphone-1eon-15-pro-max-vs-samsung-s24-ultra-who-wins/"><u>IPhones Vs. Androids Showdown: IPhone 1Eon 15 Pro Max Vs. Samsung S24 Ultra - Who Wins?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-free-email-services-we-love/"><u>Top 10 Free Email Services We Love</u></a></li>
 </ul></div>
 

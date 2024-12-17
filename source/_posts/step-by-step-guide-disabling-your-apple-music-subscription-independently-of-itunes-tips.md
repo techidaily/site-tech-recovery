@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling Your Apple Music Subscription Independently of iTunes - Tips"
-date: 2024-12-08T23:08:51.140Z
-updated: 2024-12-11T03:26:35.343Z
+date: 2024-12-15T16:00:20.188Z
+updated: 2024-12-17T16:27:32.042Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -61,7 +57,7 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -69,10 +65,6 @@ Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings,
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -91,7 +83,7 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -99,6 +91,10 @@ Screenshot by Lance Whitney/ZDNET
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -112,6 +108,10 @@ You can also start a new conversation. To do this, select one of your displayed 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Intel Unison
 
 ## 1\. Install Intel Unison
@@ -121,6 +121,10 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -139,10 +143,6 @@ Screenshot by Lance Whitney/ZDNET
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -192,24 +192,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-quest-for-superior-video-playback-software/"><u>[New] 2024 Approved The Quest for Superior Video Playback Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-entry-level-insights-navigating-hd-and-uhd-video-standards/"><u>[New] Entry-Level Insights Navigating HD & UHD Video Standards</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-dual-careers-youtuber-and-full-time-employee/"><u>2024 Approved The Art of Dual Careers YouTuber & Full-Time Employee</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/comment-resoudre-rapidement-lecran-bleu-de-la-mort-bsod-avec-le-code-0xc000021a-sur-windows-11/"><u>Comment Résoudre Rapidement L'écran Bleu De La Mort (BSOD) Avec Le Code 0xC000021A Sur Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/correcting-gopros-fish-eye-distortion-techniques-for-2024/"><u>Correcting GoPro's Fish Eye Distortion Techniques for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-most-affordable-vr-experience-with-metas-newly-launched-51ebyte-quest-3-headset-expert-analysis/"><u>Get Your Hands on the Most Affordable VR Experience with Meta's Newly Launched 51Ebyte Quest 3 Headset – Expert Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-convert-an-ebook-from-epub-format-to-microsoft-word-documents-for-free/"><u>How to Convert an eBook From EPUB Format to Microsoft Word Documents for Free</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-read-amazon-kindle-titles-on-a-sony-reader-device/"><u>How to Read Amazon Kindle Titles on a Sony Reader Device</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/k2pdfopt-tutorial-mastering-windows-gui-optimization-for-beginners/"><u>K2pdfopt Tutorial: Mastering Windows GUI Optimization for Beginners</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-digital-rights-management-seamless-solutions-for-unrestricted-music-access/"><u>Mastering Digital Rights Management: Seamless Solutions for Unrestricted Music Access</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/narakeet-review-convenient-text-to-speech-voice-maker-for-2024/"><u>Narakeet Review Convenient Text to Speech Voice Maker for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/selfie-validation-is-it-essential-for-instagram-users-for-2024/"><u>Selfie Validation Is It Essential for Instagram Users for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/spotlight-on-failed-endeavors/"><u>Spotlight on Failed Endeavors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-transforming-epub-files-into-microsoft-word-documents-docx/"><u>Step-by-Step Guide: Transforming EPUB Files Into Microsoft Word Documents (DOCX)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/supercharge-your-audio-ultra-fast-aax-to-mp3-conversion-speeds-with-our-state-of-the-art-tool/"><u>Supercharge Your Audio: Ultra-Fast AAX to MP3 Conversion Speeds with Our State-of-the-Art Tool!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-10-desktop-bittorrent-applications-for-effective-peer-to-peer-file-exchange/"><u>Top 10 Desktop BitTorrent Applications for Effective Peer-to-Peer File Exchange</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-e-reader-software-calibre-the-ultimate-guide/"><u>Top E-Reader Software: Calibre - The Ultimate Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-the-best-epub-reading-software-compatible-with-apple-computers/"><u>Ultimate List of the Best ePUB Reading Software Compatible with Apple Computers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-achieving-professional-streams-with-obs-android-style/"><u>[New] Achieving Professional Streams with OBS, Android Style</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-superior-suggestions-elite-iphone-ringtones-developers/"><u>[New] In 2024, Superior Suggestions Elite iPhone Ringtones Developers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-untangling-aerial-vehicles-a-guide-to-drones-operation/"><u>[Updated] Untangling Aerial Vehicles A Guide to Drones' Operation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-how-to-migrate-pictures-from-google-photos-to-icloud-storage/"><u>Comprehensive Guide: How To Migrate Pictures From Google Photos To iCloud Storage</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-voip-options-is-vonage-leading-the-pack/"><u>Evaluating VoIP Options: Is Vonage Leading the Pack?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/from-everyday-use-to-extraordinary-virtual-adventures-smartphone-vr-conversion-guide/"><u>From Everyday Use to Extraordinary Virtual Adventures Smartphone-VR Conversion Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-integrating-samsung-soundbar-into-your-tv-system/"><u>Guide: Integrating Samsung Soundbar Into Your TV System</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-pc-clipper-guide-choose-from-the-5-best-tools/"><u>In 2024, The Ultimate PC Clipper Guide - Choose From the 5 Best Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-find-n3-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo Find N3 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-networking-frameworks-prime-server-rack-solutions-of-2024/"><u>Leading Networking Frameworks: Prime Server Rack Solutions of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolve-your-setup-file-missing-mishap-osetupdll-solutions-uncovered/"><u>Resolve Your Setup File Missing Mishap: Osetup.dll Solutions Uncovered</u></a></li>
+<li><a href="https://win-able.techidaily.com/successful-troubleshooting-for-pathfinder-wrath-of-the-righteous-stability-issues/"><u>Successful Troubleshooting for 'Pathfinder: Wrath of the Righteous' Stability Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tips-and-tricks-for-setting-up-a-tweet-publishing-timetable-efficiently/"><u>Tips & Tricks for Setting Up a Tweet Publishing Timetable Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/xinput13dll-file-missing-heres-how-you-can-resolve-it/"><u>xinput1_3.dll File Missing? Here's How You Can Resolve It!</u></a></li>
 </ul></div>
 

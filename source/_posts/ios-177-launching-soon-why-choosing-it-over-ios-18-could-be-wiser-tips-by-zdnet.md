@@ -1,7 +1,7 @@
 ---
 title: IOS 17.7 Launching Soon! Why Choosing It Over iOS 18 Could Be Wiser - Tips by ZDNET
-date: 2024-12-06T19:28:41.168Z
-updated: 2024-12-10T21:11:11.328Z
+date: 2024-12-13T18:09:11.749Z
+updated: 2024-12-17T18:50:13.601Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,22 +124,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-harness-the-power-of-gopro-studio-essential-editing-techniques/"><u>[New] 2024 Approved Harness the Power of GoPro Studio Essential Editing Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-drone-lineages-and-lines/"><u>[Updated] Drone Lineages and Lines</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-youtube-creating-a-stellar-new-chanel/"><u>[Updated] In 2024, From Zero to YouTube Creating a Stellar New Chanel</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-popularity-of-video-content-on-social-media-networks-has-been-soaring-in-the-last-couple-of-years-and-it-is-only-reasonable-to-expect-this/"><u>2024 Approved The Popularity of Video Content on Social Media Networks Has Been Soaring in the Last Couple of Years, and It Is only Reasonable to Expect This Trend to Continue. Thats the Reason Why in This Article</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/customize-your-workspace-a-simple-way-to-update-your-computers-desktop-background-advice-by-yl-software/"><u>Customize Your Workspace: A Simple Way to Update Your Computer's Desktop Background - Advice by YL Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-budget-college-laptop-that-outshines-macbooks-and-thinkpads-for-students-now-with-a-sweet-200-off-deal-reviews/"><u>Discover the Ultimate Budget College Laptop That Outshines MacBooks and ThinkPads for Students - Now With a Sweet 200 Off Deal! Reviews</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficiently-remove-unwanted-photos-from-facebook-a-comprehensive-walkthrough/"><u>Efficiently Remove Unwanted Photos From Facebook - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-handling-mfc42dll-is-absent-error-and-restoring-functionality/"><u>Expert Advice on Handling 'mfc42.dll Is Absent' Error and Restoring Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-newbies-to-pros-understanding-twitch-chat-basics/"><u>From Newbies to Pros: Understanding Twitch Chat Basics</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/going-cashless-with-ease-your-comprehensive-guide-to-using-apple-pay-on-an-apple-watch/"><u>Going Cashless with Ease: Your Comprehensive Guide to Using Apple Pay on an Apple Watch</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/guard-your-camera-top-10-shields-reviewed/"><u>Guard Your Camera - Top 10 Shields Reviewed</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guia-completa-como-replicar-tu-sistema-de-arranque-dual-con-una-unidad-ssd/"><u>Guía Completa: Cómo Replicar Tu Sistema De Arranque Dual Con Una Unidad SSD</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-create-stunning-images-using-iphones-latest-photo-cutout-tool-in-ios-16/"><u>How to Create Stunning Images Using iPhone's Latest Photo Cutout Tool in iOS 16</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-infinix-hot-40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Hot 40 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streaming-today-the-best-uk-tv-series-to-binge-on-netflix/"><u>Streaming Today: The Best UK TV Series to Binge on Netflix</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-trick-to-link-your-airpods-with-nintendo-switch-doable-or-not/"><u>The Ultimate Trick to Link Your AirPods with Nintendo Switch – Doable or Not?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-of-amazon-prime-day-2024-tips-and-insights-for-shopaholics/"><u>Unlocking the Secrets of Amazon Prime Day 2024 – Tips & Insights for Shopaholics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-cinematiccapture-easy-screen-recorder-for-win11-pcs-for-2024/"><u>[New] CinematicCapture Easy Screen Recorder for Win11 PCs for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-fix-the-facebook-story-not-uploading-problem/"><u>[New] In 2024, How to Fix the Facebook Story Not Uploading Problem?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-7-best-fps-games/"><u>[Updated] The 7 Best Fps Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-in-one-video-solutions-by-movavi-seamless-screen-camera-and-audio-recording-for-professionals/"><u>All-in-One Video Solutions by Movavi: Seamless Screen, Camera & Audio Recording for Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprendere-il-file-divx-guida-alla-lettura-e-alla-reproduzione/"><u>Comprendere Il File DivX: Guida Alla Lettura E Alla Reproduzione</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-archivo-flv-a-formato-m4a-de-forma-gratuita-online-con-conversor-video/"><u>Convertir Archivo FLV a Formato M4A De Forma Gratuita Online Con Conversor Video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experts-choose-the-ideal-mini-tablets-for-2-cuisines-in-depth-analysis-and-rankings/"><u>Experts Choose the Ideal Mini Tablets for 2 Cuisines | In-Depth Analysis and Rankings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-audio-converter-change-aac-files-into-aiff-format-with-movavi/"><u>Free Online Audio Converter: Change AAC Files Into AIFF Format with Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-tecno-camon-30-pro-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Camon 30 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/nox-player-troubleshooting-guide-how-to-resolve-frequent-disruptions-and-crashing-problems-on-your-computer/"><u>Nox Player Troubleshooting Guide: How to Resolve Frequent Disruptions and Crashing Problems on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-umwandeln-von-aiff-dateien-in-wav-format-fur-den-pc-und-mac-kostenlos-bei-movavi/"><u>Online Umwandeln Von AIFF Dateien in WAV Format Für Den PC Und Mac Kostenlos Bei Movavi</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/quick-and-clever-sharing-gifs-on-snapchat-made-simple-for-2024/"><u>Quick & Clever Sharing GIFs on Snapchat Made Simple for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/secure-mp3-conversion-of-live-skype-talks-for-2024/"><u>Secure MP3 Conversion of Live Skype Talks for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-eliminating-sound-from-an-mkv-video/"><u>Step-by-Step Guide: Eliminating Sound From an MKV Video</u></a></li>
 </ul></div>
 

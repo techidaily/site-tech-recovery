@@ -1,7 +1,7 @@
 ---
 title: "Logitech Keyboard: A Step-by-Step Guide to Capturing Screenshots"
-date: 2024-08-26T08:24:52.448Z
-updated: 2024-08-27T08:24:52.448Z
+date: 2024-12-15T18:59:34.741Z
+updated: 2024-12-17T17:53:00.231Z
 categories:
   - BestProducts
 description: "This Article Describes Logitech Keyboard: A Step-by-Step Guide to Capturing Screenshots"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 ---
 
 ## Logitech Keyboard: A Step-by-Step Guide to Capturing Screenshots
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Windows key+PrtSc** or**Windows key+Alt+PrtScn** to capture only the active window.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 * Macs: Press**Shift+Command+3** or**Shift+Command+4** or**Shift+Command+4+Spacebar** for partial capture.
 
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
@@ -33,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
@@ -44,11 +54,13 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Are My Screenshots Saved?
 
  On Windows, open the File Explorer and go to**This PC** \>**Pictures** \>**Screenshots** to see your screenshots. On Mac, screenshots are saved to the desktop.
@@ -86,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +105,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-enhanced-joy-in-switchs-hd-gameplay-through-cards/"><u>[New] In 2024, Enhanced Joy in Switch's HD Gameplay Through Cards</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnose-and-fix-skype-problems-with-these-10-expert-tips/"><u>Diagnose and Fix Skype Problems with These 10 Expert Tips</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-efficient-online-strategies-backed-by-cookiebot/"><u>Harness Efficient Online Strategies, Backed by Cookiebot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-rectify-errors-linked-with-libeay32dll-absence/"><u>How to Address and Rectify Errors Linked with Libeay32.dll Absence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-you-forget-your-ipad-password-or-passcode/"><u>How to Fix It When You Forget Your iPad Password or Passcode</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-enhance-photo-clarity-with-snapchats-zoom-function/"><u>In 2024, Enhance Photo Clarity with Snapchat's Zoom Function</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/livecam-rivals-meet/"><u>LiveCam Rivals Meet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-drivers-release-note-win-11-compatibility/"><u>Nvidia GTX 970 Drivers Release Note: Win 11 Compatibility</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/travel-tech-tips-how-to-enjoy-continuous-streaming-by-linking-roku-to-a-temporary-wi-fi-source/"><u>Travel Tech Tips: How to Enjoy Continuous Streaming by Linking Roku to a Temporary Wi-Fi Source</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-mystery-of-your-pcs-black-screen-on-windows-11/"><u>Ultimate Guide: Resolving the Mystery of Your PC's Black Screen on Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Hunt the Most Amazing Thanksgiving, Black Friday, and Cyber Monday Savings at Walmart!
-date: 2024-12-07T08:21:12.702Z
-updated: 2024-12-10T17:33:22.754Z
+date: 2024-12-13T17:41:13.906Z
+updated: 2024-12-17T16:34:24.268Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Below, you'll find the best iPhone deals currently available through US carriers
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best iPhone deals
@@ -103,7 +103,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [View now at T-Mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Ft-mobile.com) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Apple iPhone deals
@@ -135,7 +135,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [Refurbished iPhones at Apple (save $100+) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Frefurbished%2Fiphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPhone accessory deals
@@ -153,7 +153,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these iPhone deals?
@@ -179,7 +179,7 @@ While it's too early for us to know any definitive details, Apple typically refr
 However, if the iPad and iPhone maker follows its usual schedule, considering the iPhone 15 was launched in September 2023, we can expect an iPhone 16 to appear around September 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best tech deals in 2024?
@@ -238,24 +238,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-download-and-store-linkedin-videos-the-ultimate-list-of-6-essential-apps/"><u>[New] Download & Store LinkedIn Videos The Ultimate List of 6 Essential Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-laugh-loom-meme-crafter/"><u>[New] In 2024, Laugh Loom Meme Crafter</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-screenshot-supreme-expert-analysis-of-recorders/"><u>[New] Screenshot Supreme Expert Analysis of Recorders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gently-ebbing-sounds-with-logic-pros-dimming-function/"><u>[Updated] Gently Ebbing Sounds with Logic Pro's Dimming Function</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unlock-the-potential-of-your-gaming-experience-with-these-top-techniques-on-windows-11-for-2024/"><u>[Updated] Unlock the Potential of Your Gaming Experience with These Top Techniques on Windows 11 for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728475404162-ssd/"><u>優れた無料スイートでの外部SSDバックアップ方法</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-productivity-unveiling-the-top-30-keyboard-shortcuts-for-googles-gmail-service/"><u>Boost Your Productivity: Unveiling the Top 30 Keyboard Shortcuts for Google's Gmail Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-mechanics-of-espnpluss-live-sports-and-content-delivery-on-demand/"><u>Decoding the Mechanics of ESPN+'s Live Sports and Content Delivery on Demand</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-addressing-d-sounddll-errors-when-they-are-lost-or-cannot-be-found/"><u>Guide: Addressing D sound.dll Errors When They Are Lost or Cannot Be Found</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-use-live-activities-on-iphone-ios-16/"><u>How to Use Live Activities on iPhone (iOS 16)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/multi-speaker-setup-linking-several-bluetooth-audio-devices-simultaneously/"><u>Multi-Speaker Setup: Linking Several Bluetooth Audio Devices Simultaneously</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-fifa-soccer-2020-game-crashing-issues/"><u>Resolved: How to Fix FIFA Soccer 2020 Game Crashing Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/savor-the-seeds/"><u>Savor the Seeds</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-signals-of-engagement-identifying-when-others-have-viewed-your-messages/"><u>The Signals of Engagement: Identifying When Others Have Viewed Your Messages</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-explanation-of-how-instagram-works/"><u>The Ultimate Explanation of How Instagram Works</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-google-pixel-fold-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Google Pixel Fold.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722852787156-unlock-electric-vehicle-benefits-complimentary-parking-and-express-highway-lanes/"><u>Unlock Electric Vehicle Benefits: Complimentary Parking and Express Highway Lanes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exclusive-review-of-showmore-authoritative-screen-capture-software/"><u>[New] In 2024, Exclusive Review of ShowMore’ Authoritative Screen Capture Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-3-easy-ways-to-record-overwatch-gameplay/"><u>2024 Approved 3 Easy Ways to Record Overwatch Gameplay</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-of-free-system-boosters-for-2prise-registry-cleaner-edition/"><u>Discover the Ultimate List of Free System Boosters for 2Prise: Registry Cleaner Edition</u></a></li>
+<li><a href="https://win-webster.techidaily.com/expand-your-playlist-the-fresh-hit-collection-on-party-tyme-subscription-service-update-effective-11-6-17-featuring-the-latest-karaoke-tracks-for-djs-and-si94/"><u>Expand Your Playlist – The Fresh Hit Collection on Party Tyme Subscription Service (Update Effective 11-6-17) Featuring the Latest Karaoke Tracks for DJs and Singers Alike</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-x5-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco X5 Fingerprint Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-itunes-and-google-play-what-sets-them-apart/"><u>Navigating Through iTunes and Google Play - What Sets Them Apart?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-cream-of-the-crop-top-premiere-pro-transition-plugins/"><u>New 2024 Approved The Cream of the Crop Top Premiere Pro Transition Plugins</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-missing-winhttpdll-errors-essential-troubleshooting-techniques/"><u>Overcoming Missing Winhttp.dll Errors: Essential Troubleshooting Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steering-towards-innovation-the-top-2024-pioneers-in-self-driving-cars/"><u>Steering Towards Innovation: The Top 2024 Pioneers in Self-Driving Cars</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-art-of-hiding-hashtags-on-social-media-platforms/"><u>The Art of Hiding Hashtags on Social Media Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-color-grading-skills-with-photoshops-luts-for-2024/"><u>Transform Your Color Grading Skills with Photoshop's LUTs for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/untangling-and-repairing-the-whea-device-malfunction-a-comprehensive-guide/"><u>Untangling and Repairing the WHEA Device Malfunction: A Comprehensive Guide</u></a></li>
 </ul></div>
 

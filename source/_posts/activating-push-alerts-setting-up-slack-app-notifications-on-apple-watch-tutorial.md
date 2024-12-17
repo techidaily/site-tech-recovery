@@ -1,7 +1,7 @@
 ---
 title: "Activating Push Alerts: Setting Up Slack App Notifications on Apple Watch - Tutorial"
-date: 2024-12-09T04:09:54.369Z
-updated: 2024-12-10T16:34:39.179Z
+date: 2024-12-12T18:38:17.841Z
+updated: 2024-12-17T18:43:15.892Z
 tags:
   - apple
 categories:
@@ -44,13 +44,13 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to enable Slack notifications on your Apple Watch
-
-**What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to enable Slack notifications on your Apple Watch
+
+**What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -58,13 +58,13 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -99,7 +99,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -122,13 +122,13 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,24 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-every-moment-unveiling-5-exceptional-streamer-webcams/"><u>[New] Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevating-vlogging-to-new-heights-yi-hero-reviewed/"><u>[New] In 2024, Elevating Vlogging to New Heights Yi Hero Reviewed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-establishing-a-mac-based-sports-media-outlet-for-2024/"><u>[Updated] Establishing a Mac-Based Sports Media Outlet for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-stepping-up-advanced-techniques-for-w11-gamers/"><u>[Updated] In 2024, Stepping Up Advanced Techniques for W11 Gamers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-photo-cartoony-kick-cross-platform-windows-and-mac-software/"><u>[Updated] Photo Cartoony Kick Cross-Platform Windows & Mac Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-essentials-of-sims-4-gameplay-recording/"><u>2024 Approved The Essentials of Sims 4 Gameplay Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-translate-speech-to-text-the-right-way-with-google-translate/"><u>2024 Approved Translate Speech to Text the Right Way with Google Translate</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722891449573-all-about-the-next-big-thing-the-samsung-galaxy-z-fold-6-price-guide-and-specs-inside/"><u>All About the Next Big Thing: The Samsung Galaxy Z Fold 6 - Price Guide and Specs Inside</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-analysis-top-pick-on-recuvas-file-restoration-capabilities/"><u>Comprehensive Analysis: Top Pick on Recuva's File Restoration Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-every-nook-of-polarrs-editing-capabilities/"><u>Discovering Every Nook of Polarr's Editing Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-hp-officejet-pro-6970-printer-drivers-for-windows-latest-version/"><u>Download HP OfficeJet Pro 6970 Printer Drivers for Windows - Latest Version</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-everything-you-need-to-know-the-ultimate-guide-to-netflix/"><u>Exploring Everything You Need To Know: The Ultimate Guide to Netflix</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-perfect-photo-placement-on-windows-machines/"><u>In 2024, Perfect Photo Placement on Windows Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-windows-with-wintoys-your-quick-reference-manual/"><u>Simplifying Windows With WinToys: Your Quick Reference Manual</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stream-fandangos-movie-selection-from-the-comfort-of-home-on-apple-tv/"><u>Stream Fandango's Movie Selection From the Comfort of Home on Apple TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-quintessential-selection-top-five-complimentary-cybersecurity-defenders-against-malware/"><u>The Quintessential Selection: Top Five Complimentary Cybersecurity Defenders Against Malware</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-503-service-temporarily-unavailable-response-and-solutions/"><u>Understanding the 503 Service Temporarily Unavailable Response & Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-web-development-top-8-complimentary-html-editors-tailored-for-windows-users/"><u>Unlock the Power of Web Development: Top 8 Complimentary HTML Editors Tailored for Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/vlc-for-apple-tv-a-comprehensive-guide-to-access-unlimited-content/"><u>VLC for Apple TV: A Comprehensive Guide to Access Unlimited Content.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-culinary-connoisseurs-must-watch-food-content-for-2024/"><u>[Updated] Culinary Connoisseurs Must-Watch Food Content for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-zero-cost-typewriting-courses-available-online-ideal-for-kids-to-seniors/"><u>Best Zero-Cost Typewriting Courses Available Online, Ideal for Kids to Seniors!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bringing-android-experience-to-windows-11-a-comprehensive-walkthrough/"><u>Bringing Android Experience to Windows 11: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defining-output-impedance-in-electronics/"><u>Defining Output Impedance in Electronics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-illusions-shaping-your-pics/"><u>Digital Illusions Shaping Your Pics</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-enhancing-follows-into-genuine-subscriptions/"><u>In 2024, Enhancing Follows Into Genuine Subscriptions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-laugh-out-loud-for-free-easymemes-tutorial/"><u>In 2024, Laugh Out Loud for Free EasyMemes Tutorial</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-6-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 6 Making It Possible</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protect-your-kids-online-the-top-8-parental-control-apps-and-services/"><u>Protect Your Kids Online: The Top 8 Parental Control Apps and Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-mac-quickly-with-advanced-recovery-mode-instructions/"><u>Reviving Your Mac Quickly with Advanced Recovery Mode Instructions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96321063-9781401933876-there-are-no-goodbyes/"><u>There Are No Goodbyes | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-navigating-the-internet-archives-wayback-machine/"><u>Ultimate Guide: Navigating the Internet Archive's Wayback Machine</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlock-lunapics-secret-to-stunning-visuals/"><u>Unlock LunaPic's Secret to Stunning Visuals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-insights-from-windows-10s-battery-health-analysis-tool/"><u>Unlocking Insights From Windows 10'S Battery Health Analysis Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-details-of-atandts-cellular-roaming-agreements/"><u>Unlocking the Details of AT&T's Cellular Roaming Agreements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-samsung-galaxy-watch-7-costs-launch-details-and-latest-updates/"><u>Unveiling the Samsung Galaxy Watch 7: Costs, Launch Details & Latest Updates</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-11-0x807800c5/"><u>Windows 11 バックアップ失敗時のエラー 0X807800C5: 迅速な修正手順</u></a></li>
 </ul></div>
 

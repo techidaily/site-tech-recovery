@@ -1,7 +1,7 @@
 ---
 title: "Is Investing in Advanced Apple Features Worth the Price?: Exploring Potential Costs of Enhanced Tech"
-date: 2024-12-06T10:06:55.150Z
-updated: 2024-12-11T10:55:04.568Z
+date: 2024-12-15T19:12:00.170Z
+updated: 2024-12-17T19:02:15.395Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -35,10 +39,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -60,7 +60,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -79,10 +79,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -94,10 +90,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -111,10 +103,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -126,6 +114,10 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -155,6 +147,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -169,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,24 +210,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unmatched-mobileweb-image-magnification-toolkit/"><u>[New] Unmatched Mobile/Web Image Magnification Toolkit</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-magic-understanding-srts-impact/"><u>2024 Approved Inside the Magic Understanding SRT's Impact</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-encoding-made-fast/"><u>6 Encoding Made Fast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-free-up-space-by-deleting-mac-applications/"><u>A Beginner's Guide to Free Up Space by Deleting Mac Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-stop-error-0x0000003d-expert-fixes-to-restore-your-computers-stability/"><u>Decoding Stop Error 0X0000003D: Expert Fixes to Restore Your Computer's Stability</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s23-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy S23 has native MOV support?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-identify-must-have-components-in-a-gamers-dream-pc-setup/"><u>How to Identify Must-Have Components in a Gamer's Dream PC Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-your-nba-2k23-game-from-crashing-on-pc-proven-fix-1-7/"><u>How to Stop Your NBA 2K23 Game From Crashing on PC: Proven Fix #1-7</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-swap-out-the-receiver-for-a-new-connection-in-your-logitech-mouse-setup/"><u>How to Swap Out the Receiver for a New Connection in Your Logitech Mouse Setup</u></a></li>
-<li><a href="https://win-studio.techidaily.com/ps3-storage-transformation-how-to-clone-and-upgrade-to-an-ssd-for-enhanced-performance/"><u>PS3 Storage Transformation: How to Clone and Upgrade to an SSD for Enhanced Performance</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-puzzle-how-to-gain-access-to-your-ipad-sans-passcode/"><u>Solving the Puzzle: How to Gain Access to Your iPad Sans Passcode</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-capturing-images-with-your-samsung-galaxy-device/"><u>Step-by-Step Guide: Capturing Images with Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-clearing-browsing-history-across-all-top-web-browsers/"><u>Step-by-Step Guide: Clearing Browsing History Across All Top Web Browsers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-eliminating-dsounddll-missing-error-in-windows/"><u>Step-by-Step Guide: Eliminating dsound.dll Missing Error in Windows</u></a></li>
-<li><a href="https://win-net.techidaily.com/the-shocking-revelation-from-microsofts-quest-for-workplace-joy-and-engagement/"><u>The Shocking Revelation From Microsoft's Quest for Workplace Joy and Engagement</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformez-un-fichier-flac-en-m4r-gratuitement-sur-internet-movavi/"><u>Transformez Un Fichier FLAC en M4R Gratuitement Sur Internet - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-connection-issues-with-your-stadia-gaming-headset/"><u>Troubleshooting Guide: Resolving Connection Issues with Your Stadia Gaming Headset</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-on-connecting-apple-devices-display-content-on-tv-using-airplay/"><u>Ultimate Tutorial on Connecting Apple Devices - Display Content on TV Using AirPlay</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bright-future-for-your-android-videos-a-comprehensive-plan/"><u>[New] Bright Future for Your Android Videos - A Comprehensive Plan</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ourney-through-time-with-these-top-10-historical-youtube-sources-for-2024/"><u>[New] Journey Through Time with These Top 10 Historical YouTube Sources for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-seamless-tactic-for-igtv-stories-integration/"><u>[New] Seamless Tactic for IGTV Stories Integration</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-boost-your-channel-top-14-gaming-vids-for-youtube-success/"><u>[Updated] 2024 Approved Boost Your Channel Top 14 Gaming Vids for YouTube Success</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-leveraging-youtube-for-dynamic-instagram-stories/"><u>[Updated] In 2024, Leveraging YouTube for Dynamic Instagram Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavitta-flac/"><u>「もクシーなくても、MovaviでフリーウェブTTA FLACコンバータ」</u></a></li>
+<li><a href="https://win-lab.techidaily.com/7-a-complete-guide/"><u>7 - A Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/raw/"><u>詳解RAW 檔案：如何啟用及其特性 - 網路上最全面的指南</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/converter-para-wmv-ao-vivo-e-gratuito-webm-gratis-no-movavi/"><u>Converter Para Wmv Ao Vivo E Gratuito - Webm Grátis No Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-web-based-mp4mkvmpe-transformation-to-wmv-format-with-moveavii/"><u>Free Web-Based MP4/MKV/MPE Transformation to WMV Format with MoveAvii</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-art-of-laptop-video-capturing-for-2024/"><u>Mastering the Art of Laptop Video Capturing for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/panorama-pro-network-partnership-guide/"><u>Panorama Pro Network Partnership Guide</u></a></li>
 </ul></div>
 
