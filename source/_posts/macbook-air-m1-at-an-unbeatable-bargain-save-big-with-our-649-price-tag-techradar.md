@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air M1 at an Unbeatable Bargain: Save Big with Our $649 Price Tag! | TechRadar"
-date: 2024-12-16T16:13:17.453Z
-updated: 2024-12-17T17:00:41.996Z
+date: 2024-12-20T05:42:36.572Z
+updated: 2024-12-26T08:40:11.293Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,19 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-template-to-trendsetter-gamer-channel-banners-guide/"><u>[Updated] In 2024, From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-2023-guide-to-your-updated-lg-bp550/"><u>[Updated] Ultimate 2023 Guide to Your Updated LG BP550</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726227629827-heic-jpg/"><u>採用最佳免費 HEIC 改成 JPG 工具，全新熱門轉換方式逐一介紹！</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726221261452-mpeg-mp3-movavi/"><u>網上自由轉化 MPEG 成 MP3 - 利用 Movavi 音頻格式更改器</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/apple-m1-demystified-the-tech-leap-forward-for-2024/"><u>Apple M1 Demystified The Tech Leap Forward for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-en-ligne-sans-frais-de-webm-vers-m4a-avec-movavi-guide-complet/"><u>Conversion en Ligne Sans Frais De Webm Vers M4A Avec Movavi - Guide Complet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-gratis-movavi-video-transcoder-movil-y-descargador-de-videos-libre/"><u>Download Gratis Movavi Video Transcoder - Móvil Y Descargador De Videos Libre</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-keeping-your-mac-awake-and-active-tips-and-tricks/"><u>Guide: Keeping Your Mac Awake and Active - Tips & Tricks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-android-flip-digital-content-sequence/"><u>Master Android Flip Digital Content Sequence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavis-no-cost-tool-to-transform-video-object-streaming-vos-to-windows-media-audio-wma/"><u>Movavi's No-Cost Tool to Transform Video Object Streaming (VOS) to Windows Media Audio (.WMA)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726228164844-movavi-202/"><u>Movavi视频编辑器 202</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sharing-laughter-iphone-memes/"><u>Sharing Laughter IPhone Memes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-lower-ping-and-enhance-gameplay-smoothness-in-valheim-windows/"><u>Ultimate Guide: Lower Ping & Enhance Gameplay Smoothness in Valheim (Windows)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/vital-steps-in-choosing-the-ideal-router/"><u>Vital Steps in Choosing the Ideal Router</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-guide-to-crossfade-sounds-using-audacity/"><u>[New] 2024 Approved The Ultimate Guide to Crossfade Sounds Using Audacity</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-initiate-your-journey-into-asmr-filming-essential-insights-revealed/"><u>[New] Initiate Your Journey Into ASMR Filming – Essential Insights Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-peeking-into-instagram-stories-what-viewers-dont-know/"><u>[Updated] In 2024, Peeking Into Instagram Stories What Viewers Don’t Know</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-the-social-landscape-choose-todays-best-tags-for-2024/"><u>[Updated] Navigating the Social Landscape Choose Today's Best Tags for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-eyes-on-apples-latest-innovation-exclusive-insights-into-price-release-date-and-specs-of-rumored-foldable-iphones/"><u>All Eyes on Apple's Latest Innovation! Exclusive Insights Into Price, Release Date, and Specs of Rumored Foldable iPhones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-productivity-the-ultimate-how-to-for-dual-monitors-on-a-mac/"><u>Boost Productivity: The Ultimate How-To for Dual Monitors on a Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-whats-coming-from-samsung-exciting-announcements-speculations-and-news-highlights/"><u>Discover What's Coming From Samsung : Exciting Announcements, Speculations & News Highlights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/football-footage-fundamentals-without-finances-for-2024/"><u>Football Footage Fundamentals Without Finances for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-unresponsive-zoom-cameras-efficiently/"><u>How to Repair Unresponsive Zoom Cameras Efficiently</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-from-fantasy-to-feasibility-vrs-milestones/"><u>In 2024, From Fantasy to Feasibility VR's Milestones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-line-chat-app-reviews-user-experiences-unveiled/"><u>In-Depth Line Chat App Reviews: User Experiences Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959123693-maximize-your-graphics-card-potential-with-newly-available-nvidia-rtx-2n80-super-driver-software-optimal-for-win10win11/"><u>Maximize Your Graphics Card Potential with Newly Available NVIDIA RTX 2N80 Super Driver Software - Optimal for Win10/Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/redefining-public-sector-it-partnerships-what-microsofts-downtime-tells-us-about-big-tech-dependency-risks/"><u>Redefining Public Sector IT Partnerships: What Microsoft’s Downtime Tells Us About Big Tech Dependency Risks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-msvcr100dll-missing-error-a-comprehensive-guide/"><u>Solving the MSVCR100.DLL Missing Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-video-edits-software-the-ultimate-guide-for-win11-users/"><u>Top 8 Video Edits Software: The Ultimate Guide for Win11 Users</u></a></li>
 </ul></div>
 

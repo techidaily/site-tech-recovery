@@ -1,7 +1,7 @@
 ---
 title: "EV Performance in Harsh Weather: How Do Electric Vehicles Handle Extreme Cold and Heat?"
-date: 2024-08-20T11:43:42.749Z
-updated: 2024-08-21T11:43:42.749Z
+date: 2024-12-24T21:48:42.660Z
+updated: 2024-12-25T18:52:16.450Z
 categories:
   - BestProducts
 description: "This Article Describes EV Performance in Harsh Weather: How Do Electric Vehicles Handle Extreme Cold and Heat?"
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
  Electric vehicles can work in any temperature although they do work best in a sort of Goldilocks temperature range where the outside environment isn’t too cold to have an adverse effect on the battery capacity and isn’t hot enough to require air conditioning. 
 
  Electric vehicle range in extreme cold and heat may not be as dire as you expect though and, for the record, gas-powered vehicles aren’t immune from temperature extremes either. Still, it's advantageous to understand how heat and cold impact EVs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Temperature Generally Affects Electric Car Batteries 
 
@@ -46,6 +50,10 @@ Westend61/Getty
 
 [  How Long to Expect Your EV Battery to Last (and How to Extend Its Life) ](https://www.lifewire.com/how-long-will-ev-battery-last-5201587) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Temperature Specifically Affects EV Range 
 
  Temperature issues don’t just affect the battery itself. It can also impact an EV’s overall range. 
@@ -65,6 +73,10 @@ Westend61/Getty
 
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%271500%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  PHOTO:
 
 Bailey Mariner
@@ -74,8 +86,9 @@ Bailey Mariner
  According to the U.S. Department of Energy,[ a gas-powered car can have its range decreased by over 25 percent](https://www.fueleconomy.gov/feg/hotweather.shtml) when running the A/C in extremely hot weather. In comparison, the average EV can be expected to reach about 80 percent of its rated range in conditions where the ambient temperature is 104 degrees. In that particular situation, an EV is likely to beat a gas-powered vehicle in terms of retaining more of its range.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Heat Pumps vs. Resistive Heaters in EVs 
 
  Both resistive heaters and heat pumps can be used in EVs. The benefit of using a heat pump in an EV instead of a resistive heater is that heat pumps are simply more energy efficient. 
@@ -89,18 +102,15 @@ Bailey Mariner
  Heat pumps are typically capable of operating in EVs in temperatures down to about 25 to 30 degrees Fahrenheit, although efficiency does drop off the colder it gets. In even colder temperatures, it becomes more efficient to switch over to a resistive heater.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  9 Ways to Manage Range in Extreme Weather Conditions 
 
  While it’s true that EV range can be reduced by both extremely hot and cold weather, there are a number of things you can do to improve the range of an EV in extreme weather conditions: 
 
 ![A thermometer showing Celsius and Fahrenheit temps against a blue sky with light clouds.](https://www.lifewire.com/thmb/tDbSwvUy-6HtJbQj-IVHx1Jsd1U=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Thermometor_celsiusandF_Kameleon007_Getty-765dddd365544edfbcfd93b31bcf4342.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Kameleon007/Getty
 
 1. **Reduce the use of air conditioning in hot weather.** Set the A/C at the highest temperature you’re comfortable with, and consider cooling off with other methods like a portable battery-powered fan and an ice chest full of cool drinks when going on long road trips.
@@ -121,8 +131,6 @@ Kameleon007/Getty
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +138,26 @@ Kameleon007/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-boost-video-velocity-top-android-helpers/"><u>[New] Boost Video Velocity - Top Android Helpers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-windows-10-storage-guide-how-to-save-and-organize-mov/"><u>[Updated] 2024 Approved Windows 10 Storage Guide How to Save and Organize .mov</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mapping-social-interest-to-video-idea-generation-with-google/"><u>[Updated] Mapping Social Interest to Video Idea Generation with Google</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-apple-advises-against-drying-out-a-soaked-iphone-with-rice-heres-the-better-method/"><u>1. Apple Advises Against Drying Out a Soaked iPhone with Rice - Here's the Better Method</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/3-ways-to-record-discord-live-stream/"><u>3 Ways to Record Discord Live Stream</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-vision-pro-revolutionizes-enterprise-asset-handling-with-advanced-device-management-features-discover-in-our-latest-zdnet-analysis/"><u>Apple Vision Pro Revolutionizes Enterprise Asset Handling with Advanced Device Management Features | Discover in Our Latest ZDNet Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/authoritative-guide-to-the-premier-tablets-of-2024-comprehensive-expert-reviews/"><u>Authoritative Guide to the Premier Tablets of 2024 - Comprehensive Expert Reviews</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-zero-to-hero-learning-the-art-of-youtube-content/"><u>From Zero to Hero Learning the Art of YouTube Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-your-tech-essentials-iphone-ipad-apple-watch-airpods-and-mac-at-half-price-with-vision-pro-see-how/"><u>Get Your Tech Essentials: IPhone, iPad, Apple Watch, AirPods & Mac at Half Price with Vision Pro - See How !</u></a></li>
+<li><a href="https://win-hot.techidaily.com/guide-complet-pour-la-sauvegarde-et-la-gestion-des-appareils-ios-avec-fonebackup/"><u>Guide Complet Pour La Sauvegarde Et La Gestion Des Appareils iOS Avec FoneBackup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-ios-175-brought-back-your-missing-photos-and-next-steps-unveiled-by-apple-zdnet/"><u>How iOS 17.5 Brought Back Your Missing Photos and Next Steps - Unveiled by Apple | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-ipados-and-macos-integration-apple-collaborates-with-openai-for-chatgpt-availability-zdnet/"><u>IOS, iPadOS & MacOS Integration: Apple Collaborates with OpenAI for ChatGPT Availability | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-air-powered-by-apples-new-m2-chip-is-it-your-ideal-purchase-expert-insights-from-zdnet/"><u>IPad Air Powered by Apple's New M2 Chip: Is It Your Ideal Purchase? Expert Insights From ZDNet.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-ios-tablets-and-phones-using-only-your-gaze-thanks-to-apples-latest-accessibility-innovation-zdnet/"><u>Navigate iOS Tablets and Phones Using Only Your Gaze, Thanks to Apple's Latest Accessibility Innovation | ZDNET</u></a></li>
+<li><a href="https://win-help.techidaily.com/reliable-protection-with-nortons-pc-cloud-backup-feature-your-ultimate-guide-to-zero-data-loss-solutions/"><u>Reliable Protection with Norton's PC Cloud Backup Feature: Your Ultimate Guide to Zero Data Loss Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-optimizing-wdf-performance-and-reducing-system-cpu-usage/"><u>Resolved: Optimizing WDF Performance & Reducing System CPU Usage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-how-you-find-answers-bings-cutting-edge-ai-integration-ready-for-smartphones/"><u>Revolutionize How You Find Answers: Bing's Cutting-Edge AI Integration Ready for Smartphones!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-power-upgrades-for-os-x-and-win-with-srt-systems/"><u>Top 10 Power Upgrades for OS X and Win with SRT Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-smart-lock-apps-for-ios-secure-and-discreet-options-revealed/"><u>Top Smart Lock Apps for iOS: Secure & Discreet Options Revealed</u></a></li>
+</ul></div>
 

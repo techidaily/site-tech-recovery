@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2024-12-13T18:20:06.852Z
-updated: 2024-12-17T16:02:05.296Z
+date: 2024-12-21T02:12:48.519Z
+updated: 2024-12-25T21:45:24.659Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -35,10 +39,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -59,6 +59,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -74,10 +78,6 @@ With context on what is on your iPhone, iPad, or Mac and screen awareness, Siri 
 The voice assistant will also be able to perform hundreds of new actions across Apple and third-party apps, like opening articles from a Reading List or looking up a specific photo in your library. 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
 
@@ -103,10 +103,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -120,7 +116,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -136,7 +132,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -169,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,22 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unpacking-youtubes-financial-framework-shifts/"><u>[New] 2024 Approved Unpacking YouTube’s Financial Framework Shifts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-expert-insights-the-best-approaches-to-live-cricket-broadcasting-for-2024/"><u>[New] Expert Insights The Best Approaches to Live Cricket Broadcasting for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-transform-your-instagram-vids-with-advanced-editing-skills/"><u>[New] Transform Your Instagram Vids with Advanced Editing Skills</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-professional-audio-techniques-in-davinci-resolve-the-art-of-normalization/"><u>2024 Approved Professional Audio Techniques in DaVinci Resolve The Art of Normalization</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-se-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone SE? Find the Best Solution Here</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/getting-windows-11-search-back-on-track-effective-strategies-and-tips/"><u>Getting Windows 11 Search Back on Track: Effective Strategies and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enhance-your-iphones-display-with-custom-font-downloads/"><u>How to Enhance Your iPhone’s Display with Custom Font Downloads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x50-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor X50 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ios-vs-android-a-comprehensive-guide-to-the-app-stores-differences/"><u>IOS vs Android: A Comprehensive Guide to the App Stores Differences</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/multi-channel-mastery-tips-for-managing-more-than-one-youtube-account/"><u>Multi-Channel Mastery: Tips for Managing More Than One YouTube Account</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-missing-dll-errors-effective-solutions-for-a-smooth-computer-experience/"><u>Resolving Missing DLL Errors: Effective Solutions for a Smooth Computer Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-kernel32dll-problems-in-windows/"><u>Step-by-Step Guide: Correcting Kernel32.dll Problems in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-for-turning-the-on-screen-keyboard-on-or-off-in-windows-10/"><u>The Ultimate Tutorial for Turning the On-Screen Keyboard On or Off in Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-itel-a70-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Itel A70 Location | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-best-combined-cable-modems-and-routers-of-2024/"><u>Ultimate Guide to the Best Combined Cable Modems & Routers of 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unveiling-10-cost-effective-virtual-communication-tools/"><u>2024 Approved Unveiling 10 Cost-Effective Virtual Communication Tools</u></a></li>
+<li><a href="https://win-great.techidaily.com/einfach-und-effektiv-verschieben-sie-ihr-betriebssystem-auf-eine-kompaktere-ssd/"><u>Einfach Und Effektiv: Verschieben Sie Ihr Betriebssystem Auf Eine Kompaktere SSD!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevating-likes-strategies-for-shaping-square-footage-on-fb/"><u>Elevating Likes Strategies for Shaping Square Footage on FB</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-eliminating-distracting-horizontal-lines-from-monitor-screens/"><u>Guide: Eliminating Distracting Horizontal Lines From Monitor Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-the-noise-adjustment-glitch-in-windows/"><u>How to Overcome the Noise Adjustment Glitch in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-mobile-gaming-winning-or-losing-the-game/"><u>Is Mobile Gaming Winning or Losing the Game?</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-into-nvidia-g-sync-the-ultimate-smoother-gaming-tool/"><u>Journey Into Nvidia G-Sync: The Ultimate Smoother Gaming Tool</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/next-gen-intelligent-doc-analysis-with-newly-released-abbyy-vantage-v21/"><u>Next-Gen Intelligent Doc Analysis with Newly Released ABBYY Vantage V2.1</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-communication-join-us-for-the-samsung-phone-reveal-ceremony/"><u>Revolutionize Your Communication – Join Us for the Samsung Phone Reveal Ceremony</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-your-social-memories-fb-imagevideo-save-techniques/"><u>Securing Your Social Memories: FB Image/Video Save Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-to-snapping-photos-while-playing-xbox-one/"><u>The Ultimate Walkthrough to Snapping Photos While Playing Xbox One</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-solve-not-registered-on-network-errors-on-your-samsung-smartphone/"><u>Troubleshoot & Solve 'Not Registered on Network' Errors on Your Samsung Smartphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-protocol-resetting-your-samsung-audio-bar-system/"><u>Troubleshooting Protocol: Resetting Your Samsung Audio Bar System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-66-travel-influencers-on-twitter-with-exclusive-offers/"><u>Ultimate List of 66 Travel Influencers on Twitter with Exclusive Offers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-duckduckgo-how-secure-and-private-is-this-alternative-search-platform/"><u>Understanding DuckDuckGo: How Secure and Private Is This Alternative Search Platform?</u></a></li>
 </ul></div>
 

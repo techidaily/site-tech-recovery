@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2024-12-12T17:20:57.963Z
-updated: 2024-12-17T16:33:24.529Z
+date: 2024-12-19T04:20:18.170Z
+updated: 2024-12-26T01:13:46.201Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
@@ -36,10 +36,6 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Access Notifications & Focus
 
 In the System Preferences window (**Figure 1**), click Notifications & Focus.
@@ -47,6 +43,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -57,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -77,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,19 +140,16 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/onetizing-with-youtube-avg-revenue-from-an-ad-in-2024/"><u>[New] Monetizing with Youtube Avg Revenue From An Ad, In 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-breaking-the-monotony-infusing-novelty-in-ppt-voiceovers/"><u>[Updated] In 2024, Breaking the Monotony Infusing Novelty in PPT Voiceovers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-video-mastery-for-professional-vimeo-users/"><u>[Updated] Ultimate Video Mastery for Professional Vimeo Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-in-depth-look-the-prime-snipping-options-on-macos/"><u>2024 Approved In-Depth Look The Prime Snipping Options on macOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tsmov-movavi/"><u>直接在線上改變TS到MOV格式的方法 - 利用 Movavi 影像編輯器自由轉換</u></a></li>
-<li><a href="https://fox-http.techidaily.com/cash-up-fast-a-newbies-guide-to-the-13-best-reddit-money-hacks/"><u>Cash Up Fast A Newbie's Guide to the 13 Best Reddit Money Hacks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-your-avi-files-for-free-using-movavis-web-service/"><u>Convert Your AVI Files for Free Using Movavi's Web Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crea-file-mp4-da-3gpp-online-e-liberamente-con-movavi-trasformazione-gratuita/"><u>Crea File MP4 Da 3GPP Online E Liberamente Con Movavi - Trasformazione Gratuita</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-amd-radeon-rx-480-driver-software-for-smooth-performance/"><u>Get the Latest AMD Radeon RX 480 Driver Software for Smooth Performance</u></a></li>
-<li><a href="https://facebook.techidaily.com/halt-global-tag-functionality-on-fb/"><u>Halt Global Tag Functionality on FB</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-converte-agora-gravatarias-de-mp3-para-avi-sem-custo-ferramenta-online-livre-e-facil/"><u>Movavi - Converte AGORA Gravatárias De MP3 Para AVI Sem Custo: Ferramenta Online Livre E Fácil!</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-up-your-game-selecting-premium-accessories-for-steam-deck-users/"><u>Step Up Your Game: Selecting Premium Accessories for Steam Deck Users</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-mac-vlc-video-cutter-trim-cut-and-edit-videos-without-quality-degradation-for-2024/"><u>Updated Mac VLC Video Cutter Trim, Cut, and Edit Videos Without Quality Degradation for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tga-png-movavi/"><u>온라인 TGA 포지탱크에서 PNG로의 자원 절약 – 모바비(Movavi)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-picking-perfect-your-path-through-basic-plus-and-pro-in-vimeo/"><u>[Updated] 2024 Approved Picking Perfect Your Path Through Basic, Plus & Pro in Vimeo</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-kids-drones/"><u>[Updated] The Ultimate Guide to Kids' Drones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-these-7-free-mobile-apps-for-academic-success-in-the-new-school-year/"><u>Discover These 7 Free Mobile Apps for Academic Success in the New School Year</u></a></li>
+<li><a href="https://article-files.techidaily.com/exploring-vllo-experiences-for-2024/"><u>Exploring VLLO Experiences for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insights-into-the-shift-towards-sustainable-mobility-with-electric-vehicles/"><u>Insights Into the Shift Towards Sustainable Mobility with Electric Vehicles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/on-the-road-and-recorded-essential-helmet-cams-unveiled-for-bikers-gear-for-2024/"><u>On the Road & Recorded - Essential Helmet Cams Unveiled for Bikers' Gear for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-essential-guide-to-smartphone-based-youtube-thumbnails-for-2024/"><u>The Essential Guide to Smartphone-Based YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-guide-to-comprehending-ray-tracing-methodology/"><u>The Insider's Guide to Comprehending Ray Tracing Methodology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-recover-or-reinstall-d3dx924dll-for-seamless-software-performance/"><u>The Ultimate Guide to Recover or Reinstall d3dx9_24.dll for Seamless Software Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-enable-and-disable-the-screen-keyboard-on-your-pc-running-windows-10/"><u>The Ultimate Walkthrough: Enable and Disable the Screen Keyboard on Your PC Running Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2024-12-12T18:36:19.704Z
-updated: 2024-12-17T17:08:47.241Z
+date: 2024-12-21T09:24:36.471Z
+updated: 2024-12-26T04:43:59.580Z
 tags:
   - apple
 categories:
@@ -30,15 +30,15 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -48,6 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -55,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -63,10 +67,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,20 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-step-by-step-facetune-your-complete-2024-guidebook/"><u>[New] Step-by-Step Facetune Your Complete 2024 Guidebook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-professionals-guide-to-adding-youtube-content-to-powerpoint-slides-for-2024/"><u>[Updated] The Professional's Guide to Adding YouTube Content to PowerPoint Slides for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-recommendation-best-websites-to-download-game-of-thrones-ringtones/"><u>2024 Approved Recommendation Best Websites to Download Game of Thrones Ringtones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/achieving-flawless-self-portraits-an-expert-guide-to-using-selfie-lights-effectively/"><u>Achieving Flawless Self-Portraits: An Expert Guide to Using Selfie Lights Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/banish-the-unwanted-blues-from-your-television-a-guide-to-the-8-best-remedies/"><u>Banish the Unwanted Blues From Your Television! A Guide to the 8 Best Remedies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/flip-to-fun-immediate-collage-making-tricks/"><u>Flip to Fun Immediate Collage Making Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-samsungs-latest-gem-revealed-the-galaxy-z-flip-7-expected-costs-launch-timeline-and-specs-inside/"><u>Get Ahead of the Curve: Samsung's Latest Gem Revealed! The Galaxy Z Flip 7 - Expected Costs, Launch Timeline and Specs Inside</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-the-notion-of-a-paperclip-maximizer-intersect-with-the-world-of-artificial-intelligence/"><u>How Does the Notion of a Paperclip Maximizer Intersect with the World of Artificial Intelligence?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-transform-your-copy-with-strategic-slug-line-usage/"><u>In 2024, Transform Your Copy with Strategic Slug Line Usage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/minimizing-disorientation-your-vr-wellbe-written-guide-for-2024/"><u>Minimizing Disorientation Your VR Wellbe Written Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899546821-pixel-9-unveiled-anticipated-launch-details-and-pricing-revealed/"><u>Pixel 9 Unveiled? Anticipated Launch Details & Pricing Revealed</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-bootmgr-missing-problem-a-step-by-step-guide/"><u>Solving the BOOTMGR Missing Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-handbook-choosing-your-perfect-pc-or-notebook-for-education/"><u>The Definitive Handbook: Choosing Your Perfect PC or Notebook for Education</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341719697-unveil-the-latest-in-hardware-at-toms-technical-blog-stay-ahead-of-innovations/"><u>Unveil the Latest in Hardware at Tom's Technical Blog – Stay Ahead of Innovations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>[New] 4K Monitor Buying Guide How to Choose the Right Monitor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-insights-on-optimal-fpv-drone-blades/"><u>[New] Expert Insights on Optimal FPV Drone Blades</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-and-share-a-beginners-guide-to-viewing-netflix-with-others-online/"><u>Connect & Share: A Beginner's Guide to Viewing Netflix with Others Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/great-image-quality-overshadowed-by-confusing-a10-interface/"><u>Great Image Quality Overshadowed by Confusing A10 Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/inhibit-tracking-of-windows-application-startups/"><u>Inhibit Tracking of Windows Application Startups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-decisions-a-9-point-guide-for-prospective-electric-car-buyers/"><u>Key Decisions: A 9-Point Guide for Prospective Electric Car Buyers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-to-command-line-start-powershell-or-command-prompt-directly-from-a-specific-folder/"><u>Navigate to Command Line: Start PowerShell or Command Prompt Directly From a Specific Folder</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-error-0x80070570-diagnosis-and-fixing-techniques/"><u>Navigating Through Error 0X80070570: Diagnosis and Fixing Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/siri-speaks-up-how-to-activate-automatic-text-reading-on-your-ios-and-macos-systems/"><u>Siri Speaks Up: How to Activate Automatic Text Reading on Your iOS and macOS Systems</u></a></li>
+<li><a href="https://win-popular.techidaily.com/solving-system-issues-with-bad-drivers-expert-advice-from-yl-software/"><u>Solving System Issues with Bad Drivers: Expert Advice From YL Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/starting-strategies-for-an-engaging-fb-giveaway/"><u>Starting Strategies for an Engaging FB Giveaway</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-sharing-your-printer-with-multiple-computers-and-gadgets/"><u>Step-by-Step Guide: Sharing Your Printer with Multiple Computers and Gadgets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-submission-a-podcasters-guide/"><u>Streamlining Submission A Podcaster's Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-in-tech-rumored-details-on-the-iphone-17s-pricing-and-launch-date/"><u>The Next Big Thing in Tech: Rumored Details on the iPhone 17'S Pricing and Launch Date</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-adding-expressions-with-iphone-emojis/"><u>The Ultimate Tutorial: Adding Expressions with iPhone Emojis</u></a></li>
 </ul></div>
 

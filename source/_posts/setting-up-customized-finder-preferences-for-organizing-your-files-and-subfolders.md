@@ -1,7 +1,7 @@
 ---
 title: Setting Up Customized Finder Preferences for Organizing Your Files & Subfolders
-date: 2024-08-20T11:43:46.397Z
-updated: 2024-08-21T11:43:46.397Z
+date: 2024-12-24T20:57:40.345Z
+updated: 2024-12-25T17:42:28.976Z
 categories:
   - BestProducts
 description: This Article Describes Setting Up Customized Finder Preferences for Organizing Your Files & Subfolders
@@ -11,6 +11,10 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
 
 ## Deciding Between Building or Purchasing Your Own Computer – Find the Best Choice for You
  It's easy enough to pick out a new computer to buy. The other option is to gather[all the necessary components](https://www.lifewire.com/desktop-pc-parts-checklist-832694) and build the PC yourself. We looked at the pros and cons of both to help you decide whether to build a computer or buy one off the shelf.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overall Findings
 
@@ -51,8 +55,9 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
 * Less familiarity with internal components.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -63,9 +68,6 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -75,8 +77,9 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Building a PC: Pros and Cons
 
  Advantages
@@ -104,9 +107,6 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -117,6 +117,10 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
@@ -124,13 +128,11 @@ thumbnail: https://www.lifewire.com/thmb/psPxcHzFAaOwFDsmNsFa3-K_2kw=/400x300/fi
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Lifewire / Julie Bang
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Build a Computer
 
  If you're interested in building a desktop computer from parts, take the next steps.
@@ -165,8 +167,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +174,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-clear-your-vision-overcoming-instagram-footage-issues/"><u>[New] 2024 Approved Clear Your Vision Overcoming Instagram Footage Issues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-guide-to-fcp-freebies/"><u>[Updated] In 2024, The Ultimate Guide to FCP Freebies</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-xs-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone XS</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-review-of-the-innocn-ultrawide-40-144-hz-gaming-screen-a-spacious-and-responsive-choice-cnet/"><u>Comprehensive Review of the Innocn Ultrawide 40” 144 Hz Gaming Screen – A Spacious and Responsive Choice | CNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ideal-ipad-models-for-children-in-202n-a-ranking/"><u>Discover the Ideal iPad Models for Children in 202N - A Ranking</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-presidents-holiday-discount-alert-grab-a-cut-priced-macbook-pro-equipped-with-powerful-m3-pro-chip-from-zdnet-for-200-less/"><u>Exclusive President’s Holiday Discount Alert! Grab a Cut-Priced MacBook Pro Equipped with Powerful M3 Pro Chip From ZDNet for $200 Less!</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-new-era-of-filesystems-windows-11s-innovations/"><u>Navigating the New Era of Filesystems: Windows 11'S Innovations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Tablets - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlocking-secure-periscope-streaming-techniques-and-strategies-for-2024/"><u>Unlocking Secure Periscope Streaming Techniques & Strategies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-of-the-ce-34878-0-code-on-your-playstation-4-solutions-inside/"><u>Unraveling the Mystery of the CE-34878-0 Code on Your PlayStation 4 - Solutions Inside!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrade-or-not-expert-advice-on-choosing-the-iphone-16-perspectives-by-zdnet-editors/"><u>Upgrade or Not? Expert Advice on Choosing the iPhone 16 - Perspectives by ZDNet Editors</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y36-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y36 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+</ul></div>
 

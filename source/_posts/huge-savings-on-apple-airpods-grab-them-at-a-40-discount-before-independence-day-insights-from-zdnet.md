@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet"
-date: 2024-12-14T18:18:28.281Z
-updated: 2024-12-17T17:57:16.062Z
+date: 2024-12-23T07:37:37.386Z
+updated: 2024-12-26T09:19:51.201Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8fc6b51a-545c-47ed-9fa6-87cbc8d2712f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,18 +62,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-emulators-reviving-sonys-ps1-games/"><u>[Updated] 2024 Approved Essential Emulators Reviving Sony's PS1 Games</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-analyzing-user-feedback-the-latest-on-lg-bp350-display-tech/"><u>[Updated] Analyzing User Feedback The Latest on LG BP350 Display Tech</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/accurate-boundary-conditions-are-crucial-for-modeling-real-world-transient-heat-scenarios-effectively/"><u>Accurate Boundary Conditions Are Crucial for Modeling Real-World Transient Heat Scenarios Effectively.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ethical-techniques-to-find-phone-numbers-through-online-research/"><u>Ethical Techniques to Find Phone Numbers Through Online Research</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-next-level-audio-quality-through-dts-virtualx/"><u>Experience Next-Level Audio Quality Through DTS Virtual:X</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-the-scoop-on-apple-watch-x-projected-price-points-expected-debut-date-and-specs-plus-rumored-details-inside/"><u>Get the Scoop on Apple Watch X: Projected Price Points, Expected Debut Date & Specs; Plus Rumored Details Inside!</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-depth-exploration-how-to-closely-inspect-roblox-environments/"><u>In-Depth Exploration How to Closely Inspect Roblox Environments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-excel-with-chatgpt-a-comprehensive-guide-to-conquering-spreadsheet-anxiety/"><u>Mastering Excel with ChatGPT: A Comprehensive Guide to Conquering Spreadsheet Anxiety</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-technology-insights-with-toms-hardware-reviews/"><u>Mastering Technology Insights with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/retrieving-removed-contacts-a-guide-to-recovering-deleted-mobile-numbers-on-android/"><u>Retrieving Removed Contacts: A Guide to Recovering Deleted Mobile Numbers on Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-rebooting-your-samsung-bar-for-optimal-audio-performance/"><u>Ultimate Troubleshooting Tips: Rebooting Your Samsung Bar for Optimal Audio Performance</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/journey-to-curating-an-impressive-youtube-collection-for-2024/"><u>Your Journey to Curating an Impressive YouTube Collection for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>[New] 2024 Approved Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-5-best-gba-emulators-you-can-find-on-pc/"><u>2024 Approved 5 Best GBA Emulators You Can Find on PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ai-assisted-the-ultimate-list-of-podcast-title-makers/"><u>2024 Approved AI-Assisted The Ultimate List of Podcast Title Makers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leap-forward-in-editing-embrace-xp-movie-maker/"><u>2024 Approved Leap Forward in Editing Embrace XP Movie Maker</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-samsung-z-fold-4-anticipated-release-dates-pricing-strategy-and-comprehensive-specifications/"><u>All About Samsung Z Fold 4 - Anticipated Release Dates, Pricing Strategy & Comprehensive Specifications</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/big-sur-basics-for-system-and-hardware-enthusiasts/"><u>Big Sur Basics for System & Hardware Enthusiasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-possible-outages-is-microsoft-teams-experiencing-downtime-or-connectivity-issues/"><u>Exploring Possible Outages: Is Microsoft Teams Experiencing Downtime or Connectivity Issues?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-fingerprint-driver-downloader-and-updater-tool-for-windows-pcs/"><u>Free Fingerprint Driver Downloader and Updater Tool for Windows PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-job-quests-6-chatgpt-techniques-explored/"><u>Innovating Job Quests: 6 ChatGPT Techniques Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-micromobility-sphere-upcoming-events-latest-stories-and-insider-information/"><u>Inside the Micromobility Sphere: Upcoming Events, Latest Stories & Insider Information</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-artificial-intelligence-explore-our-curated-selection-of-15-affordable-online-courses/"><u>Master Artificial Intelligence: Explore Our Curated Selection of 15 Affordable Online Courses</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalize-your-emails-with-unique-sounds-in-gmail-step-by-step-guide/"><u>Personalize Your Emails with Unique Sounds in Gmail – Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-developer-cant-be-verified-on-your-mac-a-step-by-step-guide/"><u>Solving 'Developer Can't Be Verified' On Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tcl-expands-its-q-and-s-class-smart-tv-lineups-with-19-new-models/"><u>TCL Expands Its Q and S Class Smart TV Lineups With 19 New Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-strategies-for-achieving-high-performance-on-apple-tv/"><u>Top Strategies for Achieving High Performance on Apple TV</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-mix-fold-3-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Mix Fold 3 Screen | Dr.fone</u></a></li>
 </ul></div>
 

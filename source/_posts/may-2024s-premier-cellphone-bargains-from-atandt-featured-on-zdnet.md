@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2024-12-16T19:24:26.821Z
-updated: 2024-12-17T17:01:59.608Z
+date: 2024-12-21T04:32:21.443Z
+updated: 2024-12-25T21:56:11.910Z
 tags:
   - apple
 categories:
@@ -130,6 +130,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -151,23 +155,19 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -175,7 +175,7 @@ In general, there is no difference in how much money you save whether you shop o
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
@@ -184,7 +184,7 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by category**
@@ -236,24 +236,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fix-halo-ones-dx12-failure-at-launching/"><u>[FIX] Halo One's DX12 Failure at Launching</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamline-your-social-media-uploading-on-twitter/"><u>[New] 2024 Approved Streamline Your Social Media Uploading on Twitter</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-enthralling-type-mobility-setups/"><u>[New] Enthralling Type Mobility Setups</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-counteract-crashes-in-win-11s-photo-viewer/"><u>[New] How to Counteract Crashes in Win 11'S Photo Viewer</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-flashy-feeds-to-fm-sounds-the-instagram-to-mp3-methodology/"><u>[Updated] In 2024, From Flashy Feeds to FM Sounds The Instagram-to-Mp3 Methodology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boosting-visibility-on-social-media-adding-a-pinterest-section-to-your-facebook-profile/"><u>Boosting Visibility on Social Media: Adding a Pinterest Section to Your Facebook Profile</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-for-disabling-crisis-alerts-on-your-ios-gadget/"><u>Comprehensive Tutorial for Disabling Crisis Alerts on Your iOS Gadget</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortlessly-convert-images-from-pgm-to-tiff-format-on-the-web-try-movavi-now/"><u>Effortlessly Convert Images From PGM to TIFF Format on the Web - Try Movavi Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminate-missing-msvcrtdll-effective-solutions-for-windows-users/"><u>Eliminate 'Missing msvcrt.dll': Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-asus-rog-phone-7-ultimate-phone-by-drfone-android/"><u>How to Reset a Locked Asus ROG Phone 7 Ultimate Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/join-forces-with-a-companion-for-ultimate-pokemon-catching-success/"><u>Join Forces with a Companion for Ultimate Pokémon Catching Success!</u></a></li>
-<li><a href="https://games-able.techidaily.com/leadership-in-gaming-secure-early-spiderman-2-edition/"><u>Leadership in Gaming: Secure Early SPIDERMAN 2 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-your-fitness-tracker-options-a-look-at-5-important-points-before-buying/"><u>Navigating Through Your Fitness Tracker Options: A Look at 5 Important Points Before Buying</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ottimizzazione-digitale-con-digiarty-professionalisti-della-conversione-e-conservazione-video-and-dvd/"><u>Ottimizzazione Digitale Con Digiarty – Professionalisti Della Conversione E Conservazione Video & DVD</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx933dll-error-a-comprehensive-guide/"><u>Resolving d3dx9_33.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamlined-surfing-discover-alternative-methods-to-connect-online-without-cables-or-phones/"><u>Streamlined Surfing: Discover Alternative Methods to Connect Online without Cables or Phones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-your-non-functional-samsung-soundbar/"><u>Troubleshooting Tips: Resolving Issues with Your Non-Functional Samsung Soundbar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-live-sports-install-and-watch-fubotv-on-your-fire-tv-device/"><u>Unlocking Live Sports: Install and Watch FuboTV on Your Fire TV Device</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-glamour-unleashed-comprehensive-youtube-guide-to-elegance/"><u>[New] 2024 Approved Glamour Unleashed Comprehensive YouTube Guide to Elegance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-convert-for-free-from-twitter-videos-to-animated-gifs/"><u>[New] In 2024, Convert for Free From Twitter Videos to Animated Gifs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-bass-controls-a-deep-dive-into-the-mechanics-of-bass-management/"><u>Demystifying Bass Controls: A Deep Dive Into the Mechanics of Bass Management</u></a></li>
+<li><a href="https://win-web.techidaily.com/elevate-your-screen-with-squid-game-inspired-imagery-from-yl-software-a-gateway-to-cinematic-wallpapers/"><u>Elevate Your Screen with 'Squid Game'-Inspired Imagery From YL Software – A Gateway to Cinematic Wallpapers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-picked-selection-of-top-free-virus-detectors-of-this-year/"><u>Explore Our Picked Selection of Top Free Virus Detectors of This Year</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unleashing-the-power-of-preparedness-in-your-streams/"><u>In 2024, Unleashing the Power of Preparedness in Your Streams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-email-management-linking-gmail-account-with-apple-watch/"><u>Mastering Email Management: Linking Gmail Account with Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-editing-tips-for-perfectly-resizing-pictures-for-instagram/"><u>Mastering the Art of Image Editing: Tips for Perfectly Resizing Pictures for Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchat-enhancements-the-most-acclaimed-video-editing-tools-for-2024/"><u>Snapchat Enhancements The Most Acclaimed Video Editing Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-guide-to-automated-mac-lecture-recording/"><u>The Ultimate Guide to Automated Mac Lecture Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-confusing-aspects-of-twitch-chat-explained-for-new-streamers/"><u>Top Confusing Aspects of Twitch Chat Explained for New Streamers</u></a></li>
 </ul></div>
 

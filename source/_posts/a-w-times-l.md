@@ -1,7 +1,7 @@
 ---
 title: \\[A = W \\Times L \\
-date: 2024-12-13T19:18:51.118Z
-updated: 2024-12-17T19:00:23.321Z
+date: 2024-12-25T07:15:13.826Z
+updated: 2024-12-26T03:40:40.761Z
 tags:
   - apple
 categories:
@@ -45,10 +45,14 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the Google Pixel 6 Pro if…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
@@ -60,7 +64,7 @@ One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows u
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You want a bigger battery
@@ -72,7 +76,7 @@ While Apple's iPhones have made significant improvements to battery life since t
 CNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
@@ -87,10 +91,6 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 
 ##  You should buy the iPhone 13 Pro if...
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You want cinematic camera features
 
 Every year, the new "Pro" iPhone comes with a suite of camera features to justify the branding. The 13 Pro introduces a new Macro Mode for close-up shots, photographic styles for quick color overlays, and Cinematic Mode video recording. 
@@ -103,10 +103,6 @@ The iPhone 13 Pro also features new photographic styles. Different from your typ
 
 Lastly, Cinematic Mode shoots videos with a soft, out-of-focus background so that the subject of interest and the depth map are kept separate. With AI processing, the focus can intelligently shift when the subject turns around and his or her back is then facing the camera. Overall, the special mode gives a more movie-like quality to your iPhone videos 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You own other Apple products (AirPods, Apple Watch, iPad, MacBook, etc.)
 
 There's a reason for Apple's cult following and customer loyalty. Its products have always followed a "strength in numbers" philosophy, enhancing existing services when more than one device is integrated. This interlocking of hardware and software is best described as Apple's walled garden, making it difficult for users to switch out once they're invested. 
@@ -114,6 +110,10 @@ There's a reason for Apple's cult following and customer loyalty. Its products h
 While not an actual product, the Apple ecosystem is still very much part of the product you purchase when investing in, say, an iPhone. Your Apple ID credentials serve as the ecosystem's life source, allowing you to manage and protect multiple devices effortlessly. If you already own a pair of AirPods, an Apple Watch, or a MacBook, then buying the iPhone 13 Pro will make more sense usability-wise. 
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
 
@@ -153,15 +153,19 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/1723003650181-solved-sid-meiers-civilization-vi-crashing-issue/"><u>[Solved] Sid Meier's Civilization VI Crashing Issue</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-list-selecting-excellent-webcams-for-podcasts/"><u>[Updated] Ultimate List Selecting Excellent Webcams for Podcasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-the-latest-nvidia-geforce-gtx-1650-super-graphics-driver-for-windows-11/"><u>Download the Latest NVIDIA GeForce GTX 1650 Super Graphics Driver for Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-the-missing-or-not-found-msstdfmtdll-error/"><u>Effective Solutions to the 'Missing' Or 'Not Found' Msstdfmt.dll Error</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-g54-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola G54 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/permanent-closure-of-yahoo-mail-accounts-a-comprehensive-tutorial/"><u>Permanent Closure of Yahoo! Mail Accounts: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-restoring-phone-function-on-your-android-device/"><u>Step-by-Step Solution: Restoring Phone Function on Your Android Device</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/swiveling-screens-mastering-video-rotation-on-instagram/"><u>Swiveling Screens Mastering Video Rotation on Instagram</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-dissection-of-fb-video-dimensions/"><u>[New] 2024 Approved Dissection of FB Video Dimensions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-deep-dive-into-theta-s-a-full-camera-examination/"><u>[Updated] In 2024, Deep Dive Into Theta S A Full Camera Examination</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtubes-new-look-shorts-now-on-screen-for-2024/"><u>[Updated] YouTube's New Look - Shorts Now on Screen for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cam-protection-the-ultimate-10-guide/"><u>Cam Protection The Ultimate 10 Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pixma-driver-update-a-hassle-free-tutorial-for-fast-results/"><u>Canon PIXMA Driver Update - A Hassle-Free Tutorial for Fast Results</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-hp-officejet-3830-printer-driver-on-windows-pc-free-and-easy/"><u>Download the HP Officejet 3830 Printer Driver on Windows PC - Free and Easy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-well-does-the-latest-iphone-14-stack-up-insights-from-zdnets-in-depth-analysis/"><u>How Well Does the Latest iPhone 14 Stack Up? Insights From ZDNet's In-Depth Analysis.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-maintenance-revolution-apple-authorizes-reuse-of-components-in-device-fixes-techinsights/"><u>IPhone Maintenance Revolution: Apple Authorizes Reuse of Components in Device Fixes | TechInsights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-your-apple-watchs-battery-top-8-essential-setting-adjustments-revealed/"><u>Maximize Your Apple Watch's Battery: Top 8 Essential Setting Adjustments Revealed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/219222-9780385515214-my-descent-into-death/"><u>My Descent Into Death | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reforestation-and-afforestation-expand-carbon-sinks-by-increasing-the-number-of-trees-that-absorb-co2-from-the-atmosphere/"><u>Reforestation and Afforestation Expand Carbon Sinks by Increasing the Number of Trees that Absorb CO2 From the Atmosphere.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-affordable-alternative-xr-headsets-reviewed-zdnet/"><u>Switching From Apple Vision Pro & Meta Quest 3: Affordable Alternative XR Headsets Reviewed | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-studio-excellence-the-revolutionary-audio-capabilities-of-apples-latest-iphone-model-as-reviewed-by-zdnet/"><u>Unlocking Studio Excellence: The Revolutionary Audio Capabilities of Apple's Latest iPhone Model, as Reviewed by ZDNET</u></a></li>
 </ul></div>
 

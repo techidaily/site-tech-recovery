@@ -1,7 +1,7 @@
 ---
 title: Google's Next Smartwatch Leak – Specs, Expected Release Timeline, and Pricing Rumors
-date: 2024-08-26T08:22:41.099Z
-updated: 2024-08-27T08:22:41.099Z
+date: 2024-12-22T23:21:46.690Z
+updated: 2024-12-26T09:35:36.413Z
 categories:
   - BestProducts
 description: This Article Describes Google's Next Smartwatch Leak – Specs, Expected Release Timeline, and Pricing Rumors
@@ -25,14 +25,18 @@ thumbnail: https://www.lifewire.com/thmb/eZCsnZ_o4WJg4q6a-hlX0XpDflw=/540x405/fi
 
  Based on how Google released the first two Pixel watches, we can expect the Pixel Watch 3 release date to coincide with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) launch. It will likely be revealed at[the next Made by Google event](https://www.lifewire.com/google-event-5205756) on August 13.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 Look for an official Pixel Watch 3 announcement on August 13.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Pixel Watch 3 Price Rumors
 
  The first two Pixel Watches started at $349.99\. This is likely how Google will price its next smartwatch. And, of course, you can expect to pay around $50 more for LTE.
@@ -47,17 +51,15 @@ Look for an official Pixel Watch 3 announcement on August 13.
 * **Pixel Watch 3 XL (45 mm / LTE)** : $429.99
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  You'll be able to pre-order the Pixel Watch 3 from the[Google Store](https://store.google.com/category/watches) . We'll drop the link here when pre-ordering starts.
 
 [The Best-Looking Smartwatches](https://www.lifewire.com/best-looking-smart-watches-3441410)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Google Pixel Watch 3 Specs & Features
 
  The battery life in the[Pixel Watch 2](https://www.lifewire.com/google-pixel-watch-2-7498464) received a bump over the first edition. This update was much needed, but it can still be improved. For example,[Samsung's Galaxy Watch 6](https://www.lifewire.com/samsung-galaxy-watch-6-news-and-rumors-7371704) lasts around 30 hours with Always-on Display enabled, while Google claims the Pixel Watch 2 can sustain 24 hours of use.
@@ -77,8 +79,9 @@ Look for an official Pixel Watch 3 announcement on August 13.
 ![An illustration of a finger touching the edge of a smartwatch from US Patent 11775167](https://www.lifewire.com/thmb/-Lv4nrmDdZKHX1WluU4VTS0ae7A=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-watch-patent-11775167-86bd6ece12bb4c90b0534dc5223df168.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Google
 
  We don't yet know if Google will change how this watch charges... again. The first two watches use two different chargers. Our guess? The Pixel Watch 3 will ship with the same magnetic pin charger as the PW2.
@@ -90,8 +93,9 @@ Google
  We'll know more about the Pixel Watch 3 hardware as images leak (hopefully) and reports surface closer to the August event. There's also Wear OS 5 to watch on the software front.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Pixel Watch 3
 
  You can [get the latest smart and connected news on Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Below are the latest stories about Google and smartwatches.
@@ -102,14 +106,11 @@ Google
 
 [Google Drops 7 New Everyday Android Features](https://www.lifewire.com/google-adds-new-everyday-android-features-8655861)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +119,26 @@ Google
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-nail-your-tweets-with-correct-videos/"><u>[New] 2024 Approved How to Nail Your Tweets with Correct Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-digital-draw-dance-windows-and-mac-cartoony-creators-guide/"><u>[Updated] Digital Draw-Dance Windows & Mac Cartoony Creator's Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pefpng-movavi/"><u>直接在線上自由轉Pef格式為png - Movavi的高效工具選擇</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androids-prime-collage-app-selection-overview/"><u>Android's Prime Collage App Selection Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comment-choisir-le-meilleur-logiciel-de-sous-titrage-pour-vos-clips-video-en-2er-mois-2024/"><u>Comment Choisir Le Meilleur Logiciel De Sous-Titrage Pour Vos Clips Vidéo en 2Er Mois 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descarga-gratuita-para-convertir-archivos-rmvb-a-mpeg-rapida-y-facil-con-movavi/"><u>Descarga Gratuita Para Convertir Archivos RMVB a MPEG Rápida Y Fácil Con Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/formato-gratuito-de-cambio-de-archivos-mov-a-mp4-compatible-con-mac-windows-11-y-dispositivos-moviles/"><u>Formato Gratuito De Cambio De Archivos MOV a MP4 Compatible Con Mac, Windows 11 Y Dispositivos Móviles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-konvertereen-van-m4a-naar-swf-professioneel-onlinedienst-by-movavi/"><u>Gratis Konvertereen Van M4A Naar SWF: Professioneel Onlinedienst by Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Realme using Video Repair Utility?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-mobile-vpn-providers-for-202n-in-depth-ratings-and-expert-analysis-zdnet/"><u>Leading Mobile VPN Providers for 202N: In-Depth Ratings and Expert Analysis | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/libera-tu-multimedia-transformacion-gratuita-swf-a-mkv-en-linea-mediante-movavi/"><u>Libera Tu Multimedia: Transformación Gratuita SWF a MKV en Línea Mediante Movavi</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-flashbook-designs-effortless-background-editing-on-flipbuildercom/"><u>Mastering FlashBook Designs: Effortless Background Editing on FlipBuilder.com</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/melhores-ferramentas-livres-para-adicionar-legendas-as-suas-videos-on-line-uma-visao-geral/"><u>Melhores Ferramentas Livres Para Adicionar Legendas Às Suas Vídeos On-Line: Uma Visão Geral</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-media-converter-free-secure-platform-for-transforming-flv-to-wmv-and-other-formats-on-the-go/"><u>Movavi Media Converter - Free, Secure Platform for Transforming FLV to WMV and Other Formats On-the-Go</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-veiligheid-beoordeeld-professioneel-veiligheidssoftware-en-oplegsel/"><u>Movavi Veiligheid Beoordeeld: Professioneel Veiligheidssoftware en Oplegsel</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/os-principais-programas-de-animacao-2d-em-2024-selecao-atualizada-do-movavi-com-12-opcoes-destacadas/"><u>Os Principais Programas De Animação 2D Em 2024: Seleção Atualizada Do Movavi Com 12 Opções Destacadas</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-gratis-festplattenbilder-programme-fur-windows-10-die-besten-kostenlosen-tools/"><u>Top Gratis Festplattenbilder Programme Für Windows 10 – Die Besten Kostenlosen Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-madden-20-for-pc-stability-problems-fixed/"><u>Troubleshooting and Resolving Madden 20 for PC Stability Problems [FIXED]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-repairing-a-malfunctioning-nvidia-settings-application/"><u>Troubleshooting Guide: Repairing a Malfunctioning NVIDIA Settings Application</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2024-12-13T16:24:04.159Z
-updated: 2024-12-17T16:05:40.809Z
+date: 2024-12-19T08:39:38.433Z
+updated: 2024-12-26T04:58:56.331Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -72,6 +68,10 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -90,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -104,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,6 +117,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -130,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -151,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,17 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-record-review-repeat-unveiling-top-5-browser-screen-recorders/"><u>[New] 2024 Approved Record, Review, Repeat Unveiling Top 5 Browser Screen Recorders</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-examining-youtubes-highlighted-comment-mechanics/"><u>[Updated] In 2024, Examining YouTube's Highlighted Comment Mechanics</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2023-how-to-post-twitter-videos-on-snapchat-for-2024/"><u>2023 | How to Post Twitter Videos on Snapchat for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722885517463-expected-features-price-range-and-arrival-date-for-the-next-gen-samsung-galaxy-s25-ultra-the-buzz-continues/"><u>Expected Features, Price Range, and Arrival Date for the Next-Gen Samsung Galaxy S25 Ultra – The Buzz Continues!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-selecting-the-best-television-model-for-your-household-needs/"><u>Expert Advice: Selecting the Best Television Model for Your Household Needs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/global-scope/"><u>Global Scope</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-smart-8-hd-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Smart 8 HD FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/psvr-on-pc-learn-the-essentials-of-connecting-sonys-virtual-reality-headset-with-a-computer/"><u>PSVR on PC? Learn the Essentials of Connecting Sony's Virtual Reality Headset with a Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sony-virtual-reality-gear-unveiled-discover-rumored-price-points-launch-dates-and-hardware-info/"><u>Sony Virtual Reality Gear Unveiled? Discover Rumored Price Points, Launch Dates & Hardware Info</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/step-by-step-guide-switch-your-pcs-preferred-web-browser-through-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Switch Your PC's Preferred Web Browser Through Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-to-buy-games-directly-on-oculus-meta-quest-2/"><u>Step-by-Step Process to Buy Games Directly on Oculus (Meta) Quest 2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-get-27-off-on-general-electrics-innovative-cync-led-strips-exclusive-coverage-by-zdnet/"><u>Unmissable Deal Alert : Get $27 Off on General Electric's Innovative CYNC LED Strips, Exclusive Coverage by ZDNET</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-m1-pro-vs-m1-max-a-side-by-side-comparison-of-apple-chip-tech-for-2024/"><u>[New] M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-pushing-limits-with-vr-which-console-and-controller-fits-best-for-2024/"><u>[New] Pushing Limits with VR Which Console and Controller Fits Best for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-dissecting-insta-video-selfie-validation-necessary-or-not-for-2024/"><u>[Updated] Dissecting Insta Video Selfie Validation – Necessary or Not for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-immerse-in-youtubes-best-vr-visual-feasts/"><u>[Updated] In 2024, Immerse in YouTube's Best VR Visual Feasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-xbox-connectivity-issues-server-malfunction-vs-individual-network-troubles/"><u>Decoding Xbox Connectivity Issues - Server Malfunction vs Individual Network Troubles.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-resolve-rpcrt4dll-error-detailed-instructions-inside/"><u>Effective Methods to Resolve rpcrt4.dll Error: Detailed Instructions Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evolution-of-apples-ios-a-journey-from-version-10-through-to-180/"><u>Evolution of Apple's iOS: A Journey From Version 1.0 Through to 18.0</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/garder-une-qualite-optimale-guide-complet-a-lecran-pour-transferer-votre-contenu-dvd/"><u>Garder Une Qualité Optimale : Guide Complet À L'Écran Pour Transférer Votre Contenu DVD.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-photography-expert-advice-on-fixing-lens-focus-difficulties/"><u>Mastering iPhone Photography: Expert Advice on Fixing Lens Focus Difficulties</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-a18-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A18 Black and White | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securely-setting-up-your-presence-on-the-psn-community-with-this-easy-guide/"><u>Securely Setting Up Your Presence on the PSN Community with This Easy Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/supreme-performance-mods-ranking-the-best-srt-converters/"><u>Supreme Performance Mods Ranking the Best SRT Converters</u></a></li>
+<li><a href="https://win-tips.techidaily.com/troubleshooting-guide-completed-successfully-overcoming-windows-update-error-code-0x800f0806-in-win10-version-22h2/"><u>Troubleshooting Guide Completed: Successfully Overcoming Windows Update Error Code 0X800F0806 in Win10 Version 22H2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-fixing-a-lost-rockaldlldll-error-message/"><u>Troubleshooting Tips for Fixing a Lost Rockaldll.dll Error Message</u></a></li>
 </ul></div>
 

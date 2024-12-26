@@ -1,7 +1,7 @@
 ---
 title: "Mastering System Recovery: A Complete CMOS Reset Tutorial"
-date: 2024-08-20T11:42:42.150Z
-updated: 2024-08-21T11:42:42.150Z
+date: 2024-12-22T03:33:43.622Z
+updated: 2024-12-25T16:47:02.547Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering System Recovery: A Complete CMOS Reset Tutorial"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
 ---
 
 ## The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Windows key+PrtSc** or**Windows key+Alt+PrtScn** to capture only the active window.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
 * Macs: Press**Shift+Command+3** or**Shift+Command+4** or**Shift+Command+4+Spacebar** for partial capture.
 
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
@@ -33,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
@@ -44,12 +54,13 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Are My Screenshots Saved?
 
  On Windows, open the File Explorer and go to**This PC** \>**Pictures** \>**Screenshots** to see your screenshots. On Mac, screenshots are saved to the desktop.
@@ -87,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +105,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-building-an-effective-streamlined-podcasts-rss-feed/"><u>[Updated] 2024 Approved Building an Effective, Streamlined Podcast's RSS Feed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-discover-what-an-apple-vision-pro-can-reveal-about-your-marriage-insights-from-a-sales-encounter-featured/"><u>1. Discover What an Apple Vision Pro Can Reveal About Your Marriage: Insights From a Sales Encounter Featured</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v27-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V27 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guides-top-10-must-know-ipad-shortcuts-and-tweaks-for-beginners-and-experts-zdnet-insights/"><u>Essential Guides: Top 10 Must-Know iPad Shortcuts & Tweaks for Beginners & Experts - ZDNet Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-take-on-iphone-15-top-features-that-impress-both-casual-and-professional-users-tech-insights-from-zdnet/"><u>Expert Take on iPhone 15: Top Features That Impress Both Casual and Professional Users - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-next-generation-key-upgrades-in-apples-latest-airpods-4-lineup-insights/"><u>Exploring the Next Generation: Key Upgrades in Apple's Latest AirPods 4 Lineup - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/historical-temples/"><u>Historical Temples</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-award-winners-in-writing-for-different-movie-types/"><u>In 2024, Award Winners in Writing for Different Movie Types</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/labor-day-deal-alert-score-a-massive-700-off-on-the-newest-202e-pad-pro-check-out-the-details/"><u>Labor Day Deal Alert: Score a Massive $700 Off on the Newest 202E Pad Pro! Check Out the Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-your-apple-vision-pro-experience-exclusive-insights-and-reservation-guide-techcentral/"><u>Maximizing Your Apple Vision Pro Experience: Exclusive Insights & Reservation Guide | TechCentral</u></a></li>
+<li><a href="https://fox-links.techidaily.com/novices-pathway-top-essential-gopro-supplementary-gear-for-2024/"><u>Novice's Pathway Top Essential GoPro Supplementary Gear for 2024</u></a></li>
+<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2023-stellar-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2023 | Stellar</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-into-tomorrow-latest-apps-and-gaming-on-windows-10/"><u>Step Into Tomorrow Latest Apps & Gaming on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-non-apple-non-tile-wallet-airtag-review-discovering-exceptional-trackers-beyond-giants/"><u>Top Non-Apple, Non-Tile Wallet AirTag Review: Discovering Exceptional Trackers Beyond Giants!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tracking-and-tallying-windows-app-sizes/"><u>Tracking and Tallying Windows App Sizes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unresponsive-bittorrent-7-effective-ways-to-get-it-running-again/"><u>Unresponsive BitTorrent? 7 Effective Ways to Get It Running Again</u></a></li>
+</ul></div>
 

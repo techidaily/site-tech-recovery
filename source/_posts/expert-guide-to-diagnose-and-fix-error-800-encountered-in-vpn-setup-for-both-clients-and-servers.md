@@ -1,7 +1,7 @@
 ---
 title: Expert Guide to Diagnose and Fix Error 800 Encountered in VPN Setup for Both Clients & Servers
-date: 2024-08-26T08:21:07.971Z
-updated: 2024-08-27T08:21:07.971Z
+date: 2024-12-23T16:13:36.224Z
+updated: 2024-12-26T03:22:00.496Z
 categories:
   - BestProducts
 description: This Article Describes Expert Guide to Diagnose and Fix Error 800 Encountered in VPN Setup for Both Clients & Servers
@@ -21,14 +21,33 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/VnNd7pg1gKy2XNVGJEMHuSLdsJA=/400x300/fi
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +107,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-review-for-parrot-ar-drone-20-elite-edition/"><u>[New] 2024 Approved Review for Parrot AR Drone 2.0 Elite Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-proactive-ways-to-record-breathtaking-live-sports-games-for-2024/"><u>[New] Proactive Ways to Record Breathtaking Live Sports Games for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-3-step-structure-for-successful-subscriber-profit-analysis-a-guide-from-google-for-2024/"><u>[New] The 3-Step Structure for Successful Subscriber Profit Analysis A Guide From Google for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipate-samsungs-big-reveal-top-announcements-potential-leaks-and-expected-breakthroughs-covered/"><u>Anticipate Samsung's Big Reveal – Top Announcements, Potential Leaks & Expected Breakthroughs Covered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-troubleshooting-for-kernel-page-fault-problems-in-windows-1011/"><u>Comprehensive Troubleshooting for Kernel Page Fault Problems in Windows 10/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-to-install-driver-packs-enhance-your-xbox-controllers-in-no-time/"><u>Easy-to-Install Driver Packs: Enhance Your Xbox Controllers in No Time</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-plus-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 Plus to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-premium-authored-video-distributors/"><u>In 2024, Premium Authored Video Distributors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-multilingual-communication-with-our-selection-of-offline-translator-software/"><u>Master Multilingual Communication with Our Selection of Offline Translator Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722883823924-navigating-chat-interruptions-how-to-tell-if-theres-a-global-discoord-down-event-or-just-your-connection-woes/"><u>Navigating Chat Interruptions: How to Tell if There's a Global Discoord Down Event or Just Your Connection Woes.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720671578060-restore-damaged-movie-files-quickly-use-vlcs-powerful-features/"><u>Restore Damaged Movie Files Quickly – Use VLC's Powerful Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96326564-9781788172561-shaman/"><u>Shaman | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-play-any-video-on-apple-tv-using-vlc/"><u>Ultimate Tutorial: Play ANY Video on Apple TV Using VLC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-issues-resolved-simple-fixes-for-sound-troubles/"><u>Windows 10 Audio Issues Resolved: Simple Fixes for Sound Troubles</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2024-12-16T16:00:20.671Z
-updated: 2024-12-17T16:13:39.368Z
+date: 2024-12-22T22:00:32.734Z
+updated: 2024-12-26T07:23:36.037Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to screen record on any iPhone
 
 * **Materials needed:** Any iPhone running iOS 14.0 or later
@@ -29,10 +33,6 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -40,10 +40,6 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -54,6 +50,10 @@ Depending on how many controls you have active, you may need to scroll down a bi
 This is the screen recording button we'll use to start the recording. 
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Open your Control Center
 
@@ -66,7 +66,7 @@ While recording, your Screen Recording button will look like this (minus the red
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Begin screen recording
@@ -87,6 +87,10 @@ This is the confirmation box that will appear when you stop your recording.
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. End your recording
 
 When you're ready to end your recording, there are two ways to stop it. The first is to tap the red clock in the top left of your screen. This will produce a dialogue box like the one seen above. You'll need to tap "Stop" to end your recording. If you're in a full-screen app that hides the clock, you can also once again pull out your Control Center and tap the Screen Recording button. If you use this second method, the recording will end immediately, with no confirmation required. 
@@ -97,13 +101,13 @@ In both cases, the recording you just produced will immediately be saved to your
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
 
@@ -112,10 +116,6 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -153,24 +153,14 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-excellence-collective-in-multimedia-sensation/"><u>[Updated] 2024 Approved Excellence Collective in Multimedia Sensation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-backwards-play-iphones-unique-reverse-feature/"><u>[Updated] Backwards Play IPhone's Unique Reverse Feature</u></a></li>
-<li><a href="https://win-updates.techidaily.com/beginners-blueprint-for-successful-cryptocurrency-exchange-transactions-powered-by-yl-software-technologies/"><u>Beginner's Blueprint for Successful Cryptocurrency Exchange Transactions Powered by YL Software Technologies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/finding-the-ideal-media-player-vlc-versus-mx-player-for-2024/"><u>Finding the Ideal Media Player VLC versus MX Player for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nokia G22 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-pop-8-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Pop 8 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/innovative-ways-to-power-up-your-smartphone-when-you-lose-the-charger/"><u>Innovative Ways to Power Up Your Smartphone When You Lose the Charger</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-tutorial-handling-and-preventing-photoshops-scratch-disk-full-warning/"><u>Master Tutorial: Handling and Preventing Photoshop's 'Scratch Disk Full' Warning</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mobile-privacy-tips-concealing-phone-numbers-from-calls-and-texts-on-android/"><u>Mobile Privacy Tips: Concealing Phone Numbers From Calls and Texts on Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-data-loss-a-complete-review-of-recuvas-superior-file-recovery-features-explored/"><u>Navigating Data Loss? A Complete Review of Recuva's Superior File Recovery Features Explored</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-new-technology-informed-opinions-from-toms-world-of-gear/"><u>Navigating New Technology: Informed Opinions From Tom's World of Gear</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/repair-techniques-to-fix-visual-anomalies-like-discoloration-and-distortion-in-computer-display/"><u>Repair Techniques to Fix Visual Anomalies Like Discoloration and Distortion in Computer Display</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/simple-steps-to-restore-accidentally-deleted-photos-and-videos-on-your-iphone-6-or-6-plus/"><u>Simple Steps to Restore Accidentally Deleted Photos and Videos on Your iPhone 6 or 6 Plus</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-buyers-guide-educational-computers-that-will-boost-your-grades/"><u>The Definitive Buyer's Guide: Educational Computers That Will Boost Your Grades</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-free-ssd-and-hdd-diagnostic-apps-as-of-july-2024/"><u>The Ultimate List of Free SSD & HDD Diagnostic Apps as of July 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-s17e-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo S17e for Streaming | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-non-apple-rechargeable-airtags-unbeatable-deals-for-wallets-explore-the-market-zdnet/"><u>Top Non-Apple, Rechargeable AirTags: Unbeatable Deals for Wallets - Explore the Market | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-windows-updates-for-july-2024-navigating-the-latest-service-packs/"><u>Top Windows Updates for July 202#4: Navigating the Latest Service Packs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-harnessing-microsoft-teams-power-with-simple-snap-camera-use/"><u>[Updated] 2024 Approved Harnessing Microsoft Teams' Power with Simple Snap Camera Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-safest-email-platforms-the-ultimate-top-5-list/"><u>Discover the Safest Email Platforms: The Ultimate Top 5 List</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006684779-smooth-gaming-experience-troubleshooting-hollow-knight-stutters-problem-solved/"><u>Smooth Gaming Experience: Troubleshooting 'Hollow Knight' Stutters - Problem Solved</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-linking-your-samsung-soundbar-with-the-television/"><u>Step-by-Step Guide: Linking Your Samsung Soundbar with the Television</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-benefits-opting-for-microsoft-copilot-over-chatgpt/"><u>Top 4 Benefits: Opting for Microsoft Copilot Over ChatGPT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transforming-flat-text-into-sculptable-3d-characters/"><u>Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
+<li><a href="https://fox-search.techidaily.com/understanding-the-instance-attributes-panel-a-guide/"><u>Understanding the Instance Attributes Panel: A Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watching-hulu-effortlessly-tips-for-lg-smart-tv-owners/"><u>Watching Hulu Effortlessly: Tips for LG Smart TV Owners</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-2024-guide-to-choosing-a-tv-streaming-service-a-ranked-overview/"><u>Your 2024 Guide to Choosing a TV Streaming Service - A Ranked Overview</u></a></li>
 </ul></div>
 

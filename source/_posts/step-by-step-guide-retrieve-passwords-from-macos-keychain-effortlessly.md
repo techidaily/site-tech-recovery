@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Retrieve Passwords From macOS Keychain Effortlessly"
-date: 2024-12-13T19:00:24.319Z
-updated: 2024-12-17T17:16:34.828Z
+date: 2024-12-19T04:42:55.076Z
+updated: 2024-12-26T09:59:49.138Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record a phone call on iPhone with iOS 18.1
@@ -57,6 +57,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Initiate a call. You'll see a new icon in the upper-left corner of the call screen -- click it to begin recording. 
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Make sure recording has started
 
@@ -75,6 +79,10 @@ You'll be able to play back the audio and read the transcript directly in Notes.
 Screenshot by Maria Diaz/ZDNET
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to record a phone call on iPhone without iOS 18.1
 
@@ -102,7 +110,7 @@ Voice recordings autosave under different names based on whether Location Servic
 Screenshot by Radhika Rajkumar/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Play back the audio file and make adjustments
@@ -113,6 +121,10 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check whether you need to inform the other party that you're recording
 
 Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.) if the state you're recording and residing in is a one-party or all-party state for recording consent. 
@@ -120,10 +132,6 @@ Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-s
 **Also:** [**Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)**](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-new-ios-18-public-beta-and-which-ones-cant/)
 
 One-party states require only one person on the call -- which would be you -- to consent. An all-party state requires both the person recording and the person(s) being recorded to consent. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Start recording
 
@@ -145,10 +153,6 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -160,10 +164,6 @@ From within the Voice Memos app, select the file of the recording and tap the el
 Open up sharing options. You can also trim or rename the recording to something easier to remember by clicking Edit Recording. 
 
 Screenshot by Radhika Rajkumar/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other ways to record
 
@@ -180,6 +180,10 @@ Rev has a few options depending on what you need. If you want to record phone ca
 **Also:** [**This MagSafe accessory can record your iPhone calls for you**](https://www.zdnet.com/article/this-magsafe-accessory-can-record-your-iphone-calls-for-you/)
 
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google Voice
 
@@ -201,15 +205,15 @@ As the name suggests, this app is designed for users to be able to whip out thei
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it illegal to record phone calls?
 
 Federal law requires at least one party's consent, which means that you need to be part of the conversation you're recording or have the consent of at least one person in the conversation. Otherwise, the recording can be construed as wiretapping or illegal eavesdropping. Some states have even stricter laws that require the consent of all people involved in the conversation.
 
 Before recording a conversation, [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22check%22%7D) your state laws. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is there an app to record calls on iPhone?
 
@@ -222,10 +226,6 @@ Alternatively, you can use most mic-equipped computers or tablets to record phon
 ## Does Apple have an app to record iPhone calls?
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does screen recording on iPhone record my call?
 
@@ -265,21 +265,17 @@ The Voice Memos app can record for an unlimited amount of time, as long as you h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-achieving-excellence-in-your-android-video-brightness/"><u>[Updated] In 2024, Achieving Excellence in Your Android Video Brightness</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazing-ipad-savings-secure-your-best-price-right-now/"><u>Amazing iPad Savings – Secure Your Best Price Right Now</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/audio-capture-system-testing-guide/"><u>Audio Capture System Testing Guide</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/convert-oklilive-tv-streams-download-hd-content-as-mp4-or-avi-files-for-pc-and-mac/"><u>Convert OkliLive TV Streams: Download HD Content as MP4 or AVI Files for PC & MAC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficiently-navigate-your-minecraft-world-a-teleport-command-masterclass/"><u>Efficiently Navigate Your Minecraft World: A Teleport Command Masterclass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enabling-windows-terminals-quake-mode/"><u>Enabling Windows Terminal's Quake Mode</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/end-apple-musics-auto-play-feature-a-comprehensive-guide/"><u>End Apple Music's Auto-Play Feature: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-magic-5-lite-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor Magic 5 Lite to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>In 2024, Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/multiple-image-uploads-on-facebook-a-step-by-step-guide/"><u>Multiple Image Uploads on Facebook: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/on-or-off-configuring-network-discovery-in-windows-10-made-simple/"><u>On or Off: Configuring Network Discovery in Windows 10 Made Simple</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/reboot-and-select-proper-boot-device/"><u>Reboot and Select Proper Boot Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-of-a-non-responsive-shutdown-in-windows-10-systems/"><u>Solving the Dilemma of a Non-Responsive Shutdown in Windows 10 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-openal32dll-missing-or-not-found-issues-a-comprehensive-guide/"><u>Solving the openAL32.dll MISSING or NOT FOUND Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-dll-cannot-be-found-error-restoring-msstdfmtdll/"><u>Troubleshooting the 'DLL Cannot Be Found' Error: Restoring Msstdfmt.dll</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/troubleshooting-your-graphics-cards-unexpected-failure-with-guidance-from-yl-software/"><u>Troubleshooting Your Graphics Card's Unexpected Failure with Guidance From YL Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-captivate-crowds-social-media-growth-hacks-for-youtube-for-2024/"><u>[Updated] Captivate Crowds Social Media Growth Hacks for YouTube for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-photoshop-stabilization-technique-utility-perspective/"><u>2024 Approved Photoshop Stabilization Technique Utility Perspective</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquer-the-mighty-lynel-in-the-legend-of-zelda-breath-of-the-wild/"><u>Conquer the Mighty Lynel in The Legend of Zelda: Breath of the Wild</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-facebooks-success-story-origins-appeal-secrets-and-prime-functionality/"><u>Decoding Facebook's Success Story: Origins, Appeal Secrets, and Prime Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-powershell-scripts-removing-file-restrictions/"><u>Decoding PowerShell Scripts: Removing File Restrictions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-googlewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Googlewith/without a PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speedy-tempo-change-software-showcase-mobile-pc/"><u>In 2024, Speedy Tempo Change Software Showcase (Mobile, PC)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/social-media-mirrors-the-science-of-true-ig-selfies/"><u>Social Media Mirrors The Science of True IG Selfies</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-share-premium-gopro-footage-on-instagram-with-excellent-quality/"><u>Steps to Share Premium GoPro Footage on Instagram with Excellent Quality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/study-hard-save-more-the-ultimate-strategy-for-accessing-discounted-dell-prices-as-a-student/"><u>Study Hard, Save More: The Ultimate Strategy for Accessing Discounted Dell Prices as a Student</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-connectivity-issues-a-detailed-tutorial-on-clearing-network-preferences-in-macos/"><u>Troubleshoot Connectivity Issues: A Detailed Tutorial on Clearing Network Preferences in macOS</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-avatar/"><u>Updated What Is an AI Avatar?</u></a></li>
 </ul></div>
 

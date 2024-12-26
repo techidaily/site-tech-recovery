@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2024-12-10T17:49:13.459Z
-updated: 2024-12-17T16:59:48.296Z
+date: 2024-12-24T20:15:55.329Z
+updated: 2024-12-25T19:12:57.446Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -74,6 +70,10 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -99,7 +99,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -128,7 +128,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -153,6 +153,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -165,14 +169,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -212,22 +212,19 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-way-to-youtube-studio-a-comprehensive-overview/"><u>[New] 2024 Approved Find Your Way to YouTube Studio A Comprehensive Overview</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-leverage-both-platforms-youtube-and-facebook-integration-for-2024/"><u>[New] Leverage Both Platforms YouTube and Facebook Integration for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-prime-techniques-converting-visual-content-on-pinterest-to-mp3s-for-2024/"><u>[Updated] Prime Techniques Converting Visual Content on Pinterest To MP3s for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-precision-the-best-39-video-trimming-tools-from-google-play/"><u>2024 Approved Perfect Precision The Best 39 Video-Trimming Tools From Google Play</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aimp3-movavi/"><u>網路直接無限制地從AI到MP3的轉換 - 利用Movavi工具</u></a></li>
-<li><a href="https://win11.techidaily.com/break-free-from-stagnant-windows-update-status/"><u>Break Free From Stagnant Windows Update Status</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cambia-tus-archivos-mp4-a-formato-de-video-mov-sin-coste-con-el-convertidor-mas-rapido-y-facil-online-movavi/"><u>Cambia Tus Archivos MP4 a Formato De Vídeo MOV Sin Coste Con El Convertidor Más Rápido Y Fácil Online: Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-gratuita-desde-mp3mp4-a-formatos-wmv-en-internet-el-mejor-sexto-sin-pago/"><u>Conversión Gratuita Desde MP3/MP4 a Formatos WMV en Internet: El Mejor Sexto Sin Pago</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convertissez-votre-fichier-ogm-en-mp4-de-gre-a-gre-sans-cout-movavi/"><u>Convertissez Votre Fichier OGM en MP4 De Gré À Gré Sans Coût - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convierte-tu-gif-al-formato-swf-sin-gastar-nada-usando-el-servicio-de-movavi-en-linea/"><u>Convierte Tu GIF Al Formato SWF Sin Gastar Nada Usando El Servicio De Movavi en Línea</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convierte-tu-video-rmvb-gratis-al-formato-mkv-usando-el-servicio-en-linea-de-movavi/"><u>Convierte Tu Vídeo RMVB Gratis Al Formato MKV Usando El Servicio en Línea De Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-newest-drivers-for-nvidia-rtx-2080-on-windows-1178/"><u>Download the Newest Drivers for NVIDIA RTX 2080 on Windows 11/7/8</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/guide-to-the-best-17-image-editing-utilities/"><u>Guide to the Best 17 Image Editing Utilities</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-12-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 12 Pro Space | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-issue-of-error-code-0x803f8001-on-windows-11-and-10-for-a-smooth-minecraft-launcher-experience/"><u>Overcoming the Issue of 'Error: Code 0X803F8001' On Windows 11 and 10 for a Smooth Minecraft Launcher Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-16-excelentes-aplicaciones-de-camara-web-gratis-para-windows-10-movavi/"><u>Top 16 Excelentes Aplicaciones De Cámara Web Gratis Para Windows 10 - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mov-webm-movavi/"><u>인터넷을 통해 가장 좋은 MOV-WebM 전환 - Movavi</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/utting-edge-techniques-pushing-boundaries-in-youtube-cinematography/"><u>[New] Cutting Edge Techniques Pushing Boundaries in YouTube Cinematography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-kid-approved-drone-choices-summarized/"><u>[New] Top Kid-Approved Drone Choices Summarized</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ringtones-from-youtube-a-compilation-of-optimal-download-hubs/"><u>[Updated] Ringtones From YouTube A Compilation of Optimal Download Hubs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uniting-fandoms-top-20-best-anime-songs/"><u>2024 Approved Uniting Fandoms Top 20 Best Anime Songs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-maximum-videos-on-a-64gb-drive/"><u>In 2024, Maximum Videos on a 64GB Drive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-rar-file-extraction-on-your-apple-computer/"><u>Mastering RAR File Extraction on Your Apple Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/play-and-conquer-a-comprehensive-walkthrough-of-roller-champions-crossplayer-feature-for-pc/"><u>Play and Conquer: A Comprehensive Walkthrough of Roller Champions' Crossplayer Feature for PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-getting-back-missing-emails-in-gmail/"><u>Step-by-Step Tutorial for Getting Back Missing Emails in Gmail</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-the-challenge-of-non-launchable-gta-5/"><u>Troubleshooting Guide: Overcoming the Challenge of Non-Launchable GTA 5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutorial-connecting-windows-system-to-television-screen-using-the-cast-feature-of-chromecast/"><u>Tutorial: Connecting Windows System to Television Screen Using the Cast Feature of Chromecast</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ultimate-10-apps-to-boost-audio-velocity/"><u>Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-techniques-on-how-to-erase-your-yahoo-mail-account-forever/"><u>Ultimate Techniques on How to Erase Your Yahoo Mail Account Forever</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-educational-perks-your-guide-to-youtube-premium-offers-for-students/"><u>Unlocking Educational Perks: Your Guide to YouTube Premium Offers for Students</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-you-need-to-know-about-output-impedance-key-insights-for-engineers/"><u>What You Need to Know About Output Impedance: Key Insights for Engineers</u></a></li>
 </ul></div>
 

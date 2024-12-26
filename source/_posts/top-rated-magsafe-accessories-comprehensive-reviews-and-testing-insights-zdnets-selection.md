@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated MagSafe Accessories : Comprehensive Reviews & Testing Insights - ZDNet's Selection"
-date: 2024-12-15T17:55:37.128Z
-updated: 2024-12-17T19:06:02.128Z
+date: 2024-12-24T18:20:23.672Z
+updated: 2024-12-25T18:13:45.715Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ However, we haven't yet gotten to test the new iPhone 16 line, which was unveile
 
 Read on for the rest of our top picks for the best iPhones you can buy today. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best iPhones of 2024
 
 Show less 
@@ -50,6 +46,10 @@ Cons
 * No major battery life improvement over its predecessor
 
 ## iPhone 15 Pro Max
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPhone overall
 
@@ -80,10 +80,6 @@ Pros
 Cons 
 * Pricer than most flagship smartphones
 * No battery life improvement over prior model
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple iPhone 15
 
@@ -119,14 +115,10 @@ Cons
 * Need to buy refurbished
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPhone 13 Mini
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small iPhone
 
@@ -189,7 +181,15 @@ Cons
 * Doesn't have a telephoto lens
 * U.S. customers are locked to eSIM
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iPhone 14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best old-generation iPhone
 
@@ -219,11 +219,19 @@ After weighing out the specs and reviewer-tested experiences, the best iPhone is
 | iPhone 13 Mini             | $480           | 128GB            | 5.4 inches  | A15           | Two                    |
 | iPhone SE (3rd Generation) | $429           | 64GB             | 4.7 inches  | A15           | One                    |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are iPhones the best smartphone?
 
 The answer depends on your needs and preferences. For example, while the [Samsung Galaxy S24 Ultra](https://www.zdnet.com/article/samsung-galaxy-s24-ultra-review/) is ZDNET's pick for [best phone of 2024](https://www.zdnet.com/article/best-phone/) (for now), it may not be the best option for you if you often rely on services like iMessage and FaceTime, which are exclusive to Apple's operating systems.
 
 Previously, the gap between iPhones and Android phones was much larger due to Apple opting for a Lightning port instead of USB-C, but with the iPhone 15 models switching to the more universal port for charging and data transfer, it's become less intimidating to switch from Android to iPhone, and vice versa.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which iPhone model is right for you?
 
@@ -282,6 +290,10 @@ The upcoming software version for the iPhone is currently in its [public beta ph
 
 Like iOS 17, iPhone models as old as the XR will be eligible to receive the [iOS 18 update](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/). The list includes the iPhone 11 to iPhone 15 series and the iPhone SE (2nd generation or later). What's not included is the iPhone X and iPhone 8 series. Those, unfortunately, won't be receiving any more operating system updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is the new iPhone?
 
 The latest iPhone is the [iPhone 16](https://www.zdnet.com/article/when-is-the-iphone-16-coming-out-what-to-know-and-where-to-preorder/), announced on Monday, September 9, during [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). There are four iPhone 16 models: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max. All will come with iOS 18 and Apple Intelligence built in.
@@ -313,41 +325,33 @@ Otherwise, even if you own an iPad or MacBook, or almost any other non-Apple gad
 
 Apple's upcoming AI features, branded as "[Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/)," are available on iPhones with at least an A17 Pro processor. That means only the iPhone 15 Pro series, excluding the standard iPhone 15 or iPhone 15 Plus, will support the new AI tools and the upcoming iPhone 16 models.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What storage size should I buy for my iPhone?
 
 It wasn't until 2021 that Apple began selling both its non-Pro and Pro iPhones with a base storage of 128GB. The only exception here is the iPhone SE model. While not as flashy of an upgrade as larger camera sensors and 120Hz displays, this double-up of storage meant that consumers had more space than ever to store apps, photos, videos, and more.
 
 Maurice Klaehne, senior market research analyst at Counterpoint Research, suggests that higher storage options are generally better as they will help with the longevity of the device, and his firm has generally seen an uptick in postpaid customers opting for higher storage sizes when they can afford them. "Currently, the 256GB option is sufficient for most people," Klaehne adds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Should I trade in my old iPhone?
 
 Trading in an old iPhone is one of the easiest (and safest) ways to replace an otherwise unwanted device with a new, more capable one. Most retailers, including Apple, accept trade-ins of older iPhone models, with store credit ranging from as low as $50 to $800; it all depends on which generation your iPhone is, the condition, and whether it turns on or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Do I really need an iPhone case?
 
 While an iPhone case is not a necessity -- your iPhone will still function normally without it -- having one on greatly reduces the chances of wear and tear. For example, the [best cases](https://www.zdnet.com/article/best-iphone-15-case/) are military-grade certified, meaning they'll keep your iPhone protected from waist-high drops. Not only do cases reduce the chances of your phone getting cracked or scratched, but the plastic/rubberized material often provides more grip than if you hold your iPhone naked.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Which iPhone should I buy for a parent?
 
 At the time of writing, the iPhone 13 is the best phone to buy for a parent. While it's not as glass-heavy or flashy as the newer iPhone 14 Pro or iPhone 15 Pro models, the iPhone 13 remains a formidable choice due to its durability, long battery life, and SIM card support. This latter feature is particularly important if your parent travels overseas or prefers the simplicity of swapping a physical SIM card to transfer contacts and data.
 
 The cameras on the iPhone 13 are reliable enough for clear video calls, the occasional outdoor photo, and capturing images of children and pets.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is eSIM?
 
@@ -358,10 +362,6 @@ Embedded Subscriber Identity Module, or eSIM in short, is the electronic version
 There is one problem that ZDNET editor-in-chief [Jason Hiner](https://www.zdnet.com/meet-the-team/jason-hiner/) sees with Apple forcing eSIM adoption on US consumers. "There are a variety of good reasons why some people will still need or prefer a phone with a physical SIM card. The top reason is privacy. This is especially true for some journalists and populations at risk of persecution around the world. Removing the physical SIM card option reduces privacy for millions of people, especially some of the most vulnerable," said Hiner. 
 
 Note that if you buy an iPhone 14 or 15 anywhere outside of the US, the device will come with a regular SIM card slot. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Which iPhone models support 5G?
 
@@ -392,7 +392,7 @@ Then, you'll likely experience more frequent app crashes, lag, storage problems,
 If you'd like to prolong that time, I'd recommend visiting your local Apple store to have the phone's battery replaced every three to four years and also consider backing up files to an [external hard drive](https://www.zdnet.com/article/best-external-hard-drive/) for safekeeping. As a last resort, [a factory reset](https://www.zdnet.com/article/how-to-factory-reset-your-iphone/), followed by data restoration, should give your phone a brand-new feel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other iPhone models we tested
@@ -441,21 +441,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cultivating-growth-selecting-the-right-co-stars-for-youtube/"><u>[New] In 2024, Cultivating Growth Selecting the Right Co-Stars for YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-tech-titans-sharexs-challengers-exposed/"><u>[New] In 2024, Tech Titans ShareX's Challengers Exposed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-dynamic-duo-enhancing-fb-live-with-monitor-sharing-capabilities-for-2024/"><u>[Updated] Dynamic Duo Enhancing Fb Live with Monitor Sharing Capabilities for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-elevate-your-broadcast-screen-share-techniques-for-the-modern-broadcaster-for-2024/"><u>[Updated] Elevate Your Broadcast Screen-Share Techniques for the Modern Broadcaster for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-wavswf/"><u>「Movaviで簡単なオンライン・コンバーター: WAVファイルからSWFへの自由配布変換サービス」</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-filming-availability-pledge-downloading-rights/"><u>2024 Approved Filming Availability Pledge Downloading Rights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/webmp3m4a-movavi/"><u>無障礙Web直接免費MP3轉成M4A - 使用Movavi音樂格式轉換工具</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211372601-9781925924848-clearing/"><u>CLEARING | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-transferir-peliculas-de-dvd-a-tu-ipod-el-mejor-convertidor-para-usuarios-fijos/"><u>Cómo Transferir Películas De DVD a Tu iPod: El Mejor Convertidor Para Usuarios Fijos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/converti-mpg-in-formati-video-come-mp4-avi-o-mkv-senza-costi-tramite-movavi/"><u>Converti MPG in Formati Video Come MP4, AVI O MKV Senza Costi Tramite Movavi</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elite-performers-top-picks-from-skate-highlights-for-2024/"><u>Elite Performers Top Picks From Skate Highlights for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-3gp-avi-movavi/"><u>Online 무료 3GP 및 AVI 프로세스를 사용한 비동기 비디오 직물 형식 전환 - Movavi</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-xs-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone XS Max Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/qtavi-movavi/"><u>QT跟隨Avi：免費在線上映像轉換 - 帶你進入Movavi世界</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-mov-videos-into-avis-for-free-using-the-web-based-movavi-tool/"><u>Transform Your MOV Videos Into AVIs for Free Using the Web-Based Movavi Tool!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-update-printing-devices-on-windows-11-missing-driver-solutions/"><u>Troubleshoot & Update Printing Devices on Windows 11 – Missing Driver Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-edit-with-precision-mastery-of-photoshops-eraser/"><u>[New] 2024 Approved Edit with Precision Mastery of Photoshop's Eraser</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ive-into-creating-alluring-youtube-video-intros-for-2024/"><u>[New] Dive Into Creating Alluring YouTube Video Intros for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterclass-in-kinemaster-application-and-top-tier-opponents-online/"><u>[Updated] Masterclass in KineMaster Application & Top-Tier Opponents Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>2024 Approved Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-seekers-dream-the-ultimate-review-of-sj-cam-s6-for-2024/"><u>Action Seeker's Dream The Ultimate Review of SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-new-sound-centric-wearable-tech-expected-price-point-and-launch-details-revealed/"><u>Apple's New Sound-Centric Wearable Tech: Expected Price Point and Launch Details Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-insights-into-netflixs-streaming-service-and-everything-around-it/"><u>Comprehensive Insights Into Netflix's Streaming Service and Everything Around It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-top-12-websites-for-watching-movies-at-no-charge/"><u>Discover the Top 12 Websites for Watching Movies at No Charge</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-brew-an-awkward-potion-in-minecraft-beginners-manual/"><u>Easy Steps to Brew an Awkward Potion in Minecraft - Beginner's Manual</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008798940-elden-ring-starts-in-blackness-heres-how-to-restore-your-quest-beginning/"><u>Elden Ring Starts in Blackness? Here’s How to Restore Your Quest Beginning</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-now-quick-solutions-for-troubled-netflix-title-streaming-issues/"><u>Fix Now: Quick Solutions for Troubled Netflix Title Streaming Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-that-bothersome-blue-shade-top-8-methods-for-tv-screen-adjustment/"><u>Fixing That Bothersome Blue Shade: Top 8 Methods for TV Screen Adjustment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unmissable-streaming-games-await/"><u>In 2024, Unmissable Streaming Games Await</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-tips-for-picture-perfect-posts/"><u>Mastering Instagram Tips for Picture-Perfect Posts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-ftd2xxdll-file-not-found-a-comprehensive-guide/"><u>Solving ftd2xx.dll File Not Found: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-downloading-and-setting-up-focusrite-scarlett-2i4-drivers-for-optimal-performance-in-windows/"><u>Step-by-Step Tutorial on Downloading & Setting Up Focusrite Scarlett 2I4 Drivers for Optimal Performance in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-downloading-netflix-films-from-your-pc/"><u>The Ultimate Guide: Downloading Netflix Films From Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/updated-list-of-linksys-default-login-details-july-2024-edition/"><u>Updated List of Linksys Default Login Details - July 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategy-against-update-error-x712/"><u>Winning Strategy Against Update Error X712</u></a></li>
 </ul></div>
 

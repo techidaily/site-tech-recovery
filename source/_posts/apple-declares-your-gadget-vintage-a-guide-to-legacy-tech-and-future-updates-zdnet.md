@@ -1,7 +1,7 @@
 ---
 title: "Apple Declares Your Gadget Vintage: A Guide to Legacy Tech & Future Updates | ZDNet"
-date: 2024-12-15T18:09:54.740Z
-updated: 2024-12-17T19:19:51.719Z
+date: 2024-12-18T16:17:27.196Z
+updated: 2024-12-26T09:36:16.968Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ In this article, I'll show you how to take both screenshots and screen recording
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -65,7 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -107,7 +107,7 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -157,24 +157,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-capture-chill-vibes-top-winter-bg-ideas-for-yt/"><u>[New] 2024 Approved Capture Chill Vibes Top Winter Bg Ideas for YT</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-10-critical-strategies-for-dynamic-cover-designs/"><u>[New] In 2024, 10 Critical Strategies for Dynamic Cover Designs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-leading-synthetic-ps3-games-for-pc-gamers-for-2024/"><u>[New] Leading Synthetic PS3 Games for PC Gamers for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-strategic-instagram-video-marketing-secrets-to-captivating-audiences/"><u>2024 Approved Strategic Instagram Video Marketing Secrets to Captivating Audiences</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-for-downloading-and-using-fonts-on-ios-devices/"><u>A Comprehensive Tutorial for Downloading and Using Fonts on iOS Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guide-to-bypassing-madden-22s-constant-boot-screen-glitches/"><u>Guide to Bypassing Madden 22'S Constant Boot Screen Glitches</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-a2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi A2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-vlc-top-10-hidden-player-powers/"><u>In 2024, Pro-VLC Top 10 Hidden Player Powers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-itel-a60s-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Itel A60s Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/keep-your-mobile-number-off-public-repositories-a-step-by-step-guide-for-android-users/"><u>Keep Your Mobile Number Off Public Repositories: A Step-by-Step Guide for Android Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-quick-fixes-for-a-malfunctioning-amazon-fire-stick-remote/"><u>Master the Quick Fixes for a Malfunctioning Amazon Fire Stick Remote</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simplifying-multitasking-with-androids-picture-in-picture-functionality/"><u>Simplifying Multitasking with Android's Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-effective-solutions-for-non-functioning-samsung-soundbars/"><u>Solving Common Issues: Effective Solutions for Non-Functioning Samsung Soundbars</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-issue-start-up-problems-with-call-of-duty-black-ops-4-demystified/"><u>Solving the Issue: Start-Up Problems with Call of Duty: Black Ops 4 Demystified</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-turning-off-closed-captions-on-amazon-prime-for-better-viewing/"><u>Step by Step: Turning Off Closed Captions on Amazon Prime for Better Viewing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steps-to-correct-error-messages-d3dx933dll-is-missing/"><u>Steps to Correct Error Messages: 'd3dx9_33.dll Is Missing'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-d3dx925dll-error-effective-strategies-and-tips/"><u>Troubleshooting Missing d3dx9_25.dll Error: Effective Strategies and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-capturing-images-with-your-computer-screen/"><u>Ultimate Guide: Capturing Images with Your Computer Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-smartwatches-capabilities-and-innovations-unveiled/"><u>Understanding Smartwatches: Capabilities & Innovations Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unleashing-virtual-reality-the-ultimate-iphone-experience/"><u>[Updated] 2024 Approved Unleashing Virtual Reality The Ultimate IPhone Experience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-record-rapidly-innovative-iphone-time-lapse-methods/"><u>[Updated] In 2024, Record Rapidly Innovative iPhone Time-Lapse Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-premier-promises-the-art-of-the-podcast-prelude/"><u>2024 Approved Premier Promises The Art of the Podcast Prelude</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-the-new-samsung-galaxy-watch-n-deciphering-prices-launch-date-tech-specs-and-breaking-news/"><u>All About the New Samsung Galaxy Watch N: Deciphering Prices, Launch Date, Tech Specs & Breaking News</u></a></li>
+<li><a href="https://facebook.techidaily.com/augment-reality-in-daily-conversations-via-messenger/"><u>Augment Reality in Daily Conversations via Messenger</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypass-the-controller-direct-commands-for-your-roku-television/"><u>Bypass the Controller: Direct Commands for Your Roku Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-mingwm10dll-error-best-practices-for-restoring-file-integrity-and-system-stability/"><u>Fix Mingwm10.dll Error: Best Practices for Restoring File Integrity and System Stability</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-oppo-reno-10-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improve-in-home-tv-reception-the-ultimate-guide-to-using-indoor-antennas/"><u>Improve In-Home TV Reception: The Ultimate Guide to Using Indoor Antennas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-in-the-macbook-pro-m3-explore-specs-pricing-and-upcoming-release-date-info/"><u>What's New in the MacBook Pro M3? Explore Specs, Pricing and Upcoming Release Date Info</u></a></li>
 </ul></div>
 

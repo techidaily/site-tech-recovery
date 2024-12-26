@@ -1,7 +1,7 @@
 ---
 title: "Apple’s iPhone 1N 16 Pro Gains Edge over iPhone Max : Insights and Reasons From ZDNet's Perspective"
-date: 2024-12-12T16:32:52.516Z
-updated: 2024-12-17T16:03:49.470Z
+date: 2024-12-24T18:54:04.369Z
+updated: 2024-12-25T17:34:36.827Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,10 +37,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -83,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,16 +158,19 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/2024-approved-identifying-ideal-release-moments-for-podcasts/"><u>2024 Approved Identifying Ideal Release Moments for Podcasts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/dissonant-designs-mastering-on-a-mac/"><u>Dissonant Designs Mastering on a Mac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eradicate-your-yahoo-mail-existence-a-comprehensive-guide/"><u>Eradicate Your Yahoo! Mail Existence - A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-cutting-edge-techniques-for-3d-text-illustration/"><u>In 2024, Cutting-Edge Techniques for 3D Text Illustration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ios-18-arriving-soon-find-out-when-free-access-and-whats-inside-this-latest-version/"><u>IOS 18 Arriving Soon: Find Out When, Free Access, and What's Inside This Latest Version</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-emoji-essentials-tips-and-tricks-for-effective-communication/"><u>IPhone Emoji Essentials: Tips and Tricks for Effective Communication</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-integration-tips-moving-your-digital-photographs-from-google-to-apples-icloud-platform/"><u>Seamless Integration Tips: Moving Your Digital Photographs From Google to Apple's iCloud Platform</u></a></li>
-<li><a href="https://solve-help.techidaily.com/slash-your-mkv-movie-sizes-the-best-5-techniques-for-seamless-downsizing/"><u>Slash Your MKV Movie Sizes: The Best 5 Techniques for Seamless Downsizing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-viral-video-creation-with-these-8-essential-tips-for-youtube/"><u>Unlock the Secrets of Viral Video Creation with These 8 Essential Tips for YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-lyrics-notes-and-beats-fb-style/"><u>[New] 2024 Approved Lyrics, Notes, and Beats - FB Style</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-advanced-tactics-to-modify-playback-speed-in-spotify/"><u>[New] Advanced Tactics to Modify Playback Speed in Spotify</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-transcending-visual-limits-with-hdr-technology-for-2024/"><u>[New] Transcending Visual Limits with HDR Technology for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-dialogue-enrichment-system/"><u>[Updated] In 2024, Dialogue Enrichment System</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/checking-your-power-supplys-performance-a-guide-by-yl-computing/"><u>Checking Your Power Supply's Performance: A Guide by YL Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easy-to-remember-chrome-os-snapshot-tips-for-2024/"><u>Easy-to-Remember Chrome OS Snapshot Tips for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-high-quality-the-best-srt-translation-tools-ranked/"><u>Free, High-Quality The Best SRT Translation Tools Ranked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-opt-out-of-emergency-and-amber-programs-on-iphones-easily/"><u>How To Opt Out of Emergency and Amber Programs on iPhones Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fusionphotosync-designers-slide-show-tool/"><u>In 2024, FusionPhotosync Designers' Slide Show Tool</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtube-channel-harmony-matching-your-narrative-with-the-right-mic/"><u>In 2024, YouTube Channel Harmony Matching Your Narrative With the Right Mic</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-deletion-on-facebook-a-step-by-step-process/"><u>Mastering the Art of Image Deletion on Facebook - A Step-by-Step Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-meta-quest-3-unveiling-latest-updates-on-pricing-launch-timeline-and-technical-specifications/"><u>The Meta Quest 3: Unveiling Latest Updates on Pricing, Launch Timeline, and Technical Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-the-x3daudiodll-absent-error-on-your-pc/"><u>Troubleshooting Steps for Resolving the X3DAudio.dll Absent Error on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/winning-strategies-for-beating-the-fearsome-lynels-in-zeldas-botw-quest/"><u>Winning Strategies for Beating the Fearsome Lynels in Zelda's BOTW Quest</u></a></li>
 </ul></div>
 

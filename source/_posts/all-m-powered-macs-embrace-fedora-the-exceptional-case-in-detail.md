@@ -1,7 +1,7 @@
 ---
 title: "All M-Powered Macs Embrace Fedora: The Exceptional Case in Detail"
-date: 2024-12-10T18:19:38.004Z
-updated: 2024-12-17T18:20:51.884Z
+date: 2024-12-19T06:20:02.583Z
+updated: 2024-12-26T01:32:56.129Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,15 +123,14 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-android-sound-capture-4-non-root-methods/"><u>[New] Effortless Android Sound Capture 4 Non-Root Methods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-guide-to-best-video-chatting-solutions-pcphone-for-2024/"><u>[New] Ultimate Guide to Best Video Chatting Solutions (PC/Phone) for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cultivating-eco-diversity-in-metropolitan-land-use/"><u>[Updated] 2024 Approved Cultivating Eco-Diversity in Metropolitan Land Use</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mediamasher-suite/"><u>2024 Approved MediaMasher Suite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/breaking-down-samsungs-2025-unpacked-timeline-news-highlights-product-insights-and-leak-speculations/"><u>Breaking Down Samsung's 2025 Unpacked: Timeline, News Highlights, Product Insights & Leak Speculations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722854810310-fire-stick-remote-woes-heres-how-you-can-fix-it/"><u>Fire Stick Remote Woes? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/locating-your-wi-fi-networks-key-on-a-windows-11-computer/"><u>Locating Your Wi-Fi Network's Key on a Windows 11 Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-quintessential-guide-to-life-changing-cinema-11-best-motivational-movies-you-cant-miss/"><u>The Quintessential Guide to Life-Changing Cinema: 11 Best Motivational Movies You Can't Miss</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/top-20-inspiring-ideas-for-instagram-photos/"><u>Top 20 Inspiring Ideas for Instagram Photos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unlocking-steer-clear-from-facebook-ban-blacklist-for-2024/"><u>Unlocking Steer Clear From Facebook Ban Blacklist for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-step-by-step-guide-to-youtube-shorts-excellence-for-2024/"><u>[New] A Step-by-Step Guide to YouTube Shorts Excellence for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/collaborative-playlist-creation-the-ultimate-guide-to-sharing-music-on-spotify/"><u>Collaborative Playlist Creation: The Ultimate Guide to Sharing Music on Spotify</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compare-ev-charging-stages-a-guide-to-level-1-level-2-and-rapid-charging-options/"><u>Compare EV Charging Stages: A Guide to Level 1, Level 2 and Rapid Charging Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hisense-40-inch-5590f-smart-television-evaluation-exceptional-affordable-choice/"><u>Hisense 40-Inch 5590F Smart Television Evaluation: Exceptional Affordable Choice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-ios-17-improves-over-previous-versions-should-you-update/"><u>How iOS 17 Improves Over Previous Versions - Should You Update?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-causes-of-pdhdll-not-detected-and-how-to-resolve-them/"><u>Identifying Causes of 'pdh.dll Not Detected' And How to Resolve Them</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keep-your-iphone-images-clean-up-icloud-storage-a-complete-tutorial/"><u>Keep Your iPhone Images, Clean Up iCloud Storage: A Complete Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-essential-steps-for-sharing-spot-with-fb-chat/"><u>The Essential Steps for Sharing Spot with FB Chat</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2024-12-15T19:00:42.154Z
-updated: 2024-12-17T18:15:45.201Z
+date: 2024-12-23T17:58:32.750Z
+updated: 2024-12-25T16:42:10.352Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,20 +129,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-breaking-into-the-world-of-youtube-stellar-intros-in-imovie/"><u>[New] In 2024, Breaking Into the World of YouTube Stellar Intros in iMovie</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-video-files-seamlessly-offline-and-web-solutions-from-movavis-online-mp3mkv-tool/"><u>Convert Video Files Seamlessly: Offline and Web Solutions From Movavi's Online MP3/MKV Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easily-transform-your-flac-audio-to-avi-video-anywhere-anytime-using-movavis-no-cost-tool/"><u>Easily Transform Your FLAC Audio to AVI Video Anywhere, Anytime Using Movavi's No-Cost Tool!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-companys-media-management-with-movavi-secure-your-copyright-free-editing-toolkit/"><u>Elevate Your Company's Media Management with Movavi - Secure Your Copyright-Free Editing Toolkit!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/estrategias-para-eliminar-o-watermark-no-site-do-movavi/"><u>Estratégias Para Eliminar O Watermark No Site Do Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/failed-ms-pc-manager-on-win-explore-solutions-now/"><u>Failed MS PC Manager on Win? Explore Solutions Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-increase-video-luminance-and-beyond-expert-tips-and-tricks/"><u>How to Effectively Increase Video Luminance and Beyond: Expert Tips & Tricks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-savings-alert-secure-an-8tb-samsung-t5-ssd-at-a-steal-for-36-off-after-october-prime-deals-ends-insiders-guide-by-zdnet/"><u>Huge Savings Alert! Secure an 8TB Samsung T5 SSD at a Steal for 36% Off After October Prime Deals Ends | Insider's Guide by ZDNET</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-snap-to-stream-a-complete-youtube-picture-upload-manual/"><u>In 2024, From Snap to Stream A Complete YouTube Picture Upload Manual</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-masterchefs-visual-guide-filming-kitchen-escapades/"><u>In 2024, MasterChef's Visual Guide Filming Kitchen Escapades</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-path-from-conceptualization-to-consuming-your-mukbang-masterpiece/"><u>In 2024, The Path From Conceptualization to Consuming Your Mukbang Masterpiece</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-time-management-for-those-balancing-careers-and-youtubing/"><u>In 2024, Time Management for Those Balancing Careers and YouTubing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/scattare-gratuitamente-con-convertire-pef-di-movavi-la-tua-guida-completa/"><u>Scattare Gratuitamente Con Convertire PEF Di Movavi: La Tua Guida Completa</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-merging-vob-format-videos-efficiently-with-just-five-simple-actions/"><u>Step-by-Step Guide: Merging VOB Format Videos Efficiently with Just Five Simple Actions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/top-software-pour-transferer-donnees-sur-un-ssd-wd-blue-sous-windows/"><u>Top Software Pour Transférer Données Sur Un SSD WD Blue Sous Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-laughter-labyrayer-with-adobes-help/"><u>[New] 2024 Approved Laughter Labyrayer with Adobe's Help</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-recordtv-easy-cost-free-windows-software-tips/"><u>[Updated] 2024 Approved RecordTV Easy, Cost-Free Windows Software Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-streamline-your-content-delivery-with-tailored-srt-upload-practices-on-media-outlets/"><u>2024 Approved Streamline Your Content Delivery with Tailored SRT Upload Practices on Media Outlets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-you-affected-by-the-latest-twitch-interruption-or-is-it-a-local-problem/"><u>Are You Affected by the Latest Twitch Interruption, or Is It a Local Problem?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-smart-8-hd-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Smart 8 HD Fingerprint Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-server-errors-identifying-if-blizzard-battlenet-is-down/"><u>Deciphering Server Errors: Identifying if Blizzard Battle.net Is Down</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-skype-hacks-resolving-connection-problems-with-ease/"><u>Essential Skype Hacks: Resolving Connection Problems with Ease</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-beatit-bt-d11-portable-charger-powerful-performance-unveiled/"><u>Expert Analysis of the Beatit BT-D11 Portable Charger: Powerful Performance Unveiled</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-a78-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo A78 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/navigating-a-fresh-start-guide-to-altering-your-tiktok-username-for-2024/"><u>Navigating a Fresh Start Guide to Altering Your TikTok Username for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-gopro-video-editing-simplified-a-macbook-users-guide-to-quik/"><u>New 2024 Approved GoPro Video Editing Simplified A MacBook Users Guide to Quik</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-experiencing-how-to-train-your-dragon-movies-from-start-to-finish/"><u>The Ultimate Guide to Experiencing How to Train Your Dragon Movies From Start to Finish</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-major-savings-explore-our-handpicked-selection-of-top-6-deal-websites/"><u>Unlock Major Savings: Explore Our Handpicked Selection of Top 6 Deal Websites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-free-melodies-15-reliable-websites-for-complimentary-music-downloads/"><u>Unlocking Free Melodies: 15 Reliable Websites for Complimentary Music Downloads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wirelessly-connect-your-television-a-guide-to-streaming-zoom-video-calls/"><u>Wirelessly Connect Your Television: A Guide to Streaming Zoom Video Calls</u></a></li>
 </ul></div>
 

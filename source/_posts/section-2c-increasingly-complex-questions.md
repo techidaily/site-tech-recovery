@@ -1,7 +1,7 @@
 ---
 title: "Section 2C: Increasingly Complex Questions"
-date: 2024-12-13T17:11:12.151Z
-updated: 2024-12-17T16:24:43.984Z
+date: 2024-12-19T07:09:48.374Z
+updated: 2024-12-26T08:41:05.820Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Show less
 
 ## Microsoft Authenticator
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Put multi-factor authentication in your pocket or on your wrist
 
 There are a tremendous number of authenticator apps available for iOS. Most of them handle the basic chores of generating Time-based One-time Password (TOTP) codes, which you can use to verify your identity when using a website or service that you previously set up on your mobile device.
@@ -48,6 +44,10 @@ Show less
 
 ## Microsoft Outlook
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick access to email, calendar, and cloud storage accounts
 
 If you've used Outlook on the desktop, you'll feel right at home with this mobile app. Outlook for iOS allows you to connect to all the Microsoft account types you'd expect, including Exchange, Office 365, and free Outlook.com/Hotmail accounts; it also syncs securely with Google accounts (Gmail and G Suite), Yahoo Mail, and iCloud. Making any of those connections gives you full access to mail, calendar, and contacts from the respective accounts, with excellent search capabilities.
@@ -62,11 +62,11 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-office/id541164041)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Office
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Word, Excel, PowerPoint, and more, in one app
 
@@ -81,10 +81,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-onenote/id410395246)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft OneNote
 
@@ -103,7 +99,7 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-onedrive/id477537958)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft OneDrive
@@ -138,10 +134,6 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-teams/id1113153706)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Teams
 
 ### One stop for video chats, meetings, files, tasks, and calendars
@@ -159,10 +151,14 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-to-do/id1212616790)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft To Do
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Keep track of Projects and tasks and send reminders to yourself or your team
 
@@ -181,7 +177,7 @@ Show less
 ## Remote Desktop Mobile
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Connect to a desktop PC or server from your mobile device
@@ -199,6 +195,10 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-lists/id1530637363)
 
 ## Microsoft Lists
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Keep track of assets, inventory, issues, and more
 
@@ -240,21 +240,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-echoes-for-every-call-the-ultimate-guide-to-tamil-ringtones/"><u>[Updated] In 2024, Echoes for Every Call The Ultimate Guide to Tamil Ringtones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-crafting-immersive-video-experiences-using-captivate/"><u>2024 Approved Crafting Immersive Video Experiences Using Captivate</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-foremost-8-4k-blu-ray-systems-reviewed/"><u>2024 Approved The Foremost 8 4K Blu-Ray Systems Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/4k-vs-1080p-understanding-the-visual-quality-and-enhancements-of-high-definition-content-upscaling/"><u>4K Vs. 1080P: Understanding the Visual Quality & Enhancements of High-Definition Content Upscaling</u></a></li>
-<li><a href="https://win-best.techidaily.com/5-top-rated-dvd-dividers-for-fast-and-simple-segmentation-of-your-videos/"><u>5 Top-Rated DVD Dividers for Fast & Simple Segmentation of Your Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavim4bwma/"><u>簡単に行う！Movaviを使用して無料でオンラインM4BファイルをWMAに変更する方法</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225731599-asfavimovavi/"><u>最適な無料ビデオコンバーター - ASFとAVIフォーマットをMovaviで簡単に変更!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-your-images-to-movies-instantly-affordable-gif-to-mov-tool-by-moovavi/"><u>Convert Your Images to Movies Instantly - AFFORDABLE GIF to MOV Tool by Moovavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-lgs-latest-creations-smart-cockpit-system-oled-panels-and-customizable-refrigerator-colors-gizmoinsight/"><u>Exploring LG's Latest Creations: Smart Cockpit System, OLED Panels, and Customizable Refrigerator Colors | GizmoInsight</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-8-endorsed-methods-for-video-marketing-success/"><u>In 2024, Top 8 Endorsed Methods for Video Marketing Success</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/pump-up-your-viewership-with-these-proven-methods/"><u>Pump Up Your Viewership with These Proven Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trasforma-i-file-mef-in-jpeg-senza-costi-con-il-servizio-web-di-movavi/"><u>Trasforma I File MEF in JPEG Senza Costi Con Il Servizio Web Di Movavi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshoot-youtube-stuttering-with-easy-and-free-techniques/"><u>Troubleshoot YouTube Stuttering with Easy & Free Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-catching-live-footage-webcam-hd-video-and-sound-by-movavi-recorder/"><u>Ultimate Guide to Catching Live Footage: Webcam HD Video & Sound by Movavi Recorder</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/windows-10114/"><u>Windows 10/11で失われたユーザーアカウントを復元する4つのテクニック</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wma-swf-online/"><u>WMA 파일을 SWF로 무료 변환 - Online 서비스</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-inexpensive-pc-display-recorder-apps/"><u>[Updated] 2024 Approved Inexpensive PC Display Recorder Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-take-control-with-kinemaster-a-compreayer-guide-to-android-gameplay/"><u>[Updated] Take Control with KineMaster A Compreayer Guide to Android Gameplay</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-active-screen-capture-pro-does-it-reign-supreme/"><u>2024 Approved Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assistance-showdown-copilot-vs-chatgpt-for-programmers/"><u>AI Assistance Showdown: Copilot Vs. ChatGPT for Programmers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-insights-for-gamers-preparing-to-make-an-informed-choice-on-console-selection/"><u>Essential Insights for Gamers: Preparing to Make an Informed Choice on Console Selection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-parent-control-apps-and-services-ranked/"><u>Essential Parent Control Apps & Services Ranked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-the-samsung-galaxy-watch-7-anticipated-pricing-structure-and-cutting-edge-features/"><u>In-Depth Look at the Samsung Galaxy Watch 7: Anticipated Pricing Structure & Cutting-Edge Features</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidias-latest-driver-release-enhance-your-rtx-3080-experience-on-windows-11-8-and-7/"><u>NVIDIA's Latest Driver Release: Enhance Your RTX 3080 Experience on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/score-the-best-bargain-on-apples-m1-ipad-air-prices-dropped-significantly/"><u>Score the Best Bargain on Apple's M1 iPad Air – Prices Dropped Significantly!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sparkling-access-methods-for-new-users/"><u>Sparkling Access Methods for New Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-selection-best-iphone-gps-tracking-tools/"><u>The Ultimate Selection: Best iPhone GPS Tracking Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-of-noctua-home-series-why-the-nv-fs1-desk-fan-shines-at-just-1n00/"><u>Unboxing of Noctua Home Series - Why the NV-FS1 Desk Fan Shines at Just $1N00</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-windows-10-battery-status-an-in-depth-guide/"><u>Understanding the Windows 10 Battery Status: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-soundscapes-at-home-a-comprehensive-guide-for-audio-novices/"><u>Unlocking Soundscapes at Home: A Comprehensive Guide for Audio Novices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-bing-how-it-works-and-why-you-should-use-it/"><u>Unveiling Bing – How It Works and Why You Should Use It</u></a></li>
 </ul></div>
 

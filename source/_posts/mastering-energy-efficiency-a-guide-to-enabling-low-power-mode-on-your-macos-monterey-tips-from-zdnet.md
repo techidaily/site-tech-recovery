@@ -1,7 +1,7 @@
 ---
 title: "Mastering Energy Efficiency: A Guide to Enabling Low Power Mode on Your macOS Monterey - Tips From ZDNet"
-date: 2024-12-10T18:46:40.398Z
-updated: 2024-12-17T19:22:42.939Z
+date: 2024-12-23T19:59:50.738Z
+updated: 2024-12-26T09:26:34.776Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -48,6 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -55,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -63,10 +71,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,20 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-dual-task-perfection-iphones-single-action-capture/"><u>[New] In 2024, Dual-Task Perfection IPhone's Single Action Capture</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-artisans-approach-to-script-dialogue/"><u>[New] In 2024, The Artisan’s Approach to Script Dialogue</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-complete-guide-to-windows-movie-maker-60-downloading/"><u>[Updated] Complete Guide to Windows Movie Maker 6.0 Downloading</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-conference-room-to-youtube-google-meet-broadcasting-for-2024/"><u>[Updated] From Conference Room to Youtube Google Meet Broadcasting for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-iphones-easy-path-to-picture-softness-four-key-steps/"><u>2024 Approved IPhone's Easy Path to Picture Softness (Four Key Steps)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-british-show-selection-on-netflix-for-right-now/"><u>Best British Show Selection on Netflix for Right Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/checklist-contents-inside-the-nintendo-switch-packaging-revealed/"><u>Checklist: Contents Inside the Nintendo Switch Packaging Revealed!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cross-device-communication-made-easy-managing-a-single-phone-number-on-all-your-tech-tools/"><u>Cross-Device Communication Made Easy: Managing a Single Phone Number on All Your Tech Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-techniques-for-repairing-msxml4dll-not-detected-or-lost-files/"><u>DIY Techniques for Repairing 'Msxml4.dll' Not Detected or Lost Files</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-effective-solutions-for-tracer-errors-m-audio/"><u>Easy, Effective Solutions for Tracer Errors (M-Audio)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-4g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 4G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-systems-replacing-aged-windows-drivers-efficiently/"><u>Streamlining Systems: Replacing Aged Windows Drivers Efficiently</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-must-have-alarm-clock-applications-for-smartphone-users/"><u>Top 7 Must-Have Alarm Clock Applications for Smartphone Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-when-msv4dll-is-nowhere-to-be-found-effective-strategies/"><u>Troubleshooting When msv4.dll Is Nowhere to Be Found: Effective Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-a-comprehensive-guide-on-how-electric-bikes-operate/"><u>Unlocking the Secrets: A Comprehensive Guide on How Electric Bikes Operate</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-content-learn-igtv-upload-techniques/"><u>[New] Elevate Your Content Learn IGTV Upload Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-shotchrome-fx-chromes-screen-capturing-for-2024/"><u>[New] ShotChrome FX Chrome's Screen Capturing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-to-the-best-10-video-saving-devices/"><u>[New] Ultimate Guide to the Best 10 Video Saving Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-the-potential-of-still-photos-through-video-creation-in-pixiz/"><u>[New] Unlock the Potential of Still Photos Through Video Creation in Pixiz</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-costs-for-upcoming-sony-vr-devices-specs-and-release-forecast/"><u>Anticipated Costs for Upcoming Sony VR Devices - Specs & Release Forecast</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-top-10-note-taking-solutions-dominating-202n4/"><u>Discover the Top 10 Note Taking Solutions Dominating 202N4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-into-the-spirit-with-these-10-epic-sports-themed-movie-selections/"><u>Get Into the Spirit with These 10 Epic Sports-Themed Movie Selections!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-hack-your-gmail-address-to-filter-messages-and-add-addresses/"><u>How to Hack Your Gmail Address to Filter Messages and Add Addresses</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-motorola-razr-40-ultra-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Motorola Razr 40 Ultra without App | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-k11x-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo K11x</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quicken-your-visual-content-best-android-software/"><u>In 2024, Quicken Your Visual Content - Best Android Software</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/professional-hd-nature-backdrops-and-imagery-for-designers-and-businesses-curated-by-yl-software-expertise/"><u>Professional HD Nature Backdrops & Imagery for Designers & Businesses, Curated by YL Software Expertise</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-lameencdll-issues-in-audacity-a-step-by-step-guide/"><u>Resolving lame_enc.dll Issues in Audacity: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-how-to-excel-at-royal-match-game/"><u>The Ultimate Tutorial on How to Excel at Royal Match Game</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-resolving-code-41-hardware-conflicts-on-your-pc/"><u>Troubleshooting and Resolving Code 41 Hardware Conflicts on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-solving-issues-with-non-uploading-instagram-stories/"><u>Troubleshooting Tips: Solving Issues with Non-Uploading Instagram Stories</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/twelve-south-compact-compass-professional-analysis-ensuring-unrivaled-steadiness/"><u>Twelve South Compact Compass Professional Analysis - Ensuring Unrivaled Steadiness</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-our-selection-8-most-exceptional-book-apps-to-enhance-your-reading-experience/"><u>Unveiling Our Selection: 8 Most Exceptional Book Apps to Enhance Your Reading Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-roadmap-to-pokemon-mastery-playing-pokemon-go-like-a-pro/"><u>Your Roadmap to Pokémon Mastery: Playing Pokémon Go Like a Pro</u></a></li>
 </ul></div>
 

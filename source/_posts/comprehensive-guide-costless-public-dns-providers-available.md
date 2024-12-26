@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Costless Public DNS Providers Available"
-date: 2024-08-26T08:20:43.212Z
-updated: 2024-08-27T08:20:43.212Z
+date: 2024-12-23T07:18:22.815Z
+updated: 2024-12-25T23:46:37.048Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Guide: Costless Public DNS Providers Available"
@@ -53,23 +53,13 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
  As you can see above,[IPv6](https://www.lifewire.com/ipv4-vs-ipv6-4780834) IP addresses use colons. If you're not sure which one to use for Google's servers or any of the others on this page, stick with IPv4.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Control D: 76.76.2.0 & 76.76.10.0
 
 ![A list of free DNS options at Control D](https://www.lifewire.com/thmb/W1PoIB20e3W5hSR-CYEJ_oBCo-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/control-d-free-dns-2f558b21cde84ae5a686dece15e913c0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 [Control D](https://controld.com/free-dns) is unique because it has several DNS servers to pick from, each categorized by theme. The "Uncensored" resolver proxies the commonly blocked websites in most countries to bypass IP blocking of various news websites. Others can be used to stop malicious websites, block ads and trackers, or block social networks or adult content. The basic option, "Unfiltered," provides DNS query privacy and security:
 
 * **Primary DNS** : 76.76.2.0
@@ -82,12 +72,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Something unique about Control D that I love to see is the custom configurations. For example, I could join trackers and ads, malware, phishing, and government sites to make a custom filter to block all of that content. Premium filters are available for a low cost that can block things like crypto exchanges and VPNs. Control D also supports DoH and DoT.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Quad9: 9.9.9.9 & 149.112.112.112
 
 ![Quad9 website](https://www.lifewire.com/thmb/iRlEKiR8f7CmoRJ2O1dytTs_Exw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/quad9-d6eaf2378c0149b497e6792759186953.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Quad9](https://www.quad9.net/) has free public DNS servers that protect your computer and other devices from cyber threats by immediately and automatically blocking access to unsafe websites. One thing I appreciated while researching this company is that it works without storing your personal data; their website clearly states that when you use Quad9, "no data containing your IP address is ever logged."
 
@@ -119,13 +110,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  For DNS servers that block adult content, use[OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) : 208.67.222.123 and 208.67.220.123\. Those two also[support DNS over HTTPS](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Cloudflare: 1.1.1.1 & 1.0.0.1
 
 ![Cloudflare 1.1.1.1 public DNS server website](https://www.lifewire.com/thmb/8O47Sc85B2ywZWpyfsbqiBMLIEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-and-public-dns-servers-2626062-cloudflare-1111-7977c2b8a42e408c81b0d59694bd634f.jpg)
@@ -142,16 +126,14 @@ No advertising on the website.
 
  There are setup directions for all your devices through the link above. Another way to use it is through the[1.1.1.1 app](https://one.one.one.one/) , which provides quick DNS setup on mobile and desktop devices; it also doubles as a VPN.[1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) can block malware (1.1.1.2) or malware and adult content (1.1.1.3). It[supports DNS over HTTPS and TLS](https://developers.cloudflare.com/1.1.1.1/encryption/) as well.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### AdGuard DNS: 94.140.14.14 & 94.140.15.15
 
 ![AdGuard DNS website](https://www.lifewire.com/thmb/VGFWb-Sg7jSxs7MM04dHcD40dbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/adguard-dns-b78348dab9e240bc94d94fd9be62e8e6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [AdGuard DNS](https://adguard-dns.io/en/public-dns.html) has three sets of DNS servers, each with different features. Two are designed to block ads in games, videos, apps, and web pages. I used these "Default" servers for several months to block ads and trackers, and I was pleased with its performance, despite ads slipping through at times:
 
 * **Primary DNS** : 94.140.14.14
@@ -165,11 +147,16 @@ No advertising on the website.
  There are also "Family protection" servers (94.140.14.15 and 2a10:50c0::bad1:ff) that block adult content, plus everything included in the "Default" servers. Non-filtering servers are available if you're not interested in blocking anything: 94.140.14.140 and 2a10:50c0::1:ff. These servers are also available as DNS over HTTPS, TLS, and QUIC, as well as DNSCrypt. Compared to[paid AdGuard DNS plans](https://adguard-dns.io/en/license.html) , free users have zero customer support and limited monthly requests, device access, rules, and servers.  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### CleanBrowsing: 185.228.168.9 & 185.228.169.9
 
 ![CleanBrowsing public DNS servers](https://www.lifewire.com/thmb/vXD5OF-pxtI8y-8lcOMqbwGDDAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cleanbrowsing-44622bf548554faa886745618c97b08a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [CleanBrowsing has three free public DNS server options](https://cleanbrowsing.org/filters/) : a security filter, adult filter, and family filter. These are the DNS servers for the security filter, the most basic of the three that updates hourly to block malware and phishing sites:
 
@@ -184,8 +171,9 @@ No advertising on the website.
  The adult filter (185.228.168.10) prevents access to adult domains, and the family filter (185.228.168.168) blocks proxies, VPNs, and mixed adult content. They both also block the same domains supported by the security filter. For more features, subscribe to one of the[CleanBrowsing premium plans](https://cleanbrowsing.org/pricing/) . This service supports DoH and DoT as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Alternate DNS: 76.76.19.19 & 76.223.122.150
 
 ![Alternate DNS website](https://www.lifewire.com/thmb/-4LtpRDVaV8Hg2TKADqt1kg7jSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alternate-dns-b37b229caddf47a3b4808394e1d80350.png)
@@ -213,6 +201,10 @@ No advertising on the website.
  If, on the other hand, you want to use the DNS servers that your specific ISP, like Verizon, AT&T, Comcast/XFINITY, etc., has determined is best, then don't manually set DNS server addresses at all—just let them_auto assign_ .
 
  Finally, in case there is any confusion, free DNS servers do_not_ give you[free internet access](https://www.lifewire.com/best-ways-to-get-free-internet-at-home-4845257) . You still need an ISP for access—DNS servers just translate between IP addresses and domain names so that you can access websites with a human-readable name (like_lifewire.com_ ) instead of a difficult-to-remember IP address.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Additional DNS Servers
 
@@ -268,8 +260,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -277,4 +267,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-tips.techidaily.com/5lin6imv44k744kv44k44o8/"><u>不良セクター</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complete-resolution-for-zooms-dark-display-dilemma-on-computers-guide-updated/"><u>Complete Resolution for Zoom's Dark Display Dilemma on Computers (Guide Updated )</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722888463750-discover-the-hottest-imessage-game-picks-of-2024-you-dont-want-to-miss/"><u>Discover the Hottest iMessage Game Picks of 2024 You Don't Want to Miss!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-and-using-android-apps-seamlessly-within-the-windows-10-operating-system/"><u>Enabling and Using Android Apps Seamlessly Within the Windows 10 Operating System</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-11-proplus-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme 11 Pro+.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evolved-suite-of-windows-media-editors/"><u>In 2024, Evolved Suite of Windows Media Editors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-your-own-passport-photos-with-these-10-tools/"><u>In 2024, Master Your Own Passport Photos with These 10 Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/leading-10-video-editing-programs-for-instagram-reels-enthusiasts/"><u>Leading 10 Video Editing Programs for Instagram Reels Enthusiasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903692622-leading-choices-in-smartwatch-apps-for-your-android-gadget-find-out-why/"><u>Leading Choices in Smartwatch Apps for Your Android Gadget: Find Out Why!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mailcom-subscription-decoding-the-timeline-for-potential-expiry/"><u>mail.com Subscription: Decoding The Timeline For Potential Expiry</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-spark-20-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Tecno Spark 20</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-in-home-karaoke-parties-for-unforgettable-nights/"><u>Mastering the Art of In-Home Karaoke Parties for Unforgettable Nights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-steps-to-achieve-verification-badge-on-formerly-known-as-twitter/"><u>Ultimate Guide: Steps to Achieve Verification Badge on Formerly Known as Twitter</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-app-and-browser-control-on-windows/"><u>What Is App and Browser Control on Windows?</u></a></li>
+</ul></div>
 

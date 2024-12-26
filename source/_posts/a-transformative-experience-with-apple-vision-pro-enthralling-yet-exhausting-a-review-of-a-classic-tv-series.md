@@ -1,7 +1,7 @@
 ---
 title: "A Transformative Experience with Apple Vision Pro: Enthralling Yet Exhausting - A Review of a Classic TV Series"
-date: 2024-12-15T17:43:24.788Z
-updated: 2024-12-17T16:59:15.477Z
+date: 2024-12-22T21:35:20.665Z
+updated: 2024-12-26T08:28:05.363Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ I've been wanting to rewatch the entire four seasons of _For All Mankind_, the a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Apple TV+ on the Vision Pro
 
 The Apple TV+ app provides a couple of viewing options on the Vision Pro. The first is just a window in passthrough mode, where you see the show floating in space, with whatever your room is as a backdrop. That didn't interest me at all. I wanted full immersion. 
@@ -80,13 +84,13 @@ It wasn't distracting enough for me to stop the show, but it was one of those an
 
 And yet, watching the show was incredible in that environment. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The reality of virtual reality
 
 But it wasn't all vintage 1969 Corvette Stingrays and Apollo 11\. There were some problems. The first was audio… 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. AirPods ala mode
 
@@ -121,7 +125,7 @@ So, yes, you can turn on noise cancellation. I just didn't know how to do it on 
 Just because I love you folks and want to give you the complete story, I later forced myself to watch the second episode of some of the best TV ever made, on what is probably the most intense giant TV screen I've ever watched. And yeah, both the AirPods Pro and AirPods Max worked just fine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Eyestrain and itchy itch
@@ -131,10 +135,6 @@ I watched the first 20 minutes of the show in entertainment center bliss, but th
 I made sure to close and blink my eyes throughout the viewing experience, but by about 40 minutes in, I found myself alternately wishing the show was over and enthralled by how awesome the video was. 
 
 To alleviate the itching, I stopped the video a few times, loosened the headset, and scratch it. That's a bit of an immersion killer. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. No coffee for you
 
@@ -146,6 +146,10 @@ I wound up drinking my coffee through a straw, but that was also a bit of a prob
 
 After trying this once, I waited until the times I needed to scratch itches to take sips. Not ideal. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Jumpy-jump, flail, flail
 
 There's supposed to be a people detection feature in the Vision Pro that opens a bit of a portal if someone walks up to you and stands in front of you. But when my wife reached across the couch with an insistent tap, there was no such warning. 
@@ -154,25 +158,21 @@ It wasn't as much that it was startling. It was more that it took some coordinat
 
 I'm sure it looked ridiculous to her, and I know it was somewhat stressful to me. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Oh, my furrowed brow
 
 I did notice brow pain while watching, but the entertainment experience was so enthralling that I put up with it. After finishing the show and safely stowing the Vision Pro, I noticed that my brow, where the Vision Pro apparently transferred most of its pressure, really hurt. 
 
 To be fair, it's not a terrible level of hurt, like when you stub your toe. But it's painful enough that it's worth remarking about. The pain went away after about ten minutes. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. In VR, nobody can hear you stream
 
 I can confirm the sense of isolation some [Vision Pro reviewers have reported](https://www.zdnet.com/article/i-tried-apple-vision-pro-for-a-weekend-and-here-are-my-3-biggest-takeaways/#:~:text=3.%20It%27s%20lonely%20in%20the%20spatial%20computing%20world). To be fair, I was purposely going for the isolation, because I didn't want to be involved in my wife's Zoom meeting. 
 
 But when my pup came over, I could feel him and pet him, but he couldn't look at my face and I couldn't see him. It wasn't a terrible moment, because he has prodigious lap-sitting skills, but I wanted to look back at his little face and couldn't. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Is it worth it?
 
@@ -228,22 +228,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-essentials-a-comprehensive-guide-to-telegram-web-usage/"><u>[New] Mastering the Essentials A Comprehensive Guide to Telegram Web Usage</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-excellent-spots-for-tamil-ringtones-acquisition-guide/"><u>[Updated] In 2024, Excellent Spots for Tamil Ringtones Acquisition Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-13-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 13 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-multitasking-a-beginners-guide-to-using-picture-in-picture-on-android/"><u>Enhancing Multitasking: A Beginner's Guide to Using Picture-in-Picture on Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-rectifying-the-non-starting-apparatus-a-step-by-step-solution-for-code-error-10/"><u>Expert Advice on Rectifying the Non-Starting Apparatus: A Step-by-Step Solution for Code Error 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-inception-to-shutdown-understanding-why-yahoo-messenger-is-no-more/"><u>From Inception to Shutdown: Understanding Why Yahoo! Messenger Is No More</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-stop-seeing-suggestions-for-you-when-using-instagram/"><u>How To Stop Seeing 'Suggestions For You' When Using Instagram</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oneplus-open-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of OnePlus Open Through Google Earth?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-fundamentals-of-email-signatures-insights-from-email-marketing-in-2010-with-massmail-tools/"><u>Mastering Fundamentals of Email Signatures: Insights From Email Marketing in 2010 with Massmail Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/microsoft-rectifies-power-management-drivers-for-enhanced-acpi-standard-adherence/"><u>Microsoft Rectifies Power Management Drivers for Enhanced ACPI Standard Adherence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resetting-your-samsung-tv-comprehensive-instructions-and-tips/"><u>Resetting Your Samsung TV – Comprehensive Instructions and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-missing-d3dx923dll-errors-in-windows-applications/"><u>The Ultimate Fix for Missing d3dx9_2‌3.dll Errors in Windows Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tutorial-on-monitoring-the-temperature-of-your-macbook/"><u>Tutorial on Monitoring the Temperature of Your MacBook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-apples-advanced-ai-innovations-explore-the-capabilities-of-their-latest-models/"><u>Unveiling Apple's Advanced AI Innovations: Explore the Capabilities of Their Latest Models</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/zoom-control-mastery-expandcontract-images-with-iphone-or-ipad-touch-gestures/"><u>Zoom Control Mastery: Expand/Contract Images with iPhone or iPad Touch Gestures</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-seamless-slideshow-on-ig-for-2024/"><u>[New] Seamless SlideShow on IG for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-stepwise-blueprint-converting-everyday-gifs-to-sticker-status-in-discord-and-other-chat-apps/"><u>[Updated] In 2024, Stepwise Blueprint Converting Everyday GIFs to Sticker Status in Discord & Other Chat Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-perfectly-balancing-portability-and-power-top-thinkpad-suggestions-for-hybrid-professionals-beyond-the-latest-release/"><u>1. Perfectly Balancing Portability and Power: Top ThinkPad Suggestions for Hybrid Professionals, Beyond the Latest Release</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/25plus-best-practices-for-crafting-witty-metaverse-visual-jokes/"><u>25+ Best Practices for Crafting Witty Metaverse Visual Jokes</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/breathtaking-cinematography-with-5-best-slow-motion-cameras/"><u>Breathtaking Cinematography with 5 Best Slow-Motion Cameras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-walkthrough-installing-windows-11-onto-a-brand-new-ssdhdd/"><u>Complete Walkthrough: Installing Windows 11 Onto a Brand New SSD/HDD</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-confirmation-signs-that-indicate-receipt-of-your-sms/"><u>Deciphering Confirmation: Signs That Indicate Receipt of Your SMS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-resolving-the-haldll-file-absence-on-windows-xp-computers/"><u>Diagnosing and Resolving the Hal.dll File Absence on Windows XP Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-i-solved-the-windows-problem-of-inability-to-arrange-key-components/"><u>How I Solved the Windows Problem of Inability to Arrange Key Components</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/imessage-for-android-heres-how-you-can-achieve-it/"><u>IMessage for Android? Here's How You Can Achieve It!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-work-with-microsoft-word-at-no-charge-heres-what-you-need-to-know/"><u>Is It Possible to Work with Microsoft Word at No Charge? Here's What You Need to Know!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-voice-manipulation-in-ps-console-titles-for-2024/"><u>The Art of Voice Manipulation in PS Console Titles for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-basics-of-internet-integration-with-your-television/"><u>The Basics of Internet Integration with Your Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-disposing-of-unwanted-mac-apps-safely/"><u>The Ultimate Tutorial: Disposing of Unwanted Mac Apps Safely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-32-complimentary-data-safety-solutions-a-thorough-compilation-and-assessment/"><u>Top 32 Complimentary Data Safety Solutions: A Thorough Compilation & Assessment</u></a></li>
 </ul></div>
 

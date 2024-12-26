@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Freeing Up Space by Deleting Apps on Samsung SmartTV"
-date: 2024-08-26T08:21:48.317Z
-updated: 2024-08-27T08:21:48.317Z
+date: 2024-12-24T00:39:38.315Z
+updated: 2024-12-26T09:43:39.959Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Freeing Up Space by Deleting Apps on Samsung SmartTV"
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -55,24 +52,22 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
 * If there aren't other ones to pick from, make sure the microphone is plugged in, powered on (if it has a power switch), and has batteries (if wireless). Finally, unplug the microphone and then reattach it.
@@ -80,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Using Skype for Mobile Devices
 
  If you're using Skype on a tablet or phone, then your speakers and microphone are built-in to your device and can't be manually adjusted. However, there are still proper permissions that Skype requires in order to use your microphone, and if it doesn't have them, it won't let anyone hear what you say through it.
@@ -106,8 +98,9 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -119,8 +112,9 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -143,6 +137,10 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -158,13 +156,18 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -196,8 +199,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +206,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/2024s-leading-tablet-computers-ranked-comprehensive-testing-and-expert-insights/"><u>2024'S Leading Tablet Computers Ranked: Comprehensive Testing & Expert Insights</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-unpaid-software-to-watch-movies-from-dvds-on-your-desktop-or-laptop/"><u>Best Unpaid Software to Watch Movies From DVDs on Your Desktop or Laptop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/browse-the-elite-a-guide-to-the-10-largest-and-most-visited-websites-today/"><u>Browse the Elite: A Guide to the 10 Largest and Most-Visited Websites Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-ripping-tool-for-mac-easily-transfer-movies-from-dvds-to-your-ios-devices-in-high-quality-mp4-format/"><u>DVD Ripping Tool for Mac: Easily Transfer Movies From DVDs to Your iOS Devices in High-Quality MP4 Format</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-mpow-mic-up-and-running-a-step-by-step-guide-for-windows-users/"><u>Getting Your MPOW Mic Up and Running: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-a-vizio-tv-that-wont-connect-to-wi-fi/"><u>How to Fix a Vizio TV That Won't Connect to Wi-Fi</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-enhancing-designs-adding-unique-fonts-to-ae-projects/"><u>In 2024, Enhancing Designs Adding Unique Fonts to AE Projects</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-infinix-note-30-vip-racing-edition-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Infinix Note 30 VIP Racing Edition Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-legion-5-pro-16-3d-amd-ryzen-7-latest-graphics-drivers-download/"><u>Lenovo Legion 5 Pro (16 3D, AMD Ryzen 7) - Latest Graphics Drivers Download</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-message-edits-on-instagram-a-complete-tutorial/"><u>Mastering the Art of Message Edits on Instagram - A Complete Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-atandts-policy-on-device-roaming-a-detailed-explanation/"><u>Navigating AT&T's Policy on Device Roaming: A Detailed Explanation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revive-your-dark-aesthetic-solutions-for-restoring-facebooks-night-theme/"><u>Revive Your Dark Aesthetic: Solutions for Restoring Facebook's Night Theme</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sony-xperia-5-evaluation-compact-design-high-price-point/"><u>Sony Xperia 5 Evaluation: Compact Design, High Price Point</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-to-the-elusive-mfc42dll-not-detected-mistake/"><u>The Ultimate Fix to the Elusive mfc42.dll Not Detected Mistake</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-for-snapping-screenshots-on-desktop-computers/"><u>Ultimate Tutorial for Snapping Screenshots on Desktop Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-apple-ring-gadget-unveiling-potential-costs-arrival-dates-and-feature-updates/"><u>Upcoming Apple Ring Gadget - Unveiling Potential Costs, Arrival Dates, and Feature Updates</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-download-to-upload-the-art-of-online-video-editing/"><u>Updated From Download to Upload The Art of Online Video Editing</u></a></li>
+</ul></div>
 

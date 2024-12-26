@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2024-12-13T16:04:39.187Z
-updated: 2024-12-17T18:14:57.760Z
+date: 2024-12-21T06:22:47.202Z
+updated: 2024-12-26T09:50:15.177Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,18 +129,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-channel-name-wizardry-brainstorm-and-create/"><u>[New] Channel Name Wizardry Brainstorm & Create</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unlock-the-6th-richest-strategies-for-successful-ig/"><u>[New] Unlock the 6Th Richest Strategies for Successful IG</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-eliminating-the-suggest-next-function-on-instagram/"><u>Complete Guide: Eliminating the 'Suggest Next' Function on Instagram</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/craft-natural-motion-depth-in-ps-for-2024/"><u>Craft Natural Motion Depth in PS for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/discovering-the-best-free-videodownloaders-for-pinterest-for-2024/"><u>Discovering the Best Free Videodownloaders for Pinterest for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-strategies-for-youtube-to-mpeg-conversion/"><u>In 2024, Optimal Strategies for YouTube-to-MPEG Conversion</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-common-glitches-a-users-handbook-for-successful-instagram-story-uploads/"><u>Overcoming Common Glitches: A User’s Handbook for Successful Instagram Story Uploads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-tips-for-kinemaster-dominance-plus-best-digital-platforms-on-the-web-for-2024/"><u>Pro Tips for KineMaster Dominance + Best Digital Platforms on the Web for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-screen-images-on-your-desktop-computer/"><u>Step-by-Step Guide: Capturing Screen Images on Your Desktop Computer</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nokia-130-music-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nokia 130 Music</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-windows-11-search-issues-with-our-top-fixing-tips/"><u>Troubleshoot Windows 11 Search Issues with Our Top Fixing Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-trick-navigating-to-command-prompt-within-file-explorer-tabs/"><u>Ultimate Trick: Navigating to Command Prompt Within File Explorer Tabs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722886473783-understanding-the-502-bad-gateway-error-causes-and-solutions/"><u>Understanding the 502 Bad Gateway Error - Causes & Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-precise-procedure-for-fusing-gopro-footage-into-comprehensive-video-spheres/"><u>[New] 2024 Approved Precise Procedure for Fusing GoPro Footage Into Comprehensive Video Spheres</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-max-360-vs-hero-11-choosing-the-best-gopro-cam-for-2024/"><u>[New] Max 360 Vs. Hero 11 - Choosing the Best GoPro Cam for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fleeting-films-on-the-friendly-social-for-2024/"><u>[Updated] Fleeting Films on the Friendly Social for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-direct-access-for-the-curious-explorer-in-windows-11/"><u>A Guide to Direct Access for the Curious Explorer in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/direct-obs-live-to-instagram-feed-for-2024/"><u>Direct OBS Live to Instagram Feed for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-fixes-overcoming-the-lack-of-display-on-your-xbox-one-system/"><u>DIY Fixes: Overcoming the Lack of Display on Your Xbox One System</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-internet-without-cable-or-phone/"><u>How to Get Internet Without Cable or Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-troubleshooting-guide-connecting-and-recognizing-external-screens/"><u>Mac Troubleshooting Guide: Connecting and Recognizing External Screens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-air-split-screen-hack-how-to-multitask-like-a-pro-without-buying-extras/"><u>MacBook Air Split Screen Hack: How to Multitask Like a Pro Without Buying Extras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps5-slim-or-full-model-a-comprehensive-look-at-sonys-latest-consoles/"><u>PS5 Slim or Full Model? A Comprehensive Look at Sony's Latest Consoles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-unpacked-forecast-key-dates-breakthrough-news-and-rumor-roundup/"><u>Samsung Unpacked Forecast : Key Dates, Breakthrough News & Rumor Roundup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-btballoondll-missing-file-issue-a-step-by-step-guide/"><u>Solving the BTBalloon.DLL Missing File Issue: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

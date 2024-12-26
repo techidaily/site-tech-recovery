@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2024-12-12T18:45:14.969Z
-updated: 2024-12-17T18:24:12.940Z
+date: 2024-12-24T20:32:16.122Z
+updated: 2024-12-25T22:23:18.910Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,20 +176,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-record-breaking-youtube-content-watch-counts/"><u>[Updated] Record Breaking YouTube Content Watch Counts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-interaction-how-to-implement-text-and-subtitles-in-your-insta-stories-effortlessly/"><u>Enhancing Interaction: How to Implement Text and Subtitles in Your Insta Stories Effortlessly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-infinix-note-30i-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Infinix Note 30i Phones with/without a PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-7-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 7 Plus and iPad?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-motorola-moto-g14-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Motorola Moto G14 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-the-premium-samsung-galaxy-tab-s7plus-for-android-enthusiasts/"><u>In-Depth Review of the Premium Samsung Galaxy Tab S^7+ for Android Enthusiasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pairing-made-simple-a-comprehensive-tutorial-for-your-bose-soundlink-system/"><u>Pairing Made Simple: A Comprehensive Tutorial for Your Bose Soundlink System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/real-time-bandwidth-visualization-for-users/"><u>Real-Time Bandwidth Visualization for Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-casting-windows-desktop-from-a-smartphone-or-tablet-onto-your-tv/"><u>Step-by-Step Guide to Casting Windows Desktop From a Smartphone or Tablet Onto Your TV</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-to-deal-with-stop-code-0x0000009f-on-your-pc/"><u>Step-by-Step Solutions to Deal with STOP Code 0X0000009F on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-fix-for-your-missing-msvcr80dll-error-on-pc/"><u>The Definitive Fix for Your Missing msvcr80.dll Error on PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-pursuit-of-drone-excellence-a-comprehensive-look-at-djis-phantom-4-v2/"><u>The Pursuit of Drone Excellence: A Comprehensive Look at DJI's Phantom 지구 4 V2</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722878781589-the-ultimate-matrix-movie-marathon-watching-them-in-correct-order-explained/"><u>The Ultimate Matrix Movie Marathon – Watching Them in Correct Order Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-and-hardware-reviews/"><u>Tom's Tech Insights & Hardware Reviews</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-masterminds-discover-the-founders-of-chatgpt/"><u>Unveiling the Masterminds: Discover the Founders of ChatGPT</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-beyond-basics-smarter-application-of-sticker-questions-on-instagram/"><u>[Updated] 2024 Approved Beyond Basics Smarter Application of Sticker Questions on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-jest-in-imagery-create-with-kapwing/"><u>[Updated] In 2024, Jest in Imagery Create with Kapwing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artistic-revolution-identifying-top-6-nft-visionaries/"><u>[Updated] The Artistic Revolution Identifying Top 6 NFT Visionaries</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-exceptional-live-streamers/"><u>[Updated] The Ultimate Guide to Exceptional Live Streamers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-comedy-lab-testing-if-machines-can-make-us-laugh/"><u>AI's Comedy Lab: Testing if Machines Can Make Us Laugh</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/arranging-your-dragon-ball-marathon-a-complete-order-guide/"><u>Arranging Your Dragon Ball Marathon: A Complete Order Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/aural-enhancement-for-your-inshot-clips/"><u>Aural Enhancement for Your Inshot Clips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery-for-2024/"><u>Crafting Your YouTube Legacy A Deep Dive Into Creator Studio Mastery for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-ps5-refresh-how-to-replace-the-hard-drive-with-an-ssd-for-faster-gaming/"><u>DIY PS5 Refresh: How to Replace the Hard Drive With an SSD for Faster Gaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-latest-release-amd-radeon-v2410-graphics-drivers-for-optimal-performance/"><u>Download Latest Release: AMD Radeon v24.10 Graphics Drivers for Optimal Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-using-the-measure-app-on-android-smartphones/"><u>Effective Techniques for Using the Measure App on Android Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-these-excellent-choices-for-free-email-accounts-top-10-list/"><u>Explore These Excellent Choices for Free Email Accounts (Top 10 List)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-common-problems-when-samsung-tv-applications-fail-to-load/"><u>Fixing Common Problems When Samsung TV Applications Fail to Load</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-14-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 14 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-ev-home-charging-essential-tips-and-techniques-everyone-should-know/"><u>Mastering EV Home-Charging: Essential Tips and Techniques Everyone Should Know</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/movavi3gpwmv/"><u>Movaviで簡単にフリーオンライン3GPをWMVに切り替える方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-take-when-you-dont-see-new-emails-coming-into-your-yahoo-account/"><u>Steps to Take When You Don't See New Emails Coming Into Your Yahoo Account</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-to-update-device-drivers-on-windows-10-with-revo-uninstaller/"><u>The Ultimate Walkthrough to Update Device Drivers on Windows 10 with Revo Uninstaller</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-guide-to-the-best-lgbtqplus-tv-shows-on-netflix-july-2eticket/"><u>Your Guide to the Best LGBTQ+ TV Shows on Netflix - July 2E_ticket</u></a></li>
 </ul></div>
 

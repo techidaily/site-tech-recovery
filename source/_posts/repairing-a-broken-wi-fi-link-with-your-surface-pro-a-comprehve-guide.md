@@ -1,7 +1,7 @@
 ---
 title: Repairing a Broken Wi-Fi Link with Your Surface Pro - A Comprehve Guide
-date: 2024-08-26T08:20:52.038Z
-updated: 2024-08-27T08:20:52.038Z
+date: 2024-12-18T22:52:12.313Z
+updated: 2024-12-26T01:03:37.141Z
 categories:
   - BestProducts
 description: This Article Describes Repairing a Broken Wi-Fi Link with Your Surface Pro - A Comprehve Guide
@@ -11,6 +11,10 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
 
 ## Repairing a Broken Wi-Fi Link with Your Surface Pro - A Comprehve Guide
  If your Microsoft Surface won't connect to Wi-Fi, it won't be able to download files or load websites. You might also notice the Wi-Fi signal strength icon in the taskbar disappears, shows low signal strength, or shows an X. In this article, we'll help you fix your Surface Pro's Wi-Fi problem so you can get back online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why a Surface Pro Won't Connect to Wi-Fi
 
@@ -23,6 +27,10 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
 * Malfunctioning VPN
 * Wi-Fi adapter driver or hardware failure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Surface Pro Not Connecting to Wi-Fi
 
  The long list of potential problems can make Wi-Fi issues intimidating. Fortunately, the fix is often simple. Follow these solutions in the order you see them here, which are ranked from least to most complex:
@@ -31,6 +39,11 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
  To check, select the**Wi-Fi icon** next to the clock. If the tile is not highlighted, then Wi-Fi is off. Select it once to switch it on.  
 ![Windows Wi-Fi manager open with wireless networks visible.](https://www.lifewire.com/thmb/OGtupdHh609ektjxSxXByPO0yp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-FixSurfaceProNotConnectingtoWi-Fi-annotated-b9aea0142cbe4240a164d03b898f401b.jpg)
 2. [Turn off Airplane Mode](https://www.lifewire.com/windows-10-and-android-airplane-modes-4148142) . This is a useful feature, but only in very specific situations. When it's on, this mode turns_off_ Wi-Fi.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sometimes you can toggle Airplane Mode on and off to fix Wi-Fi problems. For example, if it's already off, go ahead and switch it on for five seconds. Then, turn it back off and see if Wi-Fi works.
 3. [Make sure you've connected to the correct network](https://www.lifewire.com/connecting-to-a-wireless-home-network-3506902) . If it's your neighbor's Wi-Fi you accidentally got onto, it might be too far away to work reliably. Or maybe the other network is having its own issues. The fix here is to disconnect from it and choose_your_ Wi-Fi network.  
 [Can't See Your Wi-Fi Network? Here's What to Do](https://www.lifewire.com/fix-wifi-network-not-showing-up-4628122)  
@@ -48,6 +61,11 @@ thumbnail: https://www.lifewire.com/thmb/xw7M4W7GsgUcw_BgXlYR4mP5L1M=/400x300/fi
 [Disable the adapter](https://www.lifewire.com/how-do-i-disable-a-device-in-device-manager-in-windows-2619212) , wait a few seconds, and then[enable it again](https://www.lifewire.com/how-do-i-enable-a-device-in-device-manager-in-windows-2619215) . Finally,[restart your Surface Pro](https://www.lifewire.com/restart-surface-pro-5112628) .  
 ![A screenshot of Windows Device Manager open with a Wi-Fi adapter selected](https://www.lifewire.com/thmb/oJzAm3YseVTxhCuIR_aYn3ZgLy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how_to_fix_surface_wifi_1-0ca9b10f52a840159d218d1f87895137.jpg)  
 Matthew S. Smith / Lifewire  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If none of the above Wi-Fi adapters are listed, it likely means your Surface Pro's Wi-Fi adapter has a hardware issue.[Microsoft suggests you contact customer support](https://support.microsoft.com/contactus) for further troubleshooting and repair.
 10. [Run Windows Update](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Microsoft updates occasionally include fixes for issues like this one. This will correct your Surface Pro's Wi-Fi problem if it's due to a bug that an update addresses.  
  Windows Update only works if you have an internet connection, so you'll need to connect your Surface Pro to the internet over[a wired Ethernet connection](https://www.lifewire.com/what-is-ethernet-3426740) . For this, you'll need a USB to Ethernet adapter. Unless you already have one, we recommend you skip this step.
@@ -85,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,10 +110,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-capture-solutions-azs-reviews-and-backups/"><u>[New] Comprehensive Capture Solutions - AZ's Reviews & Backups</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-android-facetime-a-step-by-step-guide-for-2024/"><u>[New] Mastering Android FaceTime A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rapid-routines-sending-photos-from-iphone-to-computer/"><u>[New] Rapid Routines Sending Photos From iPhone to Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>[New] Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-real-story-exploring-recordcast-features/"><u>[Updated] In 2024, The Real Story Exploring RecordCast Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-launching-an-impactful-instagram-live-session-for-2024/"><u>[Updated] Launching an Impactful Instagram Live Session for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722881425369-all-you-need-to-know-about-the-next-google-pixel-anticipated-price-launch-date-and-specs-rumors-included/"><u>All You Need to Know About the Next Google Pixel: Anticipated Price, Launch Date & Specs - Rumors Included</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/combining-your-photos-create-one-pdf-from-multiple-jpeg-files-easily/"><u>Combining Your Photos: Create One PDF From Multiple JPEG Files Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversao-avispura-sem-custo-de-audiovideo-avi-em-vob-uso-on-line-com-tutoriales-detalhados/"><u>Conversão Avispura Sem Custo De Áudio/Vídeo AVI Em VOB: Uso On-Line Com Tutoriales Detalhados</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-amber-alert-notifications-steps-for-android-users/"><u>Disabling Amber Alert Notifications: Steps for Android Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-5-iphone-navigators-best-gps-apps-of-all-time/"><u>Discover the Ultimate 5 iPhone Navigators: Best GPS Apps of All Time</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-spark-to-speed-the-compelling-journey-of-electric-cars/"><u>From Spark to Speed: The Compelling Journey of Electric Cars</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-gamers-dream-the-ultimate-compilation-of-best-yt-game-entrances/"><u>In 2024, Gamer's Dream The Ultimate Compilation of Best YT Game Entrances</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-f25-pro-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo F25 Pro 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-sharing-tiktok-on-twitter-quickly/"><u>In 2024, Sharing TikTok on Twitter Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leverage-these-keywords-for-viral-success-on-instagram-stories-and-feed/"><u>Leverage These Keywords for Viral Success on Instagram Stories and Feed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-appointments-easily-how-to-lock-in-your-slot-at-the-apple-stores-genius-bar-services/"><u>Navigating Appointments Easily: How to Lock in Your Slot at the Apple Store's Genius Bar Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-instantly-in-minecraft-unveiling-the-secrets-of-the-teleport-ability/"><u>Navigating Instantly in Minecraft: Unveiling the Secrets of the Teleport Ability</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reclaiming-control-over-a-suspended-or-disabled-instagram-identity-top-tips/"><u>Reclaiming Control Over a Suspended or Disabled Instagram Identity: Top Tips</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->

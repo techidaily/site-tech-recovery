@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2024-12-12T19:14:37.589Z
-updated: 2024-12-17T16:24:16.560Z
+date: 2024-12-19T05:17:51.619Z
+updated: 2024-12-26T00:47:20.238Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,16 +120,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-maximizing-visual-impact-integrating-free-high-quality-luts-into-obs/"><u>[New] 2024 Approved Maximizing Visual Impact Integrating Free, High-Quality LUTs Into OBS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-saving-big-on-final-cut-pro-without-paying/"><u>[Updated] Saving Big on Final Cut Pro without Paying</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sky-high-speeds-key-moments-in-the-short-tracks-olympics/"><u>[Updated] Sky-High Speeds Key Moments in the Short Tracks, Olympics</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beginners-pathway-to-web-personalization-enabling-browser-cookies-effectively/"><u>Beginner's Pathway to Web Personalization: Enabling Browser Cookies Effectively</u></a></li>
-<li><a href="https://solve-help.techidaily.com/best-methods-for-duplicating-crucial-ssd-drives-discover-the-leading-options-and-comprehensive-cloning-process/"><u>Best Methods for Duplicating Crucial SSD Drives - Discover the Leading Options & Comprehensive Cloning Process</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-not-playing-sounds-discover-solutions-for-reactivating-your-ringtone-feature/"><u>IPhone Not Playing Sounds? Discover Solutions for Reactivating Your Ringtone Feature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-role-and-functioning-of-transfer-learning-within-artificial-intelligence/"><u>The Role and Functioning of Transfer Learning Within Artificial Intelligence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-5-crucial-points-to-know-about-secondhand-laptops/"><u>The Ultimate Guide: 5 Crucial Points to Know About Secondhand Laptops</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-essential-factors-when-selecting-your-ideal-selfie-accessory/"><u>Top 6 Essential Factors When Selecting Your Ideal Selfie Accessory</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/transform-your-broadcasts-5-advanced-recording-methods-web/"><u>Transform Your Broadcasts 5 Advanced Recording Methods Web</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-maximize-attendee-visibility-with-google-meet-grids/"><u>[New] 2024 Approved Maximize Attendee Visibility with Google Meet Grids</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-dance-dictates-selecting-perfect-audio-visuals-for-2024/"><u>[New] Dance Dictates Selecting Perfect Audio-Visuals for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-epic-stories-academy-the-premier-8-list/"><u>[New] Epic Stories Academy – The Premier 8 List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>[New] In 2024, From Script to Screen The Compreeved Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-watch-showdown-discovering-your-perfect-match-with-the-ultra-vs-series-8/"><u>Apple Watch Showdown: Discovering Your Perfect Match with the Ultra Vs. Series 8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-subtly-powerful-ai-innovation-set-to-unveil-at-wwdc-the-hidden-gem-you-dont-want-to-miss/"><u>Apple's Subtly Powerful AI Innovation Set to Unveil at WWDC: The Hidden Gem You Don't Want to Miss</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-latest-innovations-from-apples-iphone-16-launch-introducing-glowtime-ai-features-and-new-apple-watch-series-10-all-covered-by-zdnet/"><u>Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-methods-to-enhance-complexity-on-your-apple-watch-insights/"><u>Effortless Methods to Enhance Complexity on Your Apple Watch: Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/essential-tips-for-harnessing-movie-maker-in-windows-8-systems/"><u>Essential Tips for Harnessing Movie Maker in Windows 8 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-evolution-of-siri-at-apple-embracing-the-future-with-ai-strategies-similar-to-bing/"><u>The Evolution of Siri at Apple - Embracing the Future with AI Strategies Similar to Bing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-xs-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone XS Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-epson-wf-3620-printing-software-compatible-with-windows-os-1087/"><u>Updated Epson WF-3620 Printing Software Compatible With Windows OS (10/8/7)</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/upgrading-your-virtual-machines-transitioning-from-hyper-vs-generation-1-to-generation-2/"><u>Upgrading Your Virtual Machines: Transitioning From Hyper-V's Generation 1 to Generation 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-everyone-should-choose-apple-pages-a-breakdown-by-experts-at-zdnet-top-5-reasons-unveiled/"><u>Why Everyone Should Choose Apple Pages: A Breakdown by Experts at ZDNet, Top 5 Reasons Unveiled</u></a></li>
 </ul></div>
 

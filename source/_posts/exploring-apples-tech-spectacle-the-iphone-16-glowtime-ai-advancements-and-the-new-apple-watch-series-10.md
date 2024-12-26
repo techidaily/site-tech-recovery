@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Tech Spectacle: The iPhone 16 'Glowtime', AI Advancements, and the New Apple Watch Series 10"
-date: 2024-12-12T17:47:07.256Z
-updated: 2024-12-17T17:01:54.607Z
+date: 2024-12-25T05:07:02.208Z
+updated: 2024-12-26T08:19:15.612Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you didn't get to tune in or want a detailed summary of the announcements, ke
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
@@ -65,7 +65,7 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -89,7 +89,7 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -117,7 +117,7 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -135,7 +135,7 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -184,24 +184,17 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-economical-sky-craftsmen-top-5-budget-friendly-drones-for-2024/"><u>[New] Economical Sky Craftsmen Top 5 Budget-Friendly Drones for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-exercise-innovations-6-youtube-ideas-for-movement-focused-viewers/"><u>[Updated] Exercise Innovations 6 YouTube Ideas for Movement-Focused Viewers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-quicker-scaling-ensure-perfect-youtubemac-ratios/"><u>[Updated] In 2024, Quicker Scaling Ensure Perfect Youtube/Mac Ratios</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-fundamentals-of-fluent-google-meet-conversations-for-2024/"><u>[Updated] The Fundamentals of Fluent Google Meet Conversations for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/alert-ensure-your-online-safety-on-social-platforms-like-fb/"><u>Alert! Ensure Your Online Safety on Social Platforms Like FB</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/clearing-the-cmos-a-comprehensive-tutorial-for-reinitializing-system-bios/"><u>Clearing the CMOS: A Comprehensive Tutorial for Reinitializing System BIOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-restoring-your-water-damaged-iphoneipod-steps-and-tips/"><u>Complete Guide: Restoring Your Water-Damaged iPhone/iPod - Steps & Tips</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-optimized-website-tracking-and-personalization-solutions/"><u>Cookiebot-Enabled: Optimized Website Tracking & Personalization Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-picks-the-5-most-popular-free-worldwide-calls-services/"><u>Explore Our Picks: The 5 Most Popular Free Worldwide Calls Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-7-complimentary-online-fax-service-options/"><u>Explore These 7 Complimentary Online Fax Service Options</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cial-magnitude-in-mr-beasts-realm/"><u>Financial Magnitude in Mr. Beast's Realm</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-blaze-curve-5g-lock-screen-password-by-drfone-android/"><u>How To Change Lava Blaze Curve 5G Lock Screen Password?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-the-helperdll-error-and-get-back-to-work/"><u>How To Recover From the Helper.dll Error and Get Back to Work</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/july-2024-top-free-software-to-safeguard-and-check-your-hard-drives/"><u>July 2024: Top Free Software to Safeguard and Check Your Hard Drives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-watching-dragon-ball-series-sequentially/"><u>Step-by-Step Guide: Watching Dragon Ball Series Sequentially</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-pathway-to-high-frame-rate-mastery-surpassing-120-fps-on-your-ps5/"><u>The Pathway to High Frame Rate Mastery: Surpassing 120 FPS on Your PS5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-4-must-have-mobile-apps-for-effortless-home-exterior-makeovers/"><u>Top 4 Must-Have Mobile Apps for Effortless Home Exterior Makeovers</u></a></li>
-<li><a href="https://facebook.techidaily.com/transforming-facebook-posts-smart-autocaption-features-for-users/"><u>Transforming Facebook Posts: Smart AutoCaption Features for Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-inspirational-metaverse-sayings-arvr-edition/"><u>[Updated] 2024 Approved Inspirational Metaverse Sayings AR/VR Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-raw-to-ready-a-compreenass-guide-to-video-crop-on-instagram-for-2024/"><u>[Updated] From Raw to Ready A Compreenas's Guide to Video Crop on Instagram for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-samsung-unpacked-2025-reveal-dates-breaking-news-latest-gadgets-and-exclusive-teasers/"><u>All About Samsung Unpacked 2025: Reveal Dates, Breaking News, Latest Gadgets & Exclusive Teasers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beyond-the-surface-assessing-the-genuine-sustainability-of-electric-vehicles/"><u>Beyond The Surface: Assessing the Genuine Sustainability of Electric Vehicles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-implemented-accessing-origin-service-restored/"><u>Fix Implemented: Accessing Origin Service Restored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-solve-launchdll-not-detected-problems-on-your-computer/"><u>How to Correctly Solve 'Launch.dll Not Detected' Problems on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsoft-introduces-cutting-edge-ai-powered-bing-search-to-enrich-user-experience-on-smartphones/"><u>Microsoft Introduces Cutting-Edge, AI-Powered Bing Search to Enrich User Experience on Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/nine-vital-tech-products-to-power-your-educational-journey-successfully/"><u>Nine Vital Tech Products to Power Your Educational Journey Successfully</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-hot-40-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Hot 40 unlock screen</u></a></li>
+<li><a href="https://solve-news.techidaily.com/scenes-de-reves-avec-la-technologie-du-chroma-key-vos-etapes-cles-pour-des-effets-visuels-impeccables/"><u>Scènes De Rêves Avec La Technologie Du Chroma Key : Vos Étapes Clés Pour Des Effets Visuels Impeccables</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-how-to-achieve-privacy-with-background-blur-in-google-meet/"><u>Step-by-Step Instructions on How to Achieve Privacy with Background Blur in Google Meet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
 

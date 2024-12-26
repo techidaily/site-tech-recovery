@@ -1,7 +1,7 @@
 ---
 title: "Discovering Mac OS X Keychain Passwords: A Step-by-Step Guide"
-date: 2024-12-13T18:32:05.161Z
-updated: 2024-12-17T16:40:44.953Z
+date: 2024-12-20T06:29:26.069Z
+updated: 2024-12-25T16:45:35.082Z
 tags:
   - apple
 categories:
@@ -19,16 +19,12 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
 
@@ -39,7 +35,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -53,7 +49,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -70,6 +66,10 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -79,7 +79,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -113,16 +113,18 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-macs-premier-video-to-mp4-converters-guide/"><u>[New] In 2024, Mac's Premier Video to MP4 Converters Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparison-ps5-slim-vs-standard-ps5-key-differences-revealed/"><u>Comparison: PS5 Slim Vs. Standard PS5 - Key Differences Revealed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/crafty-escapades-discover-top-imaginative-venues/"><u>Crafty Escapades Discover Top Imaginative Venues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-correcting-stop-code-stop-0x0000003d-on-windows-pcs/"><u>Diagnosing and Correcting Stop Code STOP 0X0000003D on Windows PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-your-msxml4dll-file-not-being-located-or-accessible/"><u>Easy Fixes for Your MsXML4.dll File Not Being Located or Accessible</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-your-channel-hit-the-10000-view-mark-fast/"><u>Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/luxury-meets-value-exceptional-high-end-tech-on-a-shoestring/"><u>Luxury Meets Value: Exceptional High-End Tech on a Shoestring</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/see-event-june-19-1940-the-dow-jones-industrial-average-reaches-a-record-high-before-plummeting-due-to-the-onset-of-world-war-ii-relating-to-stocks-as-it-sh104/"><u>See Event [June 19, 1940]: The Dow Jones Industrial Average Reaches a Record High Before Plummeting Due to the Onset of World War II, Relating to 'Stocks' As It Showcases How External Events Can Rapidly Change Market Valuations.</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/iggle-game-top-15-cheeky-youtube-creators-to-admire-for-2024/"><u>The Giggle Game Top 15 Cheeky YouTube Creators to Admire for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-wallet-reviews-industry-experts-verdicts-zdnet/"><u>Top-Rated AirTag Wallet Reviews : Industry Experts' Verdicts - ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/reating-on-the-side-balancing-employment-with-youtube/"><u>[New] Creating on the Side Balancing Employment with YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-visual-virtuosity-mastering-motivation-on-instagram/"><u>[New] In 2024, Visual Virtuosity Mastering Motivation on Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-excellence-optimizing-post-reach/"><u>[Updated] In 2024, Instagram Excellence Optimizing Post Reach</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-transforming-viewers-into-loyalists-with-essential-youtube-tips/"><u>[Updated] In 2024, Transforming Viewers Into Loyalists with Essential YouTube Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-plugins-for-dynamic-type-design-in-ae/"><u>[Updated] Premier Plugins for Dynamic Type Design in AE</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ure-success-starts-with-smart-hashtagging-for-2024/"><u>6-Figure Success Starts with Smart #Hashtagging for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aiding-academic-success-discover-the-6-greatest-study-apps-for-kids-and-their-guardians/"><u>Aiding Academic Success: Discover the 6 Greatest Study Apps for Kids and Their Guardians</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-factors-when-choosing-your-dream-gaming-computer/"><u>Essential Factors When Choosing Your Dream Gaming Computer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-inside-the-jaunt-vr-experience/"><u>In 2024, Inside the Jaunt VR Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-lava-yuva-3-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Lava Yuva 3 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-when-vcompdll-is-missing-or-cant-be-found/"><u>Step-by-Step Fix for When Vcomp.dll Is Missing or Can't Be Found</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-james-bond-marathon-watch-the-franchise-chronologically/"><u>Ultimate James Bond Marathon: Watch the Franchise Chronologically</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/writing-the-virtual-playbook-ai-innovations-in-gaming-scripts/"><u>Writing the Virtual Playbook: AI Innovations in Gaming Scripts</u></a></li>
 </ul></div>
 

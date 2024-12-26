@@ -1,7 +1,7 @@
 ---
 title: "Anticipate the Arrival of Google TV's New Contender: Price Expectations, Release Dates, Specs & Secret Rumors"
-date: 2024-08-26T08:22:33.572Z
-updated: 2024-08-27T08:22:33.572Z
+date: 2024-12-20T01:11:36.087Z
+updated: 2024-12-26T07:23:08.935Z
 categories:
   - BestProducts
 description: "This Article Describes Anticipate the Arrival of Google TV's New Contender: Price Expectations, Release Dates, Specs & Secret Rumors"
@@ -21,17 +21,26 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
  The Pixel 10 won't be out for a while, but we're already hearing some big news about how it will stand out from[previous Google Pixel phones](https://www.lifewire.com/google-pixel-phones-4152056) . The Pixel 10 could ship with the Tensor G5 chip and include better fingerprint sensor technology.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Google Pixel 10 Be Released?
 
  Google makes a new phone every year. The[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) will be Google's next smartphone, so the Pixel 10 release date won't be until late 2025.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
 We guess the Google Pixel 10 will come out in October 2025.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Pixel 10 Price Rumors
 
  There's no concrete information on Pixel 10 pricing yet, but if the Pixel 9 is priced the same as the Pixel 8 (we think it will be), there's a good chance we'll see an increase for the Pixel 10\. This could put the base model around $750, and the Pixel 10 Pro could follow suit, exceeding $1000.  
@@ -39,17 +48,15 @@ We guess the Google Pixel 10 will come out in October 2025.
  Of course, this is pure speculation. Google might adjust pricing based on market trends, hardware, and competitor offerings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Pixel 10 pre-orders are unavailable this far out. Typically, Google opens pre-orders a couple of weeks before the official release date, so you should be able to grab one in late 2025\. We'll have the date and time figured out as that time approaches.
 
 [The Next Google Event: News, Rumors, and Announcements](https://www.lifewire.com/google-event-5205756)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Google Pixel 10 Specs and Features
 
  This is the list of features and changes we're expecting from the Pixel 10:
@@ -61,8 +68,9 @@ We guess the Google Pixel 10 will come out in October 2025.
 * **More Storage and RAM** : All Pixel 8 models start with 128 GB of storage, but only the Pro model offers 512 GB or 1 TB. We'd like to see some changes: 256 GB as the starting storage for all models and 512 GB as an option for the standard Pixel 10\. Regarding RAM, we believe 12 GB should become the standard instead of 8 GB for the base model.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About Google Pixel 10
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Below are some stories about Google devices.
@@ -71,14 +79,11 @@ We guess the Google Pixel 10 will come out in October 2025.
 
 [Surprise: Google's Find My May Be More Private Than Apple's](https://www.lifewire.com/google-find-my-device-better-than-apple-8629920)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +92,21 @@ We guess the Google Pixel 10 will come out in October 2025.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/como-se-transforma-un-video-mkv-en-formato-hd-m2ts-sin-gastar-ni-un-centavo-guia-detallada/"><u>¿Cómo Se Transforma Un Video MKV en Formato HD M2TS Sin Gastar Ni Un Centavo: Guía Detallada</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-an-encyclopedia-on-hand-pose-identification-systems-for-2024/"><u>[New] An Encyclopedia on Hand Pose Identification Systems for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-composing-news-wrap-up-scripts/"><u>[Updated] In 2024, Composing News Wrap-Up Scripts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-fixes-for-non-responsive-aol-email-apps-on-iphones/"><u>6 Effective Fixes for Non-Responsive AOL Email Apps on iPhones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/baixar-conversor-de-qt-para-gif-online-gratuito-movavi/"><u>Baixar Conversor De Qt Para GIF Online Gratuito - Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-free-ways-to-download-the-full-mr-bean-show-top-3-strategies/"><u>Best Free Ways to Download the Full Mr. Bean Show: Top 3 Strategies</u></a></li>
+<li><a href="https://win-lab.techidaily.com/comprehensive-tutorial-cloning-your-system-with-macrium-reflect-onto-an-external-hardware/"><u>Comprehensive Tutorial: Cloning Your System with Macrium Reflect Onto an External Hardware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electrodiagnostic-studies-including-electromyography-emg-and-nerve-conduction-velocity-ncv-are-used-to-diagnose-the-extent-and-location-of-ulnar-nerve-injur47/"><u>Electrodiagnostic Studies, Including Electromyography (EMG) and Nerve Conduction Velocity (NCV), Are Used to Diagnose the Extent and Location of Ulnar Nerve Injuries.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/overcome-hd-blockades-streaming-success-with-secure-browsers-for-2024/"><u>Overcome HD Blockades Streaming Success with Secure Browsers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-superiority-of-ios-for-a-seamless-chatgpt-experience/"><u>The Superiority of iOS for a Seamless ChatGPT Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-21-essential-educational-tech-gadgets-and-apps-for-modern-instructors/"><u>Top 21 Essential Educational Tech Gadgets & Apps for Modern Instructors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-chatgpt-on-mobile-seamless-integration-with-android-phones-and-tablets/"><u>Unlock the Power of ChatGPT on Mobile: Seamless Integration with Android Phones and Tablets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726225213776-wmaogg-movavi/"><u>オンラインで使いやすい WMA/Oggファイルの免費変換 - Movavi</u></a></li>
+</ul></div>
 

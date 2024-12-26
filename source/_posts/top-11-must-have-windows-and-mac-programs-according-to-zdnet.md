@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & Mac Programs According to ZDNet
-date: 2024-12-11T18:14:11.300Z
-updated: 2024-12-17T17:37:10.013Z
+date: 2024-12-23T20:30:34.946Z
+updated: 2024-12-26T03:41:53.522Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -33,10 +33,6 @@ A few of the entries on this list are genuine old-timers that I've been using on
 Of course, this selection reflects my work habits and my personal preferences. Your needs are probably different, so your list will undoubtedly be different from mine. I encourage you to share your favorite software in the comments section below.
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Productivity
 
@@ -61,7 +57,7 @@ Show less
 ## Tweeten
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It's TweetDeck on steroids
@@ -75,6 +71,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at OneNote](https://www.onenote.com/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OneNote
 
@@ -92,15 +92,7 @@ Show less
 
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adobe Acrobat Pro DC
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### From the inventor of the PDF standard
 
@@ -130,10 +122,14 @@ Show less
 
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Edge (Chromium)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
@@ -148,11 +144,11 @@ Show less
 
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
-## 1Password
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 1Password
 
 ### Everyone needs a password manager
 
@@ -168,10 +164,6 @@ Show less
 
 ## Workona
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The cleanest way to organize browser tabs
 
 My favorite solution for keeping browser tabs under control is a browser extension called Workona. (See my full review here: [Too many browser tabs? This impressive extension is my favorite solution.](https://www.zdnet.com/article/too-many-browser-tabs-this-favorite-extension-is-the-perfect-solution/)) It allows me to organize tabs into groups called workspaces, sync those saved workspaces across devices, share them with team members, and connect cloud-based productivity services for instant access. I use it on Microsoft Edge, but it's also available on Chrome and Firefox on all major desktop platforms, with versions for Safari (on MacOS and iOS) coming soon.
@@ -180,11 +172,19 @@ Because Workona is currently in preview, it's free. After it's officially releas
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Media
 
 Show less 
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Spotify Music
 
@@ -200,6 +200,10 @@ Show less
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VLC Media Player
 
 ### Free, open source, handles every format imaginable
@@ -211,10 +215,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MediaMonkey
 
@@ -256,20 +256,14 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-15-pioneering-online-education-websites-beyond-udemy/"><u>[New] 15 Pioneering Online Education Websites Beyond Udemy</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-beats-optimal-background-music-for-vids/"><u>[New] Unveiling Beats Optimal Background Music for Vids</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-effortless-steps-to-blur-distractions-in-google-meets-for-2024/"><u>[Updated] Effortless Steps to Blur Distractions in Google Meets for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ai-assisted-the-ultimate-list-of-podcast-title-makers-for-2024/"><u>AI-Assisted The Ultimate List of Podcast Title Makers for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-finest-in-ceiling-sound-technology/"><u>Discover the Finest In-Ceiling Sound Technology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-setting-up-your-new-echo-dot/"><u>Easy Steps: Setting Up Your New Echo Dot</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eight-tips-every-shopper-needs-to-know-before-committing-to-a-new-desktop-pc/"><u>Eight Tips Every Shopper Needs to Know Before Committing to a New Desktop PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-xiaomi-redmi-note-12-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Xiaomi Redmi Note 12 Pro 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-charge-a-guide-to-locating-ev-stations-with-google-maps/"><u>Navigating the Charge: A Guide to Locating EV Stations with Google Maps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/next-level-display-tech-comparing-neo-qled-to-oled-in-todays-market/"><u>Next-Level Display Tech: Comparing Neo QLED to OLED in Today's Market</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-the-missing-propsysdll-error-a-comprehensive-guide/"><u>Overcoming the Missing PropSys.DLL Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/strengthening-resilience-how-recent-issues-with-microsoft-highlight-the-importance-of-diversifying-government-technology-partners/"><u>Strengthening Resilience: How Recent Issues with Microsoft Highlight The Importance of Diversifying Government Technology Partners</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mp4-en-video-au-format-vob-gratuitement-en-ligne-movavi-guide/"><u>Toutes Les Étapes Pour Transformer Un Fichier MP4 en Vidéo Au Format VOB Gratuitement en Ligne - Movavi Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-computer-harness-the-true-potential-of-wintools/"><u>Transform Your Computer: Harness the True Potential of WinTools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-shared-links-in-openais-chatgpt/"><u>A Deep Dive Into Shared Links in OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bots-and-personal-data-spotting-the-top-3-privacy-dangers/"><u>Bots and Personal Data: Spotting the Top 3 Privacy Dangers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-walkthrough-restarting-windows-directly-into-safe-mode/"><u>Comprehensive Walkthrough: Restarting Windows Directly Into Safe Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-future-of-smartphones-with-samsungs-upcoming-galaxy-z-flip-eb-and-speculations-on-release-timing/"><u>Discover the Future of Smartphones with Samsung's Upcoming Galaxy Z Flip Eb and Speculations on Release Timing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-why-the-moto-gs-stylus-version-excels-performance-and-durable-battery-highlighted-in-our-review/"><u>Discover Why the Moto G's Stylus Version Excels: Performance and Durable Battery Highlighted in Our Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-ping-protocols-a-comprehensive-guide-to-website-response-times/"><u>Mastering Ping Protocols: A Comprehensive Guide to Website Response Times</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-crafting-the-ultimate-single-audio-track-from-varied-sources-for-video-use/"><u>New 2024 Approved Crafting the Ultimate Single Audio Track From Varied Sources for Video Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-pdhdll-not-found-issues/"><u>Step-by-Step Solutions for 'pdh.dll Not Found' Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-four-app-tools-every-house-painter-should-use/"><u>The Best Four App Tools Every House Painter Should Use</u></a></li>
 </ul></div>
 

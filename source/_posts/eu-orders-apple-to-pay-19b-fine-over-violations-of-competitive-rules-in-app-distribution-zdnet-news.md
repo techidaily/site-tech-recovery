@@ -1,7 +1,7 @@
 ---
 title: EU Orders Apple to Pay €1.9B Fine Over Violations of Competitive Rules in App Distribution | ZDNET News
-date: 2024-12-12T18:00:26.227Z
-updated: 2024-12-17T18:14:14.844Z
+date: 2024-12-24T01:30:16.281Z
+updated: 2024-12-25T19:22:32.460Z
 tags:
   - apple
 categories:
@@ -85,23 +85,28 @@ This fine is another notch in the EU's belt to level European competition among 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-aiming-high-selecting-the-best-webcams-for-live-gameplay-streams/"><u>[New] Aiming High Selecting the Best Webcams for Live Gameplay Streams</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-enhance-your-ig-visuals-with-three-effective-video-descriptions-for-2024/"><u>[New] Enhance Your IG Visuals with Three Effective Video Descriptions for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-crafting-precise-time-indicators-in-youtubes/"><u>[Updated] 2024 Approved Crafting Precise Time Indicators in YouTubes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-insiders-guide-to-facebook-live-with-360-degrees/"><u>[Updated] 2024 Approved The Insider's Guide to Facebook Live with 360 Degrees</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024-google-meet/"><u>2024 新版 Google Meet 錄影功能實用指南: 選擇最佳錄影技巧</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-metaverse-musings-with-a-twist-of-augmented-reality/"><u>2024 Approved Metaverse Musings with a Twist of Augmented Reality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726227571207-wavmp3/"><u>線上轉換WAV為MP3 - 快速高效免費編程服務</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-setup-guide-activating-movavi-on-your-mac-step-by-step-instructions/"><u>Easy Setup Guide: Activating Movavi on Your Mac - Step by Step Instructions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-handbook-windows-pc-for-capturing-live-tv-for-2024/"><u>Essential Handbook Windows PC for Capturing Live TV for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-note-50-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme Note 50 Phone Screen?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-gratis-conversion-von-flvvob-dateien-mit-movavi-kostenlose-konvertierung/"><u>Online Gratis Conversion Von FLV/VOB Dateien Mit Movavi - Kostenlose Konvertierung</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-the-coredll-is-absent-warning-message/"><u>Solutions for Resolving the 'Core.dll Is Absent' Warning Message</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-s18e-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo S18e Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-11-applicazioni-mac-per-masterizzare-i-disco-ottimizzate-per-la-scrittura-su-dvd/"><u>Top 11 Applicazioni Mac per Masterizzare I Disco Ottimizzate per La Scrittura Su DVD</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unleashing-potential-advanced-xbox-live-captures/"><u>[New] In 2024, Unleashing Potential Advanced Xbox Live Captures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-yogic-alchemy-transform-your-body-mind-and-spirit/"><u>[New] In 2024, Yogic Alchemy - Transform Your Body, Mind & Spirit</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-choosing-the-right-display-elevate-your-xbox-series-x-experience/"><u>[Updated] Choosing the Right Display - Elevate Your Xbox Series X Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iso3-t17260306967979/"><u>「プロ品質コンバート！フリー版ISO変換ソフトウェアベスト3選び方」</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-behind-the-scenes-of-online-content-monetization/"><u>2024 Approved Behind the Scenes of Online Content Monetization</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-7-apps-for-real-time-traffic-tracking-and-management/"><u>Best 7 Apps for Real-Time Traffic Tracking and Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-communication-with-these-top-8-second-phone-number-applications/"><u>Elevate Your Communication with These Top 8 Second Phone Number Applications</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-ordinary-to-epic-iphones-best-landscape-tricks-for-2024/"><u>From Ordinary to Epic IPhone's Best Landscape Tricks for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enable-cookies-in-your-browser/"><u>How to Enable Cookies in Your Browser</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-a-non-syncing-gmail-account-a-comprehensive-guide/"><u>How to Fix a Non-Syncing Gmail Account: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-online-video-compression-made-easy-10-best-tools/"><u>New In 2024, Free Online Video Compression Made Easy 10 Best Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roblox-connectivity-woes-an-outage-across-the-board-or-user-specific-bugs/"><u>Roblox Connectivity Woes: An Outage Across The Board, or User-Specific Bugs?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smart-strategies-integrating-advanced-ai-tools-in-instagram-marketing/"><u>Smart Strategies: Integrating Advanced AI Tools in Instagram Marketing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-take-if-your-instagram-profile-gets-disconnected/"><u>Steps to Take if Your Instagram Profile Gets Disconnected</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722858980730-the-ultimate-fix-strategies-to-address-the-notorious-hulu-rununk13-issue/"><u>The Ultimate Fix: Strategies to Address the Notorious Hulu RUNUNK13 Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-television-streaming-platforms-a-comprehensive-guide/"><u>Top 8 Television Streaming Platforms : A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tier-performance-an-in-depth-look-at-the-apc-gaming-uninterruptible-power-supply/"><u>Top-Tier Performance: An In-Depth Look at the APC Gaming Uninterruptible Power Supply</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-iconic-milestone-markers-for-viewership-for-2024/"><u>YouTube's Iconic Milestone Markers for Viewership for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
